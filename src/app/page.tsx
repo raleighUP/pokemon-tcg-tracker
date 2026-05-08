@@ -12,6 +12,9 @@ import MatchHistory from '@/components/MatchHistory'
 import { Deck, Match, CardEntry } from '@/types'
 
 export default function Home() {
+  const [activeTab, setActiveTab] = useState<
+  'decks' | 'compare' | 'matches' | 'history'
+>('decks')
   const [deckName, setDeckName] = useState('')
   const [decklist, setDecklist] = useState('')
 
@@ -253,54 +256,115 @@ const saveMatch = () => {
         <p className="text-slate-400 mb-8">
           Save decks, compare lists, and track tournament results.
         </p>
+<div className="pb-24">
+  {activeTab === 'decks' && (
+    <div className="space-y-6">
+      <AddDeckForm
+        deckName={deckName}
+        setDeckName={setDeckName}
+        decklist={decklist}
+        setDecklist={setDecklist}
+        addDeck={addDeck}
+        editingDeckId={editingDeckId}
+      />
 
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
-          
-          {/* LEFT COLUMN */}
-          <div className="space-y-6">
-<AddDeckForm
-  deckName={deckName}
-  setDeckName={setDeckName}
-  decklist={decklist}
-  setDecklist={setDecklist}
-  addDeck={addDeck}
-  editingDeckId={editingDeckId}
-/>
-<SavedDecks
-  decks={decks}
-  setSelectedDeck={setSelectedDeck}
-  editDeck={editDeck}
-  deleteDeck={deleteDeck}
-/>
-          </div>
-<CompareDecks
-  compareDeck1={compareDeck1}
-  setCompareDeck1={setCompareDeck1}
-  compareDeck2={compareDeck2}
-  setCompareDeck2={setCompareDeck2}
-  decks={decks}
-  changes={changes}
-/>
-<MatchLogger
-  selectedMatchDeck={selectedMatchDeck}
-  setSelectedMatchDeck={setSelectedMatchDeck}
-  opponentDeck={opponentDeck}
-  setOpponentDeck={setOpponentDeck}
-  format={format}
-  setFormat={setFormat}
-  decks={decks}
-  games={games}
-  toggleGameResult={toggleGameResult}
-  saveMatch={saveMatch}
-/>
-<MatchHistory matches={matches} />
-{/* RIGHT COLUMN */}
-<div>
-  <DeckViewer selectedDeck={selectedDeck} />
+      <SavedDecks
+        decks={decks}
+        setSelectedDeck={setSelectedDeck}
+        editDeck={editDeck}
+        deleteDeck={deleteDeck}
+      />
+
+      <DeckViewer selectedDeck={selectedDeck} />
+    </div>
+  )}
+
+  {activeTab === 'compare' && (
+    <CompareDecks
+      decks={decks}
+      compareDeck1={compareDeck1}
+      setCompareDeck1={setCompareDeck1}
+      compareDeck2={compareDeck2}
+      setCompareDeck2={setCompareDeck2}
+      changes={changes}
+    />
+  )}
+
+  {activeTab === 'matches' && (
+    <MatchLogger
+    eventName={eventName}
+    setEventName={setEventName}
+      decks={decks}
+      selectedMatchDeck={selectedMatchDeck}
+      setSelectedMatchDeck={setSelectedMatchDeck}
+      opponentDeck={opponentDeck}
+      setOpponentDeck={setOpponentDeck}
+      format={format}
+      setFormat={setFormat}
+      matchType={matchType}
+setMatchType={setMatchType}
+      games={games}
+      toggleGameResult={toggleGameResult}
+      saveMatch={saveMatch}
+    />
+  )}
+
+  {activeTab === 'history' && (
+    <MatchHistory matches={matches} />
+  )}
 </div>
 
-        </div>
-      </div>
-    </main>
-  )
+</div>
+
+    <div className="fixed bottom-0 left-0 right-0 bg-slate-900 border-t border-slate-800">
+  <div className="max-w-6xl mx-auto grid grid-cols-4">
+    
+    <button
+      onClick={() => setActiveTab('decks')}
+      className={`py-4 font-semibold ${
+        activeTab === 'decks'
+          ? 'text-yellow-400'
+          : 'text-slate-400'
+      }`}
+    >
+      Decks
+    </button>
+
+    <button
+      onClick={() => setActiveTab('compare')}
+      className={`py-4 font-semibold ${
+        activeTab === 'compare'
+          ? 'text-yellow-400'
+          : 'text-slate-400'
+      }`}
+    >
+      Compare
+    </button>
+
+    <button
+      onClick={() => setActiveTab('matches')}
+      className={`py-4 font-semibold ${
+        activeTab === 'matches'
+          ? 'text-yellow-400'
+          : 'text-slate-400'
+      }`}
+    >
+      Matches
+    </button>
+
+    <button
+      onClick={() => setActiveTab('history')}
+      className={`py-4 font-semibold ${
+        activeTab === 'history'
+          ? 'text-yellow-400'
+          : 'text-slate-400'
+      }`}
+    >
+      History
+    </button>
+
+  </div>
+</div>
+</main>
+    )
 }

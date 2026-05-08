@@ -1,6 +1,8 @@
 import { Deck } from '@/types'
 
 type Props = {
+ eventName: string
+setEventName: (value: string) => void
   selectedMatchDeck: string
   setSelectedMatchDeck: (value: string) => void
 
@@ -17,15 +19,21 @@ type Props = {
   toggleGameResult: (result: string) => void
 
   saveMatch: () => void
+  matchType: 'BO1' | 'BO3'
+setMatchType: (value: 'BO1' | 'BO3') => void
 }
 
 export default function MatchLogger({
+  eventName,
+  setEventName,
   selectedMatchDeck,
   setSelectedMatchDeck,
   opponentDeck,
   setOpponentDeck,
   format,
   setFormat,
+  matchType,
+setMatchType,
   decks,
   games,
   toggleGameResult,
@@ -37,9 +45,38 @@ export default function MatchLogger({
         Log Match
       </h2>
 
-      <div className="space-y-4">
+     <div className="space-y-4">
 
-        <select
+  <input
+    type="text"
+    value={eventName}
+    onChange={(e) => setEventName(e.target.value)}
+    placeholder="Event Name"
+    className="w-full bg-slate-800 border border-slate-700 rounded-xl px-4 py-3"
+  />
+  <select
+  value={format}
+  onChange={(e) => setFormat(e.target.value)}
+  className="w-full bg-slate-800 border border-slate-700 rounded-xl px-4 py-3"
+>
+  <option value="Perfect Order">
+    Perfect Order
+  </option>
+
+  <option value="Standard">
+    Standard
+  </option>
+
+  <option value="Expanded">
+    Expanded
+  </option>
+
+  <option value="Gym Leader Challenge">
+    Gym Leader Challenge
+  </option>
+</select>
+
+  <select
           value={selectedMatchDeck}
           onChange={(e) =>
             setSelectedMatchDeck(e.target.value)
@@ -64,15 +101,35 @@ export default function MatchLogger({
           placeholder="Opponent Deck"
           className="w-full bg-slate-800 border border-slate-700 rounded-xl px-4 py-3"
         />
+<div>
+  <p className="mb-2 text-slate-300">
+    Match Type
+  </p>
 
-        <input
-          type="text"
-          value={format}
-          onChange={(e) => setFormat(e.target.value)}
-          placeholder="Format"
-          className="w-full bg-slate-800 border border-slate-700 rounded-xl px-4 py-3"
-        />
+  <div className="flex gap-2">
+    <button
+      onClick={() => setMatchType('BO1')}
+      className={`flex-1 py-2 rounded-lg font-semibold ${
+        matchType === 'BO1'
+          ? 'bg-yellow-400 text-black'
+          : 'bg-slate-700 text-white'
+      }`}
+    >
+      Best of 1
+    </button>
 
+    <button
+      onClick={() => setMatchType('BO3')}
+      className={`flex-1 py-2 rounded-lg font-semibold ${
+        matchType === 'BO3'
+          ? 'bg-yellow-400 text-black'
+          : 'bg-slate-700 text-white'
+      }`}
+    >
+      Best of 3
+    </button>
+  </div>
+</div>
         <div>
           <p className="mb-2 text-slate-300">
             Add Game Results
@@ -92,29 +149,53 @@ export default function MatchLogger({
             >
               Loss
             </button>
+            <button
+  onClick={() => toggleGameResult('T')}
+  className="bg-yellow-400 hover:bg-yellow-500 text-black px-4 py-2 rounded-lg font-semibold"
+>
+  Tie
+</button>
           </div>
         </div>
 
-        <div className="bg-slate-800 rounded-xl p-4">
-          <p className="text-slate-300 mb-2">
-            Current Match:
-          </p>
+<div className="bg-slate-800 rounded-xl p-4">
+  <p className="text-slate-300 mb-3">
+    Current Match
+  </p>
 
-          <div className="flex gap-2">
-            {games.map((game, index) => (
-              <div
-                key={index}
-                className={`px-3 py-1 rounded-lg font-semibold ${
-                  game === 'W'
-                    ? 'bg-green-500'
-                    : 'bg-red-500'
-                }`}
-              >
-                {game}
-              </div>
-            ))}
-          </div>
+  <div className="space-y-2">
+    {Array.from({
+      length: matchType === 'BO1' ? 1 : 3,
+    }).map((_, index) => {
+      const result = games[index]
+
+      return (
+        <div
+          key={index}
+          className="flex items-center justify-between bg-slate-700 rounded-lg px-4 py-2"
+        >
+          <span className="font-medium">
+            Game {index + 1}
+          </span>
+
+          <span
+            className={`font-bold ${
+              result === 'W'
+                ? 'text-green-400'
+                : result === 'L'
+                ? 'text-red-400'
+                : result === 'T'
+                ? 'text-yellow-400'
+                : 'text-slate-500'
+            }`}
+          >
+            {result || '-'}
+          </span>
         </div>
+      )
+    })}
+  </div>
+</div>
 
         <button
           onClick={saveMatch}
