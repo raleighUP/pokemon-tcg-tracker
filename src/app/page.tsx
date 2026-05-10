@@ -24,22 +24,44 @@ export default function Home() {
   const [editingDeckId, setEditingDeckId] = useState<number | null>(null)
   const [matches, setMatches] = useState<Match[]>([])
 
+  const [editingMatch, setEditingMatch] =
+  useState<Match | null>(null)
+
+  const [editingEvent, setEditingEvent] =
+  useState<string | null>(null)
+
 const [eventName, setEventName] = useState('')
 
 const [selectedMatchDeck, setSelectedMatchDeck] = useState('')
 
 const [opponentDeck, setOpponentDeck] = useState('')
 
-const [format, setFormat] = useState('Journey Together')
+const [format, setFormat] = useState('')
 
 const [matchType, setMatchType] =
   useState<'BO1' | 'BO3'>('BO3')
 
 const [games, setGames] = useState<string[]>([])
+const [currentRound, setCurrentRound] = useState(1)
+
+const [saveSuccess, setSaveSuccess] =
+  useState(false)
 
 const [notes, setNotes] = useState('')
   const [compareDeck1, setCompareDeck1] = useState('')
   const [compareDeck2, setCompareDeck2] = useState('')
+
+  const [roundError, setRoundError] = useState(false)
+  const isRoundValid =
+  editingMatch &&
+  editingMatch.round !== undefined &&
+  editingMatch.round !== null &&
+  editingMatch.round > 0
+
+const isFormValid =
+  isRoundValid &&
+  editingMatch?.opponentDeck?.trim() !== ''
+
   const parseDeck = (deckName: string): CardEntry[] => {
   const deck = decks.find((d) => d.name === deckName)
 
@@ -205,16 +227,115 @@ const deleteDeck = (id: number) => {
 }
 
 const toggleGameResult = (result: string) => {
-  if (games.length >= (matchType === 'BO1' ? 1 : 3)) {
+  // BO1 = always replace current result
+  if (matchType === 'BO1') {
+    setGames([result])
     return
   }
 
+  // BO3 behavior
+  if (games.length >= 3) return
+
   setGames([...games, result])
+}
+const clearGames = () => {
+  setGames([])
+}
+const clearCurrentMatch = () => {
+  setOpponentDeck('')
+  setGames([])
+  setNotes('')
+}
+const startNewEvent = () => {
+  setCurrentRound(1)
+
+  setGames([])
+  setOpponentDeck('')
+  setNotes('')
+}
+const nextRound = () => {
+  // GET ALL ROUNDS FOR CURRENT EVENT
+  const eventRounds = matches
+    .filter(
+      (match) =>
+        match.eventName === eventName
+    )
+    .map((match) => match.round)
+
+  // FIND FIRST MISSING ROUND NUMBER
+  let nextAvailableRound = 1
+
+  while (
+    eventRounds.includes(
+      nextAvailableRound
+    )
+  ) {
+    nextAvailableRound++
+  }
+
+  setCurrentRound(nextAvailableRound)
+
+  setGames([])
+  setOpponentDeck('')
+  setNotes('')
+}
+const clearEvent = () => {
+  setCurrentRound(1)
+
+  setEventName('')
+  setSelectedMatchDeck('')
+  setOpponentDeck('')
+  setGames([])
+  setNotes('')
+}
+const deleteMatch = (id: number) => {
+  setMatches(matches.filter((m) => m.id !== id))
+}
+
+const deleteEvent = (eventName: string) => {
+  setMatches(
+    matches.filter(
+      (m) => m.eventName !== eventName
+    )
+  )
+}
+const editMatch = (updatedMatch: Match) => {
+  setMatches(
+    matches.map((match) =>
+      match.id === updatedMatch.id
+        ? updatedMatch
+        : match
+    )
+  )
+}
+
+const editEvent = (
+  oldEventName: string,
+  updatedData: {
+    eventName: string
+    format: string
+    deck: string
+  }
+) => {
+  setMatches(
+    matches.map((match) =>
+      match.eventName === oldEventName
+        ? {
+            ...match,
+            eventName:
+              updatedData.eventName,
+            format: updatedData.format,
+            deck: updatedData.deck,
+          }
+        : match
+    )
+  )
 }
 
 const saveMatch = () => {
   if (
     !eventName ||
+    !format ||
     !selectedMatchDeck ||
     !opponentDeck ||
     games.length === 0
@@ -230,6 +351,7 @@ const saveMatch = () => {
   const newMatch: Match = {
     id: Date.now(),
     eventName,
+    round: currentRound,
     format,
     deck: selectedMatchDeck,
     opponentDeck,
@@ -240,22 +362,23 @@ const saveMatch = () => {
   }
 
   setMatches([...matches, newMatch])
+  setSaveSuccess(true)
 
-  setEventName('')
-  setOpponentDeck('')
-  setGames([])
-  setNotes('')
+if (navigator.vibrate) {
+  navigator.vibrate(100)
+}
+
+setTimeout(() => {
+  setSaveSuccess(false)
+}, 2000)
+
+setOpponentDeck('')
+setGames([])
+setNotes('')
 }
   return (
     <main className="min-h-screen bg-slate-950 text-white p-6">
       <div className="max-w-6xl mx-auto">
-        <h1 className="text-4xl font-bold mb-2">
-          Pokémon TCG Tournament Tracker
-        </h1>
-
-        <p className="text-slate-400 mb-8">
-          Save decks, compare lists, and track tournament results.
-        </p>
 <div className="pb-24">
   {activeTab === 'decks' && (
     <div className="space-y-6">
@@ -292,25 +415,51 @@ const saveMatch = () => {
 
   {activeTab === 'matches' && (
     <MatchLogger
-    eventName={eventName}
-    setEventName={setEventName}
-      decks={decks}
-      selectedMatchDeck={selectedMatchDeck}
-      setSelectedMatchDeck={setSelectedMatchDeck}
-      opponentDeck={opponentDeck}
-      setOpponentDeck={setOpponentDeck}
-      format={format}
-      setFormat={setFormat}
-      matchType={matchType}
-setMatchType={setMatchType}
-      games={games}
-      toggleGameResult={toggleGameResult}
-      saveMatch={saveMatch}
-    />
+  eventName={eventName}
+  setEventName={setEventName}
+
+  decks={decks}
+
+  selectedMatchDeck={selectedMatchDeck}
+  setSelectedMatchDeck={setSelectedMatchDeck}
+
+  opponentDeck={opponentDeck}
+  setOpponentDeck={setOpponentDeck}
+
+  format={format}
+  setFormat={setFormat}
+
+  matchType={matchType}
+  setMatchType={setMatchType}
+
+  games={games}
+
+  toggleGameResult={toggleGameResult}
+  clearGames={clearGames}
+
+  saveMatch={saveMatch}
+  clearCurrentMatch={clearCurrentMatch}
+
+  startNewEvent={startNewEvent}
+  nextRound={nextRound}
+  clearEvent={clearEvent}
+  saveSuccess={saveSuccess}
+/>
   )}
 
   {activeTab === 'history' && (
-    <MatchHistory matches={matches} />
+    <MatchHistory
+  matches={matches}
+  deleteMatch={deleteMatch}
+  deleteEvent={deleteEvent}
+  editMatch={editMatch}
+  editEvent={editEvent}
+  editingMatch={editingMatch}
+  setEditingMatch={setEditingMatch}
+  editingEvent={editingEvent}
+  setEditingEvent={setEditingEvent}
+  decks={decks}
+/>
   )}
 </div>
 

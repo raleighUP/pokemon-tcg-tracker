@@ -7,6 +7,7 @@ export type Deck = {
 export type Match = {
   id: number
   eventName: string
+  round: number
   format: string
   deck: string
   opponentDeck: string
@@ -14,6 +15,7 @@ export type Match = {
   games: string[]
   finalResult: string
   notes: string
+  
 }
 
 export type CardEntry = {
