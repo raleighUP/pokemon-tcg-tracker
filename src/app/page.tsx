@@ -379,6 +379,7 @@ setNotes('')
   return (
     <main className="min-h-screen bg-slate-950 text-white p-6">
       <div className="max-w-6xl mx-auto">
+      
 <div className="pb-24">
   {activeTab === 'decks' && (
     <div className="space-y-6">
