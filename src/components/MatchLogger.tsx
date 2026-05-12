@@ -28,6 +28,8 @@ type Props = {
   nextRound: () => void
   clearEvent: () => void
   clearCurrentMatch: () => void
+  notes: string
+setNotes: (value: string) => void
 roundSuccess: boolean
 eventSuccess: boolean
 clearSuccess: boolean
@@ -58,6 +60,8 @@ export default function MatchLogger({
 roundSuccess,
 eventSuccess,
 clearSuccess,
+notes,
+setNotes,
 }: Props) {
   return (
     <div className="bg-slate-900 border border-slate-800 rounded-2xl p-6">
@@ -253,7 +257,19 @@ clearSuccess,
             })}
           </div>
         </div>
+{/* NOTES */}
+<textarea
+  value={notes}
+  onChange={(e) => {
+    setNotes(e.target.value)
 
+    e.target.style.height = 'auto'
+    e.target.style.height = `${e.target.scrollHeight}px`
+  }}
+  placeholder="Match Notes (optional)"
+  rows={1}
+  className="w-full bg-slate-800 border border-slate-700 rounded-xl px-4 py-3 outline-none focus:border-yellow-400 resize-none overflow-hidden transition-all duration-200"
+/>
         {/* ACTIONS */}
         <div className="grid grid-cols-2 gap-2">
           <button

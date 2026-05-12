@@ -486,6 +486,8 @@ setNotes('')
   roundSuccess={roundSuccess}
 eventSuccess={eventSuccess}
 clearSuccess={clearSuccess}
+notes={notes}
+setNotes={setNotes}
 />
   )}
 

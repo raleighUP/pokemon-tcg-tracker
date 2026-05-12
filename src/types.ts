@@ -14,7 +14,7 @@ export type Match = {
   matchType: 'BO1' | 'BO3'
   games: string[]
   finalResult: string
-  notes: string
+  notes?: string
   
 }
 

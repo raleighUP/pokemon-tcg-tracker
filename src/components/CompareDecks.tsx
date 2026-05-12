@@ -79,46 +79,46 @@ return (
 
     {/* DIFFERENCES PANEL */}
     <div className="bg-slate-900 border border-slate-800 rounded-2xl p-6 flex-1 overflow-hidden">
-      <h2 className="text-2xl font-bold mb-4">
-        Deck Differences
-      </h2>
+  <h2 className="text-2xl font-bold mb-4">
+    Deck Differences
+  </h2>
 
-      <div className="h-full overflow-y-auto pr-2 space-y-2">
-        {changes.length === 0 ? (
-          <p className="text-slate-400">
-            No differences found.
+  <div className="h-[calc(100vh-400px)] overflow-y-auto pr-2 space-y-2">
+    {changes.length === 0 ? (
+      <p className="text-slate-400">
+        No differences found.
+      </p>
+    ) : (
+      changes.map((change) => (
+        <div
+          key={change.cardName}
+          className="bg-slate-800 rounded-xl px-4 py-3 flex justify-between items-center"
+        >
+          <div>
+            <p className="font-semibold">
+              {change.cardName}
+            </p>
+
+            <p className="text-sm text-slate-400">
+              {change.oldQty} → {change.newQty}
+            </p>
+          </div>
+
+          <p
+            className={`font-bold ${
+              change.diff > 0
+                ? 'text-green-400'
+                : 'text-red-400'
+            }`}
+          >
+            {change.diff > 0
+              ? `+${change.diff}`
+              : change.diff}
           </p>
-        ) : (
-          changes.map((change) => (
-            <div
-              key={change.cardName}
-              className="bg-slate-800 rounded-xl px-4 py-3 flex justify-between items-center"
-            >
-              <div>
-                <p className="font-semibold">
-                  {change.cardName}
-                </p>
-
-                <p className="text-sm text-slate-400">
-                  {change.oldQty} → {change.newQty}
-                </p>
-              </div>
-
-              <p
-                className={`font-bold ${
-                  change.diff > 0
-                    ? 'text-green-400'
-                    : 'text-red-400'
-                }`}
-              >
-                {change.diff > 0
-                  ? `+${change.diff}`
-                  : change.diff}
-              </p>
-            </div>
-          ))
-        )}
-      </div>
-    </div>
+        </div>
+      ))
+    )}
+  </div>
+</div>
   </div>
 ) }
