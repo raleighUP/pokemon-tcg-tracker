@@ -28,7 +28,9 @@ type Props = {
   nextRound: () => void
   clearEvent: () => void
   clearCurrentMatch: () => void
-
+roundSuccess: boolean
+eventSuccess: boolean
+clearSuccess: boolean
   saveSuccess: boolean
 }
 
@@ -53,20 +55,46 @@ export default function MatchLogger({
   nextRound,
   clearEvent,
   saveSuccess,
+roundSuccess,
+eventSuccess,
+clearSuccess,
 }: Props) {
   return (
     <div className="bg-slate-900 border border-slate-800 rounded-2xl p-6">
-      <div className="relative mb-4">
-  <h2 className="text-2xl font-semibold">
+     <div className="relative mb-4">
+  <h2 className="text-2xl font-bold mb-4">
     Log Match
   </h2>
 
   {saveSuccess && (
-    <div className="absolute top-0 right-0 bg-green-500/20 border border-green-500 text-green-300 px-3 py-1 rounded-lg text-sm font-semibold animate-pulse">
-      Saved ✓
+    <div className="absolute top-0 right-0 bg-green-500/20 border border-green-500 text-green-300 px-3 py-1 rounded-lg text-sm font-semibold animate-pulse pointer-events-none">
+      Match Saved ✓
     </div>
   )}
-</div>
+
+  {!saveSuccess && roundSuccess && (
+    <div className="absolute top-0 right-0 bg-purple-500/20 border border-purple-500 text-purple-300 px-3 py-1 rounded-lg text-sm font-semibold animate-pulse pointer-events-none">
+      Next Round →
+    </div>
+  )}
+
+  {!saveSuccess &&
+    !roundSuccess &&
+    eventSuccess && (
+      <div className="absolute top-0 right-0 bg-blue-500/20 border border-blue-500 text-blue-300 px-3 py-1 rounded-lg text-sm font-semibold animate-pulse pointer-events-none">
+        New Event ✓
+      </div>
+    )}
+
+  {!saveSuccess &&
+    !roundSuccess &&
+    !eventSuccess &&
+    clearSuccess && (
+      <div className="absolute top-0 right-0 bg-red-500/20 border border-red-500 text-red-300 px-3 py-1 rounded-lg text-sm font-semibold animate-pulse pointer-events-none">
+        Match Cleared ✕
+      </div>
+    )}
+</div> 
 
       <div className="space-y-4">
 
@@ -81,7 +109,7 @@ export default function MatchLogger({
             className="w-full bg-slate-800 border border-slate-700 rounded-xl px-4 py-3"
           />
 
-          <div className="grid grid-cols-3 gap-2">
+          <div className="grid grid-cols-2 gap-2">
             <button
               onClick={startNewEvent}
               className="bg-blue-500 hover:bg-blue-600 py-2 rounded-lg font-semibold"
@@ -94,13 +122,6 @@ export default function MatchLogger({
               className="bg-purple-500 hover:bg-purple-600 py-2 rounded-lg font-semibold"
             >
               Next Round
-            </button>
-
-            <button
-              onClick={clearEvent}
-              className="bg-slate-700 hover:bg-slate-600 py-2 rounded-lg font-semibold"
-            >
-              Clear
             </button>
           </div>
         </div>
@@ -143,14 +164,13 @@ export default function MatchLogger({
 
         {/* MATCH TYPE */}
         <div>
-          <p className="mb-2 text-slate-300">Match Type</p>
 
           <div className="flex gap-2">
             <button
               onClick={() => setMatchType('BO1')}
               className={`flex-1 py-2 rounded-lg font-semibold ${
                 matchType === 'BO1'
-                  ? 'bg-yellow-400 text-black'
+                  ? 'bg-blue-500 text-white'
                   : 'bg-slate-700 text-white'
               }`}
             >
@@ -161,7 +181,7 @@ export default function MatchLogger({
               onClick={() => setMatchType('BO3')}
               className={`flex-1 py-2 rounded-lg font-semibold ${
                 matchType === 'BO3'
-                  ? 'bg-yellow-400 text-black'
+                  ? 'bg-blue-500 text-white'
                   : 'bg-slate-700 text-white'
               }`}
             >
@@ -172,11 +192,8 @@ export default function MatchLogger({
 
         {/* GAME INPUTS */}
         <div>
-          <p className="mb-2 text-slate-300">
-            Add Game Results
-          </p>
 
-          <div className="flex gap-2">
+          <div className="grid grid-cols-3 gap-2">
             <button
               onClick={() => toggleGameResult('W')}
               className="bg-green-500 hover:bg-green-600 px-4 py-2 rounded-lg font-semibold"
@@ -202,9 +219,6 @@ export default function MatchLogger({
 
         {/* CURRENT MATCH */}
         <div className="bg-slate-800 rounded-xl p-4">
-          <p className="text-slate-300 mb-3">
-            Current Match
-          </p>
 
           <div className="space-y-2">
             {Array.from({
@@ -238,16 +252,6 @@ export default function MatchLogger({
               )
             })}
           </div>
-
-          {/* CLEAR BUTTON (FIXED POSITION) */}
-          {matchType === 'BO3' && (
-            <button
-              onClick={clearGames}
-              className="mt-3 bg-slate-600 hover:bg-slate-500 px-4 py-2 rounded-lg font-semibold"
-            >
-              Clear Games
-            </button>
-          )}
         </div>
 
         {/* ACTIONS */}
@@ -259,12 +263,12 @@ export default function MatchLogger({
             Clear Match
           </button>
 
-          <button
-            onClick={saveMatch}
-            className="bg-yellow-400 text-black font-semibold py-3 rounded-xl hover:scale-[1.02] transition"
-          >
-            Save Match
-          </button>
+         <button
+  onClick={saveMatch}
+  className="bg-purple-500 hover:bg-purple-600 text-white font-semibold py-3 rounded-xl hover:scale-[1.02] transition"
+>
+  Save Match
+</button> 
         </div>
       </div>
     </div>

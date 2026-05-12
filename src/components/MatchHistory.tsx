@@ -55,7 +55,7 @@ export default function MatchHistory({
   if (matches.length === 0) {
     return (
       <div className="bg-slate-900 border border-slate-800 rounded-2xl p-6">
-        <h2 className="text-2xl font-semibold mb-4">
+        <h2 className="text-2xl font-bold mb-4">
           Match History
         </h2>
         <p className="text-slate-400">No matches logged yet.</p>
@@ -75,7 +75,7 @@ export default function MatchHistory({
 
   return (
     <div className="bg-slate-900 border border-slate-800 rounded-2xl p-6">
-      <h2 className="text-2xl font-semibold mb-4">Match History</h2>
+      <h2 className="text-2xl font-bold mb-4">Match History</h2>
 
       <div className="space-y-6">
         {Object.entries(groupedMatches)
@@ -108,27 +108,148 @@ export default function MatchHistory({
                 className="bg-slate-800 rounded-2xl p-5 border border-slate-700"
               >
                 {/* HEADER */}
-                <div className="grid grid-cols-2 gap-4 mb-4">
-                  <div>
-                    <h3 className="text-xl font-bold text-yellow-400">
-                      {eventName}
-                    </h3>
+{editingEvent === eventName ? (
+  <div className="bg-slate-900 rounded-xl p-4 mb-4 border border-slate-700 space-y-3">
+    <input
+      type="text"
+      defaultValue={eventName}
+      id={`event-name-${eventName}`}
+      className="w-full bg-slate-800 border border-slate-700 rounded-xl px-4 py-3"
+      placeholder="Event Name"
+    />
 
-                    <p className="text-lg font-bold text-green-400 mt-1">
-                      {totalWins}-{totalLosses}
-                      {totalTies > 0 && `-${totalTies}`}
-                    </p>
-                  </div>
+    <input
+      type="text"
+      defaultValue={sortedMatches[0]?.format}
+      id={`event-format-${eventName}`}
+      className="w-full bg-slate-800 border border-slate-700 rounded-xl px-4 py-3"
+      placeholder="Format"
+    />
 
-                  <div className="text-right">
-                    <p className="font-bold text-lg">
-                      {sortedMatches[0]?.deck}
-                    </p>
-                    <p className="text-slate-400 text-sm">
-                      {sortedMatches[0]?.format}
-                    </p>
-                  </div>
-                </div>
+    <select
+      defaultValue={sortedMatches[0]?.deck}
+      id={`event-deck-${eventName}`}
+      className="w-full bg-slate-800 border border-slate-700 rounded-xl px-4 py-3"
+    >
+      {decks.map((deck) => (
+        <option key={deck.id} value={deck.name}>
+          {deck.name}
+        </option>
+      ))}
+    </select>
+
+    <div className="flex gap-2">
+      <button
+        onClick={() => {
+          const updatedEventName = (
+            document.getElementById(
+              `event-name-${eventName}`
+            ) as HTMLInputElement
+          ).value
+
+          const updatedFormat = (
+            document.getElementById(
+              `event-format-${eventName}`
+            ) as HTMLInputElement
+          ).value
+
+          const updatedDeck = (
+            document.getElementById(
+              `event-deck-${eventName}`
+            ) as HTMLSelectElement
+          ).value
+
+          editEvent(eventName, {
+            eventName: updatedEventName,
+            format: updatedFormat,
+            deck: updatedDeck,
+          })
+
+          setEditingEvent(null)
+        }}
+        className="flex-1 bg-green-500 hover:bg-green-600 py-3 rounded-xl font-semibold transition"
+      >
+        Save Event
+      </button>
+
+      <button
+        onClick={() => setEditingEvent(null)}
+        className="flex-1 bg-slate-700 hover:bg-slate-600 py-3 rounded-xl font-semibold transition"
+      >
+        Cancel
+      </button>
+    </div>
+  </div>
+) : (
+  <div className="grid grid-cols-2 gap-4 mb-4">
+    {/* LEFT */}
+    <div>
+      <h3 className="text-xl font-bold text-yellow-400">
+        {eventName}
+      </h3>
+
+      <p className="text-lg font-bold text-green-400 mt-1">
+        {totalWins}-{totalLosses}
+        {totalTies > 0 && `-${totalTies}`}
+      </p>
+    </div>
+
+    {/* RIGHT */}
+    <div className="text-right">
+      <div className="flex items-center justify-end gap-2">
+        <div>
+          <p className="font-bold text-lg">
+            {sortedMatches[0]?.deck}
+          </p>
+
+          <p className="text-slate-400 text-sm">
+            {sortedMatches[0]?.format}
+          </p>
+        </div>
+
+        {/* EVENT MENU */}
+        <div className="relative">
+          <button
+            onClick={() =>
+              setOpenMenuId(
+                openMenuId === -sortedMatches[0].id
+                  ? null
+                  : -sortedMatches[0].id
+              )
+            }
+            className="text-slate-400 hover:text-white text-lg font-bold px-2 transition"
+          >
+            ⋮
+          </button>
+
+          {openMenuId === -sortedMatches[0].id && (
+            <div className="absolute right-0 mt-2 w-40 bg-slate-800 border border-slate-700 rounded-xl shadow-xl z-20 overflow-hidden animate-in fade-in zoom-in-95 duration-100">
+              <button
+                onClick={() => {
+                  setEditingEvent(eventName)
+                  setOpenMenuId(null)
+                }}
+                className="w-full text-left px-4 py-3 hover:bg-slate-700 text-sm transition"
+              >
+                Edit Event
+              </button>
+
+              <button
+                onClick={() => {
+                  deleteEvent(eventName)
+                  setOpenMenuId(null)
+                }}
+                className="w-full text-left px-4 py-3 hover:bg-slate-700 text-red-400 text-sm transition"
+              >
+                Delete Event
+              </button>
+            </div>
+          )}
+        </div>
+      </div>
+    </div>
+  </div>
+)}
 
                 {/* ROUNDS */}
                 <div className="space-y-4">
@@ -277,21 +398,70 @@ export default function MatchHistory({
                             </div>
                           </div>
                         ) : (
-                          <div className="flex justify-between">
-                            <div>
-                              <p className="text-blue-400 font-semibold">
-                                Round {match.round}
-                              </p>
-                              <p className="text-white">
-                                vs {match.opponentDeck}
-                              </p>
-                            </div>
+                         <div className="flex justify-between items-start">
+  <div>
+    <p className="text-blue-400 font-semibold">
+      Round {match.round}
+    </p>
 
-                            <p className="text-yellow-400 font-bold">
-                              {runningWins}-{runningLosses}
-                              {runningTies > 0 && `-${runningTies}`}
-                            </p>
-                          </div>
+    <p className="text-white font-semibold mt-1">
+      vs {match.opponentDeck}
+    </p>
+  </div>
+
+  <div className="text-right">
+    <div className="flex items-center gap-2 justify-end">
+      <p className="text-yellow-400 font-bold">
+        {runningWins}-{runningLosses}
+        {runningTies > 0 && `-${runningTies}`}
+      </p>
+
+      {/* ROUND MENU */}
+      <div className="relative">
+        <button
+          onClick={() =>
+            setOpenMenuId(
+              openMenuId === match.id
+                ? null
+                : match.id
+            )
+          }
+          className="text-slate-400 hover:text-white text-lg font-bold px-2 transition"
+        >
+          ⋮
+        </button>
+
+        {openMenuId === match.id && (
+          <div className="absolute right-0 mt-2 w-40 bg-slate-800 border border-slate-700 rounded-xl shadow-xl z-20 overflow-hidden animate-in fade-in zoom-in-95 duration-100">
+            <button
+              onClick={() => {
+                setEditingMatch(match)
+                setOpenMenuId(null)
+              }}
+              className="w-full text-left px-4 py-3 hover:bg-slate-700 text-sm transition"
+            >
+              Edit Round
+            </button>
+
+            <button
+              onClick={() => {
+                deleteMatch(match.id)
+                setOpenMenuId(null)
+              }}
+              className="w-full text-left px-4 py-3 hover:bg-slate-700 text-red-400 text-sm transition"
+            >
+              Delete Round
+            </button>
+          </div>
+        )}
+      </div>
+    </div>
+
+    <p className="text-slate-400 text-sm mt-1">
+      {match.matchType}
+    </p>
+  </div>
+</div> 
                         )}
                       </div>
                     )

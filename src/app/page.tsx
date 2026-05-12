@@ -47,6 +47,15 @@ const [currentRound, setCurrentRound] = useState(1)
 const [saveSuccess, setSaveSuccess] =
   useState(false)
 
+const [roundSuccess, setRoundSuccess] =
+  useState(false)
+
+const [eventSuccess, setEventSuccess] =
+  useState(false)
+
+  const [clearSuccess, setClearSuccess] =
+  useState(false)
+
 const [notes, setNotes] = useState('')
   const [compareDeck1, setCompareDeck1] = useState('')
   const [compareDeck2, setCompareDeck2] = useState('')
@@ -244,16 +253,44 @@ const clearGames = () => {
 const clearCurrentMatch = () => {
   setOpponentDeck('')
   setGames([])
-  setNotes('')
+
+  setClearSuccess(true)
+
+  setTimeout(() => {
+    setClearSuccess(false)
+  }, 1500)
+
+  if (navigator.vibrate) {
+    navigator.vibrate(40)
+  }
 }
 const startNewEvent = () => {
+  setEventName('')
+  setFormat('')
+  setSelectedMatchDeck('')
+  setOpponentDeck('')
+  setGames([])
+
   setCurrentRound(1)
 
-  setGames([])
-  setOpponentDeck('')
-  setNotes('')
+  setEventSuccess(true)
+
+  setTimeout(() => {
+    setEventSuccess(false)
+  }, 1500)
+
+  if (navigator.vibrate) {
+    navigator.vibrate([40, 30, 40])
+  }
 }
 const nextRound = () => {
+    setCurrentRound((prev) => prev + 1)
+
+  setRoundSuccess(true)
+
+  setTimeout(() => {
+    setRoundSuccess(false)
+  }, 1500)
   // GET ALL ROUNDS FOR CURRENT EVENT
   const eventRounds = matches
     .filter(
@@ -393,11 +430,12 @@ setNotes('')
       />
 
       <SavedDecks
-        decks={decks}
-        setSelectedDeck={setSelectedDeck}
-        editDeck={editDeck}
-        deleteDeck={deleteDeck}
-      />
+  decks={decks}
+  selectedDeck={selectedDeck}
+  setSelectedDeck={setSelectedDeck}
+  editDeck={editDeck}
+  deleteDeck={deleteDeck}
+/>
 
       <DeckViewer selectedDeck={selectedDeck} />
     </div>
@@ -445,6 +483,9 @@ setNotes('')
   nextRound={nextRound}
   clearEvent={clearEvent}
   saveSuccess={saveSuccess}
+  roundSuccess={roundSuccess}
+eventSuccess={eventSuccess}
+clearSuccess={clearSuccess}
 />
   )}
 

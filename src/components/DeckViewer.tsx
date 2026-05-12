@@ -9,7 +9,7 @@ export default function DeckViewer({
 }: Props) {
   return (
     <div className="bg-slate-900 border border-slate-800 rounded-2xl p-6 h-full">
-      <h2 className="text-2xl font-semibold mb-4">
+      <h2 className="text-2xl font-bold mb-4">
         Deck Viewer
       </h2>
 
