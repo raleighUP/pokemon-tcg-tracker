@@ -231,40 +231,39 @@ export default function MatchHistory({
                             ⋮
                           </button>
 
-                          {openMenuId ===
-                            -sortedMatches[0].id && (
-                            <div className="absolute right-0 top-10 w-40 bg-slate-800 border border-slate-700 rounded-xl shadow-xl z-20 overflow-hidden">
-                              <button
-                                onClick={() => {
-                                  setEditingEvent(
-                                    eventName
-                                  )
+                        {openMenuId === -sortedMatches[0].id && (
+  <>
+    <button
+      aria-label="Close menu"
+      onClick={() => setOpenMenuId(null)}
+      className="fixed inset-0 z-10 cursor-default"
+    />
 
-                                  setOpenMenuId(
-                                    null
-                                  )
-                                }}
-                                className="w-full text-left px-4 py-3 hover:bg-slate-700 text-sm"
-                              >
-                                Edit Event
-                              </button>
+    <div className="absolute right-0 top-10 w-40 bg-slate-800 border border-slate-700 rounded-xl shadow-xl z-20 overflow-hidden">
+      <button
+        onClick={() => {
+          setEditingEvent(eventName)
 
-                              <button
-                                onClick={() => {
-                                  deleteEvent(
-                                    eventName
-                                  )
+          setOpenMenuId(null)
+        }}
+        className="w-full text-left px-4 py-3 hover:bg-slate-700 text-sm"
+      >
+        Edit Event
+      </button>
 
-                                  setOpenMenuId(
-                                    null
-                                  )
-                                }}
-                                className="w-full text-left px-4 py-3 hover:bg-slate-700 text-red-400 text-sm"
-                              >
-                                Delete Event
-                              </button>
-                            </div>
-                          )}
+      <button
+        onClick={() => {
+          deleteEvent(eventName)
+
+          setOpenMenuId(null)
+        }}
+        className="w-full text-left px-4 py-3 hover:bg-slate-700 text-red-400 text-sm"
+      >
+        Delete Event
+      </button>
+    </div>
+  </>
+)}  
                         </div>
                       </div>
                     </div>
@@ -342,7 +341,7 @@ export default function MatchHistory({
                         >
                           {editingMatch?.id ===
 match.id ? (
-  <div className="space-y-4">
+<div className="space-y-4">  
   <div>
   <label className="text-sm text-slate-400 block mb-1">
     Round
@@ -533,11 +532,22 @@ match.id ? (
 {/* RIGHT SIDE */}
 <div className="flex items-center gap-0 flex-shrink-0 ml-2">
                                 <div className="flex flex-col items-end text-right min-w-[72px]">
-                                  <p className="text-sm text-slate-300 font-semibold leading-tight">
-                                    {match.games.join(
-                                      ' - '
-                                    )}
-                                  </p>
+                                <div className="flex justify-end gap-1 mb-1">
+  {match.games.map((game, index) => (
+    <span
+      key={index}
+      className={`min-w-7 h-7 px-2 rounded-full flex items-center justify-center text-xs font-bold ${
+        game === 'W'
+          ? 'bg-green-500 text-white'
+          : game === 'L'
+          ? 'bg-red-500 text-white'
+          : 'bg-yellow-400 text-black'
+      }`}
+    >
+      {game}
+    </span>
+  ))}
+</div>  
 
                                   <p className="text-yellow-400 font-bold text-2xl leading-tight mt-1">
                                     {runningWins}-
@@ -566,61 +576,56 @@ match.id ? (
                                     ⋮
                                   </button>
 
-                                  {openMenuId ===
-                                    match.id && (
-                                    <div className="absolute right-0 mt-2 w-40 bg-slate-800 border border-slate-700 rounded-xl shadow-xl z-20 overflow-hidden">
-                                      <button
-                                        onClick={() => {
-                                          setEditingMatch(
-                                            match
-                                          )
+                                {openMenuId === match.id && (
+  <>
+    <button
+      aria-label="Close menu"
+      onClick={() => setOpenMenuId(null)}
+      className="fixed inset-0 z-10 cursor-default"
+    />
 
-                                          setOpenMenuId(
-                                            null
-                                          )
-                                        }}
-                                        className="w-full text-left px-4 py-3 hover:bg-slate-700 text-sm"
-                                      >
-                                        Edit Round
-                                      </button>
+    <div className="absolute right-0 mt-2 w-40 bg-slate-800 border border-slate-700 rounded-xl shadow-xl z-20 overflow-hidden">
+      <button
+        onClick={() => {
+          setEditingMatch(match)
 
-                                      <button
-                                        onClick={() => {
-                                          setOpenNotesId(
-                                            openNotesId ===
-                                              match.id
-                                              ? null
-                                              : match.id
-                                          )
+          setOpenMenuId(null)
+        }}
+        className="w-full text-left px-4 py-3 hover:bg-slate-700 text-sm"
+      >
+        Edit Round
+      </button>
 
-                                          setOpenMenuId(
-                                            null
-                                          )
-                                        }}
-                                        className="w-full text-left px-4 py-3 hover:bg-slate-700 text-sm"
-                                      >
-                                        {openNotesId ===
-                                        match.id
-                                          ? 'Hide Notes'
-                                          : 'View Notes'}
-                                      </button>
+      <button
+        onClick={() => {
+          setOpenNotesId(
+            openNotesId === match.id
+              ? null
+              : match.id
+          )
 
-                                      <button
-                                        onClick={() => {
-                                          deleteMatch(
-                                            match.id
-                                          )
+          setOpenMenuId(null)
+        }}
+        className="w-full text-left px-4 py-3 hover:bg-slate-700 text-sm"
+      >
+        {openNotesId === match.id
+          ? 'Hide Notes'
+          : 'View Notes'}
+      </button>
 
-                                          setOpenMenuId(
-                                            null
-                                          )
-                                        }}
-                                        className="w-full text-left px-4 py-3 hover:bg-slate-700 text-red-400 text-sm"
-                                      >
-                                        Delete Round
-                                      </button>
-                                    </div>
-                                  )}
+      <button
+        onClick={() => {
+          deleteMatch(match.id)
+
+          setOpenMenuId(null)
+        }}
+        className="w-full text-left px-4 py-3 hover:bg-slate-700 text-red-400 text-sm"
+      >
+        Delete Round
+      </button>
+    </div>
+  </>
+)}  
                                 </div>
                               </div>
                             </div>
@@ -631,8 +636,8 @@ match.id ? (
                           match.id &&
                           match.notes && (
                             <div className="mt-3 bg-slate-900 border border-slate-700 rounded-xl p-4 whitespace-pre-wrap text-slate-300">
-                              {match.notes}
-                            </div>
+  {match.notes}
+</div>
                           )}
                       </div>
                     )
