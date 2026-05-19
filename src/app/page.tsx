@@ -509,55 +509,72 @@ setNotes={setNotes}
 
 </div>
 
-    <div className="fixed bottom-0 left-0 right-0 bg-slate-900 border-t border-slate-800">
-  <div className="max-w-6xl mx-auto grid grid-cols-4">
-    
+<div className="fixed bottom-0 left-0 right-0 bg-slate-900 border-t border-slate-800 z-50">
+  <div className="max-w-6xl mx-auto grid grid-cols-4 h-20">
+
     <button
       onClick={() => setActiveTab('decks')}
-      className={`py-4 font-semibold ${
+      className={`flex items-center justify-center transition ${
         activeTab === 'decks'
-          ? 'text-yellow-400'
-          : 'text-slate-400'
+          ? 'opacity-100'
+          : 'opacity-50 hover:opacity-80'
       }`}
     >
-      Decks
+      <img
+        src="/icons/deck.svg"
+        alt="Decks"
+        className="h-14 w-14"
+      />
     </button>
 
     <button
       onClick={() => setActiveTab('compare')}
-      className={`py-4 font-semibold ${
+      className={`flex items-center justify-center transition ${
         activeTab === 'compare'
-          ? 'text-yellow-400'
-          : 'text-slate-400'
+          ? 'opacity-100'
+          : 'opacity-50 hover:opacity-80'
       }`}
     >
-      Compare
+      <img
+        src="/icons/compare.svg"
+        alt="Compare"
+        className="h-14 w-14"
+      />
     </button>
 
     <button
       onClick={() => setActiveTab('matches')}
-      className={`py-4 font-semibold ${
+      className={`flex items-center justify-center transition ${
         activeTab === 'matches'
-          ? 'text-yellow-400'
-          : 'text-slate-400'
+          ? 'opacity-100'
+          : 'opacity-50 hover:opacity-80'
       }`}
     >
-      Matches
+      <img
+        src="/icons/log.svg"
+        alt="Log"
+        className="h-14 w-14"
+      />
     </button>
 
     <button
       onClick={() => setActiveTab('history')}
-      className={`py-4 font-semibold ${
+      className={`flex items-center justify-center transition ${
         activeTab === 'history'
-          ? 'text-yellow-400'
-          : 'text-slate-400'
+          ? 'opacity-100'
+          : 'opacity-50 hover:opacity-80'
       }`}
     >
-      History
+      <img
+        src="/icons/history.svg"
+        alt="History"
+        className="h-14 w-14"
+      />
     </button>
 
   </div>
 </div>
+
 </main>
-    )
+  )
 }
