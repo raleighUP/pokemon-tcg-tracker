@@ -13,9 +13,9 @@ export type Match = {
   opponentDeck: string
   matchType: 'BO1' | 'BO3'
   games: string[]
+  gameStarts: ('1st' | '2nd')[]
   finalResult: string
   notes?: string
-  
 }
 
 export type CardEntry = {

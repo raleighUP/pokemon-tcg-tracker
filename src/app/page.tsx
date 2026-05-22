@@ -24,6 +24,8 @@ export default function Home() {
   const [editingDeckId, setEditingDeckId] = useState<number | null>(null)
   const [matches, setMatches] = useState<Match[]>([])
 
+  const [invalidMatchFields, setInvalidMatchFields] = useState<string[]>([])
+
   const [editingMatch, setEditingMatch] =
   useState<Match | null>(null)
 
@@ -42,6 +44,11 @@ const [matchType, setMatchType] =
   useState<'BO1' | 'BO3'>('BO3')
 
 const [games, setGames] = useState<string[]>([])
+
+const [gameStarts, setGameStarts] = useState<
+  ('1st' | '2nd')[]
+>([])
+
 const [currentRound, setCurrentRound] = useState(1)
 
 const [saveSuccess, setSaveSuccess] =
@@ -249,10 +256,25 @@ const toggleGameResult = (result: string) => {
 }
 const clearGames = () => {
   setGames([])
+  setGameStarts([])
+}
+
+const toggleGameStart = (gameIndex: number) => {
+  setGameStarts((prev) => {
+    const updated = [...prev]
+
+    updated[gameIndex] =
+      updated[gameIndex] === '2nd'
+        ? '1st'
+        : '2nd'
+
+    return updated
+  })
 }
 const clearCurrentMatch = () => {
   setOpponentDeck('')
   setGames([])
+  setGameStarts([])
 
   setClearSuccess(true)
 
@@ -270,6 +292,7 @@ const startNewEvent = () => {
   setSelectedMatchDeck('')
   setOpponentDeck('')
   setGames([])
+  setGameStarts([])
 
   setCurrentRound(1)
 
@@ -312,9 +335,10 @@ const nextRound = () => {
 
   setCurrentRound(nextAvailableRound)
 
-  setGames([])
-  setOpponentDeck('')
-  setNotes('')
+setGames([])
+setGameStarts([])
+setOpponentDeck('')
+setNotes('')
 }
 const clearEvent = () => {
   setCurrentRound(1)
@@ -323,6 +347,7 @@ const clearEvent = () => {
   setSelectedMatchDeck('')
   setOpponentDeck('')
   setGames([])
+  setGameStarts([])
   setNotes('')
 }
 const deleteMatch = (id: number) => {
@@ -379,24 +404,42 @@ const saveMatch = () => {
   ) {
     return
   }
+  const missingFields: string[] = []
+
+if (!eventName.trim()) missingFields.push('eventName')
+if (!format.trim()) missingFields.push('format')
+if (!selectedMatchDeck.trim()) missingFields.push('selectedMatchDeck')
+if (!opponentDeck.trim()) missingFields.push('opponentDeck')
+if (games.length === 0) missingFields.push('games')
+
+if (missingFields.length > 0) {
+  setInvalidMatchFields(missingFields)
+
+  setTimeout(() => {
+    setInvalidMatchFields([])
+  }, 900)
+
+  return
+}
 
   const wins = games.filter((g) => g === 'W').length
   const losses = games.filter((g) => g === 'L').length
 
   const finalResult = `${wins}-${losses}`
 
-  const newMatch: Match = {
-    id: Date.now(),
-    eventName,
-    round: currentRound,
-    format,
-    deck: selectedMatchDeck,
-    opponentDeck,
-    matchType,
-    games,
-    finalResult,
-    notes,
-  }
+const newMatch: Match = {
+  id: Date.now(),
+  eventName,
+  round: currentRound,
+  format,
+  deck: selectedMatchDeck,
+  opponentDeck,
+  matchType,
+  games,
+  gameStarts,
+  finalResult,
+  notes,
+}
 
   setMatches([...matches, newMatch])
   setSaveSuccess(true)
@@ -411,6 +454,7 @@ setTimeout(() => {
 
 setOpponentDeck('')
 setGames([])
+setGameStarts([])
 setNotes('')
 }
   return (
@@ -471,10 +515,13 @@ setNotes('')
   matchType={matchType}
   setMatchType={setMatchType}
 
-  games={games}
+games={games}
+gameStarts={gameStarts}
 
-  toggleGameResult={toggleGameResult}
-  clearGames={clearGames}
+toggleGameResult={toggleGameResult}
+toggleGameStart={toggleGameStart}
+
+clearGames={clearGames}
 
   saveMatch={saveMatch}
   clearCurrentMatch={clearCurrentMatch}
@@ -488,6 +535,7 @@ eventSuccess={eventSuccess}
 clearSuccess={clearSuccess}
 notes={notes}
 setNotes={setNotes}
+invalidMatchFields={invalidMatchFields}
 />
   )}
 

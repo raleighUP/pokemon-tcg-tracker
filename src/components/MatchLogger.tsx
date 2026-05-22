@@ -3,23 +3,22 @@ import { Deck } from '@/types'
 type Props = {
   eventName: string
   setEventName: (value: string) => void
-
   selectedMatchDeck: string
   setSelectedMatchDeck: (value: string) => void
-
   opponentDeck: string
   setOpponentDeck: (value: string) => void
-
   format: string
   setFormat: (value: string) => void
-
   decks: Deck[]
 
   games: string[]
+  gameStarts: ('1st' | '2nd')[]
 
   toggleGameResult: (result: string) => void
+  toggleGameStart: (gameIndex: number) => void
 
   saveMatch: () => void
+
   matchType: 'BO1' | 'BO3'
   setMatchType: (value: 'BO1' | 'BO3') => void
 
@@ -28,12 +27,15 @@ type Props = {
   nextRound: () => void
   clearEvent: () => void
   clearCurrentMatch: () => void
+
   notes: string
-setNotes: (value: string) => void
-roundSuccess: boolean
-eventSuccess: boolean
-clearSuccess: boolean
+  setNotes: (value: string) => void
+
+  roundSuccess: boolean
+  eventSuccess: boolean
+  clearSuccess: boolean
   saveSuccess: boolean
+  invalidMatchFields: string[]
 }
 
 export default function MatchLogger({
@@ -49,242 +51,242 @@ export default function MatchLogger({
   setMatchType,
   decks,
   games,
+  gameStarts,
   toggleGameResult,
+  toggleGameStart,
   clearGames,
   saveMatch,
   clearCurrentMatch,
   startNewEvent,
   nextRound,
-  clearEvent,
   saveSuccess,
-roundSuccess,
-eventSuccess,
-clearSuccess,
-notes,
-setNotes,
+  roundSuccess,
+  eventSuccess,
+  clearSuccess,
+  notes,
+  setNotes,
+invalidMatchFields = [],
 }: Props) {
+  const visibleGameCount =
+    matchType === 'BO1' ? 1 : Math.min(games.length + 1, 3)
+
+  const errorClass = (fieldName: string) =>
+    invalidMatchFields.includes(fieldName)
+      ? 'field-error-shake border-red-500 ring-2 ring-red-500/60'
+      : 'border-slate-700'
+
   return (
-    <div className="bg-slate-900 border border-slate-800 rounded-2xl p-6">
-     <div className="relative mb-4">
-  <h2 className="text-2xl font-bold mb-4">
-    Log Match
-  </h2>
-
-  {saveSuccess && (
-    <div className="absolute top-0 right-0 bg-green-500/20 border border-green-500 text-green-300 px-3 py-1 rounded-lg text-sm font-semibold animate-pulse pointer-events-none">
-      Match Saved ✓
-    </div>
-  )}
-
-  {!saveSuccess && roundSuccess && (
-    <div className="absolute top-0 right-0 bg-purple-500/20 border border-purple-500 text-purple-300 px-3 py-1 rounded-lg text-sm font-semibold animate-pulse pointer-events-none">
-      Next Round →
-    </div>
-  )}
-
-  {!saveSuccess &&
-    !roundSuccess &&
-    eventSuccess && (
-      <div className="absolute top-0 right-0 bg-blue-500/20 border border-blue-500 text-blue-300 px-3 py-1 rounded-lg text-sm font-semibold animate-pulse pointer-events-none">
-        New Event ✓
-      </div>
-    )}
-
-  {!saveSuccess &&
-    !roundSuccess &&
-    !eventSuccess &&
-    clearSuccess && (
-      <div className="absolute top-0 right-0 bg-red-500/20 border border-red-500 text-red-300 px-3 py-1 rounded-lg text-sm font-semibold animate-pulse pointer-events-none">
-        Match Cleared ✕
-      </div>
-    )}
-</div> 
+    <div className="rounded-2xl border border-slate-800 bg-slate-900 p-6">
+      <h2 className="mb-6 text-2xl font-bold">Log Match</h2>
 
       <div className="space-y-4">
+        <input
+          value={eventName}
+          onChange={(e) => setEventName(e.target.value)}
+          placeholder="Event Name"
+          className={`w-full rounded-xl border bg-slate-800 px-4 py-4 text-white placeholder:text-slate-400 ${errorClass(
+            'eventName'
+          )}`}
+        />
 
-        {/* SAVE SUCCESS FEEDBACK */}
-        {/* EVENT */}
-        <div className="space-y-2">
-          <input
-            type="text"
-            value={eventName}
-            onChange={(e) => setEventName(e.target.value)}
-            placeholder="Event Name"
-            className="w-full bg-slate-800 border border-slate-700 rounded-xl px-4 py-3"
-          />
+        <div className="grid grid-cols-2 gap-3">
+          <button
+            onClick={startNewEvent}
+            className="rounded-xl bg-blue-500 px-4 py-4 font-bold hover:bg-blue-600"
+          >
+            {eventSuccess ? 'Started!' : 'New Event'}
+          </button>
 
-          <div className="grid grid-cols-2 gap-2">
-            <button
-              onClick={startNewEvent}
-              className="bg-blue-500 hover:bg-blue-600 py-2 rounded-lg font-semibold"
-            >
-              New Event
-            </button>
-
-            <button
-              onClick={nextRound}
-              className="bg-purple-500 hover:bg-purple-600 py-2 rounded-lg font-semibold"
-            >
-              Next Round
-            </button>
-          </div>
+          <button
+            onClick={nextRound}
+            className="rounded-xl bg-purple-500 px-4 py-4 font-bold hover:bg-purple-600"
+          >
+            {roundSuccess ? 'Next!' : 'Next Round'}
+          </button>
         </div>
 
-        {/* FORMAT */}
-        <select
-          value={format}
-          onChange={(e) => setFormat(e.target.value)}
-          className="w-full bg-slate-800 border border-slate-700 rounded-xl px-4 py-3"
-        >
-          <option value="">Select Format</option>
-          <option value="Perfect Order">Perfect Order</option>
-          <option value="Standard">Standard</option>
-          <option value="Expanded">Expanded</option>
-          <option value="Gym Leader Challenge">Gym Leader Challenge</option>
-        </select>
+        <div className="grid grid-cols-2 gap-3">
+          <select
+            value={format}
+            onChange={(e) => setFormat(e.target.value)}
+            className={`w-full rounded-xl border bg-slate-800 px-4 py-4 text-white ${errorClass(
+              'format'
+            )}`}
+          >
+            <option value="">Format</option>
+            <option value="TEF-POR">TEF-POR</option>
+            <option value="Gym Leader Challenge">Gym Leader Challenge</option>
+            <option value="Expanded">Expanded</option>
+          </select>
 
-        {/* DECK */}
-        <select
-          value={selectedMatchDeck}
-          onChange={(e) => setSelectedMatchDeck(e.target.value)}
-          className="w-full bg-slate-800 border border-slate-700 rounded-xl px-4 py-3"
-        >
-          <option value="">Select Your Deck</option>
-          {decks.map((deck) => (
-            <option key={deck.id} value={deck.name}>
-              {deck.name}
-            </option>
-          ))}
-        </select>
+          <select
+            value={selectedMatchDeck}
+            onChange={(e) => setSelectedMatchDeck(e.target.value)}
+            className={`w-full rounded-xl border bg-slate-800 px-4 py-4 text-white ${errorClass(
+              'selectedMatchDeck'
+            )}`}
+          >
+            <option value="">Your Deck</option>
+            {decks.map((deck) => (
+              <option key={deck.id} value={deck.name}>
+                {deck.name}
+              </option>
+            ))}
+          </select>
+        </div>
 
-        {/* OPPONENT */}
         <input
-          type="text"
           value={opponentDeck}
           onChange={(e) => setOpponentDeck(e.target.value)}
           placeholder="Opponent Deck"
-          className="w-full bg-slate-800 border border-slate-700 rounded-xl px-4 py-3"
+          className={`w-full rounded-xl border bg-slate-800 px-4 py-4 text-white placeholder:text-slate-400 ${errorClass(
+            'opponentDeck'
+          )}`}
         />
 
-        {/* MATCH TYPE */}
-        <div>
-
-          <div className="flex gap-2">
-            <button
-              onClick={() => setMatchType('BO1')}
-              className={`flex-1 py-2 rounded-lg font-semibold ${
-                matchType === 'BO1'
-                  ? 'bg-blue-500 text-white'
-                  : 'bg-slate-700 text-white'
-              }`}
-            >
-              Best of 1
-            </button>
-
-            <button
-              onClick={() => setMatchType('BO3')}
-              className={`flex-1 py-2 rounded-lg font-semibold ${
-                matchType === 'BO3'
-                  ? 'bg-blue-500 text-white'
-                  : 'bg-slate-700 text-white'
-              }`}
-            >
-              Best of 3
-            </button>
-          </div>
-        </div>
-
-        {/* GAME INPUTS */}
-        <div>
-
-          <div className="grid grid-cols-3 gap-2">
-            <button
-              onClick={() => toggleGameResult('W')}
-              className="bg-green-500 hover:bg-green-600 px-4 py-2 rounded-lg font-semibold"
-            >
-              Win
-            </button>
-
-            <button
-              onClick={() => toggleGameResult('L')}
-              className="bg-red-500 hover:bg-red-600 px-4 py-2 rounded-lg font-semibold"
-            >
-              Loss
-            </button>
-
-            <button
-              onClick={() => toggleGameResult('T')}
-              className="bg-yellow-400 hover:bg-yellow-500 text-black px-4 py-2 rounded-lg font-semibold"
-            >
-              Tie
-            </button>
-          </div>
-        </div>
-
-        {/* CURRENT MATCH */}
-        <div className="bg-slate-800 rounded-xl p-4">
-
-          <div className="space-y-2">
-            {Array.from({
-              length: matchType === 'BO1' ? 1 : 3,
-            }).map((_, index) => {
-              const result = games[index]
-
-              return (
-                <div
-                  key={index}
-                  className="flex items-center justify-between bg-slate-700 rounded-lg px-4 py-2"
-                >
-                  <span className="font-medium">
-                    Game {index + 1}
-                  </span>
-
-                  <span
-                    className={`font-bold ${
-                      result === 'W'
-                        ? 'text-green-400'
-                        : result === 'L'
-                        ? 'text-red-400'
-                        : result === 'T'
-                        ? 'text-yellow-400'
-                        : 'text-slate-500'
-                    }`}
-                  >
-                    {result || '-'}
-                  </span>
-                </div>
-              )
-            })}
-          </div>
-        </div>
-{/* NOTES */}
-<textarea
-  value={notes}
-  onChange={(e) => {
-    setNotes(e.target.value)
-
-    e.target.style.height = 'auto'
-    e.target.style.height = `${e.target.scrollHeight}px`
-  }}
-  placeholder="Match Notes (optional)"
-  rows={1}
-  className="w-full bg-slate-800 border border-slate-700 rounded-xl px-4 py-3 outline-none focus:border-yellow-400 resize-none overflow-hidden transition-all duration-200"
-/>
-        {/* ACTIONS */}
-        <div className="grid grid-cols-2 gap-2">
+        <div className="grid grid-cols-2 gap-3">
           <button
-            onClick={clearCurrentMatch}
-            className="bg-slate-700 hover:bg-slate-600 text-white font-semibold py-3 rounded-xl transition"
+            onClick={() => {
+              setMatchType('BO1')
+              clearGames()
+            }}
+            className={`rounded-xl px-4 py-3 font-bold ${
+              matchType === 'BO1'
+                ? 'bg-yellow-400 text-black'
+                : 'bg-slate-800 text-white'
+            }`}
           >
-            Clear Match
+            Best of 1
           </button>
 
-         <button
-  onClick={saveMatch}
-  className="bg-purple-500 hover:bg-purple-600 text-white font-semibold py-3 rounded-xl hover:scale-[1.02] transition"
->
-  Save Match
-</button> 
+          <button
+            onClick={() => {
+              setMatchType('BO3')
+              clearGames()
+            }}
+            className={`rounded-xl px-4 py-3 font-bold ${
+              matchType === 'BO3'
+                ? 'bg-yellow-400 text-black'
+                : 'bg-slate-800 text-white'
+            }`}
+          >
+            Best of 3
+          </button>
+        </div>
+
+        <div className="space-y-3">
+          <h3 className="font-semibold text-slate-300">
+            Add Game Results
+          </h3>
+
+          <div className="grid grid-cols-[1fr_140px] gap-4">
+            <div
+              className={`rounded-xl border bg-slate-900 p-3 ${errorClass(
+                'games'
+              )}`}
+            >
+              <div className="space-y-3">
+                {Array.from({ length: visibleGameCount }).map((_, index) => {
+                  const result = games[index]
+
+                  return (
+                    <div
+                      key={index}
+                      className="flex min-h-[64px] items-center justify-between rounded-xl border border-slate-700 bg-slate-800 px-4"
+                    >
+                      <div className="flex items-center gap-3">
+                        <span className="font-medium">
+                          Game {index + 1}
+                        </span>
+
+                        {result && (
+                          <span
+                            className={`text-sm font-bold ${
+                              result === 'W'
+                                ? 'text-green-300'
+                                : result === 'L'
+                                ? 'text-red-300'
+                                : 'text-yellow-300'
+                            }`}
+                          >
+                            {result}
+                          </span>
+                        )}
+                      </div>
+
+                      <button
+                        type="button"
+                        onClick={() => toggleGameStart(index)}
+                        className="rounded-full border border-slate-600 bg-slate-900 px-4 py-1 text-sm font-semibold hover:bg-slate-700"
+                      >
+                        {gameStarts[index] ?? '1st'}
+                      </button>
+                    </div>
+                  )
+                })}
+              </div>
+            </div>
+
+            <div className="rounded-xl border border-slate-700 bg-slate-900 p-3">
+              <div className="grid gap-3">
+                <button
+                  onClick={() => toggleGameResult('W')}
+                  className="min-h-[64px] rounded-xl bg-green-500 px-4 py-4 text-lg font-bold hover:bg-green-600"
+                >
+                  Win
+                </button>
+
+                <button
+                  onClick={() => toggleGameResult('L')}
+                  className="min-h-[64px] rounded-xl bg-red-500 px-4 py-4 text-lg font-bold hover:bg-red-600"
+                >
+                  Loss
+                </button>
+
+                <button
+                  onClick={() => toggleGameResult('T')}
+                  className="min-h-[64px] rounded-xl bg-yellow-400 px-4 py-4 text-lg font-bold text-black hover:bg-yellow-500"
+                >
+                  Tie
+                </button>
+
+                <button
+                  onClick={clearGames}
+                  className="min-h-[64px] rounded-xl bg-slate-700 px-4 py-4 text-lg font-bold hover:bg-slate-600"
+                >
+                  Clear
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <textarea
+          value={notes}
+          onChange={(e) => setNotes(e.target.value)}
+          onInput={(e) => {
+            e.currentTarget.style.height = 'auto'
+            e.currentTarget.style.height = `${e.currentTarget.scrollHeight}px`
+          }}
+          rows={1}
+          placeholder="Match Notes (optional)"
+          className="min-h-[56px] w-full resize-none overflow-hidden rounded-xl border border-slate-700 bg-slate-800 px-4 py-4 text-white placeholder:text-slate-400"
+        />
+
+        <div className="grid grid-cols-2 gap-3">
+          <button
+            onClick={clearCurrentMatch}
+            className="rounded-xl bg-slate-700 px-4 py-4 font-bold hover:bg-slate-600"
+          >
+            {clearSuccess ? 'Cleared!' : 'Clear Match'}
+          </button>
+
+          <button
+            onClick={saveMatch}
+            className="rounded-xl bg-purple-500 px-4 py-4 font-bold hover:bg-purple-600"
+          >
+            {saveSuccess ? 'Saved!' : 'Save Match'}
+          </button>
         </div>
       </div>
     </div>
