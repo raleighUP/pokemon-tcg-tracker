@@ -8,12 +8,13 @@ import SavedDecks from '@/components/SavedDecks'
 import CompareDecks from '@/components/CompareDecks'
 import MatchLogger from '@/components/MatchLogger'
 import MatchHistory from '@/components/MatchHistory'
+import DeckAdvisor from '@/components/DeckAdvisor'
 
 import { Deck, Match, CardEntry } from '@/types'
 
 export default function Home() {
-  const [activeTab, setActiveTab] = useState<
-  'decks' | 'compare' | 'matches' | 'history'
+const [activeTab, setActiveTab] = useState<
+  'decks' | 'compare' | 'matches' | 'history' | 'advisor'
 >('decks')
   const [deckName, setDeckName] = useState('')
   const [decklist, setDecklist] = useState('')
@@ -553,12 +554,16 @@ invalidMatchFields={invalidMatchFields}
   decks={decks}
 />
   )}
+
+  {activeTab === 'advisor' && (
+    <DeckAdvisor decks={decks} />
+  )}  
 </div>
 
 </div>
 
 <div className="fixed bottom-0 left-0 right-0 bg-slate-900 border-t border-slate-800 z-50">
-  <div className="max-w-6xl mx-auto grid grid-cols-4 h-20">
+  <div className="max-w-6xl mx-auto grid grid-cols-5 h-20">
 
     <button
       onClick={() => setActiveTab('decks')}
@@ -619,7 +624,18 @@ invalidMatchFields={invalidMatchFields}
         className="h-14 w-14"
       />
     </button>
-
+    <button
+      onClick={() => setActiveTab('advisor')}
+      className={`flex items-center justify-center transition ${
+        activeTab === 'advisor'
+          ? 'opacity-100'
+          : 'opacity-50 hover:opacity-80'
+      }`}
+    >
+      <span className="text-xs font-bold text-white">
+        Advisor
+      </span>
+    </button>
   </div>
 </div>
 

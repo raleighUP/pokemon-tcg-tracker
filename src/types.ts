@@ -22,3 +22,26 @@ export type CardEntry = {
   name: string
   quantity: number
 }
+export type AdvisorMetaDeck = {
+  name: string
+  share: number
+}
+
+export type AdvisorCandidateDeck = {
+  name: string
+  archetype: string
+  customName?: string
+  comfort: number
+  owned?: boolean
+  matchups: {
+    [opponentDeckName: string]: number
+  }
+}
+
+export type AdvisorResult = {
+  deckName: string
+  archetype: string
+  fieldWinRate: number
+  comfort: number
+  adjustedScore: number
+}
