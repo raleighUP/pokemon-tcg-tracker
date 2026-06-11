@@ -1,0 +1,24 @@
+{
+  "id": "69fdf9d22b59cd9b66b26fc1",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "Vault Weekly #14🏆|INDY REGIONAL PREP|50+ CODES",
+  "date": "2026-05-15T21:00:00.000Z",
+  "players": 76,
+  "organizer": {
+    "id": 2226,
+    "name": "Vault of Games"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 7,
+      "mode": "BO1"
+    }
+  ]
+}

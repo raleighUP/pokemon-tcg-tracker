@@ -1,0 +1,24 @@
+{
+  "id": "6a1909ab10275b383e833290",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "Vault Weekly #16🏆|NA INTERNATIONAL PREP|50+ CODES",
+  "date": "2026-05-29T21:00:00.000Z",
+  "players": 43,
+  "organizer": {
+    "id": 2226,
+    "name": "Vault of Games"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO1"
+    }
+  ]
+}

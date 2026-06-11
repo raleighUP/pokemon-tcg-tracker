@@ -9,6 +9,7 @@ import CompareDecks from '@/components/CompareDecks'
 import MatchLogger from '@/components/MatchLogger'
 import MatchHistory from '@/components/MatchHistory'
 import DeckAdvisor from '@/components/DeckAdvisor'
+import { detectDeckArchetype } from '@/utils/archetypes'
 
 import { Deck, Match, CardEntry } from '@/types'
 
@@ -183,6 +184,8 @@ useEffect(() => {
   const addDeck = () => {
   if (!deckName.trim() || !decklist.trim()) return
 
+  const detectedDeck = detectDeckArchetype(decklist)
+
   if (editingDeckId !== null) {
     const updatedDecks = decks.map((deck) =>
       deck.id === editingDeckId
@@ -190,6 +193,8 @@ useEffect(() => {
             ...deck,
             name: deckName,
             decklist: decklist,
+            archetype: detectedDeck.archetype,
+            variant: detectedDeck.variant,
           }
         : deck
     )
@@ -208,6 +213,8 @@ useEffect(() => {
       id: Date.now(),
       name: deckName,
       decklist: decklist,
+      archetype: detectedDeck.archetype,
+      variant: detectedDeck.variant,
     }
 
     const updatedDecks = [...decks, newDeck]

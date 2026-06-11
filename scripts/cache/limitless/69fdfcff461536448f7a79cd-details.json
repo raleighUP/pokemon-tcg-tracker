@@ -1,0 +1,30 @@
+{
+  "id": "69fdfcff461536448f7a79cd",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "SEASAC World Championships (1000 ROBUX)",
+  "date": "2026-05-16T11:30:00.000Z",
+  "players": 26,
+  "organizer": {
+    "id": 2623,
+    "name": "SEASAC League"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 4,
+      "mode": "BO1"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_BRACKET",
+      "rounds": 1,
+      "mode": "BO3"
+    }
+  ]
+}

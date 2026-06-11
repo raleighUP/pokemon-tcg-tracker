@@ -1,0 +1,37 @@
+{
+  "id": "6a0ab399dfbdf089cbbdc8c7",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "Arrow Melbourne Regional / NAIC Training",
+  "date": "2026-05-18T11:30:00.000Z",
+  "players": 49,
+  "organizer": {
+    "id": 1630,
+    "name": "Bak & Bak PokeLab"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO1"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_BRACKET",
+      "rounds": 1,
+      "mode": "BO3"
+    }
+  ],
+  "bannedCards": [
+    {
+      "name": "Erika's Oddish",
+      "set": "ASC",
+      "number": "1"
+    }
+  ]
+}

@@ -43,9 +43,15 @@ export default function SavedDecks({
                   className="flex-1 cursor-pointer"
                   onClick={() => setSelectedDeck(deck)}
                 >
-                  <p className="font-semibold text-white hover:text-yellow-400 transition">
-                    {deck.name}
-                  </p>
+                  <div>
+  <p className="font-semibold text-white hover:text-yellow-400 transition">
+    {deck.name}
+  </p>
+
+  <p className="text-xs text-slate-400">
+    {deck.variant || deck.archetype || 'Other'}
+  </p>
+</div>
 
                   {selectedDeck?.id === deck.id && (
                     <p className="text-blue-400 text-sm font-semibold animate-pulse">

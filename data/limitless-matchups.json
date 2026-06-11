@@ -1,0 +1,3665 @@
+[
+  {
+    "deckA": "Dragapult",
+    "deckB": "Dragapult Dusknoir",
+    "deckAWins": 45,
+    "deckBWins": 29,
+    "totalMatches": 74,
+    "deckAWinRate": 60.8,
+    "deckBWinRate": 39.2
+  },
+  {
+    "deckA": "Alakazam Dudunsparce",
+    "deckB": "Dragapult",
+    "deckAWins": 21,
+    "deckBWins": 35,
+    "totalMatches": 56,
+    "deckAWinRate": 37.5,
+    "deckBWinRate": 62.5
+  },
+  {
+    "deckA": "Dragapult",
+    "deckB": "Slowking",
+    "deckAWins": 28,
+    "deckBWins": 23,
+    "totalMatches": 51,
+    "deckAWinRate": 54.9,
+    "deckBWinRate": 45.1
+  },
+  {
+    "deckA": "Dragapult",
+    "deckB": "Dragapult Blaziken",
+    "deckAWins": 22,
+    "deckBWins": 25,
+    "totalMatches": 47,
+    "deckAWinRate": 46.8,
+    "deckBWinRate": 53.2
+  },
+  {
+    "deckA": "Dragapult Dusknoir",
+    "deckB": "Slowking",
+    "deckAWins": 24,
+    "deckBWins": 22,
+    "totalMatches": 46,
+    "deckAWinRate": 52.2,
+    "deckBWinRate": 47.8
+  },
+  {
+    "deckA": "Dragapult Dusknoir",
+    "deckB": "Other",
+    "deckAWins": 16,
+    "deckBWins": 16,
+    "totalMatches": 32,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Dragapult Dusknoir",
+    "deckB": "Mega Greninja",
+    "deckAWins": 18,
+    "deckBWins": 14,
+    "totalMatches": 32,
+    "deckAWinRate": 56.3,
+    "deckBWinRate": 43.8
+  },
+  {
+    "deckA": "Dragapult",
+    "deckB": "N's Zoroark",
+    "deckAWins": 12,
+    "deckBWins": 18,
+    "totalMatches": 30,
+    "deckAWinRate": 40,
+    "deckBWinRate": 60
+  },
+  {
+    "deckA": "Dragapult",
+    "deckB": "Hop's Trevenant",
+    "deckAWins": 12,
+    "deckBWins": 18,
+    "totalMatches": 30,
+    "deckAWinRate": 40,
+    "deckBWinRate": 60
+  },
+  {
+    "deckA": "Beedrill",
+    "deckB": "Dragapult",
+    "deckAWins": 12,
+    "deckBWins": 18,
+    "totalMatches": 30,
+    "deckAWinRate": 40,
+    "deckBWinRate": 60
+  },
+  {
+    "deckA": "Ogerpon Meganium Hydrapple",
+    "deckB": "Slowking",
+    "deckAWins": 18,
+    "deckBWins": 11,
+    "totalMatches": 29,
+    "deckAWinRate": 62.1,
+    "deckBWinRate": 37.9
+  },
+  {
+    "deckA": "Dragapult Dusknoir",
+    "deckB": "Ogerpon Meganium Hydrapple",
+    "deckAWins": 13,
+    "deckBWins": 16,
+    "totalMatches": 29,
+    "deckAWinRate": 44.8,
+    "deckBWinRate": 55.2
+  },
+  {
+    "deckA": "Alakazam Dudunsparce",
+    "deckB": "Dragapult Dusknoir",
+    "deckAWins": 10,
+    "deckBWins": 19,
+    "totalMatches": 29,
+    "deckAWinRate": 34.5,
+    "deckBWinRate": 65.5
+  },
+  {
+    "deckA": "Dragapult",
+    "deckB": "Mega Greninja",
+    "deckAWins": 15,
+    "deckBWins": 13,
+    "totalMatches": 28,
+    "deckAWinRate": 53.6,
+    "deckBWinRate": 46.4
+  },
+  {
+    "deckA": "Dragapult",
+    "deckB": "Other",
+    "deckAWins": 21,
+    "deckBWins": 7,
+    "totalMatches": 28,
+    "deckAWinRate": 75,
+    "deckBWinRate": 25
+  },
+  {
+    "deckA": "Crustle",
+    "deckB": "Dragapult",
+    "deckAWins": 14,
+    "deckBWins": 13,
+    "totalMatches": 27,
+    "deckAWinRate": 51.9,
+    "deckBWinRate": 48.1
+  },
+  {
+    "deckA": "Dragapult Dusknoir",
+    "deckB": "N's Zoroark",
+    "deckAWins": 11,
+    "deckBWins": 15,
+    "totalMatches": 26,
+    "deckAWinRate": 42.3,
+    "deckBWinRate": 57.7
+  },
+  {
+    "deckA": "Dragapult Blaziken",
+    "deckB": "Dragapult Dusknoir",
+    "deckAWins": 13,
+    "deckBWins": 12,
+    "totalMatches": 25,
+    "deckAWinRate": 52,
+    "deckBWinRate": 48
+  },
+  {
+    "deckA": "Dragapult",
+    "deckB": "Rocket's Mewtwo",
+    "deckAWins": 10,
+    "deckBWins": 14,
+    "totalMatches": 24,
+    "deckAWinRate": 41.7,
+    "deckBWinRate": 58.3
+  },
+  {
+    "deckA": "Dragapult",
+    "deckB": "Ogerpon Meganium Hydrapple",
+    "deckAWins": 13,
+    "deckBWins": 11,
+    "totalMatches": 24,
+    "deckAWinRate": 54.2,
+    "deckBWinRate": 45.8
+  },
+  {
+    "deckA": "Alakazam Dudunsparce",
+    "deckB": "Mega Greninja",
+    "deckAWins": 12,
+    "deckBWins": 11,
+    "totalMatches": 23,
+    "deckAWinRate": 52.2,
+    "deckBWinRate": 47.8
+  },
+  {
+    "deckA": "Beedrill",
+    "deckB": "Slowking",
+    "deckAWins": 12,
+    "deckBWins": 11,
+    "totalMatches": 23,
+    "deckAWinRate": 52.2,
+    "deckBWinRate": 47.8
+  },
+  {
+    "deckA": "Dragapult Blaziken",
+    "deckB": "Slowking",
+    "deckAWins": 12,
+    "deckBWins": 11,
+    "totalMatches": 23,
+    "deckAWinRate": 52.2,
+    "deckBWinRate": 47.8
+  },
+  {
+    "deckA": "N's Zoroark",
+    "deckB": "Ogerpon Meganium Hydrapple",
+    "deckAWins": 8,
+    "deckBWins": 14,
+    "totalMatches": 22,
+    "deckAWinRate": 36.4,
+    "deckBWinRate": 63.6
+  },
+  {
+    "deckA": "Hop's Trevenant",
+    "deckB": "Slowking",
+    "deckAWins": 11,
+    "deckBWins": 11,
+    "totalMatches": 22,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Other",
+    "deckB": "Slowking",
+    "deckAWins": 11,
+    "deckBWins": 11,
+    "totalMatches": 22,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Dragapult Dusknoir",
+    "deckB": "Hop's Trevenant",
+    "deckAWins": 13,
+    "deckBWins": 8,
+    "totalMatches": 21,
+    "deckAWinRate": 61.9,
+    "deckBWinRate": 38.1
+  },
+  {
+    "deckA": "Mega Greninja",
+    "deckB": "Other",
+    "deckAWins": 9,
+    "deckBWins": 12,
+    "totalMatches": 21,
+    "deckAWinRate": 42.9,
+    "deckBWinRate": 57.1
+  },
+  {
+    "deckA": "Ogerpon Meganium Hydrapple",
+    "deckB": "Other",
+    "deckAWins": 14,
+    "deckBWins": 6,
+    "totalMatches": 20,
+    "deckAWinRate": 70,
+    "deckBWinRate": 30
+  },
+  {
+    "deckA": "Alakazam Dudunsparce",
+    "deckB": "Hop's Trevenant",
+    "deckAWins": 11,
+    "deckBWins": 9,
+    "totalMatches": 20,
+    "deckAWinRate": 55,
+    "deckBWinRate": 45
+  },
+  {
+    "deckA": "Dragapult",
+    "deckB": "Raging Bolt Ogerpon",
+    "deckAWins": 14,
+    "deckBWins": 6,
+    "totalMatches": 20,
+    "deckAWinRate": 70,
+    "deckBWinRate": 30
+  },
+  {
+    "deckA": "N's Zoroark",
+    "deckB": "Slowking",
+    "deckAWins": 11,
+    "deckBWins": 9,
+    "totalMatches": 20,
+    "deckAWinRate": 55,
+    "deckBWinRate": 45
+  },
+  {
+    "deckA": "Crustle",
+    "deckB": "Dragapult Dusknoir",
+    "deckAWins": 8,
+    "deckBWins": 12,
+    "totalMatches": 20,
+    "deckAWinRate": 40,
+    "deckBWinRate": 60
+  },
+  {
+    "deckA": "Diancie Dusknoir",
+    "deckB": "Dragapult",
+    "deckAWins": 12,
+    "deckBWins": 7,
+    "totalMatches": 19,
+    "deckAWinRate": 63.2,
+    "deckBWinRate": 36.8
+  },
+  {
+    "deckA": "Hop's Trevenant",
+    "deckB": "Other",
+    "deckAWins": 10,
+    "deckBWins": 9,
+    "totalMatches": 19,
+    "deckAWinRate": 52.6,
+    "deckBWinRate": 47.4
+  },
+  {
+    "deckA": "Alakazam Dudunsparce",
+    "deckB": "Other",
+    "deckAWins": 16,
+    "deckBWins": 3,
+    "totalMatches": 19,
+    "deckAWinRate": 84.2,
+    "deckBWinRate": 15.8
+  },
+  {
+    "deckA": "Alakazam Dudunsparce",
+    "deckB": "Dragapult Blaziken",
+    "deckAWins": 5,
+    "deckBWins": 14,
+    "totalMatches": 19,
+    "deckAWinRate": 26.3,
+    "deckBWinRate": 73.7
+  },
+  {
+    "deckA": "Dragapult",
+    "deckB": "Lucario Hariyama",
+    "deckAWins": 12,
+    "deckBWins": 7,
+    "totalMatches": 19,
+    "deckAWinRate": 63.2,
+    "deckBWinRate": 36.8
+  },
+  {
+    "deckA": "Raging Bolt Ogerpon",
+    "deckB": "Slowking",
+    "deckAWins": 6,
+    "deckBWins": 12,
+    "totalMatches": 18,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Beedrill",
+    "deckB": "Dragapult Dusknoir",
+    "deckAWins": 9,
+    "deckBWins": 9,
+    "totalMatches": 18,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Alakazam Dudunsparce",
+    "deckB": "Beedrill",
+    "deckAWins": 10,
+    "deckBWins": 8,
+    "totalMatches": 18,
+    "deckAWinRate": 55.6,
+    "deckBWinRate": 44.4
+  },
+  {
+    "deckA": "Alakazam Dudunsparce",
+    "deckB": "Slowking",
+    "deckAWins": 8,
+    "deckBWins": 10,
+    "totalMatches": 18,
+    "deckAWinRate": 44.4,
+    "deckBWinRate": 55.6
+  },
+  {
+    "deckA": "Alakazam Dudunsparce",
+    "deckB": "Ogerpon Meganium Hydrapple",
+    "deckAWins": 14,
+    "deckBWins": 4,
+    "totalMatches": 18,
+    "deckAWinRate": 77.8,
+    "deckBWinRate": 22.2
+  },
+  {
+    "deckA": "Mega Greninja",
+    "deckB": "Slowking",
+    "deckAWins": 7,
+    "deckBWins": 10,
+    "totalMatches": 17,
+    "deckAWinRate": 41.2,
+    "deckBWinRate": 58.8
+  },
+  {
+    "deckA": "Mega Greninja",
+    "deckB": "Ogerpon Meganium Hydrapple",
+    "deckAWins": 4,
+    "deckBWins": 13,
+    "totalMatches": 17,
+    "deckAWinRate": 23.5,
+    "deckBWinRate": 76.5
+  },
+  {
+    "deckA": "Dragapult Blaziken",
+    "deckB": "Ogerpon Meganium Hydrapple",
+    "deckAWins": 12,
+    "deckBWins": 5,
+    "totalMatches": 17,
+    "deckAWinRate": 70.6,
+    "deckBWinRate": 29.4
+  },
+  {
+    "deckA": "Hop's Trevenant",
+    "deckB": "Mega Greninja",
+    "deckAWins": 6,
+    "deckBWins": 11,
+    "totalMatches": 17,
+    "deckAWinRate": 35.3,
+    "deckBWinRate": 64.7
+  },
+  {
+    "deckA": "Beedrill",
+    "deckB": "Other",
+    "deckAWins": 7,
+    "deckBWins": 10,
+    "totalMatches": 17,
+    "deckAWinRate": 41.2,
+    "deckBWinRate": 58.8
+  },
+  {
+    "deckA": "Beedrill",
+    "deckB": "Mega Greninja",
+    "deckAWins": 11,
+    "deckBWins": 6,
+    "totalMatches": 17,
+    "deckAWinRate": 64.7,
+    "deckBWinRate": 35.3
+  },
+  {
+    "deckA": "Alakazam Dudunsparce",
+    "deckB": "Lucario Hariyama",
+    "deckAWins": 12,
+    "deckBWins": 5,
+    "totalMatches": 17,
+    "deckAWinRate": 70.6,
+    "deckBWinRate": 29.4
+  },
+  {
+    "deckA": "Dragapult Dusknoir",
+    "deckB": "Rocket's Honchkrow",
+    "deckAWins": 7,
+    "deckBWins": 10,
+    "totalMatches": 17,
+    "deckAWinRate": 41.2,
+    "deckBWinRate": 58.8
+  },
+  {
+    "deckA": "Dragapult",
+    "deckB": "Festival Lead",
+    "deckAWins": 10,
+    "deckBWins": 7,
+    "totalMatches": 17,
+    "deckAWinRate": 58.8,
+    "deckBWinRate": 41.2
+  },
+  {
+    "deckA": "Crustle",
+    "deckB": "Ogerpon Meganium Hydrapple",
+    "deckAWins": 9,
+    "deckBWins": 7,
+    "totalMatches": 16,
+    "deckAWinRate": 56.3,
+    "deckBWinRate": 43.8
+  },
+  {
+    "deckA": "Hop's Trevenant",
+    "deckB": "N's Zoroark",
+    "deckAWins": 3,
+    "deckBWins": 13,
+    "totalMatches": 16,
+    "deckAWinRate": 18.8,
+    "deckBWinRate": 81.3
+  },
+  {
+    "deckA": "Dragapult Dusknoir",
+    "deckB": "Lopunny Dudunsparce",
+    "deckAWins": 8,
+    "deckBWins": 8,
+    "totalMatches": 16,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Dragapult Blaziken",
+    "deckB": "Mega Greninja",
+    "deckAWins": 14,
+    "deckBWins": 2,
+    "totalMatches": 16,
+    "deckAWinRate": 87.5,
+    "deckBWinRate": 12.5
+  },
+  {
+    "deckA": "Dragapult",
+    "deckB": "Lopunny Dudunsparce",
+    "deckAWins": 7,
+    "deckBWins": 8,
+    "totalMatches": 15,
+    "deckAWinRate": 46.7,
+    "deckBWinRate": 53.3
+  },
+  {
+    "deckA": "Dragapult Blaziken",
+    "deckB": "Hop's Trevenant",
+    "deckAWins": 8,
+    "deckBWins": 7,
+    "totalMatches": 15,
+    "deckAWinRate": 53.3,
+    "deckBWinRate": 46.7
+  },
+  {
+    "deckA": "Dragapult Blaziken",
+    "deckB": "Other",
+    "deckAWins": 11,
+    "deckBWins": 4,
+    "totalMatches": 15,
+    "deckAWinRate": 73.3,
+    "deckBWinRate": 26.7
+  },
+  {
+    "deckA": "Hop's Trevenant",
+    "deckB": "Raging Bolt Ogerpon",
+    "deckAWins": 6,
+    "deckBWins": 9,
+    "totalMatches": 15,
+    "deckAWinRate": 40,
+    "deckBWinRate": 60
+  },
+  {
+    "deckA": "Dragapult",
+    "deckB": "Rocket's Honchkrow",
+    "deckAWins": 7,
+    "deckBWins": 8,
+    "totalMatches": 15,
+    "deckAWinRate": 46.7,
+    "deckBWinRate": 53.3
+  },
+  {
+    "deckA": "Mega Greninja",
+    "deckB": "Rocket's Mewtwo",
+    "deckAWins": 5,
+    "deckBWins": 10,
+    "totalMatches": 15,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Mega Greninja",
+    "deckB": "Raging Bolt Ogerpon",
+    "deckAWins": 0,
+    "deckBWins": 14,
+    "totalMatches": 14,
+    "deckAWinRate": 0,
+    "deckBWinRate": 100
+  },
+  {
+    "deckA": "Crustle",
+    "deckB": "Dragapult Blaziken",
+    "deckAWins": 6,
+    "deckBWins": 8,
+    "totalMatches": 14,
+    "deckAWinRate": 42.9,
+    "deckBWinRate": 57.1
+  },
+  {
+    "deckA": "Beedrill",
+    "deckB": "Hop's Trevenant",
+    "deckAWins": 10,
+    "deckBWins": 4,
+    "totalMatches": 14,
+    "deckAWinRate": 71.4,
+    "deckBWinRate": 28.6
+  },
+  {
+    "deckA": "Beedrill",
+    "deckB": "N's Zoroark",
+    "deckAWins": 7,
+    "deckBWins": 7,
+    "totalMatches": 14,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Mega Greninja",
+    "deckB": "N's Zoroark",
+    "deckAWins": 6,
+    "deckBWins": 8,
+    "totalMatches": 14,
+    "deckAWinRate": 42.9,
+    "deckBWinRate": 57.1
+  },
+  {
+    "deckA": "Alakazam Dudunsparce",
+    "deckB": "N's Zoroark",
+    "deckAWins": 6,
+    "deckBWins": 8,
+    "totalMatches": 14,
+    "deckAWinRate": 42.9,
+    "deckBWinRate": 57.1
+  },
+  {
+    "deckA": "Dragapult",
+    "deckB": "Starmie Froslass",
+    "deckAWins": 11,
+    "deckBWins": 3,
+    "totalMatches": 14,
+    "deckAWinRate": 78.6,
+    "deckBWinRate": 21.4
+  },
+  {
+    "deckA": "Lucario Hariyama",
+    "deckB": "Mega Greninja",
+    "deckAWins": 10,
+    "deckBWins": 4,
+    "totalMatches": 14,
+    "deckAWinRate": 71.4,
+    "deckBWinRate": 28.6
+  },
+  {
+    "deckA": "Rocket's Mewtwo",
+    "deckB": "Slowking",
+    "deckAWins": 4,
+    "deckBWins": 10,
+    "totalMatches": 14,
+    "deckAWinRate": 28.6,
+    "deckBWinRate": 71.4
+  },
+  {
+    "deckA": "Hop's Trevenant",
+    "deckB": "Lucario Hariyama",
+    "deckAWins": 11,
+    "deckBWins": 2,
+    "totalMatches": 13,
+    "deckAWinRate": 84.6,
+    "deckBWinRate": 15.4
+  },
+  {
+    "deckA": "Ogerpon Meganium Hydrapple",
+    "deckB": "Raging Bolt Ogerpon",
+    "deckAWins": 6,
+    "deckBWins": 7,
+    "totalMatches": 13,
+    "deckAWinRate": 46.2,
+    "deckBWinRate": 53.8
+  },
+  {
+    "deckA": "Ceruledge",
+    "deckB": "Dragapult",
+    "deckAWins": 5,
+    "deckBWins": 8,
+    "totalMatches": 13,
+    "deckAWinRate": 38.5,
+    "deckBWinRate": 61.5
+  },
+  {
+    "deckA": "Dragapult Dusknoir",
+    "deckB": "Rocket's Mewtwo",
+    "deckAWins": 4,
+    "deckBWins": 9,
+    "totalMatches": 13,
+    "deckAWinRate": 30.8,
+    "deckBWinRate": 69.2
+  },
+  {
+    "deckA": "Lucario Hariyama",
+    "deckB": "Slowking",
+    "deckAWins": 2,
+    "deckBWins": 11,
+    "totalMatches": 13,
+    "deckAWinRate": 15.4,
+    "deckBWinRate": 84.6
+  },
+  {
+    "deckA": "Hop's Trevenant",
+    "deckB": "Rocket's Honchkrow",
+    "deckAWins": 10,
+    "deckBWins": 3,
+    "totalMatches": 13,
+    "deckAWinRate": 76.9,
+    "deckBWinRate": 23.1
+  },
+  {
+    "deckA": "Alakazam Dudunsparce",
+    "deckB": "Rocket's Honchkrow",
+    "deckAWins": 6,
+    "deckBWins": 6,
+    "totalMatches": 12,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "N's Zoroark",
+    "deckB": "Other",
+    "deckAWins": 9,
+    "deckBWins": 3,
+    "totalMatches": 12,
+    "deckAWinRate": 75,
+    "deckBWinRate": 25
+  },
+  {
+    "deckA": "Hop's Trevenant",
+    "deckB": "Ogerpon Meganium Hydrapple",
+    "deckAWins": 5,
+    "deckBWins": 7,
+    "totalMatches": 12,
+    "deckAWinRate": 41.7,
+    "deckBWinRate": 58.3
+  },
+  {
+    "deckA": "Ogerpon Meganium Hydrapple",
+    "deckB": "Rocket's Mewtwo",
+    "deckAWins": 9,
+    "deckBWins": 3,
+    "totalMatches": 12,
+    "deckAWinRate": 75,
+    "deckBWinRate": 25
+  },
+  {
+    "deckA": "Cynthia's Garchomp",
+    "deckB": "N's Zoroark",
+    "deckAWins": 6,
+    "deckBWins": 6,
+    "totalMatches": 12,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Dragapult Dusknoir",
+    "deckB": "Raging Bolt Ogerpon",
+    "deckAWins": 4,
+    "deckBWins": 8,
+    "totalMatches": 12,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Beedrill",
+    "deckB": "Crustle",
+    "deckAWins": 1,
+    "deckBWins": 11,
+    "totalMatches": 12,
+    "deckAWinRate": 8.3,
+    "deckBWinRate": 91.7
+  },
+  {
+    "deckA": "Beedrill",
+    "deckB": "Festival Lead",
+    "deckAWins": 5,
+    "deckBWins": 7,
+    "totalMatches": 12,
+    "deckAWinRate": 41.7,
+    "deckBWinRate": 58.3
+  },
+  {
+    "deckA": "Diancie Dusknoir",
+    "deckB": "Dragapult Dusknoir",
+    "deckAWins": 7,
+    "deckBWins": 5,
+    "totalMatches": 12,
+    "deckAWinRate": 58.3,
+    "deckBWinRate": 41.7
+  },
+  {
+    "deckA": "Dragapult",
+    "deckB": "Mega Starmie",
+    "deckAWins": 7,
+    "deckBWins": 5,
+    "totalMatches": 12,
+    "deckAWinRate": 58.3,
+    "deckBWinRate": 41.7
+  },
+  {
+    "deckA": "Basic Box",
+    "deckB": "Dragapult",
+    "deckAWins": 7,
+    "deckBWins": 5,
+    "totalMatches": 12,
+    "deckAWinRate": 58.3,
+    "deckBWinRate": 41.7
+  },
+  {
+    "deckA": "Basic Box",
+    "deckB": "Dragapult Dusknoir",
+    "deckAWins": 6,
+    "deckBWins": 6,
+    "totalMatches": 12,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Alakazam Dudunsparce",
+    "deckB": "Rocket's Mewtwo",
+    "deckAWins": 0,
+    "deckBWins": 12,
+    "totalMatches": 12,
+    "deckAWinRate": 0,
+    "deckBWinRate": 100
+  },
+  {
+    "deckA": "N's Zoroark",
+    "deckB": "Raging Bolt Ogerpon",
+    "deckAWins": 5,
+    "deckBWins": 6,
+    "totalMatches": 11,
+    "deckAWinRate": 45.5,
+    "deckBWinRate": 54.5
+  },
+  {
+    "deckA": "Festival Lead",
+    "deckB": "Mega Greninja",
+    "deckAWins": 4,
+    "deckBWins": 7,
+    "totalMatches": 11,
+    "deckAWinRate": 36.4,
+    "deckBWinRate": 63.6
+  },
+  {
+    "deckA": "Beedrill",
+    "deckB": "Dragapult Blaziken",
+    "deckAWins": 1,
+    "deckBWins": 10,
+    "totalMatches": 11,
+    "deckAWinRate": 9.1,
+    "deckBWinRate": 90.9
+  },
+  {
+    "deckA": "Alakazam Dudunsparce",
+    "deckB": "Festival Lead",
+    "deckAWins": 6,
+    "deckBWins": 5,
+    "totalMatches": 11,
+    "deckAWinRate": 54.5,
+    "deckBWinRate": 45.5
+  },
+  {
+    "deckA": "Dragapult Dusknoir",
+    "deckB": "Festival Lead",
+    "deckAWins": 7,
+    "deckBWins": 4,
+    "totalMatches": 11,
+    "deckAWinRate": 63.6,
+    "deckBWinRate": 36.4
+  },
+  {
+    "deckA": "Crustle",
+    "deckB": "N's Zoroark",
+    "deckAWins": 8,
+    "deckBWins": 3,
+    "totalMatches": 11,
+    "deckAWinRate": 72.7,
+    "deckBWinRate": 27.3
+  },
+  {
+    "deckA": "Cynthia's Garchomp",
+    "deckB": "Dragapult",
+    "deckAWins": 7,
+    "deckBWins": 4,
+    "totalMatches": 11,
+    "deckAWinRate": 63.6,
+    "deckBWinRate": 36.4
+  },
+  {
+    "deckA": "Dragapult Dudunsparce",
+    "deckB": "Dragapult Dusknoir",
+    "deckAWins": 7,
+    "deckBWins": 3,
+    "totalMatches": 10,
+    "deckAWinRate": 70,
+    "deckBWinRate": 30
+  },
+  {
+    "deckA": "Dragapult Blaziken",
+    "deckB": "N's Zoroark",
+    "deckAWins": 3,
+    "deckBWins": 7,
+    "totalMatches": 10,
+    "deckAWinRate": 30,
+    "deckBWinRate": 70
+  },
+  {
+    "deckA": "Metagross",
+    "deckB": "Ogerpon Meganium Hydrapple",
+    "deckAWins": 7,
+    "deckBWins": 3,
+    "totalMatches": 10,
+    "deckAWinRate": 70,
+    "deckBWinRate": 30
+  },
+  {
+    "deckA": "Raging Bolt Ogerpon",
+    "deckB": "Rocket's Mewtwo",
+    "deckAWins": 7,
+    "deckBWins": 3,
+    "totalMatches": 10,
+    "deckAWinRate": 70,
+    "deckBWinRate": 30
+  },
+  {
+    "deckA": "Beedrill",
+    "deckB": "Lucario Hariyama",
+    "deckAWins": 4,
+    "deckBWins": 6,
+    "totalMatches": 10,
+    "deckAWinRate": 40,
+    "deckBWinRate": 60
+  },
+  {
+    "deckA": "Alakazam Dudunsparce",
+    "deckB": "Crustle",
+    "deckAWins": 4,
+    "deckBWins": 6,
+    "totalMatches": 10,
+    "deckAWinRate": 40,
+    "deckBWinRate": 60
+  },
+  {
+    "deckA": "Alakazam Dudunsparce",
+    "deckB": "Raging Bolt Ogerpon",
+    "deckAWins": 5,
+    "deckBWins": 5,
+    "totalMatches": 10,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Dragapult Dusknoir",
+    "deckB": "Mega Lucario",
+    "deckAWins": 7,
+    "deckBWins": 3,
+    "totalMatches": 10,
+    "deckAWinRate": 70,
+    "deckBWinRate": 30
+  },
+  {
+    "deckA": "Diancie Dusknoir",
+    "deckB": "Slowking",
+    "deckAWins": 5,
+    "deckBWins": 5,
+    "totalMatches": 10,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Ogerpon Meganium Hydrapple",
+    "deckB": "Rocket's Honchkrow",
+    "deckAWins": 4,
+    "deckBWins": 6,
+    "totalMatches": 10,
+    "deckAWinRate": 40,
+    "deckBWinRate": 60
+  },
+  {
+    "deckA": "Rocket's Honchkrow",
+    "deckB": "Slowking",
+    "deckAWins": 4,
+    "deckBWins": 6,
+    "totalMatches": 10,
+    "deckAWinRate": 40,
+    "deckBWinRate": 60
+  },
+  {
+    "deckA": "Ogerpon Meganium Hydrapple",
+    "deckB": "Starmie Froslass",
+    "deckAWins": 3,
+    "deckBWins": 6,
+    "totalMatches": 9,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Mega Lucario",
+    "deckB": "Slowking",
+    "deckAWins": 5,
+    "deckBWins": 4,
+    "totalMatches": 9,
+    "deckAWinRate": 55.6,
+    "deckBWinRate": 44.4
+  },
+  {
+    "deckA": "Crustle",
+    "deckB": "Other",
+    "deckAWins": 6,
+    "deckBWins": 3,
+    "totalMatches": 9,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Crustle",
+    "deckB": "Mega Greninja",
+    "deckAWins": 3,
+    "deckBWins": 6,
+    "totalMatches": 9,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Dragapult",
+    "deckB": "Metagross",
+    "deckAWins": 6,
+    "deckBWins": 3,
+    "totalMatches": 9,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Diancie Dusknoir",
+    "deckB": "N's Zoroark",
+    "deckAWins": 3,
+    "deckBWins": 6,
+    "totalMatches": 9,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Lucario Hariyama",
+    "deckB": "Ogerpon Meganium Hydrapple",
+    "deckAWins": 1,
+    "deckBWins": 8,
+    "totalMatches": 9,
+    "deckAWinRate": 11.1,
+    "deckBWinRate": 88.9
+  },
+  {
+    "deckA": "Crustle",
+    "deckB": "Slowking",
+    "deckAWins": 2,
+    "deckBWins": 7,
+    "totalMatches": 9,
+    "deckAWinRate": 22.2,
+    "deckBWinRate": 77.8
+  },
+  {
+    "deckA": "Diancie Dusknoir",
+    "deckB": "Mega Greninja",
+    "deckAWins": 5,
+    "deckBWins": 4,
+    "totalMatches": 9,
+    "deckAWinRate": 55.6,
+    "deckBWinRate": 44.4
+  },
+  {
+    "deckA": "Festival Lead",
+    "deckB": "Other",
+    "deckAWins": 2,
+    "deckBWins": 7,
+    "totalMatches": 9,
+    "deckAWinRate": 22.2,
+    "deckBWinRate": 77.8
+  },
+  {
+    "deckA": "Beedrill",
+    "deckB": "Rocket's Honchkrow",
+    "deckAWins": 3,
+    "deckBWins": 6,
+    "totalMatches": 9,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Dragapult Dusknoir",
+    "deckB": "Lucario Hariyama",
+    "deckAWins": 5,
+    "deckBWins": 4,
+    "totalMatches": 9,
+    "deckAWinRate": 55.6,
+    "deckBWinRate": 44.4
+  },
+  {
+    "deckA": "Lucario Hariyama",
+    "deckB": "Rocket's Honchkrow",
+    "deckAWins": 4,
+    "deckBWins": 5,
+    "totalMatches": 9,
+    "deckAWinRate": 44.4,
+    "deckBWinRate": 55.6
+  },
+  {
+    "deckA": "Lucario Hariyama",
+    "deckB": "Other",
+    "deckAWins": 4,
+    "deckBWins": 5,
+    "totalMatches": 9,
+    "deckAWinRate": 44.4,
+    "deckBWinRate": 55.6
+  },
+  {
+    "deckA": "Alakazam Dudunsparce",
+    "deckB": "Starmie Froslass",
+    "deckAWins": 6,
+    "deckBWins": 3,
+    "totalMatches": 9,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Basic Box",
+    "deckB": "Ogerpon Meganium Hydrapple",
+    "deckAWins": 4,
+    "deckBWins": 5,
+    "totalMatches": 9,
+    "deckAWinRate": 44.4,
+    "deckBWinRate": 55.6
+  },
+  {
+    "deckA": "Dragapult",
+    "deckB": "Ethan's Typhlosion",
+    "deckAWins": 4,
+    "deckBWins": 5,
+    "totalMatches": 9,
+    "deckAWinRate": 44.4,
+    "deckBWinRate": 55.6
+  },
+  {
+    "deckA": "Beedrill",
+    "deckB": "Rocket's Mewtwo",
+    "deckAWins": 2,
+    "deckBWins": 7,
+    "totalMatches": 9,
+    "deckAWinRate": 22.2,
+    "deckBWinRate": 77.8
+  },
+  {
+    "deckA": "Dragapult Dudunsparce",
+    "deckB": "Ogerpon Meganium Hydrapple",
+    "deckAWins": 5,
+    "deckBWins": 3,
+    "totalMatches": 8,
+    "deckAWinRate": 62.5,
+    "deckBWinRate": 37.5
+  },
+  {
+    "deckA": "Ceruledge",
+    "deckB": "Mega Greninja",
+    "deckAWins": 8,
+    "deckBWins": 0,
+    "totalMatches": 8,
+    "deckAWinRate": 100,
+    "deckBWinRate": 0
+  },
+  {
+    "deckA": "Crustle",
+    "deckB": "Hop's Trevenant",
+    "deckAWins": 1,
+    "deckBWins": 7,
+    "totalMatches": 8,
+    "deckAWinRate": 12.5,
+    "deckBWinRate": 87.5
+  },
+  {
+    "deckA": "Crustle",
+    "deckB": "Starmie Froslass",
+    "deckAWins": 2,
+    "deckBWins": 6,
+    "totalMatches": 8,
+    "deckAWinRate": 25,
+    "deckBWinRate": 75
+  },
+  {
+    "deckA": "Hop's Trevenant",
+    "deckB": "Rocket's Mewtwo",
+    "deckAWins": 3,
+    "deckBWins": 5,
+    "totalMatches": 8,
+    "deckAWinRate": 37.5,
+    "deckBWinRate": 62.5
+  },
+  {
+    "deckA": "Diancie Dusknoir",
+    "deckB": "Ogerpon Meganium Hydrapple",
+    "deckAWins": 6,
+    "deckBWins": 2,
+    "totalMatches": 8,
+    "deckAWinRate": 75,
+    "deckBWinRate": 25
+  },
+  {
+    "deckA": "Beedrill",
+    "deckB": "Raging Bolt Ogerpon",
+    "deckAWins": 4,
+    "deckBWins": 4,
+    "totalMatches": 8,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Dragapult Blaziken",
+    "deckB": "Raging Bolt Ogerpon",
+    "deckAWins": 1,
+    "deckBWins": 7,
+    "totalMatches": 8,
+    "deckAWinRate": 12.5,
+    "deckBWinRate": 87.5
+  },
+  {
+    "deckA": "Mega Lucario",
+    "deckB": "N's Zoroark",
+    "deckAWins": 7,
+    "deckBWins": 1,
+    "totalMatches": 8,
+    "deckAWinRate": 87.5,
+    "deckBWinRate": 12.5
+  },
+  {
+    "deckA": "Hop's Trevenant",
+    "deckB": "Lopunny Dudunsparce",
+    "deckAWins": 2,
+    "deckBWins": 6,
+    "totalMatches": 8,
+    "deckAWinRate": 25,
+    "deckBWinRate": 75
+  },
+  {
+    "deckA": "Alakazam Dudunsparce",
+    "deckB": "Greninja",
+    "deckAWins": 5,
+    "deckBWins": 3,
+    "totalMatches": 8,
+    "deckAWinRate": 62.5,
+    "deckBWinRate": 37.5
+  },
+  {
+    "deckA": "Crustle",
+    "deckB": "Rocket's Honchkrow",
+    "deckAWins": 4,
+    "deckBWins": 4,
+    "totalMatches": 8,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Crustle",
+    "deckB": "Raging Bolt Ogerpon",
+    "deckAWins": 6,
+    "deckBWins": 2,
+    "totalMatches": 8,
+    "deckAWinRate": 75,
+    "deckBWinRate": 25
+  },
+  {
+    "deckA": "Lopunny Dudunsparce",
+    "deckB": "Raging Bolt Ogerpon",
+    "deckAWins": 3,
+    "deckBWins": 5,
+    "totalMatches": 8,
+    "deckAWinRate": 37.5,
+    "deckBWinRate": 62.5
+  },
+  {
+    "deckA": "Dragapult Dusknoir",
+    "deckB": "Metagross",
+    "deckAWins": 4,
+    "deckBWins": 4,
+    "totalMatches": 8,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Diancie Dusknoir",
+    "deckB": "Hop's Trevenant",
+    "deckAWins": 6,
+    "deckBWins": 2,
+    "totalMatches": 8,
+    "deckAWinRate": 75,
+    "deckBWinRate": 25
+  },
+  {
+    "deckA": "Dragapult",
+    "deckB": "Mega Lucario",
+    "deckAWins": 4,
+    "deckBWins": 4,
+    "totalMatches": 8,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Other",
+    "deckB": "Starmie Dusknoir",
+    "deckAWins": 2,
+    "deckBWins": 6,
+    "totalMatches": 8,
+    "deckAWinRate": 25,
+    "deckBWinRate": 75
+  },
+  {
+    "deckA": "Alakazam Dudunsparce",
+    "deckB": "Starmie Dusknoir",
+    "deckAWins": 5,
+    "deckBWins": 3,
+    "totalMatches": 8,
+    "deckAWinRate": 62.5,
+    "deckBWinRate": 37.5
+  },
+  {
+    "deckA": "N's Zoroark",
+    "deckB": "Rocket's Honchkrow",
+    "deckAWins": 3,
+    "deckBWins": 5,
+    "totalMatches": 8,
+    "deckAWinRate": 37.5,
+    "deckBWinRate": 62.5
+  },
+  {
+    "deckA": "Ceruledge",
+    "deckB": "Slowking",
+    "deckAWins": 1,
+    "deckBWins": 7,
+    "totalMatches": 8,
+    "deckAWinRate": 12.5,
+    "deckBWinRate": 87.5
+  },
+  {
+    "deckA": "Lopunny Dudunsparce",
+    "deckB": "Mega Greninja",
+    "deckAWins": 5,
+    "deckBWins": 3,
+    "totalMatches": 8,
+    "deckAWinRate": 62.5,
+    "deckBWinRate": 37.5
+  },
+  {
+    "deckA": "N's Zoroark",
+    "deckB": "Rocket's Mewtwo",
+    "deckAWins": 5,
+    "deckBWins": 3,
+    "totalMatches": 8,
+    "deckAWinRate": 62.5,
+    "deckBWinRate": 37.5
+  },
+  {
+    "deckA": "Festival Lead",
+    "deckB": "Ogerpon Meganium Hydrapple",
+    "deckAWins": 5,
+    "deckBWins": 3,
+    "totalMatches": 8,
+    "deckAWinRate": 62.5,
+    "deckBWinRate": 37.5
+  },
+  {
+    "deckA": "Ethan's Typhlosion",
+    "deckB": "Mega Greninja",
+    "deckAWins": 5,
+    "deckBWins": 3,
+    "totalMatches": 8,
+    "deckAWinRate": 62.5,
+    "deckBWinRate": 37.5
+  },
+  {
+    "deckA": "Other",
+    "deckB": "Rocket's Honchkrow",
+    "deckAWins": 3,
+    "deckBWins": 5,
+    "totalMatches": 8,
+    "deckAWinRate": 37.5,
+    "deckBWinRate": 62.5
+  },
+  {
+    "deckA": "Cynthia's Garchomp",
+    "deckB": "Slowking",
+    "deckAWins": 6,
+    "deckBWins": 2,
+    "totalMatches": 8,
+    "deckAWinRate": 75,
+    "deckBWinRate": 25
+  },
+  {
+    "deckA": "Dragapult Dusknoir",
+    "deckB": "Greninja",
+    "deckAWins": 4,
+    "deckBWins": 4,
+    "totalMatches": 8,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Slowking",
+    "deckB": "Starmie Dusknoir",
+    "deckAWins": 3,
+    "deckBWins": 5,
+    "totalMatches": 8,
+    "deckAWinRate": 37.5,
+    "deckBWinRate": 62.5
+  },
+  {
+    "deckA": "Metagross",
+    "deckB": "N's Zoroark",
+    "deckAWins": 6,
+    "deckBWins": 1,
+    "totalMatches": 7,
+    "deckAWinRate": 85.7,
+    "deckBWinRate": 14.3
+  },
+  {
+    "deckA": "Lucario Hariyama",
+    "deckB": "Raging Bolt Ogerpon",
+    "deckAWins": 2,
+    "deckBWins": 5,
+    "totalMatches": 7,
+    "deckAWinRate": 28.6,
+    "deckBWinRate": 71.4
+  },
+  {
+    "deckA": "Hop's Trevenant",
+    "deckB": "Mega Lucario",
+    "deckAWins": 4,
+    "deckBWins": 3,
+    "totalMatches": 7,
+    "deckAWinRate": 57.1,
+    "deckBWinRate": 42.9
+  },
+  {
+    "deckA": "Ceruledge",
+    "deckB": "N's Zoroark",
+    "deckAWins": 3,
+    "deckBWins": 4,
+    "totalMatches": 7,
+    "deckAWinRate": 42.9,
+    "deckBWinRate": 57.1
+  },
+  {
+    "deckA": "Crustle",
+    "deckB": "Lucario Hariyama",
+    "deckAWins": 5,
+    "deckBWins": 2,
+    "totalMatches": 7,
+    "deckAWinRate": 71.4,
+    "deckBWinRate": 28.6
+  },
+  {
+    "deckA": "Dragapult Blaziken",
+    "deckB": "Rocket's Honchkrow",
+    "deckAWins": 3,
+    "deckBWins": 4,
+    "totalMatches": 7,
+    "deckAWinRate": 42.9,
+    "deckBWinRate": 57.1
+  },
+  {
+    "deckA": "Festival Lead",
+    "deckB": "Mega Lucario",
+    "deckAWins": 6,
+    "deckBWins": 1,
+    "totalMatches": 7,
+    "deckAWinRate": 85.7,
+    "deckBWinRate": 14.3
+  },
+  {
+    "deckA": "Dragapult",
+    "deckB": "Greninja",
+    "deckAWins": 5,
+    "deckBWins": 2,
+    "totalMatches": 7,
+    "deckAWinRate": 71.4,
+    "deckBWinRate": 28.6
+  },
+  {
+    "deckA": "Beedrill",
+    "deckB": "Diancie Dusknoir",
+    "deckAWins": 4,
+    "deckBWins": 3,
+    "totalMatches": 7,
+    "deckAWinRate": 57.1,
+    "deckBWinRate": 42.9
+  },
+  {
+    "deckA": "Dragapult",
+    "deckB": "Dragapult Dudunsparce",
+    "deckAWins": 5,
+    "deckBWins": 2,
+    "totalMatches": 7,
+    "deckAWinRate": 71.4,
+    "deckBWinRate": 28.6
+  },
+  {
+    "deckA": "Hop's Trevenant",
+    "deckB": "Mega Starmie",
+    "deckAWins": 3,
+    "deckBWins": 4,
+    "totalMatches": 7,
+    "deckAWinRate": 42.9,
+    "deckBWinRate": 57.1
+  },
+  {
+    "deckA": "Festival Lead",
+    "deckB": "Hop's Trevenant",
+    "deckAWins": 4,
+    "deckBWins": 3,
+    "totalMatches": 7,
+    "deckAWinRate": 57.1,
+    "deckBWinRate": 42.9
+  },
+  {
+    "deckA": "Crustle",
+    "deckB": "Rocket's Mewtwo",
+    "deckAWins": 7,
+    "deckBWins": 0,
+    "totalMatches": 7,
+    "deckAWinRate": 100,
+    "deckBWinRate": 0
+  },
+  {
+    "deckA": "Lopunny Dudunsparce",
+    "deckB": "Rocket's Honchkrow",
+    "deckAWins": 3,
+    "deckBWins": 4,
+    "totalMatches": 7,
+    "deckAWinRate": 42.9,
+    "deckBWinRate": 57.1
+  },
+  {
+    "deckA": "Lopunny Dudunsparce",
+    "deckB": "N's Zoroark",
+    "deckAWins": 2,
+    "deckBWins": 5,
+    "totalMatches": 7,
+    "deckAWinRate": 28.6,
+    "deckBWinRate": 71.4
+  },
+  {
+    "deckA": "Alakazam Dudunsparce",
+    "deckB": "Ethan's Typhlosion",
+    "deckAWins": 3,
+    "deckBWins": 4,
+    "totalMatches": 7,
+    "deckAWinRate": 42.9,
+    "deckBWinRate": 57.1
+  },
+  {
+    "deckA": "Alakazam Dudunsparce",
+    "deckB": "Cynthia's Garchomp",
+    "deckAWins": 5,
+    "deckBWins": 2,
+    "totalMatches": 7,
+    "deckAWinRate": 71.4,
+    "deckBWinRate": 28.6
+  },
+  {
+    "deckA": "Festival Lead",
+    "deckB": "N's Zoroark",
+    "deckAWins": 3,
+    "deckBWins": 4,
+    "totalMatches": 7,
+    "deckAWinRate": 42.9,
+    "deckBWinRate": 57.1
+  },
+  {
+    "deckA": "Diancie Dusknoir",
+    "deckB": "Dragapult Blaziken",
+    "deckAWins": 1,
+    "deckBWins": 6,
+    "totalMatches": 7,
+    "deckAWinRate": 14.3,
+    "deckBWinRate": 85.7
+  },
+  {
+    "deckA": "Alakazam Dudunsparce",
+    "deckB": "Basic Box",
+    "deckAWins": 4,
+    "deckBWins": 3,
+    "totalMatches": 7,
+    "deckAWinRate": 57.1,
+    "deckBWinRate": 42.9
+  },
+  {
+    "deckA": "Mega Greninja",
+    "deckB": "Rocket's Honchkrow",
+    "deckAWins": 4,
+    "deckBWins": 3,
+    "totalMatches": 7,
+    "deckAWinRate": 57.1,
+    "deckBWinRate": 42.9
+  },
+  {
+    "deckA": "Dragapult Dudunsparce",
+    "deckB": "Slowking",
+    "deckAWins": 3,
+    "deckBWins": 4,
+    "totalMatches": 7,
+    "deckAWinRate": 42.9,
+    "deckBWinRate": 57.1
+  },
+  {
+    "deckA": "Festival Lead",
+    "deckB": "Slowking",
+    "deckAWins": 6,
+    "deckBWins": 1,
+    "totalMatches": 7,
+    "deckAWinRate": 85.7,
+    "deckBWinRate": 14.3
+  },
+  {
+    "deckA": "Ceruledge",
+    "deckB": "Other",
+    "deckAWins": 3,
+    "deckBWins": 4,
+    "totalMatches": 7,
+    "deckAWinRate": 42.9,
+    "deckBWinRate": 57.1
+  },
+  {
+    "deckA": "Dragapult",
+    "deckB": "Sharpedo Toxtricity",
+    "deckAWins": 5,
+    "deckBWins": 2,
+    "totalMatches": 7,
+    "deckAWinRate": 71.4,
+    "deckBWinRate": 28.6
+  },
+  {
+    "deckA": "Mega Lucario",
+    "deckB": "Ogerpon Meganium Hydrapple",
+    "deckAWins": 3,
+    "deckBWins": 4,
+    "totalMatches": 7,
+    "deckAWinRate": 42.9,
+    "deckBWinRate": 57.1
+  },
+  {
+    "deckA": "Rocket's Honchkrow",
+    "deckB": "Rocket's Mewtwo",
+    "deckAWins": 4,
+    "deckBWins": 3,
+    "totalMatches": 7,
+    "deckAWinRate": 57.1,
+    "deckBWinRate": 42.9
+  },
+  {
+    "deckA": "Greninja",
+    "deckB": "Hop's Trevenant",
+    "deckAWins": 1,
+    "deckBWins": 6,
+    "totalMatches": 7,
+    "deckAWinRate": 14.3,
+    "deckBWinRate": 85.7
+  },
+  {
+    "deckA": "Dragapult Blaziken",
+    "deckB": "Rocket's Mewtwo",
+    "deckAWins": 3,
+    "deckBWins": 4,
+    "totalMatches": 7,
+    "deckAWinRate": 42.9,
+    "deckBWinRate": 57.1
+  },
+  {
+    "deckA": "Beedrill",
+    "deckB": "Ceruledge",
+    "deckAWins": 2,
+    "deckBWins": 5,
+    "totalMatches": 7,
+    "deckAWinRate": 28.6,
+    "deckBWinRate": 71.4
+  },
+  {
+    "deckA": "Dragapult Blaziken",
+    "deckB": "Starmie Froslass",
+    "deckAWins": 5,
+    "deckBWins": 2,
+    "totalMatches": 7,
+    "deckAWinRate": 71.4,
+    "deckBWinRate": 28.6
+  },
+  {
+    "deckA": "Dragapult Dusknoir",
+    "deckB": "Ethan's Typhlosion",
+    "deckAWins": 2,
+    "deckBWins": 5,
+    "totalMatches": 7,
+    "deckAWinRate": 28.6,
+    "deckBWinRate": 71.4
+  },
+  {
+    "deckA": "Other",
+    "deckB": "Rocket's Mewtwo",
+    "deckAWins": 2,
+    "deckBWins": 5,
+    "totalMatches": 7,
+    "deckAWinRate": 28.6,
+    "deckBWinRate": 71.4
+  },
+  {
+    "deckA": "Beedrill",
+    "deckB": "Starmie Dusknoir",
+    "deckAWins": 5,
+    "deckBWins": 1,
+    "totalMatches": 6,
+    "deckAWinRate": 83.3,
+    "deckBWinRate": 16.7
+  },
+  {
+    "deckA": "Ethan's Typhlosion",
+    "deckB": "Ogerpon Meganium Hydrapple",
+    "deckAWins": 4,
+    "deckBWins": 2,
+    "totalMatches": 6,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Lucario Hariyama",
+    "deckB": "Starmie Dusknoir",
+    "deckAWins": 3,
+    "deckBWins": 3,
+    "totalMatches": 6,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Crustle",
+    "deckB": "Metagross",
+    "deckAWins": 3,
+    "deckBWins": 3,
+    "totalMatches": 6,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Crustle",
+    "deckB": "Cynthia's Garchomp",
+    "deckAWins": 3,
+    "deckBWins": 3,
+    "totalMatches": 6,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Mega Lucario",
+    "deckB": "Raging Bolt Ogerpon",
+    "deckAWins": 4,
+    "deckBWins": 2,
+    "totalMatches": 6,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Raging Bolt Ogerpon",
+    "deckB": "Rocket's Honchkrow",
+    "deckAWins": 5,
+    "deckBWins": 1,
+    "totalMatches": 6,
+    "deckAWinRate": 83.3,
+    "deckBWinRate": 16.7
+  },
+  {
+    "deckA": "Beedrill",
+    "deckB": "Mega Lucario",
+    "deckAWins": 3,
+    "deckBWins": 3,
+    "totalMatches": 6,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Dragapult Dudunsparce",
+    "deckB": "Other",
+    "deckAWins": 3,
+    "deckBWins": 3,
+    "totalMatches": 6,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Alakazam Dudunsparce",
+    "deckB": "Ceruledge",
+    "deckAWins": 3,
+    "deckBWins": 3,
+    "totalMatches": 6,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Crustle",
+    "deckB": "Festival Lead",
+    "deckAWins": 2,
+    "deckBWins": 4,
+    "totalMatches": 6,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Crustle",
+    "deckB": "Mega Lucario",
+    "deckAWins": 3,
+    "deckBWins": 3,
+    "totalMatches": 6,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Dragapult Blaziken",
+    "deckB": "Festival Lead",
+    "deckAWins": 3,
+    "deckBWins": 3,
+    "totalMatches": 6,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Ceruledge",
+    "deckB": "Dragapult Dusknoir",
+    "deckAWins": 0,
+    "deckBWins": 6,
+    "totalMatches": 6,
+    "deckAWinRate": 0,
+    "deckBWinRate": 100
+  },
+  {
+    "deckA": "Diancie Dusknoir",
+    "deckB": "Raging Bolt Ogerpon",
+    "deckAWins": 2,
+    "deckBWins": 4,
+    "totalMatches": 6,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Ethan's Typhlosion",
+    "deckB": "Other",
+    "deckAWins": 4,
+    "deckBWins": 2,
+    "totalMatches": 6,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Rocket's Mewtwo",
+    "deckB": "Starmie Froslass",
+    "deckAWins": 3,
+    "deckBWins": 3,
+    "totalMatches": 6,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Basic Box",
+    "deckB": "Slowking",
+    "deckAWins": 2,
+    "deckBWins": 4,
+    "totalMatches": 6,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Dragapult",
+    "deckB": "Grimmsnarl Froslass",
+    "deckAWins": 3,
+    "deckBWins": 3,
+    "totalMatches": 6,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Dragapult Dusknoir",
+    "deckB": "Starmie Froslass",
+    "deckAWins": 2,
+    "deckBWins": 4,
+    "totalMatches": 6,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Lopunny Dudunsparce",
+    "deckB": "Lucario Hariyama",
+    "deckAWins": 3,
+    "deckBWins": 3,
+    "totalMatches": 6,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Mega Greninja",
+    "deckB": "Starmie Froslass",
+    "deckAWins": 1,
+    "deckBWins": 5,
+    "totalMatches": 6,
+    "deckAWinRate": 16.7,
+    "deckBWinRate": 83.3
+  },
+  {
+    "deckA": "Festival Lead",
+    "deckB": "Greninja",
+    "deckAWins": 2,
+    "deckBWins": 4,
+    "totalMatches": 6,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Alakazam Dudunsparce",
+    "deckB": "Mega Lucario",
+    "deckAWins": 2,
+    "deckBWins": 4,
+    "totalMatches": 6,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "N's Zoroark",
+    "deckB": "Starmie Froslass",
+    "deckAWins": 2,
+    "deckBWins": 4,
+    "totalMatches": 6,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Lopunny Dudunsparce",
+    "deckB": "Ogerpon Meganium Hydrapple",
+    "deckAWins": 2,
+    "deckBWins": 4,
+    "totalMatches": 6,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Basic Box",
+    "deckB": "Other",
+    "deckAWins": 5,
+    "deckBWins": 1,
+    "totalMatches": 6,
+    "deckAWinRate": 83.3,
+    "deckBWinRate": 16.7
+  },
+  {
+    "deckA": "Cynthia's Garchomp",
+    "deckB": "Rocket's Honchkrow",
+    "deckAWins": 4,
+    "deckBWins": 2,
+    "totalMatches": 6,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Diancie Dusknoir",
+    "deckB": "Other",
+    "deckAWins": 3,
+    "deckBWins": 3,
+    "totalMatches": 6,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Dragapult Dusknoir",
+    "deckB": "Joltik Box",
+    "deckAWins": 2,
+    "deckBWins": 4,
+    "totalMatches": 6,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Dragapult Blaziken",
+    "deckB": "Lucario Hariyama",
+    "deckAWins": 4,
+    "deckBWins": 1,
+    "totalMatches": 5,
+    "deckAWinRate": 80,
+    "deckBWinRate": 20
+  },
+  {
+    "deckA": "Basic Box",
+    "deckB": "N's Zoroark",
+    "deckAWins": 1,
+    "deckBWins": 4,
+    "totalMatches": 5,
+    "deckAWinRate": 20,
+    "deckBWinRate": 80
+  },
+  {
+    "deckA": "Lopunny Dudunsparce",
+    "deckB": "Other",
+    "deckAWins": 0,
+    "deckBWins": 5,
+    "totalMatches": 5,
+    "deckAWinRate": 0,
+    "deckBWinRate": 100
+  },
+  {
+    "deckA": "Dragapult Blaziken",
+    "deckB": "Starmie Dusknoir",
+    "deckAWins": 2,
+    "deckBWins": 3,
+    "totalMatches": 5,
+    "deckAWinRate": 40,
+    "deckBWinRate": 60
+  },
+  {
+    "deckA": "Mega Greninja",
+    "deckB": "Starmie Dusknoir",
+    "deckAWins": 3,
+    "deckBWins": 2,
+    "totalMatches": 5,
+    "deckAWinRate": 60,
+    "deckBWinRate": 40
+  },
+  {
+    "deckA": "Archaludon Dudunsparce",
+    "deckB": "N's Zoroark",
+    "deckAWins": 3,
+    "deckBWins": 2,
+    "totalMatches": 5,
+    "deckAWinRate": 60,
+    "deckBWinRate": 40
+  },
+  {
+    "deckA": "Dragapult Dudunsparce",
+    "deckB": "Mega Greninja",
+    "deckAWins": 4,
+    "deckBWins": 1,
+    "totalMatches": 5,
+    "deckAWinRate": 80,
+    "deckBWinRate": 20
+  },
+  {
+    "deckA": "Beedrill",
+    "deckB": "Ogerpon Meganium Hydrapple",
+    "deckAWins": 3,
+    "deckBWins": 2,
+    "totalMatches": 5,
+    "deckAWinRate": 60,
+    "deckBWinRate": 40
+  },
+  {
+    "deckA": "Crustle",
+    "deckB": "Ethan's Typhlosion",
+    "deckAWins": 1,
+    "deckBWins": 4,
+    "totalMatches": 5,
+    "deckAWinRate": 20,
+    "deckBWinRate": 80
+  },
+  {
+    "deckA": "Basic Box",
+    "deckB": "Dragapult Blaziken",
+    "deckAWins": 3,
+    "deckBWins": 2,
+    "totalMatches": 5,
+    "deckAWinRate": 60,
+    "deckBWinRate": 40
+  },
+  {
+    "deckA": "Dragapult Dusknoir",
+    "deckB": "Mega Starmie",
+    "deckAWins": 2,
+    "deckBWins": 3,
+    "totalMatches": 5,
+    "deckAWinRate": 40,
+    "deckBWinRate": 60
+  },
+  {
+    "deckA": "Metagross",
+    "deckB": "Rocket's Mewtwo",
+    "deckAWins": 3,
+    "deckBWins": 2,
+    "totalMatches": 5,
+    "deckAWinRate": 60,
+    "deckBWinRate": 40
+  },
+  {
+    "deckA": "Raging Bolt Ogerpon",
+    "deckB": "Steven's Metagross",
+    "deckAWins": 4,
+    "deckBWins": 1,
+    "totalMatches": 5,
+    "deckAWinRate": 80,
+    "deckBWinRate": 20
+  },
+  {
+    "deckA": "Alakazam Dudunsparce",
+    "deckB": "Diancie Dusknoir",
+    "deckAWins": 3,
+    "deckBWins": 2,
+    "totalMatches": 5,
+    "deckAWinRate": 60,
+    "deckBWinRate": 40
+  },
+  {
+    "deckA": "Alakazam Dudunsparce",
+    "deckB": "Kangaskhan Bouffalant",
+    "deckAWins": 1,
+    "deckBWins": 4,
+    "totalMatches": 5,
+    "deckAWinRate": 20,
+    "deckBWinRate": 80
+  },
+  {
+    "deckA": "Alakazam Dudunsparce",
+    "deckB": "Lopunny Dudunsparce",
+    "deckAWins": 1,
+    "deckBWins": 4,
+    "totalMatches": 5,
+    "deckAWinRate": 20,
+    "deckBWinRate": 80
+  },
+  {
+    "deckA": "Alakazam Dudunsparce",
+    "deckB": "Metagross",
+    "deckAWins": 3,
+    "deckBWins": 2,
+    "totalMatches": 5,
+    "deckAWinRate": 60,
+    "deckBWinRate": 40
+  },
+  {
+    "deckA": "Ceruledge",
+    "deckB": "Ogerpon Meganium Hydrapple",
+    "deckAWins": 3,
+    "deckBWins": 2,
+    "totalMatches": 5,
+    "deckAWinRate": 60,
+    "deckBWinRate": 40
+  },
+  {
+    "deckA": "Cynthia's Garchomp",
+    "deckB": "Hop's Trevenant",
+    "deckAWins": 4,
+    "deckBWins": 1,
+    "totalMatches": 5,
+    "deckAWinRate": 80,
+    "deckBWinRate": 20
+  },
+  {
+    "deckA": "Festival Lead",
+    "deckB": "Raging Bolt Ogerpon",
+    "deckAWins": 5,
+    "deckBWins": 0,
+    "totalMatches": 5,
+    "deckAWinRate": 100,
+    "deckBWinRate": 0
+  },
+  {
+    "deckA": "Lucario Hariyama",
+    "deckB": "Starmie Froslass",
+    "deckAWins": 4,
+    "deckBWins": 1,
+    "totalMatches": 5,
+    "deckAWinRate": 80,
+    "deckBWinRate": 20
+  },
+  {
+    "deckA": "Lucario Hariyama",
+    "deckB": "Rocket's Mewtwo",
+    "deckAWins": 1,
+    "deckBWins": 4,
+    "totalMatches": 5,
+    "deckAWinRate": 20,
+    "deckBWinRate": 80
+  },
+  {
+    "deckA": "Grimmsnarl Froslass",
+    "deckB": "Other",
+    "deckAWins": 5,
+    "deckBWins": 0,
+    "totalMatches": 5,
+    "deckAWinRate": 100,
+    "deckBWinRate": 0
+  },
+  {
+    "deckA": "Ceruledge",
+    "deckB": "Crustle",
+    "deckAWins": 2,
+    "deckBWins": 3,
+    "totalMatches": 5,
+    "deckAWinRate": 40,
+    "deckBWinRate": 60
+  },
+  {
+    "deckA": "Ceruledge",
+    "deckB": "Lopunny Dudunsparce",
+    "deckAWins": 1,
+    "deckBWins": 4,
+    "totalMatches": 5,
+    "deckAWinRate": 20,
+    "deckBWinRate": 80
+  },
+  {
+    "deckA": "Mega Lucario",
+    "deckB": "Other",
+    "deckAWins": 4,
+    "deckBWins": 1,
+    "totalMatches": 5,
+    "deckAWinRate": 80,
+    "deckBWinRate": 20
+  },
+  {
+    "deckA": "Alakazam Dudunsparce",
+    "deckB": "Ogerpon Meganium",
+    "deckAWins": 5,
+    "deckBWins": 0,
+    "totalMatches": 5,
+    "deckAWinRate": 100,
+    "deckBWinRate": 0
+  },
+  {
+    "deckA": "Dragapult",
+    "deckB": "Toxtricity Box",
+    "deckAWins": 1,
+    "deckBWins": 4,
+    "totalMatches": 5,
+    "deckAWinRate": 20,
+    "deckBWinRate": 80
+  },
+  {
+    "deckA": "Greninja",
+    "deckB": "Slowking",
+    "deckAWins": 4,
+    "deckBWins": 1,
+    "totalMatches": 5,
+    "deckAWinRate": 80,
+    "deckBWinRate": 20
+  },
+  {
+    "deckA": "Festival Lead",
+    "deckB": "Rocket's Honchkrow",
+    "deckAWins": 2,
+    "deckBWins": 3,
+    "totalMatches": 5,
+    "deckAWinRate": 40,
+    "deckBWinRate": 60
+  },
+  {
+    "deckA": "Dragapult Dusknoir",
+    "deckB": "Mega Venusaur",
+    "deckAWins": 2,
+    "deckBWins": 3,
+    "totalMatches": 5,
+    "deckAWinRate": 40,
+    "deckBWinRate": 60
+  },
+  {
+    "deckA": "Slowking",
+    "deckB": "Starmie Froslass",
+    "deckAWins": 2,
+    "deckBWins": 3,
+    "totalMatches": 5,
+    "deckAWinRate": 40,
+    "deckBWinRate": 60
+  },
+  {
+    "deckA": "Archaludon Dudunsparce",
+    "deckB": "Slowking",
+    "deckAWins": 1,
+    "deckBWins": 4,
+    "totalMatches": 5,
+    "deckAWinRate": 20,
+    "deckBWinRate": 80
+  },
+  {
+    "deckA": "Greninja",
+    "deckB": "Rocket's Honchkrow",
+    "deckAWins": 4,
+    "deckBWins": 1,
+    "totalMatches": 5,
+    "deckAWinRate": 80,
+    "deckBWinRate": 20
+  },
+  {
+    "deckA": "Ethan's Typhlosion",
+    "deckB": "N's Zoroark",
+    "deckAWins": 3,
+    "deckBWins": 2,
+    "totalMatches": 5,
+    "deckAWinRate": 60,
+    "deckBWinRate": 40
+  },
+  {
+    "deckA": "Diancie Dusknoir",
+    "deckB": "Festival Lead",
+    "deckAWins": 2,
+    "deckBWins": 3,
+    "totalMatches": 5,
+    "deckAWinRate": 40,
+    "deckBWinRate": 60
+  },
+  {
+    "deckA": "Lopunny Dudunsparce",
+    "deckB": "Rocket's Mewtwo",
+    "deckAWins": 3,
+    "deckBWins": 2,
+    "totalMatches": 5,
+    "deckAWinRate": 60,
+    "deckBWinRate": 40
+  },
+  {
+    "deckA": "Dragapult",
+    "deckB": "Starmie Dusknoir",
+    "deckAWins": 3,
+    "deckBWins": 2,
+    "totalMatches": 5,
+    "deckAWinRate": 60,
+    "deckBWinRate": 40
+  },
+  {
+    "deckA": "Grimmsnarl Froslass",
+    "deckB": "Mega Greninja",
+    "deckAWins": 3,
+    "deckBWins": 2,
+    "totalMatches": 5,
+    "deckAWinRate": 60,
+    "deckBWinRate": 40
+  },
+  {
+    "deckA": "Ethan's Typhlosion",
+    "deckB": "Slowking",
+    "deckAWins": 4,
+    "deckBWins": 1,
+    "totalMatches": 5,
+    "deckAWinRate": 80,
+    "deckBWinRate": 20
+  },
+  {
+    "deckA": "Mega Lucario",
+    "deckB": "Rocket's Honchkrow",
+    "deckAWins": 3,
+    "deckBWins": 2,
+    "totalMatches": 5,
+    "deckAWinRate": 60,
+    "deckBWinRate": 40
+  },
+  {
+    "deckA": "Cynthia's Garchomp",
+    "deckB": "Dragapult Dusknoir",
+    "deckAWins": 1,
+    "deckBWins": 4,
+    "totalMatches": 5,
+    "deckAWinRate": 20,
+    "deckBWinRate": 80
+  },
+  {
+    "deckA": "Festival Lead",
+    "deckB": "Lucario Hariyama",
+    "deckAWins": 5,
+    "deckBWins": 0,
+    "totalMatches": 5,
+    "deckAWinRate": 100,
+    "deckBWinRate": 0
+  },
+  {
+    "deckA": "Archaludon Dudunsparce",
+    "deckB": "Dragapult Dusknoir",
+    "deckAWins": 3,
+    "deckBWins": 2,
+    "totalMatches": 5,
+    "deckAWinRate": 60,
+    "deckBWinRate": 40
+  },
+  {
+    "deckA": "Dragapult Dusknoir",
+    "deckB": "Starmie Dusknoir",
+    "deckAWins": 3,
+    "deckBWins": 2,
+    "totalMatches": 5,
+    "deckAWinRate": 60,
+    "deckBWinRate": 40
+  },
+  {
+    "deckA": "Crustle",
+    "deckB": "Starmie Dusknoir",
+    "deckAWins": 3,
+    "deckBWins": 2,
+    "totalMatches": 5,
+    "deckAWinRate": 60,
+    "deckBWinRate": 40
+  },
+  {
+    "deckA": "Other",
+    "deckB": "Starmie Froslass",
+    "deckAWins": 1,
+    "deckBWins": 3,
+    "totalMatches": 4,
+    "deckAWinRate": 25,
+    "deckBWinRate": 75
+  },
+  {
+    "deckA": "Dragapult Dudunsparce",
+    "deckB": "Raging Bolt Ogerpon",
+    "deckAWins": 1,
+    "deckBWins": 3,
+    "totalMatches": 4,
+    "deckAWinRate": 25,
+    "deckBWinRate": 75
+  },
+  {
+    "deckA": "Rocket's Honchkrow",
+    "deckB": "Starmie Froslass",
+    "deckAWins": 2,
+    "deckBWins": 2,
+    "totalMatches": 4,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Hop's Trevenant",
+    "deckB": "Steven's Metagross",
+    "deckAWins": 2,
+    "deckBWins": 2,
+    "totalMatches": 4,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Ogerpon Meganium Hydrapple",
+    "deckB": "Starmie Dusknoir",
+    "deckAWins": 3,
+    "deckBWins": 1,
+    "totalMatches": 4,
+    "deckAWinRate": 75,
+    "deckBWinRate": 25
+  },
+  {
+    "deckA": "Other",
+    "deckB": "Raging Bolt Ogerpon",
+    "deckAWins": 2,
+    "deckBWins": 2,
+    "totalMatches": 4,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Lucario Hariyama",
+    "deckB": "N's Zoroark",
+    "deckAWins": 1,
+    "deckBWins": 3,
+    "totalMatches": 4,
+    "deckAWinRate": 25,
+    "deckBWinRate": 75
+  },
+  {
+    "deckA": "Beedrill",
+    "deckB": "Dragapult Dudunsparce",
+    "deckAWins": 1,
+    "deckBWins": 3,
+    "totalMatches": 4,
+    "deckAWinRate": 25,
+    "deckBWinRate": 75
+  },
+  {
+    "deckA": "Ogerpon Meganium Hydrapple",
+    "deckB": "Steven's Metagross",
+    "deckAWins": 3,
+    "deckBWins": 1,
+    "totalMatches": 4,
+    "deckAWinRate": 75,
+    "deckBWinRate": 25
+  },
+  {
+    "deckA": "Crustle",
+    "deckB": "Dragapult Dudunsparce",
+    "deckAWins": 4,
+    "deckBWins": 0,
+    "totalMatches": 4,
+    "deckAWinRate": 100,
+    "deckBWinRate": 0
+  },
+  {
+    "deckA": "Basic Box",
+    "deckB": "Metagross",
+    "deckAWins": 0,
+    "deckBWins": 4,
+    "totalMatches": 4,
+    "deckAWinRate": 0,
+    "deckBWinRate": 100
+  },
+  {
+    "deckA": "Hop's Trevenant",
+    "deckB": "Metagross",
+    "deckAWins": 3,
+    "deckBWins": 1,
+    "totalMatches": 4,
+    "deckAWinRate": 75,
+    "deckBWinRate": 25
+  },
+  {
+    "deckA": "Rocket's Mewtwo",
+    "deckB": "Starmie Dusknoir",
+    "deckAWins": 1,
+    "deckBWins": 3,
+    "totalMatches": 4,
+    "deckAWinRate": 25,
+    "deckBWinRate": 75
+  },
+  {
+    "deckA": "Mega Starmie",
+    "deckB": "Raging Bolt Ogerpon",
+    "deckAWins": 1,
+    "deckBWins": 3,
+    "totalMatches": 4,
+    "deckAWinRate": 25,
+    "deckBWinRate": 75
+  },
+  {
+    "deckA": "Metagross",
+    "deckB": "Raging Bolt Ogerpon",
+    "deckAWins": 1,
+    "deckBWins": 3,
+    "totalMatches": 4,
+    "deckAWinRate": 25,
+    "deckBWinRate": 75
+  },
+  {
+    "deckA": "Beedrill",
+    "deckB": "Greninja",
+    "deckAWins": 2,
+    "deckBWins": 2,
+    "totalMatches": 4,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Dragapult",
+    "deckB": "Ethan's Magcargo",
+    "deckAWins": 3,
+    "deckBWins": 1,
+    "totalMatches": 4,
+    "deckAWinRate": 75,
+    "deckBWinRate": 25
+  },
+  {
+    "deckA": "Alakazam Dudunsparce",
+    "deckB": "Mega Starmie",
+    "deckAWins": 3,
+    "deckBWins": 1,
+    "totalMatches": 4,
+    "deckAWinRate": 75,
+    "deckBWinRate": 25
+  },
+  {
+    "deckA": "Dragapult Blaziken",
+    "deckB": "Metagross",
+    "deckAWins": 2,
+    "deckBWins": 2,
+    "totalMatches": 4,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Lopunny Dudunsparce",
+    "deckB": "Starmie Froslass",
+    "deckAWins": 2,
+    "deckBWins": 2,
+    "totalMatches": 4,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Beedrill",
+    "deckB": "Kangaskhan Bouffalant",
+    "deckAWins": 1,
+    "deckBWins": 3,
+    "totalMatches": 4,
+    "deckAWinRate": 25,
+    "deckBWinRate": 75
+  },
+  {
+    "deckA": "Cynthia's Garchomp",
+    "deckB": "Raging Bolt Ogerpon",
+    "deckAWins": 1,
+    "deckBWins": 3,
+    "totalMatches": 4,
+    "deckAWinRate": 25,
+    "deckBWinRate": 75
+  },
+  {
+    "deckA": "Cynthia's Garchomp",
+    "deckB": "Okidogi Barbaracle",
+    "deckAWins": 2,
+    "deckBWins": 2,
+    "totalMatches": 4,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Kangaskhan Bouffalant",
+    "deckB": "N's Zoroark",
+    "deckAWins": 3,
+    "deckBWins": 1,
+    "totalMatches": 4,
+    "deckAWinRate": 75,
+    "deckBWinRate": 25
+  },
+  {
+    "deckA": "Dragapult Dudunsparce",
+    "deckB": "Lucario Hariyama",
+    "deckAWins": 1,
+    "deckBWins": 3,
+    "totalMatches": 4,
+    "deckAWinRate": 25,
+    "deckBWinRate": 75
+  },
+  {
+    "deckA": "Alakazam Dudunsparce",
+    "deckB": "Grimmsnarl Froslass",
+    "deckAWins": 4,
+    "deckBWins": 0,
+    "totalMatches": 4,
+    "deckAWinRate": 100,
+    "deckBWinRate": 0
+  },
+  {
+    "deckA": "Grimmsnarl Froslass",
+    "deckB": "Ogerpon Meganium Hydrapple",
+    "deckAWins": 1,
+    "deckBWins": 3,
+    "totalMatches": 4,
+    "deckAWinRate": 25,
+    "deckBWinRate": 75
+  },
+  {
+    "deckA": "Mega Lucario",
+    "deckB": "Starmie Froslass",
+    "deckAWins": 2,
+    "deckBWins": 2,
+    "totalMatches": 4,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Lopunny Dudunsparce",
+    "deckB": "Slowking",
+    "deckAWins": 2,
+    "deckBWins": 2,
+    "totalMatches": 4,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Mega Starmie",
+    "deckB": "Slowking",
+    "deckAWins": 1,
+    "deckBWins": 3,
+    "totalMatches": 4,
+    "deckAWinRate": 25,
+    "deckBWinRate": 75
+  },
+  {
+    "deckA": "Lillie's Clefairy",
+    "deckB": "Slowking",
+    "deckAWins": 2,
+    "deckBWins": 2,
+    "totalMatches": 4,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Dragapult Dusknoir",
+    "deckB": "Mega Lopunny",
+    "deckAWins": 1,
+    "deckBWins": 3,
+    "totalMatches": 4,
+    "deckAWinRate": 25,
+    "deckBWinRate": 75
+  },
+  {
+    "deckA": "Archaludon Dudunsparce",
+    "deckB": "Dragapult",
+    "deckAWins": 1,
+    "deckBWins": 3,
+    "totalMatches": 4,
+    "deckAWinRate": 25,
+    "deckBWinRate": 75
+  },
+  {
+    "deckA": "Archaludon Dudunsparce",
+    "deckB": "Other",
+    "deckAWins": 4,
+    "deckBWins": 0,
+    "totalMatches": 4,
+    "deckAWinRate": 100,
+    "deckBWinRate": 0
+  },
+  {
+    "deckA": "Dragapult Dusknoir",
+    "deckB": "Manectric Eelektrik",
+    "deckAWins": 2,
+    "deckBWins": 2,
+    "totalMatches": 4,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Basic Box",
+    "deckB": "Festival Lead",
+    "deckAWins": 1,
+    "deckBWins": 3,
+    "totalMatches": 4,
+    "deckAWinRate": 25,
+    "deckBWinRate": 75
+  },
+  {
+    "deckA": "Mega Starmie",
+    "deckB": "Ogerpon Meganium Hydrapple",
+    "deckAWins": 2,
+    "deckBWins": 2,
+    "totalMatches": 4,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Dragapult Blaziken",
+    "deckB": "Ethan's Typhlosion",
+    "deckAWins": 3,
+    "deckBWins": 1,
+    "totalMatches": 4,
+    "deckAWinRate": 75,
+    "deckBWinRate": 25
+  },
+  {
+    "deckA": "Dragapult Dusknoir",
+    "deckB": "Grimmsnarl Froslass",
+    "deckAWins": 3,
+    "deckBWins": 1,
+    "totalMatches": 4,
+    "deckAWinRate": 75,
+    "deckBWinRate": 25
+  },
+  {
+    "deckA": "Ogerpon Meganium",
+    "deckB": "Slowking",
+    "deckAWins": 2,
+    "deckBWins": 2,
+    "totalMatches": 4,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Crustle",
+    "deckB": "Diancie Dusknoir",
+    "deckAWins": 2,
+    "deckBWins": 2,
+    "totalMatches": 4,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Dragapult Dudunsparce",
+    "deckB": "Rocket's Honchkrow",
+    "deckAWins": 1,
+    "deckBWins": 3,
+    "totalMatches": 4,
+    "deckAWinRate": 25,
+    "deckBWinRate": 75
+  },
+  {
+    "deckA": "Cynthia's Garchomp",
+    "deckB": "Kangaskhan Bouffalant",
+    "deckAWins": 4,
+    "deckBWins": 0,
+    "totalMatches": 4,
+    "deckAWinRate": 100,
+    "deckBWinRate": 0
+  },
+  {
+    "deckA": "Cynthia's Garchomp",
+    "deckB": "Mega Greninja",
+    "deckAWins": 2,
+    "deckBWins": 2,
+    "totalMatches": 4,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Greninja",
+    "deckB": "Mega Greninja",
+    "deckAWins": 2,
+    "deckBWins": 2,
+    "totalMatches": 4,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Blaziken",
+    "deckB": "Hop's Trevenant",
+    "deckAWins": 3,
+    "deckBWins": 1,
+    "totalMatches": 4,
+    "deckAWinRate": 75,
+    "deckBWinRate": 25
+  },
+  {
+    "deckA": "Rocket's Mewtwo",
+    "deckB": "Yanmega",
+    "deckAWins": 1,
+    "deckBWins": 3,
+    "totalMatches": 4,
+    "deckAWinRate": 25,
+    "deckBWinRate": 75
+  },
+  {
+    "deckA": "Joltik Box",
+    "deckB": "Slowking",
+    "deckAWins": 2,
+    "deckBWins": 2,
+    "totalMatches": 4,
+    "deckAWinRate": 50,
+    "deckBWinRate": 50
+  },
+  {
+    "deckA": "Ogerpon Meganium Arboliva",
+    "deckB": "Slowking",
+    "deckAWins": 4,
+    "deckBWins": 0,
+    "totalMatches": 4,
+    "deckAWinRate": 100,
+    "deckBWinRate": 0
+  },
+  {
+    "deckA": "Dragapult",
+    "deckB": "Ogerpon Meganium Arboliva",
+    "deckAWins": 4,
+    "deckBWins": 0,
+    "totalMatches": 4,
+    "deckAWinRate": 100,
+    "deckBWinRate": 0
+  },
+  {
+    "deckA": "N's Zoroark",
+    "deckB": "Steven's Metagross",
+    "deckAWins": 3,
+    "deckBWins": 1,
+    "totalMatches": 4,
+    "deckAWinRate": 75,
+    "deckBWinRate": 25
+  },
+  {
+    "deckA": "Metagross",
+    "deckB": "Slowking",
+    "deckAWins": 1,
+    "deckBWins": 3,
+    "totalMatches": 4,
+    "deckAWinRate": 25,
+    "deckBWinRate": 75
+  },
+  {
+    "deckA": "Mega Greninja",
+    "deckB": "Tera Box",
+    "deckAWins": 1,
+    "deckBWins": 3,
+    "totalMatches": 4,
+    "deckAWinRate": 25,
+    "deckBWinRate": 75
+  },
+  {
+    "deckA": "Cynthia's Garchomp",
+    "deckB": "Metagross",
+    "deckAWins": 3,
+    "deckBWins": 0,
+    "totalMatches": 3,
+    "deckAWinRate": 100,
+    "deckBWinRate": 0
+  },
+  {
+    "deckA": "Dragapult",
+    "deckB": "Steven's Metagross",
+    "deckAWins": 0,
+    "deckBWins": 3,
+    "totalMatches": 3,
+    "deckAWinRate": 0,
+    "deckBWinRate": 100
+  },
+  {
+    "deckA": "N's Zoroark",
+    "deckB": "Starmie Dusknoir",
+    "deckAWins": 2,
+    "deckBWins": 1,
+    "totalMatches": 3,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Dragapult",
+    "deckB": "Mega Venusaur",
+    "deckAWins": 2,
+    "deckBWins": 1,
+    "totalMatches": 3,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Cynthia's Garchomp",
+    "deckB": "Ogerpon Meganium Hydrapple",
+    "deckAWins": 0,
+    "deckBWins": 3,
+    "totalMatches": 3,
+    "deckAWinRate": 0,
+    "deckBWinRate": 100
+  },
+  {
+    "deckA": "Hop's Trevenant",
+    "deckB": "Starmie Froslass",
+    "deckAWins": 2,
+    "deckBWins": 1,
+    "totalMatches": 3,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Basic Box",
+    "deckB": "Crustle",
+    "deckAWins": 1,
+    "deckBWins": 2,
+    "totalMatches": 3,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Beedrill",
+    "deckB": "Cynthia's Garchomp",
+    "deckAWins": 3,
+    "deckBWins": 0,
+    "totalMatches": 3,
+    "deckAWinRate": 100,
+    "deckBWinRate": 0
+  },
+  {
+    "deckA": "Ethan's Typhlosion",
+    "deckB": "Hop's Trevenant",
+    "deckAWins": 2,
+    "deckBWins": 1,
+    "totalMatches": 3,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Mega Venusaur",
+    "deckB": "N's Zoroark",
+    "deckAWins": 1,
+    "deckBWins": 2,
+    "totalMatches": 3,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Beedrill",
+    "deckB": "Palafin",
+    "deckAWins": 2,
+    "deckBWins": 1,
+    "totalMatches": 3,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Hop's Trevenant",
+    "deckB": "Hydreigon",
+    "deckAWins": 3,
+    "deckBWins": 0,
+    "totalMatches": 3,
+    "deckAWinRate": 100,
+    "deckBWinRate": 0
+  },
+  {
+    "deckA": "Greninja",
+    "deckB": "Other",
+    "deckAWins": 3,
+    "deckBWins": 0,
+    "totalMatches": 3,
+    "deckAWinRate": 100,
+    "deckBWinRate": 0
+  },
+  {
+    "deckA": "Dragapult Dusknoir",
+    "deckB": "Mega Charizard X",
+    "deckAWins": 2,
+    "deckBWins": 1,
+    "totalMatches": 3,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Metagross",
+    "deckB": "Other",
+    "deckAWins": 2,
+    "deckBWins": 1,
+    "totalMatches": 3,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Dragapult Blaziken",
+    "deckB": "Mega Starmie",
+    "deckAWins": 2,
+    "deckBWins": 1,
+    "totalMatches": 3,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Mega Lucario",
+    "deckB": "Metagross",
+    "deckAWins": 2,
+    "deckBWins": 1,
+    "totalMatches": 3,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Alakazam Dudunsparce",
+    "deckB": "Dragapult Dudunsparce",
+    "deckAWins": 3,
+    "deckBWins": 0,
+    "totalMatches": 3,
+    "deckAWinRate": 100,
+    "deckBWinRate": 0
+  },
+  {
+    "deckA": "Dragapult Blaziken",
+    "deckB": "Mega Lucario",
+    "deckAWins": 2,
+    "deckBWins": 1,
+    "totalMatches": 3,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Dragapult",
+    "deckB": "Hydreigon",
+    "deckAWins": 2,
+    "deckBWins": 1,
+    "totalMatches": 3,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Beedrill",
+    "deckB": "Hydreigon",
+    "deckAWins": 1,
+    "deckBWins": 2,
+    "totalMatches": 3,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Dragapult Dudunsparce",
+    "deckB": "Rocket's Mewtwo",
+    "deckAWins": 2,
+    "deckBWins": 1,
+    "totalMatches": 3,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Crustle",
+    "deckB": "Palafin",
+    "deckAWins": 2,
+    "deckBWins": 1,
+    "totalMatches": 3,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Beedrill",
+    "deckB": "Starmie Froslass",
+    "deckAWins": 2,
+    "deckBWins": 1,
+    "totalMatches": 3,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Other",
+    "deckB": "Raging Bolt Bellibolt",
+    "deckAWins": 1,
+    "deckBWins": 2,
+    "totalMatches": 3,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Dragapult",
+    "deckB": "Hop's Zacian",
+    "deckAWins": 1,
+    "deckBWins": 2,
+    "totalMatches": 3,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Hydreigon",
+    "deckB": "Other",
+    "deckAWins": 1,
+    "deckBWins": 2,
+    "totalMatches": 3,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Mega Lucario",
+    "deckB": "Starmie Dusknoir",
+    "deckAWins": 1,
+    "deckBWins": 2,
+    "totalMatches": 3,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Dragapult Dusknoir",
+    "deckB": "Ursaluna Lunatone",
+    "deckAWins": 2,
+    "deckBWins": 1,
+    "totalMatches": 3,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Kangaskhan Bouffalant",
+    "deckB": "Other",
+    "deckAWins": 3,
+    "deckBWins": 0,
+    "totalMatches": 3,
+    "deckAWinRate": 100,
+    "deckBWinRate": 0
+  },
+  {
+    "deckA": "Ceruledge",
+    "deckB": "Hop's Trevenant",
+    "deckAWins": 0,
+    "deckBWins": 3,
+    "totalMatches": 3,
+    "deckAWinRate": 0,
+    "deckBWinRate": 100
+  },
+  {
+    "deckA": "Hydreigon",
+    "deckB": "Lucario Hariyama",
+    "deckAWins": 1,
+    "deckBWins": 2,
+    "totalMatches": 3,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Basic Box",
+    "deckB": "Mega Lucario",
+    "deckAWins": 3,
+    "deckBWins": 0,
+    "totalMatches": 3,
+    "deckAWinRate": 100,
+    "deckBWinRate": 0
+  },
+  {
+    "deckA": "Festival Lead",
+    "deckB": "Lopunny Dudunsparce",
+    "deckAWins": 2,
+    "deckBWins": 1,
+    "totalMatches": 3,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Dragapult",
+    "deckB": "Okidogi",
+    "deckAWins": 2,
+    "deckBWins": 1,
+    "totalMatches": 3,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Basic Box",
+    "deckB": "Lopunny Dudunsparce",
+    "deckAWins": 3,
+    "deckBWins": 0,
+    "totalMatches": 3,
+    "deckAWinRate": 100,
+    "deckBWinRate": 0
+  },
+  {
+    "deckA": "Basic Box",
+    "deckB": "Beedrill",
+    "deckAWins": 1,
+    "deckBWins": 2,
+    "totalMatches": 3,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Basic Box",
+    "deckB": "Rocket's Honchkrow",
+    "deckAWins": 1,
+    "deckBWins": 2,
+    "totalMatches": 3,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Mega Greninja",
+    "deckB": "Ogerpon Meganium",
+    "deckAWins": 1,
+    "deckBWins": 2,
+    "totalMatches": 3,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Grimmsnarl Froslass",
+    "deckB": "Slowking",
+    "deckAWins": 1,
+    "deckBWins": 2,
+    "totalMatches": 3,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Dragapult",
+    "deckB": "Ogerpon Meganium",
+    "deckAWins": 2,
+    "deckBWins": 1,
+    "totalMatches": 3,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Dragapult",
+    "deckB": "Mega Absol Box",
+    "deckAWins": 1,
+    "deckBWins": 2,
+    "totalMatches": 3,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Slowking",
+    "deckB": "Toxtricity Box",
+    "deckAWins": 1,
+    "deckBWins": 2,
+    "totalMatches": 3,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Manectric Eelektrik",
+    "deckB": "Mega Greninja",
+    "deckAWins": 2,
+    "deckBWins": 1,
+    "totalMatches": 3,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Greninja",
+    "deckB": "Lucario Hariyama",
+    "deckAWins": 3,
+    "deckBWins": 0,
+    "totalMatches": 3,
+    "deckAWinRate": 100,
+    "deckBWinRate": 0
+  },
+  {
+    "deckA": "Archaludon Dudunsparce",
+    "deckB": "Dragapult Blaziken",
+    "deckAWins": 0,
+    "deckBWins": 3,
+    "totalMatches": 3,
+    "deckAWinRate": 0,
+    "deckBWinRate": 100
+  },
+  {
+    "deckA": "Dragapult Dudunsparce",
+    "deckB": "Lopunny Dudunsparce",
+    "deckAWins": 2,
+    "deckBWins": 1,
+    "totalMatches": 3,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Festival Lead",
+    "deckB": "Starmie Froslass",
+    "deckAWins": 0,
+    "deckBWins": 3,
+    "totalMatches": 3,
+    "deckAWinRate": 0,
+    "deckBWinRate": 100
+  },
+  {
+    "deckA": "Ethan's Typhlosion",
+    "deckB": "Rocket's Honchkrow",
+    "deckAWins": 1,
+    "deckBWins": 2,
+    "totalMatches": 3,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Mega Greninja",
+    "deckB": "Sharpedo Toxtricity",
+    "deckAWins": 1,
+    "deckBWins": 2,
+    "totalMatches": 3,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Crustle",
+    "deckB": "Lopunny Dudunsparce",
+    "deckAWins": 2,
+    "deckBWins": 1,
+    "totalMatches": 3,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Alakazam Dudunsparce",
+    "deckB": "Mega Venusaur",
+    "deckAWins": 3,
+    "deckBWins": 0,
+    "totalMatches": 3,
+    "deckAWinRate": 100,
+    "deckBWinRate": 0
+  },
+  {
+    "deckA": "Alakazam Dudunsparce",
+    "deckB": "Doublade",
+    "deckAWins": 1,
+    "deckBWins": 2,
+    "totalMatches": 3,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Doublade",
+    "deckB": "Mega Greninja",
+    "deckAWins": 2,
+    "deckBWins": 1,
+    "totalMatches": 3,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Doublade",
+    "deckB": "Dragapult",
+    "deckAWins": 0,
+    "deckBWins": 3,
+    "totalMatches": 3,
+    "deckAWinRate": 0,
+    "deckBWinRate": 100
+  },
+  {
+    "deckA": "Mega Starmie",
+    "deckB": "N's Zoroark",
+    "deckAWins": 3,
+    "deckBWins": 0,
+    "totalMatches": 3,
+    "deckAWinRate": 100,
+    "deckBWinRate": 0
+  },
+  {
+    "deckA": "Basic Box",
+    "deckB": "Ceruledge",
+    "deckAWins": 0,
+    "deckBWins": 3,
+    "totalMatches": 3,
+    "deckAWinRate": 0,
+    "deckBWinRate": 100
+  },
+  {
+    "deckA": "Mega Greninja",
+    "deckB": "Steven's Metagross",
+    "deckAWins": 2,
+    "deckBWins": 1,
+    "totalMatches": 3,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Cynthia's Garchomp",
+    "deckB": "Rocket's Mewtwo",
+    "deckAWins": 1,
+    "deckBWins": 2,
+    "totalMatches": 3,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Mega Starmie",
+    "deckB": "Rocket's Mewtwo",
+    "deckAWins": 1,
+    "deckBWins": 2,
+    "totalMatches": 3,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Greninja",
+    "deckB": "N's Zoroark",
+    "deckAWins": 1,
+    "deckBWins": 2,
+    "totalMatches": 3,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Ceruledge",
+    "deckB": "Rocket's Mewtwo",
+    "deckAWins": 2,
+    "deckBWins": 1,
+    "totalMatches": 3,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Lillie's Clefairy",
+    "deckB": "Mega Lucario",
+    "deckAWins": 0,
+    "deckBWins": 3,
+    "totalMatches": 3,
+    "deckAWinRate": 0,
+    "deckBWinRate": 100
+  },
+  {
+    "deckA": "Kangaskhan Bouffalant",
+    "deckB": "Slowking",
+    "deckAWins": 2,
+    "deckBWins": 1,
+    "totalMatches": 3,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Archaludon Dudunsparce",
+    "deckB": "Mega Greninja",
+    "deckAWins": 2,
+    "deckBWins": 1,
+    "totalMatches": 3,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Festival Lead",
+    "deckB": "Rocket's Mewtwo",
+    "deckAWins": 2,
+    "deckBWins": 1,
+    "totalMatches": 3,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Hydreigon",
+    "deckB": "Mega Greninja",
+    "deckAWins": 2,
+    "deckBWins": 1,
+    "totalMatches": 3,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Other",
+    "deckB": "Yanmega",
+    "deckAWins": 1,
+    "deckBWins": 2,
+    "totalMatches": 3,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Archaludon Dudunsparce",
+    "deckB": "Festival Lead",
+    "deckAWins": 1,
+    "deckBWins": 2,
+    "totalMatches": 3,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Dragapult",
+    "deckB": "Kangaskhan Bouffalant",
+    "deckAWins": 3,
+    "deckBWins": 0,
+    "totalMatches": 3,
+    "deckAWinRate": 100,
+    "deckBWinRate": 0
+  },
+  {
+    "deckA": "Festival Lead",
+    "deckB": "Starmie Dusknoir",
+    "deckAWins": 2,
+    "deckBWins": 1,
+    "totalMatches": 3,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Lopunny Dudunsparce",
+    "deckB": "Starmie Dusknoir",
+    "deckAWins": 2,
+    "deckBWins": 1,
+    "totalMatches": 3,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Greninja",
+    "deckB": "Raging Bolt Ogerpon",
+    "deckAWins": 2,
+    "deckBWins": 1,
+    "totalMatches": 3,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Grimmsnarl Froslass",
+    "deckB": "Starmie Dusknoir",
+    "deckAWins": 3,
+    "deckBWins": 0,
+    "totalMatches": 3,
+    "deckAWinRate": 100,
+    "deckBWinRate": 0
+  },
+  {
+    "deckA": "Beedrill",
+    "deckB": "Joltik Box",
+    "deckAWins": 1,
+    "deckBWins": 2,
+    "totalMatches": 3,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Lillie's Clefairy",
+    "deckB": "Mega Greninja",
+    "deckAWins": 1,
+    "deckBWins": 2,
+    "totalMatches": 3,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Mega Charizard X",
+    "deckB": "N's Zoroark",
+    "deckAWins": 1,
+    "deckBWins": 2,
+    "totalMatches": 3,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Dragapult",
+    "deckB": "Flareon Noctowl",
+    "deckAWins": 2,
+    "deckBWins": 1,
+    "totalMatches": 3,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Alakazam Dudunsparce",
+    "deckB": "Mega Abomasnow",
+    "deckAWins": 3,
+    "deckBWins": 0,
+    "totalMatches": 3,
+    "deckAWinRate": 100,
+    "deckBWinRate": 0
+  },
+  {
+    "deckA": "Mega Greninja",
+    "deckB": "Ogerpon Meganium Arboliva",
+    "deckAWins": 1,
+    "deckBWins": 2,
+    "totalMatches": 3,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Hop's Zacian",
+    "deckB": "Lucario Hariyama",
+    "deckAWins": 0,
+    "deckBWins": 3,
+    "totalMatches": 3,
+    "deckAWinRate": 0,
+    "deckBWinRate": 100
+  },
+  {
+    "deckA": "Dragapult Blaziken",
+    "deckB": "Steven's Metagross",
+    "deckAWins": 1,
+    "deckBWins": 2,
+    "totalMatches": 3,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Greninja",
+    "deckB": "Rocket's Mewtwo",
+    "deckAWins": 3,
+    "deckBWins": 0,
+    "totalMatches": 3,
+    "deckAWinRate": 100,
+    "deckBWinRate": 0
+  },
+  {
+    "deckA": "Alakazam Dudunsparce",
+    "deckB": "Ogerpon Meganium Arboliva",
+    "deckAWins": 1,
+    "deckBWins": 2,
+    "totalMatches": 3,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Metagross",
+    "deckB": "Starmie Froslass",
+    "deckAWins": 3,
+    "deckBWins": 0,
+    "totalMatches": 3,
+    "deckAWinRate": 100,
+    "deckBWinRate": 0
+  },
+  {
+    "deckA": "Bloodmoon Ursaluna",
+    "deckB": "Slowking",
+    "deckAWins": 2,
+    "deckBWins": 1,
+    "totalMatches": 3,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Mega Charizard X",
+    "deckB": "Raging Bolt Ogerpon",
+    "deckAWins": 1,
+    "deckBWins": 2,
+    "totalMatches": 3,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Joltik Box",
+    "deckB": "Mega Greninja",
+    "deckAWins": 2,
+    "deckBWins": 1,
+    "totalMatches": 3,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  },
+  {
+    "deckA": "Dragapult Dusknoir",
+    "deckB": "Ogerpon Meganium Arboliva",
+    "deckAWins": 1,
+    "deckBWins": 2,
+    "totalMatches": 3,
+    "deckAWinRate": 33.3,
+    "deckBWinRate": 66.7
+  },
+  {
+    "deckA": "Beedrill",
+    "deckB": "Sharpedo Toxtricity",
+    "deckAWins": 2,
+    "deckBWins": 1,
+    "totalMatches": 3,
+    "deckAWinRate": 66.7,
+    "deckBWinRate": 33.3
+  }
+]

@@ -2,6 +2,8 @@ export type Deck = {
   id: number
   name: string
   decklist: string
+  archetype?: string
+  variant?: string
 }
 
 export type Match = {
@@ -38,10 +40,19 @@ export type AdvisorCandidateDeck = {
   }
 }
 
+export type AdvisorMatchupSummary = {
+  name: string
+  winRate: number
+  sampleSize: number
+}
+
 export type AdvisorResult = {
   deckName: string
   archetype: string
   fieldWinRate: number
   comfort: number
   adjustedScore: number
+  comfortBonus: number
+  bestMatchups: AdvisorMatchupSummary[]
+  worstMatchups: AdvisorMatchupSummary[]
 }

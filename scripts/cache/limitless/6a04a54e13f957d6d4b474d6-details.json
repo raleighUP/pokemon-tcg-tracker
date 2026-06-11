@@ -1,0 +1,24 @@
+{
+  "id": "6a04a54e13f957d6d4b474d6",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "Defenders Arena #15🏆|INDY REGIONAL PREP|50+ CODES",
+  "date": "2026-05-17T00:30:00.000Z",
+  "players": 108,
+  "organizer": {
+    "id": 2226,
+    "name": "Vault of Games"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 7,
+      "mode": "BO1"
+    }
+  ]
+}
