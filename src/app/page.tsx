@@ -13,6 +13,23 @@ import { detectDeckArchetype } from '@/utils/archetypes'
 
 import { Deck, Match, CardEntry } from '@/types'
 
+function readStoredArray<T>(key: string): T[] {
+  if (typeof window === 'undefined') return []
+
+  const savedValue = localStorage.getItem(key)
+
+  if (!savedValue) return []
+
+  try {
+    const parsedValue = JSON.parse(savedValue)
+
+    return Array.isArray(parsedValue) ? parsedValue : []
+  } catch {
+    localStorage.removeItem(key)
+    return []
+  }
+}
+
 export default function Home() {
 const [activeTab, setActiveTab] = useState<
   'decks' | 'compare' | 'matches' | 'history' | 'advisor'
@@ -20,11 +37,15 @@ const [activeTab, setActiveTab] = useState<
   const [deckName, setDeckName] = useState('')
   const [decklist, setDecklist] = useState('')
 
-  const [decks, setDecks] = useState<Deck[]>([])
+  const [decks, setDecks] = useState<Deck[]>(() =>
+  readStoredArray<Deck>('pokemon-decks')
+)
 
   const [selectedDeck, setSelectedDeck] = useState<Deck | null>(null)
   const [editingDeckId, setEditingDeckId] = useState<number | null>(null)
-  const [matches, setMatches] = useState<Match[]>([])
+  const [matches, setMatches] = useState<Match[]>(() =>
+  readStoredArray<Match>('pokemon-matches')
+)
 
   const [invalidMatchFields, setInvalidMatchFields] = useState<string[]>([])
 
@@ -68,17 +89,6 @@ const [eventSuccess, setEventSuccess] =
 const [notes, setNotes] = useState('')
   const [compareDeck1, setCompareDeck1] = useState('')
   const [compareDeck2, setCompareDeck2] = useState('')
-
-  const [roundError, setRoundError] = useState(false)
-  const isRoundValid =
-  editingMatch &&
-  editingMatch.round !== undefined &&
-  editingMatch.round !== null &&
-  editingMatch.round > 0
-
-const isFormValid =
-  isRoundValid &&
-  editingMatch?.opponentDeck?.trim() !== ''
 
   const parseDeck = (deckName: string): CardEntry[] => {
   const deck = decks.find((d) => d.name === deckName)
@@ -147,26 +157,6 @@ const changes = allCardNames
     }
   })
   .filter((change) => change.diff !== 0)
-
-  useEffect(() => {
-  const savedDecks = localStorage.getItem('pokemon-decks')
-
-  const savedMatches = localStorage.getItem(
-    'pokemon-matches'
-  )
-
-  if (savedDecks) {
-    const parsedDecks = JSON.parse(savedDecks)
-
-    setDecks(parsedDecks)
-  }
-
-  if (savedMatches) {
-    const parsedMatches = JSON.parse(savedMatches)
-
-    setMatches(parsedMatches)
-  }
-}, [])
 
 useEffect(() => {
   localStorage.setItem(

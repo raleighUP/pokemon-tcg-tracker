@@ -2,7 +2,10 @@
 
 import { useEffect, useMemo, useState } from 'react'
 
-import { getSuggestedMeta } from '@/utils/major-meta'
+import {
+  getSuggestedMeta,
+  getSuggestedMetaSourceLabel,
+} from '@/utils/major-meta'
 
 import {
   Deck,
@@ -33,6 +36,38 @@ type DeckAdvisorResult = AdvisorResult & {
 }
 
 const ADVISOR_STORAGE_KEY = 'pokemon-advisor-data'
+
+type StoredAdvisorData = {
+  eventType?: EventType
+  playerCount?: string
+  metaInputMode?: 'percent' | 'players'
+  metaDecks?: {
+    name: string
+    share: number
+  }[]
+  deckComfortById?: Record<number, number>
+  candidateDecks?: AdvisorCandidateDeck[]
+  candidateSource?: 'owned' | 'all'
+}
+
+function readStoredAdvisorData(): StoredAdvisorData {
+  if (typeof window === 'undefined') return {}
+
+  const savedData = localStorage.getItem(ADVISOR_STORAGE_KEY)
+
+  if (!savedData) return {}
+
+  try {
+    const parsedData = JSON.parse(savedData)
+
+    return parsedData && typeof parsedData === 'object'
+      ? parsedData
+      : {}
+  } catch {
+    localStorage.removeItem(ADVISOR_STORAGE_KEY)
+    return {}
+  }
+}
 
 function getMatchupBorderClass(winRate: number) {
   if (winRate > 55) {
@@ -100,115 +135,81 @@ function getRecommendationInsight(result: AdvisorResult) {
 }
 
 export default function DeckAdvisor({ decks }: Props) {
-  const [eventType, setEventType] =
-    useState<EventType>('challenge')
+  const storedAdvisorData = useMemo(
+    () => readStoredAdvisorData(),
+    []
+  )
 
-  const [playerCount, setPlayerCount] = useState('')
+  const [eventType, setEventType] =
+    useState<EventType>(
+      storedAdvisorData.eventType ?? 'challenge'
+    )
+
+  const [playerCount, setPlayerCount] = useState(
+    storedAdvisorData.playerCount ?? ''
+  )
 
   const [metaInputMode, setMetaInputMode] =
-    useState<'percent' | 'players'>('percent')
+    useState<'percent' | 'players'>(
+      storedAdvisorData.metaInputMode ?? 'percent'
+    )
 
-  const [metaDecks, setMetaDecks] = useState([
-    { name: '', share: 0 },
-  ])
+  const [metaDecks, setMetaDecks] = useState(
+    Array.isArray(storedAdvisorData.metaDecks)
+      ? storedAdvisorData.metaDecks
+      : [{ name: '', share: 0 }]
+  )
 
   const [deckComfortById, setDeckComfortById] =
-    useState<Record<number, number>>({})
+    useState<Record<number, number>>(
+      storedAdvisorData.deckComfortById &&
+        typeof storedAdvisorData.deckComfortById === 'object'
+        ? storedAdvisorData.deckComfortById
+        : {}
+    )
 
-  const [legacyCandidateDecks, setLegacyCandidateDecks] =
-    useState<AdvisorCandidateDeck[] | null>(null)
+  const legacyCandidateDecks = Array.isArray(
+    storedAdvisorData.candidateDecks
+  )
+    ? storedAdvisorData.candidateDecks
+    : null
 
   const [candidateSource, setCandidateSource] =
-    useState<'owned' | 'all'>('owned')
+    useState<'owned' | 'all'>(
+      storedAdvisorData.candidateSource ?? 'owned'
+    )
 
-  const [hasLoadedAdvisorData, setHasLoadedAdvisorData] =
-    useState(false)
-
-  useEffect(() => {
-    const savedData = localStorage.getItem(ADVISOR_STORAGE_KEY)
-
-    if (!savedData) {
-      setHasLoadedAdvisorData(true)
-      return
+  const resolvedDeckComfortById = useMemo(() => {
+    if (!legacyCandidateDecks) {
+      return deckComfortById
     }
 
-    try {
-      const parsedData = JSON.parse(savedData)
+    const migratedComfortById = { ...deckComfortById }
 
-      if (parsedData.eventType) {
-        setEventType(parsedData.eventType)
+    decks.forEach((savedDeck) => {
+      if (migratedComfortById[savedDeck.id] !== undefined) {
+        return
       }
 
-      if (parsedData.playerCount) {
-        setPlayerCount(parsedData.playerCount)
+      const oldCandidate = legacyCandidateDecks.find(
+        (candidate) => candidate.name === savedDeck.name
+      )
+
+      if (oldCandidate) {
+        migratedComfortById[savedDeck.id] = oldCandidate.comfort
       }
-
-      if (parsedData.metaInputMode) {
-        setMetaInputMode(parsedData.metaInputMode)
-      }
-
-      if (Array.isArray(parsedData.metaDecks)) {
-        setMetaDecks(parsedData.metaDecks)
-      }
-
-      if (
-        parsedData.deckComfortById &&
-        typeof parsedData.deckComfortById === 'object'
-      ) {
-        setDeckComfortById(parsedData.deckComfortById)
-      } else if (Array.isArray(parsedData.candidateDecks)) {
-        setLegacyCandidateDecks(parsedData.candidateDecks)
-      }
-
-      if (
-        parsedData.candidateSource === 'owned' ||
-        parsedData.candidateSource === 'all'
-      ) {
-        setCandidateSource(parsedData.candidateSource)
-      }
-    } catch {
-      localStorage.removeItem(ADVISOR_STORAGE_KEY)
-    }
-
-    setHasLoadedAdvisorData(true)
-  }, [])
-
-  useEffect(() => {
-    if (!hasLoadedAdvisorData || !legacyCandidateDecks) return
-    if (decks.length === 0) return
-
-    setDeckComfortById((currentComfortById) => {
-      const migratedComfortById = { ...currentComfortById }
-
-      decks.forEach((savedDeck) => {
-        if (migratedComfortById[savedDeck.id] !== undefined) {
-          return
-        }
-
-        const oldCandidate = legacyCandidateDecks.find(
-          (candidate) => candidate.name === savedDeck.name
-        )
-
-        if (oldCandidate) {
-          migratedComfortById[savedDeck.id] = oldCandidate.comfort
-        }
-      })
-
-      return migratedComfortById
     })
 
-    setLegacyCandidateDecks(null)
-  }, [decks, hasLoadedAdvisorData, legacyCandidateDecks])
+    return migratedComfortById
+  }, [deckComfortById, decks, legacyCandidateDecks])
 
   useEffect(() => {
-    if (!hasLoadedAdvisorData) return
-
     const advisorData = {
       eventType,
       playerCount,
       metaInputMode,
       metaDecks,
-      deckComfortById,
+      deckComfortById: resolvedDeckComfortById,
       candidateSource,
     }
 
@@ -221,16 +222,22 @@ export default function DeckAdvisor({ decks }: Props) {
     playerCount,
     metaInputMode,
     metaDecks,
-    deckComfortById,
+    resolvedDeckComfortById,
     candidateSource,
-    hasLoadedAdvisorData,
   ])
 
   const eventSize = Number(playerCount)
 
-  const archetypeOptions = getArchetypeOptions()
+  const archetypeOptions = useMemo(
+    () => getArchetypeOptions(),
+    []
+  )
 
-  const suggestedMeta = getSuggestedMeta(5)
+  const suggestedMeta = useMemo(() => getSuggestedMeta(5), [])
+  const suggestedMetaSourceLabel = useMemo(
+    () => getSuggestedMetaSourceLabel(),
+    []
+  )
 
   const structure = useMemo(() => {
     return getTournamentStructure(eventType, eventSize)
@@ -256,22 +263,26 @@ export default function DeckAdvisor({ decks }: Props) {
     maxMetaTotal - enteredMetaTotal
   )
 
-  const normalizedMetaDecks = metaDecks
-    .filter(
-      (metaDeck) =>
-        metaDeck.name.trim() && metaDeck.share > 0
-    )
-    .map((metaDeck) => {
-      const normalizedShare =
-        metaInputMode === 'players' && eventSize > 0
-          ? (metaDeck.share / eventSize) * 100
-          : metaDeck.share
+  const normalizedMetaDecks = useMemo(
+    () =>
+      metaDecks
+        .filter(
+          (metaDeck) =>
+            metaDeck.name.trim() && metaDeck.share > 0
+        )
+        .map((metaDeck) => {
+          const normalizedShare =
+            metaInputMode === 'players' && eventSize > 0
+              ? (metaDeck.share / eventSize) * 100
+              : metaDeck.share
 
-      return {
-        ...metaDeck,
-        normalizedShare,
-      }
-    })
+          return {
+            ...metaDeck,
+            normalizedShare,
+          }
+        }),
+    [eventSize, metaDecks, metaInputMode]
+  )
 
   const metaBreakdown = normalizedMetaDecks.map((metaDeck) => {
     const roundedPlayers =
@@ -289,37 +300,46 @@ export default function DeckAdvisor({ decks }: Props) {
     }
   })
 
-  const topMetaCandidates: AdvisorCandidateDeck[] =
-    [...normalizedMetaDecks]
-      .sort(
-        (a, b) =>
-          b.normalizedShare - a.normalizedShare
-      )
-      .slice(0, 10)
-      .map((metaDeck) => ({
-        name: metaDeck.name,
-        archetype: metaDeck.name,
-        comfort: 3,
-        owned: false,
-        matchups: {},
-      }))
+  const topMetaCandidates: AdvisorCandidateDeck[] = useMemo(
+    () =>
+      [...normalizedMetaDecks]
+        .sort(
+          (a, b) =>
+            b.normalizedShare - a.normalizedShare
+        )
+        .slice(0, 10)
+        .map((metaDeck) => ({
+          name: metaDeck.name,
+          archetype: metaDeck.name,
+          comfort: 3,
+          owned: false,
+          matchups: {},
+        })),
+    [normalizedMetaDecks]
+  )
 
   const ownedCandidateDecks: (AdvisorCandidateDeck & {
     id: number
-  })[] =
-    decks.map((deck) => ({
-      id: deck.id,
-      name: deck.name,
-      archetype: deck.variant || deck.archetype || deck.name,
-      comfort: deckComfortById[deck.id] ?? 3,
-      owned: true,
-      matchups: {},
-    }))
+  })[] = useMemo(
+    () =>
+      decks.map((deck) => ({
+        id: deck.id,
+        name: deck.name,
+        archetype: deck.variant || deck.archetype || deck.name,
+        comfort: resolvedDeckComfortById[deck.id] ?? 3,
+        owned: true,
+        matchups: {},
+      })),
+    [decks, resolvedDeckComfortById]
+  )
 
-  const advisorCandidateDecks =
-    candidateSource === 'all'
-      ? topMetaCandidates
-      : ownedCandidateDecks
+  const advisorCandidateDecks = useMemo(
+    () =>
+      candidateSource === 'all'
+        ? topMetaCandidates
+        : ownedCandidateDecks,
+    [candidateSource, ownedCandidateDecks, topMetaCandidates]
+  )
 
   const results: DeckAdvisorResult[] = useMemo(() => {
     const filledMetaDecks = normalizedMetaDecks
@@ -631,6 +651,28 @@ export default function DeckAdvisor({ decks }: Props) {
           Use Suggested Meta
         </button>
 
+        <div className="bg-slate-950 border border-slate-800 rounded-xl p-3 text-xs space-y-2">
+          <div className="flex justify-between gap-3">
+            <span className="text-slate-400">
+              Meta Source
+            </span>
+
+            <span className="font-semibold text-right">
+              {suggestedMetaSourceLabel}
+            </span>
+          </div>
+
+          <div className="flex justify-between gap-3">
+            <span className="text-slate-400">
+              Matchup Source
+            </span>
+
+            <span className="font-semibold text-right">
+              20 large online Limitless tournaments
+            </span>
+          </div>
+        </div>
+
         <div className="grid grid-cols-2 gap-2">
           <button
             type="button"
@@ -907,7 +949,7 @@ export default function DeckAdvisor({ decks }: Props) {
               Save a deck first to get owned-deck recommendations.
             </p>
           ) : (
-            ownedCandidateDecks.map((deck, index) => (
+            ownedCandidateDecks.map((deck) => (
               <div
                 key={deck.id}
                 className="border border-slate-800 rounded-xl p-4 space-y-3"

@@ -16,6 +16,22 @@ A web application designed for competitive Pokémon TCG players to:
 * Receive deck recommendations based on matchup data and player comfort
 
 ---
+# Development Workflow
+
+ChatGPT:
+- Product design
+- UX decisions
+- Feature prioritization
+- Roadmap
+
+Codex:
+- Repository analysis
+- Implementation
+- Refactoring
+- TypeScript maintenance
+
+Rule:
+Major features should be specified in PROJECT_SPEC.md before implementation.
 
 # Current Architecture
 
@@ -300,6 +316,30 @@ Aggregate:
 * Worlds
 
 Produce a more stable expected field.
+
+Future follow-up:
+
+Meta aggregation should eventually be filtered by format legality window,
+not just recency.
+
+When a new Pokemon TCG set releases, it becomes tournament legal after
+its legality delay. Suggested meta should only use events from the same
+legal card pool as the target tournament. Avoid mixing pre-set and
+post-set tournament data.
+
+Future data model should support:
+
+* formatWindowName
+* legalFromDate
+* legalUntilDate
+* includedEvents
+* excludedEvents
+* reason events were excluded
+
+Goal:
+
+Recommended meta should represent the format players are actually
+preparing for.
 
 ---
 

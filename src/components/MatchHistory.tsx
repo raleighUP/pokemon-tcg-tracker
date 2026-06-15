@@ -42,9 +42,6 @@ export default function MatchHistory({
   const [openMenuId, setOpenMenuId] =
     useState<number | null>(null)
 
-  const [roundError, setRoundError] =
-    useState(false)
-
   const [openNotesId, setOpenNotesId] =
     useState<number | null>(null)
 
@@ -353,8 +350,6 @@ match.id ? (
     min="1"
     value={editingMatch.round ?? ''}
     onChange={(e) => {
-      setRoundError(false)
-
       setEditingMatch({
         ...editingMatch,
         round:
@@ -491,7 +486,6 @@ match.id ? (
       <button
         onClick={() => {
           if (!isRoundValid) {
-            setRoundError(true)
             return
           }
 
@@ -508,7 +502,6 @@ match.id ? (
       <button
         onClick={() => {
           setEditingMatch(null)
-          setRoundError(false)
         }}
         className="flex-1 bg-slate-700 hover:bg-slate-600 py-3 rounded-xl font-semibold transition"
       >

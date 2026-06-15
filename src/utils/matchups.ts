@@ -12,6 +12,29 @@ export type LimitlessMatchupRecord = {
 
 const matchups = matchupData as LimitlessMatchupRecord[]
 
+type IndexedMatchupRecord = {
+  winRate: number
+  totalMatches: number
+}
+
+function getMatchupKey(candidateDeck: string, opponentDeck: string) {
+  return `${candidateDeck}|||${opponentDeck}`
+}
+
+const matchupIndex = new Map<string, IndexedMatchupRecord>()
+
+matchups.forEach((matchup) => {
+  matchupIndex.set(getMatchupKey(matchup.deckA, matchup.deckB), {
+    winRate: matchup.deckAWinRate,
+    totalMatches: matchup.totalMatches,
+  })
+
+  matchupIndex.set(getMatchupKey(matchup.deckB, matchup.deckA), {
+    winRate: matchup.deckBWinRate,
+    totalMatches: matchup.totalMatches,
+  })
+})
+
 export function getMatchupWinRate(
   candidateDeck: string,
   opponentDeck: string
@@ -20,24 +43,11 @@ export function getMatchupWinRate(
     return 50
   }
 
-  const record = matchups.find((matchup) => {
-    return (
-      (matchup.deckA === candidateDeck &&
-        matchup.deckB === opponentDeck) ||
-      (matchup.deckA === opponentDeck &&
-        matchup.deckB === candidateDeck)
-    )
-  })
+  const record = matchupIndex.get(
+    getMatchupKey(candidateDeck, opponentDeck)
+  )
 
-  if (!record) {
-    return 50
-  }
-
-  if (record.deckA === candidateDeck) {
-    return record.deckAWinRate
-  }
-
-  return record.deckBWinRate
+  return record?.winRate ?? 50
 }
 
 export function getMatchupSampleSize(
@@ -48,14 +58,9 @@ export function getMatchupSampleSize(
     return 0
   }
 
-  const record = matchups.find((matchup) => {
-    return (
-      (matchup.deckA === candidateDeck &&
-        matchup.deckB === opponentDeck) ||
-      (matchup.deckA === opponentDeck &&
-        matchup.deckB === candidateDeck)
-    )
-  })
+  const record = matchupIndex.get(
+    getMatchupKey(candidateDeck, opponentDeck)
+  )
 
   return record?.totalMatches ?? 0
 }

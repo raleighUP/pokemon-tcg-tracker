@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "build:meta": "node scripts/build-limitless-major-meta.mjs",
     "start": "next start",
     "lint": "eslint"
   },

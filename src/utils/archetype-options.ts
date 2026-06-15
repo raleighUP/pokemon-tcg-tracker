@@ -10,8 +10,14 @@ type MajorMetaRecord = {
   archetype: string
 }
 
+type MajorMetaDatabase = {
+  meta: MajorMetaRecord[]
+}
+
 const matchupRecords = matchupData as LimitlessMatchupRecord[]
-const majorMetaRecords = majorMetaData as MajorMetaRecord[]
+const majorMetaRecords = Array.isArray(majorMetaData)
+  ? (majorMetaData as MajorMetaRecord[])
+  : (majorMetaData as MajorMetaDatabase).meta
 
 export function getArchetypeOptions(): string[] {
   const archetypes = new Set<string>()
