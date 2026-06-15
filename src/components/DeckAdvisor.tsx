@@ -112,16 +112,11 @@ export default function DeckAdvisor({ decks }: Props) {
     { name: '', share: 0 },
   ])
 
-  const [candidateDecks, setCandidateDecks] =
-    useState<AdvisorCandidateDeck[]>([
-      {
-        name: '',
-        archetype: '',
-        comfort: 3,
-        owned: true,
-        matchups: {},
-      },
-    ])
+  const [deckComfortById, setDeckComfortById] =
+    useState<Record<number, number>>({})
+
+  const [legacyCandidateDecks, setLegacyCandidateDecks] =
+    useState<AdvisorCandidateDeck[] | null>(null)
 
   const [candidateSource, setCandidateSource] =
     useState<'owned' | 'all'>('owned')
@@ -156,8 +151,13 @@ export default function DeckAdvisor({ decks }: Props) {
         setMetaDecks(parsedData.metaDecks)
       }
 
-      if (Array.isArray(parsedData.candidateDecks)) {
-        setCandidateDecks(parsedData.candidateDecks)
+      if (
+        parsedData.deckComfortById &&
+        typeof parsedData.deckComfortById === 'object'
+      ) {
+        setDeckComfortById(parsedData.deckComfortById)
+      } else if (Array.isArray(parsedData.candidateDecks)) {
+        setLegacyCandidateDecks(parsedData.candidateDecks)
       }
 
       if (
@@ -174,6 +174,33 @@ export default function DeckAdvisor({ decks }: Props) {
   }, [])
 
   useEffect(() => {
+    if (!hasLoadedAdvisorData || !legacyCandidateDecks) return
+    if (decks.length === 0) return
+
+    setDeckComfortById((currentComfortById) => {
+      const migratedComfortById = { ...currentComfortById }
+
+      decks.forEach((savedDeck) => {
+        if (migratedComfortById[savedDeck.id] !== undefined) {
+          return
+        }
+
+        const oldCandidate = legacyCandidateDecks.find(
+          (candidate) => candidate.name === savedDeck.name
+        )
+
+        if (oldCandidate) {
+          migratedComfortById[savedDeck.id] = oldCandidate.comfort
+        }
+      })
+
+      return migratedComfortById
+    })
+
+    setLegacyCandidateDecks(null)
+  }, [decks, hasLoadedAdvisorData, legacyCandidateDecks])
+
+  useEffect(() => {
     if (!hasLoadedAdvisorData) return
 
     const advisorData = {
@@ -181,7 +208,7 @@ export default function DeckAdvisor({ decks }: Props) {
       playerCount,
       metaInputMode,
       metaDecks,
-      candidateDecks,
+      deckComfortById,
       candidateSource,
     }
 
@@ -194,7 +221,7 @@ export default function DeckAdvisor({ decks }: Props) {
     playerCount,
     metaInputMode,
     metaDecks,
-    candidateDecks,
+    deckComfortById,
     candidateSource,
     hasLoadedAdvisorData,
   ])
@@ -277,10 +304,22 @@ export default function DeckAdvisor({ decks }: Props) {
         matchups: {},
       }))
 
+  const ownedCandidateDecks: (AdvisorCandidateDeck & {
+    id: number
+  })[] =
+    decks.map((deck) => ({
+      id: deck.id,
+      name: deck.name,
+      archetype: deck.variant || deck.archetype || deck.name,
+      comfort: deckComfortById[deck.id] ?? 3,
+      owned: true,
+      matchups: {},
+    }))
+
   const advisorCandidateDecks =
     candidateSource === 'all'
       ? topMetaCandidates
-      : candidateDecks
+      : ownedCandidateDecks
 
   const results: DeckAdvisorResult[] = useMemo(() => {
     const filledMetaDecks = normalizedMetaDecks
@@ -860,98 +899,55 @@ export default function DeckAdvisor({ decks }: Props) {
       {candidateSource === 'owned' && (
         <div className="space-y-3">
           <h3 className="font-bold text-lg">
-            Candidate Decks
+            Owned Decks
           </h3>
 
-          {candidateDecks.map((deck, index) => (
-            <div
-              key={index}
-              className="border border-slate-800 rounded-xl p-4 space-y-3"
-            >
-              <div className="space-y-2">
-                <div className="grid grid-cols-[1fr_auto] gap-3">
-                  <select
-                    value={deck.name}
-                    onChange={(e) => {
-                      const selectedDeckName = e.target.value
+          {ownedCandidateDecks.length === 0 ? (
+            <p className="text-sm text-slate-400">
+              Save a deck first to get owned-deck recommendations.
+            </p>
+          ) : (
+            ownedCandidateDecks.map((deck, index) => (
+              <div
+                key={deck.id}
+                className="border border-slate-800 rounded-xl p-4 space-y-3"
+              >
+                <div className="space-y-2">
+                  <p className="font-semibold">{deck.name}</p>
 
-                      const savedDeck = decks.find(
-                        (savedDeck) =>
-                          savedDeck.name === selectedDeckName
-                      )
-
-                      const updated = [...candidateDecks]
-
-                      updated[index].name = selectedDeckName
-                      updated[index].archetype =
-                        savedDeck?.variant ||
-                        savedDeck?.archetype ||
-                        selectedDeckName
-
-                      setCandidateDecks(updated)
-                    }}
-                    className="w-full bg-slate-950 border border-slate-700 rounded-xl px-4 py-3"
-                  >
-                    <option value="">Select Deck</option>
-
-                    {decks.map((savedDeck) => (
-                      <option
-                        key={savedDeck.id}
-                        value={savedDeck.name}
-                      >
-                        {savedDeck.name}
-                      </option>
-                    ))}
-                  </select>
-
-                  <button
-                    type="button"
-                    onClick={() => {
-                      setCandidateDecks(
-                        candidateDecks.filter(
-                          (_, candidateIndex) =>
-                            candidateIndex !== index
-                        )
-                      )
-                    }}
-                    className="bg-red-900/40 hover:bg-red-900/70 text-red-200 rounded-xl px-4 py-3 text-sm"
-                  >
-                    Remove
-                  </button>
+                  {deck.archetype && (
+                    <p className="text-xs text-slate-400">
+                      {deck.archetype}
+                    </p>
+                  )}
                 </div>
 
-                {deck.archetype && (
-                  <p className="text-xs text-slate-400">
-                    {deck.archetype}
+                <div>
+                  <label className="block text-sm font-semibold mb-2">
+                    Comfort: {deck.comfort}/5
+                  </label>
+
+                  <input
+                    type="range"
+                    min="1"
+                    max="5"
+                    value={deck.comfort}
+                    onChange={(e) => {
+                      const nextComfort = Number(e.target.value)
+
+                      setDeckComfortById((currentComfortById) => ({
+                        ...currentComfortById,
+                        [deck.id]: nextComfort,
+                      }))
+                    }}
+                    className="w-full"
+                  />
+                </div>
+
+                <div className="space-y-2">
+                  <p className="text-sm font-semibold text-slate-300">
+                    Matchup Win Rates
                   </p>
-                )}
-              </div>
-
-              <div>
-                <label className="block text-sm font-semibold mb-2">
-                  Comfort: {deck.comfort}/5
-                </label>
-
-                <input
-                  type="range"
-                  min="1"
-                  max="5"
-                  value={deck.comfort}
-                  onChange={(e) => {
-                    const updated = [...candidateDecks]
-
-                    updated[index].comfort = Number(e.target.value)
-
-                    setCandidateDecks(updated)
-                  }}
-                  className="w-full"
-                />
-              </div>
-
-              <div className="space-y-2">
-                <p className="text-sm font-semibold text-slate-300">
-                  Matchup Win Rates
-                </p>
 
                 {metaDecks.filter((metaDeck) =>
                   metaDeck.name.trim()
@@ -999,28 +995,10 @@ export default function DeckAdvisor({ decks }: Props) {
                       )
                     })
                 )}
+                </div>
               </div>
-            </div>
-          ))}
+            )))}
 
-          <button
-            type="button"
-            onClick={() =>
-              setCandidateDecks([
-                ...candidateDecks,
-                {
-                  name: '',
-                  archetype: '',
-                  comfort: 3,
-                  owned: true,
-                  matchups: {},
-                },
-              ])
-            }
-            className="bg-slate-800 hover:bg-slate-700 rounded-xl px-4 py-2 text-sm"
-          >
-            + Add Candidate Deck
-          </button>
         </div>
       )}
 
