@@ -24,6 +24,19 @@ import {
 } from '@/utils/matchups'
 
 import { getArchetypeOptions } from '@/utils/archetype-options'
+import {
+  Button,
+  EmptyState,
+  FieldLabel,
+  NestedPanel,
+  NumberInput,
+  Panel,
+  RangeField,
+  SectionHeader,
+  SegmentedControl,
+  SelectField,
+  SourcePanel,
+} from '@/components/ui'
 
 type Props = {
   decks: Deck[]
@@ -460,34 +473,26 @@ export default function DeckAdvisor({ decks }: Props) {
   ])
 
   return (
-    <div className="bg-slate-900 border border-slate-800 rounded-2xl p-6 space-y-6">
-      <div>
-        <h2 className="text-2xl font-bold">
-          Deck Advisor
-        </h2>
-
-        <p className="text-slate-400 text-sm mt-1">
-          Build an expected tournament field and determine
-          which deck gives you the best chance of success.
-        </p>
-      </div>
+    <Panel className="space-y-6">
+      <SectionHeader
+        title="Deck Advisor"
+        description="Build an expected tournament field and determine which deck gives you the best chance of success."
+      />
 
       <div className="space-y-4">
-        <h3 className="font-bold text-lg">
-          Event Setup
-        </h3>
+        <SectionHeader title="Event Setup" level={3} />
 
         <div>
-          <label className="block text-sm font-semibold mb-2">
+          <FieldLabel>
             Event Type
-          </label>
+          </FieldLabel>
 
-          <select
+          <SelectField
             value={eventType}
             onChange={(e) =>
               setEventType(e.target.value as EventType)
             }
-            className="w-full bg-slate-950 border border-slate-700 rounded-xl px-4 py-3"
+            className="bg-slate-950"
           >
             <option value="challenge">
               League Challenge
@@ -496,32 +501,33 @@ export default function DeckAdvisor({ decks }: Props) {
             <option value="regional">
               Regional Championship
             </option>
-          </select>
+          </SelectField>
         </div>
 
         <div>
-          <label className="block text-sm font-semibold mb-2">
+          <FieldLabel>
             Estimated Players
-          </label>
+          </FieldLabel>
 
-          <input
-            type="number"
+          <NumberInput
             min="0"
             value={playerCount}
             onChange={(e) =>
               setPlayerCount(e.target.value)
             }
             placeholder="Example: 64"
-            className="w-full bg-slate-950 border border-slate-700 rounded-xl px-4 py-3"
+            className="bg-slate-950"
           />
         </div>
       </div>
 
       {eventSize > 0 && (
-        <div className="bg-slate-950 border border-slate-800 rounded-xl p-4">
-          <h3 className="font-bold mb-3">
-            Tournament Structure
-          </h3>
+        <NestedPanel>
+          <SectionHeader
+            title="Tournament Structure"
+            level={3}
+            className="mb-3"
+          />
 
           {eventType === 'challenge' && (
             <div className="space-y-1 text-sm">
@@ -632,83 +638,56 @@ export default function DeckAdvisor({ decks }: Props) {
               )}
             </div>
           )}
-        </div>
+        </NestedPanel>
       )}
 
       <div className="space-y-3">
-        <h3 className="font-bold text-lg">
-          Expected Meta
-        </h3>
+        <SectionHeader title="Expected Meta" level={3} />
 
-        <button
-          type="button"
+        <Button
           onClick={() => {
             setMetaInputMode('percent')
             setMetaDecks(suggestedMeta)
           }}
-          className="w-full bg-blue-600 hover:bg-blue-500 rounded-xl px-4 py-3 text-sm font-semibold"
+          tone="primary"
+          className="w-full"
         >
           Use Suggested Meta
-        </button>
+        </Button>
 
-        <div className="bg-slate-950 border border-slate-800 rounded-xl p-3 text-xs space-y-2">
-          <div className="flex justify-between gap-3">
-            <span className="text-slate-400">
-              Meta Source
-            </span>
+        <SourcePanel
+          sources={[
+            {
+              label: 'Meta Source',
+              value: suggestedMetaSourceLabel,
+            },
+            {
+              label: 'Matchup Source',
+              value: '20 large online Limitless tournaments',
+            },
+          ]}
+        />
 
-            <span className="font-semibold text-right">
-              {suggestedMetaSourceLabel}
-            </span>
-          </div>
-
-          <div className="flex justify-between gap-3">
-            <span className="text-slate-400">
-              Matchup Source
-            </span>
-
-            <span className="font-semibold text-right">
-              20 large online Limitless tournaments
-            </span>
-          </div>
-        </div>
-
-        <div className="grid grid-cols-2 gap-2">
-          <button
-            type="button"
-            onClick={() => setMetaInputMode('percent')}
-            className={`rounded-xl px-4 py-2 text-sm font-semibold ${
-              metaInputMode === 'percent'
-                ? 'bg-blue-600 text-white'
-                : 'bg-slate-800 text-slate-300'
-            }`}
-          >
-            Percent
-          </button>
-
-          <button
-            type="button"
-            onClick={() => setMetaInputMode('players')}
-            className={`rounded-xl px-4 py-2 text-sm font-semibold ${
-              metaInputMode === 'players'
-                ? 'bg-blue-600 text-white'
-                : 'bg-slate-800 text-slate-300'
-            }`}
-          >
-            Players
-          </button>
-        </div>
+        <SegmentedControl
+          value={metaInputMode}
+          onChange={setMetaInputMode}
+          options={[
+            { label: 'Percent', value: 'percent' },
+            { label: 'Players', value: 'players' },
+          ]}
+          buttonClassName="py-2"
+        />
 
         {metaDecks.map((deck, index) => (
           <div key={index} className="space-y-3">
-            <select
+            <SelectField
               value={deck.name}
               onChange={(e) => {
                 const updated = [...metaDecks]
                 updated[index].name = e.target.value
                 setMetaDecks(updated)
               }}
-              className="w-full bg-slate-950 border border-slate-700 rounded-xl px-4 py-3"
+              className="bg-slate-950"
             >
               <option value="">Select archetype</option>
 
@@ -717,11 +696,10 @@ export default function DeckAdvisor({ decks }: Props) {
                   {archetype}
                 </option>
               ))}
-            </select>
+            </SelectField>
 
             <div className="grid grid-cols-[1fr_auto] gap-3">
-              <input
-                type="number"
+              <NumberInput
                 value={deck.share || ''}
                 onChange={(e) => {
                   const rawValue = e.target.value
@@ -763,11 +741,10 @@ export default function DeckAdvisor({ decks }: Props) {
                 placeholder={
                   metaInputMode === 'percent' ? 'Meta %' : 'Players'
                 }
-                className="bg-slate-950 border border-slate-700 rounded-xl px-4 py-3"
+                className="bg-slate-950"
               />
 
-              <button
-                type="button"
+              <Button
                 onClick={() => {
                   const updated = metaDecks.filter(
                     (_, metaIndex) => metaIndex !== index
@@ -779,28 +756,28 @@ export default function DeckAdvisor({ decks }: Props) {
                       : [{ name: '', share: 0 }]
                   )
                 }}
-                className="bg-red-900/40 hover:bg-red-900/70 text-red-200 rounded-xl px-4 py-3 text-sm"
+                tone="danger"
               >
                 Clear
-              </button>
+              </Button>
             </div>
           </div>
         ))}
 
-        <button
-          type="button"
+        <Button
           onClick={() =>
             setMetaDecks([
               ...metaDecks,
               { name: '', share: 0 },
             ])
           }
-          className="bg-slate-800 hover:bg-slate-700 rounded-xl px-4 py-2 text-sm"
+          tone="secondary"
+          size="sm"
         >
           + Add Meta Deck
-        </button>
+        </Button>
 
-        <div className="bg-slate-950 border border-slate-800 rounded-xl p-4 space-y-2 text-sm">
+        <NestedPanel className="space-y-2 text-sm">
           <div className="flex justify-between">
             <span className="text-slate-400">
               Predicted Meta
@@ -897,39 +874,20 @@ export default function DeckAdvisor({ decks }: Props) {
               )}
             </div>
           )}
-        </div>
+        </NestedPanel>
       </div>
 
       <div className="space-y-3">
-        <h3 className="font-bold text-lg">
-          Advisor Mode
-        </h3>
+        <SectionHeader title="Advisor Mode" level={3} />
 
-        <div className="grid grid-cols-2 gap-2">
-          <button
-            type="button"
-            onClick={() => setCandidateSource('owned')}
-            className={`rounded-xl px-4 py-3 text-sm font-semibold ${
-              candidateSource === 'owned'
-                ? 'bg-blue-600 text-white'
-                : 'bg-slate-800 text-slate-300'
-            }`}
-          >
-            Owned Decks
-          </button>
-
-          <button
-            type="button"
-            onClick={() => setCandidateSource('all')}
-            className={`rounded-xl px-4 py-3 text-sm font-semibold ${
-              candidateSource === 'all'
-                ? 'bg-blue-600 text-white'
-                : 'bg-slate-800 text-slate-300'
-            }`}
-          >
-            Top Meta
-          </button>
-        </div>
+        <SegmentedControl
+          value={candidateSource}
+          onChange={setCandidateSource}
+          options={[
+            { label: 'Owned Decks', value: 'owned' },
+            { label: 'Top Meta', value: 'all' },
+          ]}
+        />
 
         <p className="text-xs text-slate-400">
           {candidateSource === 'owned'
@@ -940,14 +898,12 @@ export default function DeckAdvisor({ decks }: Props) {
 
       {candidateSource === 'owned' && (
         <div className="space-y-3">
-          <h3 className="font-bold text-lg">
-            Owned Decks
-          </h3>
+          <SectionHeader title="Owned Decks" level={3} />
 
           {ownedCandidateDecks.length === 0 ? (
-            <p className="text-sm text-slate-400">
+            <EmptyState>
               Save a deck first to get owned-deck recommendations.
-            </p>
+            </EmptyState>
           ) : (
             ownedCandidateDecks.map((deck) => (
               <div
@@ -965,12 +921,11 @@ export default function DeckAdvisor({ decks }: Props) {
                 </div>
 
                 <div>
-                  <label className="block text-sm font-semibold mb-2">
+                  <FieldLabel>
                     Comfort: {deck.comfort}/5
-                  </label>
+                  </FieldLabel>
 
-                  <input
-                    type="range"
+                  <RangeField
                     min="1"
                     max="5"
                     value={deck.comfort}
@@ -982,7 +937,6 @@ export default function DeckAdvisor({ decks }: Props) {
                         [deck.id]: nextComfort,
                       }))
                     }}
-                    className="w-full"
                   />
                 </div>
 
@@ -1045,14 +999,12 @@ export default function DeckAdvisor({ decks }: Props) {
       )}
 
       <div className="space-y-3">
-        <h3 className="font-bold text-lg">
-          Recommendations
-        </h3>
+        <SectionHeader title="Recommendations" level={3} />
 
         {results.length === 0 ? (
-          <p className="text-slate-400 text-sm">
+          <EmptyState>
             Add expected meta decks to see recommendations.
-          </p>
+          </EmptyState>
         ) : (
           <div className="space-y-3">
             {results.map((result, index) => (
@@ -1192,6 +1144,6 @@ export default function DeckAdvisor({ decks }: Props) {
           </div>
         )}
       </div>
-    </div>
+    </Panel>
   )
 }

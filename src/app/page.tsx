@@ -9,6 +9,7 @@ import CompareDecks from '@/components/CompareDecks'
 import MatchLogger from '@/components/MatchLogger'
 import MatchHistory from '@/components/MatchHistory'
 import DeckAdvisor from '@/components/DeckAdvisor'
+import { AppShell, IconButton } from '@/components/ui'
 import { detectDeckArchetype } from '@/utils/archetypes'
 
 import { Deck, Match, CardEntry } from '@/types'
@@ -455,11 +456,87 @@ setGames([])
 setGameStarts([])
 setNotes('')
 }
+  const bottomNavigation = (
+    <div className="fixed bottom-0 left-0 right-0 bg-slate-900 border-t border-slate-800 z-50">
+      <div className="max-w-6xl mx-auto grid grid-cols-5 h-20">
+        <IconButton
+          onClick={() => setActiveTab('decks')}
+          className={`transition ${
+            activeTab === 'decks'
+              ? 'opacity-100'
+              : 'opacity-50 hover:opacity-80'
+          }`}
+        >
+          <img
+            src="/icons/deck.svg"
+            alt="Decks"
+            className="h-14 w-14"
+          />
+        </IconButton>
+
+        <IconButton
+          onClick={() => setActiveTab('compare')}
+          className={`transition ${
+            activeTab === 'compare'
+              ? 'opacity-100'
+              : 'opacity-50 hover:opacity-80'
+          }`}
+        >
+          <img
+            src="/icons/compare.svg"
+            alt="Compare"
+            className="h-14 w-14"
+          />
+        </IconButton>
+
+        <IconButton
+          onClick={() => setActiveTab('matches')}
+          className={`transition ${
+            activeTab === 'matches'
+              ? 'opacity-100'
+              : 'opacity-50 hover:opacity-80'
+          }`}
+        >
+          <img
+            src="/icons/log.svg"
+            alt="Log"
+            className="h-14 w-14"
+          />
+        </IconButton>
+
+        <IconButton
+          onClick={() => setActiveTab('history')}
+          className={`transition ${
+            activeTab === 'history'
+              ? 'opacity-100'
+              : 'opacity-50 hover:opacity-80'
+          }`}
+        >
+          <img
+            src="/icons/history.svg"
+            alt="History"
+            className="h-14 w-14"
+          />
+        </IconButton>
+
+        <IconButton
+          onClick={() => setActiveTab('advisor')}
+          className={`transition ${
+            activeTab === 'advisor'
+              ? 'opacity-100'
+              : 'opacity-50 hover:opacity-80'
+          }`}
+        >
+          <span className="text-xs font-bold text-white">
+            Advisor
+          </span>
+        </IconButton>
+      </div>
+    </div>
+  )
+
   return (
-    <main className="min-h-screen bg-slate-950 text-white p-6">
-      <div className="max-w-6xl mx-auto">
-      
-<div className="pb-24">
+    <AppShell bottomNavigation={bottomNavigation}>
   {activeTab === 'decks' && (
     <div className="space-y-6">
       <AddDeckForm
@@ -555,87 +632,6 @@ invalidMatchFields={invalidMatchFields}
   {activeTab === 'advisor' && (
     <DeckAdvisor decks={decks} />
   )}  
-</div>
-
-</div>
-
-<div className="fixed bottom-0 left-0 right-0 bg-slate-900 border-t border-slate-800 z-50">
-  <div className="max-w-6xl mx-auto grid grid-cols-5 h-20">
-
-    <button
-      onClick={() => setActiveTab('decks')}
-      className={`flex items-center justify-center transition ${
-        activeTab === 'decks'
-          ? 'opacity-100'
-          : 'opacity-50 hover:opacity-80'
-      }`}
-    >
-      <img
-        src="/icons/deck.svg"
-        alt="Decks"
-        className="h-14 w-14"
-      />
-    </button>
-
-    <button
-      onClick={() => setActiveTab('compare')}
-      className={`flex items-center justify-center transition ${
-        activeTab === 'compare'
-          ? 'opacity-100'
-          : 'opacity-50 hover:opacity-80'
-      }`}
-    >
-      <img
-        src="/icons/compare.svg"
-        alt="Compare"
-        className="h-14 w-14"
-      />
-    </button>
-
-    <button
-      onClick={() => setActiveTab('matches')}
-      className={`flex items-center justify-center transition ${
-        activeTab === 'matches'
-          ? 'opacity-100'
-          : 'opacity-50 hover:opacity-80'
-      }`}
-    >
-      <img
-        src="/icons/log.svg"
-        alt="Log"
-        className="h-14 w-14"
-      />
-    </button>
-
-    <button
-      onClick={() => setActiveTab('history')}
-      className={`flex items-center justify-center transition ${
-        activeTab === 'history'
-          ? 'opacity-100'
-          : 'opacity-50 hover:opacity-80'
-      }`}
-    >
-      <img
-        src="/icons/history.svg"
-        alt="History"
-        className="h-14 w-14"
-      />
-    </button>
-    <button
-      onClick={() => setActiveTab('advisor')}
-      className={`flex items-center justify-center transition ${
-        activeTab === 'advisor'
-          ? 'opacity-100'
-          : 'opacity-50 hover:opacity-80'
-      }`}
-    >
-      <span className="text-xs font-bold text-white">
-        Advisor
-      </span>
-    </button>
-  </div>
-</div>
-
-</main>
+    </AppShell>
   )
 }

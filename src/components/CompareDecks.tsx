@@ -6,6 +6,12 @@ type Change = {
 }
 
 import { Deck } from '@/types'
+import {
+  EmptyState,
+  Panel,
+  SectionHeader,
+  SelectField,
+} from '@/components/ui'
 
 type Props = {
   compareDeck1: string
@@ -29,19 +35,19 @@ return (
   <div className="flex flex-col h-[calc(100vh-90px)] gap-4">
     
     {/* TOP CONTROLS */}
-    <div className="bg-slate-900 border border-slate-800 rounded-2xl p-6 shrink-0">
-      <h2 className="text-2xl font-bold mb-4">
-        Compare Decks
-      </h2>
+    <Panel className="shrink-0">
+      <SectionHeader
+        title="Compare Decks"
+        className="mb-4"
+      />
 
       <div className="space-y-4">
         {/* DECK 1 */}
-        <select
+        <SelectField
           value={compareDeck1}
           onChange={(e) =>
             setCompareDeck1(e.target.value)
           }
-          className="w-full bg-slate-800 border border-slate-700 rounded-xl px-4 py-3"
         >
           <option value="">Select Deck A</option>
 
@@ -53,15 +59,14 @@ return (
               {deck.name}
             </option>
           ))}
-        </select>
+        </SelectField>
 
         {/* DECK 2 */}
-        <select
+        <SelectField
           value={compareDeck2}
           onChange={(e) =>
             setCompareDeck2(e.target.value)
           }
-          className="w-full bg-slate-800 border border-slate-700 rounded-xl px-4 py-3"
         >
           <option value="">Select Deck B</option>
 
@@ -73,21 +78,22 @@ return (
               {deck.name}
             </option>
           ))}
-        </select>
+        </SelectField>
       </div>
-    </div>
+    </Panel>
 
     {/* DIFFERENCES PANEL */}
-    <div className="bg-slate-900 border border-slate-800 rounded-2xl p-6 flex-1 overflow-hidden">
-  <h2 className="text-2xl font-bold mb-4">
-    Deck Differences
-  </h2>
+    <Panel className="flex-1 overflow-hidden">
+  <SectionHeader
+    title="Deck Differences"
+    className="mb-4"
+  />
 
   <div className="h-[calc(100vh-400px)] overflow-y-auto pr-2 space-y-2">
     {changes.length === 0 ? (
-      <p className="text-slate-400">
+      <EmptyState>
         No differences found.
-      </p>
+      </EmptyState>
     ) : (
       changes.map((change) => (
         <div
@@ -119,6 +125,6 @@ return (
       ))
     )}
   </div>
-</div>
+</Panel>
   </div>
 ) }

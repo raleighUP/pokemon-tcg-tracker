@@ -1,5 +1,11 @@
 import { useState } from 'react'
 import { Deck, Match } from '@/types'
+import {
+  EmptyState,
+  OverlayCard,
+  Panel,
+  SectionHeader,
+} from '@/components/ui'
 
 type Props = {
   matches: Match[]
@@ -56,15 +62,16 @@ export default function MatchHistory({
 
   if (matches.length === 0) {
     return (
-      <div className="bg-slate-900 border border-slate-800 rounded-2xl p-6">
-        <h2 className="text-2xl font-bold mb-4">
-          Match History
-        </h2>
+      <Panel>
+        <SectionHeader
+          title="Match History"
+          className="mb-4"
+        />
 
-        <p className="text-slate-400">
+        <EmptyState>
           No matches logged yet.
-        </p>
-      </div>
+        </EmptyState>
+      </Panel>
     )
   }
 
@@ -80,10 +87,11 @@ export default function MatchHistory({
     }, {} as Record<string, Match[]>)
 
   return (
-    <div className="bg-slate-900 border border-slate-800 rounded-2xl p-6">
-      <h2 className="text-2xl font-bold mb-4">
-        Match History
-      </h2>
+    <Panel>
+      <SectionHeader
+        title="Match History"
+        className="mb-4"
+      />
 
       <div className="space-y-6">
         {Object.entries(groupedMatches)
@@ -236,7 +244,7 @@ export default function MatchHistory({
       className="fixed inset-0 z-10 cursor-default"
     />
 
-    <div className="absolute right-0 top-10 w-40 bg-slate-800 border border-slate-700 rounded-xl shadow-xl z-20 overflow-hidden">
+    <OverlayCard className="absolute right-0 top-10 w-40">
       <button
         onClick={() => {
           setEditingEvent(eventName)
@@ -258,7 +266,7 @@ export default function MatchHistory({
       >
         Delete Event
       </button>
-    </div>
+    </OverlayCard>
   </>
 )}  
                         </div>
@@ -577,7 +585,7 @@ match.id ? (
       className="fixed inset-0 z-10 cursor-default"
     />
 
-    <div className="absolute right-0 mt-2 w-40 bg-slate-800 border border-slate-700 rounded-xl shadow-xl z-20 overflow-hidden">
+    <OverlayCard className="absolute right-0 mt-2 w-40">
       <button
         onClick={() => {
           setEditingMatch(match)
@@ -616,7 +624,7 @@ match.id ? (
       >
         Delete Round
       </button>
-    </div>
+    </OverlayCard>
   </>
 )}  
                                 </div>
@@ -640,6 +648,6 @@ match.id ? (
             )
           })}
       </div>
-    </div>
+    </Panel>
   )
 }

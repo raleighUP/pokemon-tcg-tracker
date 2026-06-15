@@ -1,4 +1,5 @@
 import { Deck } from '@/types'
+import { EmptyState, Panel, SectionHeader } from '@/components/ui'
 
 type Props = {
   selectedDeck: Deck | null
@@ -8,10 +9,11 @@ export default function DeckViewer({
   selectedDeck,
 }: Props) {
   return (
-    <div className="bg-slate-900 border border-slate-800 rounded-2xl p-6 h-full">
-      <h2 className="text-2xl font-bold mb-4">
-        Deck Viewer
-      </h2>
+    <Panel className="h-full">
+      <SectionHeader
+        title="Deck Viewer"
+        className="mb-4"
+      />
 
       {selectedDeck ? (
         <div>
@@ -24,10 +26,10 @@ export default function DeckViewer({
           </pre>
         </div>
       ) : (
-        <p className="text-slate-400">
+        <EmptyState>
           Select a deck to view its decklist.
-        </p>
+        </EmptyState>
       )}
-    </div>
+    </Panel>
   )
 }

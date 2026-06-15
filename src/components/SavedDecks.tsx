@@ -1,4 +1,10 @@
 import { Deck } from '@/types'
+import {
+  Button,
+  EmptyState,
+  Panel,
+  SectionHeader,
+} from '@/components/ui'
 
 type Props = {
   decks: Deck[]
@@ -16,15 +22,16 @@ export default function SavedDecks({
   selectedDeck,
 }: Props) {
   return (
-    <div className="bg-slate-900 border border-slate-800 rounded-2xl p-6">
-      <h2 className="text-2xl font-bold mb-4">
-        Saved Decks
-      </h2>
+    <Panel>
+      <SectionHeader
+        title="Saved Decks"
+        className="mb-4"
+      />
 
       {decks.length === 0 ? (
-        <p className="text-slate-400">
+        <EmptyState>
           No decks saved yet.
-        </p>
+        </EmptyState>
       ) : (
         <div className="space-y-3">
           {decks.map((deck) => (
@@ -62,19 +69,21 @@ export default function SavedDecks({
 
                 {/* RIGHT SIDE */}
                 <div className="flex gap-2 shrink-0">
-                  <button
+                  <Button
                     onClick={() => editDeck(deck)}
-                    className="bg-blue-500 hover:bg-blue-600 px-3 py-1 rounded-lg text-sm font-semibold"
+                    tone="primary"
+                    className="rounded-lg px-3 py-1"
                   >
                     Edit
-                  </button>
+                  </Button>
 
-                  <button
+                  <Button
                     onClick={() => deleteDeck(deck.id)}
-                    className="bg-red-500 hover:bg-red-600 px-3 py-1 rounded-lg text-sm font-semibold"
+                    tone="danger"
+                    className="rounded-lg bg-red-500 px-3 py-1 text-white hover:bg-red-600"
                   >
                     Delete
-                  </button>
+                  </Button>
                 </div>
 
               </div>
@@ -82,6 +91,6 @@ export default function SavedDecks({
           ))}
         </div>
       )}
-    </div>
+    </Panel>
   )
 }

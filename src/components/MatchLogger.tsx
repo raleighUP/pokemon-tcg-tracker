@@ -1,4 +1,11 @@
 import { Deck } from '@/types'
+import {
+  Panel,
+  SectionHeader,
+  SelectField,
+  TextareaField,
+  TextInput,
+} from '@/components/ui'
 
 type Props = {
   eventName: string
@@ -76,15 +83,16 @@ invalidMatchFields = [],
       : 'border-slate-700'
 
   return (
-    <div className="rounded-2xl border border-slate-800 bg-slate-900 p-6">
-      <h2 className="mb-6 text-2xl font-bold">Log Match</h2>
+    <Panel>
+      <SectionHeader title="Log Match" className="mb-6" />
 
       <div className="space-y-4">
-        <input
+        <TextInput
           value={eventName}
           onChange={(e) => setEventName(e.target.value)}
           placeholder="Event Name"
-          className={`w-full rounded-xl border bg-slate-800 px-4 py-4 text-white placeholder:text-slate-400 ${errorClass(
+          autoComplete="organization"
+          className={`py-4 ${errorClass(
             'eventName'
           )}`}
         />
@@ -106,10 +114,10 @@ invalidMatchFields = [],
         </div>
 
         <div className="grid grid-cols-2 gap-3">
-          <select
+          <SelectField
             value={format}
             onChange={(e) => setFormat(e.target.value)}
-            className={`w-full rounded-xl border bg-slate-800 px-4 py-4 text-white ${errorClass(
+            className={`py-4 ${errorClass(
               'format'
             )}`}
           >
@@ -117,12 +125,12 @@ invalidMatchFields = [],
             <option value="TEF-POR">TEF-POR</option>
             <option value="Gym Leader Challenge">Gym Leader Challenge</option>
             <option value="Expanded">Expanded</option>
-          </select>
+          </SelectField>
 
-          <select
+          <SelectField
             value={selectedMatchDeck}
             onChange={(e) => setSelectedMatchDeck(e.target.value)}
-            className={`w-full rounded-xl border bg-slate-800 px-4 py-4 text-white ${errorClass(
+            className={`py-4 ${errorClass(
               'selectedMatchDeck'
             )}`}
           >
@@ -132,14 +140,15 @@ invalidMatchFields = [],
                 {deck.name}
               </option>
             ))}
-          </select>
+          </SelectField>
         </div>
 
-        <input
+        <TextInput
           value={opponentDeck}
           onChange={(e) => setOpponentDeck(e.target.value)}
           placeholder="Opponent Deck"
-          className={`w-full rounded-xl border bg-slate-800 px-4 py-4 text-white placeholder:text-slate-400 ${errorClass(
+          autoComplete="off"
+          className={`py-4 ${errorClass(
             'opponentDeck'
           )}`}
         />
@@ -261,16 +270,13 @@ invalidMatchFields = [],
           </div>
         </div>
 
-        <textarea
+        <TextareaField
           value={notes}
           onChange={(e) => setNotes(e.target.value)}
-          onInput={(e) => {
-            e.currentTarget.style.height = 'auto'
-            e.currentTarget.style.height = `${e.currentTarget.scrollHeight}px`
-          }}
+          expandable
           rows={1}
           placeholder="Match Notes (optional)"
-          className="min-h-[56px] w-full resize-none overflow-hidden rounded-xl border border-slate-700 bg-slate-800 px-4 py-4 text-white placeholder:text-slate-400"
+          className="min-h-[56px] py-4"
         />
 
         <div className="grid grid-cols-2 gap-3">
@@ -289,6 +295,6 @@ invalidMatchFields = [],
           </button>
         </div>
       </div>
-    </div>
+    </Panel>
   )
 }
