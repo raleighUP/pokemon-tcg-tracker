@@ -4,7 +4,9 @@ import {
   EmptyState,
   OverlayCard,
   Panel,
+  ResultPill,
   SectionHeader,
+  StatusBadge,
 } from '@/components/ui'
 
 type Props = {
@@ -276,11 +278,11 @@ export default function MatchHistory({
                     {/* BOTTOM ROW */}
                     <div className="flex items-center justify-between mt-1">
                       <div className="flex items-center gap-2 min-w-0">
-                        <p className="text-lg font-bold text-green-400 whitespace-nowrap">
+                        <StatusBadge className="bg-transparent p-0 text-lg text-green-400 whitespace-nowrap">
                           {totalWins}-{totalLosses}
                           {totalTies > 0 &&
                             `-${totalTies}`}
-                        </p>
+                        </StatusBadge>
 
                         <p className="font-bold text-base truncate">
                           {
@@ -535,18 +537,7 @@ match.id ? (
                                 <div className="flex flex-col items-end text-right min-w-[72px]">
                                 <div className="flex justify-end gap-1 mb-1">
   {match.games.map((game, index) => (
-    <span
-      key={index}
-      className={`min-w-7 h-7 px-2 rounded-full flex items-center justify-center text-xs font-bold ${
-        game === 'W'
-          ? 'bg-green-500 text-white'
-          : game === 'L'
-          ? 'bg-red-500 text-white'
-          : 'bg-yellow-400 text-black'
-      }`}
-    >
-      {game}
-    </span>
+    <ResultPill key={index} result={game} />
   ))}
 </div>  
 

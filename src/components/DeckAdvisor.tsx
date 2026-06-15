@@ -28,6 +28,10 @@ import {
   Button,
   EmptyState,
   FieldLabel,
+  KeyValueList,
+  MatchupBadge,
+  MetricRow,
+  MetricTile,
   NestedPanel,
   NumberInput,
   Panel,
@@ -530,111 +534,85 @@ export default function DeckAdvisor({ decks }: Props) {
           />
 
           {eventType === 'challenge' && (
-            <div className="space-y-1 text-sm">
-              <p>
-                Swiss Rounds:{' '}
-                <span className="font-bold">
-                  {structure.swissRounds}
-                </span>
-              </p>
-
-              <p>
-                Top Cut:{' '}
-                <span className="font-bold">
-                  {structure.topCutLabel}
-                </span>
-              </p>
-            </div>
+            <KeyValueList
+              className="text-sm"
+              items={[
+                {
+                  label: 'Swiss Rounds',
+                  value: structure.swissRounds,
+                },
+                {
+                  label: 'Top Cut',
+                  value: structure.topCutLabel,
+                },
+              ]}
+            />
           )}
 
           {eventType === 'cup' && (
-            <div className="space-y-1 text-sm">
-              <p>
-                Swiss Rounds:{' '}
-                <span className="font-bold">
-                  {structure.swissRounds}
-                </span>
-              </p>
-
-              <p>
-                Elimination Rounds:{' '}
-                <span className="font-bold">
-                  {structure.singleEliminationRounds}
-                </span>
-              </p>
-
-              <p>
-                Top Cut:{' '}
-                <span className="font-bold">
-                  {structure.topCutLabel}
-                </span>
-              </p>
-
-              <p>
-                Total Event Length:{' '}
-                <span className="font-bold">
-                  {structure.totalEventLength}
-                </span>
-              </p>
-            </div>
+            <KeyValueList
+              className="text-sm"
+              items={[
+                {
+                  label: 'Swiss Rounds',
+                  value: structure.swissRounds,
+                },
+                {
+                  label: 'Elimination Rounds',
+                  value: structure.singleEliminationRounds,
+                },
+                {
+                  label: 'Top Cut',
+                  value: structure.topCutLabel,
+                },
+                {
+                  label: 'Total Event Length',
+                  value: structure.totalEventLength,
+                },
+              ]}
+            />
           )}
 
           {eventType === 'regional' && (
             <div className="space-y-1 text-sm">
               {structure.phaseOneRounds ? (
-                <>
-                  <p>
-                    Phase 1 Rounds:{' '}
-                    <span className="font-bold">
-                      {structure.phaseOneRounds}
-                    </span>
-                  </p>
-
-                  <p>
-                    Phase 2 Threshold:{' '}
-                    <span className="font-bold">
-                      {structure.phaseTwoThreshold}{' '}
-                      Match Points
-                    </span>
-                  </p>
-
-                  <p>
-                    Phase 2 Rounds:{' '}
-                    <span className="font-bold">
-                      {structure.phaseTwoRounds}
-                    </span>
-                  </p>
-
-                  <p>
-                    Total Swiss:{' '}
-                    <span className="font-bold">
-                      {structure.totalSwissRounds}
-                    </span>
-                  </p>
-
-                  <p>
-                    Top Cut:{' '}
-                    <span className="font-bold">
-                      {structure.topCutLabel}
-                    </span>
-                  </p>
-                </>
+                <KeyValueList
+                  items={[
+                    {
+                      label: 'Phase 1 Rounds',
+                      value: structure.phaseOneRounds,
+                    },
+                    {
+                      label: 'Phase 2 Threshold',
+                      value: `${structure.phaseTwoThreshold} Match Points`,
+                    },
+                    {
+                      label: 'Phase 2 Rounds',
+                      value: structure.phaseTwoRounds,
+                    },
+                    {
+                      label: 'Total Swiss',
+                      value: structure.totalSwissRounds,
+                    },
+                    {
+                      label: 'Top Cut',
+                      value: structure.topCutLabel,
+                    },
+                  ]}
+                />
               ) : (
-                <>
-                  <p>
-                    Swiss Rounds:{' '}
-                    <span className="font-bold">
-                      {structure.swissRounds}
-                    </span>
-                  </p>
-
-                  <p>
-                    Top Cut:{' '}
-                    <span className="font-bold">
-                      {structure.topCutLabel}
-                    </span>
-                  </p>
-                </>
+                <KeyValueList
+                  items={[
+                    {
+                      label: 'Swiss Rounds',
+                      value: structure.swissRounds,
+                    },
+                    {
+                      label: 'Top Cut',
+                      value: structure.topCutLabel,
+                    },
+                  ]}
+                />
               )}
             </div>
           )}
@@ -778,44 +756,28 @@ export default function DeckAdvisor({ decks }: Props) {
         </Button>
 
         <NestedPanel className="space-y-2 text-sm">
-          <div className="flex justify-between">
-            <span className="text-slate-400">
-              Predicted Meta
-            </span>
-
-            <span className="font-bold">
-              {enteredMetaTotal}
-              {metaInputMode === 'percent'
-                ? '%'
-                : ' players'}
-            </span>
-          </div>
-
-          <div className="flex justify-between">
-            <span className="text-slate-400">
-              Other
-            </span>
-
-            <span className="font-bold">
-              {otherMetaTotal}
-              {metaInputMode === 'percent'
-                ? '%'
-                : ' players'}
-            </span>
-          </div>
-
-          <div className="flex justify-between">
-            <span className="text-slate-400">
-              Total Field
-            </span>
-
-            <span className="font-bold">
-              {maxMetaTotal}
-              {metaInputMode === 'percent'
-                ? '%'
-                : ' players'}
-            </span>
-          </div>
+          <KeyValueList
+            items={[
+              {
+                label: 'Predicted Meta',
+                value: `${enteredMetaTotal}${
+                  metaInputMode === 'percent' ? '%' : ' players'
+                }`,
+              },
+              {
+                label: 'Other',
+                value: `${otherMetaTotal}${
+                  metaInputMode === 'percent' ? '%' : ' players'
+                }`,
+              },
+              {
+                label: 'Total Field',
+                value: `${maxMetaTotal}${
+                  metaInputMode === 'percent' ? '%' : ' players'
+                }`,
+              },
+            ]}
+          />
 
           {metaBreakdown.length > 0 && (
             <div className="border-t border-slate-800 pt-3 mt-3 space-y-2">
@@ -966,28 +928,19 @@ export default function DeckAdvisor({ decks }: Props) {
                       )
 
                       return (
-                        <div
+                        <MatchupBadge
                           key={metaDeck.name}
+                          label={`vs ${metaDeck.name}`}
+                          value={`${matchupWinRate.toFixed(1)}%`}
+                          detail={
+                            sampleSize > 0
+                              ? `${sampleSize} Limitless matches`
+                              : 'No data found — using 50/50 default'
+                          }
                           className={`border rounded-xl px-4 py-3 ${getMatchupBorderClass(
                             matchupWinRate
                           )}`}
-                        >
-                          <div className="flex justify-between gap-3">
-                            <span className="text-sm text-slate-300">
-                              vs {metaDeck.name}
-                            </span>
-
-                            <span className="font-bold text-white">
-                              {matchupWinRate.toFixed(1)}%
-                            </span>
-                          </div>
-
-                          <p className="text-xs text-slate-400 mt-1">
-                            {sampleSize > 0
-                              ? `${sampleSize} Limitless matches`
-                              : 'No data found — using 50/50 default'}
-                          </p>
-                        </div>
+                        />
                       )
                     })
                 )}
@@ -1039,45 +992,32 @@ export default function DeckAdvisor({ decks }: Props) {
                 </div>
 
                 <div className="grid grid-cols-2 sm:grid-cols-4 gap-2 text-xs">
-                  <div className="bg-slate-900 rounded-xl p-3">
-                    <p className="text-slate-400">Field WR</p>
-                    <p className="font-bold">
-                      {result.fieldWinRate.toFixed(1)}%
-                    </p>
-                  </div>
+                  <MetricTile
+                    label="Field WR"
+                    value={`${result.fieldWinRate.toFixed(1)}%`}
+                  />
 
-                  <div className="bg-slate-900 rounded-xl p-3">
-                    <p className="text-slate-400">
-                      Comfort Impact
-                    </p>
-                    <p className="font-bold">
-                      {result.comfortBonus >= 0 ? '+' : ''}
-                      {result.comfortBonus.toFixed(1)}%
-                    </p>
-                  </div>
+                  <MetricTile
+                    label="Comfort Impact"
+                    value={`${result.comfortBonus >= 0 ? '+' : ''}${result.comfortBonus.toFixed(
+                      1
+                    )}%`}
+                  />
 
-                  <div className="bg-slate-900 rounded-xl p-3">
-                    <p className="text-slate-400">
-                      Final Score
-                    </p>
-                    <p className="font-bold">
-                      {result.adjustedScore.toFixed(1)}%
-                    </p>
-                  </div>
+                  <MetricTile
+                    label="Final Score"
+                    value={`${result.adjustedScore.toFixed(1)}%`}
+                  />
 
-                  <div className="bg-slate-900 rounded-xl p-3">
-                    <p className="text-slate-400">
-                      Field Coverage
-                    </p>
-                    <p className="font-bold">
-                      {result.fieldCoverage === null
+                  <MetricTile
+                    label="Field Coverage"
+                    value={
+                      result.fieldCoverage === null
                         ? 'Unknown'
-                        : `${result.fieldCoverage.toFixed(1)}%`}
-                    </p>
-                    <p className="text-[10px] text-slate-500">
-                      {result.fieldCoverageLabel}
-                    </p>
-                  </div>
+                        : `${result.fieldCoverage.toFixed(1)}%`
+                    }
+                    detail={result.fieldCoverageLabel}
+                  />
                 </div>
 
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-sm">
@@ -1093,18 +1033,19 @@ export default function DeckAdvisor({ decks }: Props) {
                         </p>
                       ) : (
                         result.bestMatchups.map((matchup) => (
-                          <div
+                          <MetricRow
                             key={matchup.name}
-                            className="flex justify-between gap-3"
-                          >
-                            <span>{matchup.name}</span>
-                            <span className="font-bold">
-                              {matchup.winRate.toFixed(1)}%{' '}
-                              <span className="text-slate-500">
-                                ({matchup.sampleSize})
-                              </span>
-                            </span>
-                          </div>
+                            label={matchup.name}
+                            labelClassName="text-white"
+                            value={
+                              <>
+                                {matchup.winRate.toFixed(1)}%{' '}
+                                <span className="text-slate-500">
+                                  ({matchup.sampleSize})
+                                </span>
+                              </>
+                            }
+                          />
                         ))
                       )}
                     </div>
@@ -1122,18 +1063,19 @@ export default function DeckAdvisor({ decks }: Props) {
                         </p>
                       ) : (
                         result.worstMatchups.map((matchup) => (
-                          <div
+                          <MetricRow
                             key={matchup.name}
-                            className="flex justify-between gap-3"
-                          >
-                            <span>{matchup.name}</span>
-                            <span className="font-bold">
-                              {matchup.winRate.toFixed(1)}%{' '}
-                              <span className="text-slate-500">
-                                ({matchup.sampleSize})
-                              </span>
-                            </span>
-                          </div>
+                            label={matchup.name}
+                            labelClassName="text-white"
+                            value={
+                              <>
+                                {matchup.winRate.toFixed(1)}%{' '}
+                                <span className="text-slate-500">
+                                  ({matchup.sampleSize})
+                                </span>
+                              </>
+                            }
+                          />
                         ))
                       )}
                     </div>

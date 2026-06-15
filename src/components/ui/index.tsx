@@ -19,6 +19,13 @@ type Tone =
 
 type Size = 'sm' | 'md' | 'lg'
 
+type FeedbackTone =
+  | 'neutral'
+  | 'info'
+  | 'success'
+  | 'warning'
+  | 'danger'
+
 function cn(...classes: Array<string | false | null | undefined>) {
   return classes.filter(Boolean).join(' ')
 }
@@ -27,6 +34,14 @@ const fieldBaseClass =
   'w-full rounded-xl border border-slate-700 bg-slate-800 px-4 py-3 text-white outline-none placeholder:text-slate-400 focus:border-yellow-400'
 
 const fieldErrorClass = 'border-red-500 ring-2 ring-red-500/60'
+
+const feedbackToneClasses: Record<FeedbackTone, string> = {
+  neutral: 'bg-slate-800 text-slate-300',
+  info: 'bg-blue-500 text-white',
+  success: 'bg-green-500 text-white',
+  warning: 'bg-yellow-400 text-black',
+  danger: 'bg-red-500 text-white',
+}
 
 export function AppShell({
   children,
@@ -413,3 +428,195 @@ export const RangeField = forwardRef<
     />
   )
 })
+
+export function MetricTile({
+  label,
+  value,
+  detail,
+  className,
+}: {
+  label: ReactNode
+  value: ReactNode
+  detail?: ReactNode
+  className?: string
+}) {
+  return (
+    <div className={cn('rounded-xl bg-slate-900 p-3', className)}>
+      <p className="text-slate-400">{label}</p>
+      <p className="font-bold">{value}</p>
+      {detail && (
+        <p className="text-[10px] text-slate-500">{detail}</p>
+      )}
+    </div>
+  )
+}
+
+export function StatusBadge({
+  children,
+  tone = 'neutral',
+  className,
+}: {
+  children: ReactNode
+  tone?: FeedbackTone
+  className?: string
+}) {
+  return (
+    <span
+      className={cn(
+        'inline-flex items-center rounded-full px-2 py-1 text-xs font-bold',
+        feedbackToneClasses[tone],
+        className
+      )}
+    >
+      {children}
+    </span>
+  )
+}
+
+export function ResultPill({
+  result,
+  className,
+}: {
+  result: string
+  className?: string
+}) {
+  const tone =
+    result === 'W'
+      ? 'success'
+      : result === 'L'
+      ? 'danger'
+      : 'warning'
+
+  return (
+    <StatusBadge
+      tone={tone}
+      className={cn(
+        'h-7 min-w-7 justify-center px-2',
+        className
+      )}
+    >
+      {result}
+    </StatusBadge>
+  )
+}
+
+export function MatchupBadge({
+  label,
+  value,
+  detail,
+  className,
+}: {
+  label: ReactNode
+  value: ReactNode
+  detail?: ReactNode
+  className?: string
+}) {
+  return (
+    <div className={cn('rounded-xl border px-4 py-3', className)}>
+      <div className="flex justify-between gap-3">
+        <span className="text-sm text-slate-300">{label}</span>
+        <span className="font-bold text-white">{value}</span>
+      </div>
+
+      {detail && (
+        <p className="mt-1 text-xs text-slate-400">{detail}</p>
+      )}
+    </div>
+  )
+}
+
+export function MetricRow({
+  label,
+  value,
+  className,
+  labelClassName,
+  valueClassName,
+}: {
+  label: ReactNode
+  value: ReactNode
+  className?: string
+  labelClassName?: string
+  valueClassName?: string
+}) {
+  return (
+    <div className={cn('flex justify-between gap-3', className)}>
+      <span className={cn('text-slate-400', labelClassName)}>
+        {label}
+      </span>
+      <span className={cn('text-right font-bold', valueClassName)}>
+        {value}
+      </span>
+    </div>
+  )
+}
+
+export function KeyValueList({
+  items,
+  className,
+  itemClassName,
+  labelClassName,
+  valueClassName,
+}: {
+  items: Array<{
+    label: ReactNode
+    value: ReactNode
+  }>
+  className?: string
+  itemClassName?: string
+  labelClassName?: string
+  valueClassName?: string
+}) {
+  return (
+    <div className={cn('space-y-2', className)}>
+      {items.map((item) => (
+        <MetricRow
+          key={String(item.label)}
+          label={item.label}
+          value={item.value}
+          className={itemClassName}
+          labelClassName={labelClassName}
+          valueClassName={valueClassName}
+        />
+      ))}
+    </div>
+  )
+}
+
+export function DeltaRow({
+  label,
+  before,
+  after,
+  diff,
+  className,
+}: {
+  label: ReactNode
+  before: ReactNode
+  after: ReactNode
+  diff: number
+  className?: string
+}) {
+  return (
+    <div
+      className={cn(
+        'flex items-center justify-between rounded-xl bg-slate-800 px-4 py-3',
+        className
+      )}
+    >
+      <div>
+        <p className="font-semibold">{label}</p>
+        <p className="text-sm text-slate-400">
+          {before} -&gt; {after}
+        </p>
+      </div>
+
+      <p
+        className={cn(
+          'font-bold',
+          diff > 0 ? 'text-green-400' : 'text-red-400'
+        )}
+      >
+        {diff > 0 ? `+${diff}` : diff}
+      </p>
+    </div>
+  )
+}

@@ -1,6 +1,7 @@
 import { Deck } from '@/types'
 import {
   Panel,
+  ResultPill,
   SectionHeader,
   SelectField,
   TextareaField,
@@ -209,17 +210,16 @@ invalidMatchFields = [],
                         </span>
 
                         {result && (
-                          <span
-                            className={`text-sm font-bold ${
+                          <ResultPill
+                            result={result}
+                            className={`h-auto min-w-0 bg-transparent px-0 py-0 text-sm ${
                               result === 'W'
                                 ? 'text-green-300'
                                 : result === 'L'
                                 ? 'text-red-300'
                                 : 'text-yellow-300'
                             }`}
-                          >
-                            {result}
-                          </span>
+                          />
                         )}
                       </div>
 
