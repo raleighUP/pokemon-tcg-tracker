@@ -10,7 +10,6 @@ import {
 import {
   Deck,
   AdvisorCandidateDeck,
-  AdvisorResult,
 } from '@/types'
 
 import {
@@ -25,31 +24,28 @@ import {
 
 import { getArchetypeOptions } from '@/utils/archetype-options'
 import {
-  Button,
   EmptyState,
-  FieldLabel,
-  KeyValueList,
-  MatchupBadge,
-  MetricRow,
-  MetricTile,
-  NestedPanel,
-  NumberInput,
   Panel,
-  RangeField,
   SectionHeader,
-  SegmentedControl,
-  SelectField,
-  SourcePanel,
 } from '@/components/ui'
+import AdvisorModeControl from './deck-advisor/AdvisorModeControl'
+import AdvisorEventSetup from './deck-advisor/AdvisorEventSetup'
+import ExpectedMetaEditor from './deck-advisor/ExpectedMetaEditor'
+import OwnedDeckComfortList from './deck-advisor/OwnedDeckComfortList'
+import RecommendationCard from './deck-advisor/RecommendationCard'
+import {
+  getFieldCoverageLabel,
+  getMatchupTone,
+  getRecommendationInsight,
+} from './deck-advisor/helpers'
+import {
+  CandidateSource,
+  DeckAdvisorResult,
+  MetaInputMode,
+} from './deck-advisor/types'
 
 type Props = {
   decks: Deck[]
-}
-
-type DeckAdvisorResult = AdvisorResult & {
-  fieldCoverage: number | null
-  fieldCoverageLabel: string
-  fieldCoverageSampleSize: number
 }
 
 const ADVISOR_STORAGE_KEY = 'pokemon-advisor-data'
@@ -57,14 +53,14 @@ const ADVISOR_STORAGE_KEY = 'pokemon-advisor-data'
 type StoredAdvisorData = {
   eventType?: EventType
   playerCount?: string
-  metaInputMode?: 'percent' | 'players'
+  metaInputMode?: MetaInputMode
   metaDecks?: {
     name: string
     share: number
   }[]
   deckComfortById?: Record<number, number>
   candidateDecks?: AdvisorCandidateDeck[]
-  candidateSource?: 'owned' | 'all'
+  candidateSource?: CandidateSource
 }
 
 function readStoredAdvisorData(): StoredAdvisorData {
@@ -86,71 +82,6 @@ function readStoredAdvisorData(): StoredAdvisorData {
   }
 }
 
-function getMatchupBorderClass(winRate: number) {
-  if (winRate > 55) {
-    return 'border-green-500 bg-green-950/20'
-  }
-
-  if (winRate < 45) {
-    return 'border-red-500 bg-red-950/20'
-  }
-
-  return 'border-yellow-500 bg-yellow-950/20'
-}
-
-function getFieldCoverageLabel(winRate: number | null) {
-  if (winRate === null) {
-    return 'Unknown'
-  }
-
-  if (winRate >= 55) {
-    return 'Strong'
-  }
-
-  if (winRate >= 50) {
-    return 'Stable'
-  }
-
-  if (winRate >= 45) {
-    return 'Risky'
-  }
-
-  return 'Poor'
-}
-
-function getRecommendationInsight(result: AdvisorResult) {
-  const totalSampleSize = [
-    ...result.bestMatchups,
-    ...result.worstMatchups,
-  ].reduce((total, matchup) => total + matchup.sampleSize, 0)
-
-  if (totalSampleSize < 20) {
-    return 'Good meta read, but limited matchup sample size'
-  }
-
-  if (result.fieldWinRate >= 55 && result.comfort <= 2) {
-    return 'Good meta read, but low player experience'
-  }
-
-  if (result.adjustedScore >= 60) {
-    return 'High confidence recommendation'
-  }
-
-  if (result.fieldWinRate >= 55) {
-    return 'Strong matchup spread against the predicted field'
-  }
-
-  if (result.comfort >= 4 && result.adjustedScore >= 54) {
-    return 'Strong comfort pick'
-  }
-
-  if (result.comfortBonus < 0) {
-    return 'Strong deck, but comfort is lowering the score'
-  }
-
-  return 'Balanced option into the expected field'
-}
-
 export default function DeckAdvisor({ decks }: Props) {
   const storedAdvisorData = useMemo(
     () => readStoredAdvisorData(),
@@ -167,7 +98,7 @@ export default function DeckAdvisor({ decks }: Props) {
   )
 
   const [metaInputMode, setMetaInputMode] =
-    useState<'percent' | 'players'>(
+    useState<MetaInputMode>(
       storedAdvisorData.metaInputMode ?? 'percent'
     )
 
@@ -192,7 +123,7 @@ export default function DeckAdvisor({ decks }: Props) {
     : null
 
   const [candidateSource, setCandidateSource] =
-    useState<'owned' | 'all'>(
+    useState<CandidateSource>(
       storedAdvisorData.candidateSource ?? 'owned'
     )
 
@@ -335,9 +266,7 @@ export default function DeckAdvisor({ decks }: Props) {
     [normalizedMetaDecks]
   )
 
-  const ownedCandidateDecks: (AdvisorCandidateDeck & {
-    id: number
-  })[] = useMemo(
+  const ownedCandidateDecks = useMemo(
     () =>
       decks.map((deck) => ({
         id: deck.id,
@@ -483,472 +412,42 @@ export default function DeckAdvisor({ decks }: Props) {
         description="Build an expected tournament field and determine which deck gives you the best chance of success."
       />
 
-      <div className="space-y-4">
-        <SectionHeader title="Event Setup" level={3} />
+      <AdvisorEventSetup
+        eventType={eventType}
+        setEventType={setEventType}
+        playerCount={playerCount}
+        setPlayerCount={setPlayerCount}
+        eventSize={eventSize}
+        structure={structure}
+      />
 
-        <div>
-          <FieldLabel>
-            Event Type
-          </FieldLabel>
+      <ExpectedMetaEditor
+        archetypeOptions={archetypeOptions}
+        eventSize={eventSize}
+        metaDecks={metaDecks}
+        setMetaDecks={setMetaDecks}
+        metaInputMode={metaInputMode}
+        setMetaInputMode={setMetaInputMode}
+        suggestedMeta={suggestedMeta}
+        suggestedMetaSourceLabel={suggestedMetaSourceLabel}
+        enteredMetaTotal={enteredMetaTotal}
+        otherMetaTotal={otherMetaTotal}
+        maxMetaTotal={maxMetaTotal}
+        metaBreakdown={metaBreakdown}
+      />
 
-          <SelectField
-            value={eventType}
-            onChange={(e) =>
-              setEventType(e.target.value as EventType)
-            }
-            className="bg-slate-950"
-          >
-            <option value="challenge">
-              League Challenge
-            </option>
-            <option value="cup">League Cup</option>
-            <option value="regional">
-              Regional Championship
-            </option>
-          </SelectField>
-        </div>
-
-        <div>
-          <FieldLabel>
-            Estimated Players
-          </FieldLabel>
-
-          <NumberInput
-            min="0"
-            value={playerCount}
-            onChange={(e) =>
-              setPlayerCount(e.target.value)
-            }
-            placeholder="Example: 64"
-            className="bg-slate-950"
-          />
-        </div>
-      </div>
-
-      {eventSize > 0 && (
-        <NestedPanel>
-          <SectionHeader
-            title="Tournament Structure"
-            level={3}
-            className="mb-3"
-          />
-
-          {eventType === 'challenge' && (
-            <KeyValueList
-              className="text-sm"
-              items={[
-                {
-                  label: 'Swiss Rounds',
-                  value: structure.swissRounds,
-                },
-                {
-                  label: 'Top Cut',
-                  value: structure.topCutLabel,
-                },
-              ]}
-            />
-          )}
-
-          {eventType === 'cup' && (
-            <KeyValueList
-              className="text-sm"
-              items={[
-                {
-                  label: 'Swiss Rounds',
-                  value: structure.swissRounds,
-                },
-                {
-                  label: 'Elimination Rounds',
-                  value: structure.singleEliminationRounds,
-                },
-                {
-                  label: 'Top Cut',
-                  value: structure.topCutLabel,
-                },
-                {
-                  label: 'Total Event Length',
-                  value: structure.totalEventLength,
-                },
-              ]}
-            />
-          )}
-
-          {eventType === 'regional' && (
-            <div className="space-y-1 text-sm">
-              {structure.phaseOneRounds ? (
-                <KeyValueList
-                  items={[
-                    {
-                      label: 'Phase 1 Rounds',
-                      value: structure.phaseOneRounds,
-                    },
-                    {
-                      label: 'Phase 2 Threshold',
-                      value: `${structure.phaseTwoThreshold} Match Points`,
-                    },
-                    {
-                      label: 'Phase 2 Rounds',
-                      value: structure.phaseTwoRounds,
-                    },
-                    {
-                      label: 'Total Swiss',
-                      value: structure.totalSwissRounds,
-                    },
-                    {
-                      label: 'Top Cut',
-                      value: structure.topCutLabel,
-                    },
-                  ]}
-                />
-              ) : (
-                <KeyValueList
-                  items={[
-                    {
-                      label: 'Swiss Rounds',
-                      value: structure.swissRounds,
-                    },
-                    {
-                      label: 'Top Cut',
-                      value: structure.topCutLabel,
-                    },
-                  ]}
-                />
-              )}
-            </div>
-          )}
-        </NestedPanel>
-      )}
-
-      <div className="space-y-3">
-        <SectionHeader title="Expected Meta" level={3} />
-
-        <Button
-          onClick={() => {
-            setMetaInputMode('percent')
-            setMetaDecks(suggestedMeta)
-          }}
-          tone="primary"
-          className="w-full"
-        >
-          Use Suggested Meta
-        </Button>
-
-        <SourcePanel
-          sources={[
-            {
-              label: 'Meta Source',
-              value: suggestedMetaSourceLabel,
-            },
-            {
-              label: 'Matchup Source',
-              value: '20 large online Limitless tournaments',
-            },
-          ]}
-        />
-
-        <SegmentedControl
-          value={metaInputMode}
-          onChange={setMetaInputMode}
-          options={[
-            { label: 'Percent', value: 'percent' },
-            { label: 'Players', value: 'players' },
-          ]}
-          buttonClassName="py-2"
-        />
-
-        {metaDecks.map((deck, index) => (
-          <div key={index} className="space-y-3">
-            <SelectField
-              value={deck.name}
-              onChange={(e) => {
-                const updated = [...metaDecks]
-                updated[index].name = e.target.value
-                setMetaDecks(updated)
-              }}
-              className="bg-slate-950"
-            >
-              <option value="">Select archetype</option>
-
-              {archetypeOptions.map((archetype) => (
-                <option key={archetype} value={archetype}>
-                  {archetype}
-                </option>
-              ))}
-            </SelectField>
-
-            <div className="grid grid-cols-[1fr_auto] gap-3">
-              <NumberInput
-                value={deck.share || ''}
-                onChange={(e) => {
-                  const rawValue = e.target.value
-                  const nextShare =
-                    rawValue === '' ? 0 : Number(rawValue)
-
-                  const otherDecksTotal = metaDecks.reduce(
-                    (total, metaDeck, metaIndex) => {
-                      if (metaIndex === index) return total
-
-                      const share = Number(metaDeck.share)
-
-                      if (!Number.isFinite(share)) {
-                        return total
-                      }
-
-                      return total + share
-                    },
-                    0
-                  )
-
-                  const maxAllowed =
-                    metaInputMode === 'players' && eventSize > 0
-                      ? Math.max(0, eventSize - otherDecksTotal)
-                      : Math.max(0, 100 - otherDecksTotal)
-
-                  const cappedShare = Math.min(
-                    Math.max(
-                      Number.isFinite(nextShare) ? nextShare : 0,
-                      0
-                    ),
-                    maxAllowed
-                  )
-
-                  const updated = [...metaDecks]
-                  updated[index].share = cappedShare
-                  setMetaDecks(updated)
-                }}
-                placeholder={
-                  metaInputMode === 'percent' ? 'Meta %' : 'Players'
-                }
-                className="bg-slate-950"
-              />
-
-              <Button
-                onClick={() => {
-                  const updated = metaDecks.filter(
-                    (_, metaIndex) => metaIndex !== index
-                  )
-
-                  setMetaDecks(
-                    updated.length > 0
-                      ? updated
-                      : [{ name: '', share: 0 }]
-                  )
-                }}
-                tone="danger"
-              >
-                Clear
-              </Button>
-            </div>
-          </div>
-        ))}
-
-        <Button
-          onClick={() =>
-            setMetaDecks([
-              ...metaDecks,
-              { name: '', share: 0 },
-            ])
-          }
-          tone="secondary"
-          size="sm"
-        >
-          + Add Meta Deck
-        </Button>
-
-        <NestedPanel className="space-y-2 text-sm">
-          <KeyValueList
-            items={[
-              {
-                label: 'Predicted Meta',
-                value: `${enteredMetaTotal}${
-                  metaInputMode === 'percent' ? '%' : ' players'
-                }`,
-              },
-              {
-                label: 'Other',
-                value: `${otherMetaTotal}${
-                  metaInputMode === 'percent' ? '%' : ' players'
-                }`,
-              },
-              {
-                label: 'Total Field',
-                value: `${maxMetaTotal}${
-                  metaInputMode === 'percent' ? '%' : ' players'
-                }`,
-              },
-            ]}
-          />
-
-          {metaBreakdown.length > 0 && (
-            <div className="border-t border-slate-800 pt-3 mt-3 space-y-2">
-              <p className="text-xs font-semibold text-slate-400">
-                Meta Breakdown
-              </p>
-
-              {metaBreakdown.map((deck) => (
-                <div
-                  key={deck.name}
-                  className="flex justify-between gap-3 text-xs"
-                >
-                  <span className="text-slate-400">
-                    {deck.name}
-                  </span>
-
-                  <span className="font-semibold text-right">
-                    {metaInputMode === 'percent'
-                      ? `${deck.normalizedShare.toFixed(
-                          1
-                        )}% • ${deck.roundedPlayers} players`
-                      : `${deck.enteredValue} players • ${deck.normalizedShare.toFixed(
-                          1
-                        )}%`}
-                  </span>
-                </div>
-              ))}
-
-              {otherMetaTotal > 0 && (
-                <div className="flex justify-between gap-3 text-xs">
-                  <span className="text-slate-400">
-                    Other
-                  </span>
-
-                  <span className="font-semibold text-right">
-                    {metaInputMode === 'percent'
-                      ? `${otherMetaTotal}% • ${
-                          eventSize > 0
-                            ? Math.round(
-                                (otherMetaTotal / 100) *
-                                  eventSize
-                              )
-                            : 0
-                        } players`
-                      : `${otherMetaTotal} players • ${
-                          eventSize > 0
-                            ? (
-                                (otherMetaTotal /
-                                  eventSize) *
-                                100
-                              ).toFixed(1)
-                            : '0.0'
-                        }%`}
-                  </span>
-                </div>
-              )}
-            </div>
-          )}
-        </NestedPanel>
-      </div>
-
-      <div className="space-y-3">
-        <SectionHeader title="Advisor Mode" level={3} />
-
-        <SegmentedControl
-          value={candidateSource}
-          onChange={setCandidateSource}
-          options={[
-            { label: 'Owned Decks', value: 'owned' },
-            { label: 'Top Meta', value: 'all' },
-          ]}
-        />
-
-        <p className="text-xs text-slate-400">
-          {candidateSource === 'owned'
-            ? 'Rank only the decks you have saved in the app.'
-            : 'Rank the top expected meta archetypes using neutral comfort.'}
-        </p>
-      </div>
+      <AdvisorModeControl
+        candidateSource={candidateSource}
+        setCandidateSource={setCandidateSource}
+      />
 
       {candidateSource === 'owned' && (
-        <div className="space-y-3">
-          <SectionHeader title="Owned Decks" level={3} />
-
-          {ownedCandidateDecks.length === 0 ? (
-            <EmptyState>
-              Save a deck first to get owned-deck recommendations.
-            </EmptyState>
-          ) : (
-            ownedCandidateDecks.map((deck) => (
-              <div
-                key={deck.id}
-                className="border border-slate-800 rounded-xl p-4 space-y-3"
-              >
-                <div className="space-y-2">
-                  <p className="font-semibold">{deck.name}</p>
-
-                  {deck.archetype && (
-                    <p className="text-xs text-slate-400">
-                      {deck.archetype}
-                    </p>
-                  )}
-                </div>
-
-                <div>
-                  <FieldLabel>
-                    Comfort: {deck.comfort}/5
-                  </FieldLabel>
-
-                  <RangeField
-                    min="1"
-                    max="5"
-                    value={deck.comfort}
-                    onChange={(e) => {
-                      const nextComfort = Number(e.target.value)
-
-                      setDeckComfortById((currentComfortById) => ({
-                        ...currentComfortById,
-                        [deck.id]: nextComfort,
-                      }))
-                    }}
-                  />
-                </div>
-
-                <div className="space-y-2">
-                  <p className="text-sm font-semibold text-slate-300">
-                    Matchup Win Rates
-                  </p>
-
-                {metaDecks.filter((metaDeck) =>
-                  metaDeck.name.trim()
-                ).length === 0 ? (
-                  <p className="text-sm text-slate-500">
-                    Add expected meta decks above to see matchup rates.
-                  </p>
-                ) : (
-                  metaDecks
-                    .filter((metaDeck) => metaDeck.name.trim())
-                    .map((metaDeck) => {
-                      const matchupWinRate = getMatchupWinRate(
-                        deck.archetype || deck.name,
-                        metaDeck.name
-                      )
-
-                      const sampleSize = getMatchupSampleSize(
-                        deck.archetype || deck.name,
-                        metaDeck.name
-                      )
-
-                      return (
-                        <MatchupBadge
-                          key={metaDeck.name}
-                          label={`vs ${metaDeck.name}`}
-                          value={`${matchupWinRate.toFixed(1)}%`}
-                          detail={
-                            sampleSize > 0
-                              ? `${sampleSize} Limitless matches`
-                              : 'No data found — using 50/50 default'
-                          }
-                          className={`border rounded-xl px-4 py-3 ${getMatchupBorderClass(
-                            matchupWinRate
-                          )}`}
-                        />
-                      )
-                    })
-                )}
-                </div>
-              </div>
-            )))}
-
-        </div>
+        <OwnedDeckComfortList
+          ownedCandidateDecks={ownedCandidateDecks}
+          metaDecks={metaDecks}
+          setDeckComfortById={setDeckComfortById}
+          getMatchupTone={getMatchupTone}
+        />
       )}
 
       <div className="space-y-3">
@@ -961,127 +460,12 @@ export default function DeckAdvisor({ decks }: Props) {
         ) : (
           <div className="space-y-3">
             {results.map((result, index) => (
-              <div
+              <RecommendationCard
                 key={`${result.deckName}-${index}`}
-                className="bg-slate-950 border border-slate-800 rounded-xl p-4 space-y-4"
-              >
-                <div className="flex justify-between gap-4">
-                  <div>
-                    <p className="font-bold">
-                      #{index + 1} {result.deckName}
-                    </p>
-
-                    <p className="text-sm text-slate-400">
-                      Comfort: {result.comfort}/5
-                    </p>
-
-                    <p className="text-xs text-blue-300 mt-1 max-w-xl">
-                      {getRecommendationInsight(result)}
-                    </p>
-                  </div>
-
-                  <div className="text-right">
-                    <p className="font-bold">
-                      {result.adjustedScore.toFixed(1)}%
-                    </p>
-
-                    <p className="text-xs text-slate-400">
-                      Final Score
-                    </p>
-                  </div>
-                </div>
-
-                <div className="grid grid-cols-2 sm:grid-cols-4 gap-2 text-xs">
-                  <MetricTile
-                    label="Field WR"
-                    value={`${result.fieldWinRate.toFixed(1)}%`}
-                  />
-
-                  <MetricTile
-                    label="Comfort Impact"
-                    value={`${result.comfortBonus >= 0 ? '+' : ''}${result.comfortBonus.toFixed(
-                      1
-                    )}%`}
-                  />
-
-                  <MetricTile
-                    label="Final Score"
-                    value={`${result.adjustedScore.toFixed(1)}%`}
-                  />
-
-                  <MetricTile
-                    label="Field Coverage"
-                    value={
-                      result.fieldCoverage === null
-                        ? 'Unknown'
-                        : `${result.fieldCoverage.toFixed(1)}%`
-                    }
-                    detail={result.fieldCoverageLabel}
-                  />
-                </div>
-
-                <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-sm">
-                  <div className="bg-slate-900 rounded-xl p-3">
-                    <p className="font-semibold text-green-400 mb-2">
-                      Best Matchups
-                    </p>
-
-                    <div className="space-y-1">
-                      {result.bestMatchups.length === 0 ? (
-                        <p className="text-slate-500 text-xs">
-                          No favorable sampled matchups above 50%.
-                        </p>
-                      ) : (
-                        result.bestMatchups.map((matchup) => (
-                          <MetricRow
-                            key={matchup.name}
-                            label={matchup.name}
-                            labelClassName="text-white"
-                            value={
-                              <>
-                                {matchup.winRate.toFixed(1)}%{' '}
-                                <span className="text-slate-500">
-                                  ({matchup.sampleSize})
-                                </span>
-                              </>
-                            }
-                          />
-                        ))
-                      )}
-                    </div>
-                  </div>
-
-                  <div className="bg-slate-900 rounded-xl p-3">
-                    <p className="font-semibold text-red-400 mb-2">
-                      Worst Matchups
-                    </p>
-
-                    <div className="space-y-1">
-                      {result.worstMatchups.length === 0 ? (
-                        <p className="text-slate-500 text-xs">
-                          No unfavorable sampled matchups below 50%.
-                        </p>
-                      ) : (
-                        result.worstMatchups.map((matchup) => (
-                          <MetricRow
-                            key={matchup.name}
-                            label={matchup.name}
-                            labelClassName="text-white"
-                            value={
-                              <>
-                                {matchup.winRate.toFixed(1)}%{' '}
-                                <span className="text-slate-500">
-                                  ({matchup.sampleSize})
-                                </span>
-                              </>
-                            }
-                          />
-                        ))
-                      )}
-                    </div>
-                  </div>
-                </div>
-              </div>
+                result={result}
+                rank={index + 1}
+                insight={getRecommendationInsight(result)}
+              />
             ))}
           </div>
         )}

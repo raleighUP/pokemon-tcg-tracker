@@ -26,7 +26,9 @@ type FeedbackTone =
   | 'warning'
   | 'danger'
 
-function cn(...classes: Array<string | false | null | undefined>) {
+type MatchupTone = 'favored' | 'neutral' | 'unfavored'
+
+export function cn(...classes: Array<string | false | null | undefined>) {
   return classes.filter(Boolean).join(' ')
 }
 
@@ -41,6 +43,12 @@ const feedbackToneClasses: Record<FeedbackTone, string> = {
   success: 'bg-green-500 text-white',
   warning: 'bg-yellow-400 text-black',
   danger: 'bg-red-500 text-white',
+}
+
+const matchupToneClasses: Record<MatchupTone, string> = {
+  favored: 'border-green-500 bg-green-950/20',
+  neutral: 'border-yellow-500 bg-yellow-950/20',
+  unfavored: 'border-red-500 bg-red-950/20',
 }
 
 export function AppShell({
@@ -434,18 +442,26 @@ export function MetricTile({
   value,
   detail,
   className,
+  labelClassName,
+  valueClassName,
+  detailClassName,
 }: {
   label: ReactNode
   value: ReactNode
   detail?: ReactNode
   className?: string
+  labelClassName?: string
+  valueClassName?: string
+  detailClassName?: string
 }) {
   return (
     <div className={cn('rounded-xl bg-slate-900 p-3', className)}>
-      <p className="text-slate-400">{label}</p>
-      <p className="font-bold">{value}</p>
+      <p className={cn('text-slate-400', labelClassName)}>{label}</p>
+      <p className={cn('font-bold', valueClassName)}>{value}</p>
       {detail && (
-        <p className="text-[10px] text-slate-500">{detail}</p>
+        <p className={cn('text-[10px] text-slate-500', detailClassName)}>
+          {detail}
+        </p>
       )}
     </div>
   )
@@ -504,15 +520,23 @@ export function MatchupBadge({
   label,
   value,
   detail,
+  tone = 'neutral',
   className,
 }: {
   label: ReactNode
   value: ReactNode
   detail?: ReactNode
+  tone?: MatchupTone
   className?: string
 }) {
   return (
-    <div className={cn('rounded-xl border px-4 py-3', className)}>
+    <div
+      className={cn(
+        'rounded-xl border px-4 py-3',
+        matchupToneClasses[tone],
+        className
+      )}
+    >
       <div className="flex justify-between gap-3">
         <span className="text-sm text-slate-300">{label}</span>
         <span className="font-bold text-white">{value}</span>
