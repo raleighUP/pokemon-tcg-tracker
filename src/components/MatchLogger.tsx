@@ -196,6 +196,7 @@ export default function MatchLogger({
         <TextInput
           value={opponentDeck}
           onChange={(e) => setOpponentDeck(e.target.value)}
+          aria-label="Opponent deck"
           placeholder="Opponent Deck"
           autoComplete="off"
           className={`min-h-[56px] bg-slate-900 py-4 ${errorClass(
@@ -280,6 +281,7 @@ export default function MatchLogger({
                   <button
                     type="button"
                     onClick={() => toggleGameStart(index)}
+                    aria-label={`Toggle Game ${index + 1} starting order`}
                     className="rounded-full border border-slate-700 bg-slate-900 px-3 py-1 text-xs font-semibold text-slate-200 transition duration-200 hover:bg-slate-800"
                   >
                     {gameStarts[index] ?? '1st'}
@@ -340,6 +342,7 @@ export default function MatchLogger({
           onChange={(e) => setNotes(e.target.value)}
           expandable
           rows={1}
+          aria-label="Match notes"
           placeholder="Match Notes (optional)"
           className="min-h-[56px] bg-slate-900 py-4"
         />
@@ -402,6 +405,7 @@ export default function MatchLogger({
                 <TextInput
                   value={eventName}
                   onChange={(e) => setEventName(e.target.value)}
+                  aria-label="Event name"
                   placeholder="Event Name"
                   autoComplete="organization"
                   className={`bg-slate-900 py-4 ${errorClass(
@@ -419,6 +423,7 @@ export default function MatchLogger({
                   <SelectField
                     value={format}
                     onChange={(e) => setFormat(e.target.value)}
+                    aria-label="Format"
                     className={`bg-slate-900 py-4 ${errorClass(
                       'format'
                     )}`}
@@ -442,6 +447,7 @@ export default function MatchLogger({
                     onChange={(e) =>
                       setSelectedMatchDeck(e.target.value)
                     }
+                    aria-label="Your deck"
                     className={`bg-slate-900 py-4 ${errorClass(
                       'selectedMatchDeck'
                     )}`}

@@ -69,6 +69,122 @@ type StoredAdvisorData = {
   candidateSource?: CandidateSource
 }
 
+function isRecord(value: unknown): value is Record<string, unknown> {
+  return typeof value === 'object' && value !== null
+}
+
+function normalizeStoredAdvisorData(
+  value: unknown
+): StoredAdvisorData {
+  if (!isRecord(value)) return {}
+
+  const eventType =
+    value.eventType === 'challenge' ||
+    value.eventType === 'cup' ||
+    value.eventType === 'regional'
+      ? value.eventType
+      : undefined
+
+  const metaInputMode =
+    value.metaInputMode === 'percent' ||
+    value.metaInputMode === 'players'
+      ? value.metaInputMode
+      : undefined
+
+  const candidateSource =
+    value.candidateSource === 'owned' ||
+    value.candidateSource === 'all'
+      ? value.candidateSource
+      : undefined
+
+  const metaDecks = Array.isArray(value.metaDecks)
+    ? value.metaDecks
+        .map((metaDeck) => {
+          if (!isRecord(metaDeck)) return null
+
+          const name =
+            typeof metaDeck.name === 'string'
+              ? metaDeck.name
+              : ''
+
+          const share = Number(metaDeck.share)
+
+          return {
+            name,
+            share: Number.isFinite(share)
+              ? Math.max(0, share)
+              : 0,
+          }
+        })
+        .filter(
+          (
+            metaDeck
+          ): metaDeck is {
+            name: string
+            share: number
+          } => metaDeck !== null
+        )
+    : undefined
+
+  const deckComfortById = isRecord(value.deckComfortById)
+    ? Object.entries(value.deckComfortById).reduce<
+        Record<number, number>
+      >((comfortById, [deckId, comfort]) => {
+        const normalizedDeckId = Number(deckId)
+        const normalizedComfort = Number(comfort)
+
+        if (
+          !Number.isFinite(normalizedDeckId) ||
+          !Number.isFinite(normalizedComfort)
+        ) {
+          return comfortById
+        }
+
+        comfortById[normalizedDeckId] = Math.min(
+          5,
+          Math.max(1, normalizedComfort)
+        )
+
+        return comfortById
+      }, {})
+    : undefined
+
+  const candidateDecks = Array.isArray(value.candidateDecks)
+    ? value.candidateDecks.filter(isRecord).map((candidate) => ({
+        name:
+          typeof candidate.name === 'string'
+            ? candidate.name
+            : '',
+        archetype:
+          typeof candidate.archetype === 'string'
+            ? candidate.archetype
+            : '',
+        comfort: Math.min(
+          5,
+          Math.max(1, Number(candidate.comfort) || 3)
+        ),
+        owned: candidate.owned === true,
+        matchups: {},
+      }))
+    : undefined
+
+  return {
+    eventType,
+    playerCount:
+      typeof value.playerCount === 'string'
+        ? value.playerCount
+        : undefined,
+    metaInputMode,
+    metaDecks:
+      metaDecks && metaDecks.length > 0
+        ? metaDecks
+        : undefined,
+    deckComfortById,
+    candidateDecks,
+    candidateSource,
+  }
+}
+
 function readStoredAdvisorData(): StoredAdvisorData {
   if (typeof window === 'undefined') return {}
 
@@ -79,9 +195,7 @@ function readStoredAdvisorData(): StoredAdvisorData {
   try {
     const parsedData = JSON.parse(savedData)
 
-    return parsedData && typeof parsedData === 'object'
-      ? parsedData
-      : {}
+    return normalizeStoredAdvisorData(parsedData)
   } catch {
     localStorage.removeItem(ADVISOR_STORAGE_KEY)
     return {}

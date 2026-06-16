@@ -33,6 +33,7 @@ export default function RoundEditForm({
         <NumberInput
           min="1"
           value={editingMatch.round ?? ''}
+          aria-label="Round"
           onChange={(e) => {
             setEditingMatch({
               ...editingMatch,
@@ -60,6 +61,7 @@ export default function RoundEditForm({
 
         <TextInput
           value={editingMatch.opponentDeck}
+          aria-label="Opponent deck"
           onChange={(e) =>
             setEditingMatch({
               ...editingMatch,
@@ -76,6 +78,7 @@ export default function RoundEditForm({
 
         <TextareaField
           value={editingMatch.notes || ''}
+          aria-label="Notes"
           onChange={(e) =>
             setEditingMatch({
               ...editingMatch,

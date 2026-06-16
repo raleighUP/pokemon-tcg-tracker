@@ -40,6 +40,7 @@ export default function AdvisorEventSetup({
             onChange={(e) =>
               setEventType(e.target.value as EventType)
             }
+            aria-label="Event type"
             className="bg-slate-950"
           >
             <option value="challenge">
@@ -63,6 +64,7 @@ export default function AdvisorEventSetup({
             onChange={(e) =>
               setPlayerCount(e.target.value)
             }
+            aria-label="Estimated players"
             placeholder="Example: 64"
             className="bg-slate-950"
           />

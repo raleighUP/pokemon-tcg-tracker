@@ -57,6 +57,7 @@ export default function AddDeckForm({
             onChange={(e) =>
               setDeckName(e.target.value)
             }
+            aria-label="Deck name"
             placeholder="Deck Name"
             autoComplete="off"
           />
@@ -67,6 +68,7 @@ export default function AddDeckForm({
             onChange={(e) =>
               setDecklist(e.target.value)
             }
+            aria-label="Decklist"
             placeholder="Paste decklist here..."
             rows={6}
             className="overflow-hidden transition-all duration-200"

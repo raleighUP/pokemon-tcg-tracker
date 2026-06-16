@@ -79,6 +79,7 @@ export default function ExpectedMetaEditor({
               updated[index].name = e.target.value
               setMetaDecks(updated)
             }}
+            aria-label={`Meta deck ${index + 1} archetype`}
             className="bg-slate-950"
           >
             <option value="">Select archetype</option>
@@ -133,6 +134,11 @@ export default function ExpectedMetaEditor({
               placeholder={
                 metaInputMode === 'percent' ? 'Meta %' : 'Players'
               }
+              aria-label={`Meta deck ${index + 1} ${
+                metaInputMode === 'percent'
+                  ? 'percentage'
+                  : 'players'
+              }`}
               className="bg-slate-950"
             />
 
@@ -149,6 +155,7 @@ export default function ExpectedMetaEditor({
                 )
               }}
               tone="danger"
+              aria-label={`Clear meta deck ${index + 1}`}
             >
               Clear
             </Button>

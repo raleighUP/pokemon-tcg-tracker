@@ -35,18 +35,21 @@ export default function EventEditForm({
       <TextInput
         defaultValue={eventName}
         id={`event-name-${eventName}`}
+        aria-label="Event name"
         placeholder="Event Name"
       />
 
       <TextInput
         defaultValue={initialFormat}
         id={`event-format-${eventName}`}
+        aria-label="Format"
         placeholder="Format"
       />
 
       <SelectField
         defaultValue={initialDeck}
         id={`event-deck-${eventName}`}
+        aria-label="Event deck"
       >
         {decks.map((deck) => (
           <option key={deck.id} value={deck.name}>

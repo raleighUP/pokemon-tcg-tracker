@@ -33,7 +33,7 @@ export function cn(...classes: Array<string | false | null | undefined>) {
 }
 
 const fieldBaseClass =
-  'w-full rounded-xl border border-slate-700 bg-slate-800 px-4 py-3 text-white outline-none placeholder:text-slate-400 focus:border-yellow-400'
+  'w-full rounded-xl border border-slate-700 bg-slate-800 px-4 py-3 text-white outline-none placeholder:text-slate-400 focus:border-yellow-400 focus-visible:ring-2 focus-visible:ring-yellow-400/60'
 
 const fieldErrorClass = 'border-red-500 ring-2 ring-red-500/60'
 
@@ -136,7 +136,10 @@ export function OverflowMenu({
       <button
         aria-label="Close menu"
         onClick={onClose}
-        className={cn('fixed inset-0 z-10 cursor-default', backdropClassName)}
+        className={cn(
+          'fixed inset-0 z-10 cursor-default',
+          backdropClassName
+        )}
       />
 
       <OverlayCard className={cn('absolute right-0 top-10 w-40', className)}>
@@ -158,7 +161,7 @@ export function MenuItem({
     <button
       type={type}
       className={cn(
-        'w-full px-4 py-3 text-left text-sm transition duration-200 hover:bg-slate-700',
+        'w-full px-4 py-3 text-left text-sm transition duration-200 hover:bg-slate-700 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-yellow-400/70',
         tone === 'danger' && 'text-red-400',
         className
       )}
@@ -227,7 +230,7 @@ export function Button({
     <button
       type={type}
       className={cn(
-        'min-h-11 rounded-xl font-semibold transition duration-200 ease-out active:scale-[0.99] disabled:bg-slate-700 disabled:text-slate-500 disabled:active:scale-100',
+        'min-h-11 rounded-xl font-semibold transition duration-200 ease-out active:scale-[0.99] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-yellow-400/70 disabled:bg-slate-700 disabled:text-slate-500 disabled:active:scale-100',
         buttonToneClasses[tone],
         buttonSizeClasses[size],
         className
@@ -246,7 +249,7 @@ export function IconButton({
     <button
       type={type}
       className={cn(
-        'flex min-h-11 min-w-11 items-center justify-center rounded-xl transition duration-200 ease-out active:scale-[0.98]',
+        'flex min-h-11 min-w-11 items-center justify-center rounded-xl transition duration-200 ease-out active:scale-[0.98] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-yellow-400/70',
         className
       )}
       {...props}
@@ -406,12 +409,17 @@ export function DisclosurePanel({
   bodyClassName?: string
 }) {
   return (
-    <NestedPanel className={cn('overflow-hidden rounded-[8px] bg-slate-950 p-0', className)}>
+    <NestedPanel
+      className={cn(
+        'overflow-hidden rounded-[8px] bg-slate-950 p-0',
+        className
+      )}
+    >
       <button
         type="button"
         onClick={onToggle}
         className={cn(
-          'flex w-full items-center justify-between gap-4 p-4 text-left',
+          'flex w-full items-center justify-between gap-4 p-4 text-left focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-yellow-400/70',
           buttonClassName
         )}
       >

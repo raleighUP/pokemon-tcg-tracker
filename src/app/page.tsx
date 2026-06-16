@@ -17,7 +17,89 @@ import { detectDeckArchetype } from '@/utils/archetypes'
 
 import { Deck, Match, CardEntry } from '@/types'
 
-function readStoredArray<T>(key: string): T[] {
+function isRecord(value: unknown): value is Record<string, unknown> {
+  return typeof value === 'object' && value !== null
+}
+
+function normalizeDeck(value: unknown): Deck | null {
+  if (!isRecord(value)) return null
+
+  if (
+    typeof value.id !== 'number' ||
+    typeof value.name !== 'string' ||
+    typeof value.decklist !== 'string'
+  ) {
+    return null
+  }
+
+  return {
+    id: value.id,
+    name: value.name,
+    decklist: value.decklist,
+    archetype:
+      typeof value.archetype === 'string'
+        ? value.archetype
+        : undefined,
+    variant:
+      typeof value.variant === 'string'
+        ? value.variant
+        : undefined,
+  }
+}
+
+function normalizeMatch(value: unknown): Match | null {
+  if (!isRecord(value)) return null
+
+  if (
+    typeof value.id !== 'number' ||
+    typeof value.eventName !== 'string' ||
+    typeof value.round !== 'number' ||
+    typeof value.format !== 'string' ||
+    typeof value.deck !== 'string' ||
+    typeof value.opponentDeck !== 'string' ||
+    (value.matchType !== 'BO1' && value.matchType !== 'BO3') ||
+    !Array.isArray(value.games)
+  ) {
+    return null
+  }
+
+  const games = value.games.filter(
+    (game): game is string =>
+      game === 'W' || game === 'L' || game === 'T'
+  )
+
+  const gameStarts = Array.isArray(value.gameStarts)
+    ? value.gameStarts.filter(
+        (start): start is '1st' | '2nd' =>
+          start === '1st' || start === '2nd'
+      )
+    : []
+
+  return {
+    id: value.id,
+    eventName: value.eventName,
+    round: value.round,
+    format: value.format,
+    deck: value.deck,
+    opponentDeck: value.opponentDeck,
+    matchType: value.matchType,
+    games,
+    gameStarts,
+    finalResult:
+      typeof value.finalResult === 'string'
+        ? value.finalResult
+        : '',
+    notes:
+      typeof value.notes === 'string'
+        ? value.notes
+        : undefined,
+  }
+}
+
+function readStoredArray<T>(
+  key: string,
+  normalizeItem: (value: unknown) => T | null
+): T[] {
   if (typeof window === 'undefined') return []
 
   const savedValue = localStorage.getItem(key)
@@ -27,7 +109,11 @@ function readStoredArray<T>(key: string): T[] {
   try {
     const parsedValue = JSON.parse(savedValue)
 
-    return Array.isArray(parsedValue) ? parsedValue : []
+    if (!Array.isArray(parsedValue)) return []
+
+    return parsedValue
+      .map(normalizeItem)
+      .filter((item): item is T => item !== null)
   } catch {
     localStorage.removeItem(key)
     return []
@@ -40,13 +126,13 @@ const [activeTab, setActiveTab] = useState<AppTab>('decks')
   const [decklist, setDecklist] = useState('')
 
   const [decks, setDecks] = useState<Deck[]>(() =>
-  readStoredArray<Deck>('pokemon-decks')
+  readStoredArray<Deck>('pokemon-decks', normalizeDeck)
 )
 
   const [selectedDeck, setSelectedDeck] = useState<Deck | null>(null)
   const [editingDeckId, setEditingDeckId] = useState<number | null>(null)
   const [matches, setMatches] = useState<Match[]>(() =>
-  readStoredArray<Match>('pokemon-matches')
+  readStoredArray<Match>('pokemon-matches', normalizeMatch)
 )
 
   const [invalidMatchFields, setInvalidMatchFields] = useState<string[]>([])

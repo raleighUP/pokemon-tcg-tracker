@@ -61,6 +61,7 @@ export default function OwnedDeckComfortList({
                 min="1"
                 max="5"
                 value={deck.comfort}
+                aria-label={`${deck.name} comfort`}
                 onChange={(e) => {
                   const nextComfort = Number(e.target.value)
 

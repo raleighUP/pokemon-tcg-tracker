@@ -31,6 +31,13 @@ export default function CompareDecks({
   decks,
   changes,
 }: Props) {
+  const emptyStateMessage =
+    decks.length === 0
+      ? 'Save decks before comparing decklists.'
+      : !compareDeck1 || !compareDeck2
+      ? 'Select two decks to compare.'
+      : 'No differences found.'
+
   return (
     <div className="flex h-[calc(100vh-90px)] flex-col gap-4">
       <Panel className="shrink-0">
@@ -45,6 +52,7 @@ export default function CompareDecks({
             onChange={(e) =>
               setCompareDeck1(e.target.value)
             }
+            aria-label="Select Deck A"
           >
             <option value="">Select Deck A</option>
 
@@ -60,6 +68,7 @@ export default function CompareDecks({
             onChange={(e) =>
               setCompareDeck2(e.target.value)
             }
+            aria-label="Select Deck B"
           >
             <option value="">Select Deck B</option>
 
@@ -80,7 +89,7 @@ export default function CompareDecks({
 
         <div className="h-[calc(100vh-400px)] space-y-2 overflow-y-auto pr-2">
           {changes.length === 0 ? (
-            <EmptyState>No differences found.</EmptyState>
+            <EmptyState>{emptyStateMessage}</EmptyState>
           ) : (
             changes.map((change) => (
               <DeltaRow
