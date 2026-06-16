@@ -7,6 +7,7 @@ import {
   MetricTile,
   NestedPanel,
   StatusBadge,
+  cn,
 } from '@/components/ui'
 import { DeckAdvisorResult } from './types'
 
@@ -21,7 +22,7 @@ export default function RecommendationCard({
   rank,
   insight,
 }: Props) {
-  const [detailsOpen, setDetailsOpen] = useState(rank === 1)
+  const [detailsOpen, setDetailsOpen] = useState(false)
   const isTopPick = rank === 1
 
   return (
@@ -29,13 +30,15 @@ export default function RecommendationCard({
       open={detailsOpen}
       onToggle={() => setDetailsOpen((current) => !current)}
       showAction={false}
-      className={`overflow-hidden rounded-2xl p-0 transition duration-200 ${
-        isTopPick
-          ? 'border-blue-500/50 bg-slate-950 shadow-xl shadow-blue-950/20'
-          : 'border-slate-800 bg-slate-950'
-      }`}
-      buttonClassName="p-4"
-      contentClassName="space-y-4 border-t border-white/10 px-4 pb-4 pt-4"
+      className={cn(
+        'motion-surface overflow-hidden rounded-2xl p-0',
+        isTopPick ? 'card-hero' : 'card-data'
+      )}
+      buttonClassName={cn(
+        'p-4',
+        isTopPick ? 'sm:p-5' : ''
+      )}
+      contentClassName="card-detail space-y-4 border-t border-white/10 px-4 pb-4 pt-4"
       header={
         <div className="w-full">
           <div className="flex items-start justify-between gap-4">
@@ -48,34 +51,42 @@ export default function RecommendationCard({
                       : 'bg-white/10 px-2.5 py-1 text-slate-300'
                   }
                 >
-                  {isTopPick ? 'Best Play' : `#${rank}`}
+                  {isTopPick ? 'Recommended' : `#${rank}`}
                 </StatusBadge>
 
-                <span className="text-xs font-semibold text-slate-500">
+                <span className="type-metadata text-[var(--text-muted)]">
                   Comfort {result.comfort}/5
                 </span>
               </div>
 
               <p
-                className={`truncate font-bold text-white ${
-                  isTopPick ? 'text-2xl' : 'text-lg'
+                className={`truncate text-white ${
+                  isTopPick
+                    ? 'text-[1.7rem] font-[780] leading-tight'
+                    : 'type-section-title'
                 }`}
               >
                 {result.deckName}
               </p>
 
-              <p className="mt-2 max-w-xl text-sm leading-5 text-blue-200">
+              <p className="mt-2 max-w-xl text-sm leading-5 text-blue-100/90">
                 {insight}
               </p>
             </div>
 
             <div className="shrink-0 text-right">
-              <p className={isTopPick ? 'text-3xl font-bold' : 'text-xl font-bold'}>
+              <p
+                className={
+                  isTopPick
+                    ? 'text-[2.15rem] font-[780] leading-none text-white'
+                    : 'type-metric-value'
+                }
+              >
                 {result.adjustedScore.toFixed(1)}
               </p>
 
-              <p className="text-xs text-slate-500">
-                Final
+              <p className="type-metadata mt-1 text-[var(--text-muted)]">
+                Score
               </p>
             </div>
           </div>
@@ -95,20 +106,20 @@ export default function RecommendationCard({
           </div>
 
           <div className="mt-3 flex items-center justify-between border-t border-white/10 pt-3">
-            <p className="text-xs text-slate-500">
-              Tap for scoring and matchup detail
+            <p className="type-metadata text-[var(--text-muted)]">
+              Decision detail
             </p>
 
             <DisclosureAction
               open={detailsOpen}
-              openLabel="Details"
+              openLabel="Inspect"
               closeLabel="Hide"
             />
           </div>
         </div>
       }
     >
-            <div className="grid grid-cols-2 gap-2 text-xs sm:grid-cols-4">
+            <div className="grid grid-cols-2 gap-2 sm:grid-cols-4">
               <MetricTile
                 label="Field WR"
                 value={`${result.fieldWinRate.toFixed(1)}%`}
@@ -138,7 +149,7 @@ export default function RecommendationCard({
             </div>
 
             <div className="grid grid-cols-1 gap-3 text-sm sm:grid-cols-2">
-              <NestedPanel className="border-0 bg-slate-900 p-3">
+              <NestedPanel className="card-detail border-0 p-3">
                 <p className="mb-2 font-semibold text-green-400">
                   Best Matchups
                 </p>
@@ -168,7 +179,7 @@ export default function RecommendationCard({
                 </div>
               </NestedPanel>
 
-              <NestedPanel className="border-0 bg-slate-900 p-3">
+              <NestedPanel className="card-detail border-0 p-3">
                 <p className="mb-2 font-semibold text-red-400">
                   Worst Matchups
                 </p>

@@ -33,9 +33,10 @@ export function cn(...classes: Array<string | false | null | undefined>) {
 }
 
 const fieldBaseClass =
-  'w-full rounded-2xl border border-slate-700 bg-slate-900 px-4 py-3 text-white outline-none placeholder:text-slate-400 focus:border-yellow-400 focus-visible:ring-2 focus-visible:ring-yellow-400/60'
+  'motion-surface w-full min-h-12 rounded-2xl border border-white/10 bg-white/[0.055] px-4 py-3 text-base leading-tight text-[var(--text-primary)] shadow-[inset_0_1px_0_rgba(255,255,255,0.045)] outline-none placeholder:text-[var(--text-subtle)] focus:border-[#176bb5]/70 focus:bg-white/[0.075] focus-visible:ring-2 focus-visible:ring-[#176bb5]/35 disabled:border-white/5 disabled:bg-white/[0.025] disabled:text-[var(--text-subtle)]'
 
-const fieldErrorClass = 'border-red-500 ring-2 ring-red-500/60'
+const fieldErrorClass =
+  'border-red-500/80 bg-red-950/20 ring-2 ring-red-500/40'
 
 const feedbackToneClasses: Record<FeedbackTone, string> = {
   neutral: 'bg-slate-800 text-slate-300',
@@ -59,9 +60,9 @@ export function AppShell({
   bottomNavigation?: ReactNode
 }) {
   return (
-    <main className="min-h-dvh bg-slate-950 px-4 pt-[calc(1.25rem+env(safe-area-inset-top))] text-white sm:px-6 sm:pt-[calc(1.5rem+env(safe-area-inset-top))]">
+    <main className="app-shell-surface min-h-dvh px-4 pt-[calc(1.25rem+env(safe-area-inset-top))] text-white sm:px-6 sm:pt-[calc(1.5rem+env(safe-area-inset-top))]">
       <div className="mx-auto max-w-6xl">
-        <div className="pb-[calc(6rem+env(safe-area-inset-bottom))] transition-opacity duration-200 ease-out">
+        <div className="motion-surface pb-[calc(6rem+env(safe-area-inset-bottom))]">
           {children}
         </div>
       </div>
@@ -78,7 +79,7 @@ export function Panel({
   return (
     <div
       className={cn(
-        'rounded-2xl border border-slate-800 bg-slate-900 p-5 shadow-xl shadow-black/10 sm:p-6',
+        'surface-primary card-workflow motion-surface rounded-2xl border p-5 sm:p-6',
         className
       )}
       {...props}
@@ -93,7 +94,7 @@ export function NestedPanel({
   return (
     <div
       className={cn(
-        'rounded-xl border border-slate-800 bg-slate-950 p-4',
+        'surface-secondary card-detail motion-surface rounded-xl border p-4',
         className
       )}
       {...props}
@@ -108,11 +109,61 @@ export function OverlayCard({
   return (
     <div
       className={cn(
-        'z-20 overflow-hidden rounded-xl border border-slate-700 bg-slate-800 shadow-xl',
+        'surface-overlay motion-surface z-20 overflow-hidden rounded-xl border',
         className
       )}
       {...props}
     />
+  )
+}
+
+export function Sheet({
+  open,
+  onClose,
+  children,
+  ariaLabel,
+  className,
+  contentClassName,
+}: {
+  open: boolean
+  onClose: () => void
+  children: ReactNode
+  ariaLabel: string
+  className?: string
+  contentClassName?: string
+}) {
+  if (!open) return null
+
+  return (
+    <div
+      aria-label={ariaLabel}
+      aria-modal="true"
+      role="dialog"
+      className={cn(
+        'motion-sheet-backdrop fixed inset-0 z-[60] flex items-end bg-black/65 px-4 pb-[calc(1rem+env(safe-area-inset-bottom))] pt-[calc(5rem+env(safe-area-inset-top))] backdrop-blur-md',
+        className
+      )}
+    >
+      <button
+        aria-label={`Close ${ariaLabel}`}
+        className="absolute inset-0 cursor-default"
+        onClick={onClose}
+      />
+
+      <OverlayCard
+        className={cn(
+          'motion-sheet-card relative max-h-full w-full rounded-[28px] p-0',
+          contentClassName
+        )}
+      >
+        <div
+          aria-hidden="true"
+          className="mx-auto mt-3 h-1 w-10 rounded-full bg-white/22"
+        />
+
+        {children}
+      </OverlayCard>
+    </div>
   )
 }
 
@@ -142,7 +193,12 @@ export function OverflowMenu({
         )}
       />
 
-      <OverlayCard className={cn('absolute right-0 top-10 w-40', className)}>
+      <OverlayCard
+        className={cn(
+          'motion-sheet-card absolute right-0 top-11 w-44 rounded-2xl p-1',
+          className
+        )}
+      >
         {children}
       </OverlayCard>
     </>
@@ -161,7 +217,7 @@ export function MenuItem({
     <button
       type={type}
       className={cn(
-        'w-full px-4 py-3 text-left text-sm transition duration-200 hover:bg-slate-700 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-yellow-400/70',
+        'motion-press w-full rounded-xl px-4 py-3 text-left text-sm hover:bg-white/10 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-yellow-400/70',
         tone === 'danger' && 'text-red-400',
         className
       )}
@@ -186,13 +242,17 @@ export function SectionHeader({
   return (
     <div className={className}>
       <HeadingTag
-        className={level === 2 ? 'text-2xl font-bold' : 'text-lg font-bold'}
+        className={
+          level === 2
+            ? 'type-screen-title text-[var(--text-primary)]'
+            : 'type-section-title text-[var(--text-primary)]'
+        }
       >
         {title}
       </HeadingTag>
 
       {description && (
-        <p className="mt-1 text-sm text-slate-400">
+        <p className="type-helper mt-1 text-[var(--text-muted)]">
           {description}
         </p>
       )}
@@ -230,7 +290,7 @@ export function Button({
     <button
       type={type}
       className={cn(
-        'min-h-11 rounded-xl font-semibold transition duration-200 ease-out active:scale-[0.99] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-yellow-400/70 disabled:bg-slate-700 disabled:text-slate-500 disabled:active:scale-100',
+        'motion-press min-h-11 rounded-xl font-semibold focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-yellow-400/70 disabled:bg-slate-700 disabled:text-slate-500 disabled:active:scale-100',
         buttonToneClasses[tone],
         buttonSizeClasses[size],
         className
@@ -249,7 +309,7 @@ export function IconButton({
     <button
       type={type}
       className={cn(
-        'flex min-h-11 min-w-11 items-center justify-center rounded-xl transition duration-200 ease-out active:scale-[0.98] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-yellow-400/70',
+        'motion-press flex min-h-11 min-w-11 items-center justify-center rounded-xl focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-yellow-400/70',
         className
       )}
       {...props}
@@ -276,7 +336,7 @@ export function SegmentedControl<TValue extends string>({
   return (
     <div
       className={cn(
-        'grid gap-2',
+        'grid gap-1 rounded-2xl border border-white/10 bg-black/20 p-1',
         options.length === 2 ? 'grid-cols-2' : '',
         className
       )}
@@ -305,7 +365,7 @@ export function EmptyState({
   return (
     <div
       className={cn(
-        'rounded-xl border border-dashed border-slate-800 bg-slate-950/60 px-4 py-3 text-sm text-slate-400',
+        'surface-empty card-empty motion-surface type-helper rounded-xl border border-dashed px-4 py-3 text-[var(--text-muted)]',
         className
       )}
     >
@@ -335,7 +395,7 @@ export function DisclosureAction({
       <span>{open ? closeLabel : openLabel}</span>
       <span
         aria-hidden="true"
-        className={`mt-[-1px] h-2 w-2 shrink-0 border-r-2 border-b-2 border-current transition-transform duration-200 ease-out ${
+        className={`mt-[-1px] h-2 w-2 shrink-0 border-r-2 border-b-2 border-current transition-transform duration-[var(--motion-base)] ease-[var(--motion-standard)] ${
           open ? 'rotate-45' : '-rotate-45'
         }`}
       />
@@ -357,10 +417,10 @@ export function DisclosureContent({
   return (
     <div
       className={cn(
-        'grid transition-all duration-200 ease-out',
+        'motion-disclosure grid',
         open
-          ? 'grid-rows-[1fr] opacity-100'
-          : 'grid-rows-[0fr] opacity-0',
+          ? 'grid-rows-[1fr] opacity-100 translate-y-0'
+          : 'grid-rows-[0fr] opacity-0 -translate-y-1',
         className
       )}
     >
@@ -409,7 +469,7 @@ export function DisclosurePanel({
   return (
     <NestedPanel
       className={cn(
-        'overflow-hidden rounded-2xl bg-slate-950 p-0',
+        'motion-surface overflow-hidden rounded-2xl p-0',
         className
       )}
     >
@@ -417,20 +477,20 @@ export function DisclosurePanel({
         type="button"
         onClick={onToggle}
         className={cn(
-          'flex w-full items-center justify-between gap-4 p-4 text-left focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-yellow-400/70',
+          'motion-press flex w-full items-center justify-between gap-4 p-4 text-left focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-yellow-400/70',
           buttonClassName
         )}
       >
         {header ?? (
           <span>
             {title && (
-              <span className="block text-sm font-semibold text-white">
+              <span className="type-card-title block text-[var(--text-primary)]">
                 {title}
               </span>
             )}
 
             {description && (
-              <span className="mt-1 block text-xs text-slate-500">
+              <span className="type-metadata mt-1 block text-[var(--text-subtle)]">
                 {description}
               </span>
             )}
@@ -469,14 +529,16 @@ export function SourcePanel({
   className?: string
 }) {
   return (
-    <NestedPanel className={cn('space-y-2 p-3 text-xs', className)}>
+    <NestedPanel className={cn('space-y-2 p-3', className)}>
       {sources.map((source) => (
         <div
           key={String(source.label)}
           className="flex justify-between gap-3"
         >
-          <span className="text-slate-400">{source.label}</span>
-          <span className="text-right font-semibold">
+          <span className="type-metadata text-[var(--text-muted)]">
+            {source.label}
+          </span>
+          <span className="type-card-title text-right text-[var(--text-primary)]">
             {source.value}
           </span>
         </div>
@@ -491,7 +553,10 @@ export function FieldLabel({
 }: HTMLAttributes<HTMLLabelElement>) {
   return (
     <label
-      className={cn('mb-2 block text-sm font-semibold', className)}
+      className={cn(
+        'type-form-label mb-2 block text-[var(--text-secondary)]',
+        className
+      )}
       {...props}
     />
   )
@@ -503,7 +568,8 @@ export function ValidationMessage({
 }: HTMLAttributes<HTMLParagraphElement>) {
   return (
     <p
-      className={cn('mt-1 text-sm text-red-400', className)}
+      role="alert"
+      className={cn('mt-1.5 text-sm font-medium text-red-300', className)}
       {...props}
     />
   )
@@ -525,6 +591,8 @@ export const TextInput = forwardRef<
       ref={ref}
       type={type}
       autoComplete={autoComplete}
+      autoCapitalize="words"
+      enterKeyHint="next"
       className={cn(
         fieldBaseClass,
         invalid && fieldErrorClass,
@@ -555,6 +623,7 @@ export const NumberInput = forwardRef<
       ref={ref}
       type={type}
       inputMode={inputMode}
+      enterKeyHint="next"
       className={cn(
         fieldBaseClass,
         invalid && fieldErrorClass,
@@ -628,7 +697,7 @@ export const TextareaField = forwardRef<
       }}
       className={cn(
         fieldBaseClass,
-        'resize-none',
+        'resize-none leading-6',
         expandable && 'overflow-hidden',
         invalid && fieldErrorClass,
         className
@@ -646,7 +715,10 @@ export const RangeField = forwardRef<
     <input
       ref={ref}
       type={type}
-      className={cn('w-full', className)}
+      className={cn(
+        'h-7 w-full cursor-pointer accent-[#176bb5]',
+        className
+      )}
       {...props}
     />
   )
@@ -670,11 +742,30 @@ export function MetricTile({
   detailClassName?: string
 }) {
   return (
-    <div className={cn('rounded-xl bg-slate-900 p-3', className)}>
-      <p className={cn('text-slate-400', labelClassName)}>{label}</p>
-      <p className={cn('font-bold', valueClassName)}>{value}</p>
+    <div className={cn('card-data motion-surface rounded-xl p-3', className)}>
+      <p
+        className={cn(
+          'type-metadata text-[var(--text-muted)]',
+          labelClassName
+        )}
+      >
+        {label}
+      </p>
+      <p
+        className={cn(
+          'type-metric-value mt-1 text-[var(--text-primary)]',
+          valueClassName
+        )}
+      >
+        {value}
+      </p>
       {detail && (
-        <p className={cn('text-[10px] text-slate-500', detailClassName)}>
+        <p
+          className={cn(
+            'type-metadata mt-1 text-[0.6875rem] text-[var(--text-subtle)]',
+            detailClassName
+          )}
+        >
           {detail}
         </p>
       )}
@@ -694,7 +785,8 @@ export function StatusBadge({
   return (
     <span
       className={cn(
-        'inline-flex items-center rounded-full px-2 py-1 text-xs font-bold',
+        'inline-flex items-center rounded-full px-2 py-1 text-xs font-semibold leading-tight tracking-normal',
+        'motion-surface',
         feedbackToneClasses[tone],
         className
       )}
@@ -747,18 +839,21 @@ export function MatchupBadge({
   return (
     <div
       className={cn(
-        'rounded-xl border px-4 py-3',
+        'card-data rounded-xl px-4 py-3',
+        'motion-surface',
         matchupToneClasses[tone],
         className
       )}
     >
       <div className="flex justify-between gap-3">
-        <span className="text-sm text-slate-300">{label}</span>
-        <span className="font-bold text-white">{value}</span>
+        <span className="type-card-title text-slate-300">{label}</span>
+        <span className="type-metric-value">{value}</span>
       </div>
 
       {detail && (
-        <p className="mt-1 text-xs text-slate-400">{detail}</p>
+        <p className="type-metadata mt-1 text-[var(--text-muted)]">
+          {detail}
+        </p>
       )}
     </div>
   )
@@ -779,10 +874,20 @@ export function MetricRow({
 }) {
   return (
     <div className={cn('flex justify-between gap-3', className)}>
-      <span className={cn('text-slate-400', labelClassName)}>
+      <span
+        className={cn(
+          'type-metadata text-[var(--text-muted)]',
+          labelClassName
+        )}
+      >
         {label}
       </span>
-      <span className={cn('text-right font-bold', valueClassName)}>
+      <span
+        className={cn(
+          'type-card-title text-right text-[var(--text-primary)]',
+          valueClassName
+        )}
+      >
         {value}
       </span>
     </div>
@@ -837,20 +942,22 @@ export function DeltaRow({
   return (
     <div
       className={cn(
-        'flex items-center justify-between rounded-xl bg-slate-800 px-4 py-3',
+        'card-row motion-surface flex items-center justify-between rounded-xl px-4 py-3',
         className
       )}
     >
       <div>
-        <p className="font-semibold">{label}</p>
-        <p className="text-sm text-slate-400">
+        <p className="type-card-title text-[var(--text-primary)]">
+          {label}
+        </p>
+        <p className="type-helper mt-1 text-[var(--text-muted)]">
           {before} -&gt; {after}
         </p>
       </div>
 
       <p
         className={cn(
-          'font-bold',
+          'type-metric-value',
           diff > 0 ? 'text-green-400' : 'text-red-400'
         )}
       >

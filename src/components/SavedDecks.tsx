@@ -5,6 +5,7 @@ import {
   Panel,
   SectionHeader,
   StatusBadge,
+  cn,
 } from '@/components/ui'
 
 type Props = {
@@ -26,6 +27,7 @@ export default function SavedDecks({
     <Panel>
       <SectionHeader
         title="Saved Decks"
+        description="Choose, edit, or remove saved tournament decks."
         className="mb-4"
       />
 
@@ -41,23 +43,24 @@ export default function SavedDecks({
             return (
               <div
                 key={deck.id}
-                className={`rounded-xl border p-4 transition duration-200 ${
+                className={cn(
+                  'card-row motion-surface rounded-2xl p-4',
                   isSelected
-                    ? 'border-blue-500 bg-blue-500/10 shadow-lg shadow-blue-500/10'
-                    : 'border-slate-700 bg-slate-800'
-                }`}
+                    ? 'border-blue-500/55 bg-blue-500/12 shadow-[0_16px_38px_rgba(23,107,181,0.13)]'
+                    : ''
+                )}
               >
                 <div className="flex items-center justify-between gap-3">
                   <button
                     type="button"
-                    className="min-w-0 flex-1 cursor-pointer text-left"
+                    className="motion-press min-w-0 flex-1 cursor-pointer rounded-xl text-left"
                     onClick={() => setSelectedDeck(deck)}
                   >
-                    <p className="truncate font-semibold text-white transition duration-200 hover:text-yellow-400">
+                    <p className="type-card-title truncate text-[var(--text-primary)] hover:text-blue-200">
                       {deck.name}
                     </p>
 
-                    <p className="mt-1 truncate text-xs text-slate-400">
+                    <p className="type-metadata mt-1 truncate text-[var(--text-muted)]">
                       {deck.variant || deck.archetype || 'Other'}
                     </p>
 
@@ -73,7 +76,7 @@ export default function SavedDecks({
                       onClick={() => editDeck(deck)}
                       tone="primary"
                       size="sm"
-                      className="rounded-lg px-3"
+                      className="rounded-xl bg-white/10 px-3 text-[var(--text-secondary)] hover:bg-white/15 hover:text-white"
                     >
                       Edit
                     </Button>
@@ -82,7 +85,7 @@ export default function SavedDecks({
                       onClick={() => deleteDeck(deck.id)}
                       tone="danger"
                       size="sm"
-                      className="rounded-lg bg-red-500 px-3 text-white hover:bg-red-600"
+                      className="rounded-xl bg-red-500/80 px-3 text-white hover:bg-red-500"
                     >
                       Delete
                     </Button>

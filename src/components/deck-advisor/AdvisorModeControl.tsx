@@ -11,7 +11,7 @@ export default function AdvisorModeControl({
   setCandidateSource,
 }: Props) {
   return (
-    <div className="space-y-3">
+    <div className="space-y-2">
       <SegmentedControl
         value={candidateSource}
         onChange={setCandidateSource}
@@ -21,10 +21,10 @@ export default function AdvisorModeControl({
         ]}
       />
 
-      <p className="text-xs text-slate-400">
+      <p className="type-helper text-[var(--text-muted)]">
         {candidateSource === 'owned'
-          ? 'Rank only the decks you have saved in the app.'
-          : 'Rank the top expected meta archetypes using neutral comfort.'}
+          ? 'Ranking your saved decks.'
+          : 'Ranking expected archetypes with neutral comfort.'}
       </p>
     </div>
   )

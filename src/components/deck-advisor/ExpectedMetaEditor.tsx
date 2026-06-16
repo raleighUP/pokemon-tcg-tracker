@@ -44,8 +44,8 @@ export default function ExpectedMetaEditor({
   maxMetaTotal,
   metaBreakdown,
 }: Props) {
-  const [metaSourceOpen, setMetaSourceOpen] = useState(false)
-  const [matchupSourceOpen, setMatchupSourceOpen] = useState(false)
+  const [sourcesOpen, setSourcesOpen] = useState(false)
+  const [breakdownOpen, setBreakdownOpen] = useState(false)
 
   return (
     <div className="space-y-3">
@@ -60,46 +60,6 @@ export default function ExpectedMetaEditor({
         Use Suggested Meta
       </Button>
 
-      <DisclosurePanel
-        title="Meta Source"
-        open={metaSourceOpen}
-        onToggle={() => setMetaSourceOpen((current) => !current)}
-        actionOpenLabel="Show"
-        actionCloseLabel="Hide"
-        buttonClassName="px-3 py-3"
-        contentClassName="border-t border-white/10 p-3"
-      >
-        <SourcePanel
-          className="border-slate-800/80 bg-slate-900/70"
-          sources={[
-            {
-              label: 'Meta',
-              value: suggestedMetaSourceLabel,
-            },
-          ]}
-        />
-      </DisclosurePanel>
-
-      <DisclosurePanel
-        title="Matchup Source"
-        open={matchupSourceOpen}
-        onToggle={() => setMatchupSourceOpen((current) => !current)}
-        actionOpenLabel="Show"
-        actionCloseLabel="Hide"
-        buttonClassName="px-3 py-3"
-        contentClassName="border-t border-white/10 p-3"
-      >
-        <SourcePanel
-          className="border-slate-800/80 bg-slate-900/70"
-          sources={[
-            {
-              label: 'Matchups',
-              value: '20 large Limitless events',
-            },
-          ]}
-        />
-      </DisclosurePanel>
-
       <SegmentedControl
         value={metaInputMode}
         onChange={setMetaInputMode}
@@ -113,7 +73,7 @@ export default function ExpectedMetaEditor({
       {metaDecks.map((deck, index) => (
         <div
           key={index}
-          className="grid grid-cols-[minmax(0,1fr)_5.5rem_3.75rem] gap-2"
+          className="card-row grid grid-cols-[minmax(0,1fr)_5.5rem_3.25rem] gap-2 rounded-2xl p-2"
         >
           <SelectField
             value={deck.name}
@@ -123,7 +83,7 @@ export default function ExpectedMetaEditor({
               setMetaDecks(updated)
             }}
             aria-label={`Meta deck ${index + 1} archetype`}
-            className="bg-slate-950"
+            className="border-transparent bg-transparent"
           >
             <option value="">Select archetype</option>
 
@@ -174,12 +134,14 @@ export default function ExpectedMetaEditor({
               setMetaDecks(updated)
             }}
             placeholder="Percent"
+            inputMode="decimal"
+            enterKeyHint="next"
             aria-label={`Meta deck ${index + 1} ${
               metaInputMode === 'percent'
                 ? 'percentage'
                 : 'players'
             }`}
-            className="bg-slate-950 px-3"
+            className="border-transparent bg-transparent px-3 text-center"
           />
 
           <Button
@@ -196,9 +158,10 @@ export default function ExpectedMetaEditor({
             }}
             tone="danger"
             aria-label={`Clear meta deck ${index + 1}`}
-            className="px-2"
+            size="sm"
+            className="min-h-11 px-2 text-xs"
           >
-            Clear
+            X
           </Button>
         </div>
       ))}
@@ -241,17 +204,21 @@ export default function ExpectedMetaEditor({
         />
 
         {metaBreakdown.length > 0 && (
-          <div className="border-t border-slate-800 pt-3 mt-3 space-y-2">
-            <p className="text-xs font-semibold text-slate-400">
-              Meta Breakdown
-            </p>
+          <DisclosurePanel
+            title="Field Breakdown"
+            open={breakdownOpen}
+            onToggle={() => setBreakdownOpen((current) => !current)}
+            buttonClassName="mt-3 border-t border-white/10 px-0 pb-0 pt-3"
+            contentClassName="space-y-2 pb-1 pt-2"
+            className="border-0 bg-transparent p-0"
+          >
 
             {metaBreakdown.map((deck) => (
               <div
                 key={deck.name}
                 className="flex justify-between gap-3 text-xs"
               >
-                <span className="text-slate-400">
+                <span className="text-[var(--text-muted)]">
                   {deck.name}
                 </span>
 
@@ -269,7 +236,7 @@ export default function ExpectedMetaEditor({
 
             {otherMetaTotal > 0 && (
               <div className="flex justify-between gap-3 text-xs">
-                <span className="text-slate-400">
+                <span className="text-[var(--text-muted)]">
                   Other
                 </span>
 
@@ -295,9 +262,34 @@ export default function ExpectedMetaEditor({
                 </span>
               </div>
             )}
-          </div>
+          </DisclosurePanel>
         )}
       </NestedPanel>
+
+      <DisclosurePanel
+        title="Sources"
+        description="Meta and matchup data"
+        open={sourcesOpen}
+        onToggle={() => setSourcesOpen((current) => !current)}
+        actionOpenLabel="Show"
+        actionCloseLabel="Hide"
+        buttonClassName="px-3 py-3"
+        contentClassName="border-t border-white/10 p-3"
+      >
+        <SourcePanel
+          className="border-white/8 bg-white/[0.035]"
+          sources={[
+            {
+              label: 'Meta',
+              value: suggestedMetaSourceLabel,
+            },
+            {
+              label: 'Matchups',
+              value: '20 large Limitless events',
+            },
+          ]}
+        />
+      </DisclosurePanel>
     </div>
   )
 }

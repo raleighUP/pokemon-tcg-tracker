@@ -69,6 +69,7 @@ export default function MatchHistory({
       <Panel>
         <SectionHeader
           title="Match History"
+          description="Review event records, round outcomes, and notes."
           className="mb-4"
         />
 
@@ -96,13 +97,14 @@ export default function MatchHistory({
     <Panel>
       <SectionHeader
         title="Match History"
+        description="Review event records, round outcomes, and notes."
         className="mb-4"
       />
 
-      <div className="space-y-6">
+      <div className="space-y-4">
         {Object.entries(groupedMatches)
           .reverse()
-          .map(([eventName, eventMatches]) => (
+          .map(([eventName, eventMatches], index) => (
             <EventHistoryCard
               key={eventName}
               eventName={eventName}
@@ -114,11 +116,15 @@ export default function MatchHistory({
               openNotesId={openNotesId}
               isRoundValid={isRoundValid}
               isFormValid={isFormValid}
-              isCollapsed={Boolean(collapsedEvents[eventName])}
+              isCollapsed={
+                collapsedEvents[eventName] ?? index > 0
+              }
               toggleCollapsed={() => {
                 setCollapsedEvents((currentCollapsedEvents) => ({
                   ...currentCollapsedEvents,
-                  [eventName]: !currentCollapsedEvents[eventName],
+                  [eventName]: !(
+                    currentCollapsedEvents[eventName] ?? index > 0
+                  ),
                 }))
               }}
               setEditingEvent={setEditingEvent}

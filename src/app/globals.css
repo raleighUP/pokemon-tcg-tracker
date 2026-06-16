@@ -1,8 +1,29 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #050506;
+  --foreground: #f7f7f8;
+  --text-primary: #f7f7f8;
+  --text-secondary: #c7c7cc;
+  --text-muted: #8e8e93;
+  --text-subtle: #636366;
+  --surface-app: #050506;
+  --surface-app-soft: #09090b;
+  --surface-primary: rgba(18, 18, 21, 0.86);
+  --surface-primary-strong: rgba(25, 25, 29, 0.92);
+  --surface-secondary: rgba(10, 10, 12, 0.78);
+  --surface-secondary-strong: rgba(14, 14, 17, 0.88);
+  --surface-overlay: rgba(20, 20, 24, 0.94);
+  --surface-border: rgba(255, 255, 255, 0.1);
+  --surface-border-strong: rgba(255, 255, 255, 0.16);
+  --surface-highlight: rgba(23, 107, 181, 0.22);
+  --surface-shadow: rgba(0, 0, 0, 0.42);
+  --surface-shadow-strong: rgba(0, 0, 0, 0.62);
+  --motion-fast: 140ms;
+  --motion-base: 190ms;
+  --motion-slow: 260ms;
+  --motion-standard: cubic-bezier(0.2, 0, 0, 1);
+  --motion-press: cubic-bezier(0.2, 0, 0.2, 1);
 }
 
 @theme inline {
@@ -12,18 +33,21 @@
   --font-mono: var(--font-geist-mono);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family:
+    var(--font-geist-sans),
+    -apple-system,
+    BlinkMacSystemFont,
+    "SF Pro Text",
+    "Segoe UI",
+    sans-serif;
+  font-feature-settings:
+    "rlig" 1,
+    "calt" 1;
   margin: 0;
+  text-rendering: geometricPrecision;
 }
 
 html,
@@ -31,12 +55,238 @@ body {
   min-height: 100%;
 }
 
+html {
+  background: var(--surface-app);
+}
+
+.app-shell-surface {
+  background:
+    radial-gradient(
+      circle at 50% -12rem,
+      rgba(23, 107, 181, 0.18),
+      transparent 34rem
+    ),
+    radial-gradient(
+      circle at 110% 16rem,
+      rgba(125, 120, 120, 0.1),
+      transparent 24rem
+    ),
+    linear-gradient(180deg, var(--surface-app-soft), var(--surface-app));
+}
+
+.surface-primary {
+  background:
+    linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0.055),
+      rgba(255, 255, 255, 0.025)
+    ),
+    var(--surface-primary);
+  border-color: var(--surface-border);
+  box-shadow:
+    0 22px 60px var(--surface-shadow),
+    inset 0 1px 0 rgba(255, 255, 255, 0.055);
+  backdrop-filter: blur(22px);
+}
+
+.surface-secondary {
+  background:
+    linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0.035),
+      rgba(255, 255, 255, 0.012)
+    ),
+    var(--surface-secondary);
+  border-color: var(--surface-border);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.035);
+  backdrop-filter: blur(16px);
+}
+
+.surface-overlay {
+  background:
+    linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0.075),
+      rgba(255, 255, 255, 0.035)
+    ),
+    var(--surface-overlay);
+  border-color: var(--surface-border-strong);
+  box-shadow:
+    0 24px 70px var(--surface-shadow-strong),
+    inset 0 1px 0 rgba(255, 255, 255, 0.07);
+  backdrop-filter: blur(24px);
+}
+
+.surface-empty {
+  background: rgba(255, 255, 255, 0.025);
+  border-color: rgba(255, 255, 255, 0.08);
+}
+
+:where(.card-workflow) {
+  border-color: var(--surface-border);
+  box-shadow:
+    0 18px 54px rgba(0, 0, 0, 0.36),
+    inset 0 1px 0 rgba(255, 255, 255, 0.055);
+}
+
+:where(.card-hero) {
+  background:
+    linear-gradient(
+      180deg,
+      rgba(23, 107, 181, 0.16),
+      rgba(255, 255, 255, 0.032) 42%,
+      rgba(255, 255, 255, 0.018)
+    ),
+    var(--surface-primary-strong);
+  border-color: rgba(23, 107, 181, 0.46);
+  box-shadow:
+    0 24px 70px rgba(0, 0, 0, 0.5),
+    0 0 38px rgba(23, 107, 181, 0.14),
+    inset 0 1px 0 rgba(255, 255, 255, 0.085);
+}
+
+:where(.card-data) {
+  background:
+    linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0.045),
+      rgba(255, 255, 255, 0.016)
+    ),
+    rgba(255, 255, 255, 0.035);
+  border: 1px solid rgba(255, 255, 255, 0.072);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.04);
+}
+
+:where(.card-row) {
+  background: rgba(255, 255, 255, 0.034);
+  border: 1px solid rgba(255, 255, 255, 0.068);
+}
+
+:where(.card-detail) {
+  background: rgba(255, 255, 255, 0.026);
+  border-color: rgba(255, 255, 255, 0.064);
+  box-shadow: none;
+}
+
+:where(.card-empty) {
+  background: rgba(255, 255, 255, 0.018);
+  border-color: rgba(255, 255, 255, 0.08);
+}
+
+.motion-surface {
+  transition-duration: var(--motion-base);
+  transition-property:
+    background-color,
+    border-color,
+    box-shadow,
+    color,
+    opacity,
+    transform;
+  transition-timing-function: var(--motion-standard);
+}
+
+.motion-press {
+  transform: translateZ(0);
+  transition-duration: var(--motion-fast);
+  transition-property:
+    background-color,
+    border-color,
+    box-shadow,
+    color,
+    opacity,
+    transform;
+  transition-timing-function: var(--motion-press);
+}
+
+.motion-press:active {
+  transform: scale(0.985);
+}
+
+.motion-nav-item {
+  transform: translateZ(0);
+  transition-duration: var(--motion-base);
+  transition-property:
+    background-color,
+    box-shadow,
+    color,
+    opacity,
+    transform;
+  transition-timing-function: var(--motion-standard);
+}
+
+.motion-nav-item:active {
+  transform: scale(0.98);
+}
+
+.motion-disclosure {
+  transition-duration: var(--motion-slow);
+  transition-property: grid-template-rows, opacity, transform;
+  transition-timing-function: var(--motion-standard);
+}
+
+.motion-sheet-backdrop {
+  animation: sheet-backdrop-in var(--motion-slow) var(--motion-standard);
+}
+
+.motion-sheet-card {
+  animation: sheet-rise var(--motion-slow) var(--motion-standard);
+}
+
+.type-screen-title {
+  font-size: 1.625rem;
+  font-weight: 760;
+  letter-spacing: 0;
+  line-height: 1.08;
+}
+
+.type-section-title {
+  font-size: 1.0625rem;
+  font-weight: 720;
+  letter-spacing: 0;
+  line-height: 1.16;
+}
+
+.type-card-title {
+  font-size: 0.9375rem;
+  font-weight: 680;
+  letter-spacing: 0;
+  line-height: 1.25;
+}
+
+.type-metric-value {
+  font-size: 1.125rem;
+  font-weight: 760;
+  letter-spacing: 0;
+  line-height: 1.05;
+}
+
+.type-metadata {
+  font-size: 0.75rem;
+  font-weight: 620;
+  letter-spacing: 0;
+  line-height: 1.25;
+}
+
+.type-helper {
+  font-size: 0.875rem;
+  font-weight: 450;
+  letter-spacing: 0;
+  line-height: 1.45;
+}
+
+.type-form-label {
+  font-size: 0.8125rem;
+  font-weight: 640;
+  letter-spacing: 0;
+  line-height: 1.2;
+}
+
 select {
   color-scheme: dark;
 }
 
 select option {
-  background: #0f172a;
+  background: #101014;
   color: #f8fafc;
 }
 
@@ -46,23 +296,56 @@ select option {
     transform: translateX(0);
   }
 
-  20% {
-    transform: translateX(-6px);
-  }
-
-  40% {
-    transform: translateX(6px);
-  }
-
-  60% {
+  18% {
     transform: translateX(-4px);
   }
 
-  80% {
+  36% {
     transform: translateX(4px);
+  }
+
+  54% {
+    transform: translateX(-3px);
+  }
+
+  72% {
+    transform: translateX(3px);
   }
 }
 
 .field-error-shake {
-  animation: shake 0.35s ease-in-out;
+  animation: shake 0.32s var(--motion-standard);
+}
+
+@keyframes sheet-backdrop-in {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes sheet-rise {
+  from {
+    opacity: 0;
+    transform: translateY(18px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 1ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 1ms !important;
+  }
 }

@@ -1,13 +1,13 @@
 import { Deck, Match } from '@/types'
 import {
-  Button,
   DisclosureAction,
   DisclosureContent,
   IconButton,
+  MetricTile,
   MenuItem,
-  NestedPanel,
   OverflowMenu,
   StatusBadge,
+  cn,
 } from '@/components/ui'
 import EventEditForm from './EventEditForm'
 import RoundHistoryRow from './RoundHistoryRow'
@@ -98,9 +98,22 @@ export default function EventHistoryCard({
   const eventRecord = `${totalWins}-${totalLosses}${
     totalTies > 0 ? `-${totalTies}` : ''
   }`
+  const eventWinRate =
+    sortedMatches.length === 0
+      ? 0
+      : (totalWins / sortedMatches.length) * 100
+  const notesCount = sortedMatches.filter((match) =>
+    match.notes?.trim()
+  ).length
+  const summaryTone =
+    totalWins > totalLosses
+      ? 'text-green-200'
+      : totalLosses > totalWins
+      ? 'text-red-200'
+      : 'text-yellow-100'
 
   return (
-    <NestedPanel className="overflow-hidden rounded-2xl border-slate-700/80 bg-slate-900/90 p-0 shadow-xl shadow-black/20">
+    <div className="surface-secondary card-workflow motion-surface overflow-hidden rounded-[28px] border p-0">
       {editingEvent === eventName ? (
         <EventEditForm
           eventName={eventName}
@@ -114,44 +127,58 @@ export default function EventHistoryCard({
           onCancel={() => setEditingEvent(null)}
         />
       ) : (
-        <div className="border-b border-white/10 bg-slate-800/80 p-4">
+        <div className="border-b border-white/10 bg-white/[0.025] p-4 sm:p-5">
           <div className="flex items-start justify-between gap-3">
             <div className="min-w-0">
-              <div className="mb-2 flex items-center gap-2">
-                <StatusBadge className="bg-blue-500/15 px-2.5 py-1 text-blue-200">
+              <div className="mb-3 flex flex-wrap items-center gap-2">
+                <StatusBadge
+                  className={cn(
+                    'px-2.5 py-1 ring-1',
+                    totalWins > totalLosses
+                      ? 'bg-green-500/15 text-green-200 ring-green-400/30'
+                      : totalLosses > totalWins
+                      ? 'bg-red-500/15 text-red-200 ring-red-400/30'
+                      : 'bg-yellow-400/15 text-yellow-100 ring-yellow-300/30'
+                  )}
+                >
                   {eventRecord}
                 </StatusBadge>
 
-                <span className="text-xs font-semibold uppercase tracking-[0.14em] text-slate-500">
+                <span className="type-metadata text-[var(--text-muted)]">
                   {sortedMatches.length} rounds
                 </span>
               </div>
 
-              <h3 className="truncate text-xl font-bold text-white">
+              <h3 className="truncate text-[1.45rem] font-[760] leading-tight text-white">
                 {eventName}
               </h3>
 
-              <div className="mt-2 flex flex-wrap gap-x-3 gap-y-1 text-xs text-slate-400">
-                <span className="max-w-full truncate font-semibold text-slate-200">
+              <div className="mt-2 flex flex-wrap gap-x-3 gap-y-1">
+                <span className="type-card-title max-w-full truncate text-[var(--text-secondary)]">
                   {firstMatch?.deck}
                 </span>
-                <span>{firstMatch?.format}</span>
+                <span className="type-metadata text-[var(--text-muted)]">
+                  {firstMatch?.format}
+                </span>
               </div>
 
-              <Button
-                onClick={toggleCollapsed}
-                tone="secondary"
-                size="sm"
-                className="mt-3 rounded-full border border-white/10 bg-white/5 px-3 hover:border-white/20 hover:bg-white/10"
-                aria-expanded={!isCollapsed}
-              >
-                <DisclosureAction
-                  open={!isCollapsed}
-                  openLabel="Show rounds"
-                  closeLabel="Hide rounds"
-                  className="text-slate-300"
+              <div className="mt-4 grid grid-cols-3 gap-2">
+                <MetricTile
+                  label="Win Rate"
+                  value={`${eventWinRate.toFixed(0)}%`}
+                  valueClassName={summaryTone}
                 />
-              </Button>
+
+                <MetricTile
+                  label="Rounds"
+                  value={sortedMatches.length}
+                />
+
+                <MetricTile
+                  label="Notes"
+                  value={notesCount}
+                />
+              </div>
             </div>
 
             <div className="relative flex-shrink-0">
@@ -194,12 +221,30 @@ export default function EventHistoryCard({
               </OverflowMenu>
             </div>
           </div>
+
+          <button
+            type="button"
+            onClick={toggleCollapsed}
+            className="motion-press mt-4 flex w-full items-center justify-between rounded-2xl border border-white/10 bg-white/[0.045] px-3 py-2.5 text-left hover:bg-white/[0.07]"
+            aria-expanded={!isCollapsed}
+          >
+            <span className="type-metadata text-[var(--text-muted)]">
+              Event review
+            </span>
+
+            <DisclosureAction
+              open={!isCollapsed}
+              openLabel="Show rounds"
+              closeLabel="Hide rounds"
+              className="text-[var(--text-secondary)]"
+            />
+          </button>
         </div>
       )}
 
       <DisclosureContent
         open={!isCollapsed || editingEvent === eventName}
-        innerClassName="divide-y divide-white/10"
+        innerClassName="divide-y divide-white/[0.07]"
       >
         {sortedMatches.map((match) => {
           const roundResult = getRoundResult(match)
@@ -232,6 +277,6 @@ export default function EventHistoryCard({
           )
         })}
       </DisclosureContent>
-    </NestedPanel>
+    </div>
   )
 }

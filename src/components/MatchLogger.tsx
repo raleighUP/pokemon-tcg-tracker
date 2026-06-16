@@ -10,6 +10,7 @@ import {
   ResultPill,
   SectionHeader,
   SelectField,
+  Sheet,
   StatusBadge,
   TextareaField,
   TextInput,
@@ -85,7 +86,7 @@ export default function MatchLogger({
   invalidMatchFields = [],
 }: Props) {
   const [eventOverlayOpen, setEventOverlayOpen] = useState(false)
-  const [notesOpen, setNotesOpen] = useState(true)
+  const [notesOpen, setNotesOpen] = useState(false)
 
   const opponentOptions = useMemo(() => {
     const options = new Set<string>(getArchetypeOptions())
@@ -134,52 +135,52 @@ export default function MatchLogger({
   const errorClass = (fieldName: string) =>
     invalidMatchFields.includes(fieldName)
       ? 'field-error-shake border-red-500 ring-2 ring-red-500/60'
-      : 'border-slate-700'
+      : ''
 
   return (
     <Panel className="space-y-5">
       <SectionHeader
         title="Match Logger"
-        description="Track the active event and log the current round."
+        description="Capture the round, result, and context without leaving the tournament flow."
       />
 
       <NestedPanel
-        className={`overflow-hidden rounded-2xl bg-slate-950 p-0 shadow-xl shadow-black/20 ${
+        className={`card-hero overflow-hidden rounded-[28px] p-0 ${
           eventHasError
             ? 'field-error-shake border-red-500 ring-2 ring-red-500/40'
-            : 'border-slate-800'
+            : ''
         }`}
       >
-        <div className="border-b border-white/10 bg-slate-800/80 p-4">
+        <div className="border-b border-white/10 p-4 sm:p-5">
           <div className="mb-3 flex items-center justify-between gap-3">
-            <StatusBadge className="bg-blue-500/15 px-2.5 py-1 text-blue-200">
+            <StatusBadge className="bg-blue-500/15 px-2.5 py-1 text-blue-100">
               Active Event
             </StatusBadge>
 
             <button
               type="button"
               onClick={() => setEventOverlayOpen(true)}
-              className="rounded-full border border-white/10 bg-white/5 px-3 py-1.5 text-xs font-semibold text-slate-300 transition duration-200 hover:border-white/20 hover:bg-white/10 hover:text-white"
+              className="motion-press rounded-full border border-white/12 bg-white/8 px-3 py-1.5 text-xs font-semibold text-[var(--text-secondary)] hover:border-white/20 hover:bg-white/12 hover:text-white"
             >
               {eventConfigured ? 'Edit Event' : 'Set Event'}
             </button>
           </div>
 
-          <h3 className="truncate text-2xl font-bold text-white">
+          <h3 className="truncate text-[1.75rem] font-[760] leading-none text-white">
             {eventName || 'No event selected'}
           </h3>
 
-          <div className="mt-3 grid grid-cols-2 gap-2 text-xs">
-            <div className="rounded-xl bg-black/20 p-3">
-              <p className="text-slate-500">Deck</p>
-              <p className="mt-1 truncate font-semibold text-slate-100">
+          <div className="mt-4 grid grid-cols-2 gap-2">
+            <div className="card-data rounded-2xl p-3">
+              <p className="type-metadata text-[var(--text-muted)]">Deck</p>
+              <p className="type-card-title mt-1 truncate text-[var(--text-primary)]">
                 {selectedMatchDeck || 'Not selected'}
               </p>
             </div>
 
-            <div className="rounded-xl bg-black/20 p-3">
-              <p className="text-slate-500">Format</p>
-              <p className="mt-1 truncate font-semibold text-slate-100">
+            <div className="card-data rounded-2xl p-3">
+              <p className="type-metadata text-[var(--text-muted)]">Format</p>
+              <p className="type-card-title mt-1 truncate text-[var(--text-primary)]">
                 {format || 'Not selected'}
               </p>
             </div>
@@ -191,7 +192,7 @@ export default function MatchLogger({
             onClick={nextRound}
             tone="purple"
             size="lg"
-            className="min-h-[56px]"
+            className="min-h-[56px] rounded-2xl bg-blue-600 shadow-[0_14px_30px_rgba(23,107,181,0.28)] hover:bg-blue-500"
           >
             {roundSuccess ? 'Next!' : 'Next Round'}
           </Button>
@@ -200,40 +201,48 @@ export default function MatchLogger({
             onClick={() => setEventOverlayOpen(true)}
             tone="secondary"
             size="lg"
-            className="min-h-[56px]"
+            className="min-h-[56px] rounded-2xl bg-white/8 text-[var(--text-secondary)] hover:bg-white/12 hover:text-white"
           >
             New Event
           </Button>
         </div>
       </NestedPanel>
 
-      <NestedPanel className="space-y-4 rounded-2xl border-slate-800 bg-slate-950 p-4">
+      <NestedPanel className="space-y-4 rounded-[28px] p-4 sm:p-5">
         <div className="flex items-start justify-between gap-3">
           <div>
-            <p className="text-xs font-semibold uppercase tracking-[0.14em] text-slate-500">
+            <p className="type-metadata text-[var(--text-muted)]">
               Round {currentRound}
             </p>
-            <h3 className="mt-1 text-xl font-bold text-white">
+            <h3 className="type-section-title mt-1 text-[var(--text-primary)]">
               Log Match
             </h3>
           </div>
 
-          <StatusBadge className="bg-white/10 px-2.5 py-1 text-slate-200">
+          <StatusBadge className="bg-white/10 px-2.5 py-1 text-[var(--text-secondary)]">
             {matchType}
           </StatusBadge>
         </div>
 
-        <TextInput
-          value={opponentDeck}
-          onChange={(e) => setOpponentDeck(e.target.value)}
-          aria-label="Opponent deck"
-          placeholder="Opponent Deck"
-          autoComplete="off"
-          list="opponent-archetype-options"
-          className={`min-h-[56px] bg-slate-900 py-4 ${errorClass(
-            'opponentDeck'
-          )}`}
-        />
+        <div className="card-data rounded-2xl p-3">
+          <FieldLabel className="mb-2 text-[var(--text-muted)]">
+            Opponent Deck
+          </FieldLabel>
+
+          <TextInput
+            value={opponentDeck}
+            onChange={(e) => setOpponentDeck(e.target.value)}
+            aria-label="Opponent deck"
+            placeholder="Search archetype or deck name"
+            autoComplete="off"
+            inputMode="search"
+            enterKeyHint="next"
+            list="opponent-archetype-options"
+            className={`min-h-[56px] bg-black/18 ${errorClass(
+              'opponentDeck'
+            )}`}
+          />
+        </div>
 
         <datalist id="opponent-archetype-options">
           {opponentOptions.map((option) => (
@@ -241,16 +250,16 @@ export default function MatchLogger({
           ))}
         </datalist>
 
-        <div className="grid grid-cols-2 gap-2 rounded-2xl bg-slate-900 p-1">
+        <div className="grid grid-cols-2 gap-1 rounded-2xl border border-white/10 bg-black/20 p-1">
           <button
             onClick={() => {
               setMatchType('BO1')
               clearGames()
             }}
-            className={`rounded-xl px-4 py-3 text-sm font-bold transition duration-200 ${
+            className={`motion-press rounded-xl px-4 py-3 text-sm font-semibold ${
               matchType === 'BO1'
-                ? 'bg-blue-600 text-white'
-                : 'text-slate-300 hover:bg-white/5'
+                ? 'bg-white text-black shadow-[0_10px_24px_rgba(0,0,0,0.25)]'
+                : 'text-[var(--text-muted)] hover:bg-white/5 hover:text-white'
             }`}
           >
             Best of 1
@@ -261,10 +270,10 @@ export default function MatchLogger({
               setMatchType('BO3')
               clearGames()
             }}
-            className={`rounded-xl px-4 py-3 text-sm font-bold transition duration-200 ${
+            className={`motion-press rounded-xl px-4 py-3 text-sm font-semibold ${
               matchType === 'BO3'
-                ? 'bg-blue-600 text-white'
-                : 'text-slate-300 hover:bg-white/5'
+                ? 'bg-white text-black shadow-[0_10px_24px_rgba(0,0,0,0.25)]'
+                : 'text-[var(--text-muted)] hover:bg-white/5 hover:text-white'
             }`}
           >
             Best of 3
@@ -272,21 +281,26 @@ export default function MatchLogger({
         </div>
 
         <div
-          className={`rounded-2xl border bg-slate-900 p-3 ${
+          className={`card-data rounded-2xl p-3 ${
             gamesHaveError
               ? 'field-error-shake border-red-500 ring-2 ring-red-500/60'
-              : 'border-slate-800'
+              : ''
           }`}
         >
-          <div className="mb-3 flex items-center justify-between">
-            <p className="text-sm font-semibold text-slate-300">
-              Games
-            </p>
+          <div className="mb-3 flex items-center justify-between gap-3">
+            <div>
+              <p className="type-card-title text-[var(--text-primary)]">
+                Match Result
+              </p>
+              <p className="type-metadata mt-1 text-[var(--text-subtle)]">
+                Tap a result, then confirm who went first.
+              </p>
+            </div>
 
             <button
               type="button"
               onClick={clearGames}
-              className="text-xs font-semibold text-slate-500 transition duration-200 hover:text-white"
+              className="motion-press shrink-0 rounded-full border border-white/10 px-3 py-1.5 text-xs font-semibold text-[var(--text-muted)] hover:bg-white/10 hover:text-white"
             >
               Clear
             </button>
@@ -299,17 +313,17 @@ export default function MatchLogger({
               return (
                 <div
                   key={index}
-                  className="flex min-h-[56px] items-center justify-between rounded-xl border border-slate-800 bg-slate-950 px-3"
+                  className="card-row flex min-h-[60px] items-center justify-between rounded-2xl px-3"
                 >
                   <div className="flex items-center gap-3">
-                    <span className="text-sm font-semibold text-slate-300">
+                    <span className="type-card-title text-[var(--text-secondary)]">
                       Game {index + 1}
                     </span>
 
                     {result ? (
                       <ResultPill result={result} />
                     ) : (
-                      <span className="text-xs text-slate-600">
+                      <span className="type-metadata text-[var(--text-subtle)]">
                         Awaiting result
                       </span>
                     )}
@@ -319,9 +333,9 @@ export default function MatchLogger({
                     type="button"
                     onClick={() => toggleGameStart(index)}
                     aria-label={`Toggle Game ${index + 1} starting order`}
-                    className="rounded-full border border-slate-700 bg-slate-900 px-3 py-1 text-xs font-semibold text-slate-200 transition duration-200 hover:bg-slate-800"
+                    className="motion-press rounded-full border border-white/10 bg-white/8 px-3 py-1.5 text-xs font-semibold text-[var(--text-secondary)] hover:bg-white/12 hover:text-white"
                   >
-                    {gameStarts[index] ?? '1st'}
+                    Went {gameStarts[index] ?? '1st'}
                   </button>
                 </div>
               )
@@ -334,7 +348,7 @@ export default function MatchLogger({
             onClick={() => toggleGameResult('W')}
             tone="success"
             size="lg"
-            className="min-h-[64px] text-lg"
+            className="min-h-[68px] rounded-2xl bg-green-500 text-lg shadow-[0_14px_30px_rgba(34,197,94,0.18)] hover:bg-green-400"
           >
             Win
           </Button>
@@ -343,7 +357,7 @@ export default function MatchLogger({
             onClick={() => toggleGameResult('L')}
             tone="danger"
             size="lg"
-            className="min-h-[64px] bg-red-600 text-lg text-white hover:bg-red-500"
+            className="min-h-[68px] rounded-2xl bg-red-600 text-lg text-white shadow-[0_14px_30px_rgba(220,38,38,0.18)] hover:bg-red-500"
           >
             Loss
           </Button>
@@ -352,12 +366,44 @@ export default function MatchLogger({
             onClick={() => toggleGameResult('T')}
             tone="accent"
             size="lg"
-            className="min-h-[64px] text-lg"
+            className="min-h-[68px] rounded-2xl text-lg shadow-[0_14px_30px_rgba(250,204,21,0.14)]"
           >
             Tie
           </Button>
         </div>
       </NestedPanel>
+
+      <div className="grid grid-cols-2 gap-3">
+        <Button
+          onClick={clearCurrentMatch}
+          tone="secondary"
+          size="lg"
+          className="min-h-[56px] rounded-2xl bg-white/8 text-[var(--text-secondary)] hover:bg-white/12 hover:text-white"
+        >
+          {clearSuccess ? 'Cleared!' : 'Clear Match'}
+        </Button>
+
+        <Button
+          onClick={saveMatch}
+          tone="purple"
+          size="lg"
+          className="min-h-[56px] rounded-2xl bg-blue-600 shadow-[0_14px_30px_rgba(23,107,181,0.28)] hover:bg-blue-500"
+        >
+          {saveSuccess ? 'Saved!' : 'Save Match'}
+        </Button>
+      </div>
+
+      {feedbackMessage && (
+        <NestedPanel
+          className={`rounded-2xl px-4 py-3 text-sm font-medium ${
+            validationMessage
+              ? 'border-red-500/60 bg-red-950/30 text-red-100'
+              : 'border-green-400/40 bg-green-950/20 text-green-100 shadow-[0_16px_36px_rgba(34,197,94,0.08)]'
+          }`}
+        >
+          {feedbackMessage}
+        </NestedPanel>
+      )}
 
       <DisclosurePanel
         open={notesOpen}
@@ -365,12 +411,17 @@ export default function MatchLogger({
         onToggle={() => setNotesOpen((current) => !current)}
         actionOpenLabel="Show"
         actionCloseLabel="Hide"
-        className="border-slate-800"
+        className="rounded-2xl"
         buttonClassName="px-4 py-3"
         contentClassName="px-4 pb-4"
         header={
-          <span className="text-sm font-semibold text-slate-300">
-            Match Notes
+          <span>
+            <span className="type-card-title block text-[var(--text-secondary)]">
+              Match Notes
+            </span>
+            <span className="type-metadata mt-1 block text-[var(--text-subtle)]">
+              Optional context for later review
+            </span>
           </span>
         }
       >
@@ -381,148 +432,114 @@ export default function MatchLogger({
           rows={1}
           aria-label="Match notes"
           placeholder="Match Notes (optional)"
-          className="min-h-[56px] bg-slate-900 py-4"
+          enterKeyHint="done"
+          className="min-h-[56px]"
         />
       </DisclosurePanel>
 
-      <div className="grid grid-cols-2 gap-3">
-        <Button
-          onClick={clearCurrentMatch}
-          tone="secondary"
-          size="lg"
-          className="min-h-[56px]"
-        >
-          {clearSuccess ? 'Cleared!' : 'Clear Match'}
-        </Button>
-
-        <Button
-          onClick={saveMatch}
-          tone="purple"
-          size="lg"
-          className="min-h-[56px]"
-        >
-          {saveSuccess ? 'Saved!' : 'Save Match'}
-        </Button>
-      </div>
-
-      {feedbackMessage && (
-        <NestedPanel
-          className={`rounded-2xl px-4 py-3 text-sm ${
-            validationMessage
-              ? 'border-red-500/60 bg-red-950/30 text-red-100'
-              : 'border-green-500/40 bg-green-950/20 text-green-100'
-          }`}
-        >
-          {feedbackMessage}
-        </NestedPanel>
-      )}
-
-      {eventOverlayOpen && (
-        <div className="fixed inset-0 z-[60] flex items-end bg-black/60 px-4 pb-[calc(1rem+env(safe-area-inset-bottom))] pt-[calc(5rem+env(safe-area-inset-top))] backdrop-blur-sm">
-          <button
-            aria-label="Close event setup"
-            className="absolute inset-0 cursor-default"
-            onClick={() => setEventOverlayOpen(false)}
-          />
-
-          <NestedPanel className="relative max-h-full w-full overflow-y-auto rounded-2xl border-slate-700 bg-slate-950 p-4 shadow-2xl shadow-black/40">
-            <div className="mb-4 flex items-start justify-between gap-3">
-              <div>
-                <p className="text-xs font-semibold uppercase tracking-[0.14em] text-slate-500">
-                  Event Setup
-                </p>
-                <h3 className="mt-1 text-xl font-bold text-white">
-                  Active Event
-                </h3>
-              </div>
-
-              <button
-                type="button"
-                onClick={() => setEventOverlayOpen(false)}
-                className="rounded-full border border-white/10 px-3 py-1 text-xs font-semibold text-slate-300 transition duration-200 hover:bg-white/10 hover:text-white"
-              >
-                Done
-              </button>
+      <Sheet
+        open={eventOverlayOpen}
+        onClose={() => setEventOverlayOpen(false)}
+        ariaLabel="event setup"
+      >
+        <div className="max-h-[calc(100dvh-7rem)] overflow-y-auto p-4 pt-3">
+          <div className="mb-4 flex items-start justify-between gap-3">
+            <div>
+              <p className="type-metadata text-[var(--text-muted)]">
+                Event Setup
+              </p>
+              <h3 className="type-section-title mt-1 text-[var(--text-primary)]">
+                Active Event
+              </h3>
             </div>
 
-            <div className="space-y-4">
+            <button
+              type="button"
+              onClick={() => setEventOverlayOpen(false)}
+              className="motion-press rounded-full border border-white/10 px-3 py-1 text-xs font-semibold text-[var(--text-secondary)] hover:bg-white/10 hover:text-white"
+            >
+              Done
+            </button>
+          </div>
+
+          <div className="space-y-4">
+            <div>
+              <FieldLabel>
+                Event Name
+              </FieldLabel>
+
+              <TextInput
+                value={eventName}
+                onChange={(e) => setEventName(e.target.value)}
+                aria-label="Event name"
+                placeholder="Event Name"
+                autoComplete="organization"
+                enterKeyHint="next"
+                className={errorClass(
+                  'eventName'
+                )}
+              />
+            </div>
+
+            <div className="grid grid-cols-1 gap-4">
               <div>
                 <FieldLabel>
-                  Event Name
+                  Format
                 </FieldLabel>
 
-                <TextInput
-                  value={eventName}
-                  onChange={(e) => setEventName(e.target.value)}
-                  aria-label="Event name"
-                  placeholder="Event Name"
-                  autoComplete="organization"
-                  className={`bg-slate-900 py-4 ${errorClass(
-                    'eventName'
-                  )}`}
-                />
+                <SelectField
+                  value={format}
+                  onChange={(e) => setFormat(e.target.value)}
+                  aria-label="Format"
+                  className={errorClass(
+                    'format'
+                  )}
+                >
+                  <option value="">Format</option>
+                  <option value="TEF-POR">TEF-POR</option>
+                  <option value="Gym Leader Challenge">
+                    Gym Leader Challenge
+                  </option>
+                  <option value="Expanded">Expanded</option>
+                </SelectField>
               </div>
 
-              <div className="grid grid-cols-1 gap-4">
-                <div>
-                  <FieldLabel>
-                    Format
-                  </FieldLabel>
+              <div>
+                <FieldLabel>
+                  Your Deck
+                </FieldLabel>
 
-                  <SelectField
-                    value={format}
-                    onChange={(e) => setFormat(e.target.value)}
-                    aria-label="Format"
-                    className={`bg-slate-900 py-4 ${errorClass(
-                      'format'
-                    )}`}
-                  >
-                    <option value="">Format</option>
-                    <option value="TEF-POR">TEF-POR</option>
-                    <option value="Gym Leader Challenge">
-                      Gym Leader Challenge
+                <SelectField
+                  value={selectedMatchDeck}
+                  onChange={(e) =>
+                    setSelectedMatchDeck(e.target.value)
+                  }
+                  aria-label="Your deck"
+                  className={errorClass(
+                    'selectedMatchDeck'
+                  )}
+                >
+                  <option value="">Your Deck</option>
+                  {decks.map((deck) => (
+                    <option key={deck.id} value={deck.name}>
+                      {deck.name}
                     </option>
-                    <option value="Expanded">Expanded</option>
-                  </SelectField>
-                </div>
-
-                <div>
-                  <FieldLabel>
-                    Your Deck
-                  </FieldLabel>
-
-                  <SelectField
-                    value={selectedMatchDeck}
-                    onChange={(e) =>
-                      setSelectedMatchDeck(e.target.value)
-                    }
-                    aria-label="Your deck"
-                    className={`bg-slate-900 py-4 ${errorClass(
-                      'selectedMatchDeck'
-                    )}`}
-                  >
-                    <option value="">Your Deck</option>
-                    {decks.map((deck) => (
-                      <option key={deck.id} value={deck.name}>
-                        {deck.name}
-                      </option>
-                    ))}
-                  </SelectField>
-                </div>
+                  ))}
+                </SelectField>
               </div>
-
-              <Button
-                onClick={startNewEvent}
-                tone="primary"
-                size="lg"
-                className="w-full min-h-[56px]"
-              >
-                {eventSuccess ? 'Started!' : 'Start New Event'}
-              </Button>
             </div>
-          </NestedPanel>
+
+            <Button
+              onClick={startNewEvent}
+              tone="primary"
+              size="lg"
+              className="w-full min-h-[56px]"
+            >
+              {eventSuccess ? 'Started!' : 'Start New Event'}
+            </Button>
+          </div>
         </div>
-      )}
+      </Sheet>
     </Panel>
   )
 }

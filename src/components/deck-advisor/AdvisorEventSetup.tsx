@@ -38,7 +38,6 @@ export default function AdvisorEventSetup({
               setEventType(e.target.value as EventType)
             }
             aria-label="Event type"
-            className="bg-slate-950"
           >
             <option value="challenge">
               League Challenge
@@ -63,7 +62,8 @@ export default function AdvisorEventSetup({
             }
             aria-label="Estimated players"
             placeholder="Example: 64"
-            className="bg-slate-950"
+            inputMode="numeric"
+            enterKeyHint="done"
           />
         </div>
       </div>

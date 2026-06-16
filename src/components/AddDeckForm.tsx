@@ -2,6 +2,8 @@ import { useEffect, useRef, useState } from 'react'
 import {
   Button,
   DisclosureAction,
+  FieldLabel,
+  NestedPanel,
   Panel,
   SectionHeader,
   TextareaField,
@@ -46,11 +48,14 @@ export default function AddDeckForm({
   return (
     <Panel>
       <SectionHeader
-        title="Add Deck"
+        title={editingDeckId !== null ? 'Edit Deck' : 'Add Deck'}
+        description="Save a decklist for comparison, history review, and recommendations."
         className="mb-4"
       />
 
-        <div className="space-y-4">
+      <NestedPanel className="space-y-4 rounded-[28px] p-4">
+        <div>
+          <FieldLabel>Deck Name</FieldLabel>
           <TextInput
             type="text"
             value={deckName}
@@ -60,8 +65,12 @@ export default function AddDeckForm({
             aria-label="Deck name"
             placeholder="Deck Name"
             autoComplete="off"
+            enterKeyHint="next"
           />
+        </div>
 
+        <div>
+          <FieldLabel>Decklist</FieldLabel>
           <TextareaField
             ref={textareaRef}
             value={decklist}
@@ -71,43 +80,54 @@ export default function AddDeckForm({
             aria-label="Decklist"
             placeholder="Paste decklist here..."
             rows={6}
-            className="overflow-hidden transition-all duration-200"
+            autoCapitalize="off"
+            autoCorrect="off"
+            spellCheck={false}
+            enterKeyHint="done"
+            className="motion-disclosure min-h-[140px] overflow-hidden"
           />
 
-          <div className="grid grid-cols-2 gap-2">
-            <Button
-              onClick={() =>
-                setIsExpanded(!isExpanded)
-              }
-              tone="ghost"
-            >
-              <DisclosureAction
-                open={isExpanded}
-                openLabel="Expand List"
-                closeLabel="Collapse List"
-                className="justify-center text-white"
-              />
-            </Button>
-
-            <Button
-              onClick={() => {
-                addDeck()
-
-                setIsExpanded(false)
-
-                if (textareaRef.current) {
-                  textareaRef.current.style.height =
-                    '140px'
-                }
-              }}
-              tone="accent"
-            >
-              {editingDeckId !== null
-                ? 'Update Deck'
-                : 'Save Deck'}
-            </Button>
-          </div>
+          <p className="type-helper mt-2 text-[var(--text-muted)]">
+            Paste the exported card list exactly as written.
+          </p>
         </div>
-      </Panel>
+
+        <div className="grid grid-cols-2 gap-3">
+          <Button
+            onClick={() =>
+              setIsExpanded(!isExpanded)
+            }
+            tone="ghost"
+            className="min-h-[52px] rounded-2xl bg-white/8 text-[var(--text-secondary)] hover:bg-white/12 hover:text-white"
+          >
+            <DisclosureAction
+              open={isExpanded}
+              openLabel="Expand List"
+              closeLabel="Collapse List"
+              className="justify-center text-white"
+            />
+          </Button>
+
+          <Button
+            onClick={() => {
+              addDeck()
+
+              setIsExpanded(false)
+
+              if (textareaRef.current) {
+                textareaRef.current.style.height =
+                  '140px'
+              }
+            }}
+            tone="accent"
+            className="min-h-[52px] rounded-2xl bg-blue-600 text-white shadow-[0_14px_30px_rgba(23,107,181,0.22)] hover:bg-blue-500"
+          >
+            {editingDeckId !== null
+              ? 'Update Deck'
+              : 'Save Deck'}
+          </Button>
+        </div>
+      </NestedPanel>
+    </Panel>
   )
 }

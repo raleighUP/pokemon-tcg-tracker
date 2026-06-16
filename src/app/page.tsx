@@ -550,14 +550,7 @@ setNotes('')
     <AppShell bottomNavigation={bottomNavigation}>
   {activeTab === 'decks' && (
     <div className="space-y-6">
-      <AddDeckForm
-        deckName={deckName}
-        setDeckName={setDeckName}
-        decklist={decklist}
-        setDecklist={setDecklist}
-        addDeck={addDeck}
-        editingDeckId={editingDeckId}
-      />
+      <DeckViewer selectedDeck={selectedDeck} />
 
       <SavedDecks
   decks={decks}
@@ -567,7 +560,14 @@ setNotes('')
   deleteDeck={deleteDeck}
 />
 
-      <DeckViewer selectedDeck={selectedDeck} />
+      <AddDeckForm
+        deckName={deckName}
+        setDeckName={setDeckName}
+        decklist={decklist}
+        setDecklist={setDecklist}
+        addDeck={addDeck}
+        editingDeckId={editingDeckId}
+      />
     </div>
   )}
 

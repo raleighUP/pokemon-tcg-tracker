@@ -3,6 +3,7 @@ import {
   Button,
   FieldLabel,
   NumberInput,
+  StatusBadge,
   TextareaField,
   TextInput,
   ValidationMessage,
@@ -24,9 +25,18 @@ export default function RoundEditForm({
   editMatch,
 }: Props) {
   return (
-    <div className="space-y-4">
+    <div className="card-detail space-y-4 rounded-2xl border border-white/10 bg-white/[0.035] p-4">
       <div>
-        <FieldLabel className="text-slate-400">
+        <StatusBadge className="bg-blue-500/15 text-blue-200">
+          Edit Round
+        </StatusBadge>
+        <h3 className="type-section-title mt-2 text-[var(--text-primary)]">
+          Round {editingMatch.round || ''}
+        </h3>
+      </div>
+
+      <div>
+        <FieldLabel>
           Round
         </FieldLabel>
 
@@ -44,6 +54,8 @@ export default function RoundEditForm({
             })
           }}
           invalid={!isRoundValid}
+          inputMode="numeric"
+          enterKeyHint="next"
           className="[appearance:textfield] [&::-webkit-inner-spin-button]:appearance-none [&::-webkit-outer-spin-button]:appearance-none"
         />
 
@@ -55,7 +67,7 @@ export default function RoundEditForm({
       </div>
 
       <div>
-        <FieldLabel className="text-slate-400">
+        <FieldLabel>
           Opponent Deck
         </FieldLabel>
 
@@ -68,11 +80,13 @@ export default function RoundEditForm({
               opponentDeck: e.target.value,
             })
           }
+          inputMode="search"
+          enterKeyHint="next"
         />
       </div>
 
       <div>
-        <FieldLabel className="text-slate-400">
+        <FieldLabel>
           Notes
         </FieldLabel>
 
@@ -85,12 +99,13 @@ export default function RoundEditForm({
               notes: e.target.value,
             })
           }
+          enterKeyHint="done"
           className="min-h-[100px]"
         />
       </div>
 
       <div>
-        <FieldLabel className="text-slate-400">
+        <FieldLabel>
           Game Results
         </FieldLabel>
 
@@ -114,7 +129,7 @@ export default function RoundEditForm({
                 })
               }}
               size="sm"
-              className={`${
+              className={`rounded-full px-4 ${
                 game === 'W'
                   ? 'bg-green-500'
                   : game === 'L'
@@ -151,7 +166,7 @@ export default function RoundEditForm({
             editingMatch.games[0] === editingMatch.games[1] &&
             editingMatch.games[0] !== 'T'
           ) && (
-            <p className="text-slate-400 text-sm mt-2">
+            <p className="type-helper mt-2 text-[var(--text-muted)]">
               This match is not finalized yet. Add Game 3 if needed.
             </p>
           )}
@@ -169,7 +184,7 @@ export default function RoundEditForm({
           }}
           disabled={!isFormValid}
           tone="success"
-          className="flex-1"
+          className="min-h-[52px] flex-1 rounded-2xl bg-green-500 hover:bg-green-400"
         >
           Save Changes
         </Button>
@@ -179,7 +194,7 @@ export default function RoundEditForm({
             setEditingMatch(null)
           }}
           tone="secondary"
-          className="flex-1"
+          className="min-h-[52px] flex-1 rounded-2xl bg-white/8 text-[var(--text-secondary)] hover:bg-white/12 hover:text-white"
         >
           Cancel
         </Button>

@@ -207,7 +207,9 @@ export default function DeckAdvisor({ decks }: Props) {
     []
   )
 
-  const [comfortOpen, setComfortOpen] = useState(true)
+  const [eventSetupOpen, setEventSetupOpen] = useState(false)
+  const [metaSetupOpen, setMetaSetupOpen] = useState(false)
+  const [comfortOpen, setComfortOpen] = useState(false)
 
   const [eventType, setEventType] =
     useState<EventType>(
@@ -541,7 +543,7 @@ export default function DeckAdvisor({ decks }: Props) {
         )}
       </div>
 
-      <NestedPanel className="rounded-2xl bg-slate-950">
+      <NestedPanel className="rounded-2xl">
         <KeyValueList
           className="text-sm"
           items={[
@@ -580,7 +582,7 @@ export default function DeckAdvisor({ decks }: Props) {
 
           {results.length > 1 && (
             <div className="space-y-3">
-              <p className="px-1 text-xs font-semibold uppercase tracking-[0.14em] text-slate-500">
+              <p className="type-metadata px-1 text-[var(--text-muted)]">
                 Alternatives
               </p>
 
@@ -596,18 +598,18 @@ export default function DeckAdvisor({ decks }: Props) {
           )}
         </div>
       ) : (
-        <NestedPanel className="space-y-4 rounded-2xl border-slate-800 bg-slate-950">
+        <NestedPanel className="space-y-4 rounded-2xl">
           <div className="flex items-start justify-between gap-4">
             <div>
-              <StatusBadge className="bg-white/10 px-2.5 py-1 text-slate-300">
+              <StatusBadge className="bg-white/10 px-2.5 py-1 text-[var(--text-secondary)]">
                 Waiting on Field
               </StatusBadge>
 
-              <p className="mt-3 text-xl font-bold text-white">
+              <p className="type-section-title mt-3 text-[var(--text-primary)]">
                 Add expected meta to get a deck pick.
               </p>
 
-              <p className="mt-2 text-sm text-slate-400">
+              <p className="type-helper mt-2 text-[var(--text-muted)]">
                 Suggested meta is the fastest starting point before manual tuning.
               </p>
             </div>
@@ -635,9 +637,19 @@ export default function DeckAdvisor({ decks }: Props) {
         title="Deck Advisor"
       />
 
-      <NestedPanel className="space-y-4 rounded-2xl border-slate-800 bg-slate-950">
-        <SectionHeader title="Event Setup" level={3} />
+      {recommendationSection}
 
+      <DisclosurePanel
+        title="Tournament Context"
+        description={
+          eventSize > 0
+            ? `${eventType} - ${eventSize} players`
+            : 'Set event type and player count'
+        }
+        open={eventSetupOpen}
+        onToggle={() => setEventSetupOpen((current) => !current)}
+        contentClassName="border-t border-white/10 p-4"
+      >
         <AdvisorEventSetup
           eventType={eventType}
           setEventType={setEventType}
@@ -646,11 +658,19 @@ export default function DeckAdvisor({ decks }: Props) {
           eventSize={eventSize}
           structure={structure}
         />
-      </NestedPanel>
+      </DisclosurePanel>
 
-      <NestedPanel className="space-y-4 rounded-2xl border-slate-800 bg-slate-950">
-        <SectionHeader title="Meta Selection" level={3} />
-
+      <DisclosurePanel
+        title="Expected Field"
+        description={
+          normalizedMetaDecks.length > 0
+            ? `${normalizedMetaDecks.length} decks entered`
+            : 'Load suggested meta or enter your field'
+        }
+        open={metaSetupOpen}
+        onToggle={() => setMetaSetupOpen((current) => !current)}
+        contentClassName="border-t border-white/10 p-4"
+      >
         <ExpectedMetaEditor
           archetypeOptions={archetypeOptions}
           eventSize={eventSize}
@@ -665,10 +685,15 @@ export default function DeckAdvisor({ decks }: Props) {
           maxMetaTotal={maxMetaTotal}
           metaBreakdown={metaBreakdown}
         />
-      </NestedPanel>
+      </DisclosurePanel>
 
       <DisclosurePanel
         title="Candidate Decks"
+        description={
+          candidateSource === 'owned'
+            ? `${ownedCandidateDecks.length} owned decks`
+            : `${topMetaCandidates.length} top meta options`
+        }
         open={comfortOpen}
         onToggle={() => setComfortOpen((current) => !current)}
         contentClassName="border-t border-white/10 p-4"
@@ -693,8 +718,6 @@ export default function DeckAdvisor({ decks }: Props) {
           )}
         </div>
       </DisclosurePanel>
-
-      {recommendationSection}
     </Panel>
   )
 }

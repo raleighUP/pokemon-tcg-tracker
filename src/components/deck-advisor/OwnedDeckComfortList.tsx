@@ -1,11 +1,13 @@
 import { getMatchupSampleSize, getMatchupWinRate } from '@/utils/matchups'
 import {
+  DisclosurePanel,
   EmptyState,
   FieldLabel,
   MatchupBadge,
   NestedPanel,
   RangeField,
 } from '@/components/ui'
+import { useState } from 'react'
 import {
   AdvisorMetaDeckInput,
   MatchupTone,
@@ -27,6 +29,8 @@ export default function OwnedDeckComfortList({
   setDeckComfortById,
   getMatchupTone,
 }: Props) {
+  const [openDeckId, setOpenDeckId] = useState<number | null>(null)
+
   return (
     <div className="space-y-3">
       {ownedCandidateDecks.length === 0 ? (
@@ -37,21 +41,29 @@ export default function OwnedDeckComfortList({
         ownedCandidateDecks.map((deck) => (
           <NestedPanel
             key={deck.id}
-            className="space-y-3"
+            className="space-y-4 rounded-2xl"
           >
-            <div className="space-y-2">
-              <p className="font-semibold">{deck.name}</p>
-
-              {deck.archetype && (
-                <p className="text-xs text-slate-400">
-                  {deck.archetype}
+            <div className="flex items-start justify-between gap-3">
+              <div className="min-w-0">
+                <p className="type-card-title truncate text-white">
+                  {deck.name}
                 </p>
-              )}
+
+                {deck.archetype && (
+                  <p className="type-metadata mt-1 text-[var(--text-muted)]">
+                    {deck.archetype}
+                  </p>
+                )}
+              </div>
+
+              <span className="rounded-full bg-white/10 px-2.5 py-1 text-xs font-semibold text-slate-200">
+                {deck.comfort}/5
+              </span>
             </div>
 
             <div>
               <FieldLabel>
-                Comfort: {deck.comfort}/5
+                Comfort
               </FieldLabel>
 
               <RangeField
@@ -70,15 +82,22 @@ export default function OwnedDeckComfortList({
               />
             </div>
 
-            <div className="space-y-2">
-              <p className="text-sm font-semibold text-slate-300">
-                Matchup Win Rates
-              </p>
-
+            <DisclosurePanel
+              title="Matchups"
+              open={openDeckId === deck.id}
+              onToggle={() =>
+                setOpenDeckId((currentDeckId) =>
+                  currentDeckId === deck.id ? null : deck.id
+                )
+              }
+              buttonClassName="px-0 py-0"
+              contentClassName="space-y-2 pt-3"
+              className="border-0 bg-transparent p-0"
+            >
               {metaDecks.filter((metaDeck) =>
                 metaDeck.name.trim()
               ).length === 0 ? (
-                <p className="text-sm text-slate-500">
+                <p className="type-helper text-[var(--text-muted)]">
                   Add expected meta decks above to see matchup rates.
                 </p>
               ) : (
@@ -103,7 +122,7 @@ export default function OwnedDeckComfortList({
                         detail={
                           sampleSize > 0
                             ? `${sampleSize} Limitless matches`
-                            : 'No data found - using 50/50 default'
+                            : 'No matchup sample yet'
                         }
                         tone={getMatchupTone(
                           matchupWinRate
@@ -112,7 +131,7 @@ export default function OwnedDeckComfortList({
                     )
                   })
               )}
-            </div>
+            </DisclosurePanel>
           </NestedPanel>
         ))
       )}

@@ -6,7 +6,7 @@ import {
   HistoryIcon,
   LogIcon,
 } from '@/components/NavIcons'
-import { IconButton } from '@/components/ui'
+import { IconButton, cn } from '@/components/ui'
 
 export type AppTab =
   | 'decks'
@@ -57,8 +57,8 @@ export default function BottomNavigation({
   setActiveTab,
 }: Props) {
   return (
-    <nav className="fixed inset-x-0 bottom-0 z-50 px-3 pb-[env(safe-area-inset-bottom)]">
-      <div className="mx-auto grid h-[64px] max-w-md grid-cols-5 gap-1 rounded-[26px] border border-white/10 bg-slate-900/92 p-1.5 shadow-2xl shadow-black/35 backdrop-blur-xl">
+    <nav className="fixed inset-x-0 bottom-0 z-50 px-3 pb-[calc(0.5rem+env(safe-area-inset-bottom))]">
+      <div className="surface-overlay mx-auto grid h-[68px] max-w-md grid-cols-5 gap-1 rounded-[30px] border p-1.5 shadow-[0_22px_70px_rgba(0,0,0,0.58)] backdrop-blur-2xl">
         {navigationItems.map(({ id, label, Icon }) => {
           const isActive = activeTab === id
 
@@ -68,24 +68,36 @@ export default function BottomNavigation({
               aria-label={label}
               aria-current={isActive ? 'page' : undefined}
               onClick={() => setActiveTab(id)}
-              className={`group flex min-h-[52px] flex-col items-center justify-center gap-1 rounded-[22px] transition duration-200 ease-out ${
+              className={cn(
+                'motion-nav-item group relative flex min-h-[56px] flex-col items-center justify-center gap-1 overflow-hidden rounded-[24px]',
                 isActive
-                  ? 'bg-white/95 text-slate-950 shadow-lg shadow-black/20'
-                  : 'text-slate-400 hover:bg-white/5 hover:text-white'
-              }`}
+                  ? 'bg-white/[0.92] text-[#050506] shadow-[0_12px_30px_rgba(23,107,181,0.24),inset_0_1px_0_rgba(255,255,255,0.72)]'
+                  : 'text-[var(--text-muted)] hover:bg-white/10 hover:text-[var(--text-primary)]'
+              )}
             >
+              {isActive && (
+                <span
+                  aria-hidden="true"
+                  className="absolute inset-x-5 top-1 h-px rounded-full bg-[#176bb5]/70 motion-surface"
+                />
+              )}
+
               <Icon
-                className={`h-5 w-5 shrink-0 transition duration-200 ${
+                className={cn(
+                  'motion-surface shrink-0',
                   isActive
-                    ? 'text-slate-950'
-                    : 'text-slate-400 group-hover:text-white'
-                }`}
+                    ? 'h-[21px] w-[21px] text-[#050506]'
+                    : 'h-5 w-5 text-[var(--text-muted)] group-hover:text-[var(--text-primary)]'
+                )}
               />
 
               <span
-                className={`max-w-full truncate text-[10px] font-semibold leading-none transition duration-200 ${
-                  isActive ? 'text-slate-950' : 'text-slate-400'
-                }`}
+                className={cn(
+                  'motion-surface max-w-full truncate text-[10px] font-semibold leading-none tracking-normal',
+                  isActive
+                    ? 'text-[#050506]'
+                    : 'text-[var(--text-subtle)] group-hover:text-[var(--text-secondary)]'
+                )}
               >
                 {label}
               </span>

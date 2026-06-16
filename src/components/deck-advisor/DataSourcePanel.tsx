@@ -7,7 +7,7 @@ type Props = {
 export default function DataSourcePanel({ metaSource }: Props) {
   return (
     <SourcePanel
-      className="border-slate-800/80 bg-slate-900/70"
+      className="border-white/8 bg-white/[0.035]"
       sources={[
         {
           label: 'Meta',
