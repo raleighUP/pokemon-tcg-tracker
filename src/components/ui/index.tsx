@@ -33,7 +33,7 @@ export function cn(...classes: Array<string | false | null | undefined>) {
 }
 
 const fieldBaseClass =
-  'w-full rounded-xl border border-slate-700 bg-slate-800 px-4 py-3 text-white outline-none placeholder:text-slate-400 focus:border-yellow-400 focus-visible:ring-2 focus-visible:ring-yellow-400/60'
+  'w-full rounded-[14px] border border-slate-700 bg-slate-900 px-4 py-3 text-white outline-none placeholder:text-slate-400 focus:border-yellow-400 focus-visible:ring-2 focus-visible:ring-yellow-400/60'
 
 const fieldErrorClass = 'border-red-500 ring-2 ring-red-500/60'
 
@@ -61,7 +61,7 @@ export function AppShell({
   return (
     <main className="min-h-dvh bg-slate-950 px-4 pt-[calc(1.25rem+env(safe-area-inset-top))] text-white sm:px-6 sm:pt-[calc(1.5rem+env(safe-area-inset-top))]">
       <div className="mx-auto max-w-6xl">
-        <div className="pb-[calc(7.5rem+env(safe-area-inset-bottom))] transition-opacity duration-200 ease-out">
+        <div className="pb-[calc(6.75rem+env(safe-area-inset-bottom))] transition-opacity duration-200 ease-out">
           {children}
         </div>
       </div>
@@ -335,12 +335,10 @@ export function DisclosureAction({
       <span>{open ? closeLabel : openLabel}</span>
       <span
         aria-hidden="true"
-        className={`transition-transform duration-200 ease-out ${
-          open ? 'rotate-90' : ''
+        className={`h-2 w-2 shrink-0 border-r-2 border-b-2 border-current transition-transform duration-200 ease-out ${
+          open ? 'rotate-45' : '-rotate-45'
         }`}
-      >
-        &gt;
-      </span>
+      />
     </span>
   )
 }
@@ -411,7 +409,7 @@ export function DisclosurePanel({
   return (
     <NestedPanel
       className={cn(
-        'overflow-hidden rounded-[8px] bg-slate-950 p-0',
+        'overflow-hidden rounded-2xl bg-slate-950 p-0',
         className
       )}
     >
@@ -573,14 +571,24 @@ export const SelectField = forwardRef<
     invalid?: boolean
   }
 >(function SelectField(
-  { className, invalid = false, children, ...props },
+  { className, invalid = false, children, style, ...props },
   ref
 ) {
   return (
     <select
       ref={ref}
+      style={{
+        backgroundImage:
+          'linear-gradient(45deg, transparent 50%, currentColor 50%), linear-gradient(135deg, currentColor 50%, transparent 50%)',
+        backgroundPosition:
+          'calc(100% - 1.15rem) 50%, calc(100% - 0.85rem) 50%',
+        backgroundSize: '0.32rem 0.32rem, 0.32rem 0.32rem',
+        backgroundRepeat: 'no-repeat',
+        ...style,
+      }}
       className={cn(
         fieldBaseClass,
+        'appearance-none pr-10',
         invalid && fieldErrorClass,
         className
       )}

@@ -114,7 +114,7 @@ export default function MatchLogger({
       />
 
       <NestedPanel
-        className={`overflow-hidden rounded-[8px] bg-slate-950 p-0 shadow-xl shadow-black/20 ${
+        className={`overflow-hidden rounded-2xl bg-slate-950 p-0 shadow-xl shadow-black/20 ${
           eventHasError
             ? 'field-error-shake border-red-500 ring-2 ring-red-500/40'
             : 'border-slate-800'
@@ -129,7 +129,7 @@ export default function MatchLogger({
             <button
               type="button"
               onClick={() => setEventOverlayOpen(true)}
-              className="rounded-full border border-white/10 bg-white/5 px-3 py-1 text-xs font-semibold text-slate-300 transition duration-200 hover:border-white/20 hover:bg-white/10 hover:text-white"
+              className="rounded-full border border-white/10 bg-white/5 px-3 py-1.5 text-xs font-semibold text-slate-300 transition duration-200 hover:border-white/20 hover:bg-white/10 hover:text-white"
             >
               {eventConfigured ? 'Edit Event' : 'Set Event'}
             </button>
@@ -140,14 +140,14 @@ export default function MatchLogger({
           </h3>
 
           <div className="mt-3 grid grid-cols-2 gap-2 text-xs">
-            <div className="rounded-[8px] bg-black/20 p-3">
+            <div className="rounded-xl bg-black/20 p-3">
               <p className="text-slate-500">Deck</p>
               <p className="mt-1 truncate font-semibold text-slate-100">
                 {selectedMatchDeck || 'Not selected'}
               </p>
             </div>
 
-            <div className="rounded-[8px] bg-black/20 p-3">
+            <div className="rounded-xl bg-black/20 p-3">
               <p className="text-slate-500">Format</p>
               <p className="mt-1 truncate font-semibold text-slate-100">
                 {format || 'Not selected'}
@@ -177,7 +177,7 @@ export default function MatchLogger({
         </div>
       </NestedPanel>
 
-      <NestedPanel className="space-y-4 rounded-[8px] border-slate-800 bg-slate-950 p-4">
+      <NestedPanel className="space-y-4 rounded-2xl border-slate-800 bg-slate-950 p-4">
         <div className="flex items-start justify-between gap-3">
           <div>
             <p className="text-xs font-semibold uppercase tracking-[0.14em] text-slate-500">
@@ -204,13 +204,13 @@ export default function MatchLogger({
           )}`}
         />
 
-        <div className="grid grid-cols-2 gap-2 rounded-[8px] bg-slate-900 p-1">
+        <div className="grid grid-cols-2 gap-2 rounded-2xl bg-slate-900 p-1">
           <button
             onClick={() => {
               setMatchType('BO1')
               clearGames()
             }}
-            className={`rounded-[6px] px-4 py-3 text-sm font-bold transition duration-200 ${
+            className={`rounded-xl px-4 py-3 text-sm font-bold transition duration-200 ${
               matchType === 'BO1'
                 ? 'bg-blue-600 text-white'
                 : 'text-slate-300 hover:bg-white/5'
@@ -224,7 +224,7 @@ export default function MatchLogger({
               setMatchType('BO3')
               clearGames()
             }}
-            className={`rounded-[6px] px-4 py-3 text-sm font-bold transition duration-200 ${
+            className={`rounded-xl px-4 py-3 text-sm font-bold transition duration-200 ${
               matchType === 'BO3'
                 ? 'bg-blue-600 text-white'
                 : 'text-slate-300 hover:bg-white/5'
@@ -235,7 +235,7 @@ export default function MatchLogger({
         </div>
 
         <div
-          className={`rounded-[8px] border bg-slate-900 p-3 ${
+          className={`rounded-2xl border bg-slate-900 p-3 ${
             gamesHaveError
               ? 'field-error-shake border-red-500 ring-2 ring-red-500/60'
               : 'border-slate-800'
@@ -262,7 +262,7 @@ export default function MatchLogger({
               return (
                 <div
                   key={index}
-                  className="flex min-h-[56px] items-center justify-between rounded-[8px] border border-slate-800 bg-slate-950 px-3"
+                  className="flex min-h-[56px] items-center justify-between rounded-xl border border-slate-800 bg-slate-950 px-3"
                 >
                   <div className="flex items-center gap-3">
                     <span className="text-sm font-semibold text-slate-300">
@@ -376,7 +376,7 @@ export default function MatchLogger({
             onClick={() => setEventOverlayOpen(false)}
           />
 
-          <NestedPanel className="relative max-h-full w-full overflow-y-auto rounded-[8px] border-slate-700 bg-slate-950 p-4 shadow-2xl shadow-black/40">
+          <NestedPanel className="relative max-h-full w-full overflow-y-auto rounded-2xl border-slate-700 bg-slate-950 p-4 shadow-2xl shadow-black/40">
             <div className="mb-4 flex items-start justify-between gap-3">
               <div>
                 <p className="text-xs font-semibold uppercase tracking-[0.14em] text-slate-500">

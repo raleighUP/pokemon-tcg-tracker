@@ -35,7 +35,6 @@ import {
 } from '@/components/ui'
 import AdvisorModeControl from './deck-advisor/AdvisorModeControl'
 import AdvisorEventSetup from './deck-advisor/AdvisorEventSetup'
-import DataSourcePanel from './deck-advisor/DataSourcePanel'
 import ExpectedMetaEditor from './deck-advisor/ExpectedMetaEditor'
 import OwnedDeckComfortList from './deck-advisor/OwnedDeckComfortList'
 import RecommendationCard from './deck-advisor/RecommendationCard'
@@ -208,6 +207,7 @@ export default function DeckAdvisor({ decks }: Props) {
     []
   )
 
+  const [eventInfoOpen, setEventInfoOpen] = useState(true)
   const [metaEditorOpen, setMetaEditorOpen] = useState(true)
   const [comfortOpen, setComfortOpen] = useState(false)
 
@@ -531,83 +531,19 @@ export default function DeckAdvisor({ decks }: Props) {
   const hasRecommendations = results.length > 0
   const topRecommendation = results[0]
 
-  return (
-    <Panel className="space-y-6">
-      <SectionHeader
-        title="Deck Advisor"
-        description="Pick the best deck for the expected field."
-      />
+  const recommendationSection = (
+    <div className="space-y-3">
+      <div className="flex items-center justify-between gap-3">
+        <SectionHeader title="Recommendation" level={3} />
 
-      <div className="space-y-3">
-        <div className="flex items-center justify-between gap-3">
-          <SectionHeader title="Recommendation" level={3} />
-
-          {hasRecommendations && (
-            <StatusBadge className="bg-blue-500/15 px-2.5 py-1 text-blue-200">
-              {candidateSource === 'owned' ? 'Owned' : 'Top Meta'}
-            </StatusBadge>
-          )}
-        </div>
-
-        {hasRecommendations ? (
-          <div className="space-y-3">
-            <RecommendationCard
-              result={topRecommendation}
-              rank={1}
-              insight={getRecommendationInsight(topRecommendation)}
-            />
-
-            {results.length > 1 && (
-              <div className="space-y-3">
-                <p className="px-1 text-xs font-semibold uppercase tracking-[0.14em] text-slate-500">
-                  Alternatives
-                </p>
-
-                {results.slice(1).map((result, index) => (
-                  <RecommendationCard
-                    key={`${result.deckName}-${index + 1}`}
-                    result={result}
-                    rank={index + 2}
-                    insight={getRecommendationInsight(result)}
-                  />
-                ))}
-              </div>
-            )}
-          </div>
-        ) : (
-          <NestedPanel className="space-y-4 rounded-[8px] border-slate-800 bg-slate-950">
-            <div className="flex items-start justify-between gap-4">
-              <div>
-                <StatusBadge className="bg-white/10 px-2.5 py-1 text-slate-300">
-                  Waiting on Field
-                </StatusBadge>
-
-                <p className="mt-3 text-xl font-bold text-white">
-                  Add expected meta to get a deck pick.
-                </p>
-
-                <p className="mt-2 text-sm text-slate-400">
-                  Suggested meta is the fastest starting point before manual tuning.
-                </p>
-              </div>
-            </div>
-
-            <Button
-              onClick={() => {
-                setMetaInputMode('percent')
-                setMetaDecks(suggestedMeta)
-              }}
-              tone="primary"
-              size="lg"
-              className="w-full"
-            >
-              Use Suggested Meta
-            </Button>
-          </NestedPanel>
+        {hasRecommendations && (
+          <StatusBadge className="bg-blue-500/15 px-2.5 py-1 text-blue-200">
+            {candidateSource === 'owned' ? 'Owned' : 'Top Meta'}
+          </StatusBadge>
         )}
       </div>
 
-      <NestedPanel className="rounded-[8px] bg-slate-950">
+      <NestedPanel className="rounded-2xl bg-slate-950">
         <KeyValueList
           className="text-sm"
           items={[
@@ -636,40 +572,110 @@ export default function DeckAdvisor({ decks }: Props) {
         />
       </NestedPanel>
 
-      <DataSourcePanel metaSource={suggestedMetaSourceLabel} />
+      {hasRecommendations ? (
+        <div className="space-y-3">
+          <RecommendationCard
+            result={topRecommendation}
+            rank={1}
+            insight={getRecommendationInsight(topRecommendation)}
+          />
+
+          {results.length > 1 && (
+            <div className="space-y-3">
+              <p className="px-1 text-xs font-semibold uppercase tracking-[0.14em] text-slate-500">
+                Alternatives
+              </p>
+
+              {results.slice(1).map((result, index) => (
+                <RecommendationCard
+                  key={`${result.deckName}-${index + 1}`}
+                  result={result}
+                  rank={index + 2}
+                  insight={getRecommendationInsight(result)}
+                />
+              ))}
+            </div>
+          )}
+        </div>
+      ) : (
+        <NestedPanel className="space-y-4 rounded-2xl border-slate-800 bg-slate-950">
+          <div className="flex items-start justify-between gap-4">
+            <div>
+              <StatusBadge className="bg-white/10 px-2.5 py-1 text-slate-300">
+                Waiting on Field
+              </StatusBadge>
+
+              <p className="mt-3 text-xl font-bold text-white">
+                Add expected meta to get a deck pick.
+              </p>
+
+              <p className="mt-2 text-sm text-slate-400">
+                Suggested meta is the fastest starting point before manual tuning.
+              </p>
+            </div>
+          </div>
+
+          <Button
+            onClick={() => {
+              setMetaInputMode('percent')
+              setMetaDecks(suggestedMeta)
+            }}
+            tone="primary"
+            size="lg"
+            className="w-full"
+          >
+            Use Suggested Meta
+          </Button>
+        </NestedPanel>
+      )}
+    </div>
+  )
+
+  return (
+    <Panel className="space-y-6">
+      <SectionHeader
+        title="Deck Advisor"
+        description="Pick the best deck for the expected field."
+      />
 
       <DisclosurePanel
-        title="Expected Field"
-        description="Edit meta shares and tournament size."
+        title="Event Info Input"
+        description="Set event type and expected attendance."
+        open={eventInfoOpen}
+        onToggle={() => setEventInfoOpen((current) => !current)}
+        contentClassName="border-t border-white/10 p-4"
+      >
+        <AdvisorEventSetup
+          eventType={eventType}
+          setEventType={setEventType}
+          playerCount={playerCount}
+          setPlayerCount={setPlayerCount}
+          eventSize={eventSize}
+          structure={structure}
+        />
+      </DisclosurePanel>
+
+      <DisclosurePanel
+        title="Meta Selection"
+        description="Edit expected archetypes and field share."
         open={metaEditorOpen}
         onToggle={() => setMetaEditorOpen((current) => !current)}
         contentClassName="border-t border-white/10 p-4"
       >
-        <div className="space-y-6">
-          <AdvisorEventSetup
-            eventType={eventType}
-            setEventType={setEventType}
-            playerCount={playerCount}
-            setPlayerCount={setPlayerCount}
-            eventSize={eventSize}
-            structure={structure}
-          />
-
-          <ExpectedMetaEditor
-            archetypeOptions={archetypeOptions}
-            eventSize={eventSize}
-            metaDecks={metaDecks}
-            setMetaDecks={setMetaDecks}
-            metaInputMode={metaInputMode}
-            setMetaInputMode={setMetaInputMode}
-            suggestedMeta={suggestedMeta}
-            suggestedMetaSourceLabel={suggestedMetaSourceLabel}
-            enteredMetaTotal={enteredMetaTotal}
-            otherMetaTotal={otherMetaTotal}
-            maxMetaTotal={maxMetaTotal}
-            metaBreakdown={metaBreakdown}
-          />
-        </div>
+        <ExpectedMetaEditor
+          archetypeOptions={archetypeOptions}
+          eventSize={eventSize}
+          metaDecks={metaDecks}
+          setMetaDecks={setMetaDecks}
+          metaInputMode={metaInputMode}
+          setMetaInputMode={setMetaInputMode}
+          suggestedMeta={suggestedMeta}
+          suggestedMetaSourceLabel={suggestedMetaSourceLabel}
+          enteredMetaTotal={enteredMetaTotal}
+          otherMetaTotal={otherMetaTotal}
+          maxMetaTotal={maxMetaTotal}
+          metaBreakdown={metaBreakdown}
+        />
       </DisclosurePanel>
 
       <DisclosurePanel
@@ -699,6 +705,8 @@ export default function DeckAdvisor({ decks }: Props) {
           )}
         </div>
       </DisclosurePanel>
+
+      {recommendationSection}
     </Panel>
   )
 }

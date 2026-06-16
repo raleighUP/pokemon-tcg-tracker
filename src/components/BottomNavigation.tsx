@@ -57,8 +57,8 @@ export default function BottomNavigation({
   setActiveTab,
 }: Props) {
   return (
-    <nav className="fixed inset-x-0 bottom-0 z-50 px-3 pb-[calc(0.75rem+env(safe-area-inset-bottom))]">
-      <div className="mx-auto grid h-[76px] max-w-md grid-cols-5 gap-1 rounded-[28px] border border-white/10 bg-slate-900/88 p-2 shadow-2xl shadow-black/40 backdrop-blur-xl">
+    <nav className="fixed inset-x-0 bottom-0 z-50 px-3 pb-[calc(0.25rem+env(safe-area-inset-bottom))]">
+      <div className="mx-auto grid h-[68px] max-w-md grid-cols-5 gap-1 rounded-[26px] border border-white/10 bg-slate-900/92 p-1.5 shadow-2xl shadow-black/35 backdrop-blur-xl">
         {navigationItems.map(({ id, label, Icon }) => {
           const isActive = activeTab === id
 
@@ -68,14 +68,14 @@ export default function BottomNavigation({
               aria-label={label}
               aria-current={isActive ? 'page' : undefined}
               onClick={() => setActiveTab(id)}
-              className={`group flex min-h-[60px] flex-col items-center justify-center gap-1 rounded-[20px] transition duration-200 ease-out ${
+              className={`group flex min-h-[56px] flex-col items-center justify-center gap-1 rounded-[22px] transition duration-200 ease-out ${
                 isActive
-                  ? 'scale-[1.03] bg-white text-slate-950 shadow-lg shadow-black/20'
+                  ? 'bg-white text-slate-950 shadow-lg shadow-black/20'
                   : 'text-slate-400 hover:bg-white/5 hover:text-white'
               }`}
             >
               <Icon
-                className={`h-6 w-6 transition duration-200 ${
+                className={`h-5 w-5 shrink-0 transition duration-200 ${
                   isActive
                     ? 'text-slate-950'
                     : 'text-slate-400 group-hover:text-white'

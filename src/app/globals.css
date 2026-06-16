@@ -30,6 +30,16 @@ html,
 body {
   min-height: 100%;
 }
+
+select {
+  color-scheme: dark;
+}
+
+select option {
+  background: #0f172a;
+  color: #f8fafc;
+}
+
 @keyframes shake {
   0%,
   100% {
