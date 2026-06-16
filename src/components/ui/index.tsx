@@ -33,7 +33,7 @@ export function cn(...classes: Array<string | false | null | undefined>) {
 }
 
 const fieldBaseClass =
-  'w-full rounded-[14px] border border-slate-700 bg-slate-900 px-4 py-3 text-white outline-none placeholder:text-slate-400 focus:border-yellow-400 focus-visible:ring-2 focus-visible:ring-yellow-400/60'
+  'w-full rounded-2xl border border-slate-700 bg-slate-900 px-4 py-3 text-white outline-none placeholder:text-slate-400 focus:border-yellow-400 focus-visible:ring-2 focus-visible:ring-yellow-400/60'
 
 const fieldErrorClass = 'border-red-500 ring-2 ring-red-500/60'
 
@@ -61,7 +61,7 @@ export function AppShell({
   return (
     <main className="min-h-dvh bg-slate-950 px-4 pt-[calc(1.25rem+env(safe-area-inset-top))] text-white sm:px-6 sm:pt-[calc(1.5rem+env(safe-area-inset-top))]">
       <div className="mx-auto max-w-6xl">
-        <div className="pb-[calc(6.25rem+env(safe-area-inset-bottom))] transition-opacity duration-200 ease-out">
+        <div className="pb-[calc(6rem+env(safe-area-inset-bottom))] transition-opacity duration-200 ease-out">
           {children}
         </div>
       </div>
@@ -335,7 +335,7 @@ export function DisclosureAction({
       <span>{open ? closeLabel : openLabel}</span>
       <span
         aria-hidden="true"
-        className={`h-2 w-2 shrink-0 border-r-2 border-b-2 border-current transition-transform duration-200 ease-out ${
+        className={`mt-[-1px] h-2 w-2 shrink-0 border-r-2 border-b-2 border-current transition-transform duration-200 ease-out ${
           open ? 'rotate-45' : '-rotate-45'
         }`}
       />
@@ -581,7 +581,7 @@ export const SelectField = forwardRef<
         backgroundImage:
           'linear-gradient(45deg, transparent 50%, currentColor 50%), linear-gradient(135deg, currentColor 50%, transparent 50%)',
         backgroundPosition:
-          'calc(100% - 1.15rem) 50%, calc(100% - 0.85rem) 50%',
+          'calc(100% - 1.18rem) 52%, calc(100% - 0.88rem) 52%',
         backgroundSize: '0.32rem 0.32rem, 0.32rem 0.32rem',
         backgroundRepeat: 'no-repeat',
         ...style,

@@ -207,8 +207,6 @@ export default function DeckAdvisor({ decks }: Props) {
     []
   )
 
-  const [eventInfoOpen, setEventInfoOpen] = useState(true)
-  const [metaEditorOpen, setMetaEditorOpen] = useState(true)
   const [comfortOpen, setComfortOpen] = useState(true)
 
   const [eventType, setEventType] =
@@ -637,12 +635,9 @@ export default function DeckAdvisor({ decks }: Props) {
         title="Deck Advisor"
       />
 
-      <DisclosurePanel
-        title="Event Info Input"
-        open={eventInfoOpen}
-        onToggle={() => setEventInfoOpen((current) => !current)}
-        contentClassName="border-t border-white/10 p-4"
-      >
+      <NestedPanel className="space-y-4 rounded-2xl border-slate-800 bg-slate-950">
+        <SectionHeader title="Event Setup" level={3} />
+
         <AdvisorEventSetup
           eventType={eventType}
           setEventType={setEventType}
@@ -651,14 +646,11 @@ export default function DeckAdvisor({ decks }: Props) {
           eventSize={eventSize}
           structure={structure}
         />
-      </DisclosurePanel>
+      </NestedPanel>
 
-      <DisclosurePanel
-        title="Meta Selection"
-        open={metaEditorOpen}
-        onToggle={() => setMetaEditorOpen((current) => !current)}
-        contentClassName="border-t border-white/10 p-4"
-      >
+      <NestedPanel className="space-y-4 rounded-2xl border-slate-800 bg-slate-950">
+        <SectionHeader title="Meta Selection" level={3} />
+
         <ExpectedMetaEditor
           archetypeOptions={archetypeOptions}
           eventSize={eventSize}
@@ -673,7 +665,7 @@ export default function DeckAdvisor({ decks }: Props) {
           maxMetaTotal={maxMetaTotal}
           metaBreakdown={metaBreakdown}
         />
-      </DisclosurePanel>
+      </NestedPanel>
 
       <DisclosurePanel
         title="Candidate Decks"

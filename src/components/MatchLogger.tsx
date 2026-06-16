@@ -119,6 +119,18 @@ export default function MatchLogger({
       ? 'Add the missing event, opponent, and game details before saving.'
       : ''
 
+  const successMessage = saveSuccess
+    ? 'Match saved. Ready for the next opponent.'
+    : clearSuccess
+    ? 'Current match fields cleared.'
+    : eventSuccess
+    ? 'New event started. Set the event details when ready.'
+    : roundSuccess
+    ? `Round ${currentRound} is ready.`
+    : ''
+
+  const feedbackMessage = validationMessage || successMessage
+
   const errorClass = (fieldName: string) =>
     invalidMatchFields.includes(fieldName)
       ? 'field-error-shake border-red-500 ring-2 ring-red-500/60'
@@ -393,7 +405,7 @@ export default function MatchLogger({
         </Button>
       </div>
 
-      {(saveSuccess || clearSuccess || validationMessage) && (
+      {feedbackMessage && (
         <NestedPanel
           className={`rounded-2xl px-4 py-3 text-sm ${
             validationMessage
@@ -401,10 +413,7 @@ export default function MatchLogger({
               : 'border-green-500/40 bg-green-950/20 text-green-100'
           }`}
         >
-          {validationMessage ||
-            (saveSuccess
-              ? 'Match saved. Ready for the next opponent.'
-              : 'Current match fields cleared.')}
+          {feedbackMessage}
         </NestedPanel>
       )}
 

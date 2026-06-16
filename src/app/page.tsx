@@ -358,6 +358,7 @@ const toggleGameStart = (gameIndex: number) => {
   })
 }
 const clearCurrentMatch = () => {
+  setInvalidMatchFields([])
   setOpponentDeck('')
   setGames([])
   setGameStarts([])
@@ -373,6 +374,7 @@ const clearCurrentMatch = () => {
   }
 }
 const startNewEvent = () => {
+  setInvalidMatchFields([])
   setEventName('')
   setFormat('')
   setSelectedMatchDeck('')
@@ -393,6 +395,7 @@ const startNewEvent = () => {
   }
 }
 const nextRound = () => {
+  setInvalidMatchFields([])
     setCurrentRound((prev) => prev + 1)
 
   setRoundSuccess(true)
@@ -498,6 +501,8 @@ if (missingFields.length > 0) {
 
   return
 }
+
+setInvalidMatchFields([])
 
   const wins = games.filter((g) => g === 'W').length
   const losses = games.filter((g) => g === 'L').length

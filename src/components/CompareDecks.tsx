@@ -53,6 +53,7 @@ export default function CompareDecks({
               setCompareDeck1(e.target.value)
             }
             aria-label="Select Deck A"
+            className="border-slate-700 bg-slate-950"
           >
             <option value="">Select Deck A</option>
 
@@ -69,6 +70,7 @@ export default function CompareDecks({
               setCompareDeck2(e.target.value)
             }
             aria-label="Select Deck B"
+            className="border-slate-700 bg-slate-950"
           >
             <option value="">Select Deck B</option>
 

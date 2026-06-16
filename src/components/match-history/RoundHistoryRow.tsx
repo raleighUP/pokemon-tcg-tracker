@@ -182,7 +182,7 @@ export default function RoundHistoryRow({
                 onClick={() =>
                   setOpenMenuId(actionsOpen ? null : match.id)
                 }
-                className="h-11 w-11 rounded-[8px] text-lg font-bold leading-none text-slate-400 hover:bg-white/10 hover:text-white"
+                className="h-11 w-11 rounded-xl text-lg font-bold leading-none text-slate-400 hover:bg-white/10 hover:text-white"
                 aria-label="Round actions"
               >
                 ...

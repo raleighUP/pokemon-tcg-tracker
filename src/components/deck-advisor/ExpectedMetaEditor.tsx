@@ -10,10 +10,10 @@ import {
   KeyValueList,
   NestedPanel,
   NumberInput,
+  SourcePanel,
   SegmentedControl,
   SelectField,
 } from '@/components/ui'
-import DataSourcePanel from './DataSourcePanel'
 
 type Props = {
   archetypeOptions: string[]
@@ -44,7 +44,8 @@ export default function ExpectedMetaEditor({
   maxMetaTotal,
   metaBreakdown,
 }: Props) {
-  const [sourceOpen, setSourceOpen] = useState(false)
+  const [metaSourceOpen, setMetaSourceOpen] = useState(false)
+  const [matchupSourceOpen, setMatchupSourceOpen] = useState(false)
 
   return (
     <div className="space-y-3">
@@ -60,15 +61,43 @@ export default function ExpectedMetaEditor({
       </Button>
 
       <DisclosurePanel
-        title="Data Sources"
-        open={sourceOpen}
-        onToggle={() => setSourceOpen((current) => !current)}
+        title="Meta Source"
+        open={metaSourceOpen}
+        onToggle={() => setMetaSourceOpen((current) => !current)}
         actionOpenLabel="Show"
         actionCloseLabel="Hide"
         buttonClassName="px-3 py-3"
         contentClassName="border-t border-white/10 p-3"
       >
-        <DataSourcePanel metaSource={suggestedMetaSourceLabel} />
+        <SourcePanel
+          className="border-slate-800/80 bg-slate-900/70"
+          sources={[
+            {
+              label: 'Meta',
+              value: suggestedMetaSourceLabel,
+            },
+          ]}
+        />
+      </DisclosurePanel>
+
+      <DisclosurePanel
+        title="Matchup Source"
+        open={matchupSourceOpen}
+        onToggle={() => setMatchupSourceOpen((current) => !current)}
+        actionOpenLabel="Show"
+        actionCloseLabel="Hide"
+        buttonClassName="px-3 py-3"
+        contentClassName="border-t border-white/10 p-3"
+      >
+        <SourcePanel
+          className="border-slate-800/80 bg-slate-900/70"
+          sources={[
+            {
+              label: 'Matchups',
+              value: '20 large Limitless events',
+            },
+          ]}
+        />
       </DisclosurePanel>
 
       <SegmentedControl
@@ -144,7 +173,7 @@ export default function ExpectedMetaEditor({
               updated[index].share = cappedShare
               setMetaDecks(updated)
             }}
-            placeholder={metaInputMode === 'percent' ? '%' : 'Qty'}
+            placeholder="Percent"
             aria-label={`Meta deck ${index + 1} ${
               metaInputMode === 'percent'
                 ? 'percentage'

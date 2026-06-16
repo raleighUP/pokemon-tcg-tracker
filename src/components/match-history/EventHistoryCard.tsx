@@ -100,7 +100,7 @@ export default function EventHistoryCard({
   }`
 
   return (
-    <NestedPanel className="overflow-hidden rounded-[8px] border-slate-700/80 bg-slate-900/90 p-0 shadow-xl shadow-black/20">
+    <NestedPanel className="overflow-hidden rounded-2xl border-slate-700/80 bg-slate-900/90 p-0 shadow-xl shadow-black/20">
       {editingEvent === eventName ? (
         <EventEditForm
           eventName={eventName}
@@ -163,7 +163,7 @@ export default function EventHistoryCard({
                     : -firstMatch.id
                   )
                 }
-                className="h-11 w-11 rounded-[8px] text-lg font-bold leading-none text-slate-400 hover:bg-white/10 hover:text-white"
+                className="h-11 w-11 rounded-xl text-lg font-bold leading-none text-slate-400 hover:bg-white/10 hover:text-white"
                 aria-label="Event actions"
               >
                 ...

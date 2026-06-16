@@ -29,7 +29,7 @@ export default function RecommendationCard({
       open={detailsOpen}
       onToggle={() => setDetailsOpen((current) => !current)}
       showAction={false}
-      className={`overflow-hidden rounded-[8px] p-0 transition duration-200 ${
+      className={`overflow-hidden rounded-2xl p-0 transition duration-200 ${
         isTopPick
           ? 'border-blue-500/50 bg-slate-950 shadow-xl shadow-blue-950/20'
           : 'border-slate-800 bg-slate-950'
