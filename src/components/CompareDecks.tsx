@@ -39,8 +39,8 @@ export default function CompareDecks({
       : 'No differences found.'
 
   return (
-    <div className="flex h-[calc(100vh-90px)] flex-col gap-4">
-      <Panel className="shrink-0">
+    <div className="space-y-4">
+      <Panel>
         <SectionHeader
           title="Compare Decks"
           className="mb-4"
@@ -81,13 +81,13 @@ export default function CompareDecks({
         </div>
       </Panel>
 
-      <Panel className="flex-1 overflow-hidden">
+      <Panel>
         <SectionHeader
           title="Deck Differences"
           className="mb-4"
         />
 
-        <div className="h-[calc(100vh-400px)] space-y-2 overflow-y-auto pr-2">
+        <div className="max-h-[clamp(8rem,calc(100dvh-22rem),28rem)] space-y-2 overflow-y-auto pr-2">
           {changes.length === 0 ? (
             <EmptyState>{emptyStateMessage}</EmptyState>
           ) : (

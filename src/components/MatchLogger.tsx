@@ -369,14 +369,14 @@ export default function MatchLogger({
       </div>
 
       {eventOverlayOpen && (
-        <div className="fixed inset-0 z-[60] flex items-end bg-black/60 px-4 pb-4 pt-20 backdrop-blur-sm">
+        <div className="fixed inset-0 z-[60] flex items-end bg-black/60 px-4 pb-[calc(1rem+env(safe-area-inset-bottom))] pt-[calc(5rem+env(safe-area-inset-top))] backdrop-blur-sm">
           <button
             aria-label="Close event setup"
             className="absolute inset-0 cursor-default"
             onClick={() => setEventOverlayOpen(false)}
           />
 
-          <NestedPanel className="relative w-full rounded-[8px] border-slate-700 bg-slate-950 p-4 shadow-2xl shadow-black/40">
+          <NestedPanel className="relative max-h-full w-full overflow-y-auto rounded-[8px] border-slate-700 bg-slate-950 p-4 shadow-2xl shadow-black/40">
             <div className="mb-4 flex items-start justify-between gap-3">
               <div>
                 <p className="text-xs font-semibold uppercase tracking-[0.14em] text-slate-500">

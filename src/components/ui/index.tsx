@@ -59,7 +59,7 @@ export function AppShell({
   bottomNavigation?: ReactNode
 }) {
   return (
-    <main className="min-h-screen bg-slate-950 px-4 pt-5 text-white sm:px-6 sm:pt-6">
+    <main className="min-h-dvh bg-slate-950 px-4 pt-[calc(1.25rem+env(safe-area-inset-top))] text-white sm:px-6 sm:pt-[calc(1.5rem+env(safe-area-inset-top))]">
       <div className="mx-auto max-w-6xl">
         <div className="pb-[calc(7.5rem+env(safe-area-inset-bottom))] transition-opacity duration-200 ease-out">
           {children}
