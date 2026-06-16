@@ -54,3 +54,15 @@ export function HistoryIcon({ className = '' }: IconProps) {
     </svg>
   )
 }
+
+export function AdvisorIcon({ className = '' }: IconProps) {
+  return (
+    <svg viewBox="0 0 100 100" className={className}>
+      <path {...iconStroke} d="M22 72 39 55l12 10 27-31" />
+      <path {...iconStroke} d="M67 34h11v11" />
+      <path {...iconStroke} d="M22 26h18" />
+      <path {...iconStroke} d="M22 42h30" />
+      <path {...iconStroke} d="M22 86h56" />
+    </svg>
+  )
+}

@@ -59,9 +59,11 @@ export function AppShell({
   bottomNavigation?: ReactNode
 }) {
   return (
-    <main className="min-h-screen bg-slate-950 p-6 text-white">
+    <main className="min-h-screen bg-slate-950 px-4 pt-5 text-white sm:px-6 sm:pt-6">
       <div className="mx-auto max-w-6xl">
-        <div className="pb-24">{children}</div>
+        <div className="pb-[calc(7.5rem+env(safe-area-inset-bottom))] transition-opacity duration-200 ease-out">
+          {children}
+        </div>
       </div>
 
       {bottomNavigation}
@@ -76,7 +78,7 @@ export function Panel({
   return (
     <div
       className={cn(
-        'rounded-2xl border border-slate-800 bg-slate-900 p-6',
+        'rounded-2xl border border-slate-800 bg-slate-900 p-5 shadow-xl shadow-black/10 sm:p-6',
         className
       )}
       {...props}
@@ -107,6 +109,57 @@ export function OverlayCard({
     <div
       className={cn(
         'z-20 overflow-hidden rounded-xl border border-slate-700 bg-slate-800 shadow-xl',
+        className
+      )}
+      {...props}
+    />
+  )
+}
+
+export function OverflowMenu({
+  open,
+  onClose,
+  children,
+  className,
+  backdropClassName,
+}: {
+  open: boolean
+  onClose: () => void
+  children: ReactNode
+  className?: string
+  backdropClassName?: string
+}) {
+  if (!open) return null
+
+  return (
+    <>
+      <button
+        aria-label="Close menu"
+        onClick={onClose}
+        className={cn('fixed inset-0 z-10 cursor-default', backdropClassName)}
+      />
+
+      <OverlayCard className={cn('absolute right-0 top-10 w-40', className)}>
+        {children}
+      </OverlayCard>
+    </>
+  )
+}
+
+export function MenuItem({
+  className,
+  tone = 'default',
+  type = 'button',
+  ...props
+}: ButtonHTMLAttributes<HTMLButtonElement> & {
+  tone?: 'default' | 'danger'
+}) {
+  return (
+    <button
+      type={type}
+      className={cn(
+        'w-full px-4 py-3 text-left text-sm transition duration-200 hover:bg-slate-700',
+        tone === 'danger' && 'text-red-400',
         className
       )}
       {...props}
@@ -147,7 +200,7 @@ export function SectionHeader({
 const buttonToneClasses: Record<Tone, string> = {
   primary: 'bg-blue-600 text-white hover:bg-blue-500',
   secondary: 'bg-slate-800 text-slate-300 hover:bg-slate-700',
-  accent: 'bg-yellow-400 text-black hover:scale-[1.02]',
+  accent: 'bg-yellow-400 text-black hover:bg-yellow-300',
   danger: 'bg-red-900/40 text-red-200 hover:bg-red-900/70',
   success: 'bg-green-500 text-white hover:bg-green-600',
   purple: 'bg-purple-500 text-white hover:bg-purple-600',
@@ -174,7 +227,7 @@ export function Button({
     <button
       type={type}
       className={cn(
-        'rounded-xl font-semibold transition disabled:bg-slate-700 disabled:text-slate-500',
+        'min-h-11 rounded-xl font-semibold transition duration-200 ease-out active:scale-[0.99] disabled:bg-slate-700 disabled:text-slate-500 disabled:active:scale-100',
         buttonToneClasses[tone],
         buttonSizeClasses[size],
         className
@@ -193,7 +246,7 @@ export function IconButton({
     <button
       type={type}
       className={cn(
-        'flex items-center justify-center rounded-xl transition',
+        'flex min-h-11 min-w-11 items-center justify-center rounded-xl transition duration-200 ease-out active:scale-[0.98]',
         className
       )}
       {...props}
@@ -247,9 +300,155 @@ export function EmptyState({
   className?: string
 }) {
   return (
-    <p className={cn('text-sm text-slate-400', className)}>
+    <div
+      className={cn(
+        'rounded-xl border border-dashed border-slate-800 bg-slate-950/60 px-4 py-3 text-sm text-slate-400',
+        className
+      )}
+    >
       {children}
-    </p>
+    </div>
+  )
+}
+
+export function DisclosureAction({
+  open,
+  openLabel = 'Show',
+  closeLabel = 'Hide',
+  className,
+}: {
+  open: boolean
+  openLabel?: string
+  closeLabel?: string
+  className?: string
+}) {
+  return (
+    <span
+      className={cn(
+        'inline-flex items-center gap-2 text-xs font-semibold text-blue-300',
+        className
+      )}
+    >
+      <span>{open ? closeLabel : openLabel}</span>
+      <span
+        aria-hidden="true"
+        className={`transition-transform duration-200 ease-out ${
+          open ? 'rotate-90' : ''
+        }`}
+      >
+        &gt;
+      </span>
+    </span>
+  )
+}
+
+export function DisclosureContent({
+  open,
+  children,
+  className,
+  innerClassName,
+}: {
+  open: boolean
+  children: ReactNode
+  className?: string
+  innerClassName?: string
+}) {
+  return (
+    <div
+      className={cn(
+        'grid transition-all duration-200 ease-out',
+        open
+          ? 'grid-rows-[1fr] opacity-100'
+          : 'grid-rows-[0fr] opacity-0',
+        className
+      )}
+    >
+      <div className="overflow-hidden">
+        <div className={innerClassName}>
+          {children}
+        </div>
+      </div>
+    </div>
+  )
+}
+
+export function DisclosurePanel({
+  open,
+  actionOpen = open,
+  onToggle,
+  title,
+  description,
+  actionOpenLabel = 'Open',
+  actionCloseLabel = 'Hide',
+  showAction = true,
+  header,
+  children,
+  className,
+  buttonClassName,
+  actionClassName,
+  contentClassName,
+  bodyClassName,
+}: {
+  open: boolean
+  actionOpen?: boolean
+  onToggle: () => void
+  title?: ReactNode
+  description?: ReactNode
+  actionOpenLabel?: string
+  actionCloseLabel?: string
+  showAction?: boolean
+  header?: ReactNode
+  children: ReactNode
+  className?: string
+  buttonClassName?: string
+  actionClassName?: string
+  contentClassName?: string
+  bodyClassName?: string
+}) {
+  return (
+    <NestedPanel className={cn('overflow-hidden rounded-[8px] bg-slate-950 p-0', className)}>
+      <button
+        type="button"
+        onClick={onToggle}
+        className={cn(
+          'flex w-full items-center justify-between gap-4 p-4 text-left',
+          buttonClassName
+        )}
+      >
+        {header ?? (
+          <span>
+            {title && (
+              <span className="block text-sm font-semibold text-white">
+                {title}
+              </span>
+            )}
+
+            {description && (
+              <span className="mt-1 block text-xs text-slate-500">
+                {description}
+              </span>
+            )}
+          </span>
+        )}
+
+        {showAction && (
+          <DisclosureAction
+            open={actionOpen}
+            openLabel={actionOpenLabel}
+            closeLabel={actionCloseLabel}
+            className={cn('shrink-0', actionClassName)}
+          />
+        )}
+      </button>
+
+      <DisclosureContent
+        open={open}
+        className={bodyClassName}
+        innerClassName={contentClassName}
+      >
+        {children}
+      </DisclosureContent>
+    </NestedPanel>
   )
 }
 

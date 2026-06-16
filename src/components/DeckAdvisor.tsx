@@ -24,12 +24,18 @@ import {
 
 import { getArchetypeOptions } from '@/utils/archetype-options'
 import {
+  Button,
+  DisclosurePanel,
   EmptyState,
+  KeyValueList,
+  NestedPanel,
   Panel,
   SectionHeader,
+  StatusBadge,
 } from '@/components/ui'
 import AdvisorModeControl from './deck-advisor/AdvisorModeControl'
 import AdvisorEventSetup from './deck-advisor/AdvisorEventSetup'
+import DataSourcePanel from './deck-advisor/DataSourcePanel'
 import ExpectedMetaEditor from './deck-advisor/ExpectedMetaEditor'
 import OwnedDeckComfortList from './deck-advisor/OwnedDeckComfortList'
 import RecommendationCard from './deck-advisor/RecommendationCard'
@@ -87,6 +93,9 @@ export default function DeckAdvisor({ decks }: Props) {
     () => readStoredAdvisorData(),
     []
   )
+
+  const [metaEditorOpen, setMetaEditorOpen] = useState(true)
+  const [comfortOpen, setComfortOpen] = useState(false)
 
   const [eventType, setEventType] =
     useState<EventType>(
@@ -405,71 +414,177 @@ export default function DeckAdvisor({ decks }: Props) {
     normalizedMetaDecks,
   ])
 
+  const hasRecommendations = results.length > 0
+  const topRecommendation = results[0]
+
   return (
     <Panel className="space-y-6">
       <SectionHeader
         title="Deck Advisor"
-        description="Build an expected tournament field and determine which deck gives you the best chance of success."
+        description="Pick the best deck for the expected field."
       />
-
-      <AdvisorEventSetup
-        eventType={eventType}
-        setEventType={setEventType}
-        playerCount={playerCount}
-        setPlayerCount={setPlayerCount}
-        eventSize={eventSize}
-        structure={structure}
-      />
-
-      <ExpectedMetaEditor
-        archetypeOptions={archetypeOptions}
-        eventSize={eventSize}
-        metaDecks={metaDecks}
-        setMetaDecks={setMetaDecks}
-        metaInputMode={metaInputMode}
-        setMetaInputMode={setMetaInputMode}
-        suggestedMeta={suggestedMeta}
-        suggestedMetaSourceLabel={suggestedMetaSourceLabel}
-        enteredMetaTotal={enteredMetaTotal}
-        otherMetaTotal={otherMetaTotal}
-        maxMetaTotal={maxMetaTotal}
-        metaBreakdown={metaBreakdown}
-      />
-
-      <AdvisorModeControl
-        candidateSource={candidateSource}
-        setCandidateSource={setCandidateSource}
-      />
-
-      {candidateSource === 'owned' && (
-        <OwnedDeckComfortList
-          ownedCandidateDecks={ownedCandidateDecks}
-          metaDecks={metaDecks}
-          setDeckComfortById={setDeckComfortById}
-          getMatchupTone={getMatchupTone}
-        />
-      )}
 
       <div className="space-y-3">
-        <SectionHeader title="Recommendations" level={3} />
+        <div className="flex items-center justify-between gap-3">
+          <SectionHeader title="Recommendation" level={3} />
 
-        {results.length === 0 ? (
-          <EmptyState>
-            Add expected meta decks to see recommendations.
-          </EmptyState>
-        ) : (
+          {hasRecommendations && (
+            <StatusBadge className="bg-blue-500/15 px-2.5 py-1 text-blue-200">
+              {candidateSource === 'owned' ? 'Owned' : 'Top Meta'}
+            </StatusBadge>
+          )}
+        </div>
+
+        {hasRecommendations ? (
           <div className="space-y-3">
-            {results.map((result, index) => (
-              <RecommendationCard
-                key={`${result.deckName}-${index}`}
-                result={result}
-                rank={index + 1}
-                insight={getRecommendationInsight(result)}
-              />
-            ))}
+            <RecommendationCard
+              result={topRecommendation}
+              rank={1}
+              insight={getRecommendationInsight(topRecommendation)}
+            />
+
+            {results.length > 1 && (
+              <div className="space-y-3">
+                <p className="px-1 text-xs font-semibold uppercase tracking-[0.14em] text-slate-500">
+                  Alternatives
+                </p>
+
+                {results.slice(1).map((result, index) => (
+                  <RecommendationCard
+                    key={`${result.deckName}-${index + 1}`}
+                    result={result}
+                    rank={index + 2}
+                    insight={getRecommendationInsight(result)}
+                  />
+                ))}
+              </div>
+            )}
           </div>
+        ) : (
+          <NestedPanel className="space-y-4 rounded-[8px] border-slate-800 bg-slate-950">
+            <div className="flex items-start justify-between gap-4">
+              <div>
+                <StatusBadge className="bg-white/10 px-2.5 py-1 text-slate-300">
+                  Waiting on Field
+                </StatusBadge>
+
+                <p className="mt-3 text-xl font-bold text-white">
+                  Add expected meta to get a deck pick.
+                </p>
+
+                <p className="mt-2 text-sm text-slate-400">
+                  Suggested meta is the fastest starting point before manual tuning.
+                </p>
+              </div>
+            </div>
+
+            <Button
+              onClick={() => {
+                setMetaInputMode('percent')
+                setMetaDecks(suggestedMeta)
+              }}
+              tone="primary"
+              size="lg"
+              className="w-full"
+            >
+              Use Suggested Meta
+            </Button>
+          </NestedPanel>
         )}
       </div>
+
+      <NestedPanel className="rounded-[8px] bg-slate-950">
+        <KeyValueList
+          className="text-sm"
+          items={[
+            {
+              label: 'Expected Field',
+              value:
+                normalizedMetaDecks.length > 0
+                  ? `${normalizedMetaDecks.length} decks`
+                  : 'Not set',
+            },
+            {
+              label: 'Event',
+              value:
+                eventSize > 0
+                  ? `${eventType} - ${eventSize} players`
+                  : eventType,
+            },
+            {
+              label: 'Mode',
+              value:
+                candidateSource === 'owned'
+                  ? 'Owned Decks'
+                  : 'Top Meta',
+            },
+          ]}
+        />
+      </NestedPanel>
+
+      <DataSourcePanel metaSource={suggestedMetaSourceLabel} />
+
+      <DisclosurePanel
+        title="Expected Field"
+        description="Edit meta shares and tournament size."
+        open={metaEditorOpen}
+        onToggle={() => setMetaEditorOpen((current) => !current)}
+        contentClassName="border-t border-white/10 p-4"
+      >
+        <div className="space-y-6">
+          <AdvisorEventSetup
+            eventType={eventType}
+            setEventType={setEventType}
+            playerCount={playerCount}
+            setPlayerCount={setPlayerCount}
+            eventSize={eventSize}
+            structure={structure}
+          />
+
+          <ExpectedMetaEditor
+            archetypeOptions={archetypeOptions}
+            eventSize={eventSize}
+            metaDecks={metaDecks}
+            setMetaDecks={setMetaDecks}
+            metaInputMode={metaInputMode}
+            setMetaInputMode={setMetaInputMode}
+            suggestedMeta={suggestedMeta}
+            suggestedMetaSourceLabel={suggestedMetaSourceLabel}
+            enteredMetaTotal={enteredMetaTotal}
+            otherMetaTotal={otherMetaTotal}
+            maxMetaTotal={maxMetaTotal}
+            metaBreakdown={metaBreakdown}
+          />
+        </div>
+      </DisclosurePanel>
+
+      <DisclosurePanel
+        title="Candidate Decks"
+        description="Choose owned decks or top meta, then tune comfort."
+        open={comfortOpen}
+        onToggle={() => setComfortOpen((current) => !current)}
+        contentClassName="border-t border-white/10 p-4"
+      >
+        <div className="space-y-6">
+          <AdvisorModeControl
+            candidateSource={candidateSource}
+            setCandidateSource={setCandidateSource}
+          />
+
+          {candidateSource === 'owned' ? (
+            <OwnedDeckComfortList
+              ownedCandidateDecks={ownedCandidateDecks}
+              metaDecks={metaDecks}
+              setDeckComfortById={setDeckComfortById}
+              getMatchupTone={getMatchupTone}
+            />
+          ) : (
+            <EmptyState>
+              Top Meta mode ranks expected archetypes with neutral comfort.
+            </EmptyState>
+          )}
+        </div>
+      </DisclosurePanel>
     </Panel>
   )
 }

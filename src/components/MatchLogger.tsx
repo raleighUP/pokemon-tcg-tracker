@@ -1,9 +1,15 @@
+import { useState } from 'react'
 import { Deck } from '@/types'
 import {
+  Button,
+  DisclosurePanel,
+  FieldLabel,
+  NestedPanel,
   Panel,
   ResultPill,
   SectionHeader,
   SelectField,
+  StatusBadge,
   TextareaField,
   TextInput,
 } from '@/components/ui'
@@ -29,6 +35,7 @@ type Props = {
 
   matchType: 'BO1' | 'BO3'
   setMatchType: (value: 'BO1' | 'BO3') => void
+  currentRound: number
 
   clearGames: () => void
   startNewEvent: () => void
@@ -57,6 +64,7 @@ export default function MatchLogger({
   setFormat,
   matchType,
   setMatchType,
+  currentRound,
   decks,
   games,
   gameStarts,
@@ -73,10 +81,25 @@ export default function MatchLogger({
   clearSuccess,
   notes,
   setNotes,
-invalidMatchFields = [],
+  invalidMatchFields = [],
 }: Props) {
+  const [eventOverlayOpen, setEventOverlayOpen] = useState(false)
+  const [notesOpen, setNotesOpen] = useState(false)
+
   const visibleGameCount =
     matchType === 'BO1' ? 1 : Math.min(games.length + 1, 3)
+
+  const eventConfigured =
+    eventName.trim() &&
+    format.trim() &&
+    selectedMatchDeck.trim()
+
+  const eventHasError =
+    invalidMatchFields.includes('eventName') ||
+    invalidMatchFields.includes('format') ||
+    invalidMatchFields.includes('selectedMatchDeck')
+
+  const gamesHaveError = invalidMatchFields.includes('games')
 
   const errorClass = (fieldName: string) =>
     invalidMatchFields.includes(fieldName)
@@ -84,64 +107,90 @@ invalidMatchFields = [],
       : 'border-slate-700'
 
   return (
-    <Panel>
-      <SectionHeader title="Log Match" className="mb-6" />
+    <Panel className="space-y-5">
+      <SectionHeader
+        title="Match Logger"
+        description="Track the active event and log the current round."
+      />
 
-      <div className="space-y-4">
-        <TextInput
-          value={eventName}
-          onChange={(e) => setEventName(e.target.value)}
-          placeholder="Event Name"
-          autoComplete="organization"
-          className={`py-4 ${errorClass(
-            'eventName'
-          )}`}
-        />
+      <NestedPanel
+        className={`overflow-hidden rounded-[8px] bg-slate-950 p-0 shadow-xl shadow-black/20 ${
+          eventHasError
+            ? 'field-error-shake border-red-500 ring-2 ring-red-500/40'
+            : 'border-slate-800'
+        }`}
+      >
+        <div className="border-b border-white/10 bg-slate-800/80 p-4">
+          <div className="mb-3 flex items-center justify-between gap-3">
+            <StatusBadge className="bg-blue-500/15 px-2.5 py-1 text-blue-200">
+              Active Event
+            </StatusBadge>
 
-        <div className="grid grid-cols-2 gap-3">
-          <button
-            onClick={startNewEvent}
-            className="rounded-xl bg-blue-500 px-4 py-4 font-bold hover:bg-blue-600"
-          >
-            {eventSuccess ? 'Started!' : 'New Event'}
-          </button>
+            <button
+              type="button"
+              onClick={() => setEventOverlayOpen(true)}
+              className="rounded-full border border-white/10 bg-white/5 px-3 py-1 text-xs font-semibold text-slate-300 transition duration-200 hover:border-white/20 hover:bg-white/10 hover:text-white"
+            >
+              {eventConfigured ? 'Edit Event' : 'Set Event'}
+            </button>
+          </div>
 
-          <button
-            onClick={nextRound}
-            className="rounded-xl bg-purple-500 px-4 py-4 font-bold hover:bg-purple-600"
-          >
-            {roundSuccess ? 'Next!' : 'Next Round'}
-          </button>
+          <h3 className="truncate text-2xl font-bold text-white">
+            {eventName || 'No event selected'}
+          </h3>
+
+          <div className="mt-3 grid grid-cols-2 gap-2 text-xs">
+            <div className="rounded-[8px] bg-black/20 p-3">
+              <p className="text-slate-500">Deck</p>
+              <p className="mt-1 truncate font-semibold text-slate-100">
+                {selectedMatchDeck || 'Not selected'}
+              </p>
+            </div>
+
+            <div className="rounded-[8px] bg-black/20 p-3">
+              <p className="text-slate-500">Format</p>
+              <p className="mt-1 truncate font-semibold text-slate-100">
+                {format || 'Not selected'}
+              </p>
+            </div>
+          </div>
         </div>
 
-        <div className="grid grid-cols-2 gap-3">
-          <SelectField
-            value={format}
-            onChange={(e) => setFormat(e.target.value)}
-            className={`py-4 ${errorClass(
-              'format'
-            )}`}
+        <div className="grid grid-cols-2 gap-3 p-4">
+          <Button
+            onClick={nextRound}
+            tone="purple"
+            size="lg"
+            className="min-h-[56px]"
           >
-            <option value="">Format</option>
-            <option value="TEF-POR">TEF-POR</option>
-            <option value="Gym Leader Challenge">Gym Leader Challenge</option>
-            <option value="Expanded">Expanded</option>
-          </SelectField>
+            {roundSuccess ? 'Next!' : 'Next Round'}
+          </Button>
 
-          <SelectField
-            value={selectedMatchDeck}
-            onChange={(e) => setSelectedMatchDeck(e.target.value)}
-            className={`py-4 ${errorClass(
-              'selectedMatchDeck'
-            )}`}
+          <Button
+            onClick={() => setEventOverlayOpen(true)}
+            tone="secondary"
+            size="lg"
+            className="min-h-[56px]"
           >
-            <option value="">Your Deck</option>
-            {decks.map((deck) => (
-              <option key={deck.id} value={deck.name}>
-                {deck.name}
-              </option>
-            ))}
-          </SelectField>
+            New Event
+          </Button>
+        </div>
+      </NestedPanel>
+
+      <NestedPanel className="space-y-4 rounded-[8px] border-slate-800 bg-slate-950 p-4">
+        <div className="flex items-start justify-between gap-3">
+          <div>
+            <p className="text-xs font-semibold uppercase tracking-[0.14em] text-slate-500">
+              Round {currentRound}
+            </p>
+            <h3 className="mt-1 text-xl font-bold text-white">
+              Log Match
+            </h3>
+          </div>
+
+          <StatusBadge className="bg-white/10 px-2.5 py-1 text-slate-200">
+            {matchType}
+          </StatusBadge>
         </div>
 
         <TextInput
@@ -149,21 +198,21 @@ invalidMatchFields = [],
           onChange={(e) => setOpponentDeck(e.target.value)}
           placeholder="Opponent Deck"
           autoComplete="off"
-          className={`py-4 ${errorClass(
+          className={`min-h-[56px] bg-slate-900 py-4 ${errorClass(
             'opponentDeck'
           )}`}
         />
 
-        <div className="grid grid-cols-2 gap-3">
+        <div className="grid grid-cols-2 gap-2 rounded-[8px] bg-slate-900 p-1">
           <button
             onClick={() => {
               setMatchType('BO1')
               clearGames()
             }}
-            className={`rounded-xl px-4 py-3 font-bold ${
+            className={`rounded-[6px] px-4 py-3 text-sm font-bold transition duration-200 ${
               matchType === 'BO1'
-                ? 'bg-yellow-400 text-black'
-                : 'bg-slate-800 text-white'
+                ? 'bg-blue-600 text-white'
+                : 'text-slate-300 hover:bg-white/5'
             }`}
           >
             Best of 1
@@ -174,127 +223,251 @@ invalidMatchFields = [],
               setMatchType('BO3')
               clearGames()
             }}
-            className={`rounded-xl px-4 py-3 font-bold ${
+            className={`rounded-[6px] px-4 py-3 text-sm font-bold transition duration-200 ${
               matchType === 'BO3'
-                ? 'bg-yellow-400 text-black'
-                : 'bg-slate-800 text-white'
+                ? 'bg-blue-600 text-white'
+                : 'text-slate-300 hover:bg-white/5'
             }`}
           >
             Best of 3
           </button>
         </div>
 
-        <div className="space-y-3">
-          <h3 className="font-semibold text-slate-300">
-            Add Game Results
-          </h3>
+        <div
+          className={`rounded-[8px] border bg-slate-900 p-3 ${
+            gamesHaveError
+              ? 'field-error-shake border-red-500 ring-2 ring-red-500/60'
+              : 'border-slate-800'
+          }`}
+        >
+          <div className="mb-3 flex items-center justify-between">
+            <p className="text-sm font-semibold text-slate-300">
+              Games
+            </p>
 
-          <div className="grid grid-cols-[1fr_140px] gap-4">
-            <div
-              className={`rounded-xl border bg-slate-900 p-3 ${errorClass(
-                'games'
-              )}`}
+            <button
+              type="button"
+              onClick={clearGames}
+              className="text-xs font-semibold text-slate-500 transition duration-200 hover:text-white"
             >
-              <div className="space-y-3">
-                {Array.from({ length: visibleGameCount }).map((_, index) => {
-                  const result = games[index]
+              Clear
+            </button>
+          </div>
 
-                  return (
-                    <div
-                      key={index}
-                      className="flex min-h-[64px] items-center justify-between rounded-xl border border-slate-700 bg-slate-800 px-4"
-                    >
-                      <div className="flex items-center gap-3">
-                        <span className="font-medium">
-                          Game {index + 1}
-                        </span>
+          <div className="space-y-2">
+            {Array.from({ length: visibleGameCount }).map((_, index) => {
+              const result = games[index]
 
-                        {result && (
-                          <ResultPill
-                            result={result}
-                            className={`h-auto min-w-0 bg-transparent px-0 py-0 text-sm ${
-                              result === 'W'
-                                ? 'text-green-300'
-                                : result === 'L'
-                                ? 'text-red-300'
-                                : 'text-yellow-300'
-                            }`}
-                          />
-                        )}
-                      </div>
-
-                      <button
-                        type="button"
-                        onClick={() => toggleGameStart(index)}
-                        className="rounded-full border border-slate-600 bg-slate-900 px-4 py-1 text-sm font-semibold hover:bg-slate-700"
-                      >
-                        {gameStarts[index] ?? '1st'}
-                      </button>
-                    </div>
-                  )
-                })}
-              </div>
-            </div>
-
-            <div className="rounded-xl border border-slate-700 bg-slate-900 p-3">
-              <div className="grid gap-3">
-                <button
-                  onClick={() => toggleGameResult('W')}
-                  className="min-h-[64px] rounded-xl bg-green-500 px-4 py-4 text-lg font-bold hover:bg-green-600"
+              return (
+                <div
+                  key={index}
+                  className="flex min-h-[56px] items-center justify-between rounded-[8px] border border-slate-800 bg-slate-950 px-3"
                 >
-                  Win
-                </button>
+                  <div className="flex items-center gap-3">
+                    <span className="text-sm font-semibold text-slate-300">
+                      Game {index + 1}
+                    </span>
 
-                <button
-                  onClick={() => toggleGameResult('L')}
-                  className="min-h-[64px] rounded-xl bg-red-500 px-4 py-4 text-lg font-bold hover:bg-red-600"
-                >
-                  Loss
-                </button>
+                    {result ? (
+                      <ResultPill result={result} />
+                    ) : (
+                      <span className="text-xs text-slate-600">
+                        Awaiting result
+                      </span>
+                    )}
+                  </div>
 
-                <button
-                  onClick={() => toggleGameResult('T')}
-                  className="min-h-[64px] rounded-xl bg-yellow-400 px-4 py-4 text-lg font-bold text-black hover:bg-yellow-500"
-                >
-                  Tie
-                </button>
-
-                <button
-                  onClick={clearGames}
-                  className="min-h-[64px] rounded-xl bg-slate-700 px-4 py-4 text-lg font-bold hover:bg-slate-600"
-                >
-                  Clear
-                </button>
-              </div>
-            </div>
+                  <button
+                    type="button"
+                    onClick={() => toggleGameStart(index)}
+                    className="rounded-full border border-slate-700 bg-slate-900 px-3 py-1 text-xs font-semibold text-slate-200 transition duration-200 hover:bg-slate-800"
+                  >
+                    {gameStarts[index] ?? '1st'}
+                  </button>
+                </div>
+              )
+            })}
           </div>
         </div>
 
+        <div className="grid grid-cols-3 gap-2">
+          <Button
+            onClick={() => toggleGameResult('W')}
+            tone="success"
+            size="lg"
+            className="min-h-[64px] text-lg"
+          >
+            Win
+          </Button>
+
+          <Button
+            onClick={() => toggleGameResult('L')}
+            tone="danger"
+            size="lg"
+            className="min-h-[64px] bg-red-600 text-lg text-white hover:bg-red-500"
+          >
+            Loss
+          </Button>
+
+          <Button
+            onClick={() => toggleGameResult('T')}
+            tone="accent"
+            size="lg"
+            className="min-h-[64px] text-lg"
+          >
+            Tie
+          </Button>
+        </div>
+      </NestedPanel>
+
+      <DisclosurePanel
+        open={notesOpen || Boolean(notes)}
+        actionOpen={notesOpen}
+        onToggle={() => setNotesOpen((current) => !current)}
+        actionOpenLabel={notes ? 'Edit' : 'Add'}
+        actionCloseLabel="Hide"
+        className="border-slate-800"
+        buttonClassName="px-4 py-3"
+        contentClassName="px-4 pb-4"
+        header={
+          <span className="text-sm font-semibold text-slate-300">
+            Match Notes
+          </span>
+        }
+      >
         <TextareaField
           value={notes}
           onChange={(e) => setNotes(e.target.value)}
           expandable
           rows={1}
           placeholder="Match Notes (optional)"
-          className="min-h-[56px] py-4"
+          className="min-h-[56px] bg-slate-900 py-4"
         />
+      </DisclosurePanel>
 
-        <div className="grid grid-cols-2 gap-3">
-          <button
-            onClick={clearCurrentMatch}
-            className="rounded-xl bg-slate-700 px-4 py-4 font-bold hover:bg-slate-600"
-          >
-            {clearSuccess ? 'Cleared!' : 'Clear Match'}
-          </button>
+      <div className="grid grid-cols-2 gap-3">
+        <Button
+          onClick={clearCurrentMatch}
+          tone="secondary"
+          size="lg"
+          className="min-h-[56px]"
+        >
+          {clearSuccess ? 'Cleared!' : 'Clear Match'}
+        </Button>
 
-          <button
-            onClick={saveMatch}
-            className="rounded-xl bg-purple-500 px-4 py-4 font-bold hover:bg-purple-600"
-          >
-            {saveSuccess ? 'Saved!' : 'Save Match'}
-          </button>
-        </div>
+        <Button
+          onClick={saveMatch}
+          tone="purple"
+          size="lg"
+          className="min-h-[56px]"
+        >
+          {saveSuccess ? 'Saved!' : 'Save Match'}
+        </Button>
       </div>
+
+      {eventOverlayOpen && (
+        <div className="fixed inset-0 z-[60] flex items-end bg-black/60 px-4 pb-4 pt-20 backdrop-blur-sm">
+          <button
+            aria-label="Close event setup"
+            className="absolute inset-0 cursor-default"
+            onClick={() => setEventOverlayOpen(false)}
+          />
+
+          <NestedPanel className="relative w-full rounded-[8px] border-slate-700 bg-slate-950 p-4 shadow-2xl shadow-black/40">
+            <div className="mb-4 flex items-start justify-between gap-3">
+              <div>
+                <p className="text-xs font-semibold uppercase tracking-[0.14em] text-slate-500">
+                  Event Setup
+                </p>
+                <h3 className="mt-1 text-xl font-bold text-white">
+                  Active Event
+                </h3>
+              </div>
+
+              <button
+                type="button"
+                onClick={() => setEventOverlayOpen(false)}
+                className="rounded-full border border-white/10 px-3 py-1 text-xs font-semibold text-slate-300 transition duration-200 hover:bg-white/10 hover:text-white"
+              >
+                Done
+              </button>
+            </div>
+
+            <div className="space-y-4">
+              <div>
+                <FieldLabel>
+                  Event Name
+                </FieldLabel>
+
+                <TextInput
+                  value={eventName}
+                  onChange={(e) => setEventName(e.target.value)}
+                  placeholder="Event Name"
+                  autoComplete="organization"
+                  className={`bg-slate-900 py-4 ${errorClass(
+                    'eventName'
+                  )}`}
+                />
+              </div>
+
+              <div className="grid grid-cols-1 gap-4">
+                <div>
+                  <FieldLabel>
+                    Format
+                  </FieldLabel>
+
+                  <SelectField
+                    value={format}
+                    onChange={(e) => setFormat(e.target.value)}
+                    className={`bg-slate-900 py-4 ${errorClass(
+                      'format'
+                    )}`}
+                  >
+                    <option value="">Format</option>
+                    <option value="TEF-POR">TEF-POR</option>
+                    <option value="Gym Leader Challenge">
+                      Gym Leader Challenge
+                    </option>
+                    <option value="Expanded">Expanded</option>
+                  </SelectField>
+                </div>
+
+                <div>
+                  <FieldLabel>
+                    Your Deck
+                  </FieldLabel>
+
+                  <SelectField
+                    value={selectedMatchDeck}
+                    onChange={(e) =>
+                      setSelectedMatchDeck(e.target.value)
+                    }
+                    className={`bg-slate-900 py-4 ${errorClass(
+                      'selectedMatchDeck'
+                    )}`}
+                  >
+                    <option value="">Your Deck</option>
+                    {decks.map((deck) => (
+                      <option key={deck.id} value={deck.name}>
+                        {deck.name}
+                      </option>
+                    ))}
+                  </SelectField>
+                </div>
+              </div>
+
+              <Button
+                onClick={startNewEvent}
+                tone="primary"
+                size="lg"
+                className="w-full min-h-[56px]"
+              >
+                {eventSuccess ? 'Started!' : 'Start New Event'}
+              </Button>
+            </div>
+          </NestedPanel>
+        </div>
+      )}
     </Panel>
   )
 }

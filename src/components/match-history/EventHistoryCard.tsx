@@ -1,7 +1,12 @@
 import { Deck, Match } from '@/types'
 import {
+  Button,
+  DisclosureAction,
+  DisclosureContent,
+  IconButton,
+  MenuItem,
   NestedPanel,
-  OverlayCard,
+  OverflowMenu,
   StatusBadge,
 } from '@/components/ui'
 import EventEditForm from './EventEditForm'
@@ -133,108 +138,100 @@ export default function EventHistoryCard({
                 <span>{firstMatch?.format}</span>
               </div>
 
-              <button
+              <Button
                 onClick={toggleCollapsed}
-                className="mt-3 rounded-full border border-white/10 bg-white/5 px-3 py-1 text-xs font-semibold text-slate-300 transition duration-200 hover:border-white/20 hover:bg-white/10 hover:text-white"
+                tone="secondary"
+                size="sm"
+                className="mt-3 rounded-full border border-white/10 bg-white/5 px-3 hover:border-white/20 hover:bg-white/10"
                 aria-expanded={!isCollapsed}
               >
-                {isCollapsed ? 'Show rounds' : 'Hide rounds'}
-              </button>
+                <DisclosureAction
+                  open={!isCollapsed}
+                  openLabel="Show rounds"
+                  closeLabel="Hide rounds"
+                  className="text-slate-300"
+                />
+              </Button>
             </div>
 
             <div className="relative flex-shrink-0">
-              <button
+              <IconButton
                 onClick={() =>
                   setOpenMenuId(
                     openMenuId === -firstMatch.id
                       ? null
-                      : -firstMatch.id
+                    : -firstMatch.id
                   )
                 }
-                className="flex h-9 w-9 items-center justify-center rounded-[8px] text-lg font-bold leading-none text-slate-400 transition duration-200 hover:bg-white/10 hover:text-white"
+                className="h-11 w-11 rounded-[8px] text-lg font-bold leading-none text-slate-400 hover:bg-white/10 hover:text-white"
                 aria-label="Event actions"
               >
                 ...
-              </button>
+              </IconButton>
 
-              {openMenuId === -firstMatch.id && (
-                <>
-                  <button
-                    aria-label="Close menu"
-                    onClick={() => setOpenMenuId(null)}
-                    className="fixed inset-0 z-10 cursor-default"
-                  />
+              <OverflowMenu
+                open={openMenuId === -firstMatch.id}
+                onClose={() => setOpenMenuId(null)}
+              >
+                <MenuItem
+                  onClick={() => {
+                    setEditingEvent(eventName)
+                    setOpenMenuId(null)
+                  }}
+                >
+                  Edit Event
+                </MenuItem>
 
-                  <OverlayCard className="absolute right-0 top-10 w-40">
-                    <button
-                      onClick={() => {
-                        setEditingEvent(eventName)
-                        setOpenMenuId(null)
-                      }}
-                      className="w-full text-left px-4 py-3 hover:bg-slate-700 text-sm"
-                    >
-                      Edit Event
-                    </button>
-
-                    <button
-                      onClick={() => {
-                        deleteEvent(eventName)
-                        setOpenMenuId(null)
-                      }}
-                      className="w-full text-left px-4 py-3 hover:bg-slate-700 text-red-400 text-sm"
-                    >
-                      Delete Event
-                    </button>
-                  </OverlayCard>
-                </>
-              )}
+                <MenuItem
+                  onClick={() => {
+                    deleteEvent(eventName)
+                    setOpenMenuId(null)
+                  }}
+                  tone="danger"
+                >
+                  Delete Event
+                </MenuItem>
+              </OverflowMenu>
             </div>
           </div>
         </div>
       )}
 
-      <div
-        className={`grid transition-all duration-200 ease-out ${
-          !isCollapsed || editingEvent === eventName
-            ? 'grid-rows-[1fr] opacity-100'
-            : 'grid-rows-[0fr] opacity-0'
-        }`}
+      <DisclosureContent
+        open={!isCollapsed || editingEvent === eventName}
+        innerClassName="divide-y divide-white/10"
       >
-        <div className="overflow-hidden">
-          <div className="divide-y divide-white/10">
-            {sortedMatches.map((match) => {
-              const roundResult = getRoundResult(match)
+        {sortedMatches.map((match) => {
+          const roundResult = getRoundResult(match)
 
-              if (roundResult === 'W') runningWins++
-              else if (roundResult === 'L') runningLosses++
-              else runningTies++
+          if (roundResult === 'W') runningWins++
+          else if (roundResult === 'L') runningLosses++
+          else runningTies++
 
-              return (
-                <RoundHistoryRow
-                  key={match.id}
-                  match={match}
-                  roundResult={roundResult}
-                  runningRecord={{
-                    wins: runningWins,
-                    losses: runningLosses,
-                    ties: runningTies,
-                  }}
-                  editingMatch={editingMatch}
-                  openMenuId={openMenuId}
-                  openNotesId={openNotesId}
-                  isRoundValid={isRoundValid}
-                  isFormValid={isFormValid}
-                  setEditingMatch={setEditingMatch}
-                  setOpenMenuId={setOpenMenuId}
-                  setOpenNotesId={setOpenNotesId}
-                  editMatch={editMatch}
-                  deleteMatch={deleteMatch}
-                />
-              )
-            })}
-          </div>
-        </div>
-      </div>
+          return (
+            <RoundHistoryRow
+              key={match.id}
+              match={match}
+              roundResult={roundResult}
+              runningRecord={{
+                wins: runningWins,
+                losses: runningLosses,
+                ties: runningTies,
+              }}
+              editingMatch={editingMatch}
+              openMenuId={openMenuId}
+              openNotesId={openNotesId}
+              isRoundValid={isRoundValid}
+              isFormValid={isFormValid}
+              setEditingMatch={setEditingMatch}
+              setOpenMenuId={setOpenMenuId}
+              setOpenNotesId={setOpenNotesId}
+              editMatch={editMatch}
+              deleteMatch={deleteMatch}
+            />
+          )
+        })}
+      </DisclosureContent>
     </NestedPanel>
   )
 }

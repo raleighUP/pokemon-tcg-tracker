@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from 'react'
 import {
   Button,
+  DisclosureAction,
   Panel,
   SectionHeader,
   TextareaField,
@@ -78,9 +79,12 @@ export default function AddDeckForm({
               }
               tone="ghost"
             >
-              {isExpanded
-                ? 'Collapse List'
-                : 'Expand List'}
+              <DisclosureAction
+                open={isExpanded}
+                openLabel="Expand List"
+                closeLabel="Collapse List"
+                className="justify-center text-white"
+              />
             </Button>
 
             <Button

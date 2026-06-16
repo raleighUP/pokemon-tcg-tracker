@@ -1,4 +1,12 @@
 import { Match } from '@/types'
+import {
+  Button,
+  FieldLabel,
+  NumberInput,
+  TextareaField,
+  TextInput,
+  ValidationMessage,
+} from '@/components/ui'
 
 type Props = {
   editingMatch: Match
@@ -18,13 +26,11 @@ export default function RoundEditForm({
   return (
     <div className="space-y-4">
       <div>
-        <label className="text-sm text-slate-400 block mb-1">
+        <FieldLabel className="text-slate-400">
           Round
-        </label>
+        </FieldLabel>
 
-        <input
-          type="number"
-          inputMode="numeric"
+        <NumberInput
           min="1"
           value={editingMatch.round ?? ''}
           onChange={(e) => {
@@ -36,27 +42,23 @@ export default function RoundEditForm({
                   : Number(e.target.value),
             })
           }}
-          className={`w-full bg-slate-800 border rounded-xl px-4 py-3 [appearance:textfield] [&::-webkit-outer-spin-button]:appearance-none [&::-webkit-inner-spin-button]:appearance-none ${
-            !isRoundValid
-              ? 'border-red-500 focus:outline-none focus:ring-2 focus:ring-red-500'
-              : 'border-slate-700'
-          }`}
+          invalid={!isRoundValid}
+          className="[appearance:textfield] [&::-webkit-inner-spin-button]:appearance-none [&::-webkit-outer-spin-button]:appearance-none"
         />
 
         {!isRoundValid && (
-          <p className="text-red-400 text-sm mt-1">
+          <ValidationMessage>
             Enter a round number before saving.
-          </p>
+          </ValidationMessage>
         )}
       </div>
 
       <div>
-        <label className="text-sm text-slate-400 block mb-1">
+        <FieldLabel className="text-slate-400">
           Opponent Deck
-        </label>
+        </FieldLabel>
 
-        <input
-          type="text"
+        <TextInput
           value={editingMatch.opponentDeck}
           onChange={(e) =>
             setEditingMatch({
@@ -64,16 +66,15 @@ export default function RoundEditForm({
               opponentDeck: e.target.value,
             })
           }
-          className="w-full bg-slate-800 border border-slate-700 rounded-xl px-4 py-3"
         />
       </div>
 
       <div>
-        <label className="text-sm text-slate-400 block mb-1">
+        <FieldLabel className="text-slate-400">
           Notes
-        </label>
+        </FieldLabel>
 
-        <textarea
+        <TextareaField
           value={editingMatch.notes || ''}
           onChange={(e) =>
             setEditingMatch({
@@ -81,18 +82,18 @@ export default function RoundEditForm({
               notes: e.target.value,
             })
           }
-          className="w-full bg-slate-800 border border-slate-700 rounded-xl px-4 py-3 min-h-[100px]"
+          className="min-h-[100px]"
         />
       </div>
 
       <div>
-        <label className="text-sm text-slate-400 block mb-2">
+        <FieldLabel className="text-slate-400">
           Game Results
-        </label>
+        </FieldLabel>
 
         <div className="flex gap-2 flex-wrap">
           {editingMatch.games.map((game, index) => (
-            <button
+            <Button
               key={index}
               onClick={() => {
                 const updatedGames = [...editingMatch.games]
@@ -109,7 +110,8 @@ export default function RoundEditForm({
                   games: updatedGames,
                 })
               }}
-              className={`px-4 py-2 rounded-xl font-semibold ${
+              size="sm"
+              className={`${
                 game === 'W'
                   ? 'bg-green-500'
                   : game === 'L'
@@ -118,7 +120,7 @@ export default function RoundEditForm({
               }`}
             >
               Game {index + 1}: {game}
-            </button>
+            </Button>
           ))}
 
           {editingMatch.games.length === 2 &&
@@ -126,17 +128,18 @@ export default function RoundEditForm({
               editingMatch.games[0] === editingMatch.games[1] &&
               editingMatch.games[0] !== 'T'
             ) && (
-              <button
+              <Button
                 onClick={() => {
                   setEditingMatch({
                     ...editingMatch,
                     games: [...editingMatch.games, 'W'],
                   })
                 }}
-                className="px-4 py-2 rounded-xl font-semibold bg-slate-700 hover:bg-slate-600 transition"
+                tone="ghost"
+                size="sm"
               >
                 + Game 3
-              </button>
+              </Button>
             )}
         </div>
 
@@ -152,7 +155,7 @@ export default function RoundEditForm({
       </div>
 
       <div className="flex gap-2 pt-2">
-        <button
+        <Button
           onClick={() => {
             if (!isRoundValid) {
               return
@@ -162,19 +165,21 @@ export default function RoundEditForm({
             setEditingMatch(null)
           }}
           disabled={!isFormValid}
-          className="flex-1 bg-green-500 hover:bg-green-600 disabled:bg-slate-700 disabled:text-slate-500 py-3 rounded-xl font-semibold transition"
+          tone="success"
+          className="flex-1"
         >
           Save Changes
-        </button>
+        </Button>
 
-        <button
+        <Button
           onClick={() => {
             setEditingMatch(null)
           }}
-          className="flex-1 bg-slate-700 hover:bg-slate-600 py-3 rounded-xl font-semibold transition"
+          tone="secondary"
+          className="flex-1"
         >
           Cancel
-        </button>
+        </Button>
       </div>
     </div>
   )

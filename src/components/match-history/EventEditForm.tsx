@@ -1,4 +1,10 @@
 import { Deck } from '@/types'
+import {
+  Button,
+  NestedPanel,
+  SelectField,
+  TextInput,
+} from '@/components/ui'
 
 type Props = {
   eventName: string
@@ -25,37 +31,32 @@ export default function EventEditForm({
   onCancel,
 }: Props) {
   return (
-    <div className="bg-slate-900 rounded-xl p-4 mb-4 border border-slate-700 space-y-3">
-      <input
-        type="text"
+    <NestedPanel className="mb-4 space-y-3 border-slate-700 bg-slate-900">
+      <TextInput
         defaultValue={eventName}
         id={`event-name-${eventName}`}
-        className="w-full bg-slate-800 border border-slate-700 rounded-xl px-4 py-3"
         placeholder="Event Name"
       />
 
-      <input
-        type="text"
+      <TextInput
         defaultValue={initialFormat}
         id={`event-format-${eventName}`}
-        className="w-full bg-slate-800 border border-slate-700 rounded-xl px-4 py-3"
         placeholder="Format"
       />
 
-      <select
+      <SelectField
         defaultValue={initialDeck}
         id={`event-deck-${eventName}`}
-        className="w-full bg-slate-800 border border-slate-700 rounded-xl px-4 py-3"
       >
         {decks.map((deck) => (
           <option key={deck.id} value={deck.name}>
             {deck.name}
           </option>
         ))}
-      </select>
+      </SelectField>
 
       <div className="flex gap-2">
-        <button
+        <Button
           onClick={() => {
             const updatedEventName = (
               document.getElementById(
@@ -81,18 +82,20 @@ export default function EventEditForm({
               deck: updatedDeck,
             })
           }}
-          className="flex-1 bg-green-500 hover:bg-green-600 py-3 rounded-xl font-semibold transition"
+          tone="success"
+          className="flex-1"
         >
           Save Event
-        </button>
+        </Button>
 
-        <button
+        <Button
           onClick={onCancel}
-          className="flex-1 bg-slate-700 hover:bg-slate-600 py-3 rounded-xl font-semibold transition"
+          tone="secondary"
+          className="flex-1"
         >
           Cancel
-        </button>
+        </Button>
       </div>
-    </div>
+    </NestedPanel>
   )
 }

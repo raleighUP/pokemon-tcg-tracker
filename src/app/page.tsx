@@ -9,7 +9,10 @@ import CompareDecks from '@/components/CompareDecks'
 import MatchLogger from '@/components/MatchLogger'
 import MatchHistory from '@/components/MatchHistory'
 import DeckAdvisor from '@/components/DeckAdvisor'
-import { AppShell, IconButton } from '@/components/ui'
+import BottomNavigation, {
+  AppTab,
+} from '@/components/BottomNavigation'
+import { AppShell } from '@/components/ui'
 import { detectDeckArchetype } from '@/utils/archetypes'
 
 import { Deck, Match, CardEntry } from '@/types'
@@ -32,9 +35,7 @@ function readStoredArray<T>(key: string): T[] {
 }
 
 export default function Home() {
-const [activeTab, setActiveTab] = useState<
-  'decks' | 'compare' | 'matches' | 'history' | 'advisor'
->('decks')
+const [activeTab, setActiveTab] = useState<AppTab>('decks')
   const [deckName, setDeckName] = useState('')
   const [decklist, setDecklist] = useState('')
 
@@ -457,82 +458,10 @@ setGameStarts([])
 setNotes('')
 }
   const bottomNavigation = (
-    <div className="fixed bottom-0 left-0 right-0 bg-slate-900 border-t border-slate-800 z-50">
-      <div className="max-w-6xl mx-auto grid grid-cols-5 h-20">
-        <IconButton
-          onClick={() => setActiveTab('decks')}
-          className={`transition ${
-            activeTab === 'decks'
-              ? 'opacity-100'
-              : 'opacity-50 hover:opacity-80'
-          }`}
-        >
-          <img
-            src="/icons/deck.svg"
-            alt="Decks"
-            className="h-14 w-14"
-          />
-        </IconButton>
-
-        <IconButton
-          onClick={() => setActiveTab('compare')}
-          className={`transition ${
-            activeTab === 'compare'
-              ? 'opacity-100'
-              : 'opacity-50 hover:opacity-80'
-          }`}
-        >
-          <img
-            src="/icons/compare.svg"
-            alt="Compare"
-            className="h-14 w-14"
-          />
-        </IconButton>
-
-        <IconButton
-          onClick={() => setActiveTab('matches')}
-          className={`transition ${
-            activeTab === 'matches'
-              ? 'opacity-100'
-              : 'opacity-50 hover:opacity-80'
-          }`}
-        >
-          <img
-            src="/icons/log.svg"
-            alt="Log"
-            className="h-14 w-14"
-          />
-        </IconButton>
-
-        <IconButton
-          onClick={() => setActiveTab('history')}
-          className={`transition ${
-            activeTab === 'history'
-              ? 'opacity-100'
-              : 'opacity-50 hover:opacity-80'
-          }`}
-        >
-          <img
-            src="/icons/history.svg"
-            alt="History"
-            className="h-14 w-14"
-          />
-        </IconButton>
-
-        <IconButton
-          onClick={() => setActiveTab('advisor')}
-          className={`transition ${
-            activeTab === 'advisor'
-              ? 'opacity-100'
-              : 'opacity-50 hover:opacity-80'
-          }`}
-        >
-          <span className="text-xs font-bold text-white">
-            Advisor
-          </span>
-        </IconButton>
-      </div>
-    </div>
+    <BottomNavigation
+      activeTab={activeTab}
+      setActiveTab={setActiveTab}
+    />
   )
 
   return (
@@ -589,6 +518,7 @@ setNotes('')
 
   matchType={matchType}
   setMatchType={setMatchType}
+  currentRound={currentRound}
 
 games={games}
 gameStarts={gameStarts}

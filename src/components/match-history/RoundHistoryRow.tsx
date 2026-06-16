@@ -1,6 +1,9 @@
 import { useState } from 'react'
 import { Match } from '@/types'
 import {
+  DisclosureAction,
+  DisclosureContent,
+  IconButton,
   NestedPanel,
   ResultPill,
   StatusBadge,
@@ -143,9 +146,13 @@ export default function RoundHistoryRow({
                   onClick={() =>
                     setOpenNotesId(notesOpen ? null : match.id)
                   }
-                  className="mt-1 text-xs font-semibold text-blue-300 transition duration-200 hover:text-blue-200"
+                  className="mt-1 transition duration-200 hover:text-blue-200"
                 >
-                  {notesOpen ? 'Hide notes' : 'View notes'}
+                  <DisclosureAction
+                    open={notesOpen}
+                    openLabel="View notes"
+                    closeLabel="Hide notes"
+                  />
                 </button>
               )}
 
@@ -171,33 +178,25 @@ export default function RoundHistoryRow({
                 </p>
               </div>
 
-              <button
+              <IconButton
                 onClick={() =>
                   setOpenMenuId(actionsOpen ? null : match.id)
                 }
-                className="flex h-9 w-9 items-center justify-center rounded-[8px] text-lg font-bold leading-none text-slate-400 transition duration-200 hover:bg-white/10 hover:text-white"
+                className="h-11 w-11 rounded-[8px] text-lg font-bold leading-none text-slate-400 hover:bg-white/10 hover:text-white"
                 aria-label="Round actions"
               >
                 ...
-              </button>
+              </IconButton>
             </div>
           </div>
         </div>
       </div>
 
-      <div
-        className={`grid transition-all duration-200 ease-out ${
-          notesOpen && hasNotes
-            ? 'grid-rows-[1fr] opacity-100'
-            : 'grid-rows-[0fr] opacity-0'
-        }`}
-      >
-        <div className="overflow-hidden">
-          <NestedPanel className="mx-4 mb-4 mt-1 border-slate-700/80 bg-slate-950/80 p-3 text-sm text-slate-300">
-            <div className="whitespace-pre-wrap">{match.notes}</div>
-          </NestedPanel>
-        </div>
-      </div>
+      <DisclosureContent open={notesOpen && hasNotes}>
+        <NestedPanel className="mx-4 mb-4 mt-1 border-slate-700/80 bg-slate-950/80 p-3 text-sm text-slate-300">
+          <div className="whitespace-pre-wrap">{match.notes}</div>
+        </NestedPanel>
+      </DisclosureContent>
     </div>
   )
 }
