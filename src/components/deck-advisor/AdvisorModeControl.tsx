@@ -1,4 +1,4 @@
-import { SectionHeader, SegmentedControl } from '@/components/ui'
+import { SegmentedControl } from '@/components/ui'
 import { CandidateSource } from './types'
 
 type Props = {
@@ -12,8 +12,6 @@ export default function AdvisorModeControl({
 }: Props) {
   return (
     <div className="space-y-3">
-      <SectionHeader title="Advisor Mode" level={3} />
-
       <SegmentedControl
         value={candidateSource}
         onChange={setCandidateSource}

@@ -4,7 +4,6 @@ import {
   KeyValueList,
   NestedPanel,
   NumberInput,
-  SectionHeader,
   SelectField,
 } from '@/components/ui'
 
@@ -28,8 +27,6 @@ export default function AdvisorEventSetup({
   return (
     <>
       <div className="space-y-4">
-        <SectionHeader title="Event Setup" level={3} />
-
         <div>
           <FieldLabel>
             Event Type
@@ -73,11 +70,9 @@ export default function AdvisorEventSetup({
 
       {eventSize > 0 && (
         <NestedPanel>
-          <SectionHeader
-            title="Tournament Structure"
-            level={3}
-            className="mb-3"
-          />
+          <p className="mb-3 text-sm font-semibold text-white">
+            Tournament Structure
+          </p>
 
           {eventType === 'challenge' && (
             <KeyValueList

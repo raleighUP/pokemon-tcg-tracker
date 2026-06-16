@@ -61,7 +61,7 @@ export function AppShell({
   return (
     <main className="min-h-dvh bg-slate-950 px-4 pt-[calc(1.25rem+env(safe-area-inset-top))] text-white sm:px-6 sm:pt-[calc(1.5rem+env(safe-area-inset-top))]">
       <div className="mx-auto max-w-6xl">
-        <div className="pb-[calc(6.75rem+env(safe-area-inset-bottom))] transition-opacity duration-200 ease-out">
+        <div className="pb-[calc(6.25rem+env(safe-area-inset-bottom))] transition-opacity duration-200 ease-out">
           {children}
         </div>
       </div>

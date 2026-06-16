@@ -209,7 +209,7 @@ export default function DeckAdvisor({ decks }: Props) {
 
   const [eventInfoOpen, setEventInfoOpen] = useState(true)
   const [metaEditorOpen, setMetaEditorOpen] = useState(true)
-  const [comfortOpen, setComfortOpen] = useState(false)
+  const [comfortOpen, setComfortOpen] = useState(true)
 
   const [eventType, setEventType] =
     useState<EventType>(
@@ -635,12 +635,10 @@ export default function DeckAdvisor({ decks }: Props) {
     <Panel className="space-y-6">
       <SectionHeader
         title="Deck Advisor"
-        description="Pick the best deck for the expected field."
       />
 
       <DisclosurePanel
         title="Event Info Input"
-        description="Set event type and expected attendance."
         open={eventInfoOpen}
         onToggle={() => setEventInfoOpen((current) => !current)}
         contentClassName="border-t border-white/10 p-4"
@@ -657,7 +655,6 @@ export default function DeckAdvisor({ decks }: Props) {
 
       <DisclosurePanel
         title="Meta Selection"
-        description="Edit expected archetypes and field share."
         open={metaEditorOpen}
         onToggle={() => setMetaEditorOpen((current) => !current)}
         contentClassName="border-t border-white/10 p-4"
@@ -680,7 +677,6 @@ export default function DeckAdvisor({ decks }: Props) {
 
       <DisclosurePanel
         title="Candidate Decks"
-        description="Choose owned decks or top meta, then tune comfort."
         open={comfortOpen}
         onToggle={() => setComfortOpen((current) => !current)}
         contentClassName="border-t border-white/10 p-4"

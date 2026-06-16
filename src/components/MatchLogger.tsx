@@ -1,5 +1,6 @@
-import { useState } from 'react'
+import { useMemo, useState } from 'react'
 import { Deck } from '@/types'
+import { getArchetypeOptions } from '@/utils/archetype-options'
 import {
   Button,
   DisclosurePanel,
@@ -84,7 +85,19 @@ export default function MatchLogger({
   invalidMatchFields = [],
 }: Props) {
   const [eventOverlayOpen, setEventOverlayOpen] = useState(false)
-  const [notesOpen, setNotesOpen] = useState(false)
+  const [notesOpen, setNotesOpen] = useState(true)
+
+  const opponentOptions = useMemo(() => {
+    const options = new Set<string>(getArchetypeOptions())
+
+    decks.forEach((deck) => {
+      if (deck.archetype) options.add(deck.archetype)
+      if (deck.variant) options.add(deck.variant)
+      if (deck.name) options.add(deck.name)
+    })
+
+    return [...options].sort((a, b) => a.localeCompare(b))
+  }, [decks])
 
   const visibleGameCount =
     matchType === 'BO1' ? 1 : Math.min(games.length + 1, 3)
@@ -100,6 +113,11 @@ export default function MatchLogger({
     invalidMatchFields.includes('selectedMatchDeck')
 
   const gamesHaveError = invalidMatchFields.includes('games')
+
+  const validationMessage =
+    invalidMatchFields.length > 0
+      ? 'Add the missing event, opponent, and game details before saving.'
+      : ''
 
   const errorClass = (fieldName: string) =>
     invalidMatchFields.includes(fieldName)
@@ -199,10 +217,17 @@ export default function MatchLogger({
           aria-label="Opponent deck"
           placeholder="Opponent Deck"
           autoComplete="off"
+          list="opponent-archetype-options"
           className={`min-h-[56px] bg-slate-900 py-4 ${errorClass(
             'opponentDeck'
           )}`}
         />
+
+        <datalist id="opponent-archetype-options">
+          {opponentOptions.map((option) => (
+            <option key={option} value={option} />
+          ))}
+        </datalist>
 
         <div className="grid grid-cols-2 gap-2 rounded-2xl bg-slate-900 p-1">
           <button
@@ -323,10 +348,10 @@ export default function MatchLogger({
       </NestedPanel>
 
       <DisclosurePanel
-        open={notesOpen || Boolean(notes)}
+        open={notesOpen}
         actionOpen={notesOpen}
         onToggle={() => setNotesOpen((current) => !current)}
-        actionOpenLabel={notes ? 'Edit' : 'Add'}
+        actionOpenLabel="Show"
         actionCloseLabel="Hide"
         className="border-slate-800"
         buttonClassName="px-4 py-3"
@@ -367,6 +392,21 @@ export default function MatchLogger({
           {saveSuccess ? 'Saved!' : 'Save Match'}
         </Button>
       </div>
+
+      {(saveSuccess || clearSuccess || validationMessage) && (
+        <NestedPanel
+          className={`rounded-2xl px-4 py-3 text-sm ${
+            validationMessage
+              ? 'border-red-500/60 bg-red-950/30 text-red-100'
+              : 'border-green-500/40 bg-green-950/20 text-green-100'
+          }`}
+        >
+          {validationMessage ||
+            (saveSuccess
+              ? 'Match saved. Ready for the next opponent.'
+              : 'Current match fields cleared.')}
+        </NestedPanel>
+      )}
 
       {eventOverlayOpen && (
         <div className="fixed inset-0 z-[60] flex items-end bg-black/60 px-4 pb-[calc(1rem+env(safe-area-inset-bottom))] pt-[calc(5rem+env(safe-area-inset-top))] backdrop-blur-sm">

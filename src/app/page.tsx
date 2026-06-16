@@ -481,15 +481,6 @@ const editEvent = (
 }
 
 const saveMatch = () => {
-  if (
-    !eventName ||
-    !format ||
-    !selectedMatchDeck ||
-    !opponentDeck ||
-    games.length === 0
-  ) {
-    return
-  }
   const missingFields: string[] = []
 
 if (!eventName.trim()) missingFields.push('eventName')
@@ -503,7 +494,7 @@ if (missingFields.length > 0) {
 
   setTimeout(() => {
     setInvalidMatchFields([])
-  }, 900)
+  }, 1800)
 
   return
 }

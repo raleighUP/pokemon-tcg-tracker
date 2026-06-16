@@ -5,7 +5,6 @@ import {
   MatchupBadge,
   NestedPanel,
   RangeField,
-  SectionHeader,
 } from '@/components/ui'
 import {
   AdvisorMetaDeckInput,
@@ -30,8 +29,6 @@ export default function OwnedDeckComfortList({
 }: Props) {
   return (
     <div className="space-y-3">
-      <SectionHeader title="Owned Decks" level={3} />
-
       {ownedCandidateDecks.length === 0 ? (
         <EmptyState>
           Save a deck first to get owned-deck recommendations.

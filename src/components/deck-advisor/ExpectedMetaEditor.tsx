@@ -3,12 +3,13 @@ import {
   MetaBreakdownDeck,
   MetaInputMode,
 } from './types'
+import { useState } from 'react'
 import {
   Button,
+  DisclosurePanel,
   KeyValueList,
   NestedPanel,
   NumberInput,
-  SectionHeader,
   SegmentedControl,
   SelectField,
 } from '@/components/ui'
@@ -43,10 +44,10 @@ export default function ExpectedMetaEditor({
   maxMetaTotal,
   metaBreakdown,
 }: Props) {
+  const [sourceOpen, setSourceOpen] = useState(false)
+
   return (
     <div className="space-y-3">
-      <SectionHeader title="Expected Meta" level={3} />
-
       <Button
         onClick={() => {
           setMetaInputMode('percent')
@@ -58,7 +59,17 @@ export default function ExpectedMetaEditor({
         Use Suggested Meta
       </Button>
 
-      <DataSourcePanel metaSource={suggestedMetaSourceLabel} />
+      <DisclosurePanel
+        title="Data Sources"
+        open={sourceOpen}
+        onToggle={() => setSourceOpen((current) => !current)}
+        actionOpenLabel="Show"
+        actionCloseLabel="Hide"
+        buttonClassName="px-3 py-3"
+        contentClassName="border-t border-white/10 p-3"
+      >
+        <DataSourcePanel metaSource={suggestedMetaSourceLabel} />
+      </DisclosurePanel>
 
       <SegmentedControl
         value={metaInputMode}
@@ -71,7 +82,10 @@ export default function ExpectedMetaEditor({
       />
 
       {metaDecks.map((deck, index) => (
-        <div key={index} className="space-y-3">
+        <div
+          key={index}
+          className="grid grid-cols-[minmax(0,1fr)_5.5rem_3.75rem] gap-2"
+        >
           <SelectField
             value={deck.name}
             onChange={(e) => {
@@ -91,75 +105,72 @@ export default function ExpectedMetaEditor({
             ))}
           </SelectField>
 
-          <div className="grid grid-cols-[1fr_auto] gap-3">
-            <NumberInput
-              value={deck.share || ''}
-              onChange={(e) => {
-                const rawValue = e.target.value
-                const nextShare =
-                  rawValue === '' ? 0 : Number(rawValue)
+          <NumberInput
+            value={deck.share || ''}
+            onChange={(e) => {
+              const rawValue = e.target.value
+              const nextShare =
+                rawValue === '' ? 0 : Number(rawValue)
 
-                const otherDecksTotal = metaDecks.reduce(
-                  (total, metaDeck, metaIndex) => {
-                    if (metaIndex === index) return total
+              const otherDecksTotal = metaDecks.reduce(
+                (total, metaDeck, metaIndex) => {
+                  if (metaIndex === index) return total
 
-                    const share = Number(metaDeck.share)
+                  const share = Number(metaDeck.share)
 
-                    if (!Number.isFinite(share)) {
-                      return total
-                    }
+                  if (!Number.isFinite(share)) {
+                    return total
+                  }
 
-                    return total + share
-                  },
+                  return total + share
+                },
+                0
+              )
+
+              const maxAllowed =
+                metaInputMode === 'players' && eventSize > 0
+                  ? Math.max(0, eventSize - otherDecksTotal)
+                  : Math.max(0, 100 - otherDecksTotal)
+
+              const cappedShare = Math.min(
+                Math.max(
+                  Number.isFinite(nextShare) ? nextShare : 0,
                   0
-                )
+                ),
+                maxAllowed
+              )
 
-                const maxAllowed =
-                  metaInputMode === 'players' && eventSize > 0
-                    ? Math.max(0, eventSize - otherDecksTotal)
-                    : Math.max(0, 100 - otherDecksTotal)
+              const updated = [...metaDecks]
+              updated[index].share = cappedShare
+              setMetaDecks(updated)
+            }}
+            placeholder={metaInputMode === 'percent' ? '%' : 'Qty'}
+            aria-label={`Meta deck ${index + 1} ${
+              metaInputMode === 'percent'
+                ? 'percentage'
+                : 'players'
+            }`}
+            className="bg-slate-950 px-3"
+          />
 
-                const cappedShare = Math.min(
-                  Math.max(
-                    Number.isFinite(nextShare) ? nextShare : 0,
-                    0
-                  ),
-                  maxAllowed
-                )
+          <Button
+            onClick={() => {
+              const updated = metaDecks.filter(
+                (_, metaIndex) => metaIndex !== index
+              )
 
-                const updated = [...metaDecks]
-                updated[index].share = cappedShare
-                setMetaDecks(updated)
-              }}
-              placeholder={
-                metaInputMode === 'percent' ? 'Meta %' : 'Players'
-              }
-              aria-label={`Meta deck ${index + 1} ${
-                metaInputMode === 'percent'
-                  ? 'percentage'
-                  : 'players'
-              }`}
-              className="bg-slate-950"
-            />
-
-            <Button
-              onClick={() => {
-                const updated = metaDecks.filter(
-                  (_, metaIndex) => metaIndex !== index
-                )
-
-                setMetaDecks(
-                  updated.length > 0
-                    ? updated
-                    : [{ name: '', share: 0 }]
-                )
-              }}
-              tone="danger"
-              aria-label={`Clear meta deck ${index + 1}`}
-            >
-              Clear
-            </Button>
-          </div>
+              setMetaDecks(
+                updated.length > 0
+                  ? updated
+                  : [{ name: '', share: 0 }]
+              )
+            }}
+            tone="danger"
+            aria-label={`Clear meta deck ${index + 1}`}
+            className="px-2"
+          >
+            Clear
+          </Button>
         </div>
       ))}
 

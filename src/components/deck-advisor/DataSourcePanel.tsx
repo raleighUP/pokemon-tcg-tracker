@@ -7,14 +7,15 @@ type Props = {
 export default function DataSourcePanel({ metaSource }: Props) {
   return (
     <SourcePanel
+      className="border-slate-800/80 bg-slate-900/70"
       sources={[
         {
-          label: 'Meta Source',
+          label: 'Meta',
           value: metaSource,
         },
         {
-          label: 'Matchup Source',
-          value: '20 large online Limitless tournaments',
+          label: 'Matchups',
+          value: '20 large Limitless events',
         },
       ]}
     />
