@@ -113,7 +113,7 @@ export function SwipeActionRow({
     >
       <div
         aria-hidden={!open}
-        className="absolute inset-y-0 right-0 flex items-stretch justify-end"
+        className="absolute inset-y-0 right-0 flex items-stretch justify-end overflow-hidden rounded-r-2xl"
         style={{ width: actionWidth }}
       >
         {actions.map((action) => (
@@ -139,9 +139,11 @@ export function SwipeActionRow({
 
       <div
         className={cn(
-          'motion-surface relative will-change-transform',
-          contentClassName
+          'swipe-action-row-content motion-surface relative will-change-transform',
+          contentClassName,
+          open && actions.length > 0 && 'rounded-r-none'
         )}
+        data-open={open ? 'true' : 'false'}
         style={{
           transform: `translateX(${translateX}px)`,
         }}

@@ -3,11 +3,12 @@ import type {
   CSSProperties,
   HTMLAttributes,
   InputHTMLAttributes,
+  ReactElement,
   ReactNode,
   SelectHTMLAttributes,
   TextareaHTMLAttributes,
 } from 'react'
-import { forwardRef } from 'react'
+import { Children, cloneElement, forwardRef, isValidElement } from 'react'
 export { ContextActionSheet } from './ContextActionSheet'
 export { SwipeActionRow } from './SwipeActionRow'
 
@@ -693,6 +694,23 @@ export const SelectField = forwardRef<
   { className, invalid = false, children, style, ...props },
   ref
 ) {
+  const normalizedChildren = Children.map(children, (child) => {
+    if (!isValidElement(child)) return child
+
+    const option = child as ReactElement<{
+      value?: string
+      disabled?: boolean
+    }>
+
+    if (option.type === 'option' && option.props.value === '') {
+      return cloneElement(option, {
+        disabled: true,
+      })
+    }
+
+    return child
+  })
+
   return (
     <select
       ref={ref}
@@ -713,7 +731,7 @@ export const SelectField = forwardRef<
       )}
       {...props}
     >
-      {children}
+      {normalizedChildren}
     </select>
   )
 })

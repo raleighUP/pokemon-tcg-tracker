@@ -10,6 +10,7 @@ import {
 
 type Props = {
   eventName: string
+  initialEventType?: string
   initialFormat?: string
   initialDeck?: string
   decks: Deck[]
@@ -17,6 +18,7 @@ type Props = {
     oldEventName: string,
     updatedData: {
       eventName: string
+      eventType: string
       format: string
       deck: string
     }
@@ -27,11 +29,22 @@ type Props = {
 export default function EventEditForm({
   eventName,
   initialFormat,
+  initialEventType,
   initialDeck,
   decks,
   onSave,
   onCancel,
 }: Props) {
+  const eventTypes = [
+    'Local',
+    'Challenge',
+    'League Cup',
+    'Online Event',
+    'Regional',
+    'Special Event',
+    'Other',
+  ]
+
   return (
     <NestedPanel className="m-4 space-y-4 rounded-2xl border-white/10 bg-white/[0.035]">
       <div className="flex items-center justify-between gap-3">
@@ -54,6 +67,22 @@ export default function EventEditForm({
           placeholder="Event Name"
           enterKeyHint="next"
         />
+      </div>
+
+      <div>
+        <FieldLabel>Event Type</FieldLabel>
+        <SelectField
+          defaultValue={initialEventType}
+          id={`event-type-${eventName}`}
+          aria-label="Event type"
+        >
+          <option value="">Event Type</option>
+          {eventTypes.map((eventType) => (
+            <option key={eventType} value={eventType}>
+              {eventType}
+            </option>
+          ))}
+        </SelectField>
       </div>
 
       <div>
@@ -97,6 +126,12 @@ export default function EventEditForm({
               ) as HTMLInputElement
             ).value
 
+            const updatedEventType = (
+              document.getElementById(
+                `event-type-${eventName}`
+              ) as HTMLSelectElement
+            ).value
+
             const updatedDeck = (
               document.getElementById(
                 `event-deck-${eventName}`
@@ -105,6 +140,7 @@ export default function EventEditForm({
 
             onSave(eventName, {
               eventName: updatedEventName,
+              eventType: updatedEventType,
               format: updatedFormat,
               deck: updatedDeck,
             })

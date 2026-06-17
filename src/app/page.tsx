@@ -5,7 +5,6 @@ import { useEffect, useState } from 'react'
 import AddDeckForm from '@/components/AddDeckForm'
 import SavedDecks from '@/components/SavedDecks'
 import CompareDecks from '@/components/CompareDecks'
-import MatchLogger from '@/components/MatchLogger'
 import MatchHistory from '@/components/MatchHistory'
 import DeckAdvisor from '@/components/DeckAdvisor'
 import BottomNavigation, {
@@ -14,7 +13,7 @@ import BottomNavigation, {
 import { AppShell } from '@/components/ui'
 import { detectDeckArchetype } from '@/utils/archetypes'
 
-import { Deck, Match, CardEntry } from '@/types'
+import { Deck, EventRecord, Match, CardEntry } from '@/types'
 
 function isRecord(value: unknown): value is Record<string, unknown> {
   return typeof value === 'object' && value !== null
@@ -74,9 +73,20 @@ function normalizeMatch(value: unknown): Match | null {
       )
     : []
 
+  const diceRollWins = Array.isArray(value.diceRollWins)
+    ? value.diceRollWins.filter(
+        (diceRollWin): diceRollWin is boolean =>
+          typeof diceRollWin === 'boolean'
+      )
+    : undefined
+
   return {
     id: value.id,
     eventName: value.eventName,
+    eventType:
+      typeof value.eventType === 'string'
+        ? value.eventType
+        : undefined,
     round: value.round,
     format: value.format,
     deck: value.deck,
@@ -84,6 +94,7 @@ function normalizeMatch(value: unknown): Match | null {
     matchType: value.matchType,
     games,
     gameStarts,
+    diceRollWins,
     finalResult:
       typeof value.finalResult === 'string'
         ? value.finalResult
@@ -91,6 +102,44 @@ function normalizeMatch(value: unknown): Match | null {
     notes:
       typeof value.notes === 'string'
         ? value.notes
+        : undefined,
+  }
+}
+
+function normalizeEvent(value: unknown): EventRecord | null {
+  if (!isRecord(value)) return null
+
+  if (
+    typeof value.id !== 'number' ||
+    typeof value.eventName !== 'string' ||
+    typeof value.eventType !== 'string' ||
+    typeof value.format !== 'string' ||
+    typeof value.deck !== 'string'
+  ) {
+    return null
+  }
+
+  return {
+    id: value.id,
+    eventName: value.eventName,
+    eventType: value.eventType,
+    format: value.format,
+    deck: value.deck,
+    playerCount:
+      typeof value.playerCount === 'number'
+        ? value.playerCount
+        : undefined,
+    finalPlacement:
+      typeof value.finalPlacement === 'string'
+        ? value.finalPlacement
+        : undefined,
+    championshipPoints:
+      typeof value.championshipPoints === 'string'
+        ? value.championshipPoints
+        : undefined,
+    prizing:
+      typeof value.prizing === 'string'
+        ? value.prizing
         : undefined,
   }
 }
@@ -133,8 +182,9 @@ const [activeTab, setActiveTab] = useState<AppTab>('decks')
   const [matches, setMatches] = useState<Match[]>(() =>
   readStoredArray<Match>('pokemon-matches', normalizeMatch)
 )
-
-  const [invalidMatchFields, setInvalidMatchFields] = useState<string[]>([])
+  const [events, setEvents] = useState<EventRecord[]>(() =>
+  readStoredArray<EventRecord>('pokemon-events', normalizeEvent)
+)
 
   const [editingMatch, setEditingMatch] =
   useState<Match | null>(null)
@@ -142,38 +192,6 @@ const [activeTab, setActiveTab] = useState<AppTab>('decks')
   const [editingEvent, setEditingEvent] =
   useState<string | null>(null)
 
-const [eventName, setEventName] = useState('')
-
-const [selectedMatchDeck, setSelectedMatchDeck] = useState('')
-
-const [opponentDeck, setOpponentDeck] = useState('')
-
-const [format, setFormat] = useState('')
-
-const [matchType, setMatchType] =
-  useState<'BO1' | 'BO3'>('BO3')
-
-const [games, setGames] = useState<string[]>([])
-
-const [gameStarts, setGameStarts] = useState<
-  ('1st' | '2nd')[]
->([])
-
-const [currentRound, setCurrentRound] = useState(1)
-
-const [saveSuccess, setSaveSuccess] =
-  useState(false)
-
-const [roundSuccess, setRoundSuccess] =
-  useState(false)
-
-const [eventSuccess, setEventSuccess] =
-  useState(false)
-
-  const [clearSuccess, setClearSuccess] =
-  useState(false)
-
-const [notes, setNotes] = useState('')
   const [compareDeck1, setCompareDeck1] = useState('')
   const [compareDeck2, setCompareDeck2] = useState('')
 
@@ -257,6 +275,12 @@ useEffect(() => {
     JSON.stringify(matches)
   )
 }, [matches])
+useEffect(() => {
+  localStorage.setItem(
+    'pokemon-events',
+    JSON.stringify(events)
+  )
+}, [events])
 
   const addDeck = () => {
   if (!deckName.trim() || !decklist.trim()) return
@@ -327,117 +351,6 @@ const deleteDeck = (id: number) => {
   }
 }
 
-const toggleGameResult = (result: string) => {
-  // BO1 = always replace current result
-  if (matchType === 'BO1') {
-    setGames([result])
-    return
-  }
-
-  // BO3 behavior
-  if (games.length >= 3) return
-
-  setGames([...games, result])
-}
-const clearGames = () => {
-  setGames([])
-  setGameStarts([])
-}
-
-const toggleGameStart = (gameIndex: number) => {
-  setGameStarts((prev) => {
-    const updated = [...prev]
-
-    updated[gameIndex] =
-      updated[gameIndex] === '2nd'
-        ? '1st'
-        : '2nd'
-
-    return updated
-  })
-}
-const clearCurrentMatch = () => {
-  setInvalidMatchFields([])
-  setOpponentDeck('')
-  setGames([])
-  setGameStarts([])
-
-  setClearSuccess(true)
-
-  setTimeout(() => {
-    setClearSuccess(false)
-  }, 1500)
-
-  if (navigator.vibrate) {
-    navigator.vibrate(40)
-  }
-}
-const startNewEvent = () => {
-  setInvalidMatchFields([])
-  setEventName('')
-  setFormat('')
-  setSelectedMatchDeck('')
-  setOpponentDeck('')
-  setGames([])
-  setGameStarts([])
-
-  setCurrentRound(1)
-
-  setEventSuccess(true)
-
-  setTimeout(() => {
-    setEventSuccess(false)
-  }, 1500)
-
-  if (navigator.vibrate) {
-    navigator.vibrate([40, 30, 40])
-  }
-}
-const nextRound = () => {
-  setInvalidMatchFields([])
-    setCurrentRound((prev) => prev + 1)
-
-  setRoundSuccess(true)
-
-  setTimeout(() => {
-    setRoundSuccess(false)
-  }, 1500)
-  // GET ALL ROUNDS FOR CURRENT EVENT
-  const eventRounds = matches
-    .filter(
-      (match) =>
-        match.eventName === eventName
-    )
-    .map((match) => match.round)
-
-  // FIND FIRST MISSING ROUND NUMBER
-  let nextAvailableRound = 1
-
-  while (
-    eventRounds.includes(
-      nextAvailableRound
-    )
-  ) {
-    nextAvailableRound++
-  }
-
-  setCurrentRound(nextAvailableRound)
-
-setGames([])
-setGameStarts([])
-setOpponentDeck('')
-setNotes('')
-}
-const clearEvent = () => {
-  setCurrentRound(1)
-
-  setEventName('')
-  setSelectedMatchDeck('')
-  setOpponentDeck('')
-  setGames([])
-  setGameStarts([])
-  setNotes('')
-}
 const deleteMatch = (id: number) => {
   setMatches(matches.filter((m) => m.id !== id))
 }
@@ -446,6 +359,11 @@ const deleteEvent = (eventName: string) => {
   setMatches(
     matches.filter(
       (m) => m.eventName !== eventName
+    )
+  )
+  setEvents(
+    events.filter(
+      (event) => event.eventName !== eventName
     )
   )
 }
@@ -459,12 +377,25 @@ const editMatch = (updatedMatch: Match) => {
   )
 }
 
+const addMatch = (match: Match) => {
+  setMatches([...matches, match])
+}
+
+const addEvent = (event: EventRecord) => {
+  setEvents([...events, event])
+}
+
 const editEvent = (
   oldEventName: string,
   updatedData: {
     eventName: string
+    eventType: string
     format: string
     deck: string
+    playerCount?: number
+    finalPlacement?: string
+    championshipPoints?: string
+    prizing?: string
   }
 ) => {
   setMatches(
@@ -474,70 +405,36 @@ const editEvent = (
             ...match,
             eventName:
               updatedData.eventName,
+            eventType: updatedData.eventType,
             format: updatedData.format,
             deck: updatedData.deck,
           }
         : match
     )
   )
+  setEvents(
+    events.map((event) =>
+      event.eventName === oldEventName
+        ? {
+            ...event,
+            eventName: updatedData.eventName,
+            eventType: updatedData.eventType,
+            format: updatedData.format,
+            deck: updatedData.deck,
+            playerCount:
+              updatedData.playerCount ?? event.playerCount,
+            finalPlacement:
+              updatedData.finalPlacement ?? event.finalPlacement,
+            championshipPoints:
+              updatedData.championshipPoints ??
+              event.championshipPoints,
+            prizing: updatedData.prizing ?? event.prizing,
+          }
+        : event
+    )
+  )
 }
 
-const saveMatch = () => {
-  const missingFields: string[] = []
-
-if (!eventName.trim()) missingFields.push('eventName')
-if (!format.trim()) missingFields.push('format')
-if (!selectedMatchDeck.trim()) missingFields.push('selectedMatchDeck')
-if (!opponentDeck.trim()) missingFields.push('opponentDeck')
-if (games.length === 0) missingFields.push('games')
-
-if (missingFields.length > 0) {
-  setInvalidMatchFields(missingFields)
-
-  setTimeout(() => {
-    setInvalidMatchFields([])
-  }, 1800)
-
-  return
-}
-
-setInvalidMatchFields([])
-
-  const wins = games.filter((g) => g === 'W').length
-  const losses = games.filter((g) => g === 'L').length
-
-  const finalResult = `${wins}-${losses}`
-
-const newMatch: Match = {
-  id: Date.now(),
-  eventName,
-  round: currentRound,
-  format,
-  deck: selectedMatchDeck,
-  opponentDeck,
-  matchType,
-  games,
-  gameStarts,
-  finalResult,
-  notes,
-}
-
-  setMatches([...matches, newMatch])
-  setSaveSuccess(true)
-
-if (navigator.vibrate) {
-  navigator.vibrate(100)
-}
-
-setTimeout(() => {
-  setSaveSuccess(false)
-}, 1500)
-
-setOpponentDeck('')
-setGames([])
-setGameStarts([])
-setNotes('')
-}
   const bottomNavigation = (
     <BottomNavigation
       activeTab={activeTab}
@@ -581,45 +478,32 @@ setNotes('')
         )}
 
         {activeTab === 'matches' && (
-          <MatchLogger
-            eventName={eventName}
-            setEventName={setEventName}
+          <MatchHistory
+            events={events}
+            matches={matches}
+            deleteMatch={deleteMatch}
+            deleteEvent={deleteEvent}
+            editMatch={editMatch}
+            addMatch={addMatch}
+            addEvent={addEvent}
+            editEvent={editEvent}
+            editingMatch={editingMatch}
+            setEditingMatch={setEditingMatch}
+            editingEvent={editingEvent}
+            setEditingEvent={setEditingEvent}
             decks={decks}
-            selectedMatchDeck={selectedMatchDeck}
-            setSelectedMatchDeck={setSelectedMatchDeck}
-            opponentDeck={opponentDeck}
-            setOpponentDeck={setOpponentDeck}
-            format={format}
-            setFormat={setFormat}
-            matchType={matchType}
-            setMatchType={setMatchType}
-            currentRound={currentRound}
-            games={games}
-            gameStarts={gameStarts}
-            toggleGameResult={toggleGameResult}
-            toggleGameStart={toggleGameStart}
-            clearGames={clearGames}
-            saveMatch={saveMatch}
-            clearCurrentMatch={clearCurrentMatch}
-            startNewEvent={startNewEvent}
-            nextRound={nextRound}
-            clearEvent={clearEvent}
-            saveSuccess={saveSuccess}
-            roundSuccess={roundSuccess}
-            eventSuccess={eventSuccess}
-            clearSuccess={clearSuccess}
-            notes={notes}
-            setNotes={setNotes}
-            invalidMatchFields={invalidMatchFields}
           />
         )}
 
         {activeTab === 'history' && (
           <MatchHistory
+            events={events}
             matches={matches}
             deleteMatch={deleteMatch}
             deleteEvent={deleteEvent}
             editMatch={editMatch}
+            addMatch={addMatch}
+            addEvent={addEvent}
             editEvent={editEvent}
             editingMatch={editingMatch}
             setEditingMatch={setEditingMatch}

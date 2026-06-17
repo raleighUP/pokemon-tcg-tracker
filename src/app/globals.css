@@ -166,6 +166,37 @@ html {
   border-color: rgba(255, 255, 255, 0.08);
 }
 
+.scrollbar-apple {
+  scrollbar-color: rgba(255, 255, 255, 0.34) transparent;
+  scrollbar-width: thin;
+}
+
+.scrollbar-apple::-webkit-scrollbar {
+  width: 8px;
+}
+
+.scrollbar-apple::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.scrollbar-apple::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.28);
+  border: 2px solid transparent;
+  border-radius: 999px;
+  background-clip: padding-box;
+}
+
+.scrollbar-apple::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.42);
+  border: 2px solid transparent;
+  background-clip: padding-box;
+}
+
+.swipe-action-row-content[data-open='true'] > :first-child {
+  border-top-right-radius: 0 !important;
+  border-bottom-right-radius: 0 !important;
+}
+
 .motion-surface {
   transition-duration: var(--motion-base);
   transition-property:

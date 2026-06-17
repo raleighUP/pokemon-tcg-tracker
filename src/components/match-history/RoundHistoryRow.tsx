@@ -14,6 +14,7 @@ type RoundResult = 'W' | 'L' | 'T'
 
 type Props = {
   match: Match
+  roundLabel: string
   roundResult: RoundResult
   runningRecord: {
     wins: number
@@ -44,8 +45,43 @@ const resultLabels: Record<RoundResult, string> = {
   T: 'Tie',
 }
 
+function DiceMark({ active }: { active: boolean }) {
+  return (
+    <span
+      aria-label={active ? 'Won dice roll' : 'Did not win dice roll'}
+      className={`inline-flex h-5 w-5 items-center justify-center rounded-full border ${
+        active
+          ? 'border-[var(--color-primary)] bg-[var(--color-primary)] text-white'
+          : 'border-white/10 bg-white/5 text-[var(--text-muted)]'
+      }`}
+    >
+      <svg
+        aria-hidden="true"
+        viewBox="0 0 24 24"
+        className="h-3 w-3"
+        fill="none"
+      >
+        <rect
+          x="4"
+          y="4"
+          width="16"
+          height="16"
+          rx="4"
+          stroke="currentColor"
+          strokeWidth="2"
+        />
+        <circle cx="9" cy="9" r="1.4" fill="currentColor" />
+        <circle cx="15" cy="15" r="1.4" fill="currentColor" />
+        <circle cx="15" cy="9" r="1.4" fill="currentColor" />
+        <circle cx="9" cy="15" r="1.4" fill="currentColor" />
+      </svg>
+    </span>
+  )
+}
+
 export default function RoundHistoryRow({
   match,
+  roundLabel,
   roundResult,
   runningRecord,
   editingMatch,
@@ -66,7 +102,6 @@ export default function RoundHistoryRow({
   const runningRecordLabel = `${runningRecord.wins}-${runningRecord.losses}${
     runningRecord.ties > 0 ? `-${runningRecord.ties}` : ''
   }`
-  const firstStart = match.gameStarts[0] ?? '1st'
 
   const startEdit = () => {
     setEditingMatch(match)
@@ -115,20 +150,30 @@ export default function RoundHistoryRow({
         <button
           type="button"
           onClick={() => setOpenNotesId(detailsOpen ? null : match.id)}
-          className="motion-press grid min-h-[52px] w-full grid-cols-[3.25rem_minmax(0,1fr)_auto] items-center gap-3 bg-black/28 px-3 py-2.5 text-left hover:bg-white/[0.04]"
+          className="motion-press grid min-h-[58px] w-full grid-cols-[3.75rem_minmax(0,1fr)_auto] items-center gap-3 bg-black/28 px-3 py-2.5 text-left hover:bg-white/[0.04]"
           aria-expanded={detailsOpen}
         >
-          <span className="type-metadata text-[var(--text-muted)]">
-            R{match.round}
+          <span className="type-metadata text-[var(--text-secondary)]">
+            {roundLabel}
           </span>
 
           <span className="min-w-0">
             <span className="type-card-title block truncate text-[var(--text-primary)]">
               {match.opponentDeck}
             </span>
-            <span className="type-metadata mt-0.5 flex gap-2 text-[var(--text-muted)]">
-              <span>{firstStart}</span>
-              {hasNotes && <span>Notes</span>}
+            <span className="mt-1 flex flex-wrap gap-1.5">
+              {match.games.map((game, index) => (
+                <span
+                  key={`${game}-${index}`}
+                  className="inline-flex items-center gap-1"
+                >
+                  <ResultPill
+                    result={game}
+                    className="h-6 min-w-6 px-1.5 text-[11px]"
+                  />
+                  <DiceMark active={Boolean(match.diceRollWins?.[index])} />
+                </span>
+              ))}
             </span>
           </span>
 
@@ -138,12 +183,14 @@ export default function RoundHistoryRow({
             >
               {resultLabels[roundResult]}
             </StatusBadge>
-            <span
-              aria-hidden="true"
-              className={`h-2 w-2 border-b-2 border-r-2 border-[var(--text-muted)] transition-transform duration-[var(--motion-base)] ${
-                detailsOpen ? 'rotate-[-135deg]' : 'rotate-45'
-              }`}
-            />
+            {hasNotes && (
+              <span
+                aria-hidden="true"
+                className={`h-2 w-2 border-b-2 border-r-2 border-[var(--text-muted)] transition-transform duration-[var(--motion-base)] ${
+                  detailsOpen ? 'rotate-[-135deg]' : '-rotate-45'
+                }`}
+              />
+            )}
           </span>
         </button>
       </SwipeActionRow>
@@ -167,6 +214,7 @@ export default function RoundHistoryRow({
                   <span className="type-metadata text-[var(--text-secondary)]">
                     Went {match.gameStarts[index] ?? '1st'}
                   </span>
+                  <DiceMark active={Boolean(match.diceRollWins?.[index])} />
                 </span>
               </div>
             ))}

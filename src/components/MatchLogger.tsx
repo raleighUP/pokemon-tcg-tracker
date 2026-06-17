@@ -263,13 +263,13 @@ export default function MatchLogger({
   const filteredOpponentOptions = useMemo(() => {
     const query = opponentDeck.trim().toLowerCase()
 
-    if (!query) return opponentOptions.slice(0, 6)
+    if (query.length < 3) return []
 
     return opponentOptions
       .filter((option) =>
         option.toLowerCase().includes(query)
       )
-      .slice(0, 6)
+      .slice(0, 4)
   }, [opponentDeck, opponentOptions])
 
   const selectOpponentDeck = (value: string) => {
@@ -347,7 +347,7 @@ export default function MatchLogger({
               className={errorClass('format')}
             >
               <option value="">Format</option>
-              <option value="TEF-POR">TEF-POR</option>
+              <option value="TEF-CRI">TEF-CRI</option>
               <option value="Gym Leader Challenge">
                 Gym Leader Challenge
               </option>
@@ -438,7 +438,7 @@ export default function MatchLogger({
             />
 
             {opponentFocused && filteredOpponentOptions.length > 0 && (
-              <div className="surface-card-glass absolute inset-x-0 top-[calc(100%+0.5rem)] z-20 max-h-56 overflow-y-auto rounded-2xl border border-[var(--surface-border)] p-1 shadow-[0_18px_48px_rgba(0,0,0,0.44)]">
+              <div className="surface-card-elevated mt-2 max-h-44 overflow-y-auto rounded-2xl border border-[var(--surface-border)] p-1">
                 {filteredOpponentOptions.map((option) => (
                   <button
                     key={option}

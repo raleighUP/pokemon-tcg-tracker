@@ -2,7 +2,6 @@ import { useEffect, useRef, useState } from 'react'
 import {
   Button,
   DisclosureAction,
-  FieldLabel,
   Panel,
   SectionHeader,
   TextareaField,
@@ -68,7 +67,6 @@ export default function AddDeckForm({
 
       <div className="space-y-4">
         <div>
-          <FieldLabel>Deck Name</FieldLabel>
           <TextInput
             type="text"
             value={deckName}
@@ -83,7 +81,6 @@ export default function AddDeckForm({
         </div>
 
         <div>
-          <FieldLabel>Decklist</FieldLabel>
           <TextareaField
             ref={textareaRef}
             value={decklist}

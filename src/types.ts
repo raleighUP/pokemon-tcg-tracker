@@ -9,6 +9,7 @@ export type Deck = {
 export type Match = {
   id: number
   eventName: string
+  eventType?: string
   round: number
   format: string
   deck: string
@@ -16,8 +17,21 @@ export type Match = {
   matchType: 'BO1' | 'BO3'
   games: string[]
   gameStarts: ('1st' | '2nd')[]
+  diceRollWins?: boolean[]
   finalResult: string
   notes?: string
+}
+
+export type EventRecord = {
+  id: number
+  eventName: string
+  eventType: string
+  format: string
+  deck: string
+  playerCount?: number
+  finalPlacement?: string
+  championshipPoints?: string
+  prizing?: string
 }
 
 export type CardEntry = {
