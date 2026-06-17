@@ -2,7 +2,6 @@ import { useState } from 'react'
 import { Deck, Match } from '@/types'
 import {
   EmptyState,
-  Panel,
   SectionHeader,
 } from '@/components/ui'
 import EventHistoryCard from './match-history/EventHistoryCard'
@@ -66,17 +65,15 @@ export default function MatchHistory({
 
   if (matches.length === 0) {
     return (
-      <Panel>
+      <section className="space-y-4">
         <SectionHeader
           title="Match History"
-          description="Review event records, round outcomes, and notes."
-          className="mb-4"
         />
 
         <EmptyState>
           No matches logged yet.
         </EmptyState>
-      </Panel>
+      </section>
     )
   }
 
@@ -94,17 +91,15 @@ export default function MatchHistory({
   )
 
   return (
-    <Panel>
+    <section className="space-y-4">
       <SectionHeader
         title="Match History"
-        description="Review event records, round outcomes, and notes."
-        className="mb-4"
       />
 
       <div className="space-y-4">
         {Object.entries(groupedMatches)
           .reverse()
-          .map(([eventName, eventMatches], index) => (
+          .map(([eventName, eventMatches]) => (
             <EventHistoryCard
               key={eventName}
               eventName={eventName}
@@ -117,13 +112,13 @@ export default function MatchHistory({
               isRoundValid={isRoundValid}
               isFormValid={isFormValid}
               isCollapsed={
-                collapsedEvents[eventName] ?? index > 0
+                collapsedEvents[eventName] ?? true
               }
               toggleCollapsed={() => {
                 setCollapsedEvents((currentCollapsedEvents) => ({
                   ...currentCollapsedEvents,
                   [eventName]: !(
-                    currentCollapsedEvents[eventName] ?? index > 0
+                    currentCollapsedEvents[eventName] ?? true
                   ),
                 }))
               }}
@@ -138,6 +133,6 @@ export default function MatchHistory({
             />
           ))}
       </div>
-    </Panel>
+    </section>
   )
 }

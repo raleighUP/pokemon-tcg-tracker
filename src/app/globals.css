@@ -1,27 +1,29 @@
 @import "tailwindcss";
 
 :root {
-  --background: #050506;
-  --foreground: #f7f7f8;
-  --text-primary: #f7f7f8;
-  --text-secondary: #c7c7cc;
-  --text-muted: #8e8e93;
-  --text-subtle: #636366;
-  --surface-app: #050506;
-  --surface-app-soft: #09090b;
-  --surface-primary: rgba(18, 18, 21, 0.86);
-  --surface-primary-strong: rgba(25, 25, 29, 0.92);
-  --surface-secondary: rgba(10, 10, 12, 0.78);
-  --surface-secondary-strong: rgba(14, 14, 17, 0.88);
-  --surface-overlay: rgba(20, 20, 24, 0.94);
-  --surface-border: rgba(255, 255, 255, 0.1);
-  --surface-border-strong: rgba(255, 255, 255, 0.16);
-  --surface-highlight: rgba(23, 107, 181, 0.22);
+  --background: #0b0b0d;
+  --foreground: #f5f5f5;
+  --text-primary: #f5f5f5;
+  --text-secondary: #a7a7a7;
+  --text-muted: #7d7878;
+  --text-subtle: #7d7878;
+  --surface-app: #0b0b0d;
+  --surface-primary: #121214;
+  --surface-elevated: #1a1a1d;
+  --surface-overlay: rgba(26, 26, 29, 0.94);
+  --surface-border: #2a2a2e;
+  --surface-border-strong: rgba(42, 42, 46, 0.92);
+  --surface-highlight: rgba(23, 107, 181, 0.2);
+  --color-primary: #176bb5;
+  --color-secondary: #7d7878;
+  --color-success: #2f743b;
+  --color-warning: #dcc041;
+  --color-error: #a01818;
   --surface-shadow: rgba(0, 0, 0, 0.42);
   --surface-shadow-strong: rgba(0, 0, 0, 0.62);
-  --motion-fast: 140ms;
-  --motion-base: 190ms;
-  --motion-slow: 260ms;
+  --motion-fast: 120ms;
+  --motion-base: 180ms;
+  --motion-slow: 240ms;
   --motion-standard: cubic-bezier(0.2, 0, 0, 1);
   --motion-press: cubic-bezier(0.2, 0, 0.2, 1);
 }
@@ -29,18 +31,19 @@
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --font-sans: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Inter", "Segoe UI", sans-serif;
+  --font-mono: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
   font-family:
-    var(--font-geist-sans),
     -apple-system,
     BlinkMacSystemFont,
+    "SF Pro Display",
     "SF Pro Text",
+    "Inter",
     "Segoe UI",
     sans-serif;
   font-feature-settings:
@@ -60,49 +63,39 @@ html {
 }
 
 .app-shell-surface {
-  background:
-    radial-gradient(
-      circle at 50% -12rem,
-      rgba(23, 107, 181, 0.18),
-      transparent 34rem
-    ),
-    radial-gradient(
-      circle at 110% 16rem,
-      rgba(125, 120, 120, 0.1),
-      transparent 24rem
-    ),
-    linear-gradient(180deg, var(--surface-app-soft), var(--surface-app));
+  background: var(--surface-app);
 }
 
-.surface-primary {
+.surface-primary,
+.surface-card-default {
   background:
     linear-gradient(
       180deg,
-      rgba(255, 255, 255, 0.055),
-      rgba(255, 255, 255, 0.025)
+      rgba(255, 255, 255, 0.028),
+      rgba(255, 255, 255, 0.012)
     ),
     var(--surface-primary);
   border-color: var(--surface-border);
   box-shadow:
-    0 22px 60px var(--surface-shadow),
-    inset 0 1px 0 rgba(255, 255, 255, 0.055);
-  backdrop-filter: blur(22px);
+    0 12px 32px var(--surface-shadow),
+    inset 0 1px 0 rgba(255, 255, 255, 0.04);
 }
 
-.surface-secondary {
+.surface-secondary,
+.surface-card-elevated {
   background:
     linear-gradient(
       180deg,
       rgba(255, 255, 255, 0.035),
       rgba(255, 255, 255, 0.012)
     ),
-    var(--surface-secondary);
+    var(--surface-elevated);
   border-color: var(--surface-border);
   box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.035);
-  backdrop-filter: blur(16px);
 }
 
-.surface-overlay {
+.surface-overlay,
+.surface-card-glass {
   background:
     linear-gradient(
       180deg,
@@ -137,7 +130,7 @@ html {
       rgba(255, 255, 255, 0.032) 42%,
       rgba(255, 255, 255, 0.018)
     ),
-    var(--surface-primary-strong);
+    var(--surface-elevated);
   border-color: rgba(23, 107, 181, 0.46);
   box-shadow:
     0 24px 70px rgba(0, 0, 0, 0.5),
@@ -219,9 +212,14 @@ html {
 }
 
 .motion-disclosure {
+  transform-origin: top;
   transition-duration: var(--motion-slow);
   transition-property: grid-template-rows, opacity, transform;
   transition-timing-function: var(--motion-standard);
+}
+
+.motion-tab-panel {
+  animation: tab-fade-in 150ms var(--motion-standard);
 }
 
 .motion-sheet-backdrop {
@@ -230,6 +228,10 @@ html {
 
 .motion-sheet-card {
   animation: sheet-rise var(--motion-slow) var(--motion-standard);
+}
+
+.motion-success-pop {
+  animation: success-pop 320ms var(--motion-press);
 }
 
 .type-screen-title {
@@ -286,8 +288,8 @@ select {
 }
 
 select option {
-  background: #101014;
-  color: #f8fafc;
+  background: var(--surface-primary);
+  color: var(--text-primary);
 }
 
 @keyframes shake {
@@ -330,12 +332,43 @@ select option {
 @keyframes sheet-rise {
   from {
     opacity: 0;
-    transform: translateY(18px);
+    filter: blur(6px);
+    transform: translateY(18px) scale(0.985);
+  }
+
+  to {
+    opacity: 1;
+    filter: blur(0);
+    transform: translateY(0);
+  }
+}
+
+@keyframes tab-fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
   }
 
   to {
     opacity: 1;
     transform: translateY(0);
+  }
+}
+
+@keyframes success-pop {
+  0% {
+    opacity: 0;
+    transform: scale(0.86);
+  }
+
+  65% {
+    opacity: 1;
+    transform: scale(1.04);
+  }
+
+  100% {
+    opacity: 1;
+    transform: scale(1);
   }
 }
 

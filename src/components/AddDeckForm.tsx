@@ -3,7 +3,6 @@ import {
   Button,
   DisclosureAction,
   FieldLabel,
-  NestedPanel,
   Panel,
   SectionHeader,
   TextareaField,
@@ -31,6 +30,7 @@ export default function AddDeckForm({
 
   const textareaRef =
     useRef<HTMLTextAreaElement>(null)
+  const collapsedTextareaHeight = 140
 
   // AUTO RESIZE WHEN EXPANDED
   useEffect(() => {
@@ -41,19 +41,32 @@ export default function AddDeckForm({
 
     // RESET HEIGHT WHEN COLLAPSED
     if (!isExpanded && textareaRef.current) {
-      textareaRef.current.style.height = '140px'
+      textareaRef.current.style.height = `${collapsedTextareaHeight}px`
     }
   }, [decklist, isExpanded])
 
+  const toggleExpanded = () => {
+    if (isExpanded) {
+      setIsExpanded(false)
+      return
+    }
+
+    const textarea = textareaRef.current
+
+    if (!textarea || textarea.scrollHeight <= collapsedTextareaHeight + 2) {
+      return
+    }
+
+    setIsExpanded(true)
+  }
+
   return (
-    <Panel>
+    <Panel className="space-y-4">
       <SectionHeader
         title={editingDeckId !== null ? 'Edit Deck' : 'Add Deck'}
-        description="Save a decklist for comparison, history review, and recommendations."
-        className="mb-4"
       />
 
-      <NestedPanel className="space-y-4 rounded-[28px] p-4">
+      <div className="space-y-4">
         <div>
           <FieldLabel>Deck Name</FieldLabel>
           <TextInput
@@ -94,11 +107,9 @@ export default function AddDeckForm({
 
         <div className="grid grid-cols-2 gap-3">
           <Button
-            onClick={() =>
-              setIsExpanded(!isExpanded)
-            }
-            tone="ghost"
-            className="min-h-[52px] rounded-2xl bg-white/8 text-[var(--text-secondary)] hover:bg-white/12 hover:text-white"
+            onClick={toggleExpanded}
+            tone="secondary"
+            className="min-h-[52px] rounded-2xl"
           >
             <DisclosureAction
               open={isExpanded}
@@ -116,18 +127,18 @@ export default function AddDeckForm({
 
               if (textareaRef.current) {
                 textareaRef.current.style.height =
-                  '140px'
+                  `${collapsedTextareaHeight}px`
               }
             }}
-            tone="accent"
-            className="min-h-[52px] rounded-2xl bg-blue-600 text-white shadow-[0_14px_30px_rgba(23,107,181,0.22)] hover:bg-blue-500"
+            tone="primary"
+            className="min-h-[52px] rounded-2xl shadow-none"
           >
             {editingDeckId !== null
               ? 'Update Deck'
               : 'Save Deck'}
           </Button>
         </div>
-      </NestedPanel>
+      </div>
     </Panel>
   )
 }

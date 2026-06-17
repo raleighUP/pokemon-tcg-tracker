@@ -1,15 +1,16 @@
 import { Deck } from '@/types'
 import { useState } from 'react'
 import {
-  DeltaRow,
+  ContextActionSheet,
   DisclosurePanel,
   EmptyState,
   MetricTile,
   NestedPanel,
-  Panel,
   SectionHeader,
   SelectField,
   StatusBadge,
+  SwipeActionRow,
+  cn,
 } from '@/components/ui'
 
 type Change = {
@@ -39,6 +40,8 @@ export default function CompareDecks({
   const [setupOpen, setSetupOpen] = useState(
     !compareDeck1 || !compareDeck2
   )
+  const [detailChange, setDetailChange] =
+    useState<Change | null>(null)
 
   const emptyStateMessage =
     decks.length === 0
@@ -54,17 +57,15 @@ export default function CompareDecks({
 
   return (
     <div className="space-y-4">
-      <Panel>
+      <section className="space-y-4">
         <SectionHeader
-          title="Deck Differences"
-          description="Compare saved decklists and review card-level changes."
-          className="mb-4"
+          title="Compare"
         />
 
-        <NestedPanel className="mb-4 rounded-[28px] p-4">
+        <NestedPanel variant="compact" className="rounded-[18px] p-4">
           <div className="flex items-start justify-between gap-3">
             <div className="min-w-0">
-              <StatusBadge className="bg-blue-500/15 text-blue-200">
+              <StatusBadge className="bg-[rgba(23,107,181,0.15)] text-[#b7dcfb]">
                 Compare
               </StatusBadge>
               <h3 className="type-section-title mt-2 truncate text-[var(--text-primary)]">
@@ -87,22 +88,50 @@ export default function CompareDecks({
           </div>
         </NestedPanel>
 
-        <div className="max-h-[clamp(10rem,calc(100dvh-28rem),32rem)] space-y-2 overflow-y-auto pr-2">
+        <div className="max-h-[clamp(12rem,calc(100dvh-25rem),34rem)] space-y-2 overflow-y-auto pr-1">
           {changes.length === 0 ? (
-            <EmptyState>{emptyStateMessage}</EmptyState>
+            <EmptyState className="py-3">
+              {emptyStateMessage}
+            </EmptyState>
           ) : (
             changes.map((change) => (
-              <DeltaRow
+              <SwipeActionRow
                 key={change.cardName}
-                label={change.cardName}
-                before={change.oldQty}
-                after={change.newQty}
-                diff={change.diff}
-              />
+                open={false}
+                onOpenChange={() => undefined}
+                actions={[]}
+                onContextOpen={() => setDetailChange(change)}
+              >
+                <button
+                  type="button"
+                  onClick={() => setDetailChange(change)}
+                  className="motion-press card-row flex min-h-[52px] w-full items-center justify-between gap-3 rounded-2xl px-3 py-2.5 text-left hover:bg-white/[0.055]"
+                >
+                  <span className="min-w-0">
+                    <span className="type-card-title block truncate text-[var(--text-primary)]">
+                      {change.cardName}
+                    </span>
+                    <span className="type-metadata mt-0.5 block text-[var(--text-muted)]">
+                      {change.oldQty} to {change.newQty}
+                    </span>
+                  </span>
+
+                  <span
+                    className={cn(
+                      'type-metric-value shrink-0 rounded-full px-2.5 py-1',
+                      change.diff > 0
+                        ? 'bg-[rgba(47,116,59,0.16)] text-[#b8dfbe]'
+                        : 'bg-[rgba(160,24,24,0.16)] text-[#e9b6b6]'
+                    )}
+                  >
+                    {change.diff > 0 ? `+${change.diff}` : change.diff}
+                  </span>
+                </button>
+              </SwipeActionRow>
             ))
           )}
         </div>
-      </Panel>
+      </section>
 
       <DisclosurePanel
         title="Comparison Setup"
@@ -149,6 +178,33 @@ export default function CompareDecks({
           </SelectField>
         </div>
       </DisclosurePanel>
+
+      <ContextActionSheet
+        open={Boolean(detailChange)}
+        onClose={() => setDetailChange(null)}
+        title={detailChange?.cardName ?? 'Card Difference'}
+        subtitle={
+          compareDeck1 && compareDeck2
+            ? `${compareDeck1} to ${compareDeck2}`
+            : undefined
+        }
+        ariaLabel="card difference details"
+        details={
+          detailChange
+            ? [
+                { label: compareDeck1 || 'Deck A', value: detailChange.oldQty },
+                { label: compareDeck2 || 'Deck B', value: detailChange.newQty },
+                {
+                  label: 'Change',
+                  value:
+                    detailChange.diff > 0
+                      ? `+${detailChange.diff}`
+                      : detailChange.diff,
+                },
+              ]
+            : []
+        }
+      />
     </div>
   )
 }

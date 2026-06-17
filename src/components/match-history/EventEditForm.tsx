@@ -36,7 +36,7 @@ export default function EventEditForm({
     <NestedPanel className="m-4 space-y-4 rounded-2xl border-white/10 bg-white/[0.035]">
       <div className="flex items-center justify-between gap-3">
         <div>
-          <StatusBadge className="bg-blue-500/15 text-blue-200">
+          <StatusBadge className="bg-[rgba(23,107,181,0.15)] text-[#b7dcfb]">
             Edit Event
           </StatusBadge>
           <h3 className="type-section-title mt-2 text-[var(--text-primary)]">
@@ -109,8 +109,8 @@ export default function EventEditForm({
               deck: updatedDeck,
             })
           }}
-          tone="success"
-          className="min-h-[52px] flex-1 rounded-2xl bg-green-500 hover:bg-green-400"
+          tone="primary"
+          className="min-h-[52px] flex-1 rounded-2xl"
         >
           Save Event
         </Button>
@@ -118,7 +118,7 @@ export default function EventEditForm({
         <Button
           onClick={onCancel}
           tone="secondary"
-          className="min-h-[52px] flex-1 rounded-2xl bg-white/8 text-[var(--text-secondary)] hover:bg-white/12 hover:text-white"
+          className="min-h-[52px] flex-1 rounded-2xl"
         >
           Cancel
         </Button>

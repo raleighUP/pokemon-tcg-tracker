@@ -2,7 +2,6 @@
 
 import { useEffect, useState } from 'react'
 
-import DeckViewer from '@/components/DeckViewer'
 import AddDeckForm from '@/components/AddDeckForm'
 import SavedDecks from '@/components/SavedDecks'
 import CompareDecks from '@/components/CompareDecks'
@@ -532,7 +531,7 @@ if (navigator.vibrate) {
 
 setTimeout(() => {
   setSaveSuccess(false)
-}, 2000)
+}, 1500)
 
 setOpponentDeck('')
 setGames([])
@@ -548,102 +547,90 @@ setNotes('')
 
   return (
     <AppShell bottomNavigation={bottomNavigation}>
-  {activeTab === 'decks' && (
-    <div className="space-y-6">
-      <DeckViewer selectedDeck={selectedDeck} />
+      <div key={activeTab} className="motion-tab-panel">
+        {activeTab === 'decks' && (
+          <div className="space-y-5">
+            <AddDeckForm
+              deckName={deckName}
+              setDeckName={setDeckName}
+              decklist={decklist}
+              setDecklist={setDecklist}
+              addDeck={addDeck}
+              editingDeckId={editingDeckId}
+            />
 
-      <SavedDecks
-  decks={decks}
-  selectedDeck={selectedDeck}
-  setSelectedDeck={setSelectedDeck}
-  editDeck={editDeck}
-  deleteDeck={deleteDeck}
-/>
+            <SavedDecks
+              decks={decks}
+              selectedDeck={selectedDeck}
+              setSelectedDeck={setSelectedDeck}
+              editDeck={editDeck}
+              deleteDeck={deleteDeck}
+            />
+          </div>
+        )}
 
-      <AddDeckForm
-        deckName={deckName}
-        setDeckName={setDeckName}
-        decklist={decklist}
-        setDecklist={setDecklist}
-        addDeck={addDeck}
-        editingDeckId={editingDeckId}
-      />
-    </div>
-  )}
+        {activeTab === 'compare' && (
+          <CompareDecks
+            decks={decks}
+            compareDeck1={compareDeck1}
+            setCompareDeck1={setCompareDeck1}
+            compareDeck2={compareDeck2}
+            setCompareDeck2={setCompareDeck2}
+            changes={changes}
+          />
+        )}
 
-  {activeTab === 'compare' && (
-    <CompareDecks
-      decks={decks}
-      compareDeck1={compareDeck1}
-      setCompareDeck1={setCompareDeck1}
-      compareDeck2={compareDeck2}
-      setCompareDeck2={setCompareDeck2}
-      changes={changes}
-    />
-  )}
+        {activeTab === 'matches' && (
+          <MatchLogger
+            eventName={eventName}
+            setEventName={setEventName}
+            decks={decks}
+            selectedMatchDeck={selectedMatchDeck}
+            setSelectedMatchDeck={setSelectedMatchDeck}
+            opponentDeck={opponentDeck}
+            setOpponentDeck={setOpponentDeck}
+            format={format}
+            setFormat={setFormat}
+            matchType={matchType}
+            setMatchType={setMatchType}
+            currentRound={currentRound}
+            games={games}
+            gameStarts={gameStarts}
+            toggleGameResult={toggleGameResult}
+            toggleGameStart={toggleGameStart}
+            clearGames={clearGames}
+            saveMatch={saveMatch}
+            clearCurrentMatch={clearCurrentMatch}
+            startNewEvent={startNewEvent}
+            nextRound={nextRound}
+            clearEvent={clearEvent}
+            saveSuccess={saveSuccess}
+            roundSuccess={roundSuccess}
+            eventSuccess={eventSuccess}
+            clearSuccess={clearSuccess}
+            notes={notes}
+            setNotes={setNotes}
+            invalidMatchFields={invalidMatchFields}
+          />
+        )}
 
-  {activeTab === 'matches' && (
-    <MatchLogger
-  eventName={eventName}
-  setEventName={setEventName}
+        {activeTab === 'history' && (
+          <MatchHistory
+            matches={matches}
+            deleteMatch={deleteMatch}
+            deleteEvent={deleteEvent}
+            editMatch={editMatch}
+            editEvent={editEvent}
+            editingMatch={editingMatch}
+            setEditingMatch={setEditingMatch}
+            editingEvent={editingEvent}
+            setEditingEvent={setEditingEvent}
+            decks={decks}
+          />
+        )}
 
-  decks={decks}
-
-  selectedMatchDeck={selectedMatchDeck}
-  setSelectedMatchDeck={setSelectedMatchDeck}
-
-  opponentDeck={opponentDeck}
-  setOpponentDeck={setOpponentDeck}
-
-  format={format}
-  setFormat={setFormat}
-
-  matchType={matchType}
-  setMatchType={setMatchType}
-  currentRound={currentRound}
-
-games={games}
-gameStarts={gameStarts}
-
-toggleGameResult={toggleGameResult}
-toggleGameStart={toggleGameStart}
-
-clearGames={clearGames}
-
-  saveMatch={saveMatch}
-  clearCurrentMatch={clearCurrentMatch}
-
-  startNewEvent={startNewEvent}
-  nextRound={nextRound}
-  clearEvent={clearEvent}
-  saveSuccess={saveSuccess}
-  roundSuccess={roundSuccess}
-eventSuccess={eventSuccess}
-clearSuccess={clearSuccess}
-notes={notes}
-setNotes={setNotes}
-invalidMatchFields={invalidMatchFields}
-/>
-  )}
-
-  {activeTab === 'history' && (
-    <MatchHistory
-  matches={matches}
-  deleteMatch={deleteMatch}
-  deleteEvent={deleteEvent}
-  editMatch={editMatch}
-  editEvent={editEvent}
-  editingMatch={editingMatch}
-  setEditingMatch={setEditingMatch}
-  editingEvent={editingEvent}
-  setEditingEvent={setEditingEvent}
-  decks={decks}
-/>
-  )}
-
-  {activeTab === 'advisor' && (
-    <DeckAdvisor decks={decks} />
-  )}  
+        {activeTab === 'advisor' && <DeckAdvisor decks={decks} />}
+      </div>
     </AppShell>
   )
 }

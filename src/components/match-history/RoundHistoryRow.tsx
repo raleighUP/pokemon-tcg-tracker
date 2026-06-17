@@ -1,13 +1,12 @@
 import { useState } from 'react'
 import { Match } from '@/types'
 import {
-  DisclosureAction,
+  ContextActionSheet,
   DisclosureContent,
-  IconButton,
   NestedPanel,
   ResultPill,
   StatusBadge,
-  cn,
+  SwipeActionRow,
 } from '@/components/ui'
 import RoundEditForm from './RoundEditForm'
 
@@ -34,9 +33,9 @@ type Props = {
 }
 
 const roundToneClasses: Record<RoundResult, string> = {
-  W: 'bg-green-500/15 text-green-200 ring-green-400/30',
-  L: 'bg-red-500/15 text-red-200 ring-red-400/30',
-  T: 'bg-yellow-400/15 text-yellow-100 ring-yellow-300/30',
+  W: 'bg-[rgba(47,116,59,0.16)] text-[#b8dfbe] ring-[rgba(47,116,59,0.35)]',
+  L: 'bg-[rgba(160,24,24,0.16)] text-[#e9b6b6] ring-[rgba(160,24,24,0.35)]',
+  T: 'bg-[rgba(220,192,65,0.14)] text-[#f4e392] ring-[rgba(220,192,65,0.35)]',
 }
 
 const resultLabels: Record<RoundResult, string> = {
@@ -60,13 +59,25 @@ export default function RoundHistoryRow({
   editMatch,
   deleteMatch,
 }: Props) {
-  const [touchStartX, setTouchStartX] = useState<number | null>(null)
+  const [contextOpen, setContextOpen] = useState(false)
   const actionsOpen = openMenuId === match.id
-  const notesOpen = openNotesId === match.id
+  const detailsOpen = openNotesId === match.id
   const hasNotes = Boolean(match.notes?.trim())
   const runningRecordLabel = `${runningRecord.wins}-${runningRecord.losses}${
     runningRecord.ties > 0 ? `-${runningRecord.ties}` : ''
   }`
+  const firstStart = match.gameStarts[0] ?? '1st'
+
+  const startEdit = () => {
+    setEditingMatch(match)
+    setOpenMenuId(null)
+  }
+
+  const confirmDelete = () => {
+    if (window.confirm(`Delete round ${match.round}?`)) {
+      deleteMatch(match.id)
+    }
+  }
 
   if (editingMatch?.id === match.id) {
     return (
@@ -84,153 +95,143 @@ export default function RoundHistoryRow({
 
   return (
     <div className="bg-black/15">
-      <div className="relative overflow-hidden">
-        <div className="absolute inset-y-0 right-0 flex w-36 items-stretch justify-end">
-          <button
-            onClick={() => {
-              setEditingMatch(match)
-              setOpenMenuId(null)
-            }}
-            className="motion-press w-16 bg-blue-600/90 text-xs font-bold text-white hover:bg-blue-500"
-          >
-            Edit
-          </button>
-
-          <button
-            onClick={() => {
-              deleteMatch(match.id)
-              setOpenMenuId(null)
-            }}
-            className="motion-press w-20 bg-red-700/90 text-xs font-bold text-white hover:bg-red-600"
-          >
-            Delete
-          </button>
-        </div>
-
-        <div
-          className={cn(
-            'motion-surface relative bg-black/28 px-4 py-3.5',
-            actionsOpen ? '-translate-x-36' : 'translate-x-0'
-          )}
-          onTouchStart={(event) => {
-            setTouchStartX(event.touches[0].clientX)
-          }}
-          onTouchEnd={(event) => {
-            if (touchStartX === null) return
-
-            const deltaX = event.changedTouches[0].clientX - touchStartX
-
-            if (deltaX < -40) {
-              setOpenMenuId(match.id)
-            }
-
-            if (deltaX > 40) {
-              setOpenMenuId(null)
-            }
-
-            setTouchStartX(null)
-          }}
+      <SwipeActionRow
+        open={actionsOpen}
+        onOpenChange={(open) => setOpenMenuId(open ? match.id : null)}
+        onContextOpen={() => setContextOpen(true)}
+        actions={[
+          {
+            label: 'Edit',
+            tone: 'edit',
+            onSelect: startEdit,
+          },
+          {
+            label: 'Delete',
+            tone: 'delete',
+            onSelect: confirmDelete,
+          },
+        ]}
+      >
+        <button
+          type="button"
+          onClick={() => setOpenNotesId(detailsOpen ? null : match.id)}
+          className="motion-press grid min-h-[52px] w-full grid-cols-[3.25rem_minmax(0,1fr)_auto] items-center gap-3 bg-black/28 px-3 py-2.5 text-left hover:bg-white/[0.04]"
+          aria-expanded={detailsOpen}
         >
-          <div className="grid grid-cols-[1fr_auto] items-center gap-3">
-            <div className="min-w-0">
-              <div className="mb-2 flex flex-wrap items-center gap-2">
-                <StatusBadge
-                  className={`px-2.5 py-1 ring-1 ${roundToneClasses[roundResult]}`}
-                >
-                  {resultLabels[roundResult]}
-                </StatusBadge>
+          <span className="type-metadata text-[var(--text-muted)]">
+            R{match.round}
+          </span>
 
-                <span className="type-metadata text-[var(--text-muted)]">
-                  Round {match.round}
-                </span>
+          <span className="min-w-0">
+            <span className="type-card-title block truncate text-[var(--text-primary)]">
+              {match.opponentDeck}
+            </span>
+            <span className="type-metadata mt-0.5 flex gap-2 text-[var(--text-muted)]">
+              <span>{firstStart}</span>
+              {hasNotes && <span>Notes</span>}
+            </span>
+          </span>
 
-                {hasNotes && (
-                  <span className="type-metadata rounded-full bg-white/7 px-2 py-1 text-[var(--text-subtle)]">
-                    Notes
-                  </span>
-                )}
-              </div>
+          <span className="flex items-center gap-2">
+            <StatusBadge
+              className={`px-2.5 py-1 ring-1 ${roundToneClasses[roundResult]}`}
+            >
+              {resultLabels[roundResult]}
+            </StatusBadge>
+            <span
+              aria-hidden="true"
+              className={`h-2 w-2 border-b-2 border-r-2 border-[var(--text-muted)] transition-transform duration-[var(--motion-base)] ${
+                detailsOpen ? 'rotate-[-135deg]' : 'rotate-45'
+              }`}
+            />
+          </span>
+        </button>
+      </SwipeActionRow>
 
-              <p className="type-card-title truncate text-[var(--text-primary)]">
-                {match.opponentDeck}
-              </p>
-
-              <div className="mt-2 flex flex-wrap items-center gap-2">
-                {match.games.map((game, index) => (
-                  <span
-                    key={`${game}-${index}`}
-                    className="inline-flex items-center gap-1 rounded-full border border-white/8 bg-white/[0.045] px-2 py-1"
-                  >
-                    <span className="type-metadata text-[var(--text-subtle)]">
-                      G{index + 1}
-                    </span>
-                    <ResultPill
-                      result={game}
-                      className="h-5 min-w-5 px-1 text-[10px]"
-                    />
-                    <span className="type-metadata text-[var(--text-muted)]">
-                      {match.gameStarts[index] ?? '1st'}
-                    </span>
-                  </span>
-                ))}
-              </div>
-
-              <div className="mt-2 flex items-center gap-3">
-                {hasNotes && (
-                  <button
-                    onClick={() =>
-                      setOpenNotesId(notesOpen ? null : match.id)
-                    }
-                    className="motion-press rounded-full hover:text-blue-200"
-                  >
-                    <DisclosureAction
-                      open={notesOpen}
-                      openLabel="View notes"
-                      closeLabel="Hide notes"
-                    />
-                  </button>
-                )}
-
-                <p className="type-metadata text-[var(--text-subtle)]">
-                  Swipe left for actions
-                </p>
-              </div>
-            </div>
-
-            <div className="flex items-center gap-3">
-              <div className="text-right">
-                <p className="text-[1.35rem] font-[760] leading-none text-slate-100">
-                  {runningRecordLabel}
-                </p>
-                <p className="type-metadata mt-1 text-[var(--text-subtle)]">
-                  record
-                </p>
-              </div>
-
-              <IconButton
-                onClick={() =>
-                  setOpenMenuId(actionsOpen ? null : match.id)
-                }
-                className="h-11 w-11 rounded-xl text-lg font-bold leading-none text-slate-400 hover:bg-white/10 hover:text-white"
-                aria-label="Round actions"
+      <DisclosureContent open={detailsOpen}>
+        <NestedPanel className="mx-3 mb-3 mt-1 rounded-2xl border-white/8 bg-white/[0.035] p-3">
+          <div className="space-y-2">
+            {match.games.map((game, index) => (
+              <div
+                key={`${game}-${index}`}
+                className="flex items-center justify-between gap-3"
               >
-                ...
-              </IconButton>
-            </div>
-          </div>
-        </div>
-      </div>
+                <span className="type-metadata text-[var(--text-muted)]">
+                  Game {index + 1}
+                </span>
+                <span className="flex items-center gap-2">
+                  <ResultPill
+                    result={game}
+                    className="h-6 min-w-6 px-1.5 text-[11px]"
+                  />
+                  <span className="type-metadata text-[var(--text-secondary)]">
+                    Went {match.gameStarts[index] ?? '1st'}
+                  </span>
+                </span>
+              </div>
+            ))}
 
-      <DisclosureContent open={notesOpen && hasNotes}>
-        <NestedPanel className="mx-4 mb-4 mt-1 rounded-2xl border-white/8 bg-white/[0.035] p-3">
-          <p className="type-metadata mb-2 text-[var(--text-subtle)]">
-            Round notes
-          </p>
-          <div className="type-helper whitespace-pre-wrap text-[var(--text-secondary)]">
-            {match.notes}
+            {hasNotes && (
+              <div className="type-helper whitespace-pre-wrap border-t border-white/10 pt-2 text-[var(--text-secondary)]">
+                {match.notes}
+              </div>
+            )}
           </div>
         </NestedPanel>
       </DisclosureContent>
+
+      <ContextActionSheet
+        open={contextOpen}
+        onClose={() => setContextOpen(false)}
+        title={`Round ${match.round}`}
+        subtitle={match.opponentDeck}
+        ariaLabel="round actions"
+        details={[
+          { label: 'Result', value: match.finalResult },
+          { label: 'Running Record', value: runningRecordLabel },
+          { label: 'Match Type', value: match.matchType },
+          { label: 'Notes', value: hasNotes ? 'Yes' : 'None' },
+        ]}
+        actions={[
+          {
+            label: 'Edit',
+            tone: 'secondary',
+            onSelect: startEdit,
+          },
+          {
+            label: 'Delete',
+            tone: 'danger',
+            onSelect: confirmDelete,
+          },
+        ]}
+      >
+        <div className="surface-card-elevated rounded-2xl border border-[var(--surface-border)] p-3">
+          <p className="type-metadata mb-2 text-[var(--text-muted)]">
+            Games
+          </p>
+          <div className="space-y-2">
+            {match.games.map((game, index) => (
+              <div
+                key={`${game}-${index}`}
+                className="flex items-center justify-between gap-3"
+              >
+                <span className="type-card-title text-[var(--text-primary)]">
+                  Game {index + 1}
+                </span>
+                <span className="type-metadata text-[var(--text-muted)]">
+                  {game} - went {match.gameStarts[index] ?? '1st'}
+                </span>
+              </div>
+            ))}
+          </div>
+
+          {hasNotes && (
+            <div className="type-helper mt-3 whitespace-pre-wrap border-t border-white/10 pt-3 text-[var(--text-secondary)]">
+              {match.notes}
+            </div>
+          )}
+        </div>
+      </ContextActionSheet>
     </div>
   )
 }

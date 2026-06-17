@@ -32,7 +32,7 @@ const navigationItems: Array<{
   },
   {
     id: 'matches',
-    label: 'Log',
+    label: 'Matches',
     Icon: LogIcon,
   },
   {
@@ -57,8 +57,8 @@ export default function BottomNavigation({
   setActiveTab,
 }: Props) {
   return (
-    <nav className="fixed inset-x-0 bottom-0 z-50 px-3 pb-[calc(0.5rem+env(safe-area-inset-bottom))]">
-      <div className="surface-overlay mx-auto grid h-[68px] max-w-md grid-cols-5 gap-1 rounded-[30px] border p-1.5 shadow-[0_22px_70px_rgba(0,0,0,0.58)] backdrop-blur-2xl">
+    <nav className="fixed inset-x-0 bottom-[calc(0.875rem+env(safe-area-inset-bottom))] z-50 px-4">
+      <div className="surface-card-glass mx-auto grid h-[60px] max-w-[390px] grid-cols-5 items-center gap-0.5 rounded-full border border-white/12 p-1 shadow-[0_16px_44px_rgba(0,0,0,0.54)] backdrop-blur-2xl">
         {navigationItems.map(({ id, label, Icon }) => {
           const isActive = activeTab === id
 
@@ -69,38 +69,20 @@ export default function BottomNavigation({
               aria-current={isActive ? 'page' : undefined}
               onClick={() => setActiveTab(id)}
               className={cn(
-                'motion-nav-item group relative flex min-h-[56px] flex-col items-center justify-center gap-1 overflow-hidden rounded-[24px]',
+                'motion-nav-item group relative mx-auto flex h-12 min-h-0 min-w-0 items-center justify-center overflow-hidden !rounded-[23px]',
                 isActive
-                  ? 'bg-white/[0.92] text-[#050506] shadow-[0_12px_30px_rgba(23,107,181,0.24),inset_0_1px_0_rgba(255,255,255,0.72)]'
-                  : 'text-[var(--text-muted)] hover:bg-white/10 hover:text-[var(--text-primary)]'
+                  ? 'w-[66px] bg-white/24 text-white shadow-[inset_0_1px_0_rgba(255,255,255,0.16),0_8px_18px_rgba(0,0,0,0.24)]'
+                  : 'w-12 text-white/82 hover:bg-white/10 hover:text-white'
               )}
             >
-              {isActive && (
-                <span
-                  aria-hidden="true"
-                  className="absolute inset-x-5 top-1 h-px rounded-full bg-[#176bb5]/70 motion-surface"
-                />
-              )}
-
               <Icon
                 className={cn(
                   'motion-surface shrink-0',
                   isActive
-                    ? 'h-[21px] w-[21px] text-[#050506]'
-                    : 'h-5 w-5 text-[var(--text-muted)] group-hover:text-[var(--text-primary)]'
+                    ? 'h-7 w-7 text-white'
+                    : 'h-[26px] w-[26px] text-white/86 group-hover:text-white'
                 )}
               />
-
-              <span
-                className={cn(
-                  'motion-surface max-w-full truncate text-[10px] font-semibold leading-none tracking-normal',
-                  isActive
-                    ? 'text-[#050506]'
-                    : 'text-[var(--text-subtle)] group-hover:text-[var(--text-secondary)]'
-                )}
-              >
-                {label}
-              </span>
             </IconButton>
           )
         })}

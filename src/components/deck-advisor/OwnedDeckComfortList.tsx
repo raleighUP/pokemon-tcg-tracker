@@ -41,6 +41,7 @@ export default function OwnedDeckComfortList({
         ownedCandidateDecks.map((deck) => (
           <NestedPanel
             key={deck.id}
+            variant="compact"
             className="space-y-4 rounded-2xl"
           >
             <div className="flex items-start justify-between gap-3">
@@ -56,7 +57,7 @@ export default function OwnedDeckComfortList({
                 )}
               </div>
 
-              <span className="rounded-full bg-white/10 px-2.5 py-1 text-xs font-semibold text-slate-200">
+              <span className="rounded-full bg-white/10 px-2.5 py-1 text-xs font-semibold text-[var(--text-secondary)]">
                 {deck.comfort}/5
               </span>
             </div>

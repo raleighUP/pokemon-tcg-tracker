@@ -71,9 +71,10 @@ export default function ExpectedMetaEditor({
       />
 
       {metaDecks.map((deck, index) => (
-        <div
+        <NestedPanel
           key={index}
-          className="card-row grid grid-cols-[minmax(0,1fr)_5.5rem_3.25rem] gap-2 rounded-2xl p-2"
+          variant="compact"
+          className="grid grid-cols-[minmax(0,1fr)_5.5rem_3.25rem] gap-2 p-2"
         >
           <SelectField
             value={deck.name}
@@ -163,7 +164,7 @@ export default function ExpectedMetaEditor({
           >
             X
           </Button>
-        </div>
+        </NestedPanel>
       ))}
 
       <Button
@@ -173,13 +174,14 @@ export default function ExpectedMetaEditor({
             { name: '', share: 0 },
           ])
         }
-        tone="secondary"
+        tone="tertiary"
         size="sm"
+        className="px-0"
       >
-        + Add Meta Deck
+        Add Meta Deck
       </Button>
 
-      <NestedPanel className="space-y-2 text-sm">
+      <NestedPanel variant="compact" className="space-y-2 text-sm">
         <KeyValueList
           items={[
             {
@@ -277,7 +279,6 @@ export default function ExpectedMetaEditor({
         contentClassName="border-t border-white/10 p-3"
       >
         <SourcePanel
-          className="border-white/8 bg-white/[0.035]"
           sources={[
             {
               label: 'Meta',

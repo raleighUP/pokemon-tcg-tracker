@@ -3,7 +3,6 @@ import {
   EmptyState,
   MetricTile,
   NestedPanel,
-  Panel,
   SectionHeader,
   StatusBadge,
 } from '@/components/ui'
@@ -22,17 +21,15 @@ export default function DeckViewer({
     : 0
 
   return (
-    <Panel className="h-full">
+    <section className="space-y-4">
       <SectionHeader
-        title="Deck Viewer"
-        description="Inspect the selected decklist and its saved metadata."
-        className="mb-4"
+        title="Selected Deck"
       />
 
       {selectedDeck ? (
         <div className="space-y-4">
-          <NestedPanel className="card-hero rounded-[28px] p-4">
-            <StatusBadge className="bg-blue-500/15 text-blue-100">
+          <NestedPanel variant="glass" className="card-hero rounded-[18px] p-4">
+            <StatusBadge className="bg-[rgba(23,107,181,0.15)] text-[#d7ebff]">
               Selected Deck
             </StatusBadge>
 
@@ -52,7 +49,7 @@ export default function DeckViewer({
             </div>
           </NestedPanel>
 
-          <NestedPanel className="rounded-[24px] p-0">
+          <NestedPanel className="rounded-[18px] p-0">
             <div className="border-b border-white/10 px-4 py-3">
               <p className="type-card-title text-[var(--text-primary)]">
                 Decklist
@@ -72,6 +69,6 @@ export default function DeckViewer({
           Select a deck to view its decklist.
         </EmptyState>
       )}
-    </Panel>
+    </section>
   )
 }

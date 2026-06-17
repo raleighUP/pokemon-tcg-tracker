@@ -1,20 +1,116 @@
+import type { ReactNode } from 'react'
 import { useMemo, useState } from 'react'
 import { Deck } from '@/types'
 import { getArchetypeOptions } from '@/utils/archetype-options'
 import {
   Button,
-  DisclosurePanel,
   FieldLabel,
   NestedPanel,
-  Panel,
   ResultPill,
   SectionHeader,
+  SegmentedControl,
   SelectField,
-  Sheet,
   StatusBadge,
   TextareaField,
   TextInput,
+  cn,
 } from '@/components/ui'
+
+type LoggerSection =
+  | 'event'
+  | 'deck'
+  | 'opponent'
+  | 'result'
+  | 'start'
+  | 'notes'
+
+function GuidedSection({
+  id,
+  title,
+  summary,
+  complete,
+  active,
+  focused,
+  invalid,
+  onOpen,
+  children,
+}: {
+  id: LoggerSection
+  title: string
+  summary: ReactNode
+  complete: boolean
+  active: boolean
+  focused: boolean
+  invalid?: boolean
+  onOpen: (id: LoggerSection) => void
+  children: ReactNode
+}) {
+  return (
+    <NestedPanel
+      variant={active ? 'elevated' : 'compact'}
+      className={cn(
+        'overflow-hidden rounded-[18px] p-0',
+        focused && !active && 'border-[rgba(23,107,181,0.48)]',
+        invalid &&
+          'field-error-shake border-[var(--color-error)] ring-2 ring-[rgba(160,24,24,0.42)]'
+      )}
+    >
+      <button
+        type="button"
+        onClick={() => onOpen(id)}
+        className="motion-press flex min-h-[54px] w-full items-center justify-between gap-3 px-4 py-3 text-left"
+        aria-expanded={active}
+      >
+        <div className="min-w-0">
+          <div className="flex items-center gap-2">
+            <span
+              aria-hidden="true"
+              className={cn(
+                'flex h-5 w-5 shrink-0 items-center justify-center rounded-full border text-[11px] font-bold',
+                complete
+                  ? 'border-[var(--color-success)] bg-[rgba(47,116,59,0.18)] text-[#b8dfbe]'
+                  : focused || active
+                  ? 'border-[var(--color-primary)] bg-[rgba(23,107,181,0.16)] text-[#b7dcfb]'
+                  : 'border-[var(--surface-border)] text-[var(--text-muted)]'
+              )}
+            >
+              {complete ? '✓' : ''}
+            </span>
+            <span className="type-card-title text-[var(--text-primary)]">
+              {title}
+            </span>
+          </div>
+
+          {!active && (
+            <div className="type-metadata mt-1 truncate pl-7 text-[var(--text-muted)]">
+              {summary}
+            </div>
+          )}
+        </div>
+
+        <span className="type-metadata shrink-0 text-[#6fb2ed]">
+          {active ? 'Open' : complete ? 'Edit' : 'Next'}
+        </span>
+      </button>
+
+      {active && (
+        <div className="space-y-4 border-t border-white/10 p-4">
+          {children}
+        </div>
+      )}
+    </NestedPanel>
+  )
+}
+
+function EmptyResultHint() {
+  return (
+    <div className="surface-card-elevated rounded-2xl border border-dashed border-[var(--surface-border)] px-4 py-3">
+      <p className="type-helper text-[var(--text-muted)]">
+        Add at least one game result before choosing who went first.
+      </p>
+    </div>
+  )
+}
 
 type Props = {
   eventName: string
@@ -85,8 +181,9 @@ export default function MatchLogger({
   setNotes,
   invalidMatchFields = [],
 }: Props) {
-  const [eventOverlayOpen, setEventOverlayOpen] = useState(false)
-  const [notesOpen, setNotesOpen] = useState(false)
+  const [activeSection, setActiveSection] =
+    useState<LoggerSection>('event')
+  const [opponentFocused, setOpponentFocused] = useState(false)
 
   const opponentOptions = useMemo(() => {
     const options = new Set<string>(getArchetypeOptions())
@@ -103,17 +200,15 @@ export default function MatchLogger({
   const visibleGameCount =
     matchType === 'BO1' ? 1 : Math.min(games.length + 1, 3)
 
-  const eventConfigured =
-    eventName.trim() &&
-    format.trim() &&
-    selectedMatchDeck.trim()
-
   const eventHasError =
     invalidMatchFields.includes('eventName') ||
-    invalidMatchFields.includes('format') ||
+    invalidMatchFields.includes('format')
+
+  const deckHasError =
     invalidMatchFields.includes('selectedMatchDeck')
 
   const gamesHaveError = invalidMatchFields.includes('games')
+  const opponentHasError = invalidMatchFields.includes('opponentDeck')
 
   const validationMessage =
     invalidMatchFields.length > 0
@@ -134,177 +229,257 @@ export default function MatchLogger({
 
   const errorClass = (fieldName: string) =>
     invalidMatchFields.includes(fieldName)
-      ? 'field-error-shake border-red-500 ring-2 ring-red-500/60'
+      ? 'field-error-shake border-[var(--color-error)] ring-2 ring-[rgba(160,24,24,0.6)]'
       : ''
 
+  const eventComplete = Boolean(eventName.trim() && format.trim())
+  const deckComplete = Boolean(selectedMatchDeck.trim())
+  const opponentComplete = Boolean(opponentDeck.trim())
+  const resultComplete = games.length > 0
+  const startComplete = games.length > 0
+  const notesComplete = true
+
+  const sectionState: Record<LoggerSection, boolean> = {
+    event: eventComplete,
+    deck: deckComplete,
+    opponent: opponentComplete,
+    result: resultComplete,
+    start: startComplete,
+    notes: notesComplete,
+  }
+
+  const sectionOrder: LoggerSection[] = [
+    'event',
+    'deck',
+    'opponent',
+    'result',
+    'start',
+    'notes',
+  ]
+
+  const nextIncompleteSection =
+    sectionOrder.find((section) => !sectionState[section]) ?? 'notes'
+
+  const filteredOpponentOptions = useMemo(() => {
+    const query = opponentDeck.trim().toLowerCase()
+
+    if (!query) return opponentOptions.slice(0, 6)
+
+    return opponentOptions
+      .filter((option) =>
+        option.toLowerCase().includes(query)
+      )
+      .slice(0, 6)
+  }, [opponentDeck, opponentOptions])
+
+  const selectOpponentDeck = (value: string) => {
+    setOpponentDeck(value)
+    setOpponentFocused(false)
+    setActiveSection('result')
+  }
+
+  const handleSaveMatch = () => {
+    if (!eventComplete) {
+      setActiveSection('event')
+    } else if (!deckComplete) {
+      setActiveSection('deck')
+    } else if (!opponentComplete) {
+      setActiveSection('opponent')
+    } else if (!resultComplete) {
+      setActiveSection('result')
+    }
+
+    saveMatch()
+  }
+
   return (
-    <Panel className="space-y-5">
+    <section className="space-y-5">
       <SectionHeader
         title="Match Logger"
-        description="Capture the round, result, and context without leaving the tournament flow."
       />
 
-      <NestedPanel
-        className={`card-hero overflow-hidden rounded-[28px] p-0 ${
-          eventHasError
-            ? 'field-error-shake border-red-500 ring-2 ring-red-500/40'
-            : ''
-        }`}
-      >
-        <div className="border-b border-white/10 p-4 sm:p-5">
-          <div className="mb-3 flex items-center justify-between gap-3">
-            <StatusBadge className="bg-blue-500/15 px-2.5 py-1 text-blue-100">
-              Active Event
-            </StatusBadge>
+      <div className="flex items-center justify-between gap-3">
+        <StatusBadge className="bg-white/10 px-2.5 py-1 text-[var(--text-secondary)]">
+          Round {currentRound}
+        </StatusBadge>
+        <StatusBadge className="bg-[rgba(23,107,181,0.15)] px-2.5 py-1 text-[#b7dcfb]">
+          {matchType}
+        </StatusBadge>
+      </div>
 
-            <button
-              type="button"
-              onClick={() => setEventOverlayOpen(true)}
-              className="motion-press rounded-full border border-white/12 bg-white/8 px-3 py-1.5 text-xs font-semibold text-[var(--text-secondary)] hover:border-white/20 hover:bg-white/12 hover:text-white"
-            >
-              {eventConfigured ? 'Edit Event' : 'Set Event'}
-            </button>
-          </div>
-
-          <h3 className="truncate text-[1.75rem] font-[760] leading-none text-white">
-            {eventName || 'No event selected'}
-          </h3>
-
-          <div className="mt-4 grid grid-cols-2 gap-2">
-            <div className="card-data rounded-2xl p-3">
-              <p className="type-metadata text-[var(--text-muted)]">Deck</p>
-              <p className="type-card-title mt-1 truncate text-[var(--text-primary)]">
-                {selectedMatchDeck || 'Not selected'}
-              </p>
-            </div>
-
-            <div className="card-data rounded-2xl p-3">
-              <p className="type-metadata text-[var(--text-muted)]">Format</p>
-              <p className="type-card-title mt-1 truncate text-[var(--text-primary)]">
-                {format || 'Not selected'}
-              </p>
-            </div>
-          </div>
-        </div>
-
-        <div className="grid grid-cols-2 gap-3 p-4">
-          <Button
-            onClick={nextRound}
-            tone="purple"
-            size="lg"
-            className="min-h-[56px] rounded-2xl bg-blue-600 shadow-[0_14px_30px_rgba(23,107,181,0.28)] hover:bg-blue-500"
-          >
-            {roundSuccess ? 'Next!' : 'Next Round'}
-          </Button>
-
-          <Button
-            onClick={() => setEventOverlayOpen(true)}
-            tone="secondary"
-            size="lg"
-            className="min-h-[56px] rounded-2xl bg-white/8 text-[var(--text-secondary)] hover:bg-white/12 hover:text-white"
-          >
-            New Event
-          </Button>
-        </div>
-      </NestedPanel>
-
-      <NestedPanel className="space-y-4 rounded-[28px] p-4 sm:p-5">
-        <div className="flex items-start justify-between gap-3">
-          <div>
-            <p className="type-metadata text-[var(--text-muted)]">
-              Round {currentRound}
-            </p>
-            <h3 className="type-section-title mt-1 text-[var(--text-primary)]">
-              Log Match
-            </h3>
-          </div>
-
-          <StatusBadge className="bg-white/10 px-2.5 py-1 text-[var(--text-secondary)]">
-            {matchType}
-          </StatusBadge>
-        </div>
-
-        <div className="card-data rounded-2xl p-3">
-          <FieldLabel className="mb-2 text-[var(--text-muted)]">
-            Opponent Deck
-          </FieldLabel>
-
-          <TextInput
-            value={opponentDeck}
-            onChange={(e) => setOpponentDeck(e.target.value)}
-            aria-label="Opponent deck"
-            placeholder="Search archetype or deck name"
-            autoComplete="off"
-            inputMode="search"
-            enterKeyHint="next"
-            list="opponent-archetype-options"
-            className={`min-h-[56px] bg-black/18 ${errorClass(
-              'opponentDeck'
-            )}`}
-          />
-        </div>
-
-        <datalist id="opponent-archetype-options">
-          {opponentOptions.map((option) => (
-            <option key={option} value={option} />
-          ))}
-        </datalist>
-
-        <div className="grid grid-cols-2 gap-1 rounded-2xl border border-white/10 bg-black/20 p-1">
-          <button
-            onClick={() => {
-              setMatchType('BO1')
-              clearGames()
-            }}
-            className={`motion-press rounded-xl px-4 py-3 text-sm font-semibold ${
-              matchType === 'BO1'
-                ? 'bg-white text-black shadow-[0_10px_24px_rgba(0,0,0,0.25)]'
-                : 'text-[var(--text-muted)] hover:bg-white/5 hover:text-white'
-            }`}
-          >
-            Best of 1
-          </button>
-
-          <button
-            onClick={() => {
-              setMatchType('BO3')
-              clearGames()
-            }}
-            className={`motion-press rounded-xl px-4 py-3 text-sm font-semibold ${
-              matchType === 'BO3'
-                ? 'bg-white text-black shadow-[0_10px_24px_rgba(0,0,0,0.25)]'
-                : 'text-[var(--text-muted)] hover:bg-white/5 hover:text-white'
-            }`}
-          >
-            Best of 3
-          </button>
-        </div>
-
-        <div
-          className={`card-data rounded-2xl p-3 ${
-            gamesHaveError
-              ? 'field-error-shake border-red-500 ring-2 ring-red-500/60'
-              : ''
-          }`}
+      <div className="space-y-3">
+        <GuidedSection
+          id="event"
+          title="Event"
+          summary={
+            eventComplete
+              ? `${eventName} - ${format}`
+              : 'Event name and format'
+          }
+          complete={eventComplete}
+          active={activeSection === 'event'}
+          focused={nextIncompleteSection === 'event'}
+          invalid={eventHasError}
+          onOpen={setActiveSection}
         >
-          <div className="mb-3 flex items-center justify-between gap-3">
-            <div>
-              <p className="type-card-title text-[var(--text-primary)]">
-                Match Result
-              </p>
-              <p className="type-metadata mt-1 text-[var(--text-subtle)]">
-                Tap a result, then confirm who went first.
-              </p>
-            </div>
-
-            <button
-              type="button"
-              onClick={clearGames}
-              className="motion-press shrink-0 rounded-full border border-white/10 px-3 py-1.5 text-xs font-semibold text-[var(--text-muted)] hover:bg-white/10 hover:text-white"
-            >
-              Clear
-            </button>
+          <div>
+            <FieldLabel>Event Name</FieldLabel>
+            <TextInput
+              value={eventName}
+              onChange={(event) => setEventName(event.target.value)}
+              aria-label="Event name"
+              placeholder="Event Name"
+              autoComplete="organization"
+              enterKeyHint="next"
+              className={errorClass('eventName')}
+            />
           </div>
+
+          <div>
+            <FieldLabel>Format</FieldLabel>
+            <SelectField
+              value={format}
+              onChange={(event) => {
+                setFormat(event.target.value)
+                if (eventName.trim()) setActiveSection('deck')
+              }}
+              aria-label="Format"
+              className={errorClass('format')}
+            >
+              <option value="">Format</option>
+              <option value="TEF-POR">TEF-POR</option>
+              <option value="Gym Leader Challenge">
+                Gym Leader Challenge
+              </option>
+              <option value="Expanded">Expanded</option>
+            </SelectField>
+          </div>
+
+          <div className="grid grid-cols-2 gap-3">
+            <Button
+              onClick={nextRound}
+              tone="secondary"
+              className="min-h-12"
+            >
+              {roundSuccess ? 'Next!' : 'Next Round'}
+            </Button>
+            <Button
+              onClick={startNewEvent}
+              tone="secondary"
+              className="min-h-12"
+            >
+              {eventSuccess ? 'Started!' : 'New Event'}
+            </Button>
+          </div>
+        </GuidedSection>
+
+        <GuidedSection
+          id="deck"
+          title="Your Deck"
+          summary={deckComplete ? selectedMatchDeck : 'Select your deck'}
+          complete={deckComplete}
+          active={activeSection === 'deck'}
+          focused={nextIncompleteSection === 'deck'}
+          invalid={deckHasError}
+          onOpen={setActiveSection}
+        >
+          <FieldLabel>Your Deck</FieldLabel>
+          <SelectField
+            value={selectedMatchDeck}
+            onChange={(event) => {
+              setSelectedMatchDeck(event.target.value)
+              if (event.target.value) setActiveSection('opponent')
+            }}
+            aria-label="Your deck"
+            className={errorClass('selectedMatchDeck')}
+          >
+            <option value="">Your Deck</option>
+            {decks.map((deck) => (
+              <option key={deck.id} value={deck.name}>
+                {deck.name}
+              </option>
+            ))}
+          </SelectField>
+        </GuidedSection>
+
+        <GuidedSection
+          id="opponent"
+          title="Opponent Deck"
+          summary={opponentComplete ? opponentDeck : 'Search archetype or deck name'}
+          complete={opponentComplete}
+          active={activeSection === 'opponent'}
+          focused={nextIncompleteSection === 'opponent'}
+          invalid={opponentHasError}
+          onOpen={setActiveSection}
+        >
+          <FieldLabel>Opponent Deck</FieldLabel>
+          <div className="relative">
+            <TextInput
+              value={opponentDeck}
+              onChange={(event) => {
+                setOpponentDeck(event.target.value)
+                setOpponentFocused(true)
+              }}
+              onFocus={() => setOpponentFocused(true)}
+              onKeyDown={(event) => {
+                if (event.key === 'Enter' && opponentDeck.trim()) {
+                  event.preventDefault()
+                  selectOpponentDeck(
+                    filteredOpponentOptions[0] ?? opponentDeck
+                  )
+                }
+              }}
+              aria-label="Opponent deck"
+              placeholder="Search archetype or deck name"
+              autoComplete="off"
+              inputMode="text"
+              enterKeyHint="next"
+              className={`min-h-[56px] ${errorClass('opponentDeck')}`}
+            />
+
+            {opponentFocused && filteredOpponentOptions.length > 0 && (
+              <div className="surface-card-glass absolute inset-x-0 top-[calc(100%+0.5rem)] z-20 max-h-56 overflow-y-auto rounded-2xl border border-[var(--surface-border)] p-1 shadow-[0_18px_48px_rgba(0,0,0,0.44)]">
+                {filteredOpponentOptions.map((option) => (
+                  <button
+                    key={option}
+                    type="button"
+                    onMouseDown={(event) => event.preventDefault()}
+                    onClick={() => selectOpponentDeck(option)}
+                    className="motion-press type-card-title block w-full rounded-xl px-3 py-2.5 text-left text-[var(--text-primary)] hover:bg-white/10"
+                  >
+                    {option}
+                  </button>
+                ))}
+              </div>
+            )}
+          </div>
+        </GuidedSection>
+
+        <GuidedSection
+          id="result"
+          title="Match Result"
+          summary={
+            resultComplete
+              ? games.map((game, index) => `G${index + 1} ${game}`).join(' / ')
+              : 'Choose Win, Loss, or Tie'
+          }
+          complete={resultComplete}
+          active={activeSection === 'result'}
+          focused={nextIncompleteSection === 'result'}
+          invalid={gamesHaveError}
+          onOpen={setActiveSection}
+        >
+          <SegmentedControl
+            value={matchType}
+            onChange={(nextMatchType) => {
+              setMatchType(nextMatchType)
+              clearGames()
+            }}
+            options={[
+              { label: 'BO1', value: 'BO1' },
+              { label: 'BO3', value: 'BO3' },
+            ]}
+          />
 
           <div className="space-y-2">
             {Array.from({ length: visibleGameCount }).map((_, index) => {
@@ -313,65 +488,130 @@ export default function MatchLogger({
               return (
                 <div
                   key={index}
-                  className="card-row flex min-h-[60px] items-center justify-between rounded-2xl px-3"
+                  className={cn(
+                    'card-row flex min-h-[56px] items-center justify-between rounded-2xl px-3',
+                    result === 'W' && 'border-[rgba(47,116,59,0.35)] bg-[rgba(47,116,59,0.12)]',
+                    result === 'L' && 'border-[rgba(160,24,24,0.35)] bg-[rgba(160,24,24,0.12)]',
+                    result === 'T' && 'border-[rgba(220,192,65,0.35)] bg-[rgba(220,192,65,0.12)]'
+                  )}
+                >
+                  <span className="type-card-title text-[var(--text-secondary)]">
+                    Game {index + 1}
+                  </span>
+                  {result ? (
+                    <ResultPill result={result} />
+                  ) : (
+                    <span className="type-metadata text-[var(--text-subtle)]">
+                      Awaiting result
+                    </span>
+                  )}
+                </div>
+              )
+            })}
+          </div>
+
+          <div className="grid grid-cols-3 gap-2">
+            <Button
+              onClick={() => toggleGameResult('W')}
+              tone="success"
+              size="lg"
+              className="min-h-[60px] rounded-2xl bg-[var(--color-success)] text-base shadow-[0_14px_30px_rgba(47,116,59,0.18)]"
+            >
+              Win
+            </Button>
+            <Button
+              onClick={() => toggleGameResult('L')}
+              tone="danger"
+              size="lg"
+              className="min-h-[60px] rounded-2xl bg-[var(--color-error)] text-base text-white shadow-[0_14px_30px_rgba(160,24,24,0.18)] hover:bg-[#b32020]"
+            >
+              Loss
+            </Button>
+            <Button
+              onClick={() => toggleGameResult('T')}
+              tone="accent"
+              size="lg"
+              className="min-h-[60px] rounded-2xl text-base"
+            >
+              Tie
+            </Button>
+          </div>
+
+          {games.length > 0 && (
+            <Button
+              onClick={() => setActiveSection('start')}
+              tone="tertiary"
+              className="w-full"
+            >
+              Continue to First/Second
+            </Button>
+          )}
+        </GuidedSection>
+
+        <GuidedSection
+          id="start"
+          title="Going First/Second"
+          summary={
+            games.length > 0
+              ? games
+                  .map((_, index) => `G${index + 1} ${gameStarts[index] ?? '1st'}`)
+                  .join(' / ')
+              : 'Add a result first'
+          }
+          complete={startComplete}
+          active={activeSection === 'start'}
+          focused={nextIncompleteSection === 'start'}
+          onOpen={setActiveSection}
+        >
+          {games.length > 0 ? (
+            <div className="space-y-2">
+              {games.map((game, index) => (
+                <div
+                  key={`${game}-${index}`}
+                  className="card-row flex min-h-[56px] items-center justify-between rounded-2xl px-3"
                 >
                   <div className="flex items-center gap-3">
                     <span className="type-card-title text-[var(--text-secondary)]">
                       Game {index + 1}
                     </span>
-
-                    {result ? (
-                      <ResultPill result={result} />
-                    ) : (
-                      <span className="type-metadata text-[var(--text-subtle)]">
-                        Awaiting result
-                      </span>
-                    )}
+                    <ResultPill result={game} />
                   </div>
-
                   <button
                     type="button"
                     onClick={() => toggleGameStart(index)}
-                    aria-label={`Toggle Game ${index + 1} starting order`}
-                    className="motion-press rounded-full border border-white/10 bg-white/8 px-3 py-1.5 text-xs font-semibold text-[var(--text-secondary)] hover:bg-white/12 hover:text-white"
+                    className="motion-press min-h-11 rounded-full border border-white/10 bg-white/8 px-4 text-sm font-semibold text-[var(--text-secondary)] hover:bg-white/12 hover:text-white"
                   >
                     Went {gameStarts[index] ?? '1st'}
                   </button>
                 </div>
-              )
-            })}
-          </div>
-        </div>
+              ))}
+            </div>
+          ) : (
+            <EmptyResultHint />
+          )}
+        </GuidedSection>
 
-        <div className="grid grid-cols-3 gap-2">
-          <Button
-            onClick={() => toggleGameResult('W')}
-            tone="success"
-            size="lg"
-            className="min-h-[68px] rounded-2xl bg-green-500 text-lg shadow-[0_14px_30px_rgba(34,197,94,0.18)] hover:bg-green-400"
-          >
-            Win
-          </Button>
-
-          <Button
-            onClick={() => toggleGameResult('L')}
-            tone="danger"
-            size="lg"
-            className="min-h-[68px] rounded-2xl bg-red-600 text-lg text-white shadow-[0_14px_30px_rgba(220,38,38,0.18)] hover:bg-red-500"
-          >
-            Loss
-          </Button>
-
-          <Button
-            onClick={() => toggleGameResult('T')}
-            tone="accent"
-            size="lg"
-            className="min-h-[68px] rounded-2xl text-lg shadow-[0_14px_30px_rgba(250,204,21,0.14)]"
-          >
-            Tie
-          </Button>
-        </div>
-      </NestedPanel>
+        <GuidedSection
+          id="notes"
+          title="Notes"
+          summary={notes.trim() ? 'Notes added' : 'Optional'}
+          complete={notesComplete}
+          active={activeSection === 'notes'}
+          focused={nextIncompleteSection === 'notes'}
+          onOpen={setActiveSection}
+        >
+          <TextareaField
+            value={notes}
+            onChange={(event) => setNotes(event.target.value)}
+            expandable
+            rows={2}
+            aria-label="Match notes"
+            placeholder="Match Notes (optional)"
+            enterKeyHint="done"
+            className="min-h-[88px]"
+          />
+        </GuidedSection>
+      </div>
 
       <div className="grid grid-cols-2 gap-3">
         <Button
@@ -384,10 +624,10 @@ export default function MatchLogger({
         </Button>
 
         <Button
-          onClick={saveMatch}
-          tone="purple"
+          onClick={handleSaveMatch}
+          tone="primary"
           size="lg"
-          className="min-h-[56px] rounded-2xl bg-blue-600 shadow-[0_14px_30px_rgba(23,107,181,0.28)] hover:bg-blue-500"
+          className="min-h-[56px] rounded-2xl shadow-[0_14px_30px_rgba(23,107,181,0.28)]"
         >
           {saveSuccess ? 'Saved!' : 'Save Match'}
         </Button>
@@ -397,149 +637,23 @@ export default function MatchLogger({
         <NestedPanel
           className={`rounded-2xl px-4 py-3 text-sm font-medium ${
             validationMessage
-              ? 'border-red-500/60 bg-red-950/30 text-red-100'
-              : 'border-green-400/40 bg-green-950/20 text-green-100 shadow-[0_16px_36px_rgba(34,197,94,0.08)]'
+              ? 'border-[rgba(160,24,24,0.6)] bg-[rgba(160,24,24,0.18)] text-[#ffd1d1]'
+              : 'border-[rgba(47,116,59,0.5)] bg-[rgba(47,116,59,0.16)] text-[#d6f0db] shadow-[0_16px_36px_rgba(47,116,59,0.08)]'
           }`}
         >
-          {feedbackMessage}
+          <span className="flex items-center gap-2">
+            {!validationMessage && (
+              <span
+                aria-hidden="true"
+                className="motion-success-pop flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-[var(--color-success)] text-xs font-bold text-white"
+              >
+                ✓
+              </span>
+            )}
+            <span>{feedbackMessage}</span>
+          </span>
         </NestedPanel>
       )}
-
-      <DisclosurePanel
-        open={notesOpen}
-        actionOpen={notesOpen}
-        onToggle={() => setNotesOpen((current) => !current)}
-        actionOpenLabel="Show"
-        actionCloseLabel="Hide"
-        className="rounded-2xl"
-        buttonClassName="px-4 py-3"
-        contentClassName="px-4 pb-4"
-        header={
-          <span>
-            <span className="type-card-title block text-[var(--text-secondary)]">
-              Match Notes
-            </span>
-            <span className="type-metadata mt-1 block text-[var(--text-subtle)]">
-              Optional context for later review
-            </span>
-          </span>
-        }
-      >
-        <TextareaField
-          value={notes}
-          onChange={(e) => setNotes(e.target.value)}
-          expandable
-          rows={1}
-          aria-label="Match notes"
-          placeholder="Match Notes (optional)"
-          enterKeyHint="done"
-          className="min-h-[56px]"
-        />
-      </DisclosurePanel>
-
-      <Sheet
-        open={eventOverlayOpen}
-        onClose={() => setEventOverlayOpen(false)}
-        ariaLabel="event setup"
-      >
-        <div className="max-h-[calc(100dvh-7rem)] overflow-y-auto p-4 pt-3">
-          <div className="mb-4 flex items-start justify-between gap-3">
-            <div>
-              <p className="type-metadata text-[var(--text-muted)]">
-                Event Setup
-              </p>
-              <h3 className="type-section-title mt-1 text-[var(--text-primary)]">
-                Active Event
-              </h3>
-            </div>
-
-            <button
-              type="button"
-              onClick={() => setEventOverlayOpen(false)}
-              className="motion-press rounded-full border border-white/10 px-3 py-1 text-xs font-semibold text-[var(--text-secondary)] hover:bg-white/10 hover:text-white"
-            >
-              Done
-            </button>
-          </div>
-
-          <div className="space-y-4">
-            <div>
-              <FieldLabel>
-                Event Name
-              </FieldLabel>
-
-              <TextInput
-                value={eventName}
-                onChange={(e) => setEventName(e.target.value)}
-                aria-label="Event name"
-                placeholder="Event Name"
-                autoComplete="organization"
-                enterKeyHint="next"
-                className={errorClass(
-                  'eventName'
-                )}
-              />
-            </div>
-
-            <div className="grid grid-cols-1 gap-4">
-              <div>
-                <FieldLabel>
-                  Format
-                </FieldLabel>
-
-                <SelectField
-                  value={format}
-                  onChange={(e) => setFormat(e.target.value)}
-                  aria-label="Format"
-                  className={errorClass(
-                    'format'
-                  )}
-                >
-                  <option value="">Format</option>
-                  <option value="TEF-POR">TEF-POR</option>
-                  <option value="Gym Leader Challenge">
-                    Gym Leader Challenge
-                  </option>
-                  <option value="Expanded">Expanded</option>
-                </SelectField>
-              </div>
-
-              <div>
-                <FieldLabel>
-                  Your Deck
-                </FieldLabel>
-
-                <SelectField
-                  value={selectedMatchDeck}
-                  onChange={(e) =>
-                    setSelectedMatchDeck(e.target.value)
-                  }
-                  aria-label="Your deck"
-                  className={errorClass(
-                    'selectedMatchDeck'
-                  )}
-                >
-                  <option value="">Your Deck</option>
-                  {decks.map((deck) => (
-                    <option key={deck.id} value={deck.name}>
-                      {deck.name}
-                    </option>
-                  ))}
-                </SelectField>
-              </div>
-            </div>
-
-            <Button
-              onClick={startNewEvent}
-              tone="primary"
-              size="lg"
-              className="w-full min-h-[56px]"
-            >
-              {eventSuccess ? 'Started!' : 'Start New Event'}
-            </Button>
-          </div>
-        </div>
-      </Sheet>
-    </Panel>
+    </section>
   )
 }

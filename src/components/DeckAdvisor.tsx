@@ -27,10 +27,11 @@ import {
   Button,
   DisclosurePanel,
   EmptyState,
-  KeyValueList,
+  MetricRow,
+  MetricTile,
   NestedPanel,
-  Panel,
   SectionHeader,
+  SegmentedControl,
   StatusBadge,
 } from '@/components/ui'
 import AdvisorModeControl from './deck-advisor/AdvisorModeControl'
@@ -199,6 +200,32 @@ function readStoredAdvisorData(): StoredAdvisorData {
     localStorage.removeItem(ADVISOR_STORAGE_KEY)
     return {}
   }
+}
+
+function getEventTypeLabel(eventType: EventType) {
+  if (eventType === 'challenge') return 'League Challenge'
+  if (eventType === 'cup') return 'League Cup'
+  return 'Regional'
+}
+
+function getEliminationRounds(topCutSize: number) {
+  return topCutSize > 1 ? Math.ceil(Math.log2(topCutSize)) : 0
+}
+
+function getToWinRequirement(
+  swissRounds: number,
+  topCutSize: number,
+  totalEventLength?: number
+) {
+  if (totalEventLength) return `${totalEventLength} rounds`
+
+  const eliminationRounds = getEliminationRounds(topCutSize)
+
+  if (eliminationRounds > 0) {
+    return `${swissRounds + eliminationRounds} rounds`
+  }
+
+  return `${swissRounds} rounds`
 }
 
 export default function DeckAdvisor({ decks }: Props) {
@@ -530,47 +557,198 @@ export default function DeckAdvisor({ decks }: Props) {
 
   const hasRecommendations = results.length > 0
   const topRecommendation = results[0]
+  const visibleMetaBreakdown = metaBreakdown
+    .slice()
+    .sort((a, b) => b.normalizedShare - a.normalizedShare)
+  const previewMetaBreakdown = visibleMetaBreakdown.slice(0, 5)
+  const hasFullMeta = visibleMetaBreakdown.length > previewMetaBreakdown.length
+  const tournamentConfigured = eventSize > 0
+  const topCutRequirement =
+    structure.topCutSize > 0 ? structure.topCutLabel : 'None'
+  const phaseTwoRequirement = structure.phaseTwoThreshold
+    ? `${structure.phaseTwoThreshold} points`
+    : 'None'
+  const toWinRequirement = tournamentConfigured
+    ? getToWinRequirement(
+        structure.swissRounds,
+        structure.topCutSize,
+        structure.totalEventLength
+      )
+    : 'Set players'
+
+  const tournamentSummaryCard = (
+    <NestedPanel
+      variant="glass"
+      className="overflow-hidden rounded-[18px] p-4"
+    >
+      <div className="flex items-start justify-between gap-4">
+        <div>
+          <p className="type-metadata text-[var(--text-muted)]">
+            {getEventTypeLabel(eventType)}
+          </p>
+          <p className="mt-1 text-[3rem] font-[780] leading-none text-[var(--text-primary)]">
+            {tournamentConfigured ? eventSize : '--'}
+          </p>
+          <p className="type-metadata mt-1 text-[var(--text-muted)]">
+            players
+          </p>
+        </div>
+
+        <Button
+          tone="tertiary"
+          size="sm"
+          onClick={() => setEventSetupOpen(true)}
+          className="min-h-9 shrink-0 px-2"
+        >
+          Change
+        </Button>
+      </div>
+
+      <div className="mt-4 grid grid-cols-2 gap-2">
+        <MetricTile
+          label={structure.phaseOneRounds ? 'Total Swiss' : 'Swiss'}
+          value={
+            tournamentConfigured
+              ? structure.totalSwissRounds || structure.swissRounds
+              : '--'
+          }
+          className="bg-[rgba(23,107,181,0.12)]"
+          valueClassName="text-[#b7dcfb]"
+        />
+
+        <MetricTile
+          label="Top Cut"
+          value={tournamentConfigured ? topCutRequirement : '--'}
+        />
+
+        <MetricTile
+          label="Phase 2"
+          value={tournamentConfigured ? phaseTwoRequirement : '--'}
+          valueClassName={
+            structure.phaseTwoThreshold ? 'text-[#b7dcfb]' : undefined
+          }
+        />
+
+        <MetricTile
+          label="To Win"
+          value={toWinRequirement}
+          valueClassName="text-[#b7dcfb]"
+        />
+      </div>
+    </NestedPanel>
+  )
+
+  const expectedMetaSection = (
+    <NestedPanel className="rounded-[18px] p-4">
+      <div className="mb-3 flex items-center justify-between gap-3">
+        <SectionHeader title="Expected Meta" level={3} />
+        <Button
+          tone="tertiary"
+          size="sm"
+          onClick={() => setMetaSetupOpen(true)}
+          className="min-h-9 shrink-0 px-2"
+        >
+          Edit
+        </Button>
+      </div>
+
+      <SegmentedControl
+        value={metaInputMode}
+        onChange={setMetaInputMode}
+        options={[
+          { label: '% of Field', value: 'percent' },
+          { label: '# Players', value: 'players' },
+        ]}
+        className="mb-3"
+      />
+
+      {previewMetaBreakdown.length > 0 ? (
+        <div className="space-y-2">
+          {previewMetaBreakdown.map((metaDeck) => {
+            const valueLabel =
+              metaInputMode === 'percent'
+                ? `${metaDeck.normalizedShare.toFixed(1)}%`
+                : `${metaDeck.roundedPlayers} players`
+
+            return (
+              <div key={metaDeck.name} className="space-y-1">
+                <div className="flex items-center justify-between gap-3">
+                  <span className="type-card-title min-w-0 truncate text-[var(--text-primary)]">
+                    {metaDeck.name}
+                  </span>
+                  <span className="type-metadata shrink-0 text-[var(--text-secondary)]">
+                    {valueLabel}
+                  </span>
+                </div>
+                <div className="h-1.5 overflow-hidden rounded-full bg-white/8">
+                  <div
+                    className="h-full rounded-full bg-[var(--color-primary)]"
+                    style={{
+                      width: `${Math.min(
+                        100,
+                        metaDeck.normalizedShare
+                      )}%`,
+                    }}
+                  />
+                </div>
+              </div>
+            )
+          })}
+
+          {otherMetaTotal > 0 && (
+            <MetricRow
+              label="Other"
+              value={
+                metaInputMode === 'percent'
+                  ? `${otherMetaTotal}%`
+                  : `${otherMetaTotal} players`
+              }
+              className="border-t border-white/10 pt-2"
+            />
+          )}
+
+          {hasFullMeta && (
+            <button
+              type="button"
+              onClick={() => setMetaSetupOpen(true)}
+              className="motion-press type-card-title w-full rounded-xl py-2 text-left text-[#6fb2ed] hover:bg-[rgba(23,107,181,0.1)]"
+            >
+              View full meta
+            </button>
+          )}
+        </div>
+      ) : (
+        <div className="space-y-3">
+          <EmptyState>
+            Add expected archetypes to preview the field.
+          </EmptyState>
+
+          <Button
+            onClick={() => {
+              setMetaInputMode('percent')
+              setMetaDecks(suggestedMeta)
+            }}
+            tone="primary"
+            className="w-full"
+          >
+            Use Suggested Meta
+          </Button>
+        </div>
+      )}
+    </NestedPanel>
+  )
 
   const recommendationSection = (
     <div className="space-y-3">
       <div className="flex items-center justify-between gap-3">
-        <SectionHeader title="Recommendation" level={3} />
+        <SectionHeader title="Recommended Decks" level={3} />
 
         {hasRecommendations && (
-          <StatusBadge className="bg-blue-500/15 px-2.5 py-1 text-blue-200">
+          <StatusBadge className="bg-[rgba(23,107,181,0.15)] px-2.5 py-1 text-[#b7dcfb]">
             {candidateSource === 'owned' ? 'Owned' : 'Top Meta'}
           </StatusBadge>
         )}
       </div>
-
-      <NestedPanel className="rounded-2xl">
-        <KeyValueList
-          className="text-sm"
-          items={[
-            {
-              label: 'Expected Field',
-              value:
-                normalizedMetaDecks.length > 0
-                  ? `${normalizedMetaDecks.length} decks`
-                  : 'Not set',
-            },
-            {
-              label: 'Event',
-              value:
-                eventSize > 0
-                  ? `${eventType} - ${eventSize} players`
-                  : eventType,
-            },
-            {
-              label: 'Mode',
-              value:
-                candidateSource === 'owned'
-                  ? 'Owned Decks'
-                  : 'Top Meta',
-            },
-          ]}
-        />
-      </NestedPanel>
 
       {hasRecommendations ? (
         <div className="space-y-3">
@@ -632,15 +810,19 @@ export default function DeckAdvisor({ decks }: Props) {
   )
 
   return (
-    <Panel className="space-y-6">
+    <section className="space-y-5">
       <SectionHeader
-        title="Deck Advisor"
+        title="Advisor"
       />
+
+      {tournamentSummaryCard}
+
+      {expectedMetaSection}
 
       {recommendationSection}
 
       <DisclosurePanel
-        title="Tournament Context"
+        title="Tournament Setup"
         description={
           eventSize > 0
             ? `${eventType} - ${eventSize} players`
@@ -661,7 +843,7 @@ export default function DeckAdvisor({ decks }: Props) {
       </DisclosurePanel>
 
       <DisclosurePanel
-        title="Expected Field"
+        title="Full Meta Editor"
         description={
           normalizedMetaDecks.length > 0
             ? `${normalizedMetaDecks.length} decks entered`
@@ -688,7 +870,7 @@ export default function DeckAdvisor({ decks }: Props) {
       </DisclosurePanel>
 
       <DisclosurePanel
-        title="Candidate Decks"
+        title="Candidate Decks & Sources"
         description={
           candidateSource === 'owned'
             ? `${ownedCandidateDecks.length} owned decks`
@@ -718,6 +900,6 @@ export default function DeckAdvisor({ decks }: Props) {
           )}
         </div>
       </DisclosurePanel>
-    </Panel>
+    </section>
   )
 }

@@ -1,5 +1,6 @@
 import type {
   ButtonHTMLAttributes,
+  CSSProperties,
   HTMLAttributes,
   InputHTMLAttributes,
   ReactNode,
@@ -7,10 +8,13 @@ import type {
   TextareaHTMLAttributes,
 } from 'react'
 import { forwardRef } from 'react'
+export { ContextActionSheet } from './ContextActionSheet'
+export { SwipeActionRow } from './SwipeActionRow'
 
 type Tone =
   | 'primary'
   | 'secondary'
+  | 'tertiary'
   | 'accent'
   | 'danger'
   | 'success'
@@ -27,29 +31,37 @@ type FeedbackTone =
   | 'danger'
 
 type MatchupTone = 'favored' | 'neutral' | 'unfavored'
+type CardVariant = 'default' | 'elevated' | 'glass' | 'compact'
 
 export function cn(...classes: Array<string | false | null | undefined>) {
   return classes.filter(Boolean).join(' ')
 }
 
 const fieldBaseClass =
-  'motion-surface w-full min-h-12 rounded-2xl border border-white/10 bg-white/[0.055] px-4 py-3 text-base leading-tight text-[var(--text-primary)] shadow-[inset_0_1px_0_rgba(255,255,255,0.045)] outline-none placeholder:text-[var(--text-subtle)] focus:border-[#176bb5]/70 focus:bg-white/[0.075] focus-visible:ring-2 focus-visible:ring-[#176bb5]/35 disabled:border-white/5 disabled:bg-white/[0.025] disabled:text-[var(--text-subtle)]'
+  'motion-surface w-full min-h-12 rounded-2xl border border-[var(--surface-border)] bg-[var(--surface-elevated)] px-4 py-3 text-base leading-tight text-[var(--text-primary)] shadow-[inset_0_1px_0_rgba(255,255,255,0.035)] outline-none placeholder:text-[var(--text-muted)] focus:border-[var(--color-primary)] focus:bg-[#202024] focus-visible:ring-2 focus-visible:ring-[rgba(23,107,181,0.35)] disabled:border-[var(--surface-border)] disabled:bg-[#101012] disabled:text-[var(--text-muted)]'
 
 const fieldErrorClass =
-  'border-red-500/80 bg-red-950/20 ring-2 ring-red-500/40'
+  'border-[var(--color-error)] bg-[rgba(160,24,24,0.16)] ring-2 ring-[rgba(160,24,24,0.38)]'
 
 const feedbackToneClasses: Record<FeedbackTone, string> = {
-  neutral: 'bg-slate-800 text-slate-300',
-  info: 'bg-blue-500 text-white',
-  success: 'bg-green-500 text-white',
-  warning: 'bg-yellow-400 text-black',
-  danger: 'bg-red-500 text-white',
+  neutral: 'bg-[var(--surface-elevated)] text-[var(--text-secondary)]',
+  info: 'bg-[var(--color-primary)] text-white',
+  success: 'bg-[var(--color-success)] text-white',
+  warning: 'bg-[var(--color-warning)] text-black',
+  danger: 'bg-[var(--color-error)] text-white',
 }
 
 const matchupToneClasses: Record<MatchupTone, string> = {
-  favored: 'border-green-500 bg-green-950/20',
-  neutral: 'border-yellow-500 bg-yellow-950/20',
-  unfavored: 'border-red-500 bg-red-950/20',
+  favored: 'border-[var(--color-success)] bg-[rgba(47,116,59,0.16)]',
+  neutral: 'border-[var(--color-warning)] bg-[rgba(220,192,65,0.13)]',
+  unfavored: 'border-[var(--color-error)] bg-[rgba(160,24,24,0.16)]',
+}
+
+const cardVariantClasses: Record<CardVariant, string> = {
+  default: 'surface-card-default p-4',
+  elevated: 'surface-card-elevated p-4',
+  glass: 'surface-card-glass p-4 backdrop-blur-xl',
+  compact: 'surface-card-elevated p-3',
 }
 
 export function AppShell({
@@ -60,11 +72,9 @@ export function AppShell({
   bottomNavigation?: ReactNode
 }) {
   return (
-    <main className="app-shell-surface min-h-dvh px-4 pt-[calc(1.25rem+env(safe-area-inset-top))] text-white sm:px-6 sm:pt-[calc(1.5rem+env(safe-area-inset-top))]">
+    <main className="app-shell-surface min-h-dvh px-4 pt-[calc(1rem+env(safe-area-inset-top))] text-[var(--text-primary)] sm:px-6 sm:pt-[calc(1.25rem+env(safe-area-inset-top))]">
       <div className="mx-auto max-w-6xl">
-        <div className="motion-surface pb-[calc(6rem+env(safe-area-inset-bottom))]">
-          {children}
-        </div>
+        <div className="pb-[calc(6.25rem+env(safe-area-inset-bottom))]">{children}</div>
       </div>
 
       {bottomNavigation}
@@ -74,12 +84,16 @@ export function AppShell({
 
 export function Panel({
   className,
+  variant = 'default',
   ...props
-}: HTMLAttributes<HTMLDivElement>) {
+}: HTMLAttributes<HTMLDivElement> & {
+  variant?: CardVariant
+}) {
   return (
     <div
       className={cn(
-        'surface-primary card-workflow motion-surface rounded-2xl border p-5 sm:p-6',
+        'motion-surface rounded-[18px] border',
+        cardVariantClasses[variant],
         className
       )}
       {...props}
@@ -89,12 +103,16 @@ export function Panel({
 
 export function NestedPanel({
   className,
+  variant = 'elevated',
   ...props
-}: HTMLAttributes<HTMLDivElement>) {
+}: HTMLAttributes<HTMLDivElement> & {
+  variant?: CardVariant
+}) {
   return (
     <div
       className={cn(
-        'surface-secondary card-detail motion-surface rounded-xl border p-4',
+        'motion-surface rounded-2xl border',
+        cardVariantClasses[variant],
         className
       )}
       {...props}
@@ -104,12 +122,16 @@ export function NestedPanel({
 
 export function OverlayCard({
   className,
+  variant = 'glass',
   ...props
-}: HTMLAttributes<HTMLDivElement>) {
+}: HTMLAttributes<HTMLDivElement> & {
+  variant?: CardVariant
+}) {
   return (
     <div
       className={cn(
-        'surface-overlay motion-surface z-20 overflow-hidden rounded-xl border',
+        'motion-surface z-20 overflow-hidden rounded-[18px] border',
+        cardVariantClasses[variant],
         className
       )}
       {...props}
@@ -124,6 +146,7 @@ export function Sheet({
   ariaLabel,
   className,
   contentClassName,
+  contentStyle,
 }: {
   open: boolean
   onClose: () => void
@@ -131,6 +154,7 @@ export function Sheet({
   ariaLabel: string
   className?: string
   contentClassName?: string
+  contentStyle?: CSSProperties
 }) {
   if (!open) return null
 
@@ -152,9 +176,10 @@ export function Sheet({
 
       <OverlayCard
         className={cn(
-          'motion-sheet-card relative max-h-full w-full rounded-[28px] p-0',
+          'motion-sheet-card relative max-h-full w-full rounded-[18px] p-0',
           contentClassName
         )}
+        style={contentStyle}
       >
         <div
           aria-hidden="true"
@@ -217,8 +242,8 @@ export function MenuItem({
     <button
       type={type}
       className={cn(
-        'motion-press w-full rounded-xl px-4 py-3 text-left text-sm hover:bg-white/10 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-yellow-400/70',
-        tone === 'danger' && 'text-red-400',
+        'motion-press w-full rounded-xl px-4 py-3 text-left text-sm hover:bg-white/10 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[rgba(220,192,65,0.7)]',
+        tone === 'danger' && 'text-[var(--color-error)]',
         className
       )}
       {...props}
@@ -261,13 +286,14 @@ export function SectionHeader({
 }
 
 const buttonToneClasses: Record<Tone, string> = {
-  primary: 'bg-blue-600 text-white hover:bg-blue-500',
-  secondary: 'bg-slate-800 text-slate-300 hover:bg-slate-700',
-  accent: 'bg-yellow-400 text-black hover:bg-yellow-300',
-  danger: 'bg-red-900/40 text-red-200 hover:bg-red-900/70',
-  success: 'bg-green-500 text-white hover:bg-green-600',
-  purple: 'bg-purple-500 text-white hover:bg-purple-600',
-  ghost: 'bg-slate-700 text-white hover:bg-slate-600',
+  primary: 'bg-[var(--color-primary)] text-white hover:bg-[#1d78c8]',
+  secondary: 'border border-[var(--surface-border)] bg-[rgba(26,26,29,0.84)] text-[var(--text-secondary)] hover:border-[#3a3a40] hover:bg-[#232327] hover:text-white',
+  tertiary: 'bg-transparent text-[#6fb2ed] hover:bg-[rgba(23,107,181,0.1)] hover:text-white',
+  accent: 'bg-[var(--color-warning)] text-black hover:bg-[#ead053]',
+  danger: 'bg-transparent text-[#ff9a9a] hover:bg-[rgba(160,24,24,0.14)]',
+  success: 'bg-[var(--color-success)] text-white hover:bg-[#3a8546]',
+  purple: 'bg-[var(--color-primary)] text-white hover:bg-[#1d78c8]',
+  ghost: 'border border-[var(--surface-border)] bg-white/8 text-[var(--text-secondary)] hover:bg-white/12 hover:text-white',
 }
 
 const buttonSizeClasses: Record<Size, string> = {
@@ -290,7 +316,7 @@ export function Button({
     <button
       type={type}
       className={cn(
-        'motion-press min-h-11 rounded-xl font-semibold focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-yellow-400/70 disabled:bg-slate-700 disabled:text-slate-500 disabled:active:scale-100',
+        'motion-press min-h-11 rounded-[14px] font-semibold focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[rgba(23,107,181,0.45)] disabled:border-transparent disabled:bg-[#161619] disabled:text-[var(--text-muted)] disabled:active:scale-100',
         buttonToneClasses[tone],
         buttonSizeClasses[size],
         className
@@ -309,7 +335,7 @@ export function IconButton({
     <button
       type={type}
       className={cn(
-        'motion-press flex min-h-11 min-w-11 items-center justify-center rounded-xl focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-yellow-400/70',
+        'motion-press flex min-h-11 min-w-11 items-center justify-center rounded-xl focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[rgba(220,192,65,0.7)]',
         className
       )}
       {...props}
@@ -333,23 +359,45 @@ export function SegmentedControl<TValue extends string>({
   className?: string
   buttonClassName?: string
 }) {
+  const activeIndex = Math.max(
+    0,
+    options.findIndex((option) => option.value === value)
+  )
+
   return (
     <div
       className={cn(
-        'grid gap-1 rounded-2xl border border-white/10 bg-black/20 p-1',
-        options.length === 2 ? 'grid-cols-2' : '',
+        'relative grid min-h-10 overflow-hidden rounded-[14px] border border-[var(--surface-border)] bg-[#101012] p-1',
         className
       )}
+      style={{
+        gridTemplateColumns: `repeat(${options.length}, minmax(0, 1fr))`,
+      }}
     >
+      <span
+        aria-hidden="true"
+        className="motion-surface absolute bottom-1 top-1 rounded-[11px] bg-[var(--color-primary)] shadow-[0_6px_18px_rgba(23,107,181,0.22)]"
+        style={{
+          left: `calc(${activeIndex} * ((100% - 0.5rem) / ${options.length}) + 0.25rem)`,
+          width: `calc((100% - 0.5rem) / ${options.length})`,
+        }}
+      />
+
       {options.map((option) => (
-        <Button
+        <button
           key={option.value}
-          tone={option.value === value ? 'primary' : 'secondary'}
+          type="button"
           onClick={() => onChange(option.value)}
-          className={buttonClassName}
+          className={cn(
+            'motion-press relative z-10 min-h-9 rounded-[11px] px-3 py-2 text-sm font-semibold focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[rgba(23,107,181,0.45)]',
+            option.value === value
+              ? 'text-white'
+              : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]',
+            buttonClassName
+          )}
         >
           {option.label}
-        </Button>
+        </button>
       ))}
     </div>
   )
@@ -388,7 +436,7 @@ export function DisclosureAction({
   return (
     <span
       className={cn(
-        'inline-flex items-center gap-2 text-xs font-semibold text-blue-300',
+        'inline-flex items-center gap-2 text-xs font-semibold text-[#6fb2ed]',
         className
       )}
     >
@@ -419,8 +467,8 @@ export function DisclosureContent({
       className={cn(
         'motion-disclosure grid',
         open
-          ? 'grid-rows-[1fr] opacity-100 translate-y-0'
-          : 'grid-rows-[0fr] opacity-0 -translate-y-1',
+          ? 'grid-rows-[1fr] opacity-100 translate-y-0 scale-100'
+          : 'grid-rows-[0fr] opacity-0 -translate-y-1 scale-[0.985]',
         className
       )}
     >
@@ -477,7 +525,7 @@ export function DisclosurePanel({
         type="button"
         onClick={onToggle}
         className={cn(
-          'motion-press flex w-full items-center justify-between gap-4 p-4 text-left focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-yellow-400/70',
+          'motion-press flex w-full items-center justify-between gap-4 p-4 text-left focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[rgba(220,192,65,0.7)]',
           buttonClassName
         )}
       >
@@ -521,15 +569,17 @@ export function DisclosurePanel({
 export function SourcePanel({
   sources,
   className,
+  variant = 'compact',
 }: {
   sources: Array<{
     label: ReactNode
     value: ReactNode
   }>
   className?: string
+  variant?: CardVariant
 }) {
   return (
-    <NestedPanel className={cn('space-y-2 p-3', className)}>
+    <NestedPanel variant={variant} className={cn('space-y-2', className)}>
       {sources.map((source) => (
         <div
           key={String(source.label)}
@@ -569,7 +619,7 @@ export function ValidationMessage({
   return (
     <p
       role="alert"
-      className={cn('mt-1.5 text-sm font-medium text-red-300', className)}
+      className={cn('mt-1.5 text-sm font-medium text-[#ff9a9a]', className)}
       {...props}
     />
   )
@@ -846,7 +896,7 @@ export function MatchupBadge({
       )}
     >
       <div className="flex justify-between gap-3">
-        <span className="type-card-title text-slate-300">{label}</span>
+        <span className="type-card-title text-[var(--text-secondary)]">{label}</span>
         <span className="type-metric-value">{value}</span>
       </div>
 
@@ -958,7 +1008,7 @@ export function DeltaRow({
       <p
         className={cn(
           'type-metric-value',
-          diff > 0 ? 'text-green-400' : 'text-red-400'
+          diff > 0 ? 'text-[#64b572]' : 'text-[#d75d5d]'
         )}
       >
         {diff > 0 ? `+${diff}` : diff}

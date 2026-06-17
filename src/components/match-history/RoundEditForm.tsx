@@ -2,6 +2,7 @@ import { Match } from '@/types'
 import {
   Button,
   FieldLabel,
+  NestedPanel,
   NumberInput,
   StatusBadge,
   TextareaField,
@@ -25,9 +26,9 @@ export default function RoundEditForm({
   editMatch,
 }: Props) {
   return (
-    <div className="card-detail space-y-4 rounded-2xl border border-white/10 bg-white/[0.035] p-4">
+    <NestedPanel variant="compact" className="space-y-4 p-4">
       <div>
-        <StatusBadge className="bg-blue-500/15 text-blue-200">
+        <StatusBadge className="bg-[rgba(23,107,181,0.15)] text-[#b7dcfb]">
           Edit Round
         </StatusBadge>
         <h3 className="type-section-title mt-2 text-[var(--text-primary)]">
@@ -131,10 +132,10 @@ export default function RoundEditForm({
               size="sm"
               className={`rounded-full px-4 ${
                 game === 'W'
-                  ? 'bg-green-500'
+                  ? 'bg-[var(--color-success)] text-white'
                   : game === 'L'
-                  ? 'bg-red-500'
-                  : 'bg-yellow-500 text-black'
+                  ? 'bg-[var(--color-error)] text-white'
+                  : 'bg-[var(--color-warning)] text-black'
               }`}
             >
               Game {index + 1}: {game}
@@ -183,8 +184,8 @@ export default function RoundEditForm({
             setEditingMatch(null)
           }}
           disabled={!isFormValid}
-          tone="success"
-          className="min-h-[52px] flex-1 rounded-2xl bg-green-500 hover:bg-green-400"
+          tone="primary"
+          className="min-h-[52px] flex-1 rounded-2xl"
         >
           Save Changes
         </Button>
@@ -194,11 +195,11 @@ export default function RoundEditForm({
             setEditingMatch(null)
           }}
           tone="secondary"
-          className="min-h-[52px] flex-1 rounded-2xl bg-white/8 text-[var(--text-secondary)] hover:bg-white/12 hover:text-white"
+          className="min-h-[52px] flex-1 rounded-2xl"
         >
           Cancel
         </Button>
       </div>
-    </div>
+    </NestedPanel>
   )
 }

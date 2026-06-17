@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import {
+  ContextActionSheet,
   DisclosureAction,
   DisclosurePanel,
   EmptyState,
@@ -7,6 +8,7 @@ import {
   MetricTile,
   NestedPanel,
   StatusBadge,
+  SwipeActionRow,
   cn,
 } from '@/components/ui'
 import { DeckAdvisorResult } from './types'
@@ -23,102 +25,98 @@ export default function RecommendationCard({
   insight,
 }: Props) {
   const [detailsOpen, setDetailsOpen] = useState(false)
+  const [contextOpen, setContextOpen] = useState(false)
   const isTopPick = rank === 1
 
   return (
-    <DisclosurePanel
-      open={detailsOpen}
-      onToggle={() => setDetailsOpen((current) => !current)}
-      showAction={false}
-      className={cn(
-        'motion-surface overflow-hidden rounded-2xl p-0',
-        isTopPick ? 'card-hero' : 'card-data'
-      )}
-      buttonClassName={cn(
-        'p-4',
-        isTopPick ? 'sm:p-5' : ''
-      )}
-      contentClassName="card-detail space-y-4 border-t border-white/10 px-4 pb-4 pt-4"
-      header={
-        <div className="w-full">
-          <div className="flex items-start justify-between gap-4">
-            <div className="min-w-0">
-              <div className="mb-3 flex flex-wrap items-center gap-2">
-                <StatusBadge
-                  className={
-                    isTopPick
-                      ? 'bg-blue-500/20 px-2.5 py-1 text-blue-200'
-                      : 'bg-white/10 px-2.5 py-1 text-slate-300'
-                  }
-                >
-                  {isTopPick ? 'Recommended' : `#${rank}`}
-                </StatusBadge>
+    <>
+      <SwipeActionRow
+        open={false}
+        onOpenChange={() => undefined}
+        actions={[]}
+        onContextOpen={() => setContextOpen(true)}
+      >
+        <DisclosurePanel
+          open={detailsOpen}
+          onToggle={() => setDetailsOpen((current) => !current)}
+          showAction={false}
+          className={cn(
+            'motion-surface overflow-hidden rounded-[18px] p-0',
+            isTopPick
+              ? 'surface-card-glass border-[rgba(23,107,181,0.38)] shadow-[0_18px_46px_rgba(0,0,0,0.42)]'
+              : 'surface-card-elevated'
+          )}
+          buttonClassName={cn(
+            'p-4',
+            isTopPick ? 'sm:p-5' : ''
+          )}
+          contentClassName="card-detail space-y-4 border-t border-white/10 px-4 pb-4 pt-4"
+          header={
+            <div className="w-full">
+              <div className="flex items-start justify-between gap-4">
+                <div className="min-w-0">
+                  <div className="mb-2 flex flex-wrap items-center gap-2">
+                    <StatusBadge
+                      className={
+                        isTopPick
+                          ? 'bg-[rgba(23,107,181,0.2)] px-2.5 py-1 text-[#b7dcfb]'
+                          : 'bg-white/10 px-2.5 py-1 text-[var(--text-secondary)]'
+                      }
+                    >
+                      #{rank}
+                    </StatusBadge>
 
-                <span className="type-metadata text-[var(--text-muted)]">
-                  Comfort {result.comfort}/5
-                </span>
+                    <span className="type-metadata text-[var(--text-muted)]">
+                      Comfort {result.comfort}/5
+                    </span>
+                  </div>
+
+                  <p
+                    className={`truncate text-white ${
+                      isTopPick
+                        ? 'text-[1.45rem] font-[780] leading-tight'
+                        : 'type-section-title'
+                    }`}
+                  >
+                    {result.deckName}
+                  </p>
+
+                  <p className="type-metadata mt-1 truncate text-[var(--text-muted)]">
+                    {result.archetype}
+                  </p>
+                </div>
+
+                <div className="shrink-0 text-right">
+                  <p
+                    className={
+                      isTopPick
+                        ? 'text-[2.4rem] font-[780] leading-none text-white'
+                        : 'text-[1.9rem] font-[780] leading-none text-white'
+                    }
+                  >
+                    {result.fieldWinRate.toFixed(1)}%
+                  </p>
+
+                  <p className="type-metadata mt-1 text-[var(--text-muted)]">
+                    field WR
+                  </p>
+                </div>
               </div>
 
-              <p
-                className={`truncate text-white ${
-                  isTopPick
-                    ? 'text-[1.7rem] font-[780] leading-tight'
-                    : 'type-section-title'
-                }`}
-              >
-                {result.deckName}
-              </p>
+              <div className="mt-3 flex items-center justify-between gap-3 border-t border-white/10 pt-3">
+                <p className="type-metadata min-w-0 truncate text-[var(--text-secondary)]">
+                  {insight}
+                </p>
 
-              <p className="mt-2 max-w-xl text-sm leading-5 text-blue-100/90">
-                {insight}
-              </p>
+                <DisclosureAction
+                  open={detailsOpen}
+                  openLabel="Inspect"
+                  closeLabel="Hide"
+                />
+              </div>
             </div>
-
-            <div className="shrink-0 text-right">
-              <p
-                className={
-                  isTopPick
-                    ? 'text-[2.15rem] font-[780] leading-none text-white'
-                    : 'type-metric-value'
-                }
-              >
-                {result.adjustedScore.toFixed(1)}
-              </p>
-
-              <p className="type-metadata mt-1 text-[var(--text-muted)]">
-                Score
-              </p>
-            </div>
-          </div>
-
-          <div className="mt-4 grid grid-cols-2 gap-2">
-            <MetricTile
-              label="Field WR"
-              value={`${result.fieldWinRate.toFixed(1)}%`}
-            />
-
-            <MetricTile
-              label="Comfort"
-              value={`${result.comfortBonus >= 0 ? '+' : ''}${result.comfortBonus.toFixed(
-                1
-              )}%`}
-            />
-          </div>
-
-          <div className="mt-3 flex items-center justify-between border-t border-white/10 pt-3">
-            <p className="type-metadata text-[var(--text-muted)]">
-              Decision detail
-            </p>
-
-            <DisclosureAction
-              open={detailsOpen}
-              openLabel="Inspect"
-              closeLabel="Hide"
-            />
-          </div>
-        </div>
-      }
-    >
+          }
+        >
             <div className="grid grid-cols-2 gap-2 sm:grid-cols-4">
               <MetricTile
                 label="Field WR"
@@ -149,14 +147,14 @@ export default function RecommendationCard({
             </div>
 
             <div className="grid grid-cols-1 gap-3 text-sm sm:grid-cols-2">
-              <NestedPanel className="card-detail border-0 p-3">
-                <p className="mb-2 font-semibold text-green-400">
+              <NestedPanel variant="compact" className="border-0">
+                <p className="mb-2 font-semibold text-[#64b572]">
                   Best Matchups
                 </p>
 
                 <div className="space-y-1">
                   {result.bestMatchups.length === 0 ? (
-                    <EmptyState className="border-0 bg-transparent p-0 text-xs text-slate-500">
+                    <EmptyState className="border-0 bg-transparent p-0 text-xs text-[var(--text-muted)]">
                       No favorable sampled matchups above 50%.
                     </EmptyState>
                   ) : (
@@ -168,7 +166,7 @@ export default function RecommendationCard({
                         value={
                           <>
                             {matchup.winRate.toFixed(1)}%{' '}
-                            <span className="text-slate-500">
+                            <span className="text-[var(--text-muted)]">
                               ({matchup.sampleSize})
                             </span>
                           </>
@@ -179,14 +177,14 @@ export default function RecommendationCard({
                 </div>
               </NestedPanel>
 
-              <NestedPanel className="card-detail border-0 p-3">
-                <p className="mb-2 font-semibold text-red-400">
+              <NestedPanel variant="compact" className="border-0">
+                <p className="mb-2 font-semibold text-[#d75d5d]">
                   Worst Matchups
                 </p>
 
                 <div className="space-y-1">
                   {result.worstMatchups.length === 0 ? (
-                    <EmptyState className="border-0 bg-transparent p-0 text-xs text-slate-500">
+                    <EmptyState className="border-0 bg-transparent p-0 text-xs text-[var(--text-muted)]">
                       No unfavorable sampled matchups below 50%.
                     </EmptyState>
                   ) : (
@@ -198,7 +196,7 @@ export default function RecommendationCard({
                         value={
                           <>
                             {matchup.winRate.toFixed(1)}%{' '}
-                            <span className="text-slate-500">
+                            <span className="text-[var(--text-muted)]">
                               ({matchup.sampleSize})
                             </span>
                           </>
@@ -209,6 +207,92 @@ export default function RecommendationCard({
                 </div>
               </NestedPanel>
             </div>
-    </DisclosurePanel>
+        </DisclosurePanel>
+      </SwipeActionRow>
+
+      <ContextActionSheet
+        open={contextOpen}
+        onClose={() => setContextOpen(false)}
+        title={result.deckName}
+        subtitle={insight}
+        ariaLabel="recommendation details"
+        details={[
+          { label: 'Rank', value: `#${rank}` },
+          { label: 'Score', value: result.adjustedScore.toFixed(1) },
+          { label: 'Field WR', value: `${result.fieldWinRate.toFixed(1)}%` },
+          {
+            label: 'Comfort Impact',
+            value: `${result.comfortBonus >= 0 ? '+' : ''}${result.comfortBonus.toFixed(1)}%`,
+          },
+          {
+            label: 'Field Coverage',
+            value:
+              result.fieldCoverage === null
+                ? 'Unknown'
+                : `${result.fieldCoverage.toFixed(1)}%`,
+          },
+        ]}
+      >
+        <div className="surface-card-elevated rounded-2xl border border-[var(--surface-border)] p-3">
+          <p className="type-metadata mb-2 text-[var(--text-muted)]">
+            Matchup Reasoning
+          </p>
+          <p className="type-helper text-[var(--text-secondary)]">
+            {result.fieldCoverageLabel}
+          </p>
+        </div>
+
+        <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
+          <div className="surface-card-elevated rounded-2xl border border-[var(--surface-border)] p-3">
+            <p className="type-metadata mb-2 text-[#64b572]">
+              Best Matchups
+            </p>
+            <div className="space-y-2">
+              {result.bestMatchups.length > 0 ? (
+                result.bestMatchups.map((matchup) => (
+                  <MetricRow
+                    key={matchup.name}
+                    label={matchup.name}
+                    value={`${matchup.winRate.toFixed(1)}%`}
+                  />
+                ))
+              ) : (
+                <p className="type-helper text-[var(--text-muted)]">
+                  No favorable sampled matchups above 50%.
+                </p>
+              )}
+            </div>
+          </div>
+
+          <div className="surface-card-elevated rounded-2xl border border-[var(--surface-border)] p-3">
+            <p className="type-metadata mb-2 text-[#d75d5d]">
+              Worst Matchups
+            </p>
+            <div className="space-y-2">
+              {result.worstMatchups.length > 0 ? (
+                result.worstMatchups.map((matchup) => (
+                  <MetricRow
+                    key={matchup.name}
+                    label={matchup.name}
+                    value={`${matchup.winRate.toFixed(1)}%`}
+                  />
+                ))
+              ) : (
+                <p className="type-helper text-[var(--text-muted)]">
+                  No unfavorable sampled matchups below 50%.
+                </p>
+              )}
+            </div>
+          </div>
+        </div>
+
+        <div className="surface-card-elevated rounded-2xl border border-[var(--surface-border)] p-3">
+          <MetricRow
+            label="Source Notes"
+            value="Limitless matchup sample"
+          />
+        </div>
+      </ContextActionSheet>
+    </>
   )
 }
