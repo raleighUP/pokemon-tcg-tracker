@@ -477,24 +477,6 @@ const editEvent = (
           />
         )}
 
-        {activeTab === 'matches' && (
-          <MatchHistory
-            events={events}
-            matches={matches}
-            deleteMatch={deleteMatch}
-            deleteEvent={deleteEvent}
-            editMatch={editMatch}
-            addMatch={addMatch}
-            addEvent={addEvent}
-            editEvent={editEvent}
-            editingMatch={editingMatch}
-            setEditingMatch={setEditingMatch}
-            editingEvent={editingEvent}
-            setEditingEvent={setEditingEvent}
-            decks={decks}
-          />
-        )}
-
         {activeTab === 'history' && (
           <MatchHistory
             events={events}

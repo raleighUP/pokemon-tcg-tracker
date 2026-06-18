@@ -13,7 +13,7 @@ type SwipeAction = {
   tone?: 'edit' | 'delete'
 }
 
-const ACTION_WIDTH = 72
+const ACTION_WIDTH = 64
 const LONG_PRESS_DELAY = 520
 
 function cn(...classes: Array<string | false | null | undefined>) {
@@ -113,7 +113,7 @@ export function SwipeActionRow({
     >
       <div
         aria-hidden={!open}
-        className="absolute inset-y-0 right-0 flex items-stretch justify-end overflow-hidden rounded-r-2xl"
+        className="absolute bottom-px right-px top-px flex items-stretch justify-end overflow-hidden rounded-r-2xl"
         style={{ width: actionWidth }}
       >
         {actions.map((action) => (
@@ -125,7 +125,7 @@ export function SwipeActionRow({
               onOpenChange(false)
             }}
             className={cn(
-              'motion-press w-[72px] text-xs font-bold text-white',
+              'motion-press w-16 text-xs font-bold text-white',
               action.tone === 'delete'
                 ? 'bg-[var(--color-error)] hover:bg-[#b32020]'
                 : 'bg-[var(--color-primary)] hover:bg-[#1d78c8]',

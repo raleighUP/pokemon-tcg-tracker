@@ -129,7 +129,7 @@ export default function RoundHistoryRow({
   }
 
   return (
-    <div className="bg-black/15">
+    <div className="rounded-2xl bg-black/15">
       <SwipeActionRow
         open={actionsOpen}
         onOpenChange={(open) => setOpenMenuId(open ? match.id : null)}
@@ -146,26 +146,38 @@ export default function RoundHistoryRow({
             onSelect: confirmDelete,
           },
         ]}
+        className="rounded-2xl"
+        contentClassName="rounded-2xl"
       >
         <button
           type="button"
           onClick={() => setOpenNotesId(detailsOpen ? null : match.id)}
-          className="motion-press grid min-h-[58px] w-full grid-cols-[3.75rem_minmax(0,1fr)_auto] items-center gap-3 bg-black/28 px-3 py-2.5 text-left hover:bg-white/[0.04]"
+          className="motion-press grid min-h-[58px] w-full grid-cols-[2rem_minmax(0,1fr)_auto] items-center gap-2 rounded-2xl bg-black/28 px-3 py-2.5 text-left hover:bg-white/[0.04]"
           aria-expanded={detailsOpen}
         >
-          <span className="type-metadata text-[var(--text-secondary)]">
-            {roundLabel}
+          <span className="flex flex-col items-start gap-1">
+            <span className="type-metadata text-[var(--text-secondary)]">
+              {roundLabel}
+            </span>
+            {hasNotes && (
+              <span
+                aria-hidden="true"
+                className={`ml-0.5 h-2 w-2 border-b-2 border-r-2 border-[var(--text-muted)] transition-transform duration-[var(--motion-base)] ${
+                  detailsOpen ? 'rotate-[-135deg]' : 'rotate-45'
+                }`}
+              />
+            )}
           </span>
 
           <span className="min-w-0">
             <span className="type-card-title block truncate text-[var(--text-primary)]">
               {match.opponentDeck}
             </span>
-            <span className="mt-1 flex flex-wrap gap-1.5">
+            <span className="scrollbar-none mt-1 flex flex-nowrap gap-1.5 overflow-x-auto pr-1">
               {match.games.map((game, index) => (
                 <span
                   key={`${game}-${index}`}
-                  className="inline-flex items-center gap-1"
+                  className="inline-flex shrink-0 items-center gap-1"
                 >
                   <ResultPill
                     result={game}
@@ -183,14 +195,6 @@ export default function RoundHistoryRow({
             >
               {resultLabels[roundResult]}
             </StatusBadge>
-            {hasNotes && (
-              <span
-                aria-hidden="true"
-                className={`h-2 w-2 border-b-2 border-r-2 border-[var(--text-muted)] transition-transform duration-[var(--motion-base)] ${
-                  detailsOpen ? 'rotate-[-135deg]' : '-rotate-45'
-                }`}
-              />
-            )}
           </span>
         </button>
       </SwipeActionRow>

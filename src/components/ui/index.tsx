@@ -9,6 +9,7 @@ import type {
   TextareaHTMLAttributes,
 } from 'react'
 import { Children, cloneElement, forwardRef, isValidElement } from 'react'
+import { createPortal } from 'react-dom'
 export { ContextActionSheet } from './ContextActionSheet'
 export { SwipeActionRow } from './SwipeActionRow'
 
@@ -53,9 +54,9 @@ const feedbackToneClasses: Record<FeedbackTone, string> = {
 }
 
 const matchupToneClasses: Record<MatchupTone, string> = {
-  favored: 'border-[var(--color-success)] bg-[rgba(47,116,59,0.16)]',
-  neutral: 'border-[var(--color-warning)] bg-[rgba(220,192,65,0.13)]',
-  unfavored: 'border-[var(--color-error)] bg-[rgba(160,24,24,0.16)]',
+  favored: 'border-[rgba(47,116,59,0.58)] bg-[rgba(47,116,59,0.18)]',
+  neutral: 'border-[rgba(220,192,65,0.52)] bg-[rgba(220,192,65,0.14)]',
+  unfavored: 'border-[rgba(160,24,24,0.58)] bg-[rgba(160,24,24,0.18)]',
 }
 
 const cardVariantClasses: Record<CardVariant, string> = {
@@ -159,7 +160,7 @@ export function Sheet({
 }) {
   if (!open) return null
 
-  return (
+  const sheet = (
     <div
       aria-label={ariaLabel}
       aria-modal="true"
@@ -191,6 +192,12 @@ export function Sheet({
       </OverlayCard>
     </div>
   )
+
+  if (typeof document === 'undefined') {
+    return sheet
+  }
+
+  return createPortal(sheet, document.body)
 }
 
 export function OverflowMenu({

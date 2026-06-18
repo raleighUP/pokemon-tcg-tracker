@@ -408,7 +408,7 @@ export default function MatchHistory({
   return (
     <section className="space-y-4">
       {feedbackMessage && (
-        <div className="motion-success-pop fixed left-1/2 top-4 z-50 -translate-x-1/2 rounded-full border border-[rgba(47,116,59,0.45)] bg-[rgba(47,116,59,0.92)] px-4 py-2 text-sm font-semibold text-white shadow-[0_14px_34px_rgba(0,0,0,0.36)]">
+        <div className="motion-success-pop fixed left-1/2 top-[calc(3.5rem+env(safe-area-inset-top))] z-50 -translate-x-1/2 rounded-full border border-[rgba(47,116,59,0.45)] bg-[rgba(47,116,59,0.92)] px-4 py-2 text-sm font-semibold text-white shadow-[0_14px_34px_rgba(0,0,0,0.36)]">
           {feedbackMessage}
         </div>
       )}
@@ -443,13 +443,13 @@ export default function MatchHistory({
                 isRoundValid={isRoundValid}
                 isFormValid={isFormValid}
                 isCollapsed={
-                  collapsedEvents[event.eventName] ?? true
+                  collapsedEvents[String(event.id)] ?? true
                 }
                 toggleCollapsed={() => {
                   setCollapsedEvents((currentCollapsedEvents) => ({
                     ...currentCollapsedEvents,
-                    [event.eventName]: !(
-                      currentCollapsedEvents[event.eventName] ?? true
+                    [String(event.id)]: !(
+                      currentCollapsedEvents[String(event.id)] ?? true
                     ),
                   }))
                 }}
@@ -471,7 +471,8 @@ export default function MatchHistory({
         open={newEventOpen}
         onClose={resetEventSheet}
         ariaLabel="new event"
-        contentClassName="overflow-hidden rounded-t-[26px] rounded-b-none border-b-0 p-0"
+        className="items-start overflow-y-auto px-4 pb-[calc(1rem+env(safe-area-inset-bottom))] pt-[calc(5.75rem+env(safe-area-inset-top))]"
+        contentClassName="mb-auto overflow-hidden rounded-[26px] p-0"
       >
         <div
           className={`space-y-4 p-4 ${
@@ -723,7 +724,8 @@ export default function MatchHistory({
         open={Boolean(roundDraft)}
         onClose={closeRoundSheet}
         ariaLabel="new round"
-        contentClassName="overflow-hidden rounded-t-[26px] rounded-b-none border-b-0 p-0"
+        className="items-start overflow-y-auto px-4 pb-[calc(1rem+env(safe-area-inset-bottom))] pt-[calc(5.75rem+env(safe-area-inset-top))]"
+        contentClassName="mb-auto overflow-hidden rounded-[26px] p-0"
       >
         {roundDraft && (
           <div

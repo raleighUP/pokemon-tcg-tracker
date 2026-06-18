@@ -1,6 +1,6 @@
 import { getMatchupSampleSize, getMatchupWinRate } from '@/utils/matchups'
 import {
-  DisclosurePanel,
+  Sheet,
   EmptyState,
   FieldLabel,
   MatchupBadge,
@@ -30,6 +30,7 @@ export default function OwnedDeckComfortList({
   getMatchupTone,
 }: Props) {
   const [openDeckId, setOpenDeckId] = useState<number | null>(null)
+  const openDeck = ownedCandidateDecks.find((deck) => deck.id === openDeckId)
 
   return (
     <div className="space-y-3">
@@ -42,9 +43,13 @@ export default function OwnedDeckComfortList({
           <NestedPanel
             key={deck.id}
             variant="compact"
-            className="space-y-4 rounded-2xl"
+            className="space-y-3 rounded-2xl p-3"
           >
-            <div className="flex items-start justify-between gap-3">
+            <button
+              type="button"
+              onClick={() => setOpenDeckId(deck.id)}
+              className="motion-press flex w-full items-center justify-between gap-3 rounded-xl text-left"
+            >
               <div className="min-w-0">
                 <p className="type-card-title truncate text-white">
                   {deck.name}
@@ -60,7 +65,7 @@ export default function OwnedDeckComfortList({
               <span className="rounded-full bg-white/10 px-2.5 py-1 text-xs font-semibold text-[var(--text-secondary)]">
                 {deck.comfort}/5
               </span>
-            </div>
+            </button>
 
             <div>
               <FieldLabel>
@@ -82,19 +87,29 @@ export default function OwnedDeckComfortList({
                 }}
               />
             </div>
+          </NestedPanel>
+        ))
+      )}
 
-            <DisclosurePanel
-              title="Matchups"
-              open={openDeckId === deck.id}
-              onToggle={() =>
-                setOpenDeckId((currentDeckId) =>
-                  currentDeckId === deck.id ? null : deck.id
-                )
-              }
-              buttonClassName="px-0 py-0"
-              contentClassName="space-y-2 pt-3"
-              className="border-0 bg-transparent p-0"
-            >
+      <Sheet
+        open={Boolean(openDeck)}
+        onClose={() => setOpenDeckId(null)}
+        ariaLabel="owned deck matchups"
+        className="items-start overflow-y-auto px-4 pb-[calc(1rem+env(safe-area-inset-bottom))] pt-[calc(5.75rem+env(safe-area-inset-top))]"
+        contentClassName="mb-auto overflow-hidden rounded-[26px] p-0"
+      >
+        {openDeck && (
+          <div className="space-y-4 p-4">
+            <div>
+              <h3 className="type-section-title text-white">
+                {openDeck.name}
+              </h3>
+              <p className="type-metadata mt-1 text-[var(--text-muted)]">
+                {openDeck.archetype} - Comfort {openDeck.comfort}/5
+              </p>
+            </div>
+
+            <div className="space-y-2">
               {metaDecks.filter((metaDeck) =>
                 metaDeck.name.trim()
               ).length === 0 ? (
@@ -106,12 +121,12 @@ export default function OwnedDeckComfortList({
                   .filter((metaDeck) => metaDeck.name.trim())
                   .map((metaDeck) => {
                     const matchupWinRate = getMatchupWinRate(
-                      deck.archetype || deck.name,
+                      openDeck.archetype || openDeck.name,
                       metaDeck.name
                     )
 
                     const sampleSize = getMatchupSampleSize(
-                      deck.archetype || deck.name,
+                      openDeck.archetype || openDeck.name,
                       metaDeck.name
                     )
 
@@ -125,17 +140,15 @@ export default function OwnedDeckComfortList({
                             ? `${sampleSize} Limitless matches`
                             : 'No matchup sample yet'
                         }
-                        tone={getMatchupTone(
-                          matchupWinRate
-                        )}
+                        tone={getMatchupTone(matchupWinRate)}
                       />
                     )
                   })
               )}
-            </DisclosurePanel>
-          </NestedPanel>
-        ))
-      )}
+            </div>
+          </div>
+        )}
+      </Sheet>
     </div>
   )
 }

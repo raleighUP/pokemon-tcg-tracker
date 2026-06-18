@@ -28,10 +28,10 @@ import {
   DisclosurePanel,
   EmptyState,
   MetricRow,
-  MetricTile,
   NestedPanel,
   SectionHeader,
   SegmentedControl,
+  Sheet,
   StatusBadge,
 } from '@/components/ui'
 import AdvisorModeControl from './deck-advisor/AdvisorModeControl'
@@ -208,24 +208,8 @@ function getEventTypeLabel(eventType: EventType) {
   return 'Regional'
 }
 
-function getEliminationRounds(topCutSize: number) {
-  return topCutSize > 1 ? Math.ceil(Math.log2(topCutSize)) : 0
-}
-
-function getToWinRequirement(
-  swissRounds: number,
-  topCutSize: number,
-  totalEventLength?: number
-) {
-  if (totalEventLength) return `${totalEventLength} rounds`
-
-  const eliminationRounds = getEliminationRounds(topCutSize)
-
-  if (eliminationRounds > 0) {
-    return `${swissRounds + eliminationRounds} rounds`
-  }
-
-  return `${swissRounds} rounds`
+function normalizeDeckIdentifier(value: string | undefined) {
+  return value?.trim().toLowerCase() ?? ''
 }
 
 export default function DeckAdvisor({ decks }: Props) {
@@ -234,8 +218,7 @@ export default function DeckAdvisor({ decks }: Props) {
     []
   )
 
-  const [eventSetupOpen, setEventSetupOpen] = useState(false)
-  const [metaSetupOpen, setMetaSetupOpen] = useState(false)
+  const [advisorSetupOpen, setAdvisorSetupOpen] = useState(false)
   const [comfortOpen, setComfortOpen] = useState(false)
 
   const [eventType, setEventType] =
@@ -398,9 +381,33 @@ export default function DeckAdvisor({ decks }: Props) {
     }
   })
 
+  const ownedDeckIdentifierSet = useMemo(() => {
+    const identifiers = new Set<string>()
+
+    decks.forEach((deck) => {
+      const deckIdentifiers = [deck.name, deck.archetype, deck.variant]
+
+      deckIdentifiers.forEach((identifier) => {
+        const normalizedIdentifier = normalizeDeckIdentifier(identifier)
+
+        if (normalizedIdentifier) {
+          identifiers.add(normalizedIdentifier)
+        }
+      })
+    })
+
+    return identifiers
+  }, [decks])
+
   const topMetaCandidates: AdvisorCandidateDeck[] = useMemo(
     () =>
       [...normalizedMetaDecks]
+        .filter(
+          (metaDeck) =>
+            !ownedDeckIdentifierSet.has(
+              normalizeDeckIdentifier(metaDeck.name)
+            )
+        )
         .sort(
           (a, b) =>
             b.normalizedShare - a.normalizedShare
@@ -413,7 +420,7 @@ export default function DeckAdvisor({ decks }: Props) {
           owned: false,
           matchups: {},
         })),
-    [normalizedMetaDecks]
+    [normalizedMetaDecks, ownedDeckIdentifierSet]
   )
 
   const ownedCandidateDecks = useMemo(
@@ -562,82 +569,6 @@ export default function DeckAdvisor({ decks }: Props) {
     .sort((a, b) => b.normalizedShare - a.normalizedShare)
   const previewMetaBreakdown = visibleMetaBreakdown.slice(0, 5)
   const hasFullMeta = visibleMetaBreakdown.length > previewMetaBreakdown.length
-  const tournamentConfigured = eventSize > 0
-  const topCutRequirement =
-    structure.topCutSize > 0 ? structure.topCutLabel : 'None'
-  const phaseTwoRequirement = structure.phaseTwoThreshold
-    ? `${structure.phaseTwoThreshold} points`
-    : 'None'
-  const toWinRequirement = tournamentConfigured
-    ? getToWinRequirement(
-        structure.swissRounds,
-        structure.topCutSize,
-        structure.totalEventLength
-      )
-    : 'Set players'
-
-  const tournamentSummaryCard = (
-    <NestedPanel
-      variant="glass"
-      className="overflow-hidden rounded-[18px] p-4"
-    >
-      <div className="flex items-start justify-between gap-4">
-        <div>
-          <p className="type-metadata text-[var(--text-muted)]">
-            {getEventTypeLabel(eventType)}
-          </p>
-          <p className="mt-1 text-[3rem] font-[780] leading-none text-[var(--text-primary)]">
-            {tournamentConfigured ? eventSize : '--'}
-          </p>
-          <p className="type-metadata mt-1 text-[var(--text-muted)]">
-            players
-          </p>
-        </div>
-
-        <Button
-          tone="tertiary"
-          size="sm"
-          onClick={() => setEventSetupOpen(true)}
-          className="min-h-9 shrink-0 px-2"
-        >
-          Change
-        </Button>
-      </div>
-
-      <div className="mt-4 grid grid-cols-2 gap-2">
-        <MetricTile
-          label={structure.phaseOneRounds ? 'Total Swiss' : 'Swiss'}
-          value={
-            tournamentConfigured
-              ? structure.totalSwissRounds || structure.swissRounds
-              : '--'
-          }
-          className="bg-[rgba(23,107,181,0.12)]"
-          valueClassName="text-[#b7dcfb]"
-        />
-
-        <MetricTile
-          label="Top Cut"
-          value={tournamentConfigured ? topCutRequirement : '--'}
-        />
-
-        <MetricTile
-          label="Phase 2"
-          value={tournamentConfigured ? phaseTwoRequirement : '--'}
-          valueClassName={
-            structure.phaseTwoThreshold ? 'text-[#b7dcfb]' : undefined
-          }
-        />
-
-        <MetricTile
-          label="To Win"
-          value={toWinRequirement}
-          valueClassName="text-[#b7dcfb]"
-        />
-      </div>
-    </NestedPanel>
-  )
-
   const expectedMetaSection = (
     <NestedPanel className="rounded-[18px] p-4">
       <div className="mb-3 flex items-center justify-between gap-3">
@@ -645,7 +576,7 @@ export default function DeckAdvisor({ decks }: Props) {
         <Button
           tone="tertiary"
           size="sm"
-          onClick={() => setMetaSetupOpen(true)}
+          onClick={() => setAdvisorSetupOpen(true)}
           className="min-h-9 shrink-0 px-2"
         >
           Edit
@@ -700,7 +631,7 @@ export default function DeckAdvisor({ decks }: Props) {
               label="Other"
               value={
                 metaInputMode === 'percent'
-                  ? `${otherMetaTotal}%`
+                  ? `${otherMetaTotal.toFixed(1)}%`
                   : `${otherMetaTotal} players`
               }
               className="border-t border-white/10 pt-2"
@@ -710,7 +641,7 @@ export default function DeckAdvisor({ decks }: Props) {
           {hasFullMeta && (
             <button
               type="button"
-              onClick={() => setMetaSetupOpen(true)}
+              onClick={() => setAdvisorSetupOpen(true)}
               className="motion-press type-card-title w-full rounded-xl py-2 text-left text-[#6fb2ed] hover:bg-[rgba(23,107,181,0.1)]"
             >
               View full meta
@@ -811,63 +742,19 @@ export default function DeckAdvisor({ decks }: Props) {
 
   return (
     <section className="space-y-5">
-      <SectionHeader
-        title="Advisor"
-      />
+      <div className="flex items-center justify-between gap-3">
+        <SectionHeader title="Advisor" />
 
-      {tournamentSummaryCard}
+        <Button
+          tone="primary"
+          onClick={() => setAdvisorSetupOpen(true)}
+          className="min-h-11 shrink-0 px-4"
+        >
+          New Event
+        </Button>
+      </div>
 
       {expectedMetaSection}
-
-      {recommendationSection}
-
-      <DisclosurePanel
-        title="Tournament Setup"
-        description={
-          eventSize > 0
-            ? `${eventType} - ${eventSize} players`
-            : 'Set event type and player count'
-        }
-        open={eventSetupOpen}
-        onToggle={() => setEventSetupOpen((current) => !current)}
-        contentClassName="border-t border-white/10 p-4"
-      >
-        <AdvisorEventSetup
-          eventType={eventType}
-          setEventType={setEventType}
-          playerCount={playerCount}
-          setPlayerCount={setPlayerCount}
-          eventSize={eventSize}
-          structure={structure}
-        />
-      </DisclosurePanel>
-
-      <DisclosurePanel
-        title="Full Meta Editor"
-        description={
-          normalizedMetaDecks.length > 0
-            ? `${normalizedMetaDecks.length} decks entered`
-            : 'Load suggested meta or enter your field'
-        }
-        open={metaSetupOpen}
-        onToggle={() => setMetaSetupOpen((current) => !current)}
-        contentClassName="border-t border-white/10 p-4"
-      >
-        <ExpectedMetaEditor
-          archetypeOptions={archetypeOptions}
-          eventSize={eventSize}
-          metaDecks={metaDecks}
-          setMetaDecks={setMetaDecks}
-          metaInputMode={metaInputMode}
-          setMetaInputMode={setMetaInputMode}
-          suggestedMeta={suggestedMeta}
-          suggestedMetaSourceLabel={suggestedMetaSourceLabel}
-          enteredMetaTotal={enteredMetaTotal}
-          otherMetaTotal={otherMetaTotal}
-          maxMetaTotal={maxMetaTotal}
-          metaBreakdown={metaBreakdown}
-        />
-      </DisclosurePanel>
 
       <DisclosurePanel
         title="Candidate Decks & Sources"
@@ -900,6 +787,65 @@ export default function DeckAdvisor({ decks }: Props) {
           )}
         </div>
       </DisclosurePanel>
+
+      {recommendationSection}
+
+      <Sheet
+        open={advisorSetupOpen}
+        onClose={() => setAdvisorSetupOpen(false)}
+        ariaLabel="advisor setup"
+        className="items-start overflow-y-auto px-4 pb-[calc(1rem+env(safe-area-inset-bottom))] pt-[calc(5.75rem+env(safe-area-inset-top))]"
+        contentClassName="mb-auto max-h-[calc(100dvh-7rem)] overflow-y-auto rounded-[26px] p-0"
+      >
+        <div className="space-y-5 p-4">
+          <div>
+            <h3 className="type-section-title text-white">
+              New Event
+            </h3>
+            <p className="type-metadata mt-1 text-[var(--text-muted)]">
+              {eventSize > 0
+                ? `${getEventTypeLabel(eventType)} - ${eventSize} players`
+                : 'Build the field for recommendations'}
+            </p>
+          </div>
+
+          <div className="space-y-3">
+            <SectionHeader title="Tournament Setup" level={3} />
+            <AdvisorEventSetup
+              eventType={eventType}
+              setEventType={setEventType}
+              playerCount={playerCount}
+              setPlayerCount={setPlayerCount}
+              eventSize={eventSize}
+              structure={structure}
+            />
+          </div>
+
+          <div className="space-y-3">
+            <SectionHeader title="Full Meta Editor" level={3} />
+            <ExpectedMetaEditor
+              archetypeOptions={archetypeOptions}
+              eventSize={eventSize}
+              metaDecks={metaDecks}
+              setMetaDecks={setMetaDecks}
+              metaInputMode={metaInputMode}
+              setMetaInputMode={setMetaInputMode}
+              suggestedMeta={suggestedMeta}
+              suggestedMetaSourceLabel={suggestedMetaSourceLabel}
+              otherMetaTotal={otherMetaTotal}
+              metaBreakdown={metaBreakdown}
+            />
+          </div>
+
+          <Button
+            tone="primary"
+            className="w-full"
+            onClick={() => setAdvisorSetupOpen(false)}
+          >
+            Submit
+          </Button>
+        </div>
+      </Sheet>
     </section>
   )
 }

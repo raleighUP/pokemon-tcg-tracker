@@ -210,7 +210,7 @@ export default function EventHistoryCard({
   return (
     <>
       {endFeedback && (
-        <div className="motion-success-pop fixed left-1/2 top-4 z-50 -translate-x-1/2 rounded-full border border-[rgba(47,116,59,0.45)] bg-[rgba(47,116,59,0.92)] px-4 py-2 text-sm font-semibold text-white shadow-[0_14px_34px_rgba(0,0,0,0.36)]">
+        <div className="motion-success-pop fixed left-1/2 top-[calc(3.5rem+env(safe-area-inset-top))] z-50 -translate-x-1/2 rounded-full border border-[rgba(47,116,59,0.45)] bg-[rgba(47,116,59,0.92)] px-4 py-2 text-sm font-semibold text-white shadow-[0_14px_34px_rgba(0,0,0,0.36)]">
           {endFeedback}
         </div>
       )}
@@ -246,8 +246,8 @@ export default function EventHistoryCard({
                   onSelect: confirmDeleteEvent,
                 },
               ]}
-              className="rounded-t-2xl"
-              contentClassName="rounded-t-2xl bg-[var(--surface-elevated)]"
+              className="mx-3 mt-3 rounded-2xl bg-[#17171a] shadow-[inset_0_0_0_1px_rgba(255,255,255,0.035)]"
+              contentClassName="rounded-2xl bg-[#17171a]"
             >
               <button
                 type="button"
@@ -256,7 +256,7 @@ export default function EventHistoryCard({
                     setFinalDetailsOpen((open) => !open)
                   }
                 }}
-                className="motion-press w-full p-3.5 text-left hover:bg-white/[0.035]"
+                className="motion-press w-full p-3.5 text-left hover:bg-white/[0.04]"
                 aria-expanded={isFinalized ? finalDetailsOpen : undefined}
               >
                 <div className="grid grid-cols-[minmax(0,1fr)_auto_auto] gap-x-3 gap-y-1">
@@ -283,57 +283,57 @@ export default function EventHistoryCard({
                   <span className="type-metadata justify-self-end text-[var(--text-muted)]">
                     {event.format}
                   </span>
-                  {notesCount > 0 && (
-                    <span className="type-metadata col-span-2 text-[var(--text-muted)]">
-                      {notesCount} notes
-                    </span>
-                  )}
                   {isFinalized && (
                     <span className="type-metadata col-span-3 mt-1 flex items-center justify-between rounded-2xl border border-white/10 bg-white/[0.035] px-3 py-2 text-[var(--text-secondary)]">
                       Event Summary
                       <DisclosureAction
                         open={finalDetailsOpen}
-                        openLabel="Show summary"
-                        closeLabel="Hide summary"
+                        openLabel="Show"
+                        closeLabel="Hide"
                       />
+                    </span>
+                  )}
+                  {isFinalized && finalDetailsOpen && (
+                    <span className="col-span-3 mt-1 grid grid-cols-2 gap-2 rounded-2xl border border-white/10 bg-white/[0.035] p-3">
+                      <span>
+                        <span className="type-metadata block text-[var(--text-muted)]">
+                          Placement
+                        </span>
+                        <span className="type-card-title mt-1 block text-white">
+                          {event.finalPlacement || '-'}
+                        </span>
+                      </span>
+                      <span>
+                        <span className="type-metadata block text-[var(--text-muted)]">
+                          Players
+                        </span>
+                        <span className="type-card-title mt-1 block text-white">
+                          {event.playerCount ?? '-'}
+                        </span>
+                      </span>
+                      <span>
+                        <span className="type-metadata block text-[var(--text-muted)]">
+                          CP
+                        </span>
+                        <span className="type-card-title mt-1 block text-white">
+                          {event.championshipPoints || '-'}
+                        </span>
+                      </span>
+                      <span>
+                        <span className="type-metadata block text-[var(--text-muted)]">
+                          Prizing
+                        </span>
+                        <span className="type-card-title mt-1 block text-white">
+                          {event.prizing || '-'}
+                        </span>
+                      </span>
                     </span>
                   )}
                 </div>
               </button>
             </SwipeActionRow>
 
-            <DisclosureContent open={isFinalized && finalDetailsOpen}>
-              <div className="px-3.5 pb-3">
-                <div className="grid grid-cols-3 gap-2 rounded-2xl border border-white/10 bg-white/[0.035] p-3">
-                  <div>
-                    <p className="type-metadata text-[var(--text-muted)]">
-                      Placement
-                    </p>
-                    <p className="type-card-title mt-1 text-white">
-                      {event.finalPlacement || '-'}
-                    </p>
-                  </div>
-                  <div>
-                    <p className="type-metadata text-[var(--text-muted)]">
-                      CP
-                    </p>
-                    <p className="type-card-title mt-1 text-white">
-                      {event.championshipPoints || '-'}
-                    </p>
-                  </div>
-                  <div>
-                    <p className="type-metadata text-[var(--text-muted)]">
-                      Prizing
-                    </p>
-                    <p className="type-card-title mt-1 text-white">
-                      {event.prizing || '-'}
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </DisclosureContent>
-
-            <div className="p-3.5 pt-0">
+            <div className={cn('p-3.5', isFinalized ? 'pt-1' : 'pt-3')}>
               <button
                 type="button"
                 onClick={toggleCollapsed}
@@ -397,7 +397,7 @@ export default function EventHistoryCard({
 
         <DisclosureContent
           open={!isCollapsed || editingEvent === event.eventName}
-          innerClassName="divide-y divide-white/[0.07]"
+          innerClassName="mx-3 mb-3 space-y-2"
         >
           {sortedMatches.map((match) => {
             const roundResult = getRoundResult(match)
@@ -457,7 +457,8 @@ export default function EventHistoryCard({
         open={endSheetOpen}
         onClose={() => setEndSheetOpen(false)}
         ariaLabel="end event"
-        contentClassName="overflow-hidden rounded-t-[26px] rounded-b-none border-b-0 p-0"
+        className="items-start overflow-y-auto px-4 pb-[calc(1rem+env(safe-area-inset-bottom))] pt-[calc(5.75rem+env(safe-area-inset-top))]"
+        contentClassName="mb-auto overflow-hidden rounded-[26px] p-0"
       >
         <div className="space-y-4 p-4">
           <h3 className="type-section-title text-[var(--text-primary)]">
