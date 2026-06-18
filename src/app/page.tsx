@@ -11,6 +11,7 @@ import BottomNavigation, {
   AppTab,
 } from '@/components/BottomNavigation'
 import { AppShell } from '@/components/ui'
+import { normalizeComfort } from '@/utils/comfort'
 import { detectDeckArchetype } from '@/utils/archetypes'
 
 import { Deck, EventRecord, Match, CardEntry } from '@/types'
@@ -42,6 +43,7 @@ function normalizeDeck(value: unknown): Deck | null {
       typeof value.variant === 'string'
         ? value.variant
         : undefined,
+    comfort: normalizeComfort(value.comfort),
   }
 }
 
@@ -172,6 +174,7 @@ export default function Home() {
 const [activeTab, setActiveTab] = useState<AppTab>('decks')
   const [deckName, setDeckName] = useState('')
   const [decklist, setDecklist] = useState('')
+  const [deckComfort, setDeckComfort] = useState(3)
 
   const [decks, setDecks] = useState<Deck[]>(() =>
   readStoredArray<Deck>('pokemon-decks', normalizeDeck)
@@ -296,6 +299,7 @@ useEffect(() => {
             decklist: decklist,
             archetype: detectedDeck.archetype,
             variant: detectedDeck.variant,
+            comfort: deckComfort,
           }
         : deck
     )
@@ -316,6 +320,7 @@ useEffect(() => {
       decklist: decklist,
       archetype: detectedDeck.archetype,
       variant: detectedDeck.variant,
+      comfort: deckComfort,
     }
 
     const updatedDecks = [...decks, newDeck]
@@ -327,10 +332,12 @@ useEffect(() => {
 
   setDeckName('')
   setDecklist('')
+  setDeckComfort(3)
 }
 const editDeck = (deck: Deck) => {
   setDeckName(deck.name)
   setDecklist(deck.decklist)
+  setDeckComfort(normalizeComfort(deck.comfort))
 
   setEditingDeckId(deck.id)
 }
@@ -348,6 +355,7 @@ const deleteDeck = (id: number) => {
 
     setDeckName('')
     setDecklist('')
+    setDeckComfort(3)
   }
 }
 
@@ -452,6 +460,8 @@ const editEvent = (
               setDeckName={setDeckName}
               decklist={decklist}
               setDecklist={setDecklist}
+              deckComfort={deckComfort}
+              setDeckComfort={setDeckComfort}
               addDeck={addDeck}
               editingDeckId={editingDeckId}
             />

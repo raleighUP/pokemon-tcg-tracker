@@ -27,6 +27,12 @@ export default function RecommendationCard({
   const [detailsOpen, setDetailsOpen] = useState(false)
   const [contextOpen, setContextOpen] = useState(false)
   const isTopPick = rank === 1
+  const detailTileClass =
+    '[background:rgba(255,255,255,0.035)] border-white/8 shadow-none'
+  const matchupPanelClass =
+    'rounded-2xl border border-white/8 [background:rgba(12,12,14,0.42)] shadow-none'
+  const matchupEmptyClass =
+    'border border-white/6 [background:rgba(255,255,255,0.025)] px-3 py-3 text-xs text-[var(--text-muted)]'
 
   return (
     <>
@@ -50,11 +56,11 @@ export default function RecommendationCard({
             'p-4',
             isTopPick ? 'sm:p-5' : ''
           )}
-          contentClassName="card-detail space-y-4 border-t border-white/10 px-4 pb-4 pt-4"
+          contentClassName="card-detail mx-4 mb-4 space-y-4 rounded-2xl border border-white/8 [background:rgba(255,255,255,0.018)] p-3"
           header={
             <div className="w-full">
-              <div className="flex items-start justify-between gap-4">
-                <div className="min-w-0">
+              <div className="flex items-start justify-between gap-3">
+                <div className="min-w-0 flex-1">
                   <div className="mb-2 flex flex-wrap items-center gap-2">
                     <StatusBadge
                       className={
@@ -72,26 +78,26 @@ export default function RecommendationCard({
                   </div>
 
                   <p
-                    className={`truncate text-white ${
+                    className={`break-words text-white ${
                       isTopPick
-                        ? 'text-[1.45rem] font-[780] leading-tight'
+                        ? 'text-[1.3rem] font-[780] leading-tight'
                         : 'type-section-title'
                     }`}
                   >
                     {result.deckName}
                   </p>
 
-                  <p className="type-metadata mt-1 truncate text-[var(--text-muted)]">
+                  <p className="type-metadata mt-1 break-words text-[var(--text-muted)]">
                     {result.archetype}
                   </p>
                 </div>
 
-                <div className="shrink-0 text-right">
+                <div className="w-[4.7rem] shrink-0 text-right sm:w-24">
                   <p
                     className={
                       isTopPick
-                        ? 'text-[2.4rem] font-[780] leading-none text-white'
-                        : 'text-[1.9rem] font-[780] leading-none text-white'
+                        ? 'text-[1.75rem] font-[780] leading-none text-white sm:text-[2rem]'
+                        : 'text-[1.45rem] font-[780] leading-none text-white sm:text-[1.7rem]'
                     }
                   >
                     {result.fieldWinRate.toFixed(1)}%
@@ -110,7 +116,7 @@ export default function RecommendationCard({
 
                 <DisclosureAction
                   open={detailsOpen}
-                  openLabel="Inspect"
+                  openLabel="Show"
                   closeLabel="Hide"
                 />
               </div>
@@ -121,6 +127,8 @@ export default function RecommendationCard({
               <MetricTile
                 label="Field WR"
                 value={`${result.fieldWinRate.toFixed(1)}%`}
+                className={detailTileClass}
+                labelClassName="text-[var(--text-muted)]"
               />
 
               <MetricTile
@@ -128,11 +136,15 @@ export default function RecommendationCard({
                 value={`${result.comfortBonus >= 0 ? '+' : ''}${result.comfortBonus.toFixed(
                   1
                 )}%`}
+                className={detailTileClass}
+                labelClassName="text-[var(--text-muted)]"
               />
 
               <MetricTile
                 label="Final Score"
                 value={`${result.adjustedScore.toFixed(1)}%`}
+                className={detailTileClass}
+                labelClassName="text-[var(--text-muted)]"
               />
 
               <MetricTile
@@ -143,18 +155,20 @@ export default function RecommendationCard({
                     : `${result.fieldCoverage.toFixed(1)}%`
                 }
                 detail={result.fieldCoverageLabel}
+                className={detailTileClass}
+                labelClassName="text-[var(--text-muted)]"
               />
             </div>
 
             <div className="grid grid-cols-1 gap-3 text-sm sm:grid-cols-2">
-              <NestedPanel variant="compact" className="border-0">
+              <NestedPanel variant="compact" className={matchupPanelClass}>
                 <p className="mb-2 font-semibold text-[#64b572]">
                   Best Matchups
                 </p>
 
                 <div className="space-y-1">
                   {result.bestMatchups.length === 0 ? (
-                    <EmptyState className="border-0 bg-transparent p-0 text-xs text-[var(--text-muted)]">
+                    <EmptyState className={matchupEmptyClass}>
                       No favorable sampled matchups above 50%.
                     </EmptyState>
                   ) : (
@@ -177,14 +191,14 @@ export default function RecommendationCard({
                 </div>
               </NestedPanel>
 
-              <NestedPanel variant="compact" className="border-0">
+              <NestedPanel variant="compact" className={matchupPanelClass}>
                 <p className="mb-2 font-semibold text-[#d75d5d]">
                   Worst Matchups
                 </p>
 
                 <div className="space-y-1">
                   {result.worstMatchups.length === 0 ? (
-                    <EmptyState className="border-0 bg-transparent p-0 text-xs text-[var(--text-muted)]">
+                    <EmptyState className={matchupEmptyClass}>
                       No unfavorable sampled matchups below 50%.
                     </EmptyState>
                   ) : (

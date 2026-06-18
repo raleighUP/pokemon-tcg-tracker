@@ -4,6 +4,7 @@ export type Deck = {
   decklist: string
   archetype?: string
   variant?: string
+  comfort?: number
 }
 
 export type Match = {

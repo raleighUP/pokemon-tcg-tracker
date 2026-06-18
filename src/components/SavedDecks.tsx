@@ -4,6 +4,7 @@ import {
   useState,
 } from 'react'
 import { Deck } from '@/types'
+import { normalizeComfort } from '@/utils/comfort'
 import {
   ContextActionSheet,
   EmptyState,
@@ -135,7 +136,7 @@ export default function SavedDecks({
                   isSelected &&
                     'border-[rgba(23,107,181,0.55)] bg-[rgba(23,107,181,0.1)]'
                 )}
-                contentClassName="bg-transparent"
+                contentClassName="bg-[var(--surface-elevated)]"
               >
                 <div className="flex items-center justify-between gap-3">
                   <button
@@ -148,7 +149,7 @@ export default function SavedDecks({
                     </p>
 
                     <p className="type-metadata mt-1 truncate text-[var(--text-muted)]">
-                      {deck.variant || deck.archetype || 'Other'} - {getCardLineCount(deck)} lines
+                      {deck.variant || deck.archetype || 'Other'} - {normalizeComfort(deck.comfort)}/5
                     </p>
                   </button>
 
@@ -253,6 +254,10 @@ export default function SavedDecks({
             {
               label: 'Lines',
               value: getCardLineCount(contextDeck),
+            },
+            {
+              label: 'Comfort',
+              value: `${normalizeComfort(contextDeck.comfort)}/5`,
             },
           ]}
           actions={[

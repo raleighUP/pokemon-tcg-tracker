@@ -27,21 +27,19 @@ import {
   Button,
   DisclosurePanel,
   EmptyState,
+  KeyValueList,
   MetricRow,
   NestedPanel,
   SectionHeader,
   SegmentedControl,
   Sheet,
-  StatusBadge,
 } from '@/components/ui'
 import AdvisorModeControl from './deck-advisor/AdvisorModeControl'
 import AdvisorEventSetup from './deck-advisor/AdvisorEventSetup'
 import ExpectedMetaEditor from './deck-advisor/ExpectedMetaEditor'
-import OwnedDeckComfortList from './deck-advisor/OwnedDeckComfortList'
 import RecommendationCard from './deck-advisor/RecommendationCard'
 import {
   getFieldCoverageLabel,
-  getMatchupTone,
   getRecommendationInsight,
 } from './deck-advisor/helpers'
 import {
@@ -59,12 +57,12 @@ const ADVISOR_STORAGE_KEY = 'pokemon-advisor-data'
 type StoredAdvisorData = {
   eventType?: EventType
   playerCount?: string
+  eventConfigured?: boolean
   metaInputMode?: MetaInputMode
   metaDecks?: {
     name: string
     share: number
   }[]
-  deckComfortById?: Record<number, number>
   candidateDecks?: AdvisorCandidateDeck[]
   candidateSource?: CandidateSource
 }
@@ -126,29 +124,6 @@ function normalizeStoredAdvisorData(
         )
     : undefined
 
-  const deckComfortById = isRecord(value.deckComfortById)
-    ? Object.entries(value.deckComfortById).reduce<
-        Record<number, number>
-      >((comfortById, [deckId, comfort]) => {
-        const normalizedDeckId = Number(deckId)
-        const normalizedComfort = Number(comfort)
-
-        if (
-          !Number.isFinite(normalizedDeckId) ||
-          !Number.isFinite(normalizedComfort)
-        ) {
-          return comfortById
-        }
-
-        comfortById[normalizedDeckId] = Math.min(
-          5,
-          Math.max(1, normalizedComfort)
-        )
-
-        return comfortById
-      }, {})
-    : undefined
-
   const candidateDecks = Array.isArray(value.candidateDecks)
     ? value.candidateDecks.filter(isRecord).map((candidate) => ({
         name:
@@ -174,12 +149,15 @@ function normalizeStoredAdvisorData(
       typeof value.playerCount === 'string'
         ? value.playerCount
         : undefined,
+    eventConfigured:
+      typeof value.eventConfigured === 'boolean'
+        ? value.eventConfigured
+        : undefined,
     metaInputMode,
     metaDecks:
       metaDecks && metaDecks.length > 0
         ? metaDecks
         : undefined,
-    deckComfortById,
     candidateDecks,
     candidateSource,
   }
@@ -202,14 +180,14 @@ function readStoredAdvisorData(): StoredAdvisorData {
   }
 }
 
+function normalizeDeckIdentifier(value: string | undefined) {
+  return value?.trim().toLowerCase() ?? ''
+}
+
 function getEventTypeLabel(eventType: EventType) {
   if (eventType === 'challenge') return 'League Challenge'
   if (eventType === 'cup') return 'League Cup'
-  return 'Regional'
-}
-
-function normalizeDeckIdentifier(value: string | undefined) {
-  return value?.trim().toLowerCase() ?? ''
+  return 'Regional Championship'
 }
 
 export default function DeckAdvisor({ decks }: Props) {
@@ -219,7 +197,10 @@ export default function DeckAdvisor({ decks }: Props) {
   )
 
   const [advisorSetupOpen, setAdvisorSetupOpen] = useState(false)
-  const [comfortOpen, setComfortOpen] = useState(false)
+  const [sourcesOpen, setSourcesOpen] = useState(false)
+  const [eventConfigured, setEventConfigured] = useState(
+    storedAdvisorData.eventConfigured === true
+  )
 
   const [eventType, setEventType] =
     useState<EventType>(
@@ -238,59 +219,21 @@ export default function DeckAdvisor({ decks }: Props) {
   const [metaDecks, setMetaDecks] = useState(
     Array.isArray(storedAdvisorData.metaDecks)
       ? storedAdvisorData.metaDecks
-      : [{ name: '', share: 0 }]
+      : []
   )
-
-  const [deckComfortById, setDeckComfortById] =
-    useState<Record<number, number>>(
-      storedAdvisorData.deckComfortById &&
-        typeof storedAdvisorData.deckComfortById === 'object'
-        ? storedAdvisorData.deckComfortById
-        : {}
-    )
-
-  const legacyCandidateDecks = Array.isArray(
-    storedAdvisorData.candidateDecks
-  )
-    ? storedAdvisorData.candidateDecks
-    : null
 
   const [candidateSource, setCandidateSource] =
     useState<CandidateSource>(
       storedAdvisorData.candidateSource ?? 'owned'
     )
 
-  const resolvedDeckComfortById = useMemo(() => {
-    if (!legacyCandidateDecks) {
-      return deckComfortById
-    }
-
-    const migratedComfortById = { ...deckComfortById }
-
-    decks.forEach((savedDeck) => {
-      if (migratedComfortById[savedDeck.id] !== undefined) {
-        return
-      }
-
-      const oldCandidate = legacyCandidateDecks.find(
-        (candidate) => candidate.name === savedDeck.name
-      )
-
-      if (oldCandidate) {
-        migratedComfortById[savedDeck.id] = oldCandidate.comfort
-      }
-    })
-
-    return migratedComfortById
-  }, [deckComfortById, decks, legacyCandidateDecks])
-
   useEffect(() => {
     const advisorData = {
       eventType,
       playerCount,
+      eventConfigured,
       metaInputMode,
       metaDecks,
-      deckComfortById: resolvedDeckComfortById,
       candidateSource,
     }
 
@@ -301,9 +244,9 @@ export default function DeckAdvisor({ decks }: Props) {
   }, [
     eventType,
     playerCount,
+    eventConfigured,
     metaInputMode,
     metaDecks,
-    resolvedDeckComfortById,
     candidateSource,
   ])
 
@@ -323,6 +266,56 @@ export default function DeckAdvisor({ decks }: Props) {
   const structure = useMemo(() => {
     return getTournamentStructure(eventType, eventSize)
   }, [eventType, eventSize])
+
+  const handleMetaInputModeChange = (nextMode: MetaInputMode) => {
+    if (nextMode === metaInputMode) return
+
+    setMetaDecks(
+      metaDecks.map((metaDeck) => {
+        if (nextMode === 'players') {
+          const playerShare =
+            eventSize > 0
+              ? (metaDeck.share / 100) * eventSize
+              : metaDeck.share
+
+          return {
+            ...metaDeck,
+            share: Math.max(0, Math.round(playerShare)),
+          }
+        }
+
+        const percentShare =
+          eventSize > 0
+            ? (metaDeck.share / eventSize) * 100
+            : metaDeck.share
+
+        return {
+          ...metaDeck,
+          share: Math.max(
+            0,
+            Math.round(percentShare * 10) / 10
+          ),
+        }
+      })
+    )
+
+    setMetaInputMode(nextMode)
+  }
+
+  const clearAdvisorData = () => {
+    if (typeof window !== 'undefined') {
+      localStorage.removeItem(ADVISOR_STORAGE_KEY)
+    }
+
+    setEventConfigured(false)
+    setAdvisorSetupOpen(false)
+    setSourcesOpen(false)
+    setEventType('challenge')
+    setPlayerCount('')
+    setMetaInputMode('percent')
+    setMetaDecks([])
+    setCandidateSource('owned')
+  }
 
   const enteredMetaTotal = metaDecks.reduce((total, metaDeck) => {
     const value = Number(metaDeck.share)
@@ -366,18 +359,16 @@ export default function DeckAdvisor({ decks }: Props) {
   )
 
   const metaBreakdown = normalizedMetaDecks.map((metaDeck) => {
-    const roundedPlayers =
+    const playerCountShare =
       eventSize > 0
-        ? Math.round(
-            (metaDeck.normalizedShare / 100) * eventSize
-          )
+        ? (metaDeck.normalizedShare / 100) * eventSize
         : 0
 
     return {
       name: metaDeck.name,
       enteredValue: metaDeck.share,
       normalizedShare: metaDeck.normalizedShare,
-      roundedPlayers,
+      playerCountShare,
     }
   })
 
@@ -429,11 +420,11 @@ export default function DeckAdvisor({ decks }: Props) {
         id: deck.id,
         name: deck.name,
         archetype: deck.variant || deck.archetype || deck.name,
-        comfort: resolvedDeckComfortById[deck.id] ?? 3,
+        comfort: deck.comfort ?? 3,
         owned: true,
         matchups: {},
       })),
-    [decks, resolvedDeckComfortById]
+    [decks]
   )
 
   const advisorCandidateDecks = useMemo(
@@ -569,6 +560,75 @@ export default function DeckAdvisor({ decks }: Props) {
     .sort((a, b) => b.normalizedShare - a.normalizedShare)
   const previewMetaBreakdown = visibleMetaBreakdown.slice(0, 5)
   const hasFullMeta = visibleMetaBreakdown.length > previewMetaBreakdown.length
+  const tournamentStructureItems =
+    eventType === 'cup'
+      ? [
+          {
+            label: 'Swiss',
+            value: `${structure.swissRounds} rounds`,
+          },
+          {
+            label: 'Elimination',
+            value: `${structure.singleEliminationRounds} rounds`,
+          },
+          { label: 'Top Cut', value: structure.topCutLabel },
+          {
+            label: 'Total Event Length',
+            value: structure.totalEventLength,
+          },
+        ]
+      : eventType === 'regional' && structure.phaseOneRounds
+        ? [
+            {
+              label: 'Phase 1',
+              value: `${structure.phaseOneRounds} rounds`,
+            },
+            {
+              label: 'Phase 2 Threshold',
+              value: `${structure.phaseTwoThreshold} Match Points`,
+            },
+            {
+              label: 'Phase 2',
+              value: `${structure.phaseTwoRounds} rounds`,
+            },
+            {
+              label: 'Total Swiss',
+              value: `${structure.totalSwissRounds} rounds`,
+            },
+            { label: 'Top Cut', value: structure.topCutLabel },
+          ]
+        : [
+            {
+              label: 'Swiss',
+              value: `${structure.swissRounds} rounds`,
+            },
+            { label: 'Top Cut', value: structure.topCutLabel },
+          ]
+  const eventSummarySection = (
+    <NestedPanel className="space-y-4 rounded-[18px] p-4">
+      <div className="grid grid-cols-[minmax(0,1fr)_auto] items-start gap-4">
+        <p className="type-section-title min-w-0 break-words text-left text-[var(--text-primary)]">
+          {getEventTypeLabel(eventType)}
+        </p>
+
+        <MetricRow
+          label="Players"
+          value={eventSize}
+          className="min-w-16 flex-col items-end gap-1 text-right"
+        />
+      </div>
+
+      <NestedPanel variant="compact" className="space-y-3">
+        <p className="text-sm font-semibold text-white">
+          Tournament Structure
+        </p>
+        <KeyValueList
+          className="text-sm"
+          items={tournamentStructureItems}
+        />
+      </NestedPanel>
+    </NestedPanel>
+  )
   const expectedMetaSection = (
     <NestedPanel className="rounded-[18px] p-4">
       <div className="mb-3 flex items-center justify-between gap-3">
@@ -585,7 +645,7 @@ export default function DeckAdvisor({ decks }: Props) {
 
       <SegmentedControl
         value={metaInputMode}
-        onChange={setMetaInputMode}
+        onChange={handleMetaInputModeChange}
         options={[
           { label: '% of Field', value: 'percent' },
           { label: '# Players', value: 'players' },
@@ -595,11 +655,30 @@ export default function DeckAdvisor({ decks }: Props) {
 
       {previewMetaBreakdown.length > 0 ? (
         <div className="space-y-2">
-          {previewMetaBreakdown.map((metaDeck) => {
+          {[
+            ...previewMetaBreakdown,
+            ...(otherMetaTotal > 0
+              ? [
+                  {
+                    name: 'Other',
+                    normalizedShare:
+                      metaInputMode === 'players' && eventSize > 0
+                        ? (otherMetaTotal / eventSize) * 100
+                        : otherMetaTotal,
+                    playerCountShare:
+                      metaInputMode === 'players'
+                        ? otherMetaTotal
+                        : eventSize > 0
+                          ? (otherMetaTotal / 100) * eventSize
+                          : 0,
+                  },
+                ]
+              : []),
+          ].map((metaDeck) => {
             const valueLabel =
               metaInputMode === 'percent'
                 ? `${metaDeck.normalizedShare.toFixed(1)}%`
-                : `${metaDeck.roundedPlayers} players`
+                : `${Math.round(metaDeck.playerCountShare)} players`
 
             return (
               <div key={metaDeck.name} className="space-y-1">
@@ -625,18 +704,6 @@ export default function DeckAdvisor({ decks }: Props) {
               </div>
             )
           })}
-
-          {otherMetaTotal > 0 && (
-            <MetricRow
-              label="Other"
-              value={
-                metaInputMode === 'percent'
-                  ? `${otherMetaTotal.toFixed(1)}%`
-                  : `${otherMetaTotal} players`
-              }
-              className="border-t border-white/10 pt-2"
-            />
-          )}
 
           {hasFullMeta && (
             <button
@@ -671,15 +738,12 @@ export default function DeckAdvisor({ decks }: Props) {
 
   const recommendationSection = (
     <div className="space-y-3">
-      <div className="flex items-center justify-between gap-3">
-        <SectionHeader title="Recommended Decks" level={3} />
+      <SectionHeader title="Recommended Decks" level={3} />
 
-        {hasRecommendations && (
-          <StatusBadge className="bg-[rgba(23,107,181,0.15)] px-2.5 py-1 text-[#b7dcfb]">
-            {candidateSource === 'owned' ? 'Owned' : 'Top Meta'}
-          </StatusBadge>
-        )}
-      </div>
+      <AdvisorModeControl
+        candidateSource={candidateSource}
+        setCandidateSource={setCandidateSource}
+      />
 
       {hasRecommendations ? (
         <div className="space-y-3">
@@ -710,11 +774,7 @@ export default function DeckAdvisor({ decks }: Props) {
         <NestedPanel className="space-y-4 rounded-2xl">
           <div className="flex items-start justify-between gap-4">
             <div>
-              <StatusBadge className="bg-white/10 px-2.5 py-1 text-[var(--text-secondary)]">
-                Waiting on Field
-              </StatusBadge>
-
-              <p className="type-section-title mt-3 text-[var(--text-primary)]">
+              <p className="type-section-title text-[var(--text-primary)]">
                 Add expected meta to get a deck pick.
               </p>
 
@@ -740,55 +800,59 @@ export default function DeckAdvisor({ decks }: Props) {
     </div>
   )
 
+  const sourcesSection = (
+    <DisclosurePanel
+      title="Sources"
+      description="Meta and matchup data"
+      open={sourcesOpen}
+      onToggle={() => setSourcesOpen((current) => !current)}
+      actionOpenLabel="Show"
+      actionCloseLabel="Hide"
+      contentClassName="border-t border-white/10 p-4"
+    >
+      <KeyValueList
+        className="text-sm"
+        items={[
+          { label: 'Meta', value: suggestedMetaSourceLabel },
+          { label: 'Matchups', value: '20 large Limitless events' },
+        ]}
+      />
+    </DisclosurePanel>
+  )
+
   return (
     <section className="space-y-5">
       <div className="flex items-center justify-between gap-3">
         <SectionHeader title="Advisor" />
 
-        <Button
-          tone="primary"
-          onClick={() => setAdvisorSetupOpen(true)}
-          className="min-h-11 shrink-0 px-4"
-        >
-          New Event
-        </Button>
+        <div className="flex shrink-0 items-center gap-2">
+          <Button
+            tone="tertiary"
+            onClick={clearAdvisorData}
+            className="min-h-11 px-3"
+          >
+            Clear All
+          </Button>
+
+          <Button
+            tone="primary"
+            onClick={() => setAdvisorSetupOpen(true)}
+            className="min-h-11 px-4"
+          >
+            New Event
+          </Button>
+        </div>
       </div>
 
-      {expectedMetaSection}
+      {eventConfigured && eventSize > 0 && (
+        <>
+          {eventSummarySection}
+          {expectedMetaSection}
+          {recommendationSection}
 
-      <DisclosurePanel
-        title="Candidate Decks & Sources"
-        description={
-          candidateSource === 'owned'
-            ? `${ownedCandidateDecks.length} owned decks`
-            : `${topMetaCandidates.length} top meta options`
-        }
-        open={comfortOpen}
-        onToggle={() => setComfortOpen((current) => !current)}
-        contentClassName="border-t border-white/10 p-4"
-      >
-        <div className="space-y-6">
-          <AdvisorModeControl
-            candidateSource={candidateSource}
-            setCandidateSource={setCandidateSource}
-          />
-
-          {candidateSource === 'owned' ? (
-            <OwnedDeckComfortList
-              ownedCandidateDecks={ownedCandidateDecks}
-              metaDecks={metaDecks}
-              setDeckComfortById={setDeckComfortById}
-              getMatchupTone={getMatchupTone}
-            />
-          ) : (
-            <EmptyState>
-              Top Meta mode ranks expected archetypes with neutral comfort.
-            </EmptyState>
-          )}
-        </div>
-      </DisclosurePanel>
-
-      {recommendationSection}
+          {sourcesSection}
+        </>
+      )}
 
       <Sheet
         open={advisorSetupOpen}
@@ -798,17 +862,6 @@ export default function DeckAdvisor({ decks }: Props) {
         contentClassName="mb-auto max-h-[calc(100dvh-7rem)] overflow-y-auto rounded-[26px] p-0"
       >
         <div className="space-y-5 p-4">
-          <div>
-            <h3 className="type-section-title text-white">
-              New Event
-            </h3>
-            <p className="type-metadata mt-1 text-[var(--text-muted)]">
-              {eventSize > 0
-                ? `${getEventTypeLabel(eventType)} - ${eventSize} players`
-                : 'Build the field for recommendations'}
-            </p>
-          </div>
-
           <div className="space-y-3">
             <SectionHeader title="Tournament Setup" level={3} />
             <AdvisorEventSetup
@@ -829,18 +882,19 @@ export default function DeckAdvisor({ decks }: Props) {
               metaDecks={metaDecks}
               setMetaDecks={setMetaDecks}
               metaInputMode={metaInputMode}
-              setMetaInputMode={setMetaInputMode}
+              setMetaInputMode={handleMetaInputModeChange}
               suggestedMeta={suggestedMeta}
-              suggestedMetaSourceLabel={suggestedMetaSourceLabel}
-              otherMetaTotal={otherMetaTotal}
-              metaBreakdown={metaBreakdown}
             />
           </div>
 
           <Button
             tone="primary"
             className="w-full"
-            onClick={() => setAdvisorSetupOpen(false)}
+            disabled={eventSize <= 0}
+            onClick={() => {
+              setEventConfigured(true)
+              setAdvisorSetupOpen(false)
+            }}
           >
             Submit
           </Button>

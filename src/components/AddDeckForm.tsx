@@ -1,18 +1,27 @@
-import { useEffect, useRef, useState } from 'react'
+import { CSSProperties, useEffect, useRef, useState } from 'react'
 import {
   Button,
   DisclosureAction,
   Panel,
+  FieldLabel,
+  RangeField,
   SectionHeader,
   TextareaField,
   TextInput,
 } from '@/components/ui'
+import {
+  getComfortColor,
+  getComfortLabel,
+  getComfortProgress,
+} from '@/utils/comfort'
 
 type Props = {
   deckName: string
   setDeckName: (value: string) => void
   decklist: string
   setDecklist: (value: string) => void
+  deckComfort: number
+  setDeckComfort: (value: number) => void
   addDeck: () => void
   editingDeckId: number | null
 }
@@ -22,6 +31,8 @@ export default function AddDeckForm({
   setDeckName,
   decklist,
   setDecklist,
+  deckComfort,
+  setDeckComfort,
   addDeck,
   editingDeckId,
 }: Props) {
@@ -100,6 +111,25 @@ export default function AddDeckForm({
           <p className="type-helper mt-2 text-[var(--text-muted)]">
             Paste the exported card list exactly as written.
           </p>
+        </div>
+
+        <div>
+          <FieldLabel>
+            {getComfortLabel(deckComfort)}
+          </FieldLabel>
+
+          <RangeField
+            min="1"
+            max="5"
+            value={deckComfort}
+            aria-label="Deck comfort"
+            className="comfort-range"
+            style={{
+              '--comfort-color': getComfortColor(deckComfort),
+              '--comfort-progress': getComfortProgress(deckComfort),
+            } as CSSProperties}
+            onChange={(e) => setDeckComfort(Number(e.target.value))}
+          />
         </div>
 
         <div className="grid grid-cols-2 gap-3">

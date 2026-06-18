@@ -139,9 +139,8 @@ export function SwipeActionRow({
 
       <div
         className={cn(
-          'swipe-action-row-content motion-surface relative will-change-transform',
-          contentClassName,
-          open && actions.length > 0 && 'rounded-r-none'
+          'swipe-action-row-content motion-surface relative rounded-2xl bg-[var(--surface-elevated)] will-change-transform',
+          contentClassName
         )}
         data-open={open ? 'true' : 'false'}
         style={{

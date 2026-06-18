@@ -333,13 +333,13 @@ export default function CompareDecks({
             open={false}
             onOpenChange={() => undefined}
             actions={[]}
-            onContextOpen={() => setDetailChange(change)}
-          >
-            <button
-              type="button"
-              onClick={() => setDetailChange(change)}
-              className="motion-press card-row flex min-h-[52px] w-full items-center justify-between gap-3 rounded-2xl px-3 py-2.5 text-left hover:bg-white/[0.055]"
+              onContextOpen={() => setDetailChange(change)}
             >
+              <button
+                type="button"
+                onClick={() => setDetailChange(change)}
+                className="motion-press card-row flex min-h-[52px] w-full items-center justify-between gap-3 rounded-2xl px-3 py-2.5 text-left hover:bg-white/[0.055]"
+              >
               <span className="min-w-0">
                 <span className="type-card-title block truncate text-[var(--text-primary)]">
                   {change.cardName}

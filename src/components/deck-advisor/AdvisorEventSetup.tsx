@@ -26,7 +26,7 @@ export default function AdvisorEventSetup({
 }: Props) {
   return (
     <>
-      <div className="space-y-4">
+      <div className="grid grid-cols-1 gap-3 sm:grid-cols-[minmax(13.5rem,auto)_minmax(4rem,1fr)]">
         <div>
           <FieldLabel>
             Event Type
@@ -51,7 +51,7 @@ export default function AdvisorEventSetup({
 
         <div>
           <FieldLabel>
-            Estimated Players
+            Players
           </FieldLabel>
 
           <NumberInput
@@ -79,8 +79,8 @@ export default function AdvisorEventSetup({
               className="text-sm"
               items={[
                 {
-                  label: 'Swiss Rounds',
-                  value: structure.swissRounds,
+                  label: 'Swiss',
+                  value: `${structure.swissRounds} rounds`,
                 },
                 {
                   label: 'Top Cut',
@@ -95,12 +95,12 @@ export default function AdvisorEventSetup({
               className="text-sm"
               items={[
                 {
-                  label: 'Swiss Rounds',
-                  value: structure.swissRounds,
+                  label: 'Swiss',
+                  value: `${structure.swissRounds} rounds`,
                 },
                 {
-                  label: 'Elimination Rounds',
-                  value: structure.singleEliminationRounds,
+                  label: 'Elimination',
+                  value: `${structure.singleEliminationRounds} rounds`,
                 },
                 {
                   label: 'Top Cut',
@@ -120,20 +120,20 @@ export default function AdvisorEventSetup({
                 <KeyValueList
                   items={[
                     {
-                      label: 'Phase 1 Rounds',
-                      value: structure.phaseOneRounds,
+                      label: 'Phase 1',
+                      value: `${structure.phaseOneRounds} rounds`,
                     },
                     {
                       label: 'Phase 2 Threshold',
                       value: `${structure.phaseTwoThreshold} Match Points`,
                     },
                     {
-                      label: 'Phase 2 Rounds',
-                      value: structure.phaseTwoRounds,
+                      label: 'Phase 2',
+                      value: `${structure.phaseTwoRounds} rounds`,
                     },
                     {
                       label: 'Total Swiss',
-                      value: structure.totalSwissRounds,
+                      value: `${structure.totalSwissRounds} rounds`,
                     },
                     {
                       label: 'Top Cut',
@@ -145,8 +145,8 @@ export default function AdvisorEventSetup({
                 <KeyValueList
                   items={[
                     {
-                      label: 'Swiss Rounds',
-                      value: structure.swissRounds,
+                      label: 'Swiss',
+                      value: `${structure.swissRounds} rounds`,
                     },
                     {
                       label: 'Top Cut',

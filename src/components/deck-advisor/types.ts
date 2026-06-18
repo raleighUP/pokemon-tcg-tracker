@@ -17,7 +17,7 @@ export type MetaBreakdownDeck = {
   name: string
   enteredValue: number
   normalizedShare: number
-  roundedPlayers: number
+  playerCountShare: number
 }
 
 export type OwnedAdvisorCandidateDeck = AdvisorCandidateDeck & {
