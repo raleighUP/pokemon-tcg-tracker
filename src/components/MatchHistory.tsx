@@ -142,7 +142,7 @@ export default function MatchHistory({
     useState<number | null>(null)
 
   const [openNotesId, setOpenNotesId] =
-    useState<number | null>(null)
+    useState<string | null>(null)
 
   const [collapsedEvents, setCollapsedEvents] = useState<
     Record<string, boolean>

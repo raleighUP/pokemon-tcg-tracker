@@ -132,11 +132,15 @@ export default function SavedDecks({
                   },
                 ]}
                 className={cn(
-                  'card-row motion-surface rounded-2xl p-3',
+                  'rounded-2xl',
+                  isSelected &&
+                    'ring-1 ring-[rgba(23,107,181,0.55)]'
+                )}
+                contentClassName={cn(
+                  'card-row rounded-2xl p-3',
                   isSelected &&
                     'border-[rgba(23,107,181,0.55)] bg-[rgba(23,107,181,0.1)]'
                 )}
-                contentClassName="bg-[var(--surface-elevated)]"
               >
                 <div className="flex items-center justify-between gap-3">
                   <button
@@ -209,7 +213,7 @@ export default function SavedDecks({
         {detailDeck && (
           <div className="flex h-full flex-col">
             <div
-              className="touch-none cursor-grab px-4 pb-3 pt-2 active:cursor-grabbing"
+              className="touch-none cursor-grab px-4 pb-4 pt-4 active:cursor-grabbing"
               onPointerDown={handleDetailPointerDown}
               onPointerMove={handleDetailPointerMove}
               onPointerUp={handleDetailPointerUp}

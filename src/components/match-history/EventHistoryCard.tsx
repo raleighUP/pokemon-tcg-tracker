@@ -28,7 +28,7 @@ type Props = {
   editingEvent: string | null
   editingMatch: Match | null
   openMenuId: number | null
-  openNotesId: number | null
+  openNotesId: string | null
   isRoundValid: boolean
   isFormValid: boolean
   isCollapsed: boolean
@@ -36,7 +36,7 @@ type Props = {
   setEditingEvent: (value: string | null) => void
   setEditingMatch: (match: Match | null) => void
   setOpenMenuId: (id: number | null) => void
-  setOpenNotesId: (id: number | null) => void
+  setOpenNotesId: (id: string | null) => void
   editEvent: (
     oldEventName: string,
     updatedData: {
@@ -410,6 +410,7 @@ export default function EventHistoryCard({
               <RoundHistoryRow
                 key={match.id}
                 match={match}
+                openKey={`${event.eventName}-${match.id}`}
                 roundLabel={getRoundLabel(event, match.round)}
                 roundResult={roundResult}
                 runningRecord={{

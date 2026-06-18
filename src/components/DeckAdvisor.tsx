@@ -317,6 +317,16 @@ export default function DeckAdvisor({ decks }: Props) {
     setCandidateSource('owned')
   }
 
+  const startNewAdvisorEvent = () => {
+    setEventConfigured(false)
+    setEventType('challenge')
+    setPlayerCount('')
+    setMetaInputMode('percent')
+    setMetaDecks([])
+    setCandidateSource('owned')
+    setAdvisorSetupOpen(true)
+  }
+
   const enteredMetaTotal = metaDecks.reduce((total, metaDeck) => {
     const value = Number(metaDeck.share)
 
@@ -836,7 +846,7 @@ export default function DeckAdvisor({ decks }: Props) {
 
           <Button
             tone="primary"
-            onClick={() => setAdvisorSetupOpen(true)}
+            onClick={startNewAdvisorEvent}
             className="min-h-11 px-4"
           >
             New Event

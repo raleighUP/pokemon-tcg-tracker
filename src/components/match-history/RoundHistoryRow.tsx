@@ -14,6 +14,7 @@ type RoundResult = 'W' | 'L' | 'T'
 
 type Props = {
   match: Match
+  openKey: string
   roundLabel: string
   roundResult: RoundResult
   runningRecord: {
@@ -23,12 +24,12 @@ type Props = {
   }
   editingMatch: Match | null
   openMenuId: number | null
-  openNotesId: number | null
+  openNotesId: string | null
   isRoundValid: boolean
   isFormValid: boolean
   setEditingMatch: (match: Match | null) => void
   setOpenMenuId: (id: number | null) => void
-  setOpenNotesId: (id: number | null) => void
+  setOpenNotesId: (id: string | null) => void
   editMatch: (match: Match) => void
   deleteMatch: (id: number) => void
 }
@@ -81,6 +82,7 @@ function DiceMark({ active }: { active: boolean }) {
 
 export default function RoundHistoryRow({
   match,
+  openKey,
   roundLabel,
   roundResult,
   runningRecord,
@@ -97,7 +99,7 @@ export default function RoundHistoryRow({
 }: Props) {
   const [contextOpen, setContextOpen] = useState(false)
   const actionsOpen = openMenuId === match.id
-  const detailsOpen = openNotesId === match.id
+  const detailsOpen = openNotesId === openKey
   const hasNotes = Boolean(match.notes?.trim())
   const runningRecordLabel = `${runningRecord.wins}-${runningRecord.losses}${
     runningRecord.ties > 0 ? `-${runningRecord.ties}` : ''
@@ -151,7 +153,7 @@ export default function RoundHistoryRow({
       >
         <button
           type="button"
-          onClick={() => setOpenNotesId(detailsOpen ? null : match.id)}
+          onClick={() => setOpenNotesId(detailsOpen ? null : openKey)}
           className="motion-press grid min-h-[58px] w-full grid-cols-[2rem_minmax(0,1fr)_auto] items-center gap-2 rounded-2xl bg-black/28 px-3 py-2.5 text-left hover:bg-white/[0.04]"
           aria-expanded={detailsOpen}
         >

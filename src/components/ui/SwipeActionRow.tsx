@@ -139,7 +139,7 @@ export function SwipeActionRow({
 
       <div
         className={cn(
-          'swipe-action-row-content motion-surface relative rounded-2xl bg-[var(--surface-elevated)] will-change-transform',
+          'swipe-action-row-content motion-surface relative will-change-transform',
           contentClassName
         )}
         data-open={open ? 'true' : 'false'}
@@ -181,9 +181,9 @@ export function SwipeActionRow({
         onTouchEnd={() => {
           clearLongPress()
 
-          if (dragX < -(actionWidth * 0.4)) {
+          if (dragX < -(actionWidth * 0.65)) {
             onOpenChange(true)
-          } else if (dragX > -(actionWidth * 0.65)) {
+          } else if (dragX > -(actionWidth * 0.35)) {
             onOpenChange(false)
           }
 

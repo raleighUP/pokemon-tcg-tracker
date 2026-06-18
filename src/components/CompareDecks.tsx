@@ -485,7 +485,7 @@ export default function CompareDecks({
       >
         <div className="flex h-full flex-col">
           <div
-            className="touch-none cursor-grab px-4 pb-3 pt-2 active:cursor-grabbing"
+            className="touch-none cursor-grab px-4 pb-4 pt-4 active:cursor-grabbing"
             onPointerDown={handleSheetPointerDown}
             onPointerMove={handleSheetPointerMove}
             onPointerUp={handleSheetPointerUp}

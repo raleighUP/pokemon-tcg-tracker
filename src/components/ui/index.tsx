@@ -8,7 +8,7 @@ import type {
   SelectHTMLAttributes,
   TextareaHTMLAttributes,
 } from 'react'
-import { Children, cloneElement, forwardRef, isValidElement } from 'react'
+import { Children, cloneElement, forwardRef, isValidElement, useRef } from 'react'
 import { createPortal } from 'react-dom'
 export { ContextActionSheet } from './ContextActionSheet'
 export { SwipeActionRow } from './SwipeActionRow'
@@ -158,6 +158,12 @@ export function Sheet({
   contentClassName?: string
   contentStyle?: CSSProperties
 }) {
+  const sheetTouchStart = useRef<{
+    x: number
+    y: number
+    enabled: boolean
+  } | null>(null)
+
   if (!open) return null
 
   const sheet = (
@@ -182,10 +188,34 @@ export function Sheet({
           contentClassName
         )}
         style={contentStyle}
+        onTouchStart={(event) => {
+          const touch = event.touches[0]
+          const bounds = event.currentTarget.getBoundingClientRect()
+
+          sheetTouchStart.current = {
+            x: touch.clientX,
+            y: touch.clientY,
+            enabled: touch.clientY - bounds.top <= 96,
+          }
+        }}
+        onTouchEnd={(event) => {
+          const start = sheetTouchStart.current
+          sheetTouchStart.current = null
+
+          if (!start?.enabled) return
+
+          const touch = event.changedTouches[0]
+          const deltaX = touch.clientX - start.x
+          const deltaY = touch.clientY - start.y
+
+          if (deltaY > 72 && Math.abs(deltaY) > Math.abs(deltaX) * 1.2) {
+            onClose()
+          }
+        }}
       >
         <div
           aria-hidden="true"
-          className="mx-auto mt-3 h-1 w-10 rounded-full bg-white/22"
+          className="mx-auto mt-3 h-2 w-16 rounded-full bg-white/22"
         />
 
         {children}
