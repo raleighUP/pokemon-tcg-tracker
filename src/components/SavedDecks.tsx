@@ -8,9 +8,6 @@ import { normalizeComfort } from '@/utils/comfort'
 import {
   ContextActionSheet,
   EmptyState,
-  IconButton,
-  MenuItem,
-  OverflowMenu,
   Panel,
   SectionHeader,
   Sheet,
@@ -33,7 +30,6 @@ export default function SavedDecks({
   deleteDeck,
   selectedDeck,
 }: Props) {
-  const [openMenuId, setOpenMenuId] = useState<number | null>(null)
   const [openSwipeId, setOpenSwipeId] = useState<number | null>(null)
   const [contextDeck, setContextDeck] = useState<Deck | null>(null)
   const [detailDeck, setDetailDeck] = useState<Deck | null>(null)
@@ -58,7 +54,6 @@ export default function SavedDecks({
     setDetailDeck(deck)
     setDetailDragOffset(0)
     setOpenSwipeId(null)
-    setOpenMenuId(null)
   }
 
   const closeDeckDetail = () => {
@@ -131,11 +126,7 @@ export default function SavedDecks({
                     onSelect: () => confirmDeleteDeck(deck),
                   },
                 ]}
-                className={cn(
-                  'rounded-2xl',
-                  isSelected &&
-                    'ring-1 ring-[rgba(23,107,181,0.55)]'
-                )}
+                className="rounded-2xl"
                 contentClassName={cn(
                   'card-row rounded-2xl p-3',
                   isSelected &&
@@ -157,41 +148,6 @@ export default function SavedDecks({
                     </p>
                   </button>
 
-                  <div className="relative shrink-0">
-                    <IconButton
-                      onClick={() =>
-                        setOpenMenuId(openMenuId === deck.id ? null : deck.id)
-                      }
-                      className="h-11 w-11 rounded-xl text-lg font-bold leading-none text-[var(--text-muted)] hover:bg-white/10 hover:text-white"
-                      aria-label={`${deck.name} actions`}
-                    >
-                      ...
-                    </IconButton>
-
-                    <OverflowMenu
-                      open={openMenuId === deck.id}
-                      onClose={() => setOpenMenuId(null)}
-                    >
-                      <MenuItem
-                        onClick={() => {
-                          editDeck(deck)
-                          setOpenMenuId(null)
-                        }}
-                      >
-                        Edit Deck
-                      </MenuItem>
-
-                      <MenuItem
-                        onClick={() => {
-                          confirmDeleteDeck(deck)
-                          setOpenMenuId(null)
-                        }}
-                        tone="danger"
-                      >
-                        Delete Deck
-                      </MenuItem>
-                    </OverflowMenu>
-                  </div>
                 </div>
               </SwipeActionRow>
             )

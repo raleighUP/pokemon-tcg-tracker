@@ -13,7 +13,7 @@ type SwipeAction = {
   tone?: 'edit' | 'delete'
 }
 
-const ACTION_WIDTH = 64
+const ACTION_WIDTH = 72
 const LONG_PRESS_DELAY = 520
 
 function cn(...classes: Array<string | false | null | undefined>) {
@@ -113,33 +113,41 @@ export function SwipeActionRow({
     >
       <div
         aria-hidden={!open}
-        className="absolute bottom-px right-px top-px flex items-stretch justify-end overflow-hidden rounded-r-2xl"
-        style={{ width: actionWidth }}
+        className="motion-surface absolute inset-0 z-0 overflow-hidden rounded-2xl bg-[var(--color-primary)]"
+        style={{ opacity: open || dragX !== 0 ? 1 : 0 }}
       >
-        {actions.map((action) => (
-          <button
-            key={String(action.label)}
-            type="button"
-            onClick={() => {
-              action.onSelect()
-              onOpenChange(false)
-            }}
-            className={cn(
-              'motion-press w-16 text-xs font-bold text-white',
-              action.tone === 'delete'
-                ? 'bg-[var(--color-error)] hover:bg-[#b32020]'
-                : 'bg-[var(--color-primary)] hover:bg-[#1d78c8]',
-              actionClassName
-            )}
-          >
-            {action.label}
-          </button>
-        ))}
+        <div
+          className="absolute bottom-0 right-0 top-0 flex items-stretch justify-end"
+          style={{ width: actionWidth }}
+        >
+          {actions.map((action, index) => (
+            <button
+              key={String(action.label)}
+              type="button"
+              onClick={() => {
+                action.onSelect()
+                onOpenChange(false)
+              }}
+              className={cn(
+                'motion-press w-[72px] text-xs font-bold text-white',
+                action.tone === 'delete'
+                  ? cn(
+                      'bg-[var(--color-error)] hover:bg-[#b32020]',
+                      index === actions.length - 1 && 'rounded-r-2xl'
+                    )
+                  : 'bg-[var(--color-primary)] hover:bg-[#1d78c8]',
+                actionClassName
+              )}
+            >
+              {action.label}
+            </button>
+          ))}
+        </div>
       </div>
 
       <div
         className={cn(
-          'swipe-action-row-content motion-surface relative will-change-transform',
+          'swipe-action-row-content motion-surface relative z-10 w-full overflow-hidden rounded-2xl will-change-transform',
           contentClassName
         )}
         data-open={open ? 'true' : 'false'}
