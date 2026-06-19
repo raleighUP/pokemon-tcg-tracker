@@ -12,10 +12,43 @@ const iconStroke = {
 
 export function DeckIcon({ className = '' }: IconProps) {
   return (
-    <svg viewBox="0 0 24 24" className={className} aria-hidden="true">
-      <rect {...iconStroke} x="7" y="4" width="10" height="15" rx="2.5" />
-      <path {...iconStroke} d="M10 7h4" />
-      <path {...iconStroke} d="M9 16h6" />
+    <svg viewBox="0 0 32 32" className={className} aria-hidden="true">
+      <defs>
+        <mask id="deck-back-card-mask">
+          <rect width="32" height="32" fill="white" />
+          <rect x="8" y="8" width="16" height="20" rx="2.5" fill="black" />
+        </mask>
+        <mask id="deck-middle-card-mask">
+          <rect width="32" height="32" fill="white" />
+          <rect x="12" y="4" width="16" height="20" rx="2.5" fill="black" />
+        </mask>
+      </defs>
+      <rect
+        {...iconStroke}
+        x="5"
+        y="13"
+        width="14"
+        height="18"
+        rx="1.5"
+        mask="url(#deck-back-card-mask)"
+      />
+      <rect
+        {...iconStroke}
+        x="9"
+        y="9"
+        width="14"
+        height="18"
+        rx="1.5"
+        mask="url(#deck-middle-card-mask)"
+      />
+      <rect
+        {...iconStroke}
+        x="13"
+        y="5"
+        width="14"
+        height="18"
+        rx="1.5"
+      />
     </svg>
   )
 }
@@ -23,10 +56,10 @@ export function DeckIcon({ className = '' }: IconProps) {
 export function CompareIcon({ className = '' }: IconProps) {
   return (
     <svg viewBox="0 0 24 24" className={className} aria-hidden="true">
-      <path {...iconStroke} d="M7 7h10" />
-      <path {...iconStroke} d="m14 4 3 3-3 3" />
-      <path {...iconStroke} d="M17 17H7" />
-      <path {...iconStroke} d="m10 14-3 3 3 3" />
+      <path {...iconStroke} d="M4 7h16" />
+      <path {...iconStroke} d="m16 3 4 4-4 4" />
+      <path {...iconStroke} d="M20 17H4" />
+      <path {...iconStroke} d="m8 13-4 4 4 4" />
     </svg>
   )
 }
@@ -44,20 +77,33 @@ export function LogIcon({ className = '' }: IconProps) {
 
 export function HistoryIcon({ className = '' }: IconProps) {
   return (
-    <svg viewBox="0 0 24 24" className={className} aria-hidden="true">
-      <path {...iconStroke} d="M4 12a8 8 0 1 0 2.35-5.65" />
-      <path {...iconStroke} d="M4 5v5h5" />
-      <path {...iconStroke} d="M12 8v5l3 2" />
+    <svg viewBox="0 0 32 32" className={className} aria-hidden="true">
+      <rect {...iconStroke} x="6" y="6" width="20" height="24" rx="2" />
+      <rect
+        {...iconStroke}
+        x="11"
+        y="4"
+        width="10"
+        height="4"
+        rx="1"
+        fill="var(--surface-elevated)"
+      />
+      <polyline
+        points="10,17 14,21 22,12"
+        {...iconStroke}
+        strokeWidth="2.5"
+      />
     </svg>
   )
 }
 
 export function AdvisorIcon({ className = '' }: IconProps) {
   return (
-    <svg viewBox="0 0 24 24" className={className} aria-hidden="true">
-      <path {...iconStroke} d="M4 18h16" />
-      <path {...iconStroke} d="m5 15 4-4 3 3 6-7" />
-      <path {...iconStroke} d="M15 7h3v3" />
+    <svg viewBox="0 0 32 32" className={className} aria-hidden="true">
+      <rect {...iconStroke} x="11" y="5" width="10" height="24" rx="1" />
+      <rect {...iconStroke} x="3" y="12" width="8" height="17" rx="1" />
+      <rect {...iconStroke} x="21" y="14" width="8" height="15" rx="1" />
+      <line {...iconStroke} x1="3" y1="29" x2="29" y2="29" />
     </svg>
   )
 }

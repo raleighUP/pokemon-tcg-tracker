@@ -10,8 +10,8 @@ export default function manifest(): MetadataRoute.Manifest {
     scope: '/',
     display: 'standalone',
     orientation: 'portrait',
-    background_color: '#020617',
-    theme_color: '#020617',
+    background_color: '#0B0B0D',
+    theme_color: '#0B0B0D',
     categories: ['games', 'productivity', 'utilities'],
     icons: [
       {
@@ -33,7 +33,7 @@ export default function manifest(): MetadataRoute.Manifest {
         purpose: 'maskable',
       },
       {
-        src: '/icons/deck.svg',
+        src: '/icons/top-cut-app-icon-dark.svg',
         sizes: 'any',
         type: 'image/svg+xml',
         purpose: 'any',

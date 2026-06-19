@@ -604,6 +604,94 @@ export function DisclosurePanel({
   )
 }
 
+export function LayeredDisclosurePanel({
+  open,
+  onToggle,
+  title,
+  description,
+  eyebrow,
+  children,
+  className,
+  headerClassName,
+  contentClassName,
+}: {
+  open: boolean
+  onToggle: () => void
+  title: ReactNode
+  description?: ReactNode
+  eyebrow?: ReactNode
+  children: ReactNode
+  className?: string
+  headerClassName?: string
+  contentClassName?: string
+}) {
+  return (
+    <NestedPanel
+      className={cn(
+        'motion-layered-disclosure-shell overflow-hidden rounded-[18px] p-0',
+        open && 'is-open',
+        className
+      )}
+    >
+      <Button
+        tone="ghost"
+        onClick={onToggle}
+        aria-expanded={open}
+        className={cn(
+          'min-h-0 w-full rounded-none border-0 bg-transparent px-4 py-4 text-left hover:bg-white/[0.035] active:scale-100',
+          headerClassName
+        )}
+      >
+        <span className="flex w-full items-start justify-between gap-3">
+          <span className="min-w-0">
+            {eyebrow && (
+              <span className="type-metadata mb-1 block text-[var(--text-subtle)]">
+                {eyebrow}
+              </span>
+            )}
+
+            <span className="type-section-title block text-[var(--text-primary)]">
+              {title}
+            </span>
+
+            {description && (
+              <span className="type-helper mt-1 block text-[var(--text-muted)]">
+                {description}
+              </span>
+            )}
+          </span>
+
+          <span
+            aria-hidden="true"
+            className={cn(
+              'motion-layered-disclosure-chevron mt-1 flex h-8 w-8 shrink-0 items-center justify-center rounded-full border border-white/10 bg-white/[0.035] text-[var(--text-secondary)]',
+              open && 'is-open'
+            )}
+          >
+            <span className="h-2.5 w-2.5 border-r-2 border-b-2 border-current" />
+          </span>
+        </span>
+      </Button>
+
+      <div
+        data-open={open ? 'true' : 'false'}
+        className="motion-layered-disclosure-body grid"
+      >
+        <div className="overflow-hidden">
+          <div
+            className={cn(
+              'motion-layered-disclosure-content border-t border-white/10 px-4 pb-4 pt-3',
+              contentClassName
+            )}
+          >
+            {children}
+          </div>
+        </div>
+      </div>
+    </NestedPanel>
+  )
+}
+
 export function SourcePanel({
   sources,
   className,

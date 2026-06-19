@@ -28,6 +28,7 @@ import {
   DisclosurePanel,
   EmptyState,
   KeyValueList,
+  LayeredDisclosurePanel,
   MetricRow,
   NestedPanel,
   SectionHeader,
@@ -36,6 +37,7 @@ import {
 } from '@/components/ui'
 import AdvisorModeControl from './deck-advisor/AdvisorModeControl'
 import AdvisorEventSetup from './deck-advisor/AdvisorEventSetup'
+import DataSourcePanel from './deck-advisor/DataSourcePanel'
 import ExpectedMetaEditor from './deck-advisor/ExpectedMetaEditor'
 import RecommendationCard from './deck-advisor/RecommendationCard'
 import {
@@ -198,6 +200,12 @@ export default function DeckAdvisor({ decks }: Props) {
 
   const [advisorSetupOpen, setAdvisorSetupOpen] = useState(false)
   const [sourcesOpen, setSourcesOpen] = useState(false)
+  const [setupSectionsOpen, setSetupSectionsOpen] = useState({
+    event: true,
+    meta: true,
+    candidates: false,
+    data: false,
+  })
   const [eventConfigured, setEventConfigured] = useState(
     storedAdvisorData.eventConfigured === true
   )
@@ -324,7 +332,22 @@ export default function DeckAdvisor({ decks }: Props) {
     setMetaInputMode('percent')
     setMetaDecks([])
     setCandidateSource('owned')
+    setSetupSectionsOpen({
+      event: true,
+      meta: true,
+      candidates: false,
+      data: false,
+    })
     setAdvisorSetupOpen(true)
+  }
+
+  const toggleSetupSection = (
+    section: keyof typeof setupSectionsOpen
+  ) => {
+    setSetupSectionsOpen((current) => ({
+      ...current,
+      [section]: !current[section],
+    }))
   }
 
   const enteredMetaTotal = metaDecks.reduce((total, metaDeck) => {
@@ -336,6 +359,9 @@ export default function DeckAdvisor({ decks }: Props) {
 
     return total + value
   }, 0)
+  const filledMetaCount = metaDecks.filter(
+    (metaDeck) => metaDeck.name.trim() && metaDeck.share > 0
+  ).length
 
   const maxMetaTotal =
     metaInputMode === 'players' && eventSize > 0
@@ -436,6 +462,11 @@ export default function DeckAdvisor({ decks }: Props) {
       })),
     [decks]
   )
+
+  const candidateDeckCount =
+    candidateSource === 'all'
+      ? topMetaCandidates.length
+      : ownedCandidateDecks.length
 
   const advisorCandidateDecks = useMemo(
     () =>
@@ -872,8 +903,16 @@ export default function DeckAdvisor({ decks }: Props) {
         contentClassName="mb-auto max-h-[calc(100dvh-7rem)] overflow-y-auto rounded-[26px] p-0"
       >
         <div className="space-y-5 p-4">
-          <div className="space-y-3">
-            <SectionHeader title="Tournament Setup" level={3} />
+          <LayeredDisclosurePanel
+            title="Event Setup"
+            description={
+              eventSize > 0
+                ? `${getEventTypeLabel(eventType)} - ${eventSize} players`
+                : 'Choose event type and estimated attendance'
+            }
+            open={setupSectionsOpen.event}
+            onToggle={() => toggleSetupSection('event')}
+          >
             <AdvisorEventSetup
               eventType={eventType}
               setEventType={setEventType}
@@ -882,10 +921,18 @@ export default function DeckAdvisor({ decks }: Props) {
               eventSize={eventSize}
               structure={structure}
             />
-          </div>
+          </LayeredDisclosurePanel>
 
-          <div className="space-y-3">
-            <SectionHeader title="Full Meta Editor" level={3} />
+          <LayeredDisclosurePanel
+            title="Expected Meta"
+            description={
+              filledMetaCount > 0
+                ? `${filledMetaCount} archetypes entered`
+                : 'Add the field you expect to face'
+            }
+            open={setupSectionsOpen.meta}
+            onToggle={() => toggleSetupSection('meta')}
+          >
             <ExpectedMetaEditor
               archetypeOptions={archetypeOptions}
               eventSize={eventSize}
@@ -895,7 +942,66 @@ export default function DeckAdvisor({ decks }: Props) {
               setMetaInputMode={handleMetaInputModeChange}
               suggestedMeta={suggestedMeta}
             />
-          </div>
+          </LayeredDisclosurePanel>
+
+          <LayeredDisclosurePanel
+            title="Candidate Decks"
+            description={
+              candidateDeckCount > 0
+                ? `${candidateDeckCount} decks in the recommendation pool`
+                : 'Choose which decks the advisor should rank'
+            }
+            open={setupSectionsOpen.candidates}
+            onToggle={() => toggleSetupSection('candidates')}
+          >
+            <div className="space-y-3">
+              <AdvisorModeControl
+                candidateSource={candidateSource}
+                setCandidateSource={setCandidateSource}
+              />
+
+              <NestedPanel variant="compact" className="space-y-2">
+                <MetricRow
+                  label={
+                    candidateSource === 'owned'
+                      ? 'Saved decks'
+                      : 'Top meta candidates'
+                  }
+                  value={candidateDeckCount}
+                />
+                <MetricRow
+                  label="Comfort"
+                  value={
+                    candidateSource === 'owned'
+                      ? 'Saved deck values'
+                      : 'Neutral'
+                  }
+                />
+              </NestedPanel>
+            </div>
+          </LayeredDisclosurePanel>
+
+          <LayeredDisclosurePanel
+            title="Data Source / Coverage"
+            description="Meta source and matchup sample scope"
+            open={setupSectionsOpen.data}
+            onToggle={() => toggleSetupSection('data')}
+          >
+            <div className="space-y-3">
+              <DataSourcePanel metaSource={suggestedMetaSourceLabel} />
+
+              <NestedPanel variant="compact" className="space-y-2">
+                <MetricRow
+                  label="Meta preview"
+                  value={`${previewMetaBreakdown.length} shown`}
+                />
+                <MetricRow
+                  label="Known archetypes"
+                  value={archetypeOptions.length}
+                />
+              </NestedPanel>
+            </div>
+          </LayeredDisclosurePanel>
 
           <Button
             tone="primary"

@@ -23,8 +23,14 @@ export const metadata: Metadata = {
         type: "image/png",
       },
       {
-        url: "/icons/deck.svg",
+        url: "/icons/top-cut-app-icon-light.svg",
         type: "image/svg+xml",
+        media: "(prefers-color-scheme: light)",
+      },
+      {
+        url: "/icons/top-cut-app-icon-dark.svg",
+        type: "image/svg+xml",
+        media: "(prefers-color-scheme: dark)",
       },
     ],
     apple: [

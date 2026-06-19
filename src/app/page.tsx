@@ -7,6 +7,7 @@ import SavedDecks from '@/components/SavedDecks'
 import CompareDecks from '@/components/CompareDecks'
 import MatchHistory from '@/components/MatchHistory'
 import DeckAdvisor from '@/components/DeckAdvisor'
+import IntroSplash from '@/components/IntroSplash'
 import BottomNavigation, {
   AppTab,
 } from '@/components/BottomNavigation'
@@ -451,8 +452,11 @@ const editEvent = (
   )
 
   return (
-    <AppShell bottomNavigation={bottomNavigation}>
-      <div key={activeTab} className="motion-tab-panel">
+    <>
+      <IntroSplash />
+
+      <AppShell bottomNavigation={bottomNavigation}>
+        <div key={activeTab} className="motion-tab-panel">
         {activeTab === 'decks' && (
           <div className="space-y-5">
             <AddDeckForm
@@ -506,7 +510,8 @@ const editEvent = (
         )}
 
         {activeTab === 'advisor' && <DeckAdvisor decks={decks} />}
-      </div>
-    </AppShell>
+        </div>
+      </AppShell>
+    </>
   )
 }
