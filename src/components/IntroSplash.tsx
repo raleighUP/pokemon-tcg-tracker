@@ -1,10 +1,14 @@
 'use client'
 
 import { useCallback, useEffect, useState } from 'react'
+import {
+  DotLottieReact,
+  type DotLottie,
+} from '@lottiefiles/dotlottie-react'
 
 const INTRO_LAST_SHOWN_KEY = 'top-cut-intro-last-shown'
 const INTRO_COOLDOWN_MS = 8 * 60 * 60 * 1000
-const INTRO_VISIBLE_DURATION_SECONDS = 1.6
+const INTRO_VISIBLE_DURATION_MS = 1600
 const INTRO_FALLBACK_MS = 4000
 const INTRO_EXIT_MS = 240
 
@@ -12,6 +16,7 @@ type IntroPhase = 'checking' | 'playing' | 'leaving' | 'hidden'
 
 export default function IntroSplash() {
   const [phase, setPhase] = useState<IntroPhase>('checking')
+  const [dotLottie, setDotLottie] = useState<DotLottie | null>(null)
 
   const dismiss = useCallback(() => {
     setPhase((current) =>
@@ -59,6 +64,38 @@ export default function IntroSplash() {
   }, [])
 
   useEffect(() => {
+    if (!dotLottie || phase !== 'playing') return
+
+    let cutoffTimer: number | undefined
+
+    const startCutoffTimer = () => {
+      window.clearTimeout(cutoffTimer)
+      cutoffTimer = window.setTimeout(
+        dismiss,
+        INTRO_VISIBLE_DURATION_MS
+      )
+    }
+    const handlePlaybackError = () => dismiss()
+
+    dotLottie.addEventListener('play', startCutoffTimer)
+    dotLottie.addEventListener('complete', dismiss)
+    dotLottie.addEventListener('loadError', handlePlaybackError)
+    dotLottie.addEventListener('renderError', handlePlaybackError)
+
+    if (dotLottie.isPlaying) {
+      startCutoffTimer()
+    }
+
+    return () => {
+      window.clearTimeout(cutoffTimer)
+      dotLottie.removeEventListener('play', startCutoffTimer)
+      dotLottie.removeEventListener('complete', dismiss)
+      dotLottie.removeEventListener('loadError', handlePlaybackError)
+      dotLottie.removeEventListener('renderError', handlePlaybackError)
+    }
+  }, [dismiss, dotLottie, phase])
+
+  useEffect(() => {
     if (phase === 'playing') {
       const fallbackTimer = window.setTimeout(
         dismiss,
@@ -89,35 +126,24 @@ export default function IntroSplash() {
       }`}
     >
       {phase !== 'checking' && (
-        <button
-          type="button"
-          aria-label="Skip introduction"
-          onClick={dismiss}
-          className="absolute inset-0 h-full w-full cursor-default border-0 bg-transparent p-0 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-inset focus-visible:ring-[rgba(220,192,65,0.7)]"
-        >
-          <video
-            autoPlay
-            muted
-            playsInline
-            preload="auto"
-            onTimeUpdate={(event) => {
-              if (
-                event.currentTarget.currentTime >=
-                INTRO_VISIBLE_DURATION_SECONDS
-              ) {
-                dismiss()
-              }
-            }}
-            onEnded={dismiss}
-            onError={dismiss}
-            className="pointer-events-none h-full w-full object-contain"
-          >
-            <source
-              src="/intro/top-cut-intro.mp4"
-              type="video/mp4"
-            />
-          </video>
-        </button>
+        <>
+          <DotLottieReact
+            src="/intro/top-cut-intro.lottie"
+            autoplay
+            loop={false}
+            layout={{ fit: 'contain', align: [0.5, 0.5] }}
+            renderConfig={{ autoResize: true }}
+            dotLottieRefCallback={setDotLottie}
+            className="pointer-events-none h-full w-full"
+          />
+
+          <button
+            type="button"
+            aria-label="Skip introduction"
+            onClick={dismiss}
+            className="absolute inset-0 h-full w-full cursor-default border-0 bg-transparent p-0 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-inset focus-visible:ring-[rgba(220,192,65,0.7)]"
+          />
+        </>
       )}
     </div>
   )
