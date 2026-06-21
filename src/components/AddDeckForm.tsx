@@ -74,6 +74,7 @@ export default function AddDeckForm({
     <Panel className="space-y-4">
       <SectionHeader
         title={editingDeckId !== null ? 'Edit Deck' : 'Add Deck'}
+        level={1}
       />
 
       <div className="space-y-4">

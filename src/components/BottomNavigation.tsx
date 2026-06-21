@@ -4,6 +4,7 @@ import {
   CompareIcon,
   DeckIcon,
   HistoryIcon,
+  SettingsIcon,
 } from '@/components/NavIcons'
 import { IconButton, cn } from '@/components/ui'
 
@@ -12,6 +13,7 @@ export type AppTab =
   | 'compare'
   | 'history'
   | 'advisor'
+  | 'settings'
 
 const navigationItems: Array<{
   id: AppTab
@@ -38,6 +40,11 @@ const navigationItems: Array<{
     label: 'Advisor',
     Icon: AdvisorIcon,
   },
+  {
+    id: 'settings',
+    label: 'Settings',
+    Icon: SettingsIcon,
+  },
 ]
 
 type Props = {
@@ -51,7 +58,7 @@ export default function BottomNavigation({
 }: Props) {
   return (
     <nav className="fixed inset-x-0 bottom-[calc(0.875rem+env(safe-area-inset-bottom))] z-50 px-4">
-      <div className="surface-card-glass mx-auto grid h-[60px] max-w-[330px] grid-cols-4 items-center gap-0.5 rounded-full border border-white/12 p-1 shadow-[0_16px_44px_rgba(0,0,0,0.54)] backdrop-blur-2xl">
+      <div className="surface-card-glass mx-auto grid h-[60px] max-w-[390px] grid-cols-5 items-center gap-0.5 rounded-full border border-white/12 p-1 shadow-[0_16px_44px_rgba(0,0,0,0.54)] backdrop-blur-2xl">
         {navigationItems.map(({ id, label, Icon }) => {
           const isActive = activeTab === id
 

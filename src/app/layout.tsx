@@ -2,10 +2,10 @@ import type { Metadata, Viewport } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  applicationName: "Pokemon TCG Tracker",
+  applicationName: "Top Cut",
   title: {
-    default: "Pokemon TCG Tracker",
-    template: "%s | Pokemon TCG Tracker",
+    default: "Top Cut",
+    template: "%s | Top Cut",
   },
   description:
     "Track decks, log matches, review events, and choose tournament decks with data-driven recommendations.",
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
   },
   appleWebApp: {
     capable: true,
-    title: "Pokemon TCG Tracker",
+    title: "Top Cut",
     statusBarStyle: "black-translucent",
   },
   formatDetection: {

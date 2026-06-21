@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { Match } from '@/types'
 import {
-  ContextActionSheet,
+  ConfirmationDialog,
   DisclosureContent,
   NestedPanel,
   ResultPill,
@@ -17,18 +17,13 @@ type Props = {
   openKey: string
   roundLabel: string
   roundResult: RoundResult
-  runningRecord: {
-    wins: number
-    losses: number
-    ties: number
-  }
   editingMatch: Match | null
-  openMenuId: number | null
+  actionsOpen: boolean
   openNotesId: string | null
   isRoundValid: boolean
   isFormValid: boolean
   setEditingMatch: (match: Match | null) => void
-  setOpenMenuId: (id: number | null) => void
+  setActionsOpen: (open: boolean) => void
   setOpenNotesId: (id: string | null) => void
   editMatch: (match: Match) => void
   deleteMatch: (id: number) => void
@@ -85,35 +80,28 @@ export default function RoundHistoryRow({
   openKey,
   roundLabel,
   roundResult,
-  runningRecord,
   editingMatch,
-  openMenuId,
+  actionsOpen,
   openNotesId,
   isRoundValid,
   isFormValid,
   setEditingMatch,
-  setOpenMenuId,
+  setActionsOpen,
   setOpenNotesId,
   editMatch,
   deleteMatch,
 }: Props) {
-  const [contextOpen, setContextOpen] = useState(false)
-  const actionsOpen = openMenuId === match.id
+  const [deleteConfirmationOpen, setDeleteConfirmationOpen] = useState(false)
   const detailsOpen = openNotesId === openKey
   const hasNotes = Boolean(match.notes?.trim())
-  const runningRecordLabel = `${runningRecord.wins}-${runningRecord.losses}${
-    runningRecord.ties > 0 ? `-${runningRecord.ties}` : ''
-  }`
 
   const startEdit = () => {
     setEditingMatch(match)
-    setOpenMenuId(null)
+    setActionsOpen(false)
   }
 
   const confirmDelete = () => {
-    if (window.confirm(`Delete round ${match.round}?`)) {
-      deleteMatch(match.id)
-    }
+    setDeleteConfirmationOpen(true)
   }
 
   if (editingMatch?.id === match.id) {
@@ -131,11 +119,10 @@ export default function RoundHistoryRow({
   }
 
   return (
-    <div className="rounded-2xl bg-black/15">
+    <div className="rounded-2xl bg-[#17171a]">
       <SwipeActionRow
         open={actionsOpen}
-        onOpenChange={(open) => setOpenMenuId(open ? match.id : null)}
-        onContextOpen={() => setContextOpen(true)}
+        onOpenChange={setActionsOpen}
         actions={[
           {
             label: 'Edit',
@@ -148,13 +135,13 @@ export default function RoundHistoryRow({
             onSelect: confirmDelete,
           },
         ]}
-        className="rounded-2xl"
-        contentClassName="rounded-2xl"
+        surface="solid"
+        contentClassName="shadow-[0_2px_0_#17171a]"
       >
         <button
           type="button"
           onClick={() => setOpenNotesId(detailsOpen ? null : openKey)}
-          className="motion-press grid min-h-[58px] w-full grid-cols-[2rem_minmax(0,1fr)_auto] items-center gap-2 rounded-2xl bg-black/28 px-3 py-2.5 text-left hover:bg-white/[0.04]"
+          className="grid min-h-[58px] w-full grid-cols-[2rem_minmax(0,1fr)_auto] items-center gap-2 rounded-2xl px-3 py-2.5 text-left transition-colors duration-[var(--motion-fast)] hover:bg-white/[0.04]"
           aria-expanded={detailsOpen}
         >
           <span className="flex flex-col items-start gap-1">
@@ -175,7 +162,7 @@ export default function RoundHistoryRow({
             <span className="type-card-title block truncate text-[var(--text-primary)]">
               {match.opponentDeck}
             </span>
-            <span className="scrollbar-none mt-1 flex flex-nowrap gap-1.5 overflow-x-auto pr-1">
+            <span className="mt-1 flex flex-nowrap gap-1.5 overflow-hidden pr-1">
               {match.games.map((game, index) => (
                 <span
                   key={`${game}-${index}`}
@@ -234,58 +221,14 @@ export default function RoundHistoryRow({
         </NestedPanel>
       </DisclosureContent>
 
-      <ContextActionSheet
-        open={contextOpen}
-        onClose={() => setContextOpen(false)}
-        title={`Round ${match.round}`}
-        subtitle={match.opponentDeck}
-        ariaLabel="round actions"
-        details={[
-          { label: 'Result', value: match.finalResult },
-          { label: 'Running Record', value: runningRecordLabel },
-          { label: 'Match Type', value: match.matchType },
-          { label: 'Notes', value: hasNotes ? 'Yes' : 'None' },
-        ]}
-        actions={[
-          {
-            label: 'Edit',
-            tone: 'secondary',
-            onSelect: startEdit,
-          },
-          {
-            label: 'Delete',
-            tone: 'danger',
-            onSelect: confirmDelete,
-          },
-        ]}
-      >
-        <div className="surface-card-elevated rounded-2xl border border-[var(--surface-border)] p-3">
-          <p className="type-metadata mb-2 text-[var(--text-muted)]">
-            Games
-          </p>
-          <div className="space-y-2">
-            {match.games.map((game, index) => (
-              <div
-                key={`${game}-${index}`}
-                className="flex items-center justify-between gap-3"
-              >
-                <span className="type-card-title text-[var(--text-primary)]">
-                  Game {index + 1}
-                </span>
-                <span className="type-metadata text-[var(--text-muted)]">
-                  {game} - went {match.gameStarts[index] ?? '1st'}
-                </span>
-              </div>
-            ))}
-          </div>
+      <ConfirmationDialog
+        open={deleteConfirmationOpen}
+        onClose={() => setDeleteConfirmationOpen(false)}
+        onConfirm={() => deleteMatch(match.id)}
+        title={`Delete round ${match.round}?`}
+        description="This removes the round and its game results. This action cannot be undone."
+      />
 
-          {hasNotes && (
-            <div className="type-helper mt-3 whitespace-pre-wrap border-t border-white/10 pt-3 text-[var(--text-secondary)]">
-              {match.notes}
-            </div>
-          )}
-        </div>
-      </ContextActionSheet>
     </div>
   )
 }

@@ -24,7 +24,14 @@ import {
 
 import { getArchetypeOptions } from '@/utils/archetype-options'
 import {
+  readAdvisorData,
+  safeRemoveStorageValue,
+  STORAGE_KEYS,
+  writeAdvisorData,
+} from '@/utils/app-storage'
+import {
   Button,
+  ConfirmationDialog,
   DisclosurePanel,
   EmptyState,
   KeyValueList,
@@ -54,134 +61,6 @@ type Props = {
   decks: Deck[]
 }
 
-const ADVISOR_STORAGE_KEY = 'pokemon-advisor-data'
-
-type StoredAdvisorData = {
-  eventType?: EventType
-  playerCount?: string
-  eventConfigured?: boolean
-  metaInputMode?: MetaInputMode
-  metaDecks?: {
-    name: string
-    share: number
-  }[]
-  candidateDecks?: AdvisorCandidateDeck[]
-  candidateSource?: CandidateSource
-}
-
-function isRecord(value: unknown): value is Record<string, unknown> {
-  return typeof value === 'object' && value !== null
-}
-
-function normalizeStoredAdvisorData(
-  value: unknown
-): StoredAdvisorData {
-  if (!isRecord(value)) return {}
-
-  const eventType =
-    value.eventType === 'challenge' ||
-    value.eventType === 'cup' ||
-    value.eventType === 'regional'
-      ? value.eventType
-      : undefined
-
-  const metaInputMode =
-    value.metaInputMode === 'percent' ||
-    value.metaInputMode === 'players'
-      ? value.metaInputMode
-      : undefined
-
-  const candidateSource =
-    value.candidateSource === 'owned' ||
-    value.candidateSource === 'all'
-      ? value.candidateSource
-      : undefined
-
-  const metaDecks = Array.isArray(value.metaDecks)
-    ? value.metaDecks
-        .map((metaDeck) => {
-          if (!isRecord(metaDeck)) return null
-
-          const name =
-            typeof metaDeck.name === 'string'
-              ? metaDeck.name
-              : ''
-
-          const share = Number(metaDeck.share)
-
-          return {
-            name,
-            share: Number.isFinite(share)
-              ? Math.max(0, share)
-              : 0,
-          }
-        })
-        .filter(
-          (
-            metaDeck
-          ): metaDeck is {
-            name: string
-            share: number
-          } => metaDeck !== null
-        )
-    : undefined
-
-  const candidateDecks = Array.isArray(value.candidateDecks)
-    ? value.candidateDecks.filter(isRecord).map((candidate) => ({
-        name:
-          typeof candidate.name === 'string'
-            ? candidate.name
-            : '',
-        archetype:
-          typeof candidate.archetype === 'string'
-            ? candidate.archetype
-            : '',
-        comfort: Math.min(
-          5,
-          Math.max(1, Number(candidate.comfort) || 3)
-        ),
-        owned: candidate.owned === true,
-        matchups: {},
-      }))
-    : undefined
-
-  return {
-    eventType,
-    playerCount:
-      typeof value.playerCount === 'string'
-        ? value.playerCount
-        : undefined,
-    eventConfigured:
-      typeof value.eventConfigured === 'boolean'
-        ? value.eventConfigured
-        : undefined,
-    metaInputMode,
-    metaDecks:
-      metaDecks && metaDecks.length > 0
-        ? metaDecks
-        : undefined,
-    candidateDecks,
-    candidateSource,
-  }
-}
-
-function readStoredAdvisorData(): StoredAdvisorData {
-  if (typeof window === 'undefined') return {}
-
-  const savedData = localStorage.getItem(ADVISOR_STORAGE_KEY)
-
-  if (!savedData) return {}
-
-  try {
-    const parsedData = JSON.parse(savedData)
-
-    return normalizeStoredAdvisorData(parsedData)
-  } catch {
-    localStorage.removeItem(ADVISOR_STORAGE_KEY)
-    return {}
-  }
-}
-
 function normalizeDeckIdentifier(value: string | undefined) {
   return value?.trim().toLowerCase() ?? ''
 }
@@ -194,11 +73,12 @@ function getEventTypeLabel(eventType: EventType) {
 
 export default function DeckAdvisor({ decks }: Props) {
   const storedAdvisorData = useMemo(
-    () => readStoredAdvisorData(),
+    () => readAdvisorData(),
     []
   )
 
   const [advisorSetupOpen, setAdvisorSetupOpen] = useState(false)
+  const [clearConfirmationOpen, setClearConfirmationOpen] = useState(false)
   const [sourcesOpen, setSourcesOpen] = useState(false)
   const [setupSectionsOpen, setSetupSectionsOpen] = useState({
     event: true,
@@ -245,10 +125,7 @@ export default function DeckAdvisor({ decks }: Props) {
       candidateSource,
     }
 
-    localStorage.setItem(
-      ADVISOR_STORAGE_KEY,
-      JSON.stringify(advisorData)
-    )
+    writeAdvisorData(advisorData)
   }, [
     eventType,
     playerCount,
@@ -311,10 +188,9 @@ export default function DeckAdvisor({ decks }: Props) {
   }
 
   const clearAdvisorData = () => {
-    if (typeof window !== 'undefined') {
-      localStorage.removeItem(ADVISOR_STORAGE_KEY)
-    }
+    safeRemoveStorageValue(STORAGE_KEYS.advisor)
 
+    setClearConfirmationOpen(false)
     setEventConfigured(false)
     setAdvisorSetupOpen(false)
     setSourcesOpen(false)
@@ -864,12 +740,12 @@ export default function DeckAdvisor({ decks }: Props) {
   return (
     <section className="space-y-5">
       <div className="flex items-center justify-between gap-3">
-        <SectionHeader title="Advisor" />
+        <SectionHeader title="Advisor" level={1} />
 
         <div className="flex shrink-0 items-center gap-2">
           <Button
-            tone="tertiary"
-            onClick={clearAdvisorData}
+            tone="danger"
+            onClick={() => setClearConfirmationOpen(true)}
             className="min-h-11 px-3"
           >
             Clear All
@@ -899,8 +775,8 @@ export default function DeckAdvisor({ decks }: Props) {
         open={advisorSetupOpen}
         onClose={() => setAdvisorSetupOpen(false)}
         ariaLabel="advisor setup"
-        className="items-start overflow-y-auto px-4 pb-[calc(1rem+env(safe-area-inset-bottom))] pt-[calc(5.75rem+env(safe-area-inset-top))]"
-        contentClassName="mb-auto max-h-[calc(100dvh-7rem)] overflow-y-auto rounded-[26px] p-0"
+        className="ios-modal-scroll items-start overflow-y-auto px-4 pb-[calc(1rem+env(safe-area-inset-bottom))] pt-[calc(5.75rem+env(safe-area-inset-top))]"
+        contentClassName="ios-modal-scroll mb-auto max-h-[calc(100dvh-7rem)] overflow-y-auto overscroll-contain rounded-[26px] p-0"
       >
         <div className="space-y-5 p-4">
           <LayeredDisclosurePanel
@@ -1016,6 +892,15 @@ export default function DeckAdvisor({ decks }: Props) {
           </Button>
         </div>
       </Sheet>
+
+      <ConfirmationDialog
+        open={clearConfirmationOpen}
+        onClose={() => setClearConfirmationOpen(false)}
+        onConfirm={clearAdvisorData}
+        title="Clear advisor settings?"
+        description="This removes the current event setup, expected meta, and advisor preferences from this device. This action cannot be undone."
+        confirmLabel="Clear Advisor"
+      />
     </section>
   )
 }

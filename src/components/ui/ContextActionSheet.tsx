@@ -1,6 +1,8 @@
 'use client'
 
-import type { ReactNode } from 'react'
+import { useRef, type ReactNode } from 'react'
+import { createPortal } from 'react-dom'
+import { useModalBehavior } from './useModalBehavior'
 
 type ContextAction = {
   label: ReactNode
@@ -17,6 +19,7 @@ export function ContextActionSheet({
   actions = [],
   children,
   ariaLabel = 'context actions',
+  initialFocus = 'dialog',
 }: {
   open: boolean
   onClose: () => void
@@ -29,15 +32,30 @@ export function ContextActionSheet({
   actions?: ContextAction[]
   children?: ReactNode
   ariaLabel?: string
+  initialFocus?: 'dialog' | 'close' | 'first-action'
 }) {
+  const dialogRef = useRef<HTMLDivElement>(null)
+  const closeButtonRef = useRef<HTMLButtonElement>(null)
+  const firstActionRef = useRef<HTMLButtonElement>(null)
+  const initialFocusRef =
+    initialFocus === 'close'
+      ? closeButtonRef
+      : initialFocus === 'first-action'
+        ? firstActionRef
+        : undefined
+
+  useModalBehavior(open, onClose, dialogRef, initialFocusRef)
+
   if (!open) return null
 
-  return (
+  const sheet = (
     <div
+      ref={dialogRef}
+      tabIndex={-1}
       aria-label={ariaLabel}
       aria-modal="true"
       role="dialog"
-      className="motion-sheet-backdrop fixed inset-0 z-[60] flex items-end bg-black/65 px-4 pb-[calc(1rem+env(safe-area-inset-bottom))] pt-[calc(5rem+env(safe-area-inset-top))] backdrop-blur-md"
+      className="motion-sheet-backdrop ios-modal-scroll fixed inset-0 z-[60] flex items-end overflow-y-auto overscroll-contain bg-black/65 px-4 pb-[calc(1rem+env(safe-area-inset-bottom))] pt-[calc(5rem+env(safe-area-inset-top))] backdrop-blur-md outline-none"
     >
       <button
         aria-label={`Close ${ariaLabel}`}
@@ -51,7 +69,7 @@ export function ContextActionSheet({
           className="mx-auto mt-3 h-1 w-10 rounded-full bg-white/22"
         />
 
-        <div className="max-h-[calc(100dvh-7rem)] overflow-y-auto p-4 pt-3">
+        <div className="ios-modal-scroll max-h-[calc(100dvh-7rem)] overflow-y-auto overscroll-contain p-4 pt-3">
           <div className="mb-4 flex items-start justify-between gap-3">
             <div className="min-w-0">
               <h3 className="type-section-title truncate text-[var(--text-primary)]">
@@ -66,6 +84,7 @@ export function ContextActionSheet({
             </div>
 
             <button
+              ref={closeButtonRef}
               type="button"
               onClick={onClose}
               className="motion-press min-h-9 shrink-0 rounded-[14px] bg-transparent px-2 text-sm font-semibold text-[#6fb2ed] hover:bg-[rgba(23,107,181,0.1)] hover:text-white"
@@ -102,6 +121,7 @@ export function ContextActionSheet({
             <div className={`grid gap-2 ${actions.length > 1 ? 'grid-cols-2' : ''}`}>
               {actions.map((action) => (
                 <button
+                  ref={action === actions[0] ? firstActionRef : undefined}
                   key={String(action.label)}
                   type="button"
                   onClick={() => {
@@ -127,4 +147,8 @@ export function ContextActionSheet({
       </div>
     </div>
   )
+
+  if (typeof document === 'undefined') return sheet
+
+  return createPortal(sheet, document.body)
 }

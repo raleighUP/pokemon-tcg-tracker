@@ -1,8 +1,6 @@
 import { Deck } from '@/types'
 import {
-  PointerEvent as ReactPointerEvent,
   useMemo,
-  useRef,
   useState,
 } from 'react'
 import {
@@ -217,9 +215,6 @@ export default function CompareDecks({
   const [detailChange, setDetailChange] =
     useState<Change | null>(null)
   const [changedCardsOpen, setChangedCardsOpen] = useState(false)
-  const [sheetDragOffset, setSheetDragOffset] = useState(0)
-  const [isDraggingSheet, setIsDraggingSheet] = useState(false)
-  const sheetDragStartY = useRef<number | null>(null)
 
   const deckA = decks.find((deck) => deck.name === compareDeck1)
   const deckB = decks.find((deck) => deck.name === compareDeck2)
@@ -278,41 +273,6 @@ export default function CompareDecks({
 
   const closeChangedCards = () => {
     setChangedCardsOpen(false)
-    setSheetDragOffset(0)
-    setIsDraggingSheet(false)
-  }
-
-  const handleSheetPointerDown = (
-    event: ReactPointerEvent<HTMLDivElement>
-  ) => {
-    sheetDragStartY.current = event.clientY
-    setIsDraggingSheet(true)
-    event.currentTarget.setPointerCapture(event.pointerId)
-  }
-
-  const handleSheetPointerMove = (
-    event: ReactPointerEvent<HTMLDivElement>
-  ) => {
-    if (sheetDragStartY.current === null) return
-
-    const deltaY = event.clientY - sheetDragStartY.current
-    setSheetDragOffset(Math.min(Math.max(deltaY, 0), 240))
-  }
-
-  const handleSheetPointerUp = (
-    event: ReactPointerEvent<HTMLDivElement>
-  ) => {
-    if (sheetDragStartY.current === null) return
-
-    const deltaY =
-      sheetDragOffset || event.clientY - sheetDragStartY.current
-    sheetDragStartY.current = null
-    setSheetDragOffset(0)
-    setIsDraggingSheet(false)
-
-    if (deltaY > 86) {
-      closeChangedCards()
-    }
   }
 
   const renderChangeRows = (
@@ -365,7 +325,7 @@ export default function CompareDecks({
 
   return (
     <div className="space-y-4">
-      <SectionHeader title="Compare" />
+      <SectionHeader title="Compare" level={1} />
 
       <NestedPanel className="space-y-4 rounded-[18px] p-4">
         <h3 className="type-section-title text-[var(--text-primary)]">
@@ -478,23 +438,9 @@ export default function CompareDecks({
         ariaLabel="changed cards"
         className="px-3 pb-0 pt-[calc(3rem+env(safe-area-inset-top))]"
         contentClassName="h-[calc(100dvh-3rem)] max-h-[calc(100dvh-3rem)] overflow-hidden rounded-b-none rounded-t-[26px] border-b-0 will-change-transform transition-transform duration-200 ease-out"
-        contentStyle={{
-          transform: `translateY(${sheetDragOffset}px)`,
-          transitionDuration: isDraggingSheet ? '0ms' : undefined,
-        }}
       >
         <div className="flex h-full flex-col">
-          <div
-            className="touch-none cursor-grab px-4 pb-4 pt-4 active:cursor-grabbing"
-            onPointerDown={handleSheetPointerDown}
-            onPointerMove={handleSheetPointerMove}
-            onPointerUp={handleSheetPointerUp}
-            onPointerCancel={() => {
-              sheetDragStartY.current = null
-              setSheetDragOffset(0)
-              setIsDraggingSheet(false)
-            }}
-          >
+          <div className="px-4 pb-4 pt-1">
             <h3 className="truncate text-[1.35rem] font-[760] leading-tight text-white">
               Changed Cards
             </h3>

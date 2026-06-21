@@ -138,7 +138,7 @@ export default function MatchHistory({
   setEditingEvent,
   decks,
 }: Props) {
-  const [openMenuId, setOpenMenuId] =
+  const [openEventSwipeId, setOpenEventSwipeId] =
     useState<number | null>(null)
 
   const [openNotesId, setOpenNotesId] =
@@ -208,6 +208,7 @@ export default function MatchHistory({
   ]
 
   const resetEventSheet = () => {
+    setOpenEventSwipeId(null)
     setNewEventOpen(false)
     setEventStep('name')
     setEventDraft(emptyEventDraft)
@@ -215,12 +216,14 @@ export default function MatchHistory({
   }
 
   const openNewEvent = () => {
+    setOpenEventSwipeId(null)
     setEventDraft(emptyEventDraft)
     setEventStep('name')
     setNewEventOpen(true)
   }
 
   const startRoundForEvent = (eventData: RoundEventData) => {
+    setOpenEventSwipeId(null)
     setRoundDraft({
       ...eventData,
       playerCount: String(eventData.playerCount ?? ''),
@@ -265,6 +268,7 @@ export default function MatchHistory({
   }
 
   const closeRoundSheet = () => {
+    setOpenGameActionIndex(null)
     setRoundDraft(null)
     setRoundValidationMessage('')
   }
@@ -414,7 +418,7 @@ export default function MatchHistory({
       )}
 
       <div className="flex items-center justify-between gap-3">
-        <SectionHeader title="Match History" />
+        <SectionHeader title="Match History" level={1} />
         <Button
           onClick={openNewEvent}
           tone="primary"
@@ -438,7 +442,7 @@ export default function MatchHistory({
                 decks={decks}
                 editingEvent={editingEvent}
                 editingMatch={editingMatch}
-                openMenuId={openMenuId}
+                eventSwipeOpen={openEventSwipeId === event.id}
                 openNotesId={openNotesId}
                 isRoundValid={isRoundValid}
                 isFormValid={isFormValid}
@@ -455,7 +459,9 @@ export default function MatchHistory({
                 }}
                 setEditingEvent={setEditingEvent}
                 setEditingMatch={setEditingMatch}
-                setOpenMenuId={setOpenMenuId}
+                setEventSwipeOpen={(open) => {
+                  setOpenEventSwipeId(open ? event.id : null)
+                }}
                 setOpenNotesId={setOpenNotesId}
                 editEvent={editEvent}
                 editMatch={editMatch}
@@ -471,7 +477,7 @@ export default function MatchHistory({
         open={newEventOpen}
         onClose={resetEventSheet}
         ariaLabel="new event"
-        className="items-start overflow-y-auto px-4 pb-[calc(1rem+env(safe-area-inset-bottom))] pt-[calc(5.75rem+env(safe-area-inset-top))]"
+        className="ios-modal-scroll items-start overflow-y-auto px-4 pb-[calc(1rem+env(safe-area-inset-bottom))] pt-[calc(5.75rem+env(safe-area-inset-top))]"
         contentClassName="mb-auto overflow-hidden rounded-[26px] p-0"
       >
         <div
@@ -724,12 +730,12 @@ export default function MatchHistory({
         open={Boolean(roundDraft)}
         onClose={closeRoundSheet}
         ariaLabel="new round"
-        className="items-start overflow-y-auto px-4 pb-[calc(1rem+env(safe-area-inset-bottom))] pt-[calc(5.75rem+env(safe-area-inset-top))]"
+        className="ios-modal-scroll items-start overflow-y-auto px-4 pb-[calc(1rem+env(safe-area-inset-bottom))] pt-[calc(5.75rem+env(safe-area-inset-top))]"
         contentClassName="mb-auto overflow-hidden rounded-[26px] p-0"
       >
         {roundDraft && (
           <div
-            className={`max-h-[calc(100dvh-6rem)] overflow-y-auto p-4 ${
+            className={`ios-modal-scroll max-h-[calc(100dvh-6rem)] overflow-y-auto overscroll-contain p-4 ${
               roundValidationMessage
                 ? 'field-error-shake rounded-t-[26px] border border-[var(--color-error)]'
                 : ''

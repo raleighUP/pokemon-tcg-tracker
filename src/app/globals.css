@@ -5,8 +5,8 @@
   --foreground: #f5f5f5;
   --text-primary: #f5f5f5;
   --text-secondary: #a7a7a7;
-  --text-muted: #7d7878;
-  --text-subtle: #7d7878;
+  --text-muted: #918c8c;
+  --text-subtle: #918c8c;
   --surface-app: #0b0b0d;
   --surface-primary: #121214;
   --surface-elevated: #1a1a1d;
@@ -60,6 +60,12 @@ body {
 
 html {
   background: var(--surface-app);
+}
+
+.ios-modal-scroll {
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior: contain;
+  scroll-padding-bottom: calc(5rem + env(safe-area-inset-bottom));
 }
 
 .app-shell-surface {
@@ -303,6 +309,15 @@ html {
   transition-duration: var(--motion-slow);
   transition-property: grid-template-rows, opacity, transform;
   transition-timing-function: var(--motion-standard);
+}
+
+.swipe-action-row-content[data-dragging="true"] .motion-press {
+  transform: none;
+  transition-duration: 0ms;
+}
+
+.swipe-action-row-content > .motion-press:active {
+  transform: none;
 }
 
 .motion-layered-disclosure-shell {

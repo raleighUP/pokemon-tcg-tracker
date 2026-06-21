@@ -40,6 +40,7 @@ export default function ExpectedMetaEditor({
   const metaRowsVisible = filledMetaCount === 0 || metaRowsOpen
 
   const applySuggestedMeta = () => {
+    setOpenRowIndex(null)
     setMetaInputMode('percent')
     setMetaDecks(suggestedMeta)
     setMetaRowsOpen(true)
@@ -75,7 +76,11 @@ export default function ExpectedMetaEditor({
         open={metaRowsVisible}
         onToggle={() => {
           if (filledMetaCount > 0) {
-            setMetaRowsOpen((current) => !current)
+            if (metaRowsOpen) {
+              setOpenRowIndex(null)
+            }
+
+            setMetaRowsOpen(!metaRowsOpen)
           }
         }}
         actionOpenLabel="Show"
@@ -117,7 +122,7 @@ export default function ExpectedMetaEditor({
                       setMetaDecks(updated)
                     }}
                     aria-label={`Meta deck ${index + 1} archetype`}
-                    className="min-h-11 rounded-xl border-[var(--surface-border)] bg-[#101012] px-3 py-2 text-sm"
+                    className="min-h-11 rounded-xl border-[var(--surface-border)] bg-[#101012] px-3 py-2 text-base"
                   >
                     <option value="">Select archetype</option>
 
@@ -184,7 +189,7 @@ export default function ExpectedMetaEditor({
                           ? 'percentage'
                           : 'players'
                       }`}
-                      className={`min-h-11 rounded-xl border-[var(--surface-border)] bg-[#101012] py-2 text-center text-sm ${
+                      className={`min-h-11 rounded-xl border-[var(--surface-border)] bg-[#101012] py-2 text-center text-base ${
                         metaInputMode === 'percent' ? 'pl-2 pr-6' : 'px-2'
                       }`}
                     />

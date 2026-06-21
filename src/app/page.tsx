@@ -8,187 +8,35 @@ import CompareDecks from '@/components/CompareDecks'
 import MatchHistory from '@/components/MatchHistory'
 import DeckAdvisor from '@/components/DeckAdvisor'
 import IntroSplash from '@/components/IntroSplash'
+import SettingsPage from '@/components/SettingsPage'
 import BottomNavigation, {
   AppTab,
 } from '@/components/BottomNavigation'
 import { AppShell } from '@/components/ui'
 import { normalizeComfort } from '@/utils/comfort'
 import { detectDeckArchetype } from '@/utils/archetypes'
+import {
+  readAppStorage,
+  writeDecks,
+  writeEvents,
+  writeMatches,
+} from '@/utils/app-storage'
 
 import { Deck, EventRecord, Match, CardEntry } from '@/types'
 
-function isRecord(value: unknown): value is Record<string, unknown> {
-  return typeof value === 'object' && value !== null
-}
-
-function normalizeDeck(value: unknown): Deck | null {
-  if (!isRecord(value)) return null
-
-  if (
-    typeof value.id !== 'number' ||
-    typeof value.name !== 'string' ||
-    typeof value.decklist !== 'string'
-  ) {
-    return null
-  }
-
-  return {
-    id: value.id,
-    name: value.name,
-    decklist: value.decklist,
-    archetype:
-      typeof value.archetype === 'string'
-        ? value.archetype
-        : undefined,
-    variant:
-      typeof value.variant === 'string'
-        ? value.variant
-        : undefined,
-    comfort: normalizeComfort(value.comfort),
-  }
-}
-
-function normalizeMatch(value: unknown): Match | null {
-  if (!isRecord(value)) return null
-
-  if (
-    typeof value.id !== 'number' ||
-    typeof value.eventName !== 'string' ||
-    typeof value.round !== 'number' ||
-    typeof value.format !== 'string' ||
-    typeof value.deck !== 'string' ||
-    typeof value.opponentDeck !== 'string' ||
-    (value.matchType !== 'BO1' && value.matchType !== 'BO3') ||
-    !Array.isArray(value.games)
-  ) {
-    return null
-  }
-
-  const games = value.games.filter(
-    (game): game is string =>
-      game === 'W' || game === 'L' || game === 'T'
-  )
-
-  const gameStarts = Array.isArray(value.gameStarts)
-    ? value.gameStarts.filter(
-        (start): start is '1st' | '2nd' =>
-          start === '1st' || start === '2nd'
-      )
-    : []
-
-  const diceRollWins = Array.isArray(value.diceRollWins)
-    ? value.diceRollWins.filter(
-        (diceRollWin): diceRollWin is boolean =>
-          typeof diceRollWin === 'boolean'
-      )
-    : undefined
-
-  return {
-    id: value.id,
-    eventName: value.eventName,
-    eventType:
-      typeof value.eventType === 'string'
-        ? value.eventType
-        : undefined,
-    round: value.round,
-    format: value.format,
-    deck: value.deck,
-    opponentDeck: value.opponentDeck,
-    matchType: value.matchType,
-    games,
-    gameStarts,
-    diceRollWins,
-    finalResult:
-      typeof value.finalResult === 'string'
-        ? value.finalResult
-        : '',
-    notes:
-      typeof value.notes === 'string'
-        ? value.notes
-        : undefined,
-  }
-}
-
-function normalizeEvent(value: unknown): EventRecord | null {
-  if (!isRecord(value)) return null
-
-  if (
-    typeof value.id !== 'number' ||
-    typeof value.eventName !== 'string' ||
-    typeof value.eventType !== 'string' ||
-    typeof value.format !== 'string' ||
-    typeof value.deck !== 'string'
-  ) {
-    return null
-  }
-
-  return {
-    id: value.id,
-    eventName: value.eventName,
-    eventType: value.eventType,
-    format: value.format,
-    deck: value.deck,
-    playerCount:
-      typeof value.playerCount === 'number'
-        ? value.playerCount
-        : undefined,
-    finalPlacement:
-      typeof value.finalPlacement === 'string'
-        ? value.finalPlacement
-        : undefined,
-    championshipPoints:
-      typeof value.championshipPoints === 'string'
-        ? value.championshipPoints
-        : undefined,
-    prizing:
-      typeof value.prizing === 'string'
-        ? value.prizing
-        : undefined,
-  }
-}
-
-function readStoredArray<T>(
-  key: string,
-  normalizeItem: (value: unknown) => T | null
-): T[] {
-  if (typeof window === 'undefined') return []
-
-  const savedValue = localStorage.getItem(key)
-
-  if (!savedValue) return []
-
-  try {
-    const parsedValue = JSON.parse(savedValue)
-
-    if (!Array.isArray(parsedValue)) return []
-
-    return parsedValue
-      .map(normalizeItem)
-      .filter((item): item is T => item !== null)
-  } catch {
-    localStorage.removeItem(key)
-    return []
-  }
-}
-
 export default function Home() {
 const [activeTab, setActiveTab] = useState<AppTab>('decks')
+  const [storageReady, setStorageReady] = useState(false)
   const [deckName, setDeckName] = useState('')
   const [decklist, setDecklist] = useState('')
   const [deckComfort, setDeckComfort] = useState(3)
 
-  const [decks, setDecks] = useState<Deck[]>(() =>
-  readStoredArray<Deck>('pokemon-decks', normalizeDeck)
-)
+  const [decks, setDecks] = useState<Deck[]>([])
 
   const [selectedDeck, setSelectedDeck] = useState<Deck | null>(null)
   const [editingDeckId, setEditingDeckId] = useState<number | null>(null)
-  const [matches, setMatches] = useState<Match[]>(() =>
-  readStoredArray<Match>('pokemon-matches', normalizeMatch)
-)
-  const [events, setEvents] = useState<EventRecord[]>(() =>
-  readStoredArray<EventRecord>('pokemon-events', normalizeEvent)
-)
+  const [matches, setMatches] = useState<Match[]>([])
+  const [events, setEvents] = useState<EventRecord[]>([])
 
   const [editingMatch, setEditingMatch] =
   useState<Match | null>(null)
@@ -268,23 +116,25 @@ const changes = allCardNames
   .filter((change) => change.diff !== 0)
 
 useEffect(() => {
-  localStorage.setItem(
-    'pokemon-decks',
-    JSON.stringify(decks)
-  )
-}, [decks])
+  const storedData = readAppStorage()
+  const restoreTimer = window.setTimeout(() => {
+    setDecks(storedData.decks)
+    setMatches(storedData.matches)
+    setEvents(storedData.events)
+    setStorageReady(true)
+  }, 0)
+
+  return () => window.clearTimeout(restoreTimer)
+}, [])
 useEffect(() => {
-  localStorage.setItem(
-    'pokemon-matches',
-    JSON.stringify(matches)
-  )
-}, [matches])
+  if (storageReady) writeDecks(decks)
+}, [decks, storageReady])
 useEffect(() => {
-  localStorage.setItem(
-    'pokemon-events',
-    JSON.stringify(events)
-  )
-}, [events])
+  if (storageReady) writeMatches(matches)
+}, [matches, storageReady])
+useEffect(() => {
+  if (storageReady) writeEvents(events)
+}, [events, storageReady])
 
   const addDeck = () => {
   if (!deckName.trim() || !decklist.trim()) return
@@ -444,12 +294,39 @@ const editEvent = (
   )
 }
 
+  const refreshStoredData = () => {
+    const storedData = readAppStorage()
+
+    setDecks(storedData.decks)
+    setMatches(storedData.matches)
+    setEvents(storedData.events)
+    setSelectedDeck(null)
+    setEditingDeckId(null)
+    setEditingMatch(null)
+    setEditingEvent(null)
+    setCompareDeck1('')
+    setCompareDeck2('')
+  }
+
   const bottomNavigation = (
     <BottomNavigation
       activeTab={activeTab}
       setActiveTab={setActiveTab}
     />
   )
+
+  if (!storageReady) {
+    return (
+      <>
+        <IntroSplash />
+        <main
+          aria-busy="true"
+          aria-label="Loading saved data"
+          className="min-h-dvh bg-[var(--surface-app)]"
+        />
+      </>
+    )
+  }
 
   return (
     <>
@@ -510,6 +387,12 @@ const editEvent = (
         )}
 
         {activeTab === 'advisor' && <DeckAdvisor decks={decks} />}
+
+        {activeTab === 'settings' && (
+          <SettingsPage
+            onDataChanged={refreshStoredData}
+          />
+        )}
         </div>
       </AppShell>
     </>

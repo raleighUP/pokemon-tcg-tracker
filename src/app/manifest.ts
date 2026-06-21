@@ -1,11 +1,13 @@
 import type { MetadataRoute } from 'next'
 
+export const dynamic = 'force-static'
+
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: 'Pokemon TCG Tracker',
-    short_name: 'TCG Tracker',
+    name: 'Top Cut',
+    short_name: 'Top Cut',
     description:
-      'Track Pokemon TCG decks, log matches, review events, and compare tournament choices.',
+      'Track Pokémon TCG decks, log matches, review events, and compare tournament choices with Top Cut.',
     start_url: '/',
     scope: '/',
     display: 'standalone',

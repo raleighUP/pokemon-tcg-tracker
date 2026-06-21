@@ -3,7 +3,6 @@
 import type {
   PointerEvent as ReactPointerEvent,
   ReactNode,
-  TouchEvent as ReactTouchEvent,
 } from 'react'
 import { useEffect, useRef, useState } from 'react'
 
@@ -13,7 +12,20 @@ type SwipeAction = {
   tone?: 'edit' | 'delete'
 }
 
+type GestureAxis = 'pending' | 'horizontal' | 'vertical'
+
+type GestureState = {
+  pointerId: number
+  startX: number
+  startY: number
+  startTranslate: number
+  currentTranslate: number
+  axis: GestureAxis
+}
+
 const ACTION_WIDTH = 72
+const INTENT_THRESHOLD = 8
+const AXIS_LOCK_RATIO = 1.15
 const LONG_PRESS_DELAY = 520
 
 function cn(...classes: Array<string | false | null | undefined>) {
@@ -29,6 +41,7 @@ export function SwipeActionRow({
   contentClassName,
   actionClassName,
   onContextOpen,
+  surface = 'default',
 }: {
   open: boolean
   onOpenChange: (open: boolean) => void
@@ -38,14 +51,18 @@ export function SwipeActionRow({
   contentClassName?: string
   actionClassName?: string
   onContextOpen?: () => void
+  surface?: 'default' | 'solid'
 }) {
   const rowRef = useRef<HTMLDivElement>(null)
-  const touchStartX = useRef<number | null>(null)
-  const touchStartY = useRef<number | null>(null)
+  const gestureRef = useRef<GestureState | null>(null)
   const longPressTimer = useRef<ReturnType<typeof setTimeout> | null>(null)
-  const [dragX, setDragX] = useState(0)
+  const suppressClick = useRef(false)
+  const [dragX, setDragX] = useState<number | null>(null)
 
   const actionWidth = actions.length * ACTION_WIDTH
+  const canSwipe = actionWidth > 0
+  const isDragging = dragX !== null
+  const translateX = dragX ?? (open && canSwipe ? -actionWidth : 0)
 
   const clearLongPress = () => {
     if (longPressTimer.current) {
@@ -54,47 +71,152 @@ export function SwipeActionRow({
     }
   }
 
+  const resetGesture = () => {
+    clearLongPress()
+    gestureRef.current = null
+    setDragX(null)
+  }
+
   useEffect(() => {
     if (!open) return
 
-    const closeOnOutside = (event: PointerEvent) => {
+    const closeOnOutside = (event: MouseEvent) => {
       if (!rowRef.current?.contains(event.target as Node)) {
         onOpenChange(false)
       }
     }
 
-    const closeOnScroll = () => {
-      onOpenChange(false)
-    }
-
-    document.addEventListener('pointerdown', closeOnOutside)
-    window.addEventListener('scroll', closeOnScroll, true)
+    document.addEventListener('click', closeOnOutside, true)
 
     return () => {
-      document.removeEventListener('pointerdown', closeOnOutside)
-      window.removeEventListener('scroll', closeOnScroll, true)
+      document.removeEventListener('click', closeOnOutside, true)
     }
   }, [onOpenChange, open])
 
-  useEffect(() => clearLongPress, [])
+  useEffect(() => {
+    return () => clearLongPress()
+  }, [])
 
   const startLongPress = () => {
     if (!onContextOpen) return
 
     clearLongPress()
     longPressTimer.current = setTimeout(() => {
+      suppressClick.current = true
       onOpenChange(false)
       onContextOpen()
     }, LONG_PRESS_DELAY)
   }
 
-  const translateX =
-    dragX !== 0 ? dragX : open ? -actionWidth : 0
+  const handlePointerDown = (
+    event: ReactPointerEvent<HTMLDivElement>
+  ) => {
+    if (!event.isPrimary) return
+    if (event.pointerType === 'mouse' && event.button !== 0) return
+    if (!canSwipe && !onContextOpen) return
+
+    suppressClick.current = false
+    const startTranslate = open && canSwipe ? -actionWidth : 0
+
+    gestureRef.current = {
+      pointerId: event.pointerId,
+      startX: event.clientX,
+      startY: event.clientY,
+      startTranslate,
+      currentTranslate: startTranslate,
+      axis: 'pending',
+    }
+
+    startLongPress()
+  }
+
+  const handlePointerMove = (
+    event: ReactPointerEvent<HTMLDivElement>
+  ) => {
+    const gesture = gestureRef.current
+
+    if (!gesture || gesture.pointerId !== event.pointerId) return
+
+    const deltaX = event.clientX - gesture.startX
+    const deltaY = event.clientY - gesture.startY
+    const absX = Math.abs(deltaX)
+    const absY = Math.abs(deltaY)
+
+    if (gesture.axis === 'pending') {
+      if (Math.max(absX, absY) < INTENT_THRESHOLD) return
+
+      clearLongPress()
+
+      if (!canSwipe) {
+        gesture.axis = 'vertical'
+        suppressClick.current = true
+        return
+      }
+
+      if (absY > absX * AXIS_LOCK_RATIO) {
+        gesture.axis = 'vertical'
+        return
+      }
+
+      if (absX > absY * AXIS_LOCK_RATIO) {
+        gesture.axis = 'horizontal'
+        suppressClick.current = true
+        event.currentTarget.setPointerCapture(event.pointerId)
+        setDragX(gesture.startTranslate)
+      } else {
+        return
+      }
+    }
+
+    if (gesture.axis !== 'horizontal') return
+
+    event.preventDefault()
+
+    const nextTranslate = Math.min(
+      0,
+      Math.max(-actionWidth, gesture.startTranslate + deltaX)
+    )
+
+    gesture.currentTranslate = nextTranslate
+    setDragX(nextTranslate)
+  }
+
+  const finishPointerGesture = (
+    event: ReactPointerEvent<HTMLDivElement>
+  ) => {
+    const gesture = gestureRef.current
+
+    if (!gesture || gesture.pointerId !== event.pointerId) return
+
+    clearLongPress()
+
+    if (event.currentTarget.hasPointerCapture(event.pointerId)) {
+      event.currentTarget.releasePointerCapture(event.pointerId)
+    }
+
+    if (gesture.axis === 'horizontal') {
+      const moved = gesture.currentTranslate - gesture.startTranslate
+      const settleDistance = 28
+      const shouldOpen = open
+        ? moved < settleDistance
+        : moved <= -settleDistance
+
+      onOpenChange(shouldOpen)
+    }
+
+    gestureRef.current = null
+    setDragX(null)
+  }
 
   return (
     <div
       ref={rowRef}
-      className={cn('relative overflow-hidden', className)}
+      className={cn(
+        'relative overflow-hidden',
+        surface === 'solid' &&
+          'rounded-2xl bg-[#17171a] shadow-[inset_0_0_0_1px_rgba(255,255,255,0.035)]',
+        className
+      )}
       onContextMenu={(event) => {
         if (!onContextOpen) return
 
@@ -102,19 +224,11 @@ export function SwipeActionRow({
         onOpenChange(false)
         onContextOpen()
       }}
-      onPointerDown={(event: ReactPointerEvent<HTMLDivElement>) => {
-        if (event.pointerType === 'touch') return
-        if (event.pointerType === 'mouse' && event.button !== 0) return
-        startLongPress()
-      }}
-      onPointerUp={clearLongPress}
-      onPointerCancel={clearLongPress}
-      onPointerLeave={clearLongPress}
     >
       <div
-        aria-hidden={!open}
+        aria-hidden={!(open || translateX < 0)}
         className="motion-surface absolute inset-0 z-0 overflow-hidden rounded-2xl bg-[var(--color-primary)]"
-        style={{ opacity: open || dragX !== 0 ? 1 : 0 }}
+        style={{ opacity: open || translateX < 0 ? 1 : 0 }}
       >
         <div
           className="absolute bottom-0 right-0 top-0 flex items-stretch justify-end"
@@ -124,6 +238,7 @@ export function SwipeActionRow({
             <button
               key={String(action.label)}
               type="button"
+              tabIndex={open ? 0 : -1}
               onClick={() => {
                 action.onSelect()
                 onOpenChange(false)
@@ -148,56 +263,35 @@ export function SwipeActionRow({
       <div
         className={cn(
           'swipe-action-row-content motion-surface relative z-10 w-full overflow-hidden rounded-2xl will-change-transform',
+          surface === 'solid' && 'bg-[#17171a]',
           contentClassName
         )}
         data-open={open ? 'true' : 'false'}
+        data-dragging={isDragging ? 'true' : 'false'}
         style={{
-          transform: `translateX(${translateX}px)`,
+          touchAction: canSwipe || onContextOpen ? 'pan-y' : 'auto',
+          transform: `translate3d(${translateX}px, 0, 0)`,
+          transitionDuration: isDragging ? '0ms' : undefined,
+          userSelect: isDragging ? 'none' : undefined,
         }}
-        onTouchStart={(event: ReactTouchEvent<HTMLDivElement>) => {
-          touchStartX.current = event.touches[0].clientX
-          touchStartY.current = event.touches[0].clientY
-          startLongPress()
+        onClickCapture={(event) => {
+          if (!suppressClick.current) return
+
+          suppressClick.current = false
+          event.preventDefault()
+          event.stopPropagation()
         }}
-        onTouchMove={(event: ReactTouchEvent<HTMLDivElement>) => {
+        onPointerDown={handlePointerDown}
+        onPointerMove={handlePointerMove}
+        onPointerUp={(event) => finishPointerGesture(event)}
+        onPointerCancel={finishPointerGesture}
+        onPointerLeave={(event) => {
           if (
-            touchStartX.current === null ||
-            touchStartY.current === null
+            event.pointerType === 'mouse' &&
+            gestureRef.current?.axis !== 'horizontal'
           ) {
-            return
+            resetGesture()
           }
-
-          const deltaX = event.touches[0].clientX - touchStartX.current
-          const deltaY = event.touches[0].clientY - touchStartY.current
-
-          if (Math.abs(deltaY) > 10) {
-            clearLongPress()
-            setDragX(0)
-            return
-          }
-
-          if (Math.abs(deltaX) > 8) {
-            clearLongPress()
-          }
-
-          if (deltaX < 0) {
-            setDragX(Math.max(deltaX, -actionWidth))
-          } else if (open) {
-            setDragX(Math.min(deltaX - actionWidth, 0))
-          }
-        }}
-        onTouchEnd={() => {
-          clearLongPress()
-
-          if (dragX < -(actionWidth * 0.65)) {
-            onOpenChange(true)
-          } else if (dragX > -(actionWidth * 0.35)) {
-            onOpenChange(false)
-          }
-
-          setDragX(0)
-          touchStartX.current = null
-          touchStartY.current = null
         }}
       >
         {children}

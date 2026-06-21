@@ -3,6 +3,7 @@ import { useState } from 'react'
 import {
   Button,
   ContextActionSheet,
+  ConfirmationDialog,
   DisclosureAction,
   DisclosureContent,
   NestedPanel,
@@ -27,7 +28,7 @@ type Props = {
   decks: Deck[]
   editingEvent: string | null
   editingMatch: Match | null
-  openMenuId: number | null
+  eventSwipeOpen: boolean
   openNotesId: string | null
   isRoundValid: boolean
   isFormValid: boolean
@@ -35,7 +36,7 @@ type Props = {
   toggleCollapsed: () => void
   setEditingEvent: (value: string | null) => void
   setEditingMatch: (match: Match | null) => void
-  setOpenMenuId: (id: number | null) => void
+  setEventSwipeOpen: (open: boolean) => void
   setOpenNotesId: (id: string | null) => void
   editEvent: (
     oldEventName: string,
@@ -126,7 +127,7 @@ export default function EventHistoryCard({
   decks,
   editingEvent,
   editingMatch,
-  openMenuId,
+  eventSwipeOpen,
   openNotesId,
   isRoundValid,
   isFormValid,
@@ -134,7 +135,7 @@ export default function EventHistoryCard({
   toggleCollapsed,
   setEditingEvent,
   setEditingMatch,
-  setOpenMenuId,
+  setEventSwipeOpen,
   setOpenNotesId,
   editEvent,
   editMatch,
@@ -143,7 +144,9 @@ export default function EventHistoryCard({
   onAddRound,
 }: Props) {
   const [contextOpen, setContextOpen] = useState(false)
-  const [eventSwipeOpen, setEventSwipeOpen] = useState(false)
+  const [deleteConfirmationOpen, setDeleteConfirmationOpen] = useState(false)
+  const [openRoundSwipeId, setOpenRoundSwipeId] =
+    useState<number | null>(null)
   const [editSheetOpen, setEditSheetOpen] = useState(false)
   const [endSheetOpen, setEndSheetOpen] = useState(false)
   const [finalPlacement, setFinalPlacement] = useState(
@@ -175,10 +178,6 @@ export default function EventHistoryCard({
     else totalTies++
   })
 
-  let runningWins = 0
-  let runningLosses = 0
-  let runningTies = 0
-
   const eventRecord = `${totalWins}-${totalLosses}${
     totalTies > 0 ? `-${totalTies}` : ''
   }`
@@ -202,9 +201,7 @@ export default function EventHistoryCard({
   }
 
   const confirmDeleteEvent = () => {
-    if (window.confirm(`Delete ${event.eventName} and all of its rounds?`)) {
-      deleteEvent(event.eventName)
-    }
+    setDeleteConfirmationOpen(true)
   }
 
   return (
@@ -232,7 +229,13 @@ export default function EventHistoryCard({
           <>
             <SwipeActionRow
               open={eventSwipeOpen}
-              onOpenChange={setEventSwipeOpen}
+              onOpenChange={(open) => {
+                setEventSwipeOpen(open)
+
+                if (open) {
+                  setOpenRoundSwipeId(null)
+                }
+              }}
               onContextOpen={() => setContextOpen(true)}
               actions={[
                 {
@@ -246,8 +249,8 @@ export default function EventHistoryCard({
                   onSelect: confirmDeleteEvent,
                 },
               ]}
-              className="mx-3 mt-3 rounded-2xl bg-[#17171a] shadow-[inset_0_0_0_1px_rgba(255,255,255,0.035)]"
-              contentClassName="rounded-2xl bg-[#17171a]"
+              surface="solid"
+              className="mx-3 mt-3"
             >
               <button
                 type="button"
@@ -397,14 +400,10 @@ export default function EventHistoryCard({
 
         <DisclosureContent
           open={!isCollapsed || editingEvent === event.eventName}
-          innerClassName="mx-3 mb-3 space-y-2"
+          innerClassName="mx-3 mb-3 grid gap-2"
         >
           {sortedMatches.map((match) => {
             const roundResult = getRoundResult(match)
-
-            if (roundResult === 'W') runningWins++
-            else if (roundResult === 'L') runningLosses++
-            else runningTies++
 
             return (
               <RoundHistoryRow
@@ -413,18 +412,19 @@ export default function EventHistoryCard({
                 openKey={`${event.eventName}-${match.id}`}
                 roundLabel={getRoundLabel(event, match.round)}
                 roundResult={roundResult}
-                runningRecord={{
-                  wins: runningWins,
-                  losses: runningLosses,
-                  ties: runningTies,
-                }}
                 editingMatch={editingMatch}
-                openMenuId={openMenuId}
+                actionsOpen={openRoundSwipeId === match.id}
                 openNotesId={openNotesId}
                 isRoundValid={isRoundValid}
                 isFormValid={isFormValid}
                 setEditingMatch={setEditingMatch}
-                setOpenMenuId={setOpenMenuId}
+                setActionsOpen={(open) => {
+                  setOpenRoundSwipeId(open ? match.id : null)
+
+                  if (open) {
+                    setEventSwipeOpen(false)
+                  }
+                }}
                 setOpenNotesId={setOpenNotesId}
                 editMatch={editMatch}
                 deleteMatch={deleteMatch}
@@ -458,7 +458,7 @@ export default function EventHistoryCard({
         open={endSheetOpen}
         onClose={() => setEndSheetOpen(false)}
         ariaLabel="end event"
-        className="items-start overflow-y-auto px-4 pb-[calc(1rem+env(safe-area-inset-bottom))] pt-[calc(5.75rem+env(safe-area-inset-top))]"
+        className="ios-modal-scroll items-start overflow-y-auto px-4 pb-[calc(1rem+env(safe-area-inset-bottom))] pt-[calc(5.75rem+env(safe-area-inset-top))]"
         contentClassName="mb-auto overflow-hidden rounded-[26px] p-0"
       >
         <div className="space-y-4 p-4">
@@ -534,6 +534,14 @@ export default function EventHistoryCard({
             onSelect: confirmDeleteEvent,
           },
         ]}
+      />
+
+      <ConfirmationDialog
+        open={deleteConfirmationOpen}
+        onClose={() => setDeleteConfirmationOpen(false)}
+        onConfirm={() => deleteEvent(event.eventName)}
+        title={`Delete ${event.eventName}?`}
+        description="This removes the event and every round logged inside it. This action cannot be undone."
       />
     </>
   )

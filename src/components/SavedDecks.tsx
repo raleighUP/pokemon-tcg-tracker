@@ -1,12 +1,9 @@
-import {
-  PointerEvent as ReactPointerEvent,
-  useRef,
-  useState,
-} from 'react'
+import { useState } from 'react'
 import { Deck } from '@/types'
 import { normalizeComfort } from '@/utils/comfort'
 import {
   ContextActionSheet,
+  ConfirmationDialog,
   EmptyState,
   Panel,
   SectionHeader,
@@ -33,10 +30,7 @@ export default function SavedDecks({
   const [openSwipeId, setOpenSwipeId] = useState<number | null>(null)
   const [contextDeck, setContextDeck] = useState<Deck | null>(null)
   const [detailDeck, setDetailDeck] = useState<Deck | null>(null)
-  const [detailDragOffset, setDetailDragOffset] = useState(0)
-  const [isDraggingDetailSheet, setIsDraggingDetailSheet] =
-    useState(false)
-  const detailDragStartY = useRef<number | null>(null)
+  const [pendingDeleteDeck, setPendingDeleteDeck] = useState<Deck | null>(null)
 
   const getCardLineCount = (deck: Deck) =>
     deck.decklist
@@ -44,55 +38,17 @@ export default function SavedDecks({
       .filter((line) => line.trim()).length
 
   const confirmDeleteDeck = (deck: Deck) => {
-    if (window.confirm(`Delete ${deck.name}?`)) {
-      deleteDeck(deck.id)
-    }
+    setPendingDeleteDeck(deck)
   }
 
   const openDeckDetail = (deck: Deck) => {
     setSelectedDeck(deck)
     setDetailDeck(deck)
-    setDetailDragOffset(0)
     setOpenSwipeId(null)
   }
 
   const closeDeckDetail = () => {
     setDetailDeck(null)
-    setDetailDragOffset(0)
-    setIsDraggingDetailSheet(false)
-  }
-
-  const handleDetailPointerDown = (
-    event: ReactPointerEvent<HTMLDivElement>
-  ) => {
-    detailDragStartY.current = event.clientY
-    setIsDraggingDetailSheet(true)
-    event.currentTarget.setPointerCapture(event.pointerId)
-  }
-
-  const handleDetailPointerMove = (
-    event: ReactPointerEvent<HTMLDivElement>
-  ) => {
-    if (detailDragStartY.current === null) return
-
-    const deltaY = event.clientY - detailDragStartY.current
-    setDetailDragOffset(Math.min(Math.max(deltaY, 0), 240))
-  }
-
-  const handleDetailPointerUp = (
-    event: ReactPointerEvent<HTMLDivElement>
-  ) => {
-    if (detailDragStartY.current === null) return
-
-    const deltaY =
-      detailDragOffset || event.clientY - detailDragStartY.current
-    detailDragStartY.current = null
-    setDetailDragOffset(0)
-    setIsDraggingDetailSheet(false)
-
-    if (deltaY > 86) {
-      closeDeckDetail()
-    }
   }
 
   return (
@@ -126,29 +82,27 @@ export default function SavedDecks({
                     onSelect: () => confirmDeleteDeck(deck),
                   },
                 ]}
-                className="rounded-2xl"
+                surface="solid"
                 contentClassName={cn(
-                  'card-row rounded-2xl p-3',
                   isSelected &&
-                    'border-[rgba(23,107,181,0.55)] bg-[rgba(23,107,181,0.1)]'
+                    'shadow-[inset_0_0_0_1px_rgba(23,107,181,0.55)]'
                 )}
               >
-                <div className="flex items-center justify-between gap-3">
-                  <button
-                    type="button"
-                    className="motion-press min-w-0 flex-1 cursor-pointer rounded-xl text-left"
-                    onClick={() => openDeckDetail(deck)}
-                  >
-                    <p className="type-card-title truncate text-[var(--text-primary)] hover:text-[#b7dcfb]">
+                <button
+                  type="button"
+                  className="motion-press flex min-h-[64px] w-full items-center rounded-2xl p-3 text-left hover:bg-white/[0.04]"
+                  onClick={() => openDeckDetail(deck)}
+                >
+                  <span className="min-w-0 flex-1">
+                    <span className="type-card-title block truncate text-[var(--text-primary)] hover:text-[#b7dcfb]">
                       {deck.name}
-                    </p>
+                    </span>
 
-                    <p className="type-metadata mt-1 truncate text-[var(--text-muted)]">
+                    <span className="type-metadata mt-1 block truncate text-[var(--text-muted)]">
                       {deck.variant || deck.archetype || 'Other'} - {normalizeComfort(deck.comfort)}/5
-                    </p>
-                  </button>
-
-                </div>
+                    </span>
+                  </span>
+                </button>
               </SwipeActionRow>
             )
           })}
@@ -161,24 +115,10 @@ export default function SavedDecks({
         ariaLabel="decklist"
         className="px-3 pb-0 pt-[calc(3rem+env(safe-area-inset-top))]"
         contentClassName="overflow-hidden rounded-b-none rounded-t-[26px] border-b-0 will-change-transform transition-transform duration-200 ease-out h-[calc(100dvh-3rem)] max-h-[calc(100dvh-3rem)]"
-        contentStyle={{
-          transform: `translateY(${detailDragOffset}px)`,
-          transitionDuration: isDraggingDetailSheet ? '0ms' : undefined,
-        }}
       >
         {detailDeck && (
           <div className="flex h-full flex-col">
-            <div
-              className="touch-none cursor-grab px-4 pb-4 pt-4 active:cursor-grabbing"
-              onPointerDown={handleDetailPointerDown}
-              onPointerMove={handleDetailPointerMove}
-              onPointerUp={handleDetailPointerUp}
-              onPointerCancel={() => {
-                detailDragStartY.current = null
-                setDetailDragOffset(0)
-                setIsDraggingDetailSheet(false)
-              }}
-            >
+            <div className="px-4 pb-4 pt-1">
               <h3 className="truncate text-[1.35rem] font-[760] leading-tight text-white">
                 {detailDeck.name}
               </h3>
@@ -234,6 +174,16 @@ export default function SavedDecks({
           ]}
         />
       )}
+
+      <ConfirmationDialog
+        open={Boolean(pendingDeleteDeck)}
+        onClose={() => setPendingDeleteDeck(null)}
+        onConfirm={() => {
+          if (pendingDeleteDeck) deleteDeck(pendingDeleteDeck.id)
+        }}
+        title={`Delete ${pendingDeleteDeck?.name ?? 'deck'}?`}
+        description="This removes the saved deck from this device. This action cannot be undone."
+      />
     </Panel>
   )
 }

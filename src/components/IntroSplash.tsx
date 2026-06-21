@@ -5,9 +5,13 @@ import {
   DotLottieReact,
   type DotLottie,
 } from '@lottiefiles/dotlottie-react'
+import {
+  safeGetStorageValue,
+  safeSetStorageValue,
+  STORAGE_KEYS,
+} from '@/utils/app-storage'
 
-const INTRO_LAST_SHOWN_KEY = 'top-cut-intro-last-shown'
-const INTRO_COOLDOWN_MS = 8 * 60 * 60 * 1000
+const INTRO_COOLDOWN_MS = 2 * 60 * 60 * 1000
 const INTRO_VISIBLE_DURATION_MS = 1600
 const INTRO_FALLBACK_MS = 4000
 const INTRO_EXIT_MS = 240
@@ -33,7 +37,7 @@ export default function IntroSplash() {
 
     try {
       const lastShown = Number(
-        localStorage.getItem(INTRO_LAST_SHOWN_KEY)
+        safeGetStorageValue(STORAGE_KEYS.introLastShown)
       )
       const isCoolingDown =
         Number.isFinite(lastShown) &&
@@ -42,12 +46,12 @@ export default function IntroSplash() {
 
       if (isCoolingDown || prefersReducedMotion) {
         if (!isCoolingDown) {
-          localStorage.setItem(INTRO_LAST_SHOWN_KEY, String(now))
+          safeSetStorageValue(STORAGE_KEYS.introLastShown, String(now))
         }
 
         nextPhase = 'hidden'
       } else {
-        localStorage.setItem(INTRO_LAST_SHOWN_KEY, String(now))
+        safeSetStorageValue(STORAGE_KEYS.introLastShown, String(now))
       }
     } catch {
       if (prefersReducedMotion) {
@@ -121,7 +125,7 @@ export default function IntroSplash() {
     <div
       role="dialog"
       aria-label="Top Cut introduction"
-      className={`fixed inset-0 z-[100] bg-[#0a0a0d] transition-opacity duration-[var(--motion-slow)] ease-[var(--motion-standard)] ${
+      className={`fixed inset-0 z-[100] bg-[#0b0b0d] transition-opacity duration-[var(--motion-slow)] ease-[var(--motion-standard)] ${
         phase === 'leaving' ? 'opacity-0' : 'opacity-100'
       }`}
     >

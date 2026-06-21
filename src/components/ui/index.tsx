@@ -3,14 +3,24 @@ import type {
   CSSProperties,
   HTMLAttributes,
   InputHTMLAttributes,
+  PointerEvent as ReactPointerEvent,
   ReactElement,
   ReactNode,
   SelectHTMLAttributes,
   TextareaHTMLAttributes,
 } from 'react'
-import { Children, cloneElement, forwardRef, isValidElement, useRef } from 'react'
+import {
+  Children,
+  cloneElement,
+  forwardRef,
+  isValidElement,
+  useRef,
+  useState,
+} from 'react'
 import { createPortal } from 'react-dom'
+import { useModalBehavior } from './useModalBehavior'
 export { ContextActionSheet } from './ContextActionSheet'
+export { ConfirmationDialog } from './ConfirmationDialog'
 export { SwipeActionRow } from './SwipeActionRow'
 
 type Tone =
@@ -158,21 +168,40 @@ export function Sheet({
   contentClassName?: string
   contentStyle?: CSSProperties
 }) {
-  const sheetTouchStart = useRef<{
-    x: number
-    y: number
-    enabled: boolean
-  } | null>(null)
+  const dialogRef = useRef<HTMLDivElement>(null)
+  const dragStartRef = useRef<{ pointerId: number; y: number } | null>(null)
+  const [dragOffset, setDragOffset] = useState(0)
+  const [isDragging, setIsDragging] = useState(false)
+
+  useModalBehavior(open, onClose, dialogRef)
+
+  const finishDrag = (event: ReactPointerEvent<HTMLDivElement>) => {
+    const dragStart = dragStartRef.current
+    if (!dragStart || dragStart.pointerId !== event.pointerId) return
+
+    if (event.currentTarget.hasPointerCapture(event.pointerId)) {
+      event.currentTarget.releasePointerCapture(event.pointerId)
+    }
+
+    const finalOffset = Math.max(0, event.clientY - dragStart.y)
+    dragStartRef.current = null
+    setDragOffset(0)
+    setIsDragging(false)
+
+    if (finalOffset > 86) onClose()
+  }
 
   if (!open) return null
 
   const sheet = (
     <div
+      ref={dialogRef}
+      tabIndex={-1}
       aria-label={ariaLabel}
       aria-modal="true"
       role="dialog"
       className={cn(
-        'motion-sheet-backdrop fixed inset-0 z-[60] flex items-end bg-black/65 px-4 pb-[calc(1rem+env(safe-area-inset-bottom))] pt-[calc(5rem+env(safe-area-inset-top))] backdrop-blur-md',
+        'motion-sheet-backdrop ios-modal-scroll fixed inset-0 z-[60] flex items-end overflow-y-auto overscroll-contain bg-black/65 px-4 pb-[calc(1rem+env(safe-area-inset-bottom))] pt-[calc(5rem+env(safe-area-inset-top))] backdrop-blur-md outline-none',
         className
       )}
     >
@@ -187,36 +216,49 @@ export function Sheet({
           'motion-sheet-card relative max-h-full w-full rounded-[18px] p-0',
           contentClassName
         )}
-        style={contentStyle}
-        onTouchStart={(event) => {
-          const touch = event.touches[0]
-          const bounds = event.currentTarget.getBoundingClientRect()
-
-          sheetTouchStart.current = {
-            x: touch.clientX,
-            y: touch.clientY,
-            enabled: touch.clientY - bounds.top <= 96,
-          }
-        }}
-        onTouchEnd={(event) => {
-          const start = sheetTouchStart.current
-          sheetTouchStart.current = null
-
-          if (!start?.enabled) return
-
-          const touch = event.changedTouches[0]
-          const deltaX = touch.clientX - start.x
-          const deltaY = touch.clientY - start.y
-
-          if (deltaY > 72 && Math.abs(deltaY) > Math.abs(deltaX) * 1.2) {
-            onClose()
-          }
+        style={{
+          ...contentStyle,
+          transform:
+            dragOffset > 0
+              ? `translateY(${dragOffset}px)`
+              : contentStyle?.transform,
+          transitionDuration: isDragging ? '0ms' : undefined,
         }}
       >
         <div
-          aria-hidden="true"
-          className="mx-auto mt-3 h-2 w-16 rounded-full bg-white/22"
-        />
+          className="flex h-8 touch-none cursor-grab items-center justify-center active:cursor-grabbing"
+          onPointerDown={(event) => {
+            if (!event.isPrimary) return
+
+            dragStartRef.current = {
+              pointerId: event.pointerId,
+              y: event.clientY,
+            }
+            setIsDragging(true)
+            event.currentTarget.setPointerCapture(event.pointerId)
+          }}
+          onPointerMove={(event) => {
+            const dragStart = dragStartRef.current
+            if (!dragStart || dragStart.pointerId !== event.pointerId) return
+
+            setDragOffset(
+              Math.min(Math.max(event.clientY - dragStart.y, 0), 240)
+            )
+          }}
+          onPointerUp={finishDrag}
+          onPointerCancel={(event) => {
+            if (dragStartRef.current?.pointerId !== event.pointerId) return
+
+            dragStartRef.current = null
+            setDragOffset(0)
+            setIsDragging(false)
+          }}
+        >
+          <div
+            aria-hidden="true"
+            className="h-2 w-16 rounded-full bg-white/22"
+          />
+        </div>
 
         {children}
       </OverlayCard>
@@ -297,16 +339,16 @@ export function SectionHeader({
 }: {
   title: ReactNode
   description?: ReactNode
-  level?: 2 | 3
+  level?: 1 | 2 | 3
   className?: string
 }) {
-  const HeadingTag = level === 2 ? 'h2' : 'h3'
+  const HeadingTag = level === 1 ? 'h1' : level === 2 ? 'h2' : 'h3'
 
   return (
     <div className={className}>
       <HeadingTag
         className={
-          level === 2
+          level === 1 || level === 2
             ? 'type-screen-title text-[var(--text-primary)]'
             : 'type-section-title text-[var(--text-primary)]'
         }
