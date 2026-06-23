@@ -15,6 +15,7 @@ export default function AdvisorModeControl({
       <SegmentedControl
         value={candidateSource}
         onChange={setCandidateSource}
+        columnWeights={[1.25, 1]}
         options={[
           { label: 'Owned Decks', value: 'owned' },
           { label: 'Top Meta', value: 'all' },

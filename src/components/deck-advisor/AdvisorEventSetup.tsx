@@ -1,10 +1,12 @@
 import { EventType, TournamentStructure } from '@/utils/tournament'
+import type { RefObject } from 'react'
 import {
   FieldLabel,
   KeyValueList,
   NestedPanel,
   NumberInput,
   SelectField,
+  ValidationMessage,
 } from '@/components/ui'
 
 type Props = {
@@ -14,6 +16,8 @@ type Props = {
   setPlayerCount: (playerCount: string) => void
   eventSize: number
   structure: TournamentStructure
+  playerCountInputRef: RefObject<HTMLInputElement | null>
+  playerCountError: boolean
 }
 
 export default function AdvisorEventSetup({
@@ -23,6 +27,8 @@ export default function AdvisorEventSetup({
   setPlayerCount,
   eventSize,
   structure,
+  playerCountInputRef,
+  playerCountError,
 }: Props) {
   return (
     <>
@@ -49,12 +55,13 @@ export default function AdvisorEventSetup({
           </SelectField>
         </div>
 
-        <div>
-          <FieldLabel>
+        <div className={`t-input-wrap ${playerCountError ? 'is-error' : ''}`}>
+          <FieldLabel className="t-error-label">
             Players
           </FieldLabel>
 
           <NumberInput
+            ref={playerCountInputRef}
             min="0"
             value={playerCount}
             onChange={(e) =>
@@ -64,7 +71,22 @@ export default function AdvisorEventSetup({
             placeholder="Example: 64"
             inputMode="numeric"
             enterKeyHint="done"
+            invalid={playerCountError}
+            aria-invalid={playerCountError}
+            aria-describedby="advisor-player-count-error"
+            className={`t-input ${playerCountError ? 'is-error' : ''}`}
           />
+
+          <div className="t-error-slot">
+            <div className="t-error-slot-inner">
+              <ValidationMessage
+                id="advisor-player-count-error"
+                className="t-error-msg rounded-lg border border-[rgba(160,24,24,0.32)] bg-[rgba(160,24,24,0.12)] px-2 py-1.5"
+              >
+                Enter the estimated number of players.
+              </ValidationMessage>
+            </div>
+          </div>
         </div>
       </div>
 

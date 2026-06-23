@@ -41,6 +41,7 @@ type Props = {
   setCompareDeck2: (value: string) => void
   decks: Deck[]
   changes: Change[]
+  onAddFirstDeck?: () => void
 }
 
 const categoryOrder: Category[] = [
@@ -211,6 +212,7 @@ export default function CompareDecks({
   setCompareDeck2,
   decks,
   changes,
+  onAddFirstDeck,
 }: Props) {
   const [detailChange, setDetailChange] =
     useState<Change | null>(null)
@@ -448,7 +450,21 @@ export default function CompareDecks({
 
           <div className="scrollbar-apple flex-1 space-y-5 overflow-auto border-t border-white/10 px-4 py-3">
             {changes.length === 0 ? (
-              <EmptyState>{emptyStateMessage}</EmptyState>
+              <EmptyState className="space-y-3">
+                <p>{emptyStateMessage}</p>
+                {decks.length === 0 && (
+                  <Button
+                    onClick={() => {
+                      closeChangedCards()
+                      onAddFirstDeck?.()
+                    }}
+                    tone="primary"
+                    className="w-full"
+                  >
+                    Add Your First Deck
+                  </Button>
+                )}
+              </EmptyState>
             ) : (
               <>
                 {renderChangeRows('Remove', sortedRemovedChanges)}

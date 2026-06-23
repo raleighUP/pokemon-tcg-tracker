@@ -4,6 +4,7 @@ import { normalizeComfort } from '@/utils/comfort'
 import {
   ContextActionSheet,
   ConfirmationDialog,
+  Button,
   EmptyState,
   Panel,
   SectionHeader,
@@ -18,6 +19,7 @@ type Props = {
   selectedDeck: Deck | null
   editDeck: (deck: Deck) => void
   deleteDeck: (id: number) => void
+  onAddFirstDeck?: () => void
 }
 
 export default function SavedDecks({
@@ -26,6 +28,7 @@ export default function SavedDecks({
   editDeck,
   deleteDeck,
   selectedDeck,
+  onAddFirstDeck,
 }: Props) {
   const [openSwipeId, setOpenSwipeId] = useState<number | null>(null)
   const [contextDeck, setContextDeck] = useState<Deck | null>(null)
@@ -56,7 +59,26 @@ export default function SavedDecks({
       <SectionHeader title="Saved Decks" />
 
       {decks.length === 0 ? (
-        <EmptyState>No decks saved yet.</EmptyState>
+        <EmptyState className="space-y-3">
+          <div>
+            <p className="type-card-title text-[var(--text-primary)]">
+              Your deck library starts here.
+            </p>
+            <p className="mt-1">
+              Save your current 60 so match logs, deck comparison, and Advisor
+              recommendations can use it. Decks stay stored locally on this
+              device.
+            </p>
+          </div>
+
+          <Button
+            onClick={onAddFirstDeck}
+            tone="primary"
+            className="w-full"
+          >
+            Add Your First Deck
+          </Button>
+        </EmptyState>
       ) : (
         <div className="space-y-3">
           {decks.map((deck) => {
@@ -82,8 +104,9 @@ export default function SavedDecks({
                     onSelect: () => confirmDeleteDeck(deck),
                   },
                 ]}
-                surface="solid"
+                className="rounded-2xl"
                 contentClassName={cn(
+                  'surface-card-elevated border border-[var(--surface-border)]',
                   isSelected &&
                     'shadow-[inset_0_0_0_1px_rgba(23,107,181,0.55)]'
                 )}

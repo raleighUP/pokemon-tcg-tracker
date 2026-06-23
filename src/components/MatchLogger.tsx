@@ -229,7 +229,7 @@ export default function MatchLogger({
 
   const errorClass = (fieldName: string) =>
     invalidMatchFields.includes(fieldName)
-      ? 'field-error-shake border-[var(--color-error)] ring-2 ring-[rgba(160,24,24,0.6)]'
+      ? 't-input is-error is-shaking field-error-shake border-[var(--color-error)] ring-2 ring-[rgba(160,24,24,0.6)]'
       : ''
 
   const eventComplete = Boolean(eventName.trim() && format.trim())
@@ -438,7 +438,10 @@ export default function MatchLogger({
             />
 
             {opponentFocused && filteredOpponentOptions.length > 0 && (
-              <div className="surface-card-elevated mt-2 max-h-44 overflow-y-auto rounded-2xl border border-[var(--surface-border)] p-1">
+              <div
+                data-origin="top-left"
+                className="surface-card-elevated t-dropdown is-open mt-2 max-h-44 overflow-y-auto rounded-2xl border border-[var(--surface-border)] p-1"
+              >
                 {filteredOpponentOptions.map((option) => (
                   <button
                     key={option}
@@ -645,7 +648,8 @@ export default function MatchLogger({
             {!validationMessage && (
               <span
                 aria-hidden="true"
-                className="motion-success-pop flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-[var(--color-success)] text-xs font-bold text-white"
+                data-state="in"
+                className="t-success-check motion-success-pop flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-[var(--color-success)] text-xs font-bold text-white"
               >
                 ✓
               </span>

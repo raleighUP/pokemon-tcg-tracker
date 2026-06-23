@@ -308,11 +308,98 @@ const editEvent = (
     setCompareDeck2('')
   }
 
+  const focusDeckForm = () => {
+    setActiveTab('decks')
+
+    window.setTimeout(() => {
+      if (typeof window === 'undefined') return
+
+      const deckNameInput = document.getElementById('deck-name-input')
+      const prefersReducedMotion = window.matchMedia(
+        '(prefers-reduced-motion: reduce)'
+      ).matches
+
+      deckNameInput?.scrollIntoView({
+        behavior: prefersReducedMotion ? 'auto' : 'smooth',
+        block: 'center',
+      })
+      deckNameInput?.focus()
+    }, 0)
+  }
+
   const bottomNavigation = (
     <BottomNavigation
       activeTab={activeTab}
       setActiveTab={setActiveTab}
     />
+  )
+
+  const renderTab = (tab: AppTab) => (
+    <>
+      {tab === 'decks' && (
+        <div className="space-y-5">
+          <AddDeckForm
+            deckName={deckName}
+            setDeckName={setDeckName}
+            decklist={decklist}
+            setDecklist={setDecklist}
+            deckComfort={deckComfort}
+            setDeckComfort={setDeckComfort}
+            addDeck={addDeck}
+            editingDeckId={editingDeckId}
+            hasSavedDecks={decks.length > 0}
+          />
+
+          <SavedDecks
+            decks={decks}
+            selectedDeck={selectedDeck}
+            setSelectedDeck={setSelectedDeck}
+            editDeck={editDeck}
+            deleteDeck={deleteDeck}
+            onAddFirstDeck={focusDeckForm}
+          />
+        </div>
+      )}
+
+      {tab === 'compare' && (
+        <CompareDecks
+          decks={decks}
+          compareDeck1={compareDeck1}
+          setCompareDeck1={setCompareDeck1}
+          compareDeck2={compareDeck2}
+          setCompareDeck2={setCompareDeck2}
+          changes={changes}
+          onAddFirstDeck={focusDeckForm}
+        />
+      )}
+
+      {tab === 'history' && (
+        <MatchHistory
+          events={events}
+          matches={matches}
+          deleteMatch={deleteMatch}
+          deleteEvent={deleteEvent}
+          editMatch={editMatch}
+          addMatch={addMatch}
+          addEvent={addEvent}
+          editEvent={editEvent}
+          editingMatch={editingMatch}
+          setEditingMatch={setEditingMatch}
+          editingEvent={editingEvent}
+          setEditingEvent={setEditingEvent}
+          decks={decks}
+          onAddFirstDeck={focusDeckForm}
+        />
+      )}
+
+      {tab === 'advisor' && <DeckAdvisor decks={decks} />}
+
+      {tab === 'settings' && (
+        <SettingsPage
+          onDataChanged={refreshStoredData}
+        />
+      )}
+    </>
   )
 
   if (!storageReady) {
@@ -334,65 +421,7 @@ const editEvent = (
 
       <AppShell bottomNavigation={bottomNavigation}>
         <div key={activeTab} className="motion-tab-panel">
-        {activeTab === 'decks' && (
-          <div className="space-y-5">
-            <AddDeckForm
-              deckName={deckName}
-              setDeckName={setDeckName}
-              decklist={decklist}
-              setDecklist={setDecklist}
-              deckComfort={deckComfort}
-              setDeckComfort={setDeckComfort}
-              addDeck={addDeck}
-              editingDeckId={editingDeckId}
-            />
-
-            <SavedDecks
-              decks={decks}
-              selectedDeck={selectedDeck}
-              setSelectedDeck={setSelectedDeck}
-              editDeck={editDeck}
-              deleteDeck={deleteDeck}
-            />
-          </div>
-        )}
-
-        {activeTab === 'compare' && (
-          <CompareDecks
-            decks={decks}
-            compareDeck1={compareDeck1}
-            setCompareDeck1={setCompareDeck1}
-            compareDeck2={compareDeck2}
-            setCompareDeck2={setCompareDeck2}
-            changes={changes}
-          />
-        )}
-
-        {activeTab === 'history' && (
-          <MatchHistory
-            events={events}
-            matches={matches}
-            deleteMatch={deleteMatch}
-            deleteEvent={deleteEvent}
-            editMatch={editMatch}
-            addMatch={addMatch}
-            addEvent={addEvent}
-            editEvent={editEvent}
-            editingMatch={editingMatch}
-            setEditingMatch={setEditingMatch}
-            editingEvent={editingEvent}
-            setEditingEvent={setEditingEvent}
-            decks={decks}
-          />
-        )}
-
-        {activeTab === 'advisor' && <DeckAdvisor decks={decks} />}
-
-        {activeTab === 'settings' && (
-          <SettingsPage
-            onDataChanged={refreshStoredData}
-          />
-        )}
+          {renderTab(activeTab)}
         </div>
       </AppShell>
     </>

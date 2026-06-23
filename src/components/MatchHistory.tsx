@@ -71,6 +71,7 @@ type Props = {
   setEditingEvent: (value: string | null) => void
 
   decks: Deck[]
+  onAddFirstDeck?: () => void
 }
 
 const emptyEventDraft: EventDraft = {
@@ -137,6 +138,7 @@ export default function MatchHistory({
   editingEvent,
   setEditingEvent,
   decks,
+  onAddFirstDeck,
 }: Props) {
   const [openEventSwipeId, setOpenEventSwipeId] =
     useState<number | null>(null)
@@ -429,7 +431,26 @@ export default function MatchHistory({
       </div>
 
       {eventRecords.length === 0 ? (
-        <EmptyState>No matches logged yet.</EmptyState>
+        <EmptyState className="space-y-3">
+          <div>
+            <p className="type-card-title text-[var(--text-primary)]">
+              No tournament rounds logged yet.
+            </p>
+            <p className="mt-1">
+              {decks.length === 0
+                ? 'Save a deck first so match history can connect each round to the list you played.'
+                : 'Start an event, pick your saved deck, then add each round as you play. Match history is stored locally on this device.'}
+            </p>
+          </div>
+
+          <Button
+            onClick={decks.length === 0 ? onAddFirstDeck : openNewEvent}
+            tone="primary"
+            className="w-full"
+          >
+            {decks.length === 0 ? 'Add Your First Deck' : 'Log Your First Match'}
+          </Button>
+        </EmptyState>
       ) : (
         <div className="space-y-4">
           {eventRecords
@@ -709,10 +730,29 @@ export default function MatchHistory({
                   </option>
                 ))}
               </SelectField>
+              {decks.length === 0 && (
+                <div className="space-y-3 rounded-2xl border border-dashed border-white/10 bg-white/[0.025] p-3">
+                  <p className="type-helper text-[var(--text-muted)]">
+                    Save a deck first so this event can connect rounds to the
+                    list you played.
+                  </p>
+                  <Button
+                    onClick={() => {
+                      resetEventSheet()
+                      onAddFirstDeck?.()
+                    }}
+                    tone="secondary"
+                    className="w-full"
+                  >
+                    Add Your First Deck
+                  </Button>
+                </div>
+              )}
               <Button
                 onClick={finishEventSetup}
                 tone="primary"
                 className="w-full"
+                disabled={decks.length === 0}
               >
                 Save Event
               </Button>

@@ -15,6 +15,7 @@ import {
   cloneElement,
   forwardRef,
   isValidElement,
+  useEffect,
   useId,
   useRef,
   useState,
@@ -46,6 +47,51 @@ type FeedbackTone =
 
 type MatchupTone = 'favored' | 'neutral' | 'unfavored'
 type CardVariant = 'default' | 'elevated' | 'glass' | 'compact'
+
+function getCssDurationMs(variableName: string, fallback: number) {
+  if (typeof window === 'undefined') return fallback
+
+  const value = Number.parseFloat(
+    getComputedStyle(document.documentElement).getPropertyValue(variableName)
+  )
+
+  return Number.isFinite(value) ? value : fallback
+}
+
+function useTransitionPresence(
+  open: boolean,
+  closeDurationVariable: string,
+  fallbackCloseMs: number
+) {
+  const [present, setPresent] = useState(open)
+  const [stateClass, setStateClass] = useState(open ? 'is-open' : '')
+
+  useEffect(() => {
+    if (open) {
+      setPresent(true)
+      requestAnimationFrame(() => {
+        setStateClass('is-open')
+      })
+      return
+    }
+
+    if (!present) {
+      setStateClass('')
+      return
+    }
+
+    setStateClass('is-closing')
+    const closeMs = getCssDurationMs(closeDurationVariable, fallbackCloseMs)
+    const timeout = window.setTimeout(() => {
+      setStateClass('')
+      setPresent(false)
+    }, closeMs)
+
+    return () => window.clearTimeout(timeout)
+  }, [closeDurationVariable, fallbackCloseMs, open, present])
+
+  return { present, stateClass }
+}
 
 export function cn(...classes: Array<string | false | null | undefined>) {
   return classes.filter(Boolean).join(' ')
@@ -174,6 +220,11 @@ export function Sheet({
   const dragStartRef = useRef<{ pointerId: number; y: number } | null>(null)
   const [dragOffset, setDragOffset] = useState(0)
   const [isDragging, setIsDragging] = useState(false)
+  const { present, stateClass } = useTransitionPresence(
+    open,
+    '--modal-close-dur',
+    150
+  )
 
   useModalBehavior(open, onClose, dialogRef)
 
@@ -193,7 +244,7 @@ export function Sheet({
     if (finalOffset > 86) onClose()
   }
 
-  if (!open) return null
+  if (!present) return null
 
   const sheet = (
     <div
@@ -202,10 +253,11 @@ export function Sheet({
       aria-label={ariaLabel}
       aria-modal="true"
       role="dialog"
-      className={cn(
-        'motion-sheet-backdrop ios-modal-scroll fixed inset-0 z-[60] flex items-end overflow-y-auto overscroll-contain bg-black/65 px-4 pb-[calc(1rem+env(safe-area-inset-bottom))] pt-[calc(5rem+env(safe-area-inset-top))] backdrop-blur-md outline-none',
-        className
-      )}
+        className={cn(
+          'motion-surface motion-sheet-backdrop ios-modal-scroll fixed inset-0 z-[60] flex items-end overflow-y-auto overscroll-contain bg-black/65 px-4 pb-[calc(1rem+env(safe-area-inset-bottom))] pt-[calc(5rem+env(safe-area-inset-top))] backdrop-blur-md outline-none',
+          open ? 'opacity-100' : 'opacity-0',
+          className
+        )}
     >
       <button
         aria-label={`Close ${ariaLabel}`}
@@ -215,7 +267,8 @@ export function Sheet({
 
       <OverlayCard
         className={cn(
-          'motion-sheet-card relative max-h-full w-full rounded-[18px] p-0',
+          't-modal relative max-h-full w-full rounded-[18px] p-0',
+          stateClass,
           contentClassName
         )}
         style={{
@@ -287,7 +340,13 @@ export function OverflowMenu({
   className?: string
   backdropClassName?: string
 }) {
-  if (!open) return null
+  const { present, stateClass } = useTransitionPresence(
+    open,
+    '--dropdown-close-dur',
+    150
+  )
+
+  if (!present) return null
 
   return (
     <>
@@ -301,8 +360,10 @@ export function OverflowMenu({
       />
 
       <OverlayCard
+        data-origin="top-right"
         className={cn(
-          'motion-sheet-card absolute right-0 top-11 w-44 rounded-2xl p-1',
+          't-dropdown absolute right-0 top-11 w-44 rounded-2xl p-1',
+          stateClass,
           className
         )}
       >
@@ -431,6 +492,7 @@ export function SegmentedControl<TValue extends string>({
   onChange,
   className,
   buttonClassName,
+  columnWeights,
 }: {
   options: Array<{
     label: ReactNode
@@ -440,38 +502,79 @@ export function SegmentedControl<TValue extends string>({
   onChange: (value: TValue) => void
   className?: string
   buttonClassName?: string
+  columnWeights?: number[]
 }) {
   const activeIndex = Math.max(
     0,
     options.findIndex((option) => option.value === value)
   )
+  const tabsRef = useRef<HTMLDivElement>(null)
+  const pillRef = useRef<HTMLSpanElement>(null)
+  const tabRefs = useRef<Array<HTMLButtonElement | null>>([])
+  const tabsReadyRef = useRef(false)
+
+  useEffect(() => {
+    const pill = pillRef.current
+    const activeTab = tabRefs.current[activeIndex]
+    if (!pill || !activeTab) return
+
+    const moveToActive = (animate: boolean) => {
+      if (!animate) {
+        const previousTransition = pill.style.transition
+        pill.style.transition = 'none'
+        pill.style.transform = `translateX(${activeTab.offsetLeft}px)`
+        pill.style.width = `${activeTab.offsetWidth}px`
+        void pill.offsetWidth
+        pill.style.transition = previousTransition
+        return
+      }
+
+      pill.style.transform = `translateX(${activeTab.offsetLeft}px)`
+      pill.style.width = `${activeTab.offsetWidth}px`
+    }
+
+    moveToActive(tabsReadyRef.current)
+    tabsReadyRef.current = true
+
+    const handleResize = () => moveToActive(false)
+    window.addEventListener('resize', handleResize)
+    return () => window.removeEventListener('resize', handleResize)
+  }, [activeIndex, options.length])
 
   return (
     <div
+      ref={tabsRef}
+      role="tablist"
       className={cn(
-        'relative grid min-h-10 overflow-hidden rounded-[14px] border border-[var(--surface-border)] bg-[#101012] p-1',
+        't-tabs grid min-h-[42px] w-full overflow-hidden border border-[var(--surface-border)]',
         className
       )}
       style={{
-        gridTemplateColumns: `repeat(${options.length}, minmax(0, 1fr))`,
+        display: 'grid',
+        gridTemplateColumns:
+          columnWeights?.length === options.length
+            ? columnWeights.map((weight) => `minmax(0, ${weight}fr)`).join(' ')
+            : `repeat(${options.length}, minmax(0, 1fr))`,
       }}
     >
       <span
+        ref={pillRef}
         aria-hidden="true"
-        className="motion-surface absolute bottom-1 top-1 rounded-[11px] bg-[var(--color-primary)] shadow-[0_6px_18px_rgba(23,107,181,0.22)]"
-        style={{
-          left: `calc(${activeIndex} * ((100% - 0.5rem) / ${options.length}) + 0.25rem)`,
-          width: `calc((100% - 0.5rem) / ${options.length})`,
-        }}
+        className="t-tabs-pill rounded-[14px] shadow-[0_6px_18px_rgba(23,107,181,0.22)]"
       />
 
-      {options.map((option) => (
+      {options.map((option, index) => (
         <button
           key={option.value}
+          ref={(element) => {
+            tabRefs.current[index] = element
+          }}
           type="button"
+          role="tab"
+          aria-selected={option.value === value}
           onClick={() => onChange(option.value)}
           className={cn(
-            'motion-press relative z-10 min-h-9 rounded-[11px] px-3 py-2 text-sm font-semibold focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[rgba(23,107,181,0.45)]',
+            't-tab motion-press min-h-[34px] whitespace-nowrap rounded-[14px] px-3 py-1.5 text-sm font-semibold focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[rgba(23,107,181,0.45)]',
             option.value === value
               ? 'text-white'
               : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]',
@@ -546,15 +649,13 @@ export function DisclosureContent({
 }) {
   return (
     <div
+      data-open={open ? 'true' : 'false'}
       className={cn(
-        'motion-disclosure grid',
-        open
-          ? 'grid-rows-[1fr] opacity-100 translate-y-0 scale-100'
-          : 'grid-rows-[0fr] opacity-0 -translate-y-1 scale-[0.985]',
+        't-acc-panel motion-disclosure',
         className
       )}
     >
-      <div className="overflow-hidden">
+      <div className="t-acc-panel-inner">
         <div className={innerClassName}>
           {children}
         </div>
@@ -671,8 +772,9 @@ export function LayeredDisclosurePanel({
 }) {
   return (
     <NestedPanel
+      data-open={open ? 'true' : 'false'}
       className={cn(
-        'motion-layered-disclosure-shell overflow-hidden rounded-[18px] p-0',
+        't-acc motion-layered-disclosure-shell overflow-hidden rounded-[18px] p-0',
         open && 'is-open',
         className
       )}
@@ -682,7 +784,7 @@ export function LayeredDisclosurePanel({
         onClick={onToggle}
         aria-expanded={open}
         className={cn(
-          'min-h-0 w-full rounded-none border-0 bg-transparent px-4 py-4 text-left hover:bg-white/[0.035] active:scale-100',
+          'min-h-0 w-full rounded-[18px] border-0 bg-transparent px-4 py-4 text-left hover:bg-white/[0.035] active:scale-100',
           headerClassName
         )}
       >
@@ -708,7 +810,7 @@ export function LayeredDisclosurePanel({
           <span
             aria-hidden="true"
             className={cn(
-              'motion-layered-disclosure-chevron mt-1 flex h-8 w-8 shrink-0 items-center justify-center rounded-full border border-white/10 bg-white/[0.035] text-[var(--text-secondary)]',
+              't-acc-chevron motion-layered-disclosure-chevron mt-1 flex h-8 w-8 shrink-0 items-center justify-center rounded-full border border-white/10 bg-white/[0.035] text-[var(--text-secondary)]',
               open && 'is-open'
             )}
           >
@@ -719,12 +821,13 @@ export function LayeredDisclosurePanel({
 
       <div
         data-open={open ? 'true' : 'false'}
-        className="motion-layered-disclosure-body grid"
+        className="t-acc-panel motion-layered-disclosure-body"
       >
-        <div className="overflow-hidden">
+        <div className="t-acc-panel-inner">
           <div
             className={cn(
-              'motion-layered-disclosure-content border-t border-white/10 px-4 pb-4 pt-3',
+              'motion-layered-disclosure-content px-4 pb-4 pt-3',
+              open && 'rounded-b-[18px]',
               contentClassName
             )}
           >

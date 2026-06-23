@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect, useMemo, useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 
 import {
   getSuggestedMeta,
@@ -78,12 +78,14 @@ export default function DeckAdvisor({ decks }: Props) {
   )
 
   const [advisorSetupOpen, setAdvisorSetupOpen] = useState(false)
+  const [playerCountError, setPlayerCountError] = useState(false)
+  const playerCountInputRef = useRef<HTMLInputElement>(null)
+  const playerCountErrorTimerRef = useRef<number | null>(null)
   const [clearConfirmationOpen, setClearConfirmationOpen] = useState(false)
   const [sourcesOpen, setSourcesOpen] = useState(false)
   const [setupSectionsOpen, setSetupSectionsOpen] = useState({
     event: true,
     meta: true,
-    candidates: false,
     data: false,
   })
   const [eventConfigured, setEventConfigured] = useState(
@@ -136,6 +138,76 @@ export default function DeckAdvisor({ decks }: Props) {
   ])
 
   const eventSize = Number(playerCount)
+
+  const handlePlayerCountChange = (value: string) => {
+    setPlayerCount(value)
+
+    if (value.trim() && Number(value) > 0) {
+      if (playerCountErrorTimerRef.current !== null) {
+        window.clearTimeout(playerCountErrorTimerRef.current)
+        playerCountErrorTimerRef.current = null
+      }
+
+      setPlayerCountError(false)
+    }
+  }
+
+  const showPlayerCountError = () => {
+    setPlayerCountError(true)
+    setSetupSectionsOpen((current) => ({
+      ...current,
+      event: true,
+    }))
+
+    window.setTimeout(() => {
+      const input = playerCountInputRef.current
+      if (!input) return
+
+      input.classList.remove('is-shaking')
+      void input.offsetWidth
+      input.classList.add('is-shaking')
+
+      const styles = getComputedStyle(document.documentElement)
+      const readDuration = (name: string, fallback: number) => {
+        const value = Number.parseFloat(styles.getPropertyValue(name))
+        return Number.isFinite(value) ? value : fallback
+      }
+      const shakeDuration =
+        readDuration('--shake-dur-a', 80) * 2 +
+        readDuration('--shake-dur-b', 60) * 2
+
+      window.setTimeout(() => {
+        input.classList.remove('is-shaking')
+      }, shakeDuration + 20)
+
+      if (playerCountErrorTimerRef.current !== null) {
+        window.clearTimeout(playerCountErrorTimerRef.current)
+      }
+
+      playerCountErrorTimerRef.current = window.setTimeout(() => {
+        playerCountErrorTimerRef.current = null
+        setPlayerCountError(false)
+      }, shakeDuration + readDuration('--revert-hold', 3000))
+
+      const prefersReducedMotion = window.matchMedia(
+        '(prefers-reduced-motion: reduce)'
+      ).matches
+
+      input.scrollIntoView({
+        behavior: prefersReducedMotion ? 'auto' : 'smooth',
+        block: 'center',
+      })
+      input.focus({ preventScroll: true })
+    }, 0)
+  }
+
+  useEffect(() => {
+    return () => {
+      if (playerCountErrorTimerRef.current !== null) {
+        window.clearTimeout(playerCountErrorTimerRef.current)
+      }
+    }
+  }, [])
 
   const archetypeOptions = useMemo(
     () => getArchetypeOptions(),
@@ -196,6 +268,7 @@ export default function DeckAdvisor({ decks }: Props) {
     setSourcesOpen(false)
     setEventType('challenge')
     setPlayerCount('')
+    setPlayerCountError(false)
     setMetaInputMode('percent')
     setMetaDecks([])
     setCandidateSource('owned')
@@ -205,13 +278,13 @@ export default function DeckAdvisor({ decks }: Props) {
     setEventConfigured(false)
     setEventType('challenge')
     setPlayerCount('')
+    setPlayerCountError(false)
     setMetaInputMode('percent')
     setMetaDecks([])
     setCandidateSource('owned')
     setSetupSectionsOpen({
       event: true,
       meta: true,
-      candidates: false,
       data: false,
     })
     setAdvisorSetupOpen(true)
@@ -471,6 +544,11 @@ export default function DeckAdvisor({ decks }: Props) {
   ])
 
   const hasRecommendations = results.length > 0
+  const hasAdvisorData =
+    eventConfigured ||
+    eventSize > 0 ||
+    metaDecks.length > 0 ||
+    candidateSource !== 'owned'
   const topRecommendation = results[0]
   const visibleMetaBreakdown = metaBreakdown
     .slice()
@@ -692,17 +770,26 @@ export default function DeckAdvisor({ decks }: Props) {
           <div className="flex items-start justify-between gap-4">
             <div>
               <p className="type-section-title text-[var(--text-primary)]">
-                Add expected meta to get a deck pick.
+                {candidateSource === 'owned' && decks.length === 0
+                  ? 'Save a deck or rank the field.'
+                  : 'Add expected meta to get a deck pick.'}
               </p>
 
               <p className="type-helper mt-2 text-[var(--text-muted)]">
-                Suggested meta is the fastest starting point before manual tuning.
+                {candidateSource === 'owned' && decks.length === 0
+                  ? 'Owned Decks uses your saved local deck library. Top Meta can still compare expected archetypes with neutral comfort.'
+                  : 'Suggested meta is the fastest starting point before manual tuning.'}
               </p>
             </div>
           </div>
 
           <Button
             onClick={() => {
+              if (candidateSource === 'owned' && decks.length === 0) {
+                setCandidateSource('all')
+                return
+              }
+
               setMetaInputMode('percent')
               setMetaDecks(suggestedMeta)
             }}
@@ -710,7 +797,9 @@ export default function DeckAdvisor({ decks }: Props) {
             size="lg"
             className="w-full"
           >
-            Use Suggested Meta
+            {candidateSource === 'owned' && decks.length === 0
+              ? 'Rank Top Meta'
+              : 'Use Suggested Meta'}
           </Button>
         </NestedPanel>
       )}
@@ -743,13 +832,15 @@ export default function DeckAdvisor({ decks }: Props) {
         <SectionHeader title="Advisor" level={1} />
 
         <div className="flex shrink-0 items-center gap-2">
-          <Button
-            tone="danger"
-            onClick={() => setClearConfirmationOpen(true)}
-            className="min-h-11 px-3"
-          >
-            Clear All
-          </Button>
+          {hasAdvisorData && (
+            <Button
+              tone="danger"
+              onClick={() => setClearConfirmationOpen(true)}
+              className="min-h-11 px-3"
+            >
+              Clear All
+            </Button>
+          )}
 
           <Button
             tone="primary"
@@ -760,6 +851,29 @@ export default function DeckAdvisor({ decks }: Props) {
           </Button>
         </div>
       </div>
+
+      {!eventConfigured && (
+        <EmptyState className="space-y-3">
+          <div>
+            <p className="type-card-title text-[var(--text-primary)]">
+              Set up one event to get your first recommendation.
+            </p>
+            <p className="mt-1">
+              Enter event size, load suggested meta, and choose whether to rank
+              saved decks or top meta archetypes. Advisor settings stay local to
+              this device.
+            </p>
+          </div>
+
+          <Button
+            tone="primary"
+            onClick={startNewAdvisorEvent}
+            className="w-full"
+          >
+            Set Up Advisor
+          </Button>
+        </EmptyState>
+      )}
 
       {eventConfigured && eventSize > 0 && (
         <>
@@ -793,9 +907,11 @@ export default function DeckAdvisor({ decks }: Props) {
               eventType={eventType}
               setEventType={setEventType}
               playerCount={playerCount}
-              setPlayerCount={setPlayerCount}
+              setPlayerCount={handlePlayerCountChange}
               eventSize={eventSize}
               structure={structure}
+              playerCountInputRef={playerCountInputRef}
+              playerCountError={playerCountError}
             />
           </LayeredDisclosurePanel>
 
@@ -818,43 +934,6 @@ export default function DeckAdvisor({ decks }: Props) {
               setMetaInputMode={handleMetaInputModeChange}
               suggestedMeta={suggestedMeta}
             />
-          </LayeredDisclosurePanel>
-
-          <LayeredDisclosurePanel
-            title="Candidate Decks"
-            description={
-              candidateDeckCount > 0
-                ? `${candidateDeckCount} decks in the recommendation pool`
-                : 'Choose which decks the advisor should rank'
-            }
-            open={setupSectionsOpen.candidates}
-            onToggle={() => toggleSetupSection('candidates')}
-          >
-            <div className="space-y-3">
-              <AdvisorModeControl
-                candidateSource={candidateSource}
-                setCandidateSource={setCandidateSource}
-              />
-
-              <NestedPanel variant="compact" className="space-y-2">
-                <MetricRow
-                  label={
-                    candidateSource === 'owned'
-                      ? 'Saved decks'
-                      : 'Top meta candidates'
-                  }
-                  value={candidateDeckCount}
-                />
-                <MetricRow
-                  label="Comfort"
-                  value={
-                    candidateSource === 'owned'
-                      ? 'Saved deck values'
-                      : 'Neutral'
-                  }
-                />
-              </NestedPanel>
-            </div>
           </LayeredDisclosurePanel>
 
           <LayeredDisclosurePanel
@@ -881,9 +960,26 @@ export default function DeckAdvisor({ decks }: Props) {
 
           <Button
             tone="primary"
-            className="w-full"
-            disabled={eventSize <= 0}
+            className={`w-full ${
+              eventSize <= 0
+                ? 'cursor-not-allowed active:scale-100'
+                : ''
+            }`}
+            style={
+              eventSize <= 0
+                ? {
+                    backgroundColor: '#161619',
+                    color: 'var(--text-muted)',
+                  }
+                : undefined
+            }
             onClick={() => {
+              if (eventSize <= 0) {
+                showPlayerCountError()
+                return
+              }
+
+              setPlayerCountError(false)
               setEventConfigured(true)
               setAdvisorSetupOpen(false)
             }}

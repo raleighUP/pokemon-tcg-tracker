@@ -24,6 +24,7 @@ type Props = {
   setDeckComfort: (value: number) => void
   addDeck: () => void
   editingDeckId: number | null
+  hasSavedDecks?: boolean
 }
 
 export default function AddDeckForm({
@@ -35,6 +36,7 @@ export default function AddDeckForm({
   setDeckComfort,
   addDeck,
   editingDeckId,
+  hasSavedDecks = true,
 }: Props) {
   const [isExpanded, setIsExpanded] = useState(false)
 
@@ -73,7 +75,18 @@ export default function AddDeckForm({
   return (
     <Panel className="space-y-4">
       <SectionHeader
-        title={editingDeckId !== null ? 'Edit Deck' : 'Add Deck'}
+        title={
+          editingDeckId !== null
+            ? 'Edit Deck'
+            : hasSavedDecks
+              ? 'Add Deck'
+              : 'Add Your First Deck'
+        }
+        description={
+          editingDeckId === null && !hasSavedDecks
+            ? 'Paste your current 60 to use it in match logs, deck comparison, and Advisor picks.'
+            : undefined
+        }
         level={1}
       />
 
@@ -89,6 +102,7 @@ export default function AddDeckForm({
             placeholder="Deck Name"
             autoComplete="off"
             enterKeyHint="next"
+            id="deck-name-input"
           />
         </div>
 

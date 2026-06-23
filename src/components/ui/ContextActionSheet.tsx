@@ -1,6 +1,6 @@
 'use client'
 
-import { useRef, type ReactNode } from 'react'
+import { useEffect, useRef, useState, type ReactNode } from 'react'
 import { createPortal } from 'react-dom'
 import { useModalBehavior } from './useModalBehavior'
 
@@ -8,6 +8,46 @@ type ContextAction = {
   label: ReactNode
   onSelect: () => void
   tone?: 'primary' | 'secondary' | 'tertiary' | 'danger'
+}
+
+function getCssDurationMs(variableName: string, fallback: number) {
+  if (typeof window === 'undefined') return fallback
+
+  const value = Number.parseFloat(
+    getComputedStyle(document.documentElement).getPropertyValue(variableName)
+  )
+
+  return Number.isFinite(value) ? value : fallback
+}
+
+function useTransitionPresence(open: boolean) {
+  const [present, setPresent] = useState(open)
+  const [stateClass, setStateClass] = useState(open ? 'is-open' : '')
+
+  useEffect(() => {
+    if (open) {
+      setPresent(true)
+      requestAnimationFrame(() => {
+        setStateClass('is-open')
+      })
+      return
+    }
+
+    if (!present) {
+      setStateClass('')
+      return
+    }
+
+    setStateClass('is-closing')
+    const timeout = window.setTimeout(() => {
+      setStateClass('')
+      setPresent(false)
+    }, getCssDurationMs('--modal-close-dur', 150))
+
+    return () => window.clearTimeout(timeout)
+  }, [open, present])
+
+  return { present, stateClass }
 }
 
 export function ContextActionSheet({
@@ -43,10 +83,11 @@ export function ContextActionSheet({
       : initialFocus === 'first-action'
         ? firstActionRef
         : undefined
+  const { present, stateClass } = useTransitionPresence(open)
 
   useModalBehavior(open, onClose, dialogRef, initialFocusRef)
 
-  if (!open) return null
+  if (!present) return null
 
   const sheet = (
     <div
@@ -55,7 +96,9 @@ export function ContextActionSheet({
       aria-label={ariaLabel}
       aria-modal="true"
       role="dialog"
-      className="motion-sheet-backdrop ios-modal-scroll fixed inset-0 z-[60] flex items-end overflow-y-auto overscroll-contain bg-black/65 px-4 pb-[calc(1rem+env(safe-area-inset-bottom))] pt-[calc(5rem+env(safe-area-inset-top))] backdrop-blur-md outline-none"
+      className={`motion-surface motion-sheet-backdrop ios-modal-scroll fixed inset-0 z-[60] flex items-end overflow-y-auto overscroll-contain bg-black/65 px-4 pb-[calc(1rem+env(safe-area-inset-bottom))] pt-[calc(5rem+env(safe-area-inset-top))] backdrop-blur-md outline-none ${
+        open ? 'opacity-100' : 'opacity-0'
+      }`}
     >
       <button
         aria-label={`Close ${ariaLabel}`}
@@ -63,7 +106,9 @@ export function ContextActionSheet({
         onClick={onClose}
       />
 
-      <div className="surface-card-glass motion-sheet-card relative z-10 max-h-full w-full overflow-hidden rounded-[18px] border border-[var(--surface-border)]">
+      <div
+        className={`surface-card-glass t-modal ${stateClass} relative z-10 max-h-full w-full overflow-hidden rounded-[18px] border border-[var(--surface-border)]`}
+      >
         <div
           aria-hidden="true"
           className="mx-auto mt-3 h-1 w-10 rounded-full bg-white/22"
@@ -131,10 +176,10 @@ export function ContextActionSheet({
                   className={`motion-press min-h-12 rounded-[14px] px-4 py-3 text-sm font-semibold ${
                     action.tone === 'primary'
                       ? 'bg-[var(--color-primary)] text-white hover:bg-[#1d78c8]'
-                      : action.tone === 'tertiary'
+                    : action.tone === 'tertiary'
                       ? 'bg-transparent text-[#6fb2ed] hover:bg-[rgba(23,107,181,0.1)] hover:text-white'
-                      : action.tone === 'danger'
-                      ? 'bg-transparent text-[#ff9a9a] hover:bg-[rgba(160,24,24,0.14)]'
+                    : action.tone === 'danger'
+                      ? 'border border-[rgba(160,24,24,0.55)] bg-[rgba(160,24,24,0.14)] text-[#ff9a9a] hover:bg-[rgba(160,24,24,0.24)] hover:text-white'
                       : 'border border-[var(--surface-border)] bg-[rgba(26,26,29,0.84)] text-[var(--text-secondary)] hover:bg-[#232327] hover:text-white'
                   }`}
                 >
