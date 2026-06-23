@@ -1,5 +1,12 @@
 # Pokemon TCG Tracker - Project Specification
 
+## Design Contract
+
+* `TOPCUT_DESIGN.md` is the source of truth for visual direction.
+* `ANIMATION_STANDARDS.md` is the source of truth for motion behavior.
+* Any UI task should check both files before changing component styling, spacing, transitions, or layout behavior.
+* Existing component primitives should be reused before creating new visual patterns.
+
 ## Repository
 
 pokemon-tcg-tracker
