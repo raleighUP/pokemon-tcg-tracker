@@ -1,6 +1,7 @@
 import type {
   ButtonHTMLAttributes,
   CSSProperties,
+  ChangeEvent,
   HTMLAttributes,
   InputHTMLAttributes,
   PointerEvent as ReactPointerEvent,
@@ -14,6 +15,7 @@ import {
   cloneElement,
   forwardRef,
   isValidElement,
+  useId,
   useRef,
   useState,
 } from 'react'
@@ -858,9 +860,76 @@ export const SelectField = forwardRef<
     invalid?: boolean
   }
 >(function SelectField(
-  { className, invalid = false, children, style, ...props },
+  {
+    className,
+    invalid = false,
+    children,
+    style,
+    value,
+    defaultValue,
+    onChange,
+    disabled = false,
+    'aria-label': ariaLabel,
+    id,
+    ...props
+  },
   ref
 ) {
+  const generatedId = useId()
+  const selectId = id ?? generatedId
+  const nativeSelectRef = useRef<HTMLSelectElement | null>(null)
+  const [open, setOpen] = useState(false)
+  const [internalValue, setInternalValue] = useState(
+    defaultValue === undefined ? '' : String(defaultValue)
+  )
+  const selectedValue = value === undefined ? internalValue : String(value)
+
+  const optionItems = Children.toArray(children)
+    .filter(isValidElement)
+    .filter((child): child is ReactElement<{
+      value?: string
+      disabled?: boolean
+      children?: ReactNode
+    }> => child.type === 'option')
+    .map((option, index) => ({
+      key: `${index}-${String(option.props.value ?? '')}`,
+      value: option.props.value ?? '',
+      disabled: Boolean(option.props.disabled || option.props.value === ''),
+      label: option.props.children,
+    }))
+
+  const selectedOption =
+    optionItems.find((option) => String(option.value) === selectedValue) ??
+    optionItems[0]
+
+  const setRefs = (node: HTMLSelectElement | null) => {
+    nativeSelectRef.current = node
+
+    if (typeof ref === 'function') {
+      ref(node)
+    } else if (ref) {
+      ref.current = node
+    }
+  }
+
+  const selectOption = (nextValue: string) => {
+    if (disabled) return
+
+    setInternalValue(nextValue)
+
+    const nativeSelect = nativeSelectRef.current
+    if (nativeSelect) {
+      nativeSelect.value = nextValue
+    }
+
+    onChange?.({
+      target: nativeSelect ?? ({ value: nextValue } as HTMLSelectElement),
+      currentTarget: nativeSelect ?? ({ value: nextValue } as HTMLSelectElement),
+    } as ChangeEvent<HTMLSelectElement>)
+
+    setOpen(false)
+  }
+
   const normalizedChildren = Children.map(children, (child) => {
     if (!isValidElement(child)) return child
 
@@ -879,27 +948,115 @@ export const SelectField = forwardRef<
   })
 
   return (
-    <select
-      ref={ref}
-      style={{
-        backgroundImage:
-          'linear-gradient(45deg, transparent 50%, currentColor 50%), linear-gradient(135deg, currentColor 50%, transparent 50%)',
-        backgroundPosition:
-          'calc(100% - 1.18rem) 52%, calc(100% - 0.88rem) 52%',
-        backgroundSize: '0.32rem 0.32rem, 0.32rem 0.32rem',
-        backgroundRepeat: 'no-repeat',
-        ...style,
-      }}
-      className={cn(
-        fieldBaseClass,
-        'appearance-none pr-10',
-        invalid && fieldErrorClass,
-        className
-      )}
-      {...props}
-    >
-      {normalizedChildren}
-    </select>
+    <>
+      <select
+        ref={setRefs}
+        id={selectId}
+        value={value}
+        defaultValue={value === undefined ? defaultValue : undefined}
+        onChange={(event) => {
+          setInternalValue(event.target.value)
+          onChange?.(event)
+        }}
+        disabled={disabled}
+        aria-hidden="true"
+        tabIndex={-1}
+        className="sr-only"
+        {...props}
+      >
+        {normalizedChildren}
+      </select>
+
+      <button
+        type="button"
+        aria-label={ariaLabel}
+        aria-haspopup="listbox"
+        aria-expanded={open}
+        aria-controls={`${selectId}-picker`}
+        disabled={disabled}
+        onClick={() => setOpen(true)}
+        style={style}
+        className={cn(
+          fieldBaseClass,
+          'flex items-center justify-between gap-3 pr-4 text-left',
+          invalid && fieldErrorClass,
+          selectedValue === '' && 'text-[var(--text-muted)]',
+          className
+        )}
+      >
+        <span className="min-w-0 flex-1 truncate">
+          {selectedOption?.label ?? 'Select'}
+        </span>
+        <span
+          aria-hidden="true"
+          className="grid h-7 w-7 shrink-0 place-items-center rounded-full border border-white/10 bg-black/20 text-[var(--text-secondary)]"
+        >
+          <span className="h-2 w-2 translate-y-[-1px] rotate-45 border-b-2 border-r-2 border-current" />
+        </span>
+      </button>
+
+      <Sheet
+        open={open}
+        onClose={() => setOpen(false)}
+        ariaLabel={ariaLabel ? `${ariaLabel} picker` : 'selection picker'}
+        contentClassName="overflow-hidden"
+      >
+        <div className="px-4 pb-4">
+          <div className="mb-3 flex items-start justify-between gap-3">
+            <div className="min-w-0">
+              <h3 className="type-section-title text-[var(--text-primary)]">
+                {ariaLabel ?? 'Select option'}
+              </h3>
+            </div>
+            <button
+              type="button"
+              onClick={() => setOpen(false)}
+              className="motion-press min-h-9 shrink-0 rounded-[14px] bg-transparent px-2 text-sm font-semibold text-[#6fb2ed] hover:bg-[rgba(23,107,181,0.1)] hover:text-white"
+            >
+              Done
+            </button>
+          </div>
+
+          <div
+            id={`${selectId}-picker`}
+            role="listbox"
+            aria-label={ariaLabel}
+            className="ios-modal-scroll max-h-[min(54dvh,28rem)] space-y-2 overflow-y-auto overscroll-contain pr-1"
+          >
+            {optionItems.map((option) => {
+              const isSelected = String(option.value) === selectedValue
+
+              return (
+                <button
+                  key={option.key}
+                  type="button"
+                  role="option"
+                  aria-selected={isSelected}
+                  disabled={option.disabled}
+                  onClick={() => selectOption(String(option.value))}
+                  className={cn(
+                    'motion-press flex min-h-12 w-full items-center justify-between gap-3 rounded-[14px] border px-4 py-3 text-left text-sm font-semibold',
+                    isSelected
+                      ? 'border-[rgba(23,107,181,0.62)] bg-[rgba(23,107,181,0.2)] text-white shadow-[inset_0_1px_0_rgba(255,255,255,0.07)]'
+                      : 'border-white/8 bg-white/[0.035] text-[var(--text-secondary)] hover:border-white/14 hover:bg-white/[0.07] hover:text-white',
+                    option.disabled &&
+                      'cursor-not-allowed opacity-45 hover:border-white/8 hover:bg-white/[0.035] hover:text-[var(--text-secondary)]'
+                  )}
+                >
+                  <span className="min-w-0 truncate">{option.label}</span>
+                  {isSelected && (
+                    <span
+                      aria-hidden="true"
+                      className="h-2.5 w-2.5 shrink-0 rounded-full bg-[#6fb2ed] shadow-[0_0_16px_rgba(111,178,237,0.48)]"
+                    />
+                  )}
+                </button>
+              )
+            })}
+          </div>
+        </div>
+      </Sheet>
+    </>
   )
 })
 
