@@ -7,6 +7,7 @@ import SavedDecks from '@/components/SavedDecks'
 import CompareDecks from '@/components/CompareDecks'
 import MatchHistory from '@/components/MatchHistory'
 import DeckAdvisor from '@/components/DeckAdvisor'
+import FirstLaunchWelcome from '@/components/FirstLaunchWelcome'
 import IntroSplash from '@/components/IntroSplash'
 import SettingsPage from '@/components/SettingsPage'
 import BottomNavigation, {
@@ -16,7 +17,15 @@ import { AppShell } from '@/components/ui'
 import { normalizeComfort } from '@/utils/comfort'
 import { detectDeckArchetype } from '@/utils/archetypes'
 import {
+  bucketCount,
+  trackEvent,
+  type AnalyticsTab,
+} from '@/utils/analytics'
+import {
   readAppStorage,
+  safeGetStorageValue,
+  safeSetStorageValue,
+  STORAGE_KEYS,
   writeDecks,
   writeEvents,
   writeMatches,
@@ -27,6 +36,7 @@ import { Deck, EventRecord, Match, CardEntry } from '@/types'
 export default function Home() {
 const [activeTab, setActiveTab] = useState<AppTab>('decks')
   const [storageReady, setStorageReady] = useState(false)
+  const [showFirstLaunchHint, setShowFirstLaunchHint] = useState(false)
   const [deckName, setDeckName] = useState('')
   const [decklist, setDecklist] = useState('')
   const [deckComfort, setDeckComfort] = useState(3)
@@ -121,6 +131,11 @@ useEffect(() => {
     setDecks(storedData.decks)
     setMatches(storedData.matches)
     setEvents(storedData.events)
+    setShowFirstLaunchHint(
+      storedData.decks.length === 0 &&
+        storedData.matches.length === 0 &&
+        safeGetStorageValue(STORAGE_KEYS.firstLaunchDismissed) === null
+    )
     setStorageReady(true)
   }, 0)
 
@@ -179,11 +194,24 @@ useEffect(() => {
     setDecks(updatedDecks)
 
     setSelectedDeck(newDeck)
+
+    trackEvent('deck_created', {
+      comfort_rating: deckComfort,
+      archetype_detected:
+        Boolean(detectedDeck.archetype) &&
+        detectedDeck.archetype !== 'Other',
+      saved_deck_count_bucket: bucketCount(updatedDecks.length),
+    })
   }
 
   setDeckName('')
   setDecklist('')
   setDeckComfort(3)
+  setShowFirstLaunchHint(false)
+  safeSetStorageValue(
+    STORAGE_KEYS.firstLaunchDismissed,
+    new Date().toISOString()
+  )
 }
 const editDeck = (deck: Deck) => {
   setDeckName(deck.name)
@@ -238,6 +266,25 @@ const editMatch = (updatedMatch: Match) => {
 
 const addMatch = (match: Match) => {
   setMatches([...matches, match])
+
+  const [wins, losses] = match.finalResult
+    .split('-')
+    .map((value) => Number(value))
+  const result =
+    Number.isFinite(wins) && Number.isFinite(losses)
+      ? wins > losses
+        ? 'win'
+        : losses > wins
+          ? 'loss'
+          : 'tie'
+      : 'unknown'
+
+  trackEvent('match_logged', {
+    match_type: match.matchType,
+    result,
+    round_number_bucket: bucketCount(match.round),
+    has_notes: Boolean(match.notes?.trim()),
+  })
 }
 
 const addEvent = (event: EventRecord) => {
@@ -306,10 +353,45 @@ const editEvent = (
     setEditingEvent(null)
     setCompareDeck1('')
     setCompareDeck2('')
+    setShowFirstLaunchHint(
+      storedData.decks.length === 0 &&
+        storedData.matches.length === 0 &&
+        safeGetStorageValue(STORAGE_KEYS.firstLaunchDismissed) === null
+    )
+  }
+
+  const dismissFirstLaunchHint = () => {
+    setShowFirstLaunchHint(false)
+    safeSetStorageValue(
+      STORAGE_KEYS.firstLaunchDismissed,
+      new Date().toISOString()
+    )
+  }
+
+  const startFirstDeck = () => {
+    dismissFirstLaunchHint()
+    focusDeckForm()
+  }
+
+  const changeTab = (nextTab: AppTab) => {
+    if (nextTab === activeTab) return
+
+    trackEvent('tab_changed', {
+      from_tab: activeTab as AnalyticsTab,
+      to_tab: nextTab as AnalyticsTab,
+    })
+
+    if (nextTab === 'advisor') {
+      trackEvent('advisor_opened', {
+        has_saved_decks: decks.length > 0,
+      })
+    }
+
+    setActiveTab(nextTab)
   }
 
   const focusDeckForm = () => {
-    setActiveTab('decks')
+    changeTab('decks')
 
     window.setTimeout(() => {
       if (typeof window === 'undefined') return
@@ -330,7 +412,7 @@ const editEvent = (
   const bottomNavigation = (
     <BottomNavigation
       activeTab={activeTab}
-      setActiveTab={setActiveTab}
+      setActiveTab={changeTab}
     />
   )
 
@@ -338,6 +420,13 @@ const editEvent = (
     <>
       {tab === 'decks' && (
         <div className="space-y-5">
+          {showFirstLaunchHint && (
+            <FirstLaunchWelcome
+              onCreateDeck={startFirstDeck}
+              onDismiss={dismissFirstLaunchHint}
+            />
+          )}
+
           <AddDeckForm
             deckName={deckName}
             setDeckName={setDeckName}

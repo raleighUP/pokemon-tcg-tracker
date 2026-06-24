@@ -21,6 +21,7 @@ import {
   SUPPORT_EMAIL,
   SUPPORT_PATH,
 } from '@/constants/app-info'
+import { bucketCount, trackEvent } from '@/utils/analytics'
 
 type Feedback = {
   tone: 'success' | 'error'
@@ -66,6 +67,24 @@ export default function SettingsPage({
       tone: 'success',
       message: 'Your Top Cut data export is ready.',
     })
+
+    trackEvent('export_completed', {
+      deck_count_bucket: bucketCount(
+        Array.isArray(exportData.data.decks.data)
+          ? exportData.data.decks.data.length
+          : 0
+      ),
+      match_count_bucket: bucketCount(
+        Array.isArray(exportData.data.matches.data)
+          ? exportData.data.matches.data.length
+          : 0
+      ),
+      event_count_bucket: bucketCount(
+        Array.isArray(exportData.data.events.data)
+          ? exportData.data.events.data.length
+          : 0
+      ),
+    })
   }
 
   const selectImportFile = async (event: ChangeEvent<HTMLInputElement>) => {
@@ -105,6 +124,13 @@ export default function SettingsPage({
     setFeedback({
       tone: 'success',
       message: 'Your Top Cut data was imported successfully.',
+    })
+
+    trackEvent('import_completed', {
+      source: 'json_backup',
+      deck_count_bucket: bucketCount(pendingImport.decks.length),
+      match_count_bucket: bucketCount(pendingImport.matches.length),
+      event_count_bucket: bucketCount(pendingImport.events.length),
     })
   }
 

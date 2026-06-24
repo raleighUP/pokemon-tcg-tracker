@@ -412,11 +412,6 @@ export default function DeckAdvisor({ decks }: Props) {
     [decks]
   )
 
-  const candidateDeckCount =
-    candidateSource === 'all'
-      ? topMetaCandidates.length
-      : ownedCandidateDecks.length
-
   const advisorCandidateDecks = useMemo(
     () =>
       candidateSource === 'all'

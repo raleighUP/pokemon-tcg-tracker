@@ -25,26 +25,38 @@ function useTransitionPresence(open: boolean) {
   const [stateClass, setStateClass] = useState(open ? 'is-open' : '')
 
   useEffect(() => {
+    let frame = 0
+    let enterFrame = 0
+    let timeout = 0
+
     if (open) {
-      setPresent(true)
-      requestAnimationFrame(() => {
-        setStateClass('is-open')
+      frame = requestAnimationFrame(() => {
+        setPresent(true)
+        enterFrame = requestAnimationFrame(() => {
+          setStateClass('is-open')
+        })
       })
-      return
+
+      return () => {
+        cancelAnimationFrame(frame)
+        cancelAnimationFrame(enterFrame)
+      }
     }
 
-    if (!present) {
-      setStateClass('')
-      return
+    if (!present) return
+
+    frame = requestAnimationFrame(() => {
+      setStateClass('is-closing')
+      timeout = window.setTimeout(() => {
+        setStateClass('')
+        setPresent(false)
+      }, getCssDurationMs('--modal-close-dur', 150))
+    })
+
+    return () => {
+      cancelAnimationFrame(frame)
+      window.clearTimeout(timeout)
     }
-
-    setStateClass('is-closing')
-    const timeout = window.setTimeout(() => {
-      setStateClass('')
-      setPresent(false)
-    }, getCssDurationMs('--modal-close-dur', 150))
-
-    return () => window.clearTimeout(timeout)
   }, [open, present])
 
   return { present, stateClass }

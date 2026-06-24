@@ -15,6 +15,7 @@ export const STORAGE_KEYS = {
   events: 'pokemon-events',
   advisor: 'pokemon-advisor-data',
   introLastShown: 'top-cut-intro-last-shown',
+  firstLaunchDismissed: 'top-cut-first-launch-dismissed',
 } as const
 
 type VersionedValue = {
