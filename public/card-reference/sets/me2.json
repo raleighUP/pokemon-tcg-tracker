@@ -1,0 +1,3902 @@
+[
+  {
+    "id": "me2-63",
+    "englishName": "Absol",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "63",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/63.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-63",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:63:english:me2-63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-63",
+      "setId": "me2",
+      "collectorNumber": "63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-78",
+    "englishName": "Aipom",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "78",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/78.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-78",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:78:english:me2-78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-78",
+      "setId": "me2",
+      "collectorNumber": "78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-44",
+    "englishName": "Alcremie",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "44",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/44.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-44",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:44:english:me2-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-44",
+      "setId": "me2",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-107",
+    "englishName": "Ambipom",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "107",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/107.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/107_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-107",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:107:english:me2-107",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-107",
+      "setId": "me2",
+      "collectorNumber": "107",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-107",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-79",
+    "englishName": "Ambipom",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "79",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/79.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/79_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-79",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:79:english:me2-79",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-79",
+      "setId": "me2",
+      "collectorNumber": "79",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-79",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-75",
+    "englishName": "Archaludon",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "75",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/75.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-75",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:75:english:me2-75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-75",
+      "setId": "me2",
+      "collectorNumber": "75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-116",
+    "englishName": "Battle Cage",
+    "category": "Trainer",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "116",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/116.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/116_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-116",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:116:english:me2-116",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-116",
+      "setId": "me2",
+      "collectorNumber": "116",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-116",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-85",
+    "englishName": "Battle Cage",
+    "category": "Trainer",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "85",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/85.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/85_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-85",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:85:english:me2-85",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-85",
+      "setId": "me2",
+      "collectorNumber": "85",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-85",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-117",
+    "englishName": "Blowtorch",
+    "category": "Trainer",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "117",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/117.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/117_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-117",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:117:english:me2-117",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-117",
+      "setId": "me2",
+      "collectorNumber": "117",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-117",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-86",
+    "englishName": "Blowtorch",
+    "category": "Trainer",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "86",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/86.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/86_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-86",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:86:english:me2-86",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-86",
+      "setId": "me2",
+      "collectorNumber": "86",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-86",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-31",
+    "englishName": "Boltund",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "31",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/31.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-31",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:31:english:me2-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-31",
+      "setId": "me2",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-47",
+    "englishName": "Brambleghast",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "47",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/47.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-47",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:47:english:me2-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-47",
+      "setId": "me2",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-46",
+    "englishName": "Bramblin",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "46",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/46.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-46",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:46:english:me2-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-46",
+      "setId": "me2",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-72",
+    "englishName": "Bronzong",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "72",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/72.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-72",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:72:english:me2-72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-72",
+      "setId": "me2",
+      "collectorNumber": "72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-71",
+    "englishName": "Bronzor",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "71",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/71.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-71",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:71:english:me2-71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-71",
+      "setId": "me2",
+      "collectorNumber": "71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-83",
+    "englishName": "Buneary",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "83",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/83.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/83_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-83",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:83:english:me2-83",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-83",
+      "setId": "me2",
+      "collectorNumber": "83",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-83",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-60",
+    "englishName": "Carvanha",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "60",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/60.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-60",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:60:english:me2-60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-60",
+      "setId": "me2",
+      "collectorNumber": "60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-20",
+    "englishName": "Ceruledge",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "20",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/20.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-20",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:20:english:me2-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-20",
+      "setId": "me2",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-19",
+    "englishName": "Charcadet",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "19",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/19.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-19",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:19:english:me2-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-19",
+      "setId": "me2",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-11",
+    "englishName": "Charmander",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "11",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/11.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-11",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:11:english:me2-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-11",
+      "setId": "me2",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-12",
+    "englishName": "Charmeleon",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "12",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/12.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-12",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:12:english:me2-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-12",
+      "setId": "me2",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-39",
+    "englishName": "Cresselia",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "39",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/39.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-39",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:39:english:me2-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-39",
+      "setId": "me2",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-16",
+    "englishName": "Darmanitan",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "16",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/16.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-16",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:16:english:me2-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-16",
+      "setId": "me2",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-15",
+    "englishName": "Darumaka",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "15",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/15.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-15",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:15:english:me2-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-15",
+      "setId": "me2",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-118",
+    "englishName": "Dawn",
+    "category": "Trainer",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "118",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/118.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/118_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-118",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:118:english:me2-118",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-118",
+      "setId": "me2",
+      "collectorNumber": "118",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-118",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-129",
+    "englishName": "Dawn",
+    "category": "Trainer",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "129",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/129.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/129_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-129",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:129:english:me2-129",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-129",
+      "setId": "me2",
+      "collectorNumber": "129",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-129",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-87",
+    "englishName": "Dawn",
+    "category": "Trainer",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "87",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/87.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/87_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-87",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:87:english:me2-87",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-87",
+      "setId": "me2",
+      "collectorNumber": "87",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-87",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-22",
+    "englishName": "Dewgong",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "22",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/22.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-22",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:22:english:me2-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-22",
+      "setId": "me2",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-97",
+    "englishName": "Dewgong",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "97",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/97.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/97_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-97",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:97:english:me2-97",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-97",
+      "setId": "me2",
+      "collectorNumber": "97",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-97",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-88",
+    "englishName": "Dizzying Valley",
+    "category": "Trainer",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "88",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/88.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/88_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-88",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:88:english:me2-88",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-88",
+      "setId": "me2",
+      "collectorNumber": "88",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-88",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-74",
+    "englishName": "Duraludon",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "74",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/74.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-74",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:74:english:me2-74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-74",
+      "setId": "me2",
+      "collectorNumber": "74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-114",
+    "englishName": "Empoleon ex",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "114",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/114.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/114_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-114",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:114:english:me2-114",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-114",
+      "setId": "me2",
+      "collectorNumber": "114",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-114",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-70",
+    "englishName": "Empoleon ex",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "70",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/70.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-70",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:70:english:me2-70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-70",
+      "setId": "me2",
+      "collectorNumber": "70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-69",
+    "englishName": "Eternatus",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "69",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/69.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-69",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:69:english:me2-69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-69",
+      "setId": "me2",
+      "collectorNumber": "69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-119",
+    "englishName": "Firebreather",
+    "category": "Trainer",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "119",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/119.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/119_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-119",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:119:english:me2-119",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-119",
+      "setId": "me2",
+      "collectorNumber": "119",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-119",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-89",
+    "englishName": "Firebreather",
+    "category": "Trainer",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "89",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/89.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/89_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-89",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:89:english:me2-89",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-89",
+      "setId": "me2",
+      "collectorNumber": "89",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-89",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-101",
+    "englishName": "Flygon",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "101",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/101.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/101_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-101",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:101:english:me2-101",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-101",
+      "setId": "me2",
+      "collectorNumber": "101",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-101",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-53",
+    "englishName": "Flygon",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "53",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/53.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-53",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:53:english:me2-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-53",
+      "setId": "me2",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-54",
+    "englishName": "Gastly",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "54",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/54.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-54",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:54:english:me2-54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-54",
+      "setId": "me2",
+      "collectorNumber": "54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-8",
+    "englishName": "Genesect",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "8",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/8.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-8",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:8:english:me2-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-8",
+      "setId": "me2",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-49",
+    "englishName": "Gligar",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "49",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/49.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-49",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:49:english:me2-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-49",
+      "setId": "me2",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-50",
+    "englishName": "Gliscor",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "50",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/50.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-50",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:50:english:me2-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-50",
+      "setId": "me2",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-2",
+    "englishName": "Gloom",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "2",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/2.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-2",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:2:english:me2-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-2",
+      "setId": "me2",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-38",
+    "englishName": "Granbull",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "38",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/38.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-38",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:38:english:me2-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-38",
+      "setId": "me2",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-120",
+    "englishName": "Grimsley's Move",
+    "category": "Trainer",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "120",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/120.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/120_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-120",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:120:english:me2-120",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-120",
+      "setId": "me2",
+      "collectorNumber": "120",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-120",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-90",
+    "englishName": "Grimsley's Move",
+    "category": "Trainer",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "90",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/90.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/90_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-90",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:90:english:me2-90",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-90",
+      "setId": "me2",
+      "collectorNumber": "90",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-90",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-55",
+    "englishName": "Haunter",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "55",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/55.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-55",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:55:english:me2-55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-55",
+      "setId": "me2",
+      "collectorNumber": "55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-58",
+    "englishName": "Honchkrow",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "58",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/58.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-58",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:58:english:me2-58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-58",
+      "setId": "me2",
+      "collectorNumber": "58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-124",
+    "englishName": "Ignition Energy",
+    "category": "Energy",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "124",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/124.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/124_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-124",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:124:english:me2-124",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-124",
+      "setId": "me2",
+      "collectorNumber": "124",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-124",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-76",
+    "englishName": "Jigglypuff",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "76",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/76.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-76",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:76:english:me2-76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-76",
+      "setId": "me2",
+      "collectorNumber": "76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-91",
+    "englishName": "Jumbo Ice Cream",
+    "category": "Trainer",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "91",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/91.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/91_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-91",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:91:english:me2-91",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-91",
+      "setId": "me2",
+      "collectorNumber": "91",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-91",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-65",
+    "englishName": "Krokorok",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "65",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/65.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-65",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:65:english:me2-65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-65",
+      "setId": "me2",
+      "collectorNumber": "65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-66",
+    "englishName": "Krookodile",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "66",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/66.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-66",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:66:english:me2-66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-66",
+      "setId": "me2",
+      "collectorNumber": "66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-82",
+    "englishName": "Linoone",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "82",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/82.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/82_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-82",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:82:english:me2-82",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-82",
+      "setId": "me2",
+      "collectorNumber": "82",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-82",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-10",
+    "englishName": "Lokix",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "10",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/10.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-10",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:10:english:me2-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-10",
+      "setId": "me2",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-6",
+    "englishName": "Lombre",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "6",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/6.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-6",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:6:english:me2-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-6",
+      "setId": "me2",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-5",
+    "englishName": "Lotad",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "5",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/5.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-5",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:5:english:me2-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-5",
+      "setId": "me2",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-7",
+    "englishName": "Ludicolo",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "7",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/7.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-7",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:7:english:me2-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-7",
+      "setId": "me2",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-95",
+    "englishName": "Ludicolo",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "95",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/95.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/95_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-95",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:95:english:me2-95",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-95",
+      "setId": "me2",
+      "collectorNumber": "95",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-95",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-25",
+    "englishName": "Mamoswine",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "25",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/25.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-25",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:25:english:me2-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-25",
+      "setId": "me2",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-109",
+    "englishName": "Mega Charizard X ex",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "109",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/109.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/109_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-109",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:109:english:me2-109",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-109",
+      "setId": "me2",
+      "collectorNumber": "109",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-109",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-125",
+    "englishName": "Mega Charizard X ex",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "125",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/125.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/125_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-125",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:125:english:me2-125",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-125",
+      "setId": "me2",
+      "collectorNumber": "125",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-125",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-13",
+    "englishName": "Mega Charizard X ex",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "13",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/13.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-13",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:13:english:me2-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-13",
+      "setId": "me2",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-130",
+    "englishName": "Mega Charizard X ex",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "130",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/130.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/130_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-130",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:130:english:me2-130",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-130",
+      "setId": "me2",
+      "collectorNumber": "130",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-130",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-41",
+    "englishName": "Mega Diancie ex",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "41",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/41.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-41",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:41:english:me2-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-41",
+      "setId": "me2",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-56",
+    "englishName": "Mega Gengar ex",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "56",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/56.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-56",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:56:english:me2-56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-56",
+      "setId": "me2",
+      "collectorNumber": "56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-108",
+    "englishName": "Mega Heracross ex",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "108",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/108.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/108_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-108",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:108:english:me2-108",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-108",
+      "setId": "me2",
+      "collectorNumber": "108",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-108",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-4",
+    "englishName": "Mega Heracross ex",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "4",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/4.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-4",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:4:english:me2-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-4",
+      "setId": "me2",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-115",
+    "englishName": "Mega Lopunny ex",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "115",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/115.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/115_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-115",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:115:english:me2-115",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-115",
+      "setId": "me2",
+      "collectorNumber": "115",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-115",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-128",
+    "englishName": "Mega Lopunny ex",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "128",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/128.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/128_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-128",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:128:english:me2-128",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-128",
+      "setId": "me2",
+      "collectorNumber": "128",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-128",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-84",
+    "englishName": "Mega Lopunny ex",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "84",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/84.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/84_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-84",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:84:english:me2-84",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-84",
+      "setId": "me2",
+      "collectorNumber": "84",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-84",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-113",
+    "englishName": "Mega Sharpedo ex",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "113",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/113.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/113_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-113",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:113:english:me2-113",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-113",
+      "setId": "me2",
+      "collectorNumber": "113",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-113",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-127",
+    "englishName": "Mega Sharpedo ex",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "127",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/127.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/127_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-127",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:127:english:me2-127",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-127",
+      "setId": "me2",
+      "collectorNumber": "127",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-127",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-61",
+    "englishName": "Mega Sharpedo ex",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "61",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/61.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-61",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:61:english:me2-61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-61",
+      "setId": "me2",
+      "collectorNumber": "61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-40",
+    "englishName": "Meloetta",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "40",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/40.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-40",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:40:english:me2-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-40",
+      "setId": "me2",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-106",
+    "englishName": "Meowth",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "106",
+    "regulationMark": "H",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/106.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/106_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-106",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:106:english:me2-106",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-106",
+      "setId": "me2",
+      "collectorNumber": "106",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-106",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-43",
+    "englishName": "Milcery",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "43",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/43.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-43",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:43:english:me2-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-43",
+      "setId": "me2",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-42",
+    "englishName": "Mimikyu",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "42",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/42.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-42",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:42:english:me2-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-42",
+      "setId": "me2",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-35",
+    "englishName": "Misdreavus",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "35",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/35.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-35",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:35:english:me2-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-35",
+      "setId": "me2",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-112",
+    "englishName": "Mismagius ex",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "112",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/112.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/112_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-112",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:112:english:me2-112",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-112",
+      "setId": "me2",
+      "collectorNumber": "112",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-112",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-36",
+    "englishName": "Mismagius ex",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "36",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/36.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-36",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:36:english:me2-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-36",
+      "setId": "me2",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-14",
+    "englishName": "Moltres",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "14",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/14.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-14",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:14:english:me2-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-14",
+      "setId": "me2",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-57",
+    "englishName": "Murkrow",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "57",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/57.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-57",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:57:english:me2-57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-57",
+      "setId": "me2",
+      "collectorNumber": "57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-9",
+    "englishName": "Nymble",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "9",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/9.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-9",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:9:english:me2-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-9",
+      "setId": "me2",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-96",
+    "englishName": "Nymble",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "96",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/96.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/96_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-96",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:96:english:me2-96",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-96",
+      "setId": "me2",
+      "collectorNumber": "96",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-96",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-1",
+    "englishName": "Oddish",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "1",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/1.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-1",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:1:english:me2-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-1",
+      "setId": "me2",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-110",
+    "englishName": "Oricorio ex",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "110",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/110.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/110_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-110",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:110:english:me2-110",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-110",
+      "setId": "me2",
+      "collectorNumber": "110",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-110",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-18",
+    "englishName": "Oricorio ex",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "18",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/18.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-18",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:18:english:me2-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-18",
+      "setId": "me2",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-48",
+    "englishName": "Paldean Tauros",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "48",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/48.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-48",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:48:english:me2-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-48",
+      "setId": "me2",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-102",
+    "englishName": "Paldean Wooper",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "102",
+    "regulationMark": "H",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/102.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/102_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-102",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:102:english:me2-102",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-102",
+      "setId": "me2",
+      "collectorNumber": "102",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-102",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-32",
+    "englishName": "Pawmi",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "32",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/32.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-32",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:32:english:me2-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-32",
+      "setId": "me2",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-33",
+    "englishName": "Pawmo",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "33",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/33.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-33",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:33:english:me2-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-33",
+      "setId": "me2",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-34",
+    "englishName": "Pawmot",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "34",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/34.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-34",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:34:english:me2-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-34",
+      "setId": "me2",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-24",
+    "englishName": "Piloswine",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "24",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/24.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-24",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:24:english:me2-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-24",
+      "setId": "me2",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-27",
+    "englishName": "Piplup",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "27",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/27.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-27",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:27:english:me2-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-27",
+      "setId": "me2",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-98",
+    "englishName": "Piplup",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "98",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/98.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/98_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-98",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:98:english:me2-98",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-98",
+      "setId": "me2",
+      "collectorNumber": "98",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-98",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-28",
+    "englishName": "Prinplup",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "28",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/28.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-28",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:28:english:me2-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-28",
+      "setId": "me2",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-121",
+    "englishName": "Punk Helmet",
+    "category": "Trainer",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "121",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/121.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/121_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-121",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:121:english:me2-121",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-121",
+      "setId": "me2",
+      "collectorNumber": "121",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-121",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-92",
+    "englishName": "Punk Helmet",
+    "category": "Trainer",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "92",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/92.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/92_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-92",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:92:english:me2-92",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-92",
+      "setId": "me2",
+      "collectorNumber": "92",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-92",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-17",
+    "englishName": "Reshiram",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "17",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/17.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-17",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:17:english:me2-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-17",
+      "setId": "me2",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-111",
+    "englishName": "Rotom ex",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "111",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/111.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/111_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-111",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:111:english:me2-111",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-111",
+      "setId": "me2",
+      "collectorNumber": "111",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-111",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-126",
+    "englishName": "Rotom ex",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "126",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/126.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/126_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-126",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:126:english:me2-126",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-126",
+      "setId": "me2",
+      "collectorNumber": "126",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-126",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-29",
+    "englishName": "Rotom ex",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "29",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/29.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-29",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:29:english:me2-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-29",
+      "setId": "me2",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-59",
+    "englishName": "Sableye",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "59",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/59.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-59",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:59:english:me2-59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-59",
+      "setId": "me2",
+      "collectorNumber": "59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-122",
+    "englishName": "Sacred Charm",
+    "category": "Trainer",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "122",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/122.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/122_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-122",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:122:english:me2-122",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-122",
+      "setId": "me2",
+      "collectorNumber": "122",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-122",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-93",
+    "englishName": "Sacred Charm",
+    "category": "Trainer",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "93",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/93.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/93_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-93",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:93:english:me2-93",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-93",
+      "setId": "me2",
+      "collectorNumber": "93",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-93",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-64",
+    "englishName": "Sandile",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "64",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/64.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-64",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:64:english:me2-64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-64",
+      "setId": "me2",
+      "collectorNumber": "64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-21",
+    "englishName": "Seel",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "21",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/21.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-21",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:21:english:me2-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-21",
+      "setId": "me2",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-62",
+    "englishName": "Seviper",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "62",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/62.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-62",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:62:english:me2-62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-62",
+      "setId": "me2",
+      "collectorNumber": "62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-80",
+    "englishName": "Smeargle",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "80",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/80.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/80_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-80",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:80:english:me2-80",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-80",
+      "setId": "me2",
+      "collectorNumber": "80",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-80",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-37",
+    "englishName": "Snubbull",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "37",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/37.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-37",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:37:english:me2-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-37",
+      "setId": "me2",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-26",
+    "englishName": "Suicune",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "26",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/26.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-26",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:26:english:me2-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-26",
+      "setId": "me2",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-23",
+    "englishName": "Swinub",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "23",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/23.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-23",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:23:english:me2-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-23",
+      "setId": "me2",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-123",
+    "englishName": "Switch",
+    "category": "Trainer",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "123",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/123.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/123_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-123",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:123:english:me2-123",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-123",
+      "setId": "me2",
+      "collectorNumber": "123",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-123",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-104",
+    "englishName": "Togedemaru",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "104",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/104.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/104_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-104",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:104:english:me2-104",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-104",
+      "setId": "me2",
+      "collectorNumber": "104",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-104",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-73",
+    "englishName": "Togedemaru",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "73",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/73.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-73",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:73:english:me2-73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-73",
+      "setId": "me2",
+      "collectorNumber": "73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-67",
+    "englishName": "Toxel",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "67",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/67.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-67",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:67:english:me2-67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-67",
+      "setId": "me2",
+      "collectorNumber": "67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-103",
+    "englishName": "Toxtricity",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "103",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/103.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/103_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-103",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:103:english:me2-103",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-103",
+      "setId": "me2",
+      "collectorNumber": "103",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-103",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-68",
+    "englishName": "Toxtricity",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "68",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/68.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-68",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:68:english:me2-68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-68",
+      "setId": "me2",
+      "collectorNumber": "68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-51",
+    "englishName": "Trapinch",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "51",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/51.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-51",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:51:english:me2-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-51",
+      "setId": "me2",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-52",
+    "englishName": "Vibrava",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "52",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/52.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-52",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:52:english:me2-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-52",
+      "setId": "me2",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-3",
+    "englishName": "Vileplume",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "3",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/3.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-3",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:3:english:me2-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-3",
+      "setId": "me2",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-105",
+    "englishName": "Wigglytuff",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "105",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/105.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/105_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-105",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:105:english:me2-105",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-105",
+      "setId": "me2",
+      "collectorNumber": "105",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-105",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-77",
+    "englishName": "Wigglytuff",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "77",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/77.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-77",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:77:english:me2-77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-77",
+      "setId": "me2",
+      "collectorNumber": "77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-94",
+    "englishName": "Wondrous Patch",
+    "category": "Trainer",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "94",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/94.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/94_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-94",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:94:english:me2-94",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-94",
+      "setId": "me2",
+      "collectorNumber": "94",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-94",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-30",
+    "englishName": "Yamper",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "30",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/30.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-30",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:30:english:me2-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-30",
+      "setId": "me2",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-99",
+    "englishName": "Yamper",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "99",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/99.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/99_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-99",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:99:english:me2-99",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-99",
+      "setId": "me2",
+      "collectorNumber": "99",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-99",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-100",
+    "englishName": "Zacian",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "100",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/100.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/100_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-100",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:100:english:me2-100",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-100",
+      "setId": "me2",
+      "collectorNumber": "100",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-100",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-45",
+    "englishName": "Zacian",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "45",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/45.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-45",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:45:english:me2-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-45",
+      "setId": "me2",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me2-81",
+    "englishName": "Zigzagoon",
+    "category": "Pokemon",
+    "setCode": "PFL",
+    "setName": "Phantasmal Flames",
+    "cardNumber": "81",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me2/81.png",
+    "imageLarge": "https://images.pokemontcg.io/me2/81_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me2-81",
+    "sourceSetId": "me2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me2:81:english:me2-81",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me2-81",
+      "setId": "me2",
+      "collectorNumber": "81",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me2-81",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

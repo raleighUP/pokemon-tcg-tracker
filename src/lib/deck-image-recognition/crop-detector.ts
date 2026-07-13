@@ -1,0 +1,595 @@
+import type { DeckEntryCandidate } from './types'
+
+const CARD_ASPECT_RATIO = 63 / 88
+const DEFAULT_DIGITAL_ENTRY_COUNT = 24
+
+// EXPERIMENTAL DEBUG ONLY:
+// This module does not perform real card-frame detection. It draws estimated
+// coarse boxes for visual debugging while the proper CV proof of concept is
+// built. Do not use this as production recognition logic.
+
+type Bounds = {
+  x: number
+  y: number
+  width: number
+  height: number
+  rotation?: number
+}
+
+type CoarseEntryCandidate = {
+  id: string
+  bounds: Bounds
+  index: number
+  sourceStrategy: DeckEntryCandidate['sourceStrategy']
+  confidence: number
+  notes?: string[]
+}
+
+type GridPlan = {
+  columns: number
+  rows: number
+  slotWidth: number
+  slotHeight: number
+  gapX: number
+  gapY: number
+  startX: number
+  startY: number
+  score: number
+}
+
+function getImageSize(image: HTMLImageElement | ImageBitmap) {
+  if ('naturalWidth' in image && image.naturalWidth > 0) {
+    return {
+      width: image.naturalWidth,
+      height: image.naturalHeight,
+    }
+  }
+
+  return {
+    width: image.width,
+    height: image.height,
+  }
+}
+
+function clampBounds(bounds: Bounds, imageWidth: number, imageHeight: number) {
+  const x = Math.max(0, Math.min(bounds.x, imageWidth - 1))
+  const y = Math.max(0, Math.min(bounds.y, imageHeight - 1))
+  const width = Math.max(1, Math.min(bounds.width, imageWidth - x))
+  const height = Math.max(1, Math.min(bounds.height, imageHeight - y))
+
+  return {
+    ...bounds,
+    x: Math.round(x),
+    y: Math.round(y),
+    width: Math.round(width),
+    height: Math.round(height),
+  }
+}
+
+function median(values: number[]) {
+  const sorted = [...values].sort((a, b) => a - b)
+
+  return sorted[Math.floor(sorted.length / 2)] ?? 0
+}
+
+function estimateBackgroundColor(rgb: Uint8ClampedArray, width: number, height: number) {
+  const sampleSize = Math.max(24, Math.round(Math.min(width, height) * 0.08))
+  const red: number[] = []
+  const green: number[] = []
+  const blue: number[] = []
+  const samplePixel = (x: number, y: number) => {
+    const index = (y * width + x) * 4
+    red.push(rgb[index] ?? 0)
+    green.push(rgb[index + 1] ?? 0)
+    blue.push(rgb[index + 2] ?? 0)
+  }
+
+  for (let y = 0; y < sampleSize; y += 2) {
+    for (let x = 0; x < sampleSize; x += 2) {
+      samplePixel(x, y)
+      samplePixel(width - 1 - x, y)
+      samplePixel(x, height - 1 - y)
+      samplePixel(width - 1 - x, height - 1 - y)
+    }
+  }
+
+  return {
+    red: median(red),
+    green: median(green),
+    blue: median(blue),
+  }
+}
+
+function dilate(mask: Uint8Array, width: number, height: number, radius: number) {
+  const output = new Uint8Array(mask.length)
+
+  for (let y = 0; y < height; y += 1) {
+    for (let x = 0; x < width; x += 1) {
+      let found = false
+
+      for (let dy = -radius; dy <= radius && !found; dy += 1) {
+        const ny = y + dy
+
+        if (ny < 0 || ny >= height) continue
+
+        for (let dx = -radius; dx <= radius; dx += 1) {
+          const nx = x + dx
+
+          if (nx >= 0 && nx < width && mask[ny * width + nx]) {
+            output[y * width + x] = 1
+            found = true
+            break
+          }
+        }
+      }
+    }
+  }
+
+  return output
+}
+
+function findConnectedComponents(mask: Uint8Array, width: number, height: number) {
+  const visited = new Uint8Array(mask.length)
+  const queue = new Int32Array(mask.length)
+  const components: Array<Bounds & { pixels: number }> = []
+
+  for (let start = 0; start < mask.length; start += 1) {
+    if (!mask[start] || visited[start]) continue
+
+    let head = 0
+    let tail = 0
+    let pixels = 0
+    let minX = width
+    let minY = height
+    let maxX = 0
+    let maxY = 0
+
+    visited[start] = 1
+    queue[tail] = start
+    tail += 1
+
+    while (head < tail) {
+      const current = queue[head]
+      head += 1
+      pixels += 1
+
+      const x = current % width
+      const y = Math.floor(current / width)
+      minX = Math.min(minX, x)
+      minY = Math.min(minY, y)
+      maxX = Math.max(maxX, x)
+      maxY = Math.max(maxY, y)
+
+      const neighbors = [current - 1, current + 1, current - width, current + width]
+
+      for (const neighbor of neighbors) {
+        if (neighbor < 0 || neighbor >= mask.length || visited[neighbor] || !mask[neighbor]) {
+          continue
+        }
+
+        const neighborX = neighbor % width
+
+        if (Math.abs(neighborX - x) > 1) continue
+
+        visited[neighbor] = 1
+        queue[tail] = neighbor
+        tail += 1
+      }
+    }
+
+    components.push({
+      x: minX,
+      y: minY,
+      width: maxX - minX + 1,
+      height: maxY - minY + 1,
+      pixels,
+    })
+  }
+
+  return components
+}
+
+function intersectionOverUnion(a: Bounds, b: Bounds) {
+  const left = Math.max(a.x, b.x)
+  const top = Math.max(a.y, b.y)
+  const right = Math.min(a.x + a.width, b.x + b.width)
+  const bottom = Math.min(a.y + a.height, b.y + b.height)
+  const intersection = Math.max(0, right - left) * Math.max(0, bottom - top)
+
+  if (intersection === 0) return 0
+
+  const areaA = a.width * a.height
+  const areaB = b.width * b.height
+
+  return intersection / (areaA + areaB - intersection)
+}
+
+function createDigitalForegroundMask(rgb: Uint8ClampedArray, width: number, height: number) {
+  const background = estimateBackgroundColor(rgb, width, height)
+  const mask = new Uint8Array(width * height)
+
+  for (let index = 0; index < mask.length; index += 1) {
+    const sourceIndex = index * 4
+    const red = rgb[sourceIndex] ?? 0
+    const green = rgb[sourceIndex + 1] ?? 0
+    const blue = rgb[sourceIndex + 2] ?? 0
+    const brightness = (red + green + blue) / 3
+    const max = Math.max(red, green, blue)
+    const min = Math.min(red, green, blue)
+    const chroma = max - min
+    const distance = Math.hypot(
+      red - background.red,
+      green - background.green,
+      blue - background.blue
+    )
+
+    mask[index] = distance > 28 && (brightness > 34 || chroma > 24) ? 1 : 0
+  }
+
+  return dilate(mask, width, height, 1)
+}
+
+function scoreDigitalTile(
+  component: Bounds & { pixels: number },
+  imageWidth: number,
+  imageHeight: number
+) {
+  const area = component.width * component.height
+  const areaRatio = area / (imageWidth * imageHeight)
+  const aspectRatio = component.width / component.height
+  const aspectDifference = Math.abs(aspectRatio - CARD_ASPECT_RATIO)
+  const aspectScore = Math.max(0, 1 - aspectDifference / 0.28)
+  const density = component.pixels / area
+  const densityScore = Math.min(1, Math.max(0, density / 0.32))
+
+  if (
+    component.width < imageWidth * 0.055 ||
+    component.height < imageHeight * 0.14 ||
+    areaRatio < 0.008 ||
+    areaRatio > 0.08 ||
+    aspectScore <= 0
+  ) {
+    return 0
+  }
+
+  return Number((aspectScore * 0.72 + densityScore * 0.28).toFixed(3))
+}
+
+function refineDigitalTileCandidate(component: Bounds, imageWidth: number, imageHeight: number) {
+  const targetHeightFromWidth = component.width / CARD_ASPECT_RATIO
+  const targetWidthFromHeight = component.height * CARD_ASPECT_RATIO
+  let x = component.x
+  let y = component.y
+  let width = component.width
+  let height = component.height
+
+  if (targetHeightFromWidth > height) {
+    const growth = targetHeightFromWidth - height
+    y -= growth / 2
+    height = targetHeightFromWidth
+  } else if (targetWidthFromHeight > width) {
+    const growth = targetWidthFromHeight - width
+    x -= growth / 2
+    width = targetWidthFromHeight
+  }
+
+  const padding = Math.round(Math.min(width, height) * 0.02)
+
+  return clampBounds(
+    {
+      x: x - padding,
+      y: y - padding,
+      width: width + padding * 2,
+      height: height + padding * 2,
+    },
+    imageWidth,
+    imageHeight
+  )
+}
+
+function mergeDuplicateCandidates<T extends Bounds & { score: number }>(candidates: T[]) {
+  const sorted = [...candidates].sort((a, b) => b.score - a.score)
+  const merged: T[] = []
+
+  for (const candidate of sorted) {
+    const duplicate = merged.some(
+      (existing) => intersectionOverUnion(existing, candidate) > 0.45
+    )
+
+    if (!duplicate) {
+      merged.push(candidate)
+    }
+  }
+
+  return merged.sort((a, b) => a.y - b.y || a.x - b.x)
+}
+
+function buildGridPlan(
+  imageWidth: number,
+  imageHeight: number,
+  columns: number,
+  rows: number
+): GridPlan | null {
+  const safeWidth = imageWidth * 0.94
+  const safeHeight = imageHeight * 0.9
+  const slotWidth = safeWidth / columns
+  const slotHeight = safeHeight / rows
+
+  if (slotWidth <= 0 || slotHeight <= 0) return null
+
+  const usedWidth = slotWidth * columns
+  const usedHeight = slotHeight * rows
+  const gapX = Math.max(0, slotWidth * 0.08)
+  const gapY = Math.max(0, slotHeight * 0.08)
+  const startX = (imageWidth - usedWidth) / 2
+  const startY = (imageHeight - usedHeight) / 2
+  const coverage = (usedWidth * usedHeight) / (imageWidth * imageHeight)
+  const gridShapePenalty = Math.abs(columns / rows - imageWidth / imageHeight)
+  const score = coverage - gridShapePenalty * 0.08
+
+  return {
+    columns,
+    rows,
+    slotWidth: slotWidth - gapX,
+    slotHeight: slotHeight - gapY,
+    gapX,
+    gapY,
+    startX,
+    startY,
+    score,
+  }
+}
+
+function getExperimentalDigitalGridPlan(
+  imageWidth: number,
+  imageHeight: number
+) {
+  const gridShapes = [
+    [6, 4],
+    [4, 6],
+    [5, 5],
+    [8, 3],
+    [3, 8],
+  ] as const
+  const plans = gridShapes
+    .map(([columns, rows]) =>
+      buildGridPlan(imageWidth, imageHeight, columns, rows)
+    )
+    .filter((plan): plan is GridPlan => plan !== null)
+    .sort((a, b) => b.score - a.score)
+
+  return plans[0]
+}
+
+function detectExperimentalDigitalCoarseEntries(
+  imageWidth: number,
+  imageHeight: number
+): CoarseEntryCandidate[] {
+  const plan = getExperimentalDigitalGridPlan(imageWidth, imageHeight)
+
+  if (!plan) return []
+
+  return Array.from({
+    length: Math.min(plan.columns * plan.rows, DEFAULT_DIGITAL_ENTRY_COUNT),
+  }).map((_, index) => {
+    const column = index % plan.columns
+    const row = Math.floor(index / plan.columns)
+    const x = plan.startX + column * (plan.slotWidth + plan.gapX)
+    const y = plan.startY + row * (plan.slotHeight + plan.gapY)
+
+    return {
+      id: `digital-entry-${row + 1}-${column + 1}`,
+      bounds: {
+        x,
+        y,
+        width: plan.slotWidth,
+        height: plan.slotHeight,
+      },
+      index,
+      sourceStrategy: 'digital-grid',
+      confidence: Math.max(0.2, Math.min(0.82, plan.score)),
+      notes: [
+        'Experimental coarse grid estimate only; not actual card-frame detection.',
+      ],
+    }
+  })
+}
+
+function refineRepresentativeCardFrame(
+  coarseBounds: Bounds,
+  imageWidth: number,
+  imageHeight: number
+) {
+  // TODO: Replace this aspect-ratio crop with actual edge/contour frame
+  // refinement from the CV prototype.
+  const slotAspect = coarseBounds.width / coarseBounds.height
+  let width = coarseBounds.width
+  let height = coarseBounds.height
+
+  if (slotAspect > CARD_ASPECT_RATIO) {
+    width = height * CARD_ASPECT_RATIO
+  } else {
+    height = width / CARD_ASPECT_RATIO
+  }
+
+  width *= 0.94
+  height *= 0.94
+
+  return clampBounds(
+    {
+      x: coarseBounds.x + (coarseBounds.width - width) / 2,
+      y: coarseBounds.y + (coarseBounds.height - height) / 2,
+      width,
+      height,
+      rotation: coarseBounds.rotation,
+    },
+    imageWidth,
+    imageHeight
+  )
+}
+
+function estimatePhysicalStackQuantity(stackOffsetPixels: number) {
+  // TODO: Replace this placeholder with stack-offset measurement.
+  if (stackOffsetPixels <= 0) return 1
+
+  return Math.max(1, Math.min(4, Math.round(stackOffsetPixels / 8) + 1))
+}
+
+function finalizeEntryCandidate(
+  coarse: CoarseEntryCandidate,
+  imageWidth: number,
+  imageHeight: number
+): DeckEntryCandidate {
+  const representativeBounds = refineRepresentativeCardFrame(
+    coarse.bounds,
+    imageWidth,
+    imageHeight
+  )
+  const groupBounds = clampBounds(coarse.bounds, imageWidth, imageHeight)
+  const quantity =
+    coarse.sourceStrategy === 'physical-layout'
+      ? estimatePhysicalStackQuantity(
+          Math.max(0, groupBounds.width - representativeBounds.width)
+        )
+      : null
+  const quantityConfidence = coarse.sourceStrategy === 'physical-layout' ? 0.1 : 0
+  const quantitySource = 'unknown'
+
+  return {
+    id: coarse.id,
+    representativeBounds,
+    groupBounds,
+    estimatedQuantity: quantity ?? 1,
+    quantity,
+    quantityConfidence,
+    quantitySource,
+    x: representativeBounds.x,
+    y: representativeBounds.y,
+    width: representativeBounds.width,
+    height: representativeBounds.height,
+    rotation: representativeBounds.rotation,
+    confidence: coarse.confidence,
+    notes: coarse.notes,
+    sourceStrategy: coarse.sourceStrategy,
+  }
+}
+
+function detectDigitalDeckEntries(
+  imageWidth: number,
+  imageHeight: number
+): DeckEntryCandidate[] {
+  return detectExperimentalDigitalCoarseEntries(
+    imageWidth,
+    imageHeight
+  ).map((coarse) => finalizeEntryCandidate(coarse, imageWidth, imageHeight))
+}
+
+function getCanvasImageData(image: HTMLImageElement | ImageBitmap) {
+  if (typeof document === 'undefined') return null
+
+  const { width, height } = getImageSize(image)
+  const canvas = document.createElement('canvas')
+  const context = canvas.getContext('2d', { willReadFrequently: true })
+
+  if (!context || width <= 0 || height <= 0) return null
+
+  canvas.width = width
+  canvas.height = height
+  context.drawImage(image, 0, 0, width, height)
+
+  return context.getImageData(0, 0, width, height)
+}
+
+function detectDigitalDeckEntriesFromPixels(
+  image: HTMLImageElement | ImageBitmap
+): DeckEntryCandidate[] {
+  const imageData = getCanvasImageData(image)
+
+  if (!imageData) return []
+
+  const mask = createDigitalForegroundMask(
+    imageData.data,
+    imageData.width,
+    imageData.height
+  )
+  const components = findConnectedComponents(mask, imageData.width, imageData.height)
+  const scored = components
+    .map((component) => {
+      const refined = refineDigitalTileCandidate(
+        component,
+        imageData.width,
+        imageData.height
+      )
+
+      return {
+        ...refined,
+        score: scoreDigitalTile(component, imageData.width, imageData.height),
+      }
+    })
+    .filter((candidate) => candidate.score >= 0.38)
+  const merged = mergeDuplicateCandidates(scored).slice(0, 90)
+
+  return merged.map((candidate, index) => {
+    const coarse: CoarseEntryCandidate = {
+      id: `digital-entry-${String(index + 1).padStart(3, '0')}`,
+      bounds: candidate,
+      index,
+      sourceStrategy: 'digital-grid',
+      confidence: candidate.score,
+      notes: ['Digital foreground tile segmentation candidate.'],
+    }
+
+    return finalizeEntryCandidate(coarse, imageData.width, imageData.height)
+  })
+}
+
+function detectPhysicalLayoutFallback(
+  imageWidth: number,
+  imageHeight: number
+): DeckEntryCandidate[] {
+  const groupWidth = Math.round(imageWidth * 0.7)
+  const groupHeight = Math.round(
+    Math.min(imageHeight * 0.86, groupWidth / CARD_ASPECT_RATIO)
+  )
+  const x = Math.round((imageWidth - groupWidth) / 2)
+  const y = Math.round((imageHeight - groupHeight) / 2)
+  const coarse: CoarseEntryCandidate = {
+    id: 'physical-entry-placeholder-1',
+    bounds: {
+      x,
+      y,
+      width: groupWidth,
+      height: groupHeight,
+    },
+    index: 0,
+    sourceStrategy: 'physical-layout',
+    confidence: 0.1,
+    notes: [
+      'Physical stack detection is placeholder-only; representative crop may be uncertain.',
+    ],
+  }
+
+  return [finalizeEntryCandidate(coarse, imageWidth, imageHeight)]
+}
+
+export async function detectDeckEntryCandidates(
+  image: HTMLImageElement | ImageBitmap
+): Promise<DeckEntryCandidate[]> {
+  const { width, height } = getImageSize(image)
+
+  if (width <= 0 || height <= 0) return []
+
+  const segmentedDigitalEntries = detectDigitalDeckEntriesFromPixels(image)
+
+  if (segmentedDigitalEntries.length > 1) {
+    return segmentedDigitalEntries
+  }
+
+  const digitalEntries = detectDigitalDeckEntries(width, height)
+
+  if (digitalEntries.length > 1) {
+    return digitalEntries
+  }
+
+  return detectPhysicalLayoutFallback(width, height)
+}

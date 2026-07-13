@@ -1,0 +1,2275 @@
+[
+  {
+    "id": "sm35-37",
+    "englishName": "Arbok",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "37",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/37.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-37",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:37:english:sm35-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-37",
+      "setId": "sm35",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-5",
+    "englishName": "Breloom",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "5",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/5.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-5",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:5:english:sm35-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-5",
+      "setId": "sm35",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-22",
+    "englishName": "Buizel",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "22",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/22.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-22",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:22:english:sm35-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-22",
+      "setId": "sm35",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-1",
+    "englishName": "Bulbasaur",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "1",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/1.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-1",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:1:english:sm35-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-1",
+      "setId": "sm35",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-6",
+    "englishName": "Carnivine",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "6",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/6.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-6",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:6:english:sm35-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-6",
+      "setId": "sm35",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-19",
+    "englishName": "Croconaw",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "19",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/19.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-19",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:19:english:sm35-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-19",
+      "setId": "sm35",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-58",
+    "englishName": "Damage Mover",
+    "category": "Trainer",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "58",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/58.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-58",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:58:english:sm35-58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-58",
+      "setId": "sm35",
+      "collectorNumber": "58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-69",
+    "englishName": "Double Colorless Energy",
+    "category": "Energy",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "69",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/69.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-69",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:69:english:sm35-69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-69",
+      "setId": "sm35",
+      "collectorNumber": "69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-36",
+    "englishName": "Ekans",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "36",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/36.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-36",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:36:english:sm35-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-36",
+      "setId": "sm35",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-31",
+    "englishName": "Electrode",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "31",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/31.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-31",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:31:english:sm35-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-31",
+      "setId": "sm35",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-59",
+    "englishName": "Energy Retrieval",
+    "category": "Trainer",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "59",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/59.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-59",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:59:english:sm35-59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-59",
+      "setId": "sm35",
+      "collectorNumber": "59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-10",
+    "englishName": "Entei-GX",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "10",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/10.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-10",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:10:english:sm35-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-10",
+      "setId": "sm35",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-10a",
+    "englishName": "Entei-GX",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "10a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/10a.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/10a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-10a",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:10a:english:sm35-10a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-10a",
+      "setId": "sm35",
+      "collectorNumber": "10a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-10a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-71",
+    "englishName": "Entei-GX",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "71",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/71.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-71",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:71:english:sm35-71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-71",
+      "setId": "sm35",
+      "collectorNumber": "71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-74",
+    "englishName": "Entei-GX",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "74",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/74.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-74",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:74:english:sm35-74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-74",
+      "setId": "sm35",
+      "collectorNumber": "74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-20",
+    "englishName": "Feraligatr",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "20",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/20.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-20",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:20:english:sm35-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-20",
+      "setId": "sm35",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-23",
+    "englishName": "Floatzel",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "23",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/23.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-23",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:23:english:sm35-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-23",
+      "setId": "sm35",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-43",
+    "englishName": "Golett",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "43",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/43.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-43",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:43:english:sm35-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-43",
+      "setId": "sm35",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-44",
+    "englishName": "Golurk",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "44",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/44.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-44",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:44:english:sm35-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-44",
+      "setId": "sm35",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-60",
+    "englishName": "Great Ball",
+    "category": "Trainer",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "60",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/60.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-60",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:60:english:sm35-60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-60",
+      "setId": "sm35",
+      "collectorNumber": "60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-61",
+    "englishName": "Hau",
+    "category": "Trainer",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "61",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/61.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-61",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:61:english:sm35-61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-61",
+      "setId": "sm35",
+      "collectorNumber": "61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-55",
+    "englishName": "Hoopa",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "55",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/55.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-55",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:55:english:sm35-55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-55",
+      "setId": "sm35",
+      "collectorNumber": "55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-17",
+    "englishName": "Incineroar",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "17",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/17.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-17",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:17:english:sm35-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-17",
+      "setId": "sm35",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-2",
+    "englishName": "Ivysaur",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "2",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/2.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-2",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:2:english:sm35-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-2",
+      "setId": "sm35",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-38",
+    "englishName": "Jynx",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "38",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/38.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-38",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:38:english:sm35-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-38",
+      "setId": "sm35",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-26",
+    "englishName": "Keldeo",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "26",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/26.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-26",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:26:english:sm35-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-26",
+      "setId": "sm35",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-12",
+    "englishName": "Larvesta",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "12",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/12.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-12",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:12:english:sm35-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-12",
+      "setId": "sm35",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-41",
+    "englishName": "Latios",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "41",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/41.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-41",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:41:english:sm35-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-41",
+      "setId": "sm35",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-49",
+    "englishName": "Liepard",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "49",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/49.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-49",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:49:english:sm35-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-49",
+      "setId": "sm35",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-62",
+    "englishName": "Lillie",
+    "category": "Trainer",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "62",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/62.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-62",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:62:english:sm35-62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-62",
+      "setId": "sm35",
+      "collectorNumber": "62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-15",
+    "englishName": "Litten",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "15",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/15.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-15",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:15:english:sm35-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-15",
+      "setId": "sm35",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-25",
+    "englishName": "Manaphy",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "25",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/25.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-25",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:25:english:sm35-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-25",
+      "setId": "sm35",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-45",
+    "englishName": "Marshadow",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "45",
+    "legalities": {
+      "expanded": "Banned",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/45.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-45",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:45:english:sm35-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-45",
+      "setId": "sm35",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-39",
+    "englishName": "Mewtwo-GX",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "39",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/39.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-39",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:39:english:sm35-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-39",
+      "setId": "sm35",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-72",
+    "englishName": "Mewtwo-GX",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "72",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/72.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-72",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:72:english:sm35-72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-72",
+      "setId": "sm35",
+      "collectorNumber": "72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-76",
+    "englishName": "Mewtwo-GX",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "76",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/76.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-76",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:76:english:sm35-76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-76",
+      "setId": "sm35",
+      "collectorNumber": "76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-78",
+    "englishName": "Mewtwo-GX",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "78",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/78.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-78",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:78:english:sm35-78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-78",
+      "setId": "sm35",
+      "collectorNumber": "78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-34",
+    "englishName": "Minun",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "34",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/34.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-34",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:34:english:sm35-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-34",
+      "setId": "sm35",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-24",
+    "englishName": "Palkia",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "24",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/24.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-24",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:24:english:sm35-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-24",
+      "setId": "sm35",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-28",
+    "englishName": "Pikachu",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "28",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/28.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-28",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:28:english:sm35-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-28",
+      "setId": "sm35",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-33",
+    "englishName": "Plusle",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "33",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/33.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-33",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:33:english:sm35-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-33",
+      "setId": "sm35",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-63",
+    "englishName": "Pokémon Breeder",
+    "category": "Trainer",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "63",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/63.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-63",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:63:english:sm35-63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-63",
+      "setId": "sm35",
+      "collectorNumber": "63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-73",
+    "englishName": "Pokémon Breeder",
+    "category": "Trainer",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "73",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/73.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-73",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:73:english:sm35-73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-73",
+      "setId": "sm35",
+      "collectorNumber": "73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-64",
+    "englishName": "Pokémon Catcher",
+    "category": "Trainer",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "64",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/64.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-64",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:64:english:sm35-64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-64",
+      "setId": "sm35",
+      "collectorNumber": "64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-48",
+    "englishName": "Purrloin",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "48",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/48.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-48",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:48:english:sm35-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-48",
+      "setId": "sm35",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-21",
+    "englishName": "Qwilfish",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "21",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/21.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-21",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:21:english:sm35-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-21",
+      "setId": "sm35",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-29",
+    "englishName": "Raichu-GX",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "29",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/29.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-29",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:29:english:sm35-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-29",
+      "setId": "sm35",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-75",
+    "englishName": "Raichu-GX",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "75",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/75.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-75",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:75:english:sm35-75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-75",
+      "setId": "sm35",
+      "collectorNumber": "75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-32",
+    "englishName": "Raikou",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "32",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/32.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-32",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:32:english:sm35-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-32",
+      "setId": "sm35",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-14",
+    "englishName": "Reshiram",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "14",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/14.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-14",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:14:english:sm35-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-14",
+      "setId": "sm35",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-51",
+    "englishName": "Scrafty",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "51",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/51.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-51",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:51:english:sm35-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-51",
+      "setId": "sm35",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-50",
+    "englishName": "Scraggy",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "50",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/50.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-50",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:50:english:sm35-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-50",
+      "setId": "sm35",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-7",
+    "englishName": "Shaymin",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "7",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/7.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-7",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:7:english:sm35-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-7",
+      "setId": "sm35",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-57",
+    "englishName": "Shining Arceus",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "57",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/57.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-57",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:57:english:sm35-57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-57",
+      "setId": "sm35",
+      "collectorNumber": "57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-9",
+    "englishName": "Shining Genesect",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "9",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/9.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-9",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:9:english:sm35-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-9",
+      "setId": "sm35",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-42",
+    "englishName": "Shining Jirachi",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "42",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/42.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-42",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:42:english:sm35-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-42",
+      "setId": "sm35",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-40",
+    "englishName": "Shining Mew",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "40",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/40.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-40",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:40:english:sm35-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-40",
+      "setId": "sm35",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-56",
+    "englishName": "Shining Rayquaza",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "56",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/56.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-56",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:56:english:sm35-56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-56",
+      "setId": "sm35",
+      "collectorNumber": "56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-27",
+    "englishName": "Shining Volcanion",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "27",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/27.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-27",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:27:english:sm35-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-27",
+      "setId": "sm35",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-4",
+    "englishName": "Shroomish",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "4",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/4.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-4",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:4:english:sm35-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-4",
+      "setId": "sm35",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-65",
+    "englishName": "Sophocles",
+    "category": "Trainer",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "65",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/65.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-65",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:65:english:sm35-65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-65",
+      "setId": "sm35",
+      "collectorNumber": "65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-47",
+    "englishName": "Spiritomb",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "47",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/47.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-47",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:47:english:sm35-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-47",
+      "setId": "sm35",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-46",
+    "englishName": "Stunfisk",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "46",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/46.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-46",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:46:english:sm35-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-46",
+      "setId": "sm35",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-66",
+    "englishName": "Super Scoop Up",
+    "category": "Trainer",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "66",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/66.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-66",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:66:english:sm35-66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-66",
+      "setId": "sm35",
+      "collectorNumber": "66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-67",
+    "englishName": "Switch",
+    "category": "Trainer",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "67",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/67.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-67",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:67:english:sm35-67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-67",
+      "setId": "sm35",
+      "collectorNumber": "67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-11",
+    "englishName": "Torkoal",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "11",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/11.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-11",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:11:english:sm35-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-11",
+      "setId": "sm35",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-16",
+    "englishName": "Torracat",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "16",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/16.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-16",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:16:english:sm35-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-16",
+      "setId": "sm35",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-18",
+    "englishName": "Totodile",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "18",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/18.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-18",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:18:english:sm35-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-18",
+      "setId": "sm35",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-68",
+    "englishName": "Ultra Ball",
+    "category": "Trainer",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "68",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/68.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-68",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:68:english:sm35-68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-68",
+      "setId": "sm35",
+      "collectorNumber": "68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-68a",
+    "englishName": "Ultra Ball",
+    "category": "Trainer",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "68a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/68a.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/68a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-68a",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:68a:english:sm35-68a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-68a",
+      "setId": "sm35",
+      "collectorNumber": "68a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-68a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-3",
+    "englishName": "Venusaur",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "3",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/3.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-3",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:3:english:sm35-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-3",
+      "setId": "sm35",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-8",
+    "englishName": "Virizion",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "8",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/8.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-8",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:8:english:sm35-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-8",
+      "setId": "sm35",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-13",
+    "englishName": "Volcarona",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "13",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/13.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-13",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:13:english:sm35-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-13",
+      "setId": "sm35",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-30",
+    "englishName": "Voltorb",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "30",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/30.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-30",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:30:english:sm35-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-30",
+      "setId": "sm35",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-70",
+    "englishName": "Warp Energy",
+    "category": "Energy",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "70",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/70.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-70",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:70:english:sm35-70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-70",
+      "setId": "sm35",
+      "collectorNumber": "70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-54",
+    "englishName": "Yveltal",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "54",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/54.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-54",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:54:english:sm35-54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-54",
+      "setId": "sm35",
+      "collectorNumber": "54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-35",
+    "englishName": "Zekrom",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "35",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/35.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-35",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:35:english:sm35-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-35",
+      "setId": "sm35",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-53",
+    "englishName": "Zoroark-GX",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "53",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/53.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-53",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:53:english:sm35-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-53",
+      "setId": "sm35",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-77",
+    "englishName": "Zoroark-GX",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "77",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/77.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-77",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:77:english:sm35-77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-77",
+      "setId": "sm35",
+      "collectorNumber": "77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-77a",
+    "englishName": "Zoroark-GX",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "77a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/77a.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/77a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-77a",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:77a:english:sm35-77a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-77a",
+      "setId": "sm35",
+      "collectorNumber": "77a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-77a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm35-52",
+    "englishName": "Zorua",
+    "category": "Pokemon",
+    "setCode": "SLG",
+    "setName": "Shining Legends",
+    "cardNumber": "52",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm35/52.png",
+    "imageLarge": "https://images.pokemontcg.io/sm35/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm35-52",
+    "sourceSetId": "sm35",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm35:52:english:sm35-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm35-52",
+      "setId": "sm35",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm35-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

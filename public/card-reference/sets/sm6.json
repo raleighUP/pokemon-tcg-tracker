@@ -1,0 +1,4206 @@
+[
+  {
+    "id": "sm6-4",
+    "englishName": "Abomasnow",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "4",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/4.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-4",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:4:english:sm6-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-4",
+      "setId": "sm6",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-49",
+    "englishName": "Aegislash",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "49",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/49.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-49",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:49:english:sm6-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-49",
+      "setId": "sm6",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-2",
+    "englishName": "Alolan Exeggutor",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "2",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/2.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-2",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:2:english:sm6-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-2",
+      "setId": "sm6",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-2a",
+    "englishName": "Alolan Exeggutor",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "2a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/2a.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/2a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-2a",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:2a:english:sm6-2a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-2a",
+      "setId": "sm6",
+      "collectorNumber": "2a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-2a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-12",
+    "englishName": "Alolan Marowak",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "12",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/12.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-12",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:12:english:sm6-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-12",
+      "setId": "sm6",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-27",
+    "englishName": "Amaura",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "27",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/27.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-27",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:27:english:sm6-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-27",
+      "setId": "sm6",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-33",
+    "englishName": "Araquanid",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "33",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/33.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-33",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:33:english:sm6-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-33",
+      "setId": "sm6",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-96",
+    "englishName": "Arceus ◇",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "96",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/96.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/96_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-96",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:96:english:sm6-96",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-96",
+      "setId": "sm6",
+      "collectorNumber": "96",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-96",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-28",
+    "englishName": "Aurorus",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "28",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/28.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-28",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:28:english:sm6-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-28",
+      "setId": "sm6",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-30",
+    "englishName": "Avalugg",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "30",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/30.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-30",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:30:english:sm6-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-30",
+      "setId": "sm6",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-43",
+    "englishName": "Azelf",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "43",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/43.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-43",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:43:english:sm6-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-43",
+      "setId": "sm6",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-67",
+    "englishName": "Barbaracle",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "67",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/67.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-67",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:67:english:sm6-67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-67",
+      "setId": "sm6",
+      "collectorNumber": "67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-117",
+    "englishName": "Beast Energy ◇",
+    "category": "Energy",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "117",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/117.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/117_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-117",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:117:english:sm6-117",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-117",
+      "setId": "sm6",
+      "collectorNumber": "117",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-117",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-102",
+    "englishName": "Beast Ring",
+    "category": "Trainer",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "102",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/102.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/102_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-102",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:102:english:sm6-102",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-102",
+      "setId": "sm6",
+      "collectorNumber": "102",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-102",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-102a",
+    "englishName": "Beast Ring",
+    "category": "Trainer",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "102a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/102a.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/102a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-102a",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:102a:english:sm6-102a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-102a",
+      "setId": "sm6",
+      "collectorNumber": "102a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-102a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-141",
+    "englishName": "Beast Ring",
+    "category": "Trainer",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "141",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/141.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/141_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-141",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:141:english:sm6-141",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-141",
+      "setId": "sm6",
+      "collectorNumber": "141",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-141",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-29",
+    "englishName": "Bergmite",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "29",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/29.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-29",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:29:english:sm6-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-29",
+      "setId": "sm6",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-66",
+    "englishName": "Binacle",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "66",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/66.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-66",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:66:english:sm6-66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-66",
+      "setId": "sm6",
+      "collectorNumber": "66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-103",
+    "englishName": "Bonnie",
+    "category": "Trainer",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "103",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/103.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/103_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-103",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:103:english:sm6-103",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-103",
+      "setId": "sm6",
+      "collectorNumber": "103",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-103",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-128",
+    "englishName": "Bonnie",
+    "category": "Trainer",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "128",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/128.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/128_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-128",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:128:english:sm6-128",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-128",
+      "setId": "sm6",
+      "collectorNumber": "128",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-128",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-16",
+    "englishName": "Braixen",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "16",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/16.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-16",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:16:english:sm6-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-16",
+      "setId": "sm6",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-97",
+    "englishName": "Bunnelby",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "97",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/97.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/97_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-97",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:97:english:sm6-97",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-97",
+      "setId": "sm6",
+      "collectorNumber": "97",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-97",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-77",
+    "englishName": "Buzzwole",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "77",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/77.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-77",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:77:english:sm6-77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-77",
+      "setId": "sm6",
+      "collectorNumber": "77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-25",
+    "englishName": "Clauncher",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "25",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/25.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-25",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:25:english:sm6-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-25",
+      "setId": "sm6",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-26",
+    "englishName": "Clawitzer",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "26",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/26.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-26",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:26:english:sm6-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-26",
+      "setId": "sm6",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-104",
+    "englishName": "Crasher Wake",
+    "category": "Trainer",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "104",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/104.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/104_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-104",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:104:english:sm6-104",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-104",
+      "setId": "sm6",
+      "collectorNumber": "104",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-104",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-129",
+    "englishName": "Crasher Wake",
+    "category": "Trainer",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "129",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/129.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/129_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-129",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:129:english:sm6-129",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-129",
+      "setId": "sm6",
+      "collectorNumber": "129",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-129",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-63",
+    "englishName": "Croagunk",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "63",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/63.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-63",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:63:english:sm6-63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-63",
+      "setId": "sm6",
+      "collectorNumber": "63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-57",
+    "englishName": "Cubone",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "57",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/57.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-57",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:57:english:sm6-57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-57",
+      "setId": "sm6",
+      "collectorNumber": "57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-88",
+    "englishName": "Dedenne",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "88",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/88.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/88_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-88",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:88:english:sm6-88",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-88",
+      "setId": "sm6",
+      "collectorNumber": "88",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-88",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-17",
+    "englishName": "Delphox",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "17",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/17.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-17",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:17:english:sm6-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-17",
+      "setId": "sm6",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-32",
+    "englishName": "Dewpider",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "32",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/32.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-32",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:32:english:sm6-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-32",
+      "setId": "sm6",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-125",
+    "englishName": "Dialga-GX",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "125",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/125.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/125_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-125",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:125:english:sm6-125",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-125",
+      "setId": "sm6",
+      "collectorNumber": "125",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-125",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-138",
+    "englishName": "Dialga-GX",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "138",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/138.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/138_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-138",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:138:english:sm6-138",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-138",
+      "setId": "sm6",
+      "collectorNumber": "138",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-138",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-82",
+    "englishName": "Dialga-GX",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "82",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/82.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/82_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-82",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:82:english:sm6-82",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-82",
+      "setId": "sm6",
+      "collectorNumber": "82",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-82",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-74",
+    "englishName": "Diancie ◇",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "74",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/74.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-74",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:74:english:sm6-74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-74",
+      "setId": "sm6",
+      "collectorNumber": "74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-105",
+    "englishName": "Diantha",
+    "category": "Trainer",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "105",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/105.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/105_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-105",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:105:english:sm6-105",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-105",
+      "setId": "sm6",
+      "collectorNumber": "105",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-105",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-130",
+    "englishName": "Diantha",
+    "category": "Trainer",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "130",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/130.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/130_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-130",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:130:english:sm6-130",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-130",
+      "setId": "sm6",
+      "collectorNumber": "130",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-130",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-98",
+    "englishName": "Diggersby",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "98",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/98.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/98_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-98",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:98:english:sm6-98",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-98",
+      "setId": "sm6",
+      "collectorNumber": "98",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-98",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-48",
+    "englishName": "Doublade",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "48",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/48.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-48",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:48:english:sm6-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-48",
+      "setId": "sm6",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-53",
+    "englishName": "Dragalge",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "53",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/53.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-53",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:53:english:sm6-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-53",
+      "setId": "sm6",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-81",
+    "englishName": "Empoleon",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "81",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/81.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/81_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-81",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:81:english:sm6-81",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-81",
+      "setId": "sm6",
+      "collectorNumber": "81",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-81",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-106",
+    "englishName": "Eneporter",
+    "category": "Trainer",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "106",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/106.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/106_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-106",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:106:english:sm6-106",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-106",
+      "setId": "sm6",
+      "collectorNumber": "106",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-106",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-142",
+    "englishName": "Eneporter",
+    "category": "Trainer",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "142",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/142.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/142_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-142",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:142:english:sm6-142",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-142",
+      "setId": "sm6",
+      "collectorNumber": "142",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-142",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-143",
+    "englishName": "Energy Recycler",
+    "category": "Trainer",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "143",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/143.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/143_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-143",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:143:english:sm6-143",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-143",
+      "setId": "sm6",
+      "collectorNumber": "143",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-143",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-44",
+    "englishName": "Espurr",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "44",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/44.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-44",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:44:english:sm6-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-44",
+      "setId": "sm6",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-1",
+    "englishName": "Exeggcute",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "1",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/1.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-1",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:1:english:sm6-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-1",
+      "setId": "sm6",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-14",
+    "englishName": "Fennekin",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "14",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/14.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-14",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:14:english:sm6-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-14",
+      "setId": "sm6",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-15",
+    "englishName": "Fennekin",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "15",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/15.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-15",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:15:english:sm6-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-15",
+      "setId": "sm6",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-83",
+    "englishName": "Flabébé",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "83",
+    "legalities": {
+      "expanded": "Banned",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/83.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/83_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-83",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:83:english:sm6-83",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-83",
+      "setId": "sm6",
+      "collectorNumber": "83",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-83",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-84",
+    "englishName": "Flabébé",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "84",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/84.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/84_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-84",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:84:english:sm6-84",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-84",
+      "setId": "sm6",
+      "collectorNumber": "84",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-84",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-85",
+    "englishName": "Floette",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "85",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/85.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/85_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-85",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:85:english:sm6-85",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-85",
+      "setId": "sm6",
+      "collectorNumber": "85",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-85",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-86",
+    "englishName": "Florges",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "86",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/86.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/86_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-86",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:86:english:sm6-86",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-86",
+      "setId": "sm6",
+      "collectorNumber": "86",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-86",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-107",
+    "englishName": "Fossil Excavation Map",
+    "category": "Trainer",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "107",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/107.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/107_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-107",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:107:english:sm6-107",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-107",
+      "setId": "sm6",
+      "collectorNumber": "107",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-107",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-21",
+    "englishName": "Froakie",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "21",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/21.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-21",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:21:english:sm6-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-21",
+      "setId": "sm6",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-22",
+    "englishName": "Froakie",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "22",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/22.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-22",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:22:english:sm6-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-22",
+      "setId": "sm6",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-23",
+    "englishName": "Frogadier",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "23",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/23.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-23",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:23:english:sm6-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-23",
+      "setId": "sm6",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-99",
+    "englishName": "Furfrou",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "99",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/99.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/99_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-99",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:99:english:sm6-99",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-99",
+      "setId": "sm6",
+      "collectorNumber": "99",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-99",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-61",
+    "englishName": "Gabite",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "61",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/61.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-61",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:61:english:sm6-61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-61",
+      "setId": "sm6",
+      "collectorNumber": "61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-62",
+    "englishName": "Garchomp",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "62",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/62.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-62",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:62:english:sm6-62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-62",
+      "setId": "sm6",
+      "collectorNumber": "62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-60",
+    "englishName": "Gible",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "60",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/60.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-60",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:60:english:sm6-60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-60",
+      "setId": "sm6",
+      "collectorNumber": "60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-10",
+    "englishName": "Gogoat",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "10",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/10.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-10",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:10:english:sm6-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-10",
+      "setId": "sm6",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-94",
+    "englishName": "Goodra",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "94",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/94.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/94_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-94",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:94:english:sm6-94",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-94",
+      "setId": "sm6",
+      "collectorNumber": "94",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-94",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-91",
+    "englishName": "Goomy",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "91",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/91.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/91_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-91",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:91:english:sm6-91",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-91",
+      "setId": "sm6",
+      "collectorNumber": "91",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-91",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-92",
+    "englishName": "Goomy",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "92",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/92.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/92_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-92",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:92:english:sm6-92",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-92",
+      "setId": "sm6",
+      "collectorNumber": "92",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-92",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-120",
+    "englishName": "Greninja-GX",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "120",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/120.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/120_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-120",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:120:english:sm6-120",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-120",
+      "setId": "sm6",
+      "collectorNumber": "120",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-120",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-133",
+    "englishName": "Greninja-GX",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "133",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/133.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/133_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-133",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:133:english:sm6-133",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-133",
+      "setId": "sm6",
+      "collectorNumber": "133",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-133",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-24",
+    "englishName": "Greninja-GX",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "24",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/24.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-24",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:24:english:sm6-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-24",
+      "setId": "sm6",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-80",
+    "englishName": "Guzzlord",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "80",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/80.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/80_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-80",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:80:english:sm6-80",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-80",
+      "setId": "sm6",
+      "collectorNumber": "80",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-80",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-70",
+    "englishName": "Hawlucha",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "70",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/70.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-70",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:70:english:sm6-70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-70",
+      "setId": "sm6",
+      "collectorNumber": "70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-13",
+    "englishName": "Heatran",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "13",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/13.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-13",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:13:english:sm6-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-13",
+      "setId": "sm6",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-38",
+    "englishName": "Heliolisk",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "38",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/38.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-38",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:38:english:sm6-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-38",
+      "setId": "sm6",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-37",
+    "englishName": "Helioptile",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "37",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/37.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-37",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:37:english:sm6-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-37",
+      "setId": "sm6",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-46",
+    "englishName": "Honedge",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "46",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/46.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-46",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:46:english:sm6-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-46",
+      "setId": "sm6",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-47",
+    "englishName": "Honedge",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "47",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/47.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-47",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:47:english:sm6-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-47",
+      "setId": "sm6",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-54",
+    "englishName": "Hoopa",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "54",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/54.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-54",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:54:english:sm6-54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-54",
+      "setId": "sm6",
+      "collectorNumber": "54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-59",
+    "englishName": "Infernape",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "59",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/59.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-59",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:59:english:sm6-59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-59",
+      "setId": "sm6",
+      "collectorNumber": "59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-50",
+    "englishName": "Inkay",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "50",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/50.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-50",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:50:english:sm6-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-50",
+      "setId": "sm6",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-108",
+    "englishName": "Judge",
+    "category": "Trainer",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "108",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/108.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/108_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-108",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:108:english:sm6-108",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-108",
+      "setId": "sm6",
+      "collectorNumber": "108",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-108",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-89",
+    "englishName": "Klefki",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "89",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/89.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/89_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-89",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:89:english:sm6-89",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-89",
+      "setId": "sm6",
+      "collectorNumber": "89",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-89",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-109",
+    "englishName": "Lady",
+    "category": "Trainer",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "109",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/109.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/109_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-109",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:109:english:sm6-109",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-109",
+      "setId": "sm6",
+      "collectorNumber": "109",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-109",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-18",
+    "englishName": "Litleo",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "18",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/18.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-18",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:18:english:sm6-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-18",
+      "setId": "sm6",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-122",
+    "englishName": "Lucario-GX",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "122",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/122.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/122_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-122",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:122:english:sm6-122",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-122",
+      "setId": "sm6",
+      "collectorNumber": "122",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-122",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-135",
+    "englishName": "Lucario-GX",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "135",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/135.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/135_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-135",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:135:english:sm6-135",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-135",
+      "setId": "sm6",
+      "collectorNumber": "135",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-135",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-76",
+    "englishName": "Lycanroc",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "76",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/76.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-76",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:76:english:sm6-76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-76",
+      "setId": "sm6",
+      "collectorNumber": "76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-110",
+    "englishName": "Lysandre ◇",
+    "category": "Trainer",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "110",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/110.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/110_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-110",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:110:english:sm6-110",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-110",
+      "setId": "sm6",
+      "collectorNumber": "110",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-110",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-111",
+    "englishName": "Lysandre Labs",
+    "category": "Trainer",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "111",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/111.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/111_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-111",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:111:english:sm6-111",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-111",
+      "setId": "sm6",
+      "collectorNumber": "111",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-111",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-34",
+    "englishName": "Magnemite",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "34",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/34.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-34",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:34:english:sm6-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-34",
+      "setId": "sm6",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-35",
+    "englishName": "Magneton",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "35",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/35.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-35",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:35:english:sm6-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-35",
+      "setId": "sm6",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-36",
+    "englishName": "Magnezone",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "36",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/36.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-36",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:36:english:sm6-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-36",
+      "setId": "sm6",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-51",
+    "englishName": "Malamar",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "51",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/51.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-51",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:51:english:sm6-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-51",
+      "setId": "sm6",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-45",
+    "englishName": "Meowstic",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "45",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/45.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-45",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:45:english:sm6-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-45",
+      "setId": "sm6",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-42",
+    "englishName": "Mesprit",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "42",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/42.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-42",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:42:english:sm6-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-42",
+      "setId": "sm6",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-112",
+    "englishName": "Metal Frying Pan",
+    "category": "Trainer",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "112",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/112.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/112_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-112",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:112:english:sm6-112",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-112",
+      "setId": "sm6",
+      "collectorNumber": "112",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-112",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-112a",
+    "englishName": "Metal Frying Pan",
+    "category": "Trainer",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "112a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/112a.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/112a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-112a",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:112a:english:sm6-112a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-112a",
+      "setId": "sm6",
+      "collectorNumber": "112a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-112a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-144",
+    "englishName": "Metal Frying Pan",
+    "category": "Trainer",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "144",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/144.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/144_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-144",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:144:english:sm6-144",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-144",
+      "setId": "sm6",
+      "collectorNumber": "144",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-144",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-113",
+    "englishName": "Mysterious Treasure",
+    "category": "Trainer",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "113",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/113.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/113_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-113",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:113:english:sm6-113",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-113",
+      "setId": "sm6",
+      "collectorNumber": "113",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-113",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-113a",
+    "englishName": "Mysterious Treasure",
+    "category": "Trainer",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "113a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/113a.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/113a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-113a",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:113a:english:sm6-113a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-113a",
+      "setId": "sm6",
+      "collectorNumber": "113a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-113a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-145",
+    "englishName": "Mysterious Treasure",
+    "category": "Trainer",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "145",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/145.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/145_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-145",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:145:english:sm6-145",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-145",
+      "setId": "sm6",
+      "collectorNumber": "145",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-145",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-121",
+    "englishName": "Naganadel-GX",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "121",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/121.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/121_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-121",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:121:english:sm6-121",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-121",
+      "setId": "sm6",
+      "collectorNumber": "121",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-121",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-134",
+    "englishName": "Naganadel-GX",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "134",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/134.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/134_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-134",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:134:english:sm6-134",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-134",
+      "setId": "sm6",
+      "collectorNumber": "134",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-134",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-56",
+    "englishName": "Naganadel-GX",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "56",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/56.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-56",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:56:english:sm6-56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-56",
+      "setId": "sm6",
+      "collectorNumber": "56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-100",
+    "englishName": "Noibat",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "100",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/100.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/100_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-100",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:100:english:sm6-100",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-100",
+      "setId": "sm6",
+      "collectorNumber": "100",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-100",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-101",
+    "englishName": "Noivern",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "101",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/101.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/101_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-101",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:101:english:sm6-101",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-101",
+      "setId": "sm6",
+      "collectorNumber": "101",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-101",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-119",
+    "englishName": "Palkia-GX",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "119",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/119.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/119_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-119",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:119:english:sm6-119",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-119",
+      "setId": "sm6",
+      "collectorNumber": "119",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-119",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-132",
+    "englishName": "Palkia-GX",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "132",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/132.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/132_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-132",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:132:english:sm6-132",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-132",
+      "setId": "sm6",
+      "collectorNumber": "132",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-132",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-20",
+    "englishName": "Palkia-GX",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "20",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/20.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-20",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:20:english:sm6-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-20",
+      "setId": "sm6",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-65",
+    "englishName": "Pancham",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "65",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/65.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-65",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:65:english:sm6-65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-65",
+      "setId": "sm6",
+      "collectorNumber": "65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-78",
+    "englishName": "Pangoro",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "78",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/78.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-78",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:78:english:sm6-78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-78",
+      "setId": "sm6",
+      "collectorNumber": "78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-11",
+    "englishName": "Pheromosa",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "11",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/11.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-11",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:11:english:sm6-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-11",
+      "setId": "sm6",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-55",
+    "englishName": "Poipole",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "55",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/55.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-55",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:55:english:sm6-55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-55",
+      "setId": "sm6",
+      "collectorNumber": "55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-19",
+    "englishName": "Pyroar",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "19",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/19.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-19",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:19:english:sm6-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-19",
+      "setId": "sm6",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-75",
+    "englishName": "Rockruff",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "75",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/75.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-75",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:75:english:sm6-75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-75",
+      "setId": "sm6",
+      "collectorNumber": "75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-40",
+    "englishName": "Rotom",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "40",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/40.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-40",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:40:english:sm6-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-40",
+      "setId": "sm6",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-5",
+    "englishName": "Scatterbug",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "5",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/5.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-5",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:5:english:sm6-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-5",
+      "setId": "sm6",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-6",
+    "englishName": "Scatterbug",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "6",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/6.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-6",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:6:english:sm6-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-6",
+      "setId": "sm6",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-9",
+    "englishName": "Skiddo",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "9",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/9.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-9",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:9:english:sm6-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-9",
+      "setId": "sm6",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-52",
+    "englishName": "Skrelp",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "52",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/52.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-52",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:52:english:sm6-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-52",
+      "setId": "sm6",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-93",
+    "englishName": "Sliggoo",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "93",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/93.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/93_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-93",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:93:english:sm6-93",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-93",
+      "setId": "sm6",
+      "collectorNumber": "93",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-93",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-3",
+    "englishName": "Snover",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "3",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/3.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-3",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:3:english:sm6-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-3",
+      "setId": "sm6",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-7",
+    "englishName": "Spewpa",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "7",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/7.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-7",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:7:english:sm6-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-7",
+      "setId": "sm6",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-87",
+    "englishName": "Sylveon",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "87",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/87.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/87_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-87",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:87:english:sm6-87",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-87",
+      "setId": "sm6",
+      "collectorNumber": "87",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-87",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-58",
+    "englishName": "Torterra",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "58",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/58.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-58",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:58:english:sm6-58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-58",
+      "setId": "sm6",
+      "collectorNumber": "58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-64",
+    "englishName": "Toxicroak",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "64",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/64.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-64",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:64:english:sm6-64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-64",
+      "setId": "sm6",
+      "collectorNumber": "64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-69",
+    "englishName": "Tyrantrum",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "69",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/69.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-69",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:69:english:sm6-69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-69",
+      "setId": "sm6",
+      "collectorNumber": "69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-68",
+    "englishName": "Tyrunt",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "68",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/68.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-68",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:68:english:sm6-68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-68",
+      "setId": "sm6",
+      "collectorNumber": "68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-127",
+    "englishName": "Ultra Necrozma-GX",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "127",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/127.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/127_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-127",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:127:english:sm6-127",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-127",
+      "setId": "sm6",
+      "collectorNumber": "127",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-127",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-140",
+    "englishName": "Ultra Necrozma-GX",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "140",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/140.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/140_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-140",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:140:english:sm6-140",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-140",
+      "setId": "sm6",
+      "collectorNumber": "140",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-140",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-95",
+    "englishName": "Ultra Necrozma-GX",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "95",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/95.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/95_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-95",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:95:english:sm6-95",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-95",
+      "setId": "sm6",
+      "collectorNumber": "95",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-95",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-114",
+    "englishName": "Ultra Recon Squad",
+    "category": "Trainer",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "114",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/114.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/114_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-114",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:114:english:sm6-114",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-114",
+      "setId": "sm6",
+      "collectorNumber": "114",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-114",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-131",
+    "englishName": "Ultra Recon Squad",
+    "category": "Trainer",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "131",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/131.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/131_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-131",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:131:english:sm6-131",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-131",
+      "setId": "sm6",
+      "collectorNumber": "131",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-131",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-115",
+    "englishName": "Ultra Space",
+    "category": "Trainer",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "115",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/115.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/115_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-115",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:115:english:sm6-115",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-115",
+      "setId": "sm6",
+      "collectorNumber": "115",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-115",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-116",
+    "englishName": "Unidentified Fossil",
+    "category": "Trainer",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "116",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/116.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/116_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-116",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:116:english:sm6-116",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-116",
+      "setId": "sm6",
+      "collectorNumber": "116",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-116",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-118",
+    "englishName": "Unit Energy FightingDarknessFairy",
+    "category": "Energy",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "118",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/118.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/118_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-118",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:118:english:sm6-118",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-118",
+      "setId": "sm6",
+      "collectorNumber": "118",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-118",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-146",
+    "englishName": "Unit Energy FightingDarknessFairy",
+    "category": "Energy",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "146",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/146.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/146_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-146",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:146:english:sm6-146",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-146",
+      "setId": "sm6",
+      "collectorNumber": "146",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-146",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-41",
+    "englishName": "Uxie",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "41",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/41.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-41",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:41:english:sm6-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-41",
+      "setId": "sm6",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-8",
+    "englishName": "Vivillon",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "8",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/8.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-8",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:8:english:sm6-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-8",
+      "setId": "sm6",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-31",
+    "englishName": "Volcanion ◇",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "31",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/31.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-31",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:31:english:sm6-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-31",
+      "setId": "sm6",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-126",
+    "englishName": "Xerneas-GX",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "126",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/126.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/126_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-126",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:126:english:sm6-126",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-126",
+      "setId": "sm6",
+      "collectorNumber": "126",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-126",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-139",
+    "englishName": "Xerneas-GX",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "139",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/139.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/139_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-139",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:139:english:sm6-139",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-139",
+      "setId": "sm6",
+      "collectorNumber": "139",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-139",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-90",
+    "englishName": "Xerneas-GX",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "90",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/90.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/90_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-90",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:90:english:sm6-90",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-90",
+      "setId": "sm6",
+      "collectorNumber": "90",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-90",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-39",
+    "englishName": "Xurkitree",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "39",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/39.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-39",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:39:english:sm6-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-39",
+      "setId": "sm6",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-124",
+    "englishName": "Yveltal-GX",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "124",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/124.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/124_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-124",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:124:english:sm6-124",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-124",
+      "setId": "sm6",
+      "collectorNumber": "124",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-124",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-137",
+    "englishName": "Yveltal-GX",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "137",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/137.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/137_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-137",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:137:english:sm6-137",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-137",
+      "setId": "sm6",
+      "collectorNumber": "137",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-137",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-79",
+    "englishName": "Yveltal-GX",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "79",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/79.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/79_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-79",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:79:english:sm6-79",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-79",
+      "setId": "sm6",
+      "collectorNumber": "79",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-79",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-123",
+    "englishName": "Zygarde-GX",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "123",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/123.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/123_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-123",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:123:english:sm6-123",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-123",
+      "setId": "sm6",
+      "collectorNumber": "123",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-123",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-136",
+    "englishName": "Zygarde-GX",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "136",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/136.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/136_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-136",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:136:english:sm6-136",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-136",
+      "setId": "sm6",
+      "collectorNumber": "136",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-136",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-73",
+    "englishName": "Zygarde-GX",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "73",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/73.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-73",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:73:english:sm6-73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-73",
+      "setId": "sm6",
+      "collectorNumber": "73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-71",
+    "englishName": "Zygarde",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "71",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/71.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-71",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:71:english:sm6-71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-71",
+      "setId": "sm6",
+      "collectorNumber": "71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm6-72",
+    "englishName": "Zygarde",
+    "category": "Pokemon",
+    "setCode": "FLI",
+    "setName": "Forbidden Light",
+    "cardNumber": "72",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm6/72.png",
+    "imageLarge": "https://images.pokemontcg.io/sm6/72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm6-72",
+    "sourceSetId": "sm6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm6:72:english:sm6-72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm6-72",
+      "setId": "sm6",
+      "collectorNumber": "72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm6-72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

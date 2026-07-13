@@ -1,0 +1,5642 @@
+[
+  {
+    "id": "me1-54",
+    "englishName": "Abra",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "54",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/54.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-54",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:54:english:me1-54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-54",
+      "setId": "me1",
+      "collectorNumber": "54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-113",
+    "englishName": "Acerola's Mischief",
+    "category": "Trainer",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "113",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/113.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/113_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-113",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:113:english:me1-113",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-113",
+      "setId": "me1",
+      "collectorNumber": "113",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-113",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-165",
+    "englishName": "Acerola's Mischief",
+    "category": "Trainer",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "165",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/165.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/165_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-165",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:165:english:me1-165",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-165",
+      "setId": "me1",
+      "collectorNumber": "165",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-165",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-183",
+    "englishName": "Acerola's Mischief",
+    "category": "Trainer",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "183",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/183.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/183_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-183",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:183:english:me1-183",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-183",
+      "setId": "me1",
+      "collectorNumber": "183",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-183",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-166",
+    "englishName": "Air Balloon",
+    "category": "Trainer",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "166",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/166.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/166_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-166",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:166:english:me1-166",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-166",
+      "setId": "me1",
+      "collectorNumber": "166",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-166",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-56",
+    "englishName": "Alakazam",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "56",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/56.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-56",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:56:english:me1-56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-56",
+      "setId": "me1",
+      "collectorNumber": "56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-9",
+    "englishName": "Bayleef",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "9",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/9.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-9",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:9:english:me1-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-9",
+      "setId": "me1",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-112",
+    "englishName": "Bewear",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "112",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/112.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/112_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-112",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:112:english:me1-112",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-112",
+      "setId": "me1",
+      "collectorNumber": "112",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-112",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-114",
+    "englishName": "Boss's Orders",
+    "category": "Trainer",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "114",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/114.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/114_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-114",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:114:english:me1-114",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-114",
+      "setId": "me1",
+      "collectorNumber": "114",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-114",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-167",
+    "englishName": "Buddy-Buddy Poffin",
+    "category": "Trainer",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "167",
+    "regulationMark": "H",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/167.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/167_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-167",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:167:english:me1-167",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-167",
+      "setId": "me1",
+      "collectorNumber": "167",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-167",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-1",
+    "englishName": "Bulbasaur",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "1",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/1.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-1",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:1:english:me1-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-1",
+      "setId": "me1",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-133",
+    "englishName": "Bulbasaur",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "133",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/133.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/133_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-133",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:133:english:me1-133",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-133",
+      "setId": "me1",
+      "collectorNumber": "133",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-133",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-107",
+    "englishName": "Buneary",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "107",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/107.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/107_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-107",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:107:english:me1-107",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-107",
+      "setId": "me1",
+      "collectorNumber": "107",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-107",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-12",
+    "englishName": "Celebi",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "12",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/12.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-12",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:12:english:me1-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-12",
+      "setId": "me1",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-30",
+    "englishName": "Centiskorch",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "30",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/30.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-30",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:30:english:me1-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-30",
+      "setId": "me1",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-31",
+    "englishName": "Chi-Yu",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "31",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/31.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-31",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:31:english:me1-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-31",
+      "setId": "me1",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-8",
+    "englishName": "Chikorita",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "8",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/8.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-8",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:8:english:me1-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-8",
+      "setId": "me1",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-28",
+    "englishName": "Cinderace",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "28",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/28.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-28",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:28:english:me1-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-28",
+      "setId": "me1",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-37",
+    "englishName": "Clauncher",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "37",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/37.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-37",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:37:english:me1-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-37",
+      "setId": "me1",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-141",
+    "englishName": "Clawitzer",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "141",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/141.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/141_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-141",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:141:english:me1-141",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-141",
+      "setId": "me1",
+      "collectorNumber": "141",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-141",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-38",
+    "englishName": "Clawitzer",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "38",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/38.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-38",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:38:english:me1-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-38",
+      "setId": "me1",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-33",
+    "englishName": "Corphish",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "33",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/33.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-33",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:33:english:me1-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-33",
+      "setId": "me1",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-85",
+    "englishName": "Crawdaunt",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "85",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/85.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/85_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-85",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:85:english:me1-85",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-85",
+      "setId": "me1",
+      "collectorNumber": "85",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-85",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-78",
+    "englishName": "Croagunk",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "78",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/78.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-78",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:78:english:me1-78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-78",
+      "setId": "me1",
+      "collectorNumber": "78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-105",
+    "englishName": "Delibird",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "105",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/105.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/105_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-105",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:105:english:me1-105",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-105",
+      "setId": "me1",
+      "collectorNumber": "105",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-105",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-152",
+    "englishName": "Delibird",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "152",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/152.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/152_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-152",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:152:english:me1-152",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-152",
+      "setId": "me1",
+      "collectorNumber": "152",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-152",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-18",
+    "englishName": "Dhelmise",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "18",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/18.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-18",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:18:english:me1-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-18",
+      "setId": "me1",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-95",
+    "englishName": "Dialga",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "95",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/95.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/95_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-95",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:95:english:me1-95",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-95",
+      "setId": "me1",
+      "collectorNumber": "95",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-95",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-40",
+    "englishName": "Drizzile",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "40",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/40.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-40",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:40:english:me1-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-40",
+      "setId": "me1",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-44",
+    "englishName": "Eiscue",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "44",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/44.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-44",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:44:english:me1-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-44",
+      "setId": "me1",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-49",
+    "englishName": "Electrike",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "49",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/49.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-49",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:49:english:me1-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-49",
+      "setId": "me1",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-115",
+    "englishName": "Energy Switch",
+    "category": "Trainer",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "115",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/115.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/115_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-115",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:115:english:me1-115",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-115",
+      "setId": "me1",
+      "collectorNumber": "115",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-115",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-4",
+    "englishName": "Exeggcute",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "4",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/4.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-4",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:4:english:me1-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-4",
+      "setId": "me1",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-135",
+    "englishName": "Exeggutor",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "135",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/135.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/135_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-135",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:135:english:me1-135",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-135",
+      "setId": "me1",
+      "collectorNumber": "135",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-135",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-5",
+    "englishName": "Exeggutor",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "5",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/5.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-5",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:5:english:me1-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-5",
+      "setId": "me1",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-103",
+    "englishName": "Fearow",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "103",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/103.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/103_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-103",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:103:english:me1-103",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-103",
+      "setId": "me1",
+      "collectorNumber": "103",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-103",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-116",
+    "englishName": "Fighting Gong",
+    "category": "Trainer",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "116",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/116.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/116_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-116",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:116:english:me1-116",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-116",
+      "setId": "me1",
+      "collectorNumber": "116",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-116",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-168",
+    "englishName": "Fighting Gong",
+    "category": "Trainer",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "168",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/168.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/168_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-168",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:168:english:me1-168",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-168",
+      "setId": "me1",
+      "collectorNumber": "168",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-168",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-117",
+    "englishName": "Forest of Vitality",
+    "category": "Trainer",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "117",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/117.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/117_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-117",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:117:english:me1-117",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-117",
+      "setId": "me1",
+      "collectorNumber": "117",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-117",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-43",
+    "englishName": "Frosmoth",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "43",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/43.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-43",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:43:english:me1-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-43",
+      "setId": "me1",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-147",
+    "englishName": "Garganacl",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "147",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/147.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/147_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-147",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:147:english:me1-147",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-147",
+      "setId": "me1",
+      "collectorNumber": "147",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-147",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-84",
+    "englishName": "Garganacl",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "84",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/84.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/84_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-84",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:84:english:me1-84",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-84",
+      "setId": "me1",
+      "collectorNumber": "84",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-84",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-99",
+    "englishName": "Gholdengo",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "99",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/99.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/99_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-99",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:99:english:me1-99",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-99",
+      "setId": "me1",
+      "collectorNumber": "99",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-99",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-67",
+    "englishName": "Gimmighoul",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "67",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/67.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-67",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:67:english:me1-67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-67",
+      "setId": "me1",
+      "collectorNumber": "67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-92",
+    "englishName": "Grafaiai",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "92",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/92.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/92_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-92",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:92:english:me1-92",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-92",
+      "setId": "me1",
+      "collectorNumber": "92",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-92",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-65",
+    "englishName": "Greavard",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "65",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/65.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-65",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:65:english:me1-65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-65",
+      "setId": "me1",
+      "collectorNumber": "65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-63",
+    "englishName": "Grumpig",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "63",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/63.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-63",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:63:english:me1-63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-63",
+      "setId": "me1",
+      "collectorNumber": "63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-110",
+    "englishName": "Gumshoos",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "110",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/110.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/110_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-110",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:110:english:me1-110",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-110",
+      "setId": "me1",
+      "collectorNumber": "110",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-110",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-153",
+    "englishName": "Gumshoos",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "153",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/153.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/153_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-153",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:153:english:me1-153",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-153",
+      "setId": "me1",
+      "collectorNumber": "153",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-153",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-73",
+    "englishName": "Hariyama",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "73",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/73.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-73",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:73:english:me1-73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-73",
+      "setId": "me1",
+      "collectorNumber": "73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-53",
+    "englishName": "Heliolisk",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "53",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/53.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-53",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:53:english:me1-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-53",
+      "setId": "me1",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-143",
+    "englishName": "Helioptile",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "143",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/143.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/143_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-143",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:143:english:me1-143",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-143",
+      "setId": "me1",
+      "collectorNumber": "143",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-143",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-52",
+    "englishName": "Helioptile",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "52",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/52.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-52",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:52:english:me1-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-52",
+      "setId": "me1",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-145",
+    "englishName": "Houndstone",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "145",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/145.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/145_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-145",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:145:english:me1-145",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-145",
+      "setId": "me1",
+      "collectorNumber": "145",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-145",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-66",
+    "englishName": "Houndstone",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "66",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/66.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-66",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:66:english:me1-66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-66",
+      "setId": "me1",
+      "collectorNumber": "66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-142",
+    "englishName": "Inteleon",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "142",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/142.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/142_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-142",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:142:english:me1-142",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-142",
+      "setId": "me1",
+      "collectorNumber": "142",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-142",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-41",
+    "englishName": "Inteleon",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "41",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/41.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-41",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:41:english:me1-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-41",
+      "setId": "me1",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-118",
+    "englishName": "Iron Defender",
+    "category": "Trainer",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "118",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/118.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/118_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-118",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:118:english:me1-118",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-118",
+      "setId": "me1",
+      "collectorNumber": "118",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-118",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-134",
+    "englishName": "Ivysaur",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "134",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/134.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/134_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-134",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:134:english:me1-134",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-134",
+      "setId": "me1",
+      "collectorNumber": "134",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-134",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-2",
+    "englishName": "Ivysaur",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "2",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/2.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-2",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:2:english:me1-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-2",
+      "setId": "me1",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-57",
+    "englishName": "Jynx",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "57",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/57.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-57",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:57:english:me1-57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-57",
+      "setId": "me1",
+      "collectorNumber": "57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-55",
+    "englishName": "Kadabra",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "55",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/55.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-55",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:55:english:me1-55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-55",
+      "setId": "me1",
+      "collectorNumber": "55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-59",
+    "englishName": "Kirlia",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "59",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/59.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-59",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:59:english:me1-59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-59",
+      "setId": "me1",
+      "collectorNumber": "59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-34",
+    "englishName": "Kyogre",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "34",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/34.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-34",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:34:english:me1-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-34",
+      "setId": "me1",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-101",
+    "englishName": "Latios",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "101",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/101.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/101_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-101",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:101:english:me1-101",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-101",
+      "setId": "me1",
+      "collectorNumber": "101",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-101",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-119",
+    "englishName": "Lillie's Determination",
+    "category": "Trainer",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "119",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/119.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/119_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-119",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:119:english:me1-119",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-119",
+      "setId": "me1",
+      "collectorNumber": "119",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-119",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-169",
+    "englishName": "Lillie's Determination",
+    "category": "Trainer",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "169",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/169.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/169_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-169",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:169:english:me1-169",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-169",
+      "setId": "me1",
+      "collectorNumber": "169",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-169",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-184",
+    "englishName": "Lillie's Determination",
+    "category": "Trainer",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "184",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/184.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/184_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-184",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:184:english:me1-184",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-184",
+      "setId": "me1",
+      "collectorNumber": "184",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-184",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-139",
+    "englishName": "Litleo",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "139",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/139.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/139_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-139",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:139:english:me1-139",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-139",
+      "setId": "me1",
+      "collectorNumber": "139",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-139",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-23",
+    "englishName": "Litleo",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "23",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/23.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-23",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:23:english:me1-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-23",
+      "setId": "me1",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-108",
+    "englishName": "Lopunny",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "108",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/108.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/108_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-108",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:108:english:me1-108",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-108",
+      "setId": "me1",
+      "collectorNumber": "108",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-108",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-120",
+    "englishName": "Lt. Surge's Bargain",
+    "category": "Trainer",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "120",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/120.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/120_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-120",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:120:english:me1-120",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-120",
+      "setId": "me1",
+      "collectorNumber": "120",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-120",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-170",
+    "englishName": "Lt. Surge's Bargain",
+    "category": "Trainer",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "170",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/170.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/170_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-170",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:170:english:me1-170",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-170",
+      "setId": "me1",
+      "collectorNumber": "170",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-170",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-185",
+    "englishName": "Lt. Surge's Bargain",
+    "category": "Trainer",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "185",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/185.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/185_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-185",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:185:english:me1-185",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-185",
+      "setId": "me1",
+      "collectorNumber": "185",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-185",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-74",
+    "englishName": "Lunatone",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "74",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/74.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-74",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:74:english:me1-74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-74",
+      "setId": "me1",
+      "collectorNumber": "74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-45",
+    "englishName": "Magnemite",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "45",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/45.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-45",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:45:english:me1-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-45",
+      "setId": "me1",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-46",
+    "englishName": "Magneton",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "46",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/46.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-46",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:46:english:me1-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-46",
+      "setId": "me1",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-47",
+    "englishName": "Magnezone",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "47",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/47.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-47",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:47:english:me1-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-47",
+      "setId": "me1",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-72",
+    "englishName": "Makuhita",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "72",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/72.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-72",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:72:english:me1-72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-72",
+      "setId": "me1",
+      "collectorNumber": "72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-32",
+    "englishName": "Mantine",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "32",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/32.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-32",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:32:english:me1-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-32",
+      "setId": "me1",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-146",
+    "englishName": "Marshadow",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "146",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/146.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/146_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-146",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:146:english:me1-146",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-146",
+      "setId": "me1",
+      "collectorNumber": "146",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-146",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-80",
+    "englishName": "Marshadow",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "80",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/80.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/80_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-80",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:80:english:me1-80",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-80",
+      "setId": "me1",
+      "collectorNumber": "80",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-80",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-157",
+    "englishName": "Mega Abomasnow ex",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "157",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/157.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/157_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-157",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:157:english:me1-157",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-157",
+      "setId": "me1",
+      "collectorNumber": "157",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-157",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-36",
+    "englishName": "Mega Abomasnow ex",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "36",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/36.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-36",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:36:english:me1-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-36",
+      "setId": "me1",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-161",
+    "englishName": "Mega Absol ex",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "161",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/161.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/161_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-161",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:161:english:me1-161",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-161",
+      "setId": "me1",
+      "collectorNumber": "161",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-161",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-180",
+    "englishName": "Mega Absol ex",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "180",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/180.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/180_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-180",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:180:english:me1-180",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-180",
+      "setId": "me1",
+      "collectorNumber": "180",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-180",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-86",
+    "englishName": "Mega Absol ex",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "86",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/86.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/86_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-86",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:86:english:me1-86",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-86",
+      "setId": "me1",
+      "collectorNumber": "86",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-86",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-156",
+    "englishName": "Mega Camerupt ex",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "156",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/156.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/156_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-156",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:156:english:me1-156",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-156",
+      "setId": "me1",
+      "collectorNumber": "156",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-156",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-22",
+    "englishName": "Mega Camerupt ex",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "22",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/22.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-22",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:22:english:me1-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-22",
+      "setId": "me1",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-159",
+    "englishName": "Mega Gardevoir ex",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "159",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/159.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/159_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-159",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:159:english:me1-159",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-159",
+      "setId": "me1",
+      "collectorNumber": "159",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-159",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-178",
+    "englishName": "Mega Gardevoir ex",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "178",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/178.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/178_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-178",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:178:english:me1-178",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-178",
+      "setId": "me1",
+      "collectorNumber": "178",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-178",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-187",
+    "englishName": "Mega Gardevoir ex",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "187",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/187.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/187_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-187",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:187:english:me1-187",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-187",
+      "setId": "me1",
+      "collectorNumber": "187",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-187",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-60",
+    "englishName": "Mega Gardevoir ex",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "60",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/60.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-60",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:60:english:me1-60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-60",
+      "setId": "me1",
+      "collectorNumber": "60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-104",
+    "englishName": "Mega Kangaskhan ex",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "104",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/104.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/104_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-104",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:104:english:me1-104",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-104",
+      "setId": "me1",
+      "collectorNumber": "104",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-104",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-164",
+    "englishName": "Mega Kangaskhan ex",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "164",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/164.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/164_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-164",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:164:english:me1-164",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-164",
+      "setId": "me1",
+      "collectorNumber": "164",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-164",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-182",
+    "englishName": "Mega Kangaskhan ex",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "182",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/182.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/182_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-182",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:182:english:me1-182",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-182",
+      "setId": "me1",
+      "collectorNumber": "182",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-182",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-100",
+    "englishName": "Mega Latias ex",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "100",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/100.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/100_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-100",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:100:english:me1-100",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-100",
+      "setId": "me1",
+      "collectorNumber": "100",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-100",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-163",
+    "englishName": "Mega Latias ex",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "163",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/163.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/163_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-163",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:163:english:me1-163",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-163",
+      "setId": "me1",
+      "collectorNumber": "163",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-163",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-181",
+    "englishName": "Mega Latias ex",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "181",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/181.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/181_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-181",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:181:english:me1-181",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-181",
+      "setId": "me1",
+      "collectorNumber": "181",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-181",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-160",
+    "englishName": "Mega Lucario ex",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "160",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/160.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/160_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-160",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:160:english:me1-160",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-160",
+      "setId": "me1",
+      "collectorNumber": "160",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-160",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-179",
+    "englishName": "Mega Lucario ex",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "179",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/179.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/179_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-179",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:179:english:me1-179",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-179",
+      "setId": "me1",
+      "collectorNumber": "179",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-179",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-188",
+    "englishName": "Mega Lucario ex",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "188",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/188.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/188_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-188",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:188:english:me1-188",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-188",
+      "setId": "me1",
+      "collectorNumber": "188",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-188",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-77",
+    "englishName": "Mega Lucario ex",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "77",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/77.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-77",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:77:english:me1-77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-77",
+      "setId": "me1",
+      "collectorNumber": "77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-158",
+    "englishName": "Mega Manectric ex",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "158",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/158.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/158_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-158",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:158:english:me1-158",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-158",
+      "setId": "me1",
+      "collectorNumber": "158",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-158",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-50",
+    "englishName": "Mega Manectric ex",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "50",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/50.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-50",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:50:english:me1-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-50",
+      "setId": "me1",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-162",
+    "englishName": "Mega Mawile ex",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "162",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/162.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/162_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-162",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:162:english:me1-162",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-162",
+      "setId": "me1",
+      "collectorNumber": "162",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-162",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-94",
+    "englishName": "Mega Mawile ex",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "94",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/94.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/94_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-94",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:94:english:me1-94",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-94",
+      "setId": "me1",
+      "collectorNumber": "94",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-94",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-121",
+    "englishName": "Mega Signal",
+    "category": "Trainer",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "121",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/121.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/121_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-121",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:121:english:me1-121",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-121",
+      "setId": "me1",
+      "collectorNumber": "121",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-121",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-171",
+    "englishName": "Mega Signal",
+    "category": "Trainer",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "171",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/171.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/171_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-171",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:171:english:me1-171",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-171",
+      "setId": "me1",
+      "collectorNumber": "171",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-171",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-155",
+    "englishName": "Mega Venusaur ex",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "155",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/155.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/155_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-155",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:155:english:me1-155",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-155",
+      "setId": "me1",
+      "collectorNumber": "155",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-155",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-177",
+    "englishName": "Mega Venusaur ex",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "177",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/177.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/177_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-177",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:177:english:me1-177",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-177",
+      "setId": "me1",
+      "collectorNumber": "177",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-177",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-3",
+    "englishName": "Mega Venusaur ex",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "3",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/3.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-3",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:3:english:me1-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-3",
+      "setId": "me1",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-10",
+    "englishName": "Meganium",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "10",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/10.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-10",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:10:english:me1-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-10",
+      "setId": "me1",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-106",
+    "englishName": "Miltank",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "106",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/106.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/106_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-106",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:106:english:me1-106",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-106",
+      "setId": "me1",
+      "collectorNumber": "106",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-106",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-122",
+    "englishName": "Mystery Garden",
+    "category": "Trainer",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "122",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/122.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/122_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-122",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:122:english:me1-122",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-122",
+      "setId": "me1",
+      "collectorNumber": "122",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-122",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-172",
+    "englishName": "Mystery Garden",
+    "category": "Trainer",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "172",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/172.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/172_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-172",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:172:english:me1-172",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-172",
+      "setId": "me1",
+      "collectorNumber": "172",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-172",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-82",
+    "englishName": "Nacli",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "82",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/82.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/82_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-82",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:82:english:me1-82",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-82",
+      "setId": "me1",
+      "collectorNumber": "82",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-82",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-83",
+    "englishName": "Naclstack",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "83",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/83.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/83_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-83",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:83:english:me1-83",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-83",
+      "setId": "me1",
+      "collectorNumber": "83",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-83",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-89",
+    "englishName": "Nickit",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "89",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/89.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/89_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-89",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:89:english:me1-89",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-89",
+      "setId": "me1",
+      "collectorNumber": "89",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-89",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-173",
+    "englishName": "Night Stretcher",
+    "category": "Trainer",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "173",
+    "regulationMark": "H",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/173.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/173_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-173",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:173:english:me1-173",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-173",
+      "setId": "me1",
+      "collectorNumber": "173",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-173",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-16",
+    "englishName": "Nincada",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "16",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/16.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-16",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:16:english:me1-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-16",
+      "setId": "me1",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-20",
+    "englishName": "Ninetales",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "20",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/20.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-20",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:20:english:me1-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-20",
+      "setId": "me1",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-137",
+    "englishName": "Ninjask",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "137",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/137.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/137_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-137",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:137:english:me1-137",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-137",
+      "setId": "me1",
+      "collectorNumber": "137",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-137",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-17",
+    "englishName": "Ninjask",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "17",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/17.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-17",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:17:english:me1-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-17",
+      "setId": "me1",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-21",
+    "englishName": "Numel",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "21",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/21.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-21",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:21:english:me1-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-21",
+      "setId": "me1",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-14",
+    "englishName": "Nuzleaf",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "14",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/14.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-14",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:14:english:me1-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-14",
+      "setId": "me1",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-70",
+    "englishName": "Onix",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "70",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/70.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-70",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:70:english:me1-70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-70",
+      "setId": "me1",
+      "collectorNumber": "70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-51",
+    "englishName": "Pachirisu",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "51",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/51.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-51",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:51:english:me1-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-51",
+      "setId": "me1",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-123",
+    "englishName": "Pokémon Center Lady",
+    "category": "Trainer",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "123",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/123.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/123_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-123",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:123:english:me1-123",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-123",
+      "setId": "me1",
+      "collectorNumber": "123",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-123",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-124",
+    "englishName": "Premium Power Pro",
+    "category": "Trainer",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "124",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/124.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/124_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-124",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:124:english:me1-124",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-124",
+      "setId": "me1",
+      "collectorNumber": "124",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-124",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-174",
+    "englishName": "Premium Power Pro",
+    "category": "Trainer",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "174",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/174.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/174_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-174",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:174:english:me1-174",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-174",
+      "setId": "me1",
+      "collectorNumber": "174",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-174",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-24",
+    "englishName": "Pyroar",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "24",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/24.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-24",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:24:english:me1-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-24",
+      "setId": "me1",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-27",
+    "englishName": "Raboot",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "27",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/27.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-27",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:27:english:me1-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-27",
+      "setId": "me1",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-48",
+    "englishName": "Raikou",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "48",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/48.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-48",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:48:english:me1-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-48",
+      "setId": "me1",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-58",
+    "englishName": "Ralts",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "58",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/58.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-58",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:58:english:me1-58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-58",
+      "setId": "me1",
+      "collectorNumber": "58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-125",
+    "englishName": "Rare Candy",
+    "category": "Trainer",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "125",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/125.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/125_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-125",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:125:english:me1-125",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-125",
+      "setId": "me1",
+      "collectorNumber": "125",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-125",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-175",
+    "englishName": "Rare Candy",
+    "category": "Trainer",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "175",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/175.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/175_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-175",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:175:english:me1-175",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-175",
+      "setId": "me1",
+      "collectorNumber": "175",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-175",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-126",
+    "englishName": "Repel",
+    "category": "Trainer",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "126",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/126.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/126_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-126",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:126:english:me1-126",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-126",
+      "setId": "me1",
+      "collectorNumber": "126",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-126",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-76",
+    "englishName": "Riolu",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "76",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/76.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-76",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:76:english:me1-76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-76",
+      "setId": "me1",
+      "collectorNumber": "76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-127",
+    "englishName": "Risky Ruins",
+    "category": "Trainer",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "127",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/127.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/127_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-127",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:127:english:me1-127",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-127",
+      "setId": "me1",
+      "collectorNumber": "127",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-127",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-68",
+    "englishName": "Sandshrew",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "68",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/68.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-68",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:68:english:me1-68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-68",
+      "setId": "me1",
+      "collectorNumber": "68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-69",
+    "englishName": "Sandslash",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "69",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/69.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-69",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:69:english:me1-69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-69",
+      "setId": "me1",
+      "collectorNumber": "69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-26",
+    "englishName": "Scorbunny",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "26",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/26.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-26",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:26:english:me1-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-26",
+      "setId": "me1",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-13",
+    "englishName": "Seedot",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "13",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/13.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-13",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:13:english:me1-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-13",
+      "setId": "me1",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-144",
+    "englishName": "Shedinja",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "144",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/144.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/144_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-144",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:144:english:me1-144",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-144",
+      "setId": "me1",
+      "collectorNumber": "144",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-144",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-61",
+    "englishName": "Shedinja",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "61",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/61.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-61",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:61:english:me1-61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-61",
+      "setId": "me1",
+      "collectorNumber": "61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-15",
+    "englishName": "Shiftry",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "15",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/15.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-15",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:15:english:me1-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-15",
+      "setId": "me1",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-149",
+    "englishName": "Shroodle",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "149",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/149.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/149_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-149",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:149:english:me1-149",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-149",
+      "setId": "me1",
+      "collectorNumber": "149",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-149",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-91",
+    "englishName": "Shroodle",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "91",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/91.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/91_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-91",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:91:english:me1-91",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-91",
+      "setId": "me1",
+      "collectorNumber": "91",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-91",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-11",
+    "englishName": "Shuckle",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "11",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/11.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-11",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:11:english:me1-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-11",
+      "setId": "me1",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-136",
+    "englishName": "Shuckle",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "136",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/136.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/136_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-136",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:136:english:me1-136",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-136",
+      "setId": "me1",
+      "collectorNumber": "136",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-136",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-29",
+    "englishName": "Sizzlipede",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "29",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/29.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-29",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:29:english:me1-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-29",
+      "setId": "me1",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-42",
+    "englishName": "Snom",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "42",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/42.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-42",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:42:english:me1-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-42",
+      "setId": "me1",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-140",
+    "englishName": "Snover",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "140",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/140.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/140_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-140",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:140:english:me1-140",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-140",
+      "setId": "me1",
+      "collectorNumber": "140",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-140",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-35",
+    "englishName": "Snover",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "35",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/35.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-35",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:35:english:me1-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-35",
+      "setId": "me1",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-39",
+    "englishName": "Sobble",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "39",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/39.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-39",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:39:english:me1-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-39",
+      "setId": "me1",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-75",
+    "englishName": "Solrock",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "75",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/75.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-75",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:75:english:me1-75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-75",
+      "setId": "me1",
+      "collectorNumber": "75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-102",
+    "englishName": "Spearow",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "102",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/102.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/102_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-102",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:102:english:me1-102",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-102",
+      "setId": "me1",
+      "collectorNumber": "102",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-102",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-151",
+    "englishName": "Spearow",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "151",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/151.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/151_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-151",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:151:english:me1-151",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-151",
+      "setId": "me1",
+      "collectorNumber": "151",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-151",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-148",
+    "englishName": "Spiritomb",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "148",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/148.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/148_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-148",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:148:english:me1-148",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-148",
+      "setId": "me1",
+      "collectorNumber": "148",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-148",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-87",
+    "englishName": "Spiritomb",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "87",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/87.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/87_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-87",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:87:english:me1-87",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-87",
+      "setId": "me1",
+      "collectorNumber": "87",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-87",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-62",
+    "englishName": "Spoink",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "62",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/62.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-62",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:62:english:me1-62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-62",
+      "setId": "me1",
+      "collectorNumber": "62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-150",
+    "englishName": "Steelix",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "150",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/150.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/150_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-150",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:150:english:me1-150",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-150",
+      "setId": "me1",
+      "collectorNumber": "150",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-150",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-93",
+    "englishName": "Steelix",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "93",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/93.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/93_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-93",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:93:english:me1-93",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-93",
+      "setId": "me1",
+      "collectorNumber": "93",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-93",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-81",
+    "englishName": "Stonjourner",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "81",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/81.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/81_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-81",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:81:english:me1-81",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-81",
+      "setId": "me1",
+      "collectorNumber": "81",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-81",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-128",
+    "englishName": "Strange Timepiece",
+    "category": "Trainer",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "128",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/128.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/128_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-128",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:128:english:me1-128",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-128",
+      "setId": "me1",
+      "collectorNumber": "128",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-128",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-111",
+    "englishName": "Stufful",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "111",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/111.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/111_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-111",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:111:english:me1-111",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-111",
+      "setId": "me1",
+      "collectorNumber": "111",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-111",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-154",
+    "englishName": "Stufful",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "154",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/154.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/154_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-154",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:154:english:me1-154",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-154",
+      "setId": "me1",
+      "collectorNumber": "154",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-154",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-129",
+    "englishName": "Surfing Beach",
+    "category": "Trainer",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "129",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/129.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/129_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-129",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:129:english:me1-129",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-129",
+      "setId": "me1",
+      "collectorNumber": "129",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-129",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-130",
+    "englishName": "Switch",
+    "category": "Trainer",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "130",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/130.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/130_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-130",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:130:english:me1-130",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-130",
+      "setId": "me1",
+      "collectorNumber": "130",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-130",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-6",
+    "englishName": "Tangela",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "6",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/6.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-6",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:6:english:me1-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-6",
+      "setId": "me1",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-7",
+    "englishName": "Tangrowth",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "7",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/7.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-7",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:7:english:me1-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-7",
+      "setId": "me1",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-90",
+    "englishName": "Thievul",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "90",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/90.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/90_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-90",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:90:english:me1-90",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-90",
+      "setId": "me1",
+      "collectorNumber": "90",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-90",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-96",
+    "englishName": "Tinkatink",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "96",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/96.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/96_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-96",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:96:english:me1-96",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-96",
+      "setId": "me1",
+      "collectorNumber": "96",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-96",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-98",
+    "englishName": "Tinkaton",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "98",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/98.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/98_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-98",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:98:english:me1-98",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-98",
+      "setId": "me1",
+      "collectorNumber": "98",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-98",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-97",
+    "englishName": "Tinkatuff",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "97",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/97.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/97_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-97",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:97:english:me1-97",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-97",
+      "setId": "me1",
+      "collectorNumber": "97",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-97",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-79",
+    "englishName": "Toxicroak",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "79",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/79.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/79_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-79",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:79:english:me1-79",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-79",
+      "setId": "me1",
+      "collectorNumber": "79",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-79",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-71",
+    "englishName": "Tyrogue",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "71",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/71.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-71",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:71:english:me1-71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-71",
+      "setId": "me1",
+      "collectorNumber": "71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-131",
+    "englishName": "Ultra Ball",
+    "category": "Trainer",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "131",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/131.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/131_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-131",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:131:english:me1-131",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-131",
+      "setId": "me1",
+      "collectorNumber": "131",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-131",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-25",
+    "englishName": "Volcanion",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "25",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/25.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-25",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:25:english:me1-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-25",
+      "setId": "me1",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-138",
+    "englishName": "Vulpix",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "138",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/138.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/138_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-138",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:138:english:me1-138",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-138",
+      "setId": "me1",
+      "collectorNumber": "138",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-138",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-19",
+    "englishName": "Vulpix",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "19",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/19.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-19",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:19:english:me1-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-19",
+      "setId": "me1",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-132",
+    "englishName": "Wally's Compassion",
+    "category": "Trainer",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "132",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/132.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/132_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-132",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:132:english:me1-132",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-132",
+      "setId": "me1",
+      "collectorNumber": "132",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-132",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-176",
+    "englishName": "Wally's Compassion",
+    "category": "Trainer",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "176",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/176.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/176_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-176",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:176:english:me1-176",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-176",
+      "setId": "me1",
+      "collectorNumber": "176",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-176",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-186",
+    "englishName": "Wally's Compassion",
+    "category": "Trainer",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "186",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/186.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/186_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-186",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:186:english:me1-186",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-186",
+      "setId": "me1",
+      "collectorNumber": "186",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-186",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-64",
+    "englishName": "Xerneas",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "64",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/64.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-64",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:64:english:me1-64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-64",
+      "setId": "me1",
+      "collectorNumber": "64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-109",
+    "englishName": "Yungoos",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "109",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/109.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/109_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-109",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:109:english:me1-109",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-109",
+      "setId": "me1",
+      "collectorNumber": "109",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-109",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "me1-88",
+    "englishName": "Yveltal",
+    "category": "Pokemon",
+    "setCode": "MEG",
+    "setName": "Mega Evolution",
+    "cardNumber": "88",
+    "regulationMark": "I",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/me1/88.png",
+    "imageLarge": "https://images.pokemontcg.io/me1/88_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "me1-88",
+    "sourceSetId": "me1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:me1:88:english:me1-88",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "me1-88",
+      "setId": "me1",
+      "collectorNumber": "88",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "me1-88",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

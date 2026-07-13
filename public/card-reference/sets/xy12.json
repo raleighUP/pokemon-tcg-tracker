@@ -1,0 +1,3176 @@
+[
+  {
+    "id": "xy12-18",
+    "englishName": "Arcanine",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "18",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/18.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-18",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:18:english:xy12-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-18",
+      "setId": "xy12",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-7",
+    "englishName": "Beedrill",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "7",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/7.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-7",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:7:english:xy12-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-7",
+      "setId": "xy12",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-73",
+    "englishName": "Blastoise Spirit Link",
+    "category": "Trainer",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "73",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/73.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-73",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:73:english:xy12-73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-73",
+      "setId": "xy12",
+      "collectorNumber": "73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-21",
+    "englishName": "Blastoise-EX",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "21",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/21.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-21",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:21:english:xy12-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-21",
+      "setId": "xy12",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-107",
+    "englishName": "Brock's Grit",
+    "category": "Trainer",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "107",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/107.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/107_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-107",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:107:english:xy12-107",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-107",
+      "setId": "xy12",
+      "collectorNumber": "107",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-107",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-74",
+    "englishName": "Brock's Grit",
+    "category": "Trainer",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "74",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/74.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-74",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:74:english:xy12-74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-74",
+      "setId": "xy12",
+      "collectorNumber": "74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-3",
+    "englishName": "Caterpie",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "3",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/3.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-3",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:3:english:xy12-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-3",
+      "setId": "xy12",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-70",
+    "englishName": "Chansey",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "70",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/70.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-70",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:70:english:xy12-70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-70",
+      "setId": "xy12",
+      "collectorNumber": "70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-75",
+    "englishName": "Charizard Spirit Link",
+    "category": "Trainer",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "75",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/75.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-75",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:75:english:xy12-75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-75",
+      "setId": "xy12",
+      "collectorNumber": "75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-12",
+    "englishName": "Charizard-EX",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "12",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/12.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-12",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:12:english:xy12-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-12",
+      "setId": "xy12",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-11",
+    "englishName": "Charizard",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "11",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/11.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-11",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:11:english:xy12-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-11",
+      "setId": "xy12",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-9",
+    "englishName": "Charmander",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "9",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/9.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-9",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:9:english:xy12-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-9",
+      "setId": "xy12",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-10",
+    "englishName": "Charmeleon",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "10",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/10.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-10",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:10:english:xy12-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-10",
+      "setId": "xy12",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-63",
+    "englishName": "Clefairy",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "63",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/63.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-63",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:63:english:xy12-63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-63",
+      "setId": "xy12",
+      "collectorNumber": "63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-97",
+    "englishName": "Darkness Energy",
+    "category": "Energy",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "97",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/97.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/97_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-97",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:97:english:xy12-97",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-97",
+      "setId": "xy12",
+      "collectorNumber": "97",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-97",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-76",
+    "englishName": "Devolution Spray",
+    "category": "Trainer",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "76",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/76.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-76",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:76:english:xy12-76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-76",
+      "setId": "xy12",
+      "collectorNumber": "76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-29",
+    "englishName": "Dewgong",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "29",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/29.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-29",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:29:english:xy12-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-29",
+      "setId": "xy12",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-55",
+    "englishName": "Diglett",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "55",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/55.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-55",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:55:english:xy12-55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-55",
+      "setId": "xy12",
+      "collectorNumber": "55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-69",
+    "englishName": "Doduo",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "69",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/69.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-69",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:69:english:xy12-69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-69",
+      "setId": "xy12",
+      "collectorNumber": "69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-90",
+    "englishName": "Double Colorless Energy",
+    "category": "Energy",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "90",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/90.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/90_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-90",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:90:english:xy12-90",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-90",
+      "setId": "xy12",
+      "collectorNumber": "90",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-90",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-106",
+    "englishName": "Dragonite-EX",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "106",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/106.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/106_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-106",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:106:english:xy12-106",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-106",
+      "setId": "xy12",
+      "collectorNumber": "106",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-106",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-72",
+    "englishName": "Dragonite-EX",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "72",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/72.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-72",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:72:english:xy12-72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-72",
+      "setId": "xy12",
+      "collectorNumber": "72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-49",
+    "englishName": "Drowzee",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "49",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/49.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-49",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:49:english:xy12-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-49",
+      "setId": "xy12",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-56",
+    "englishName": "Dugtrio",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "56",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/56.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-56",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:56:english:xy12-56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-56",
+      "setId": "xy12",
+      "collectorNumber": "56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-41",
+    "englishName": "Electabuzz",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "41",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/41.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-41",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:41:english:xy12-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-41",
+      "setId": "xy12",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-40",
+    "englishName": "Electrode",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "40",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/40.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-40",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:40:english:xy12-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-40",
+      "setId": "xy12",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-77",
+    "englishName": "Energy Retrieval",
+    "category": "Trainer",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "77",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/77.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-77",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:77:english:xy12-77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-77",
+      "setId": "xy12",
+      "collectorNumber": "77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-99",
+    "englishName": "Fairy Energy",
+    "category": "Energy",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "99",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/99.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/99_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-99",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:99:english:xy12-99",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-99",
+      "setId": "xy12",
+      "collectorNumber": "99",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-99",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-68",
+    "englishName": "Farfetch'd",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "68",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/68.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-68",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:68:english:xy12-68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-68",
+      "setId": "xy12",
+      "collectorNumber": "68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-96",
+    "englishName": "Fighting Energy",
+    "category": "Energy",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "96",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/96.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/96_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-96",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:96:english:xy12-96",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-96",
+      "setId": "xy12",
+      "collectorNumber": "96",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-96",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-92",
+    "englishName": "Fire Energy",
+    "category": "Energy",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "92",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/92.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/92_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-92",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:92:english:xy12-92",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-92",
+      "setId": "xy12",
+      "collectorNumber": "92",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-92",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-110",
+    "englishName": "Flying Pikachu",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "110",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/110.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/110_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-110",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:110:english:xy12-110",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-110",
+      "setId": "xy12",
+      "collectorNumber": "110",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-110",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-78",
+    "englishName": "Full Heal",
+    "category": "Trainer",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "78",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/78.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-78",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:78:english:xy12-78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-78",
+      "setId": "xy12",
+      "collectorNumber": "78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-47",
+    "englishName": "Gastly",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "47",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/47.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-47",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:47:english:xy12-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-47",
+      "setId": "xy12",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-91",
+    "englishName": "Grass Energy",
+    "category": "Energy",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "91",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/91.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/91_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-91",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:91:english:xy12-91",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-91",
+      "setId": "xy12",
+      "collectorNumber": "91",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-91",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-17",
+    "englishName": "Growlithe",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "17",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/17.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-17",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:17:english:xy12-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-17",
+      "setId": "xy12",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-34",
+    "englishName": "Gyarados",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "34",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/34.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-34",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:34:english:xy12-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-34",
+      "setId": "xy12",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-48",
+    "englishName": "Haunter",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "48",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/48.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-48",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:48:english:xy12-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-48",
+      "setId": "xy12",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-113",
+    "englishName": "Here Comes Team Rocket!",
+    "category": "Trainer",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "113",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/113.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/113_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-113",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:113:english:xy12-113",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-113",
+      "setId": "xy12",
+      "collectorNumber": "113",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-113",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-62",
+    "englishName": "Hitmonchan",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "62",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/62.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-62",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:62:english:xy12-62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-62",
+      "setId": "xy12",
+      "collectorNumber": "62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-112",
+    "englishName": "Imakuni?'s Doduo",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "112",
+    "legalities": {
+      "unlimited": "Banned"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/112.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/112_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-112",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:112:english:xy12-112",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-112",
+      "setId": "xy12",
+      "collectorNumber": "112",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-112",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-6",
+    "englishName": "Kakuna",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "6",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/6.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-6",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:6:english:xy12-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-6",
+      "setId": "xy12",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-50",
+    "englishName": "Koffing",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "50",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/50.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-50",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:50:english:xy12-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-50",
+      "setId": "xy12",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-94",
+    "englishName": "Lightning Energy",
+    "category": "Energy",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "94",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/94.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/94_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-94",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:94:english:xy12-94",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-94",
+      "setId": "xy12",
+      "collectorNumber": "94",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-94",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-102",
+    "englishName": "M Blastoise-EX",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "102",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/102.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/102_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-102",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:102:english:xy12-102",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-102",
+      "setId": "xy12",
+      "collectorNumber": "102",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-102",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-22",
+    "englishName": "M Blastoise-EX",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "22",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/22.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-22",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:22:english:xy12-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-22",
+      "setId": "xy12",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-101",
+    "englishName": "M Charizard-EX",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "101",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/101.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/101_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-101",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:101:english:xy12-101",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-101",
+      "setId": "xy12",
+      "collectorNumber": "101",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-101",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-13",
+    "englishName": "M Charizard-EX",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "13",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/13.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-13",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:13:english:xy12-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-13",
+      "setId": "xy12",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-105",
+    "englishName": "M Pidgeot-EX",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "105",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/105.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/105_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-105",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:105:english:xy12-105",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-105",
+      "setId": "xy12",
+      "collectorNumber": "105",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-105",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-65",
+    "englishName": "M Pidgeot-EX",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "65",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/65.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-65",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:65:english:xy12-65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-65",
+      "setId": "xy12",
+      "collectorNumber": "65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-27",
+    "englishName": "M Slowbro-EX",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "27",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/27.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-27",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:27:english:xy12-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-27",
+      "setId": "xy12",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-100",
+    "englishName": "M Venusaur-EX",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "100",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/100.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/100_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-100",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:100:english:xy12-100",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-100",
+      "setId": "xy12",
+      "collectorNumber": "100",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-100",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-2",
+    "englishName": "M Venusaur-EX",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "2",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/2.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-2",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:2:english:xy12-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-2",
+      "setId": "xy12",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-60",
+    "englishName": "Machamp BREAK",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "60",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/60.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-60",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:60:english:xy12-60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-60",
+      "setId": "xy12",
+      "collectorNumber": "60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-59",
+    "englishName": "Machamp",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "59",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/59.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-59",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:59:english:xy12-59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-59",
+      "setId": "xy12",
+      "collectorNumber": "59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-58",
+    "englishName": "Machoke",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "58",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/58.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-58",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:58:english:xy12-58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-58",
+      "setId": "xy12",
+      "collectorNumber": "58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-57",
+    "englishName": "Machop",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "57",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/57.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-57",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:57:english:xy12-57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-57",
+      "setId": "xy12",
+      "collectorNumber": "57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-33",
+    "englishName": "Magikarp",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "33",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/33.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-33",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:33:english:xy12-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-33",
+      "setId": "xy12",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-20",
+    "englishName": "Magmar",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "20",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/20.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-20",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:20:english:xy12-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-20",
+      "setId": "xy12",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-37",
+    "englishName": "Magnemite",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "37",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/37.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-37",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:37:english:xy12-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-37",
+      "setId": "xy12",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-38",
+    "englishName": "Magneton",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "38",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/38.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-38",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:38:english:xy12-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-38",
+      "setId": "xy12",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-79",
+    "englishName": "Maintenance",
+    "category": "Trainer",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "79",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/79.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/79_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-79",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:79:english:xy12-79",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-79",
+      "setId": "xy12",
+      "collectorNumber": "79",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-79",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-98",
+    "englishName": "Metal Energy",
+    "category": "Energy",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "98",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/98.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/98_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-98",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:98:english:xy12-98",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-98",
+      "setId": "xy12",
+      "collectorNumber": "98",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-98",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-4",
+    "englishName": "Metapod",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "4",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/4.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-4",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:4:english:xy12-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-4",
+      "setId": "xy12",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-53",
+    "englishName": "Mew",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "53",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/53.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-53",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:53:english:xy12-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-53",
+      "setId": "xy12",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-103",
+    "englishName": "Mewtwo-EX",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "103",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/103.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/103_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-103",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:103:english:xy12-103",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-103",
+      "setId": "xy12",
+      "collectorNumber": "103",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-103",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-52",
+    "englishName": "Mewtwo-EX",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "52",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/52.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-52",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:52:english:xy12-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-52",
+      "setId": "xy12",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-51",
+    "englishName": "Mewtwo",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "51",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/51.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-51",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:51:english:xy12-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-51",
+      "setId": "xy12",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-108",
+    "englishName": "Misty's Determination",
+    "category": "Trainer",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "108",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/108.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/108_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-108",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:108:english:xy12-108",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-108",
+      "setId": "xy12",
+      "collectorNumber": "108",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-108",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-80",
+    "englishName": "Misty's Determination",
+    "category": "Trainer",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "80",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/80.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/80_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-80",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:80:english:xy12-80",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-80",
+      "setId": "xy12",
+      "collectorNumber": "80",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-80",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-46",
+    "englishName": "Nidoking BREAK",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "46",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/46.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-46",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:46:english:xy12-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-46",
+      "setId": "xy12",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-45",
+    "englishName": "Nidoking",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "45",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/45.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-45",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:45:english:xy12-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-45",
+      "setId": "xy12",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-43",
+    "englishName": "Nidoran ♂",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "43",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/43.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-43",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:43:english:xy12-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-43",
+      "setId": "xy12",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-44",
+    "englishName": "Nidorino",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "44",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/44.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-44",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:44:english:xy12-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-44",
+      "setId": "xy12",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-16",
+    "englishName": "Ninetales BREAK",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "16",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/16.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-16",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:16:english:xy12-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-16",
+      "setId": "xy12",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-15",
+    "englishName": "Ninetales",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "15",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/15.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-15",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:15:english:xy12-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-15",
+      "setId": "xy12",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-61",
+    "englishName": "Onix",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "61",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/61.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-61",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:61:english:xy12-61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-61",
+      "setId": "xy12",
+      "collectorNumber": "61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-81",
+    "englishName": "Pidgeot Spirit Link",
+    "category": "Trainer",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "81",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/81.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/81_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-81",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:81:english:xy12-81",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-81",
+      "setId": "xy12",
+      "collectorNumber": "81",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-81",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-104",
+    "englishName": "Pidgeot-EX",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "104",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/104.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/104_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-104",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:104:english:xy12-104",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-104",
+      "setId": "xy12",
+      "collectorNumber": "104",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-104",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-64",
+    "englishName": "Pidgeot-EX",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "64",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/64.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-64",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:64:english:xy12-64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-64",
+      "setId": "xy12",
+      "collectorNumber": "64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-35",
+    "englishName": "Pikachu",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "35",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/35.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-35",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:35:english:xy12-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-35",
+      "setId": "xy12",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-82",
+    "englishName": "Pokédex",
+    "category": "Trainer",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "82",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/82.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/82_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-82",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:82:english:xy12-82",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-82",
+      "setId": "xy12",
+      "collectorNumber": "82",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-82",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-23",
+    "englishName": "Poliwag",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "23",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/23.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-23",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:23:english:xy12-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-23",
+      "setId": "xy12",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-24",
+    "englishName": "Poliwhirl",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "24",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/24.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-24",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:24:english:xy12-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-24",
+      "setId": "xy12",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-25",
+    "englishName": "Poliwrath",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "25",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/25.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-25",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:25:english:xy12-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-25",
+      "setId": "xy12",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-19",
+    "englishName": "Ponyta",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "19",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/19.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-19",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:19:english:xy12-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-19",
+      "setId": "xy12",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-71",
+    "englishName": "Porygon",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "71",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/71.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-71",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:71:english:xy12-71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-71",
+      "setId": "xy12",
+      "collectorNumber": "71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-83",
+    "englishName": "Potion",
+    "category": "Trainer",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "83",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/83.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/83_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-83",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:83:english:xy12-83",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-83",
+      "setId": "xy12",
+      "collectorNumber": "83",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-83",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-84",
+    "englishName": "Professor Oak's Hint",
+    "category": "Trainer",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "84",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/84.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/84_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-84",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:84:english:xy12-84",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-84",
+      "setId": "xy12",
+      "collectorNumber": "84",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-84",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-95",
+    "englishName": "Psychic Energy",
+    "category": "Energy",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "95",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/95.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/95_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-95",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:95:english:xy12-95",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-95",
+      "setId": "xy12",
+      "collectorNumber": "95",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-95",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-36",
+    "englishName": "Raichu",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "36",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/36.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-36",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:36:english:xy12-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-36",
+      "setId": "xy12",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-67",
+    "englishName": "Raticate",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "67",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/67.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-67",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:67:english:xy12-67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-67",
+      "setId": "xy12",
+      "collectorNumber": "67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-66",
+    "englishName": "Rattata",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "66",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/66.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-66",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:66:english:xy12-66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-66",
+      "setId": "xy12",
+      "collectorNumber": "66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-85",
+    "englishName": "Revive",
+    "category": "Trainer",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "85",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/85.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/85_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-85",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:85:english:xy12-85",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-85",
+      "setId": "xy12",
+      "collectorNumber": "85",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-85",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-54",
+    "englishName": "Sandshrew",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "54",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/54.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-54",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:54:english:xy12-54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-54",
+      "setId": "xy12",
+      "collectorNumber": "54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-28",
+    "englishName": "Seel",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "28",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/28.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-28",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:28:english:xy12-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-28",
+      "setId": "xy12",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-86",
+    "englishName": "Slowbro Spirit Link",
+    "category": "Trainer",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "86",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/86.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/86_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-86",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:86:english:xy12-86",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-86",
+      "setId": "xy12",
+      "collectorNumber": "86",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-86",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-26",
+    "englishName": "Slowbro-EX",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "26",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/26.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-26",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:26:english:xy12-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-26",
+      "setId": "xy12",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-32",
+    "englishName": "Starmie BREAK",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "32",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/32.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-32",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:32:english:xy12-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-32",
+      "setId": "xy12",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-31",
+    "englishName": "Starmie",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "31",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/31.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-31",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:31:english:xy12-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-31",
+      "setId": "xy12",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-30",
+    "englishName": "Staryu",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "30",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/30.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-30",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:30:english:xy12-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-30",
+      "setId": "xy12",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-87",
+    "englishName": "Super Potion",
+    "category": "Trainer",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "87",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/87.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/87_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-87",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:87:english:xy12-87",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-87",
+      "setId": "xy12",
+      "collectorNumber": "87",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-87",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-111",
+    "englishName": "Surfing Pikachu",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "111",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/111.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/111_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-111",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:111:english:xy12-111",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-111",
+      "setId": "xy12",
+      "collectorNumber": "111",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-111",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-88",
+    "englishName": "Switch",
+    "category": "Trainer",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "88",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/88.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/88_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-88",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:88:english:xy12-88",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-88",
+      "setId": "xy12",
+      "collectorNumber": "88",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-88",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-8",
+    "englishName": "Tangela",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "8",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/8.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-8",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:8:english:xy12-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-8",
+      "setId": "xy12",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-89",
+    "englishName": "Venusaur Spirit Link",
+    "category": "Trainer",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "89",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/89.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/89_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-89",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:89:english:xy12-89",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-89",
+      "setId": "xy12",
+      "collectorNumber": "89",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-89",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-1",
+    "englishName": "Venusaur-EX",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "1",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/1.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-1",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:1:english:xy12-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-1",
+      "setId": "xy12",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-39",
+    "englishName": "Voltorb",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "39",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/39.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-39",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:39:english:xy12-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-39",
+      "setId": "xy12",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-14",
+    "englishName": "Vulpix",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "14",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/14.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-14",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:14:english:xy12-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-14",
+      "setId": "xy12",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-93",
+    "englishName": "Water Energy",
+    "category": "Energy",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "93",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/93.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/93_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-93",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:93:english:xy12-93",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-93",
+      "setId": "xy12",
+      "collectorNumber": "93",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-93",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-5",
+    "englishName": "Weedle",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "5",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/5.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-5",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:5:english:xy12-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-5",
+      "setId": "xy12",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-42",
+    "englishName": "Zapdos",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "42",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/42.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-42",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:42:english:xy12-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-42",
+      "setId": "xy12",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy12-109",
+    "englishName": "ナッシー[Exeggutor]",
+    "category": "Pokemon",
+    "setCode": "EVO",
+    "setName": "Evolutions",
+    "cardNumber": "109",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy12/109.png",
+    "imageLarge": "https://images.pokemontcg.io/xy12/109_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy12-109",
+    "sourceSetId": "xy12",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy12:109:english:xy12-109",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy12-109",
+      "setId": "xy12",
+      "collectorNumber": "109",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy12-109",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

@@ -1,0 +1,3053 @@
+[
+  {
+    "id": "neo4-92",
+    "englishName": "Broken Ground Gym",
+    "category": "Trainer",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "92",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/92.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/92_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-92",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:92:english:neo4-92",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-92",
+      "setId": "neo4",
+      "collectorNumber": "92",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-92",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-31",
+    "englishName": "Chansey",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "31",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/31.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-31",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:31:english:neo4-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-31",
+      "setId": "neo4",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-97",
+    "englishName": "Counterattack Claws",
+    "category": "Trainer",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "97",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/97.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/97_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-97",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:97:english:neo4-97",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-97",
+      "setId": "neo4",
+      "collectorNumber": "97",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-97",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-61",
+    "englishName": "Cyndaquil",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "61",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/61.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-61",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:61:english:neo4-61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-61",
+      "setId": "neo4",
+      "collectorNumber": "61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-1",
+    "englishName": "Dark Ampharos",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "1",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/1.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-1",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:1:english:neo4-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-1",
+      "setId": "neo4",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-17",
+    "englishName": "Dark Ariados",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "17",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/17.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-17",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:17:english:neo4-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-17",
+      "setId": "neo4",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-2",
+    "englishName": "Dark Crobat",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "2",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/2.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-2",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:2:english:neo4-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-2",
+      "setId": "neo4",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-32",
+    "englishName": "Dark Croconaw",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "32",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/32.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-32",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:32:english:neo4-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-32",
+      "setId": "neo4",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-3",
+    "englishName": "Dark Donphan",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "3",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/3.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-3",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:3:english:neo4-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-3",
+      "setId": "neo4",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-4",
+    "englishName": "Dark Espeon",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "4",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/4.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-4",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:4:english:neo4-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-4",
+      "setId": "neo4",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-33",
+    "englishName": "Dark Exeggutor",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "33",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/33.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-33",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:33:english:neo4-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-33",
+      "setId": "neo4",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-5",
+    "englishName": "Dark Feraligatr",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "5",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/5.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-5",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:5:english:neo4-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-5",
+      "setId": "neo4",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-34",
+    "englishName": "Dark Flaaffy",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "34",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/34.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-34",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:34:english:neo4-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-34",
+      "setId": "neo4",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-35",
+    "englishName": "Dark Forretress",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "35",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/35.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-35",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:35:english:neo4-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-35",
+      "setId": "neo4",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-6",
+    "englishName": "Dark Gengar",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "6",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/6.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-6",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:6:english:neo4-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-6",
+      "setId": "neo4",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-36",
+    "englishName": "Dark Haunter",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "36",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/36.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-36",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:36:english:neo4-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-36",
+      "setId": "neo4",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-7",
+    "englishName": "Dark Houndoom",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "7",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/7.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-7",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:7:english:neo4-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-7",
+      "setId": "neo4",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-18",
+    "englishName": "Dark Magcargo",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "18",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/18.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-18",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:18:english:neo4-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-18",
+      "setId": "neo4",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-62",
+    "englishName": "Dark Octillery",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "62",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/62.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-62",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:62:english:neo4-62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-62",
+      "setId": "neo4",
+      "collectorNumber": "62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-37",
+    "englishName": "Dark Omanyte",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "37",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/37.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-37",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:37:english:neo4-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-37",
+      "setId": "neo4",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-19",
+    "englishName": "Dark Omastar",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "19",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/19.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-19",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:19:english:neo4-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-19",
+      "setId": "neo4",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-8",
+    "englishName": "Dark Porygon2",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "8",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/8.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-8",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:8:english:neo4-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-8",
+      "setId": "neo4",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-38",
+    "englishName": "Dark Pupitar",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "38",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/38.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-38",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:38:english:neo4-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-38",
+      "setId": "neo4",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-39",
+    "englishName": "Dark Quilava",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "39",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/39.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-39",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:39:english:neo4-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-39",
+      "setId": "neo4",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-9",
+    "englishName": "Dark Scizor",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "9",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/9.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-9",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:9:english:neo4-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-9",
+      "setId": "neo4",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-20",
+    "englishName": "Dark Slowking",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "20",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/20.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-20",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:20:english:neo4-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-20",
+      "setId": "neo4",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-10",
+    "englishName": "Dark Typhlosion",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "10",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/10.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-10",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:10:english:neo4-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-10",
+      "setId": "neo4",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-11",
+    "englishName": "Dark Tyranitar",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "11",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/11.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-11",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:11:english:neo4-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-11",
+      "setId": "neo4",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-21",
+    "englishName": "Dark Ursaring",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "21",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/21.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-21",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:21:english:neo4-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-21",
+      "setId": "neo4",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-40",
+    "englishName": "Dark Wigglytuff",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "40",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/40.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-40",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:40:english:neo4-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-40",
+      "setId": "neo4",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-63",
+    "englishName": "Dratini",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "63",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/63.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-63",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:63:english:neo4-63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-63",
+      "setId": "neo4",
+      "collectorNumber": "63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-98",
+    "englishName": "Energy Amplifier",
+    "category": "Trainer",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "98",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/98.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/98_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-98",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:98:english:neo4-98",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-98",
+      "setId": "neo4",
+      "collectorNumber": "98",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-98",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-99",
+    "englishName": "Energy Stadium",
+    "category": "Trainer",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "99",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/99.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/99_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-99",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:99:english:neo4-99",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-99",
+      "setId": "neo4",
+      "collectorNumber": "99",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-99",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-64",
+    "englishName": "Exeggcute",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "64",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/64.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-64",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:64:english:neo4-64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-64",
+      "setId": "neo4",
+      "collectorNumber": "64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-93",
+    "englishName": "EXP.ALL",
+    "category": "Trainer",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "93",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/93.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/93_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-93",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:93:english:neo4-93",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-93",
+      "setId": "neo4",
+      "collectorNumber": "93",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-93",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-65",
+    "englishName": "Gastly",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "65",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/65.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-65",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:65:english:neo4-65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-65",
+      "setId": "neo4",
+      "collectorNumber": "65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-66",
+    "englishName": "Girafarig",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "66",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/66.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-66",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:66:english:neo4-66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-66",
+      "setId": "neo4",
+      "collectorNumber": "66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-67",
+    "englishName": "Gligar",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "67",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/67.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-67",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:67:english:neo4-67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-67",
+      "setId": "neo4",
+      "collectorNumber": "67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-68",
+    "englishName": "Growlithe",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "68",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/68.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-68",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:68:english:neo4-68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-68",
+      "setId": "neo4",
+      "collectorNumber": "68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-104",
+    "englishName": "Heal Powder",
+    "category": "Trainer",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "104",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/104.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/104_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-104",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:104:english:neo4-104",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-104",
+      "setId": "neo4",
+      "collectorNumber": "104",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-104",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-41",
+    "englishName": "Heracross",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "41",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/41.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-41",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:41:english:neo4-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-41",
+      "setId": "neo4",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-69",
+    "englishName": "Hitmonchan",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "69",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/69.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-69",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:69:english:neo4-69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-69",
+      "setId": "neo4",
+      "collectorNumber": "69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-42",
+    "englishName": "Hitmonlee",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "42",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/42.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-42",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:42:english:neo4-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-42",
+      "setId": "neo4",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-43",
+    "englishName": "Houndour",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "43",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/43.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-43",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:43:english:neo4-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-43",
+      "setId": "neo4",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-94",
+    "englishName": "Impostor Professor Oak's Invention",
+    "category": "Trainer",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "94",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/94.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/94_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-94",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:94:english:neo4-94",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-94",
+      "setId": "neo4",
+      "collectorNumber": "94",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-94",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-44",
+    "englishName": "Jigglypuff",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "44",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/44.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-44",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:44:english:neo4-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-44",
+      "setId": "neo4",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-70",
+    "englishName": "Larvitar",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "70",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/70.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-70",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:70:english:neo4-70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-70",
+      "setId": "neo4",
+      "collectorNumber": "70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-71",
+    "englishName": "Ledyba",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "71",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/71.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-71",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:71:english:neo4-71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-71",
+      "setId": "neo4",
+      "collectorNumber": "71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-12",
+    "englishName": "Light Arcanine",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "12",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/12.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-12",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:12:english:neo4-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-12",
+      "setId": "neo4",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-13",
+    "englishName": "Light Azumarill",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "13",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/13.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-13",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:13:english:neo4-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-13",
+      "setId": "neo4",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-45",
+    "englishName": "Light Dewgong",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "45",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/45.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-45",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:45:english:neo4-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-45",
+      "setId": "neo4",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-22",
+    "englishName": "Light Dragonair",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "22",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/22.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-22",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:22:english:neo4-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-22",
+      "setId": "neo4",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-14",
+    "englishName": "Light Dragonite",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "14",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/14.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-14",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:14:english:neo4-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-14",
+      "setId": "neo4",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-46",
+    "englishName": "Light Flareon",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "46",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/46.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-46",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:46:english:neo4-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-46",
+      "setId": "neo4",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-47",
+    "englishName": "Light Golduck",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "47",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/47.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-47",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:47:english:neo4-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-47",
+      "setId": "neo4",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-48",
+    "englishName": "Light Jolteon",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "48",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/48.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-48",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:48:english:neo4-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-48",
+      "setId": "neo4",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-23",
+    "englishName": "Light Lanturn",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "23",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/23.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-23",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:23:english:neo4-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-23",
+      "setId": "neo4",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-24",
+    "englishName": "Light Ledian",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "24",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/24.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-24",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:24:english:neo4-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-24",
+      "setId": "neo4",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-25",
+    "englishName": "Light Machamp",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "25",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/25.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-25",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:25:english:neo4-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-25",
+      "setId": "neo4",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-49",
+    "englishName": "Light Machoke",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "49",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/49.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-49",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:49:english:neo4-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-49",
+      "setId": "neo4",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-50",
+    "englishName": "Light Ninetales",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "50",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/50.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-50",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:50:english:neo4-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-50",
+      "setId": "neo4",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-26",
+    "englishName": "Light Piloswine",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "26",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/26.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-26",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:26:english:neo4-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-26",
+      "setId": "neo4",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-51",
+    "englishName": "Light Slowbro",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "51",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/51.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-51",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:51:english:neo4-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-51",
+      "setId": "neo4",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-72",
+    "englishName": "Light Sunflora",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "72",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/72.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-72",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:72:english:neo4-72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-72",
+      "setId": "neo4",
+      "collectorNumber": "72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-15",
+    "englishName": "Light Togetic",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "15",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/15.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-15",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:15:english:neo4-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-15",
+      "setId": "neo4",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-52",
+    "englishName": "Light Vaporeon",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "52",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/52.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-52",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:52:english:neo4-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-52",
+      "setId": "neo4",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-53",
+    "englishName": "Light Venomoth",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "53",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/53.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-53",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:53:english:neo4-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-53",
+      "setId": "neo4",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-54",
+    "englishName": "Light Wigglytuff",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "54",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/54.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-54",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:54:english:neo4-54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-54",
+      "setId": "neo4",
+      "collectorNumber": "54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-100",
+    "englishName": "Lucky Stadium",
+    "category": "Trainer",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "100",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/100.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/100_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-100",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:100:english:neo4-100",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-100",
+      "setId": "neo4",
+      "collectorNumber": "100",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-100",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-73",
+    "englishName": "Machop",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "73",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/73.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-73",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:73:english:neo4-73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-73",
+      "setId": "neo4",
+      "collectorNumber": "73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-101",
+    "englishName": "Magnifier",
+    "category": "Trainer",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "101",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/101.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/101_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-101",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:101:english:neo4-101",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-101",
+      "setId": "neo4",
+      "collectorNumber": "101",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-101",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-105",
+    "englishName": "Mail from Bill",
+    "category": "Trainer",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "105",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/105.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/105_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-105",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:105:english:neo4-105",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-105",
+      "setId": "neo4",
+      "collectorNumber": "105",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-105",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-74",
+    "englishName": "Mantine",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "74",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/74.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-74",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:74:english:neo4-74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-74",
+      "setId": "neo4",
+      "collectorNumber": "74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-75",
+    "englishName": "Mareep",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "75",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/75.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-75",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:75:english:neo4-75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-75",
+      "setId": "neo4",
+      "collectorNumber": "75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-16",
+    "englishName": "Miracle Energy",
+    "category": "Energy",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "16",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/16.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-16",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:16:english:neo4-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-16",
+      "setId": "neo4",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-76",
+    "englishName": "Phanpy",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "76",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/76.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-76",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:76:english:neo4-76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-76",
+      "setId": "neo4",
+      "collectorNumber": "76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-77",
+    "englishName": "Pineco",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "77",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/77.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-77",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:77:english:neo4-77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-77",
+      "setId": "neo4",
+      "collectorNumber": "77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-102",
+    "englishName": "Pokémon Personality Test",
+    "category": "Trainer",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "102",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/102.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/102_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-102",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:102:english:neo4-102",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-102",
+      "setId": "neo4",
+      "collectorNumber": "102",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-102",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-78",
+    "englishName": "Porygon",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "78",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/78.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-78",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:78:english:neo4-78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-78",
+      "setId": "neo4",
+      "collectorNumber": "78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-79",
+    "englishName": "Psyduck",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "79",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/79.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/79_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-79",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:79:english:neo4-79",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-79",
+      "setId": "neo4",
+      "collectorNumber": "79",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-79",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-95",
+    "englishName": "Radio Tower",
+    "category": "Trainer",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "95",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/95.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/95_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-95",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:95:english:neo4-95",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-95",
+      "setId": "neo4",
+      "collectorNumber": "95",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-95",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-80",
+    "englishName": "Remoraid",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "80",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/80.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/80_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-80",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:80:english:neo4-80",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-80",
+      "setId": "neo4",
+      "collectorNumber": "80",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-80",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-55",
+    "englishName": "Scyther",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "55",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/55.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-55",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:55:english:neo4-55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-55",
+      "setId": "neo4",
+      "collectorNumber": "55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-81",
+    "englishName": "Seel",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "81",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/81.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/81_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-81",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:81:english:neo4-81",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-81",
+      "setId": "neo4",
+      "collectorNumber": "81",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-81",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-106",
+    "englishName": "Shining Celebi",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "106",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/106.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/106_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-106",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:106:english:neo4-106",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-106",
+      "setId": "neo4",
+      "collectorNumber": "106",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-106",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-107",
+    "englishName": "Shining Charizard",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "107",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/107.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/107_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-107",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:107:english:neo4-107",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-107",
+      "setId": "neo4",
+      "collectorNumber": "107",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-107",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-108",
+    "englishName": "Shining Kabutops",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "108",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/108.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/108_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-108",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:108:english:neo4-108",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-108",
+      "setId": "neo4",
+      "collectorNumber": "108",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-108",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-109",
+    "englishName": "Shining Mewtwo",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "109",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/109.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/109_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-109",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:109:english:neo4-109",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-109",
+      "setId": "neo4",
+      "collectorNumber": "109",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-109",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-110",
+    "englishName": "Shining Noctowl",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "110",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/110.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/110_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-110",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:110:english:neo4-110",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-110",
+      "setId": "neo4",
+      "collectorNumber": "110",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-110",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-111",
+    "englishName": "Shining Raichu",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "111",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/111.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/111_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-111",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:111:english:neo4-111",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-111",
+      "setId": "neo4",
+      "collectorNumber": "111",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-111",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-112",
+    "englishName": "Shining Steelix",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "112",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/112.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/112_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-112",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:112:english:neo4-112",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-112",
+      "setId": "neo4",
+      "collectorNumber": "112",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-112",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-113",
+    "englishName": "Shining Tyranitar",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "113",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/113.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/113_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-113",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:113:english:neo4-113",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-113",
+      "setId": "neo4",
+      "collectorNumber": "113",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-113",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-82",
+    "englishName": "Slugma",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "82",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/82.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/82_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-82",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:82:english:neo4-82",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-82",
+      "setId": "neo4",
+      "collectorNumber": "82",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-82",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-83",
+    "englishName": "Sunkern",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "83",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/83.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/83_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-83",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:83:english:neo4-83",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-83",
+      "setId": "neo4",
+      "collectorNumber": "83",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-83",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-84",
+    "englishName": "Swinub",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "84",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/84.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/84_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-84",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:84:english:neo4-84",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-84",
+      "setId": "neo4",
+      "collectorNumber": "84",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-84",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-103",
+    "englishName": "Team Rocket's Evil Deeds",
+    "category": "Trainer",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "103",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/103.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/103_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-103",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:103:english:neo4-103",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-103",
+      "setId": "neo4",
+      "collectorNumber": "103",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-103",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-96",
+    "englishName": "Thought Wave Machine",
+    "category": "Trainer",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "96",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/96.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/96_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-96",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:96:english:neo4-96",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-96",
+      "setId": "neo4",
+      "collectorNumber": "96",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-96",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-56",
+    "englishName": "Togepi",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "56",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/56.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-56",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:56:english:neo4-56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-56",
+      "setId": "neo4",
+      "collectorNumber": "56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-85",
+    "englishName": "Totodile",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "85",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/85.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/85_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-85",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:85:english:neo4-85",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-85",
+      "setId": "neo4",
+      "collectorNumber": "85",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-85",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-57",
+    "englishName": "Unown [C]",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "57",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/57.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-57",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:57:english:neo4-57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-57",
+      "setId": "neo4",
+      "collectorNumber": "57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-27",
+    "englishName": "Unown [G]",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "27",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/27.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-27",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:27:english:neo4-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-27",
+      "setId": "neo4",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-28",
+    "englishName": "Unown [H]",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "28",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/28.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-28",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:28:english:neo4-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-28",
+      "setId": "neo4",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-86",
+    "englishName": "Unown [L]",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "86",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/86.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/86_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-86",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:86:english:neo4-86",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-86",
+      "setId": "neo4",
+      "collectorNumber": "86",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-86",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-58",
+    "englishName": "Unown [P]",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "58",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/58.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-58",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:58:english:neo4-58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-58",
+      "setId": "neo4",
+      "collectorNumber": "58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-59",
+    "englishName": "Unown [Q]",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "59",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/59.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-59",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:59:english:neo4-59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-59",
+      "setId": "neo4",
+      "collectorNumber": "59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-87",
+    "englishName": "Unown [S]",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "87",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/87.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/87_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-87",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:87:english:neo4-87",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-87",
+      "setId": "neo4",
+      "collectorNumber": "87",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-87",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-88",
+    "englishName": "Unown [T]",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "88",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/88.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/88_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-88",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:88:english:neo4-88",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-88",
+      "setId": "neo4",
+      "collectorNumber": "88",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-88",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-89",
+    "englishName": "Unown [V]",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "89",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/89.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/89_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-89",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:89:english:neo4-89",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-89",
+      "setId": "neo4",
+      "collectorNumber": "89",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-89",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-29",
+    "englishName": "Unown [W]",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "29",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/29.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-29",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:29:english:neo4-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-29",
+      "setId": "neo4",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-30",
+    "englishName": "Unown [X]",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "30",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/30.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-30",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:30:english:neo4-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-30",
+      "setId": "neo4",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-60",
+    "englishName": "Unown [Z]",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "60",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/60.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-60",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:60:english:neo4-60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-60",
+      "setId": "neo4",
+      "collectorNumber": "60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-90",
+    "englishName": "Venonat",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "90",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/90.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/90_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-90",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:90:english:neo4-90",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-90",
+      "setId": "neo4",
+      "collectorNumber": "90",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-90",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "neo4-91",
+    "englishName": "Vulpix",
+    "category": "Pokemon",
+    "setCode": "N4",
+    "setName": "Neo Destiny",
+    "cardNumber": "91",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/neo4/91.png",
+    "imageLarge": "https://images.pokemontcg.io/neo4/91_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "neo4-91",
+    "sourceSetId": "neo4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:neo4:91:english:neo4-91",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "neo4-91",
+      "setId": "neo4",
+      "collectorNumber": "91",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "neo4-91",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

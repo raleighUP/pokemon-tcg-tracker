@@ -1,0 +1,954 @@
+[
+  {
+    "id": "dc1-23",
+    "englishName": "Aqua Diffuser",
+    "category": "Trainer",
+    "setCode": "DCR",
+    "setName": "Double Crisis",
+    "cardNumber": "23",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/dc1/23.png",
+    "imageLarge": "https://images.pokemontcg.io/dc1/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "dc1-23",
+    "sourceSetId": "dc1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:dc1:23:english:dc1-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "dc1-23",
+      "setId": "dc1",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "dc1-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "dc1-33",
+    "englishName": "Double Aqua Energy",
+    "category": "Energy",
+    "setCode": "DCR",
+    "setName": "Double Crisis",
+    "cardNumber": "33",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/dc1/33.png",
+    "imageLarge": "https://images.pokemontcg.io/dc1/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "dc1-33",
+    "sourceSetId": "dc1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:dc1:33:english:dc1-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "dc1-33",
+      "setId": "dc1",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "dc1-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "dc1-34",
+    "englishName": "Double Magma Energy",
+    "category": "Energy",
+    "setCode": "DCR",
+    "setName": "Double Crisis",
+    "cardNumber": "34",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/dc1/34.png",
+    "imageLarge": "https://images.pokemontcg.io/dc1/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "dc1-34",
+    "sourceSetId": "dc1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:dc1:34:english:dc1-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "dc1-34",
+      "setId": "dc1",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "dc1-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "dc1-24",
+    "englishName": "Magma Pointer",
+    "category": "Trainer",
+    "setCode": "DCR",
+    "setName": "Double Crisis",
+    "cardNumber": "24",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/dc1/24.png",
+    "imageLarge": "https://images.pokemontcg.io/dc1/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "dc1-24",
+    "sourceSetId": "dc1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:dc1:24:english:dc1-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "dc1-24",
+      "setId": "dc1",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "dc1-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "dc1-25",
+    "englishName": "Team Aqua Admin",
+    "category": "Trainer",
+    "setCode": "DCR",
+    "setName": "Double Crisis",
+    "cardNumber": "25",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/dc1/25.png",
+    "imageLarge": "https://images.pokemontcg.io/dc1/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "dc1-25",
+    "sourceSetId": "dc1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:dc1:25:english:dc1-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "dc1-25",
+      "setId": "dc1",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "dc1-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "dc1-26",
+    "englishName": "Team Aqua Grunt",
+    "category": "Trainer",
+    "setCode": "DCR",
+    "setName": "Double Crisis",
+    "cardNumber": "26",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/dc1/26.png",
+    "imageLarge": "https://images.pokemontcg.io/dc1/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "dc1-26",
+    "sourceSetId": "dc1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:dc1:26:english:dc1-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "dc1-26",
+      "setId": "dc1",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "dc1-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "dc1-20",
+    "englishName": "Team Aqua's Carvanha",
+    "category": "Pokemon",
+    "setCode": "DCR",
+    "setName": "Double Crisis",
+    "cardNumber": "20",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/dc1/20.png",
+    "imageLarge": "https://images.pokemontcg.io/dc1/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "dc1-20",
+    "sourceSetId": "dc1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:dc1:20:english:dc1-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "dc1-20",
+      "setId": "dc1",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "dc1-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "dc1-27",
+    "englishName": "Team Aqua's Great Ball",
+    "category": "Trainer",
+    "setCode": "DCR",
+    "setName": "Double Crisis",
+    "cardNumber": "27",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/dc1/27.png",
+    "imageLarge": "https://images.pokemontcg.io/dc1/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "dc1-27",
+    "sourceSetId": "dc1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:dc1:27:english:dc1-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "dc1-27",
+      "setId": "dc1",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "dc1-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "dc1-7",
+    "englishName": "Team Aqua's Grimer",
+    "category": "Pokemon",
+    "setCode": "DCR",
+    "setName": "Double Crisis",
+    "cardNumber": "7",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/dc1/7.png",
+    "imageLarge": "https://images.pokemontcg.io/dc1/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "dc1-7",
+    "sourceSetId": "dc1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:dc1:7:english:dc1-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "dc1-7",
+      "setId": "dc1",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "dc1-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "dc1-6",
+    "englishName": "Team Aqua's Kyogre-EX",
+    "category": "Pokemon",
+    "setCode": "DCR",
+    "setName": "Double Crisis",
+    "cardNumber": "6",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/dc1/6.png",
+    "imageLarge": "https://images.pokemontcg.io/dc1/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "dc1-6",
+    "sourceSetId": "dc1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:dc1:6:english:dc1-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "dc1-6",
+      "setId": "dc1",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "dc1-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "dc1-18",
+    "englishName": "Team Aqua's Mightyena",
+    "category": "Pokemon",
+    "setCode": "DCR",
+    "setName": "Double Crisis",
+    "cardNumber": "18",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/dc1/18.png",
+    "imageLarge": "https://images.pokemontcg.io/dc1/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "dc1-18",
+    "sourceSetId": "dc1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:dc1:18:english:dc1-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "dc1-18",
+      "setId": "dc1",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "dc1-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "dc1-8",
+    "englishName": "Team Aqua's Muk",
+    "category": "Pokemon",
+    "setCode": "DCR",
+    "setName": "Double Crisis",
+    "cardNumber": "8",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/dc1/8.png",
+    "imageLarge": "https://images.pokemontcg.io/dc1/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "dc1-8",
+    "sourceSetId": "dc1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:dc1:8:english:dc1-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "dc1-8",
+      "setId": "dc1",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "dc1-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "dc1-16",
+    "englishName": "Team Aqua's Poochyena",
+    "category": "Pokemon",
+    "setCode": "DCR",
+    "setName": "Double Crisis",
+    "cardNumber": "16",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/dc1/16.png",
+    "imageLarge": "https://images.pokemontcg.io/dc1/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "dc1-16",
+    "sourceSetId": "dc1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:dc1:16:english:dc1-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "dc1-16",
+      "setId": "dc1",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "dc1-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "dc1-4",
+    "englishName": "Team Aqua's Sealeo",
+    "category": "Pokemon",
+    "setCode": "DCR",
+    "setName": "Double Crisis",
+    "cardNumber": "4",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/dc1/4.png",
+    "imageLarge": "https://images.pokemontcg.io/dc1/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "dc1-4",
+    "sourceSetId": "dc1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:dc1:4:english:dc1-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "dc1-4",
+      "setId": "dc1",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "dc1-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "dc1-28",
+    "englishName": "Team Aqua's Secret Base",
+    "category": "Trainer",
+    "setCode": "DCR",
+    "setName": "Double Crisis",
+    "cardNumber": "28",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/dc1/28.png",
+    "imageLarge": "https://images.pokemontcg.io/dc1/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "dc1-28",
+    "sourceSetId": "dc1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:dc1:28:english:dc1-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "dc1-28",
+      "setId": "dc1",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "dc1-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "dc1-9",
+    "englishName": "Team Aqua's Seviper",
+    "category": "Pokemon",
+    "setCode": "DCR",
+    "setName": "Double Crisis",
+    "cardNumber": "9",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/dc1/9.png",
+    "imageLarge": "https://images.pokemontcg.io/dc1/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "dc1-9",
+    "sourceSetId": "dc1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:dc1:9:english:dc1-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "dc1-9",
+      "setId": "dc1",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "dc1-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "dc1-21",
+    "englishName": "Team Aqua's Sharpedo",
+    "category": "Pokemon",
+    "setCode": "DCR",
+    "setName": "Double Crisis",
+    "cardNumber": "21",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/dc1/21.png",
+    "imageLarge": "https://images.pokemontcg.io/dc1/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "dc1-21",
+    "sourceSetId": "dc1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:dc1:21:english:dc1-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "dc1-21",
+      "setId": "dc1",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "dc1-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "dc1-3",
+    "englishName": "Team Aqua's Spheal",
+    "category": "Pokemon",
+    "setCode": "DCR",
+    "setName": "Double Crisis",
+    "cardNumber": "3",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/dc1/3.png",
+    "imageLarge": "https://images.pokemontcg.io/dc1/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "dc1-3",
+    "sourceSetId": "dc1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:dc1:3:english:dc1-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "dc1-3",
+      "setId": "dc1",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "dc1-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "dc1-5",
+    "englishName": "Team Aqua's Walrein",
+    "category": "Pokemon",
+    "setCode": "DCR",
+    "setName": "Double Crisis",
+    "cardNumber": "5",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/dc1/5.png",
+    "imageLarge": "https://images.pokemontcg.io/dc1/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "dc1-5",
+    "sourceSetId": "dc1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:dc1:5:english:dc1-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "dc1-5",
+      "setId": "dc1",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "dc1-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "dc1-29",
+    "englishName": "Team Magma Admin",
+    "category": "Trainer",
+    "setCode": "DCR",
+    "setName": "Double Crisis",
+    "cardNumber": "29",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/dc1/29.png",
+    "imageLarge": "https://images.pokemontcg.io/dc1/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "dc1-29",
+    "sourceSetId": "dc1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:dc1:29:english:dc1-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "dc1-29",
+      "setId": "dc1",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "dc1-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "dc1-30",
+    "englishName": "Team Magma Grunt",
+    "category": "Trainer",
+    "setCode": "DCR",
+    "setName": "Double Crisis",
+    "cardNumber": "30",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/dc1/30.png",
+    "imageLarge": "https://images.pokemontcg.io/dc1/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "dc1-30",
+    "sourceSetId": "dc1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:dc1:30:english:dc1-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "dc1-30",
+      "setId": "dc1",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "dc1-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "dc1-14",
+    "englishName": "Team Magma's Aggron",
+    "category": "Pokemon",
+    "setCode": "DCR",
+    "setName": "Double Crisis",
+    "cardNumber": "14",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/dc1/14.png",
+    "imageLarge": "https://images.pokemontcg.io/dc1/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "dc1-14",
+    "sourceSetId": "dc1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:dc1:14:english:dc1-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "dc1-14",
+      "setId": "dc1",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "dc1-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "dc1-12",
+    "englishName": "Team Magma's Aron",
+    "category": "Pokemon",
+    "setCode": "DCR",
+    "setName": "Double Crisis",
+    "cardNumber": "12",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/dc1/12.png",
+    "imageLarge": "https://images.pokemontcg.io/dc1/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "dc1-12",
+    "sourceSetId": "dc1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:dc1:12:english:dc1-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "dc1-12",
+      "setId": "dc1",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "dc1-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "dc1-10",
+    "englishName": "Team Magma's Baltoy",
+    "category": "Pokemon",
+    "setCode": "DCR",
+    "setName": "Double Crisis",
+    "cardNumber": "10",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/dc1/10.png",
+    "imageLarge": "https://images.pokemontcg.io/dc1/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "dc1-10",
+    "sourceSetId": "dc1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:dc1:10:english:dc1-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "dc1-10",
+      "setId": "dc1",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "dc1-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "dc1-2",
+    "englishName": "Team Magma's Camerupt",
+    "category": "Pokemon",
+    "setCode": "DCR",
+    "setName": "Double Crisis",
+    "cardNumber": "2",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/dc1/2.png",
+    "imageLarge": "https://images.pokemontcg.io/dc1/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "dc1-2",
+    "sourceSetId": "dc1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:dc1:2:english:dc1-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "dc1-2",
+      "setId": "dc1",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "dc1-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "dc1-11",
+    "englishName": "Team Magma's Claydol",
+    "category": "Pokemon",
+    "setCode": "DCR",
+    "setName": "Double Crisis",
+    "cardNumber": "11",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/dc1/11.png",
+    "imageLarge": "https://images.pokemontcg.io/dc1/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "dc1-11",
+    "sourceSetId": "dc1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:dc1:11:english:dc1-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "dc1-11",
+      "setId": "dc1",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "dc1-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "dc1-31",
+    "englishName": "Team Magma's Great Ball",
+    "category": "Trainer",
+    "setCode": "DCR",
+    "setName": "Double Crisis",
+    "cardNumber": "31",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/dc1/31.png",
+    "imageLarge": "https://images.pokemontcg.io/dc1/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "dc1-31",
+    "sourceSetId": "dc1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:dc1:31:english:dc1-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "dc1-31",
+      "setId": "dc1",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "dc1-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "dc1-15",
+    "englishName": "Team Magma's Groudon-EX",
+    "category": "Pokemon",
+    "setCode": "DCR",
+    "setName": "Double Crisis",
+    "cardNumber": "15",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/dc1/15.png",
+    "imageLarge": "https://images.pokemontcg.io/dc1/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "dc1-15",
+    "sourceSetId": "dc1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:dc1:15:english:dc1-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "dc1-15",
+      "setId": "dc1",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "dc1-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "dc1-13",
+    "englishName": "Team Magma's Lairon",
+    "category": "Pokemon",
+    "setCode": "DCR",
+    "setName": "Double Crisis",
+    "cardNumber": "13",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/dc1/13.png",
+    "imageLarge": "https://images.pokemontcg.io/dc1/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "dc1-13",
+    "sourceSetId": "dc1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:dc1:13:english:dc1-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "dc1-13",
+      "setId": "dc1",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "dc1-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "dc1-19",
+    "englishName": "Team Magma's Mightyena",
+    "category": "Pokemon",
+    "setCode": "DCR",
+    "setName": "Double Crisis",
+    "cardNumber": "19",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/dc1/19.png",
+    "imageLarge": "https://images.pokemontcg.io/dc1/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "dc1-19",
+    "sourceSetId": "dc1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:dc1:19:english:dc1-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "dc1-19",
+      "setId": "dc1",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "dc1-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "dc1-1",
+    "englishName": "Team Magma's Numel",
+    "category": "Pokemon",
+    "setCode": "DCR",
+    "setName": "Double Crisis",
+    "cardNumber": "1",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/dc1/1.png",
+    "imageLarge": "https://images.pokemontcg.io/dc1/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "dc1-1",
+    "sourceSetId": "dc1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:dc1:1:english:dc1-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "dc1-1",
+      "setId": "dc1",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "dc1-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "dc1-17",
+    "englishName": "Team Magma's Poochyena",
+    "category": "Pokemon",
+    "setCode": "DCR",
+    "setName": "Double Crisis",
+    "cardNumber": "17",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/dc1/17.png",
+    "imageLarge": "https://images.pokemontcg.io/dc1/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "dc1-17",
+    "sourceSetId": "dc1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:dc1:17:english:dc1-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "dc1-17",
+      "setId": "dc1",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "dc1-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "dc1-32",
+    "englishName": "Team Magma's Secret Base",
+    "category": "Trainer",
+    "setCode": "DCR",
+    "setName": "Double Crisis",
+    "cardNumber": "32",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/dc1/32.png",
+    "imageLarge": "https://images.pokemontcg.io/dc1/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "dc1-32",
+    "sourceSetId": "dc1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:dc1:32:english:dc1-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "dc1-32",
+      "setId": "dc1",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "dc1-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "dc1-22",
+    "englishName": "Team Magma's Zangoose",
+    "category": "Pokemon",
+    "setCode": "DCR",
+    "setName": "Double Crisis",
+    "cardNumber": "22",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/dc1/22.png",
+    "imageLarge": "https://images.pokemontcg.io/dc1/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "dc1-22",
+    "sourceSetId": "dc1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:dc1:22:english:dc1-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "dc1-22",
+      "setId": "dc1",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "dc1-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

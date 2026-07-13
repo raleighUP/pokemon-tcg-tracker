@@ -1,0 +1,1049 @@
+{
+  "schemaVersion": 1,
+  "cacheVersion": "5fc2be23ee5ccecc922dc136cc052d28b00ca39aa5479749b6ca57defa2834c5",
+  "generatedAt": "2026-07-13T21:22:11.420Z",
+  "source": "pokemon-tcg-api",
+  "totalSets": 173,
+  "totalCards": 20359,
+  "standardLegalCards": 7073,
+  "sets": [
+    {
+      "id": "base1",
+      "name": "Base",
+      "cardCount": 102,
+      "fingerprint": "3523b824a8438e962357f6d44a768642ab3361f52fd0a5e6a2201d02dc5498a2"
+    },
+    {
+      "id": "base2",
+      "name": "Jungle",
+      "cardCount": 64,
+      "fingerprint": "c6a8705e8271ce67cb662f5b46d6cbe605802c2afb9d62adc8322f62e141179a"
+    },
+    {
+      "id": "base3",
+      "name": "Fossil",
+      "cardCount": 62,
+      "fingerprint": "7ad99d97109e1a4aaa052a7395825c5bb61ad0b7fbd55fc1aee2146bdb9131d1"
+    },
+    {
+      "id": "base4",
+      "name": "Base Set 2",
+      "cardCount": 130,
+      "fingerprint": "f065048201683388174da4d29ab81456c0a73ca3d98f10b3ffab76099a6ac508"
+    },
+    {
+      "id": "base5",
+      "name": "Team Rocket",
+      "cardCount": 83,
+      "fingerprint": "0c5f9fdc10c2b37dfd1c1d4568e4e4a2f57db1a88661106b343d6829d405e329"
+    },
+    {
+      "id": "base6",
+      "name": "Legendary Collection",
+      "cardCount": 110,
+      "fingerprint": "4057da33f9c185a9c6912222dd79dad349e9bb44ad7db1b21a825434eb378af7"
+    },
+    {
+      "id": "basep",
+      "name": "Wizards Black Star Promos",
+      "cardCount": 53,
+      "fingerprint": "f4c3732ebc47964dbc37c63f0fa47c64c66763ac76e171aacb994fbdbda91532"
+    },
+    {
+      "id": "bp",
+      "name": "Best of Game",
+      "cardCount": 9,
+      "fingerprint": "cecd8cb6687fff27e44c295a3e38a2cdd37ff9936785dce3f8484207472a5482"
+    },
+    {
+      "id": "bw1",
+      "name": "Black & White",
+      "cardCount": 115,
+      "fingerprint": "e88bd4041a0827839a8d7611a5b8c4653c735a0194cf2e110d6a268c69ab2b16"
+    },
+    {
+      "id": "bw10",
+      "name": "Plasma Blast",
+      "cardCount": 105,
+      "fingerprint": "b1900435b47e63b7df2ede5aa8fe6f16d0775ddb396120254be66eb999a6a52e"
+    },
+    {
+      "id": "bw11",
+      "name": "Legendary Treasures",
+      "cardCount": 140,
+      "fingerprint": "badd0627f1895cf2c14bf0fe043c9fee95141efff9d03de965761e5f59c06721"
+    },
+    {
+      "id": "bw2",
+      "name": "Emerging Powers",
+      "cardCount": 98,
+      "fingerprint": "9ca06facf531fdd9a5b4ae754d22b00659d9075a1b20a6b0678ee0350736f0e0"
+    },
+    {
+      "id": "bw3",
+      "name": "Noble Victories",
+      "cardCount": 102,
+      "fingerprint": "581a2ac4c58e01c4b8c882d2f15c9fe06d3c3b9a21b2fc7d44525c3cccd7e27d"
+    },
+    {
+      "id": "bw4",
+      "name": "Next Destinies",
+      "cardCount": 103,
+      "fingerprint": "0ae711bb257d773a6bd12eea6b0c541fea6db680d9f631ed5b8103a9e41e5e87"
+    },
+    {
+      "id": "bw5",
+      "name": "Dark Explorers",
+      "cardCount": 111,
+      "fingerprint": "b152ce04782ae8283d6a94fad627e16a0247b147c9338623bc7bd3857226914a"
+    },
+    {
+      "id": "bw6",
+      "name": "Dragons Exalted",
+      "cardCount": 128,
+      "fingerprint": "83cc75a31dce771155b754db5a721475c687a2e2a611276e4865bd5740a44ba9"
+    },
+    {
+      "id": "bw7",
+      "name": "Boundaries Crossed",
+      "cardCount": 153,
+      "fingerprint": "1e702614046e3d5bffc0c9fab6f89f5117dab68abccfee92c6c6aab7e3d8f3eb"
+    },
+    {
+      "id": "bw8",
+      "name": "Plasma Storm",
+      "cardCount": 138,
+      "fingerprint": "cc31f4b28101d7a667ea4cc3d6e5ae7b65e4ae2306e1d4bf6634fa22e7492eea"
+    },
+    {
+      "id": "bw9",
+      "name": "Plasma Freeze",
+      "cardCount": 122,
+      "fingerprint": "65006cad0cccb336ef8968bab55bcd63f10280d0cdbee25125dfe452aceaad84"
+    },
+    {
+      "id": "bwp",
+      "name": "BW Black Star Promos",
+      "cardCount": 101,
+      "fingerprint": "c4e142586a8a15fa720b6fa4547dc04f0e8fa78400f78398e37c4425dce8215b"
+    },
+    {
+      "id": "cel25",
+      "name": "Celebrations",
+      "cardCount": 25,
+      "fingerprint": "67adcaf97f423e87afdf848246259bd3de3ac483afa6794203c006477bf153b3"
+    },
+    {
+      "id": "cel25c",
+      "name": "Celebrations: Classic Collection",
+      "cardCount": 25,
+      "fingerprint": "888e8a8f86938589217b7574f939d6d66728f5d3a4f6802980dbb673a591af39"
+    },
+    {
+      "id": "col1",
+      "name": "Call of Legends",
+      "cardCount": 106,
+      "fingerprint": "bdd4404ef4058f4948bd17bf7a9a782736d064badaa4e1b74c2d5707dd79e46f"
+    },
+    {
+      "id": "dc1",
+      "name": "Double Crisis",
+      "cardCount": 34,
+      "fingerprint": "f23175e33b9aa3f935baef17fc7ab33bfa32874656c8dd19f8b7089aac31ef59"
+    },
+    {
+      "id": "det1",
+      "name": "Detective Pikachu",
+      "cardCount": 18,
+      "fingerprint": "470a9c29157b50837d69e4029805ea6df42db2d7342d3d5da5be940cec561d23"
+    },
+    {
+      "id": "dp1",
+      "name": "Diamond & Pearl",
+      "cardCount": 130,
+      "fingerprint": "81e19cfb00bd94c73c74dafb5c5c50d2f4b06a64ebdc25c45535904066eab2f8"
+    },
+    {
+      "id": "dp2",
+      "name": "Mysterious Treasures",
+      "cardCount": 124,
+      "fingerprint": "ef89c6e23fc352d00be0479cf1cd14d979ca00c59555ce0103754b234763a1c2"
+    },
+    {
+      "id": "dp3",
+      "name": "Secret Wonders",
+      "cardCount": 132,
+      "fingerprint": "f0585e05970c7472baf5027884ef6a954ba4e1f32f32882c4f0456f52eafc48f"
+    },
+    {
+      "id": "dp4",
+      "name": "Great Encounters",
+      "cardCount": 106,
+      "fingerprint": "667453b78bcaae355f68a510d719c56da2ec962bb1027906a94f1a3ff480f55a"
+    },
+    {
+      "id": "dp5",
+      "name": "Majestic Dawn",
+      "cardCount": 100,
+      "fingerprint": "9ef3fed874431ae603c0116c62338e4f385f0f6478947f6c3a3c5053071c9eff"
+    },
+    {
+      "id": "dp6",
+      "name": "Legends Awakened",
+      "cardCount": 146,
+      "fingerprint": "36be43e210530a1418262d15a4ea82e8477e43595de5c6f381c9795ce8501cf7"
+    },
+    {
+      "id": "dp7",
+      "name": "Stormfront",
+      "cardCount": 106,
+      "fingerprint": "8942803da4daa5d3ace6c0f52b3bf7530a091f9caacbb5b7bd9d7b09a7cd7770"
+    },
+    {
+      "id": "dpp",
+      "name": "DP Black Star Promos",
+      "cardCount": 56,
+      "fingerprint": "c1224438fa537db5d6fb92a8311386732ba2de5a3ecb05ddef048e119aa04668"
+    },
+    {
+      "id": "dv1",
+      "name": "Dragon Vault",
+      "cardCount": 21,
+      "fingerprint": "391495facf72cf446f8da1ecef29dabbc79020cfa7b92797e61523d499faf8b5"
+    },
+    {
+      "id": "ecard1",
+      "name": "Expedition Base Set",
+      "cardCount": 165,
+      "fingerprint": "35bf5201e700345a1d9a7662f8e802f76945432683bdff052164aab34ac3cee8"
+    },
+    {
+      "id": "ecard2",
+      "name": "Aquapolis",
+      "cardCount": 182,
+      "fingerprint": "5bf15343b2b9cacd4f4000e13213da90f4daa29a53b666af1f8cb49e25d716a6"
+    },
+    {
+      "id": "ecard3",
+      "name": "Skyridge",
+      "cardCount": 182,
+      "fingerprint": "f5d9c5c91616c6525de5753d4a7c846d6bdfc549e2441a42111ee69e4325064d"
+    },
+    {
+      "id": "ex1",
+      "name": "Ruby & Sapphire",
+      "cardCount": 109,
+      "fingerprint": "58eb766b76cd3241ef76f4ea80f3cecbb4ae85d4929bb262a533c0148c8a4ac4"
+    },
+    {
+      "id": "ex10",
+      "name": "Unseen Forces",
+      "cardCount": 145,
+      "fingerprint": "9fe4755378653759c4ecb100be4dd6b16a6c1b35e4618815f831718753ed689b"
+    },
+    {
+      "id": "ex11",
+      "name": "Delta Species",
+      "cardCount": 114,
+      "fingerprint": "84fcf20363a8051d66f8da7627627faf376bc6a122ded2b4c7f1cdfe64fa8e73"
+    },
+    {
+      "id": "ex12",
+      "name": "Legend Maker",
+      "cardCount": 93,
+      "fingerprint": "ceaa19f093ce6da930513e75b32d9c80eebcceff329a427a52b93ded22b3a44d"
+    },
+    {
+      "id": "ex13",
+      "name": "Holon Phantoms",
+      "cardCount": 111,
+      "fingerprint": "f79c36c1f27ed328344d915d54410808fd1a29f097c52e455f2a593c1fb04959"
+    },
+    {
+      "id": "ex14",
+      "name": "Crystal Guardians",
+      "cardCount": 100,
+      "fingerprint": "ebca07b506a29fcfdd03d4791926521147b03772642823dbc22f74e8558b9013"
+    },
+    {
+      "id": "ex15",
+      "name": "Dragon Frontiers",
+      "cardCount": 101,
+      "fingerprint": "2375f99d3fe0f1f5a43aa6b41c2c5345ad170524cf334d7ca830e4d4a3ddf983"
+    },
+    {
+      "id": "ex16",
+      "name": "Power Keepers",
+      "cardCount": 108,
+      "fingerprint": "42091841e105ef81e9c83d67386b48c5410c55b42c0c8a426e64ecb17404edd2"
+    },
+    {
+      "id": "ex2",
+      "name": "Sandstorm",
+      "cardCount": 100,
+      "fingerprint": "cf0fe6d2fe4d7b4ff81cd95771a1ed981bed20fa7dd4dc9c9c83b89e5866ecba"
+    },
+    {
+      "id": "ex3",
+      "name": "Dragon",
+      "cardCount": 100,
+      "fingerprint": "8bffed1aa7924c275b9d5ca0c42137d8456f571d38bfa0101598b8f41dea9baf"
+    },
+    {
+      "id": "ex4",
+      "name": "Team Magma vs Team Aqua",
+      "cardCount": 97,
+      "fingerprint": "a78586b1269d690cad210400b33910617b102ad437eab50940e0175c2a3076ee"
+    },
+    {
+      "id": "ex5",
+      "name": "Hidden Legends",
+      "cardCount": 102,
+      "fingerprint": "e6e0973c1def418da9246a82d7f6e980484edeb4dee1b9b4f7020d827fe9f1d7"
+    },
+    {
+      "id": "ex6",
+      "name": "FireRed & LeafGreen",
+      "cardCount": 116,
+      "fingerprint": "6b7c53867aae6817c7e41ee725745891471bde060ae884d668696cc1a1981b7d"
+    },
+    {
+      "id": "ex7",
+      "name": "Team Rocket Returns",
+      "cardCount": 111,
+      "fingerprint": "63e54185deeb6685ef6d453cd518d944a16ca0471aa6cee978bfed50e8fd14fb"
+    },
+    {
+      "id": "ex8",
+      "name": "Deoxys",
+      "cardCount": 108,
+      "fingerprint": "eb0518aa3b6b7b422c82b316e192724df20bb43efd9acafa8fd7f58603a67a5f"
+    },
+    {
+      "id": "ex9",
+      "name": "Emerald",
+      "cardCount": 107,
+      "fingerprint": "7dcb76a08c865a0243ad3a3b08cebc5974fda365e37530c03ed9cb2f7f2ecc19"
+    },
+    {
+      "id": "fut20",
+      "name": "Pokémon Futsal Collection",
+      "cardCount": 5,
+      "fingerprint": "15a14b60187080766ec0521b9819d5b3f7fc57c6caf18edd892e618e038dd2e6"
+    },
+    {
+      "id": "g1",
+      "name": "Generations",
+      "cardCount": 117,
+      "fingerprint": "8bddafb05e1795668d6faa3d2716bfbb92cf88201318c52fd2553ee47c17f661"
+    },
+    {
+      "id": "gym1",
+      "name": "Gym Heroes",
+      "cardCount": 132,
+      "fingerprint": "c48960e4a31faddf8ae5b99a41d78583f00161a366dfbaf5ea4fc774a8f22c59"
+    },
+    {
+      "id": "gym2",
+      "name": "Gym Challenge",
+      "cardCount": 132,
+      "fingerprint": "fbda924c072fdee85bba84208ec92366cfc5d43e22c414518273a012f07ac14e"
+    },
+    {
+      "id": "hgss1",
+      "name": "HeartGold & SoulSilver",
+      "cardCount": 124,
+      "fingerprint": "4cc29c7e420a574fe91d41896c4d0cb3529c6bd4d5605e8df9113a5ac33a05c9"
+    },
+    {
+      "id": "hgss2",
+      "name": "HS—Unleashed",
+      "cardCount": 96,
+      "fingerprint": "734968fce86bc36a056ed70c7c3cb4b71c427a80842883760ecc45f08837608b"
+    },
+    {
+      "id": "hgss3",
+      "name": "HS—Undaunted",
+      "cardCount": 91,
+      "fingerprint": "d13753f707b84e36c0ab584125e160ae8ca95fd4e8ed6573726ec95c0c6d9b59"
+    },
+    {
+      "id": "hgss4",
+      "name": "HS—Triumphant",
+      "cardCount": 103,
+      "fingerprint": "38e6d827ce4531ae84e4f65cb83c0d84c873dd1848274acdb8969aef5fb07f5d"
+    },
+    {
+      "id": "hsp",
+      "name": "HGSS Black Star Promos",
+      "cardCount": 25,
+      "fingerprint": "56084ee4b553c26a3c1cbe6496890baceeba3a9c2f3295b784c81801b5ebb8e2"
+    },
+    {
+      "id": "mcd11",
+      "name": "McDonald's Collection 2011",
+      "cardCount": 12,
+      "fingerprint": "3ef1c1c9ea7bba189b76a1ee9ac46ca430b78fb7f3a02eab4ea4ed5ca43f3160"
+    },
+    {
+      "id": "mcd12",
+      "name": "McDonald's Collection 2012",
+      "cardCount": 12,
+      "fingerprint": "1283180133cf42f017f10dd3ec4157118a7ac0ed5dff9227d4edf066018ffb44"
+    },
+    {
+      "id": "mcd14",
+      "name": "McDonald's Collection 2014",
+      "cardCount": 12,
+      "fingerprint": "26b6fdf0387737877dc86725fdf9edefdcb192c351f2194b43131a91e6f19392"
+    },
+    {
+      "id": "mcd15",
+      "name": "McDonald's Collection 2015",
+      "cardCount": 12,
+      "fingerprint": "3853afd8174ee4364267813253100e06f21815296dad67c23bfaf5762bff067f"
+    },
+    {
+      "id": "mcd16",
+      "name": "McDonald's Collection 2016",
+      "cardCount": 12,
+      "fingerprint": "767af9adf9f9065cf1b29015958355a16ce3b045655f095fe809b6f34dd6dd26"
+    },
+    {
+      "id": "mcd17",
+      "name": "McDonald's Collection 2017",
+      "cardCount": 12,
+      "fingerprint": "f37a0b05b17443993c45aab729cfb88bf053b5666e3d52679e64a8e47216a854"
+    },
+    {
+      "id": "mcd18",
+      "name": "McDonald's Collection 2018",
+      "cardCount": 12,
+      "fingerprint": "e1ba1f9a73de540ba1f56f9f9b4d03732d1bfe5774a65fdad31b81629454d1f0"
+    },
+    {
+      "id": "mcd19",
+      "name": "McDonald's Collection 2019",
+      "cardCount": 12,
+      "fingerprint": "645fc5eee79966cb0c7f454c7e63af5313900dad7a4cb483a6bc181b54c59037"
+    },
+    {
+      "id": "mcd21",
+      "name": "McDonald's Collection 2021",
+      "cardCount": 25,
+      "fingerprint": "a75103e134500ca37c47acc37614978db8014b0a78bb2a24d81eb88fa8fb0477"
+    },
+    {
+      "id": "mcd22",
+      "name": "McDonald's Collection 2022",
+      "cardCount": 15,
+      "fingerprint": "57ddaac2c09da834be722feb1cd0ba74037b9a58d32ac250529ce4310fdb84a1"
+    },
+    {
+      "id": "me1",
+      "name": "Mega Evolution",
+      "cardCount": 188,
+      "fingerprint": "0d7ebe18be6bf62f29efdbf8205eccc5a0a432260f9db1d07b9315e23929a7e5"
+    },
+    {
+      "id": "me2",
+      "name": "Phantasmal Flames",
+      "cardCount": 130,
+      "fingerprint": "3461c2de84c70f08f1412cab6dc5e8bf357bf49792819a0a7f9288c5fcd6be43"
+    },
+    {
+      "id": "me2pt5",
+      "name": "Ascended Heroes",
+      "cardCount": 295,
+      "fingerprint": "f74fc8c8becff7879cca838fd7b6c1b4d8e94899ddfcbe94ac58aa15fe14b6b6"
+    },
+    {
+      "id": "me3",
+      "name": "Perfect Order",
+      "cardCount": 124,
+      "fingerprint": "3c0f140a77a47e0d4acce23aef253a590c967bdeb4c66dad0ba57e6dc63b452a"
+    },
+    {
+      "id": "me4",
+      "name": "Chaos Rising",
+      "cardCount": 122,
+      "fingerprint": "7029e16d9790a757767ad6bb0e031fbe53b8a3a06bed07e3860848a52b211af3"
+    },
+    {
+      "id": "neo1",
+      "name": "Neo Genesis",
+      "cardCount": 111,
+      "fingerprint": "1e19d034fe85ecb39962ecf0272d07bbb67e2bd508a0cfbf1b064f0eb5154ece"
+    },
+    {
+      "id": "neo2",
+      "name": "Neo Discovery",
+      "cardCount": 75,
+      "fingerprint": "bd7c2effd197ca735a085c1a9ddf5339fa7b28b86e0004c8f948449263da48fa"
+    },
+    {
+      "id": "neo3",
+      "name": "Neo Revelation",
+      "cardCount": 66,
+      "fingerprint": "7bbce8ae6c83c2799ec3756e3d63dc1f44dd91db21aca169d8456a452ba963af"
+    },
+    {
+      "id": "neo4",
+      "name": "Neo Destiny",
+      "cardCount": 113,
+      "fingerprint": "f345218a59834f680e91239964d51a0639ce6cb05693deb8a770132a0afe144a"
+    },
+    {
+      "id": "np",
+      "name": "Nintendo Black Star Promos",
+      "cardCount": 40,
+      "fingerprint": "a482869824e9bf7dc13f770cebd788a13f12f3d4be6a63655016238686f9c5ac"
+    },
+    {
+      "id": "pgo",
+      "name": "Pokémon GO",
+      "cardCount": 88,
+      "fingerprint": "e950b7884da1bb33955c3028172951605f4cd833104dfaeaf3cad5c25cb391dc"
+    },
+    {
+      "id": "pl1",
+      "name": "Platinum",
+      "cardCount": 133,
+      "fingerprint": "bbe03b334fa4d4775499dade103b2d5f972f77b8673329faf4fe380ad00f4bbd"
+    },
+    {
+      "id": "pl2",
+      "name": "Rising Rivals",
+      "cardCount": 120,
+      "fingerprint": "0418078a914f29a55a5af73e8404260cc224e5c5c0fe7d5958fa3888d39dec2f"
+    },
+    {
+      "id": "pl3",
+      "name": "Supreme Victors",
+      "cardCount": 153,
+      "fingerprint": "c69e42dbab2083bf245418de274a40b7e2756b1c0c2c6600dd2bd788ece274a2"
+    },
+    {
+      "id": "pl4",
+      "name": "Arceus",
+      "cardCount": 111,
+      "fingerprint": "4ea1cc5888a308cb8297c26cd78d286478f263296ead7101689f3f7eb7a247be"
+    },
+    {
+      "id": "pop1",
+      "name": "POP Series 1",
+      "cardCount": 17,
+      "fingerprint": "d5ccb491459e18874d0ec0063ee0e2a48f67cdbfe258d02d195faef36948fcb9"
+    },
+    {
+      "id": "pop2",
+      "name": "POP Series 2",
+      "cardCount": 17,
+      "fingerprint": "d5ca87f8eb7d9c98a5727520b028710965e41343aabba8df2c999825197bfe50"
+    },
+    {
+      "id": "pop3",
+      "name": "POP Series 3",
+      "cardCount": 17,
+      "fingerprint": "3befbbd5341dc87bc5cdf229d5dc40fe180768806db78a7b63204453d6a4a480"
+    },
+    {
+      "id": "pop4",
+      "name": "POP Series 4",
+      "cardCount": 17,
+      "fingerprint": "ae8c3ab56b5dbba5cdafd9366cf5042e05f73a5ce4255e38523472275b754fbd"
+    },
+    {
+      "id": "pop5",
+      "name": "POP Series 5",
+      "cardCount": 17,
+      "fingerprint": "b11f02b404d332e9c8a871302bd34fad438ac10e962e976a7506f7a86b431c92"
+    },
+    {
+      "id": "pop6",
+      "name": "POP Series 6",
+      "cardCount": 17,
+      "fingerprint": "6de5553644930d16258b62839202f07ab00b9a6a3a270365b7a02a0060d4c81b"
+    },
+    {
+      "id": "pop7",
+      "name": "POP Series 7",
+      "cardCount": 17,
+      "fingerprint": "b1eeebe251257ec8e7fb3512458458f3a405f73a3506a9a595b4e60961bdf212"
+    },
+    {
+      "id": "pop8",
+      "name": "POP Series 8",
+      "cardCount": 17,
+      "fingerprint": "d12d16d3cd5822600cc523dc34a222a705054e2858e94b106b8c435b91d0489a"
+    },
+    {
+      "id": "pop9",
+      "name": "POP Series 9",
+      "cardCount": 17,
+      "fingerprint": "da0594f4f9764d902bb22d7d2d687f5febf3e179e8573849dca41efeee0c9016"
+    },
+    {
+      "id": "rsv10pt5",
+      "name": "White Flare",
+      "cardCount": 173,
+      "fingerprint": "184da2ba89044dabbcbc5f7b0cada980abf2b5f4c454c12ec011ad06172abfd6"
+    },
+    {
+      "id": "ru1",
+      "name": "Pokémon Rumble",
+      "cardCount": 16,
+      "fingerprint": "023ec19e3fd3455565bc5a221b183c15ff71db6c60074c1cf80ddfda6e3d7d6f"
+    },
+    {
+      "id": "si1",
+      "name": "Southern Islands",
+      "cardCount": 18,
+      "fingerprint": "f034296b371f673eae4623369e322de3c4d7bd4565137c7e7c507d77bae1700f"
+    },
+    {
+      "id": "sm1",
+      "name": "Sun & Moon",
+      "cardCount": 173,
+      "fingerprint": "9054e73a572ff0b43f5fe1a7f37c76e8946d5f2b2eca7d3e696b53c487f2fe8e"
+    },
+    {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "cardCount": 238,
+      "fingerprint": "cd62bac6628cc423a792d68c2b58433f12011b95f2103437048d1c89ba265502"
+    },
+    {
+      "id": "sm11",
+      "name": "Unified Minds",
+      "cardCount": 261,
+      "fingerprint": "4364ae79bbd18234a20e79b53d6f223fd1893698fd6e57cc38e3c3fcf80f1055"
+    },
+    {
+      "id": "sm115",
+      "name": "Hidden Fates",
+      "cardCount": 69,
+      "fingerprint": "00116757c4fe87637d97f8d48553b2aecb34edc3c9614ce1fb2f94b6b5d9d577"
+    },
+    {
+      "id": "sm12",
+      "name": "Cosmic Eclipse",
+      "cardCount": 272,
+      "fingerprint": "6ff93d3586f73ddd25a9acb20286eb2a692aa810b0cfc42714fca10b9eb3bc7e"
+    },
+    {
+      "id": "sm2",
+      "name": "Guardians Rising",
+      "cardCount": 180,
+      "fingerprint": "6e550af25b4007e681e3970f23f4ecd80c8c3e6576a99bf3d299e0e5aa4e1a25"
+    },
+    {
+      "id": "sm3",
+      "name": "Burning Shadows",
+      "cardCount": 177,
+      "fingerprint": "756907602ff36522c1850faa65d8f7f8b9e651d75588fef830aad59a8951c012"
+    },
+    {
+      "id": "sm35",
+      "name": "Shining Legends",
+      "cardCount": 81,
+      "fingerprint": "b7865807f12d055d56f86b033eb501e736fee9cd12582bbe8102992dd6f03feb"
+    },
+    {
+      "id": "sm4",
+      "name": "Crimson Invasion",
+      "cardCount": 126,
+      "fingerprint": "d568eccbb20bd1b80071e58904b3e71351d4bf769caefa886164866be9782496"
+    },
+    {
+      "id": "sm5",
+      "name": "Ultra Prism",
+      "cardCount": 178,
+      "fingerprint": "5203f9ebde725de1c0e5dfea96b1c16b5e12e009ef2878faa1539dfafcf0578b"
+    },
+    {
+      "id": "sm6",
+      "name": "Forbidden Light",
+      "cardCount": 150,
+      "fingerprint": "c890ce0a59ec2f2c0fc7f1f7e627baf428c2385339f8ab45a3eaa65e16ebb4f0"
+    },
+    {
+      "id": "sm7",
+      "name": "Celestial Storm",
+      "cardCount": 187,
+      "fingerprint": "83231faf39e717ff22ecd51daff31bc7f6722699cfb39cf0e39e1edccad55457"
+    },
+    {
+      "id": "sm75",
+      "name": "Dragon Majesty",
+      "cardCount": 80,
+      "fingerprint": "9e52b858b3f715af1fc4b22a9908ca4e66ffcdd88ac083aaecd1d6bb799a908e"
+    },
+    {
+      "id": "sm8",
+      "name": "Lost Thunder",
+      "cardCount": 240,
+      "fingerprint": "c23bc4410d5be64a8a07a066f62a02f7da4f05639b0d8282e3d99be03d7ef047"
+    },
+    {
+      "id": "sm9",
+      "name": "Team Up",
+      "cardCount": 198,
+      "fingerprint": "7fe6ce204fa6298e29b12ee680f9cbe549eebcb1a73de205cea9cf8cacff2ddb"
+    },
+    {
+      "id": "sma",
+      "name": "Hidden Fates Shiny Vault",
+      "cardCount": 94,
+      "fingerprint": "7e305a929b8524b7a7ddfac406e6199829ab97086c99d0cd819e882c2b2e46cf"
+    },
+    {
+      "id": "smp",
+      "name": "SM Black Star Promos",
+      "cardCount": 251,
+      "fingerprint": "5625d06adc6b1e2d54c67a8d07107a4edb4e9430bf80f947cddda48b5dbbf97e"
+    },
+    {
+      "id": "sv1",
+      "name": "Scarlet & Violet",
+      "cardCount": 258,
+      "fingerprint": "41e24f0f696ed0bc77c6fda1f29f980ff64fe4b78e256ae445c1865e7449c131"
+    },
+    {
+      "id": "sv10",
+      "name": "Destined Rivals",
+      "cardCount": 244,
+      "fingerprint": "cd4d38b72f63a7ee0f4883e81274b9bfd8712d3ef0161452f0cf57e5d6188d44"
+    },
+    {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "cardCount": 279,
+      "fingerprint": "748cd6d021831caf1324d3a8f239802aecbc765b09d38bdb4a1db11fb0be73a2"
+    },
+    {
+      "id": "sv3",
+      "name": "Obsidian Flames",
+      "cardCount": 230,
+      "fingerprint": "de001cca1a5b57ff6e146e279f07d0d12f49e307e409caf61ad8b3f40181ae34"
+    },
+    {
+      "id": "sv3pt5",
+      "name": "151",
+      "cardCount": 207,
+      "fingerprint": "9dc5f00398eac090d5f7db2d42ee3b5b491049f941dc9dd5eeb2d6e65d54792f"
+    },
+    {
+      "id": "sv4",
+      "name": "Paradox Rift",
+      "cardCount": 266,
+      "fingerprint": "d8e75eae460900dac8d9a7cddbe642b406d5c2ec857f9a8f8b0867578f52cc91"
+    },
+    {
+      "id": "sv4pt5",
+      "name": "Paldean Fates",
+      "cardCount": 245,
+      "fingerprint": "0a850dce5e4bf81b44cbb27622689ce0630eaa5851874ba13ebb26ad77613097"
+    },
+    {
+      "id": "sv5",
+      "name": "Temporal Forces",
+      "cardCount": 218,
+      "fingerprint": "562a84f4eb27732555bda23084d2e0624c163e0f20b2f8e30da4b0c22453a2ad"
+    },
+    {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "cardCount": 226,
+      "fingerprint": "67f8680f3677f5e89c0524e230223d1f80de995d242e21008effd79708e646c9"
+    },
+    {
+      "id": "sv6pt5",
+      "name": "Shrouded Fable",
+      "cardCount": 99,
+      "fingerprint": "8daa2fc25245c7753843af1632fc92d6ad2e23213d49ae3f1f5550232f80ef70"
+    },
+    {
+      "id": "sv7",
+      "name": "Stellar Crown",
+      "cardCount": 175,
+      "fingerprint": "745aedaaa1110b18d798afbf579da66937560fa3ada4931a4ba5d0769a392b80"
+    },
+    {
+      "id": "sv8",
+      "name": "Surging Sparks",
+      "cardCount": 252,
+      "fingerprint": "377c8eb151bd4a3b78ab35e9356fc2ba70ab46529bb5d90e6774bc50ff2b55e7"
+    },
+    {
+      "id": "sv8pt5",
+      "name": "Prismatic Evolutions",
+      "cardCount": 180,
+      "fingerprint": "35f4d67d27a5f00667dbeb48abcf7d6efcb2e196254d04bb5addafd4ef3a6084"
+    },
+    {
+      "id": "sv9",
+      "name": "Journey Together",
+      "cardCount": 190,
+      "fingerprint": "e00c37d8cf012ec42f068eb61adb7b8bedd2093ee8cb0ae0ddc74fa2b491f3e3"
+    },
+    {
+      "id": "sve",
+      "name": "Scarlet & Violet Energies",
+      "cardCount": 16,
+      "fingerprint": "dfff20c59b6d9fa18165bde0d47527022d089bbac6bacebbb192c53985634166"
+    },
+    {
+      "id": "svp",
+      "name": "Scarlet & Violet Black Star Promos",
+      "cardCount": 200,
+      "fingerprint": "d5aa0e9b251129d7a97d971dedbfffbd8e257cebe7084393f8d2400f344dfe66"
+    },
+    {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "cardCount": 216,
+      "fingerprint": "929f541a3b66db7cb1c0147c3c5755ce64e65580af992a421782414b2b7bb8cd"
+    },
+    {
+      "id": "swsh10",
+      "name": "Astral Radiance",
+      "cardCount": 216,
+      "fingerprint": "624921b5f8de382ec691afe8f94ddf18532a460892a90baf56fd4853668693fb"
+    },
+    {
+      "id": "swsh10tg",
+      "name": "Astral Radiance Trainer Gallery",
+      "cardCount": 30,
+      "fingerprint": "8de92d957ba74ada8e639f8a32327977618e7a554a3083f297b8249438864521"
+    },
+    {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "cardCount": 217,
+      "fingerprint": "eaadecd052ad00398dbddd5de780a0947dd013f746422b96499b6c5f22662360"
+    },
+    {
+      "id": "swsh11tg",
+      "name": "Lost Origin Trainer Gallery",
+      "cardCount": 30,
+      "fingerprint": "c2e0c5f5c7990fb1735d187dda3878ddf93dbb14030a15cc34164ba7b21c187c"
+    },
+    {
+      "id": "swsh12",
+      "name": "Silver Tempest",
+      "cardCount": 215,
+      "fingerprint": "6220edbe7a1642537f82492fbd383174cd7a4cca0677c1dbd49efd8b075486e5"
+    },
+    {
+      "id": "swsh12pt5",
+      "name": "Crown Zenith",
+      "cardCount": 160,
+      "fingerprint": "dcb92f04923b0407552f7de530f70f7581ef3afc3f25524ef196869b805349b6"
+    },
+    {
+      "id": "swsh12pt5gg",
+      "name": "Crown Zenith Galarian Gallery",
+      "cardCount": 70,
+      "fingerprint": "17092b0dda2873a7930c4e1f17d50452fe001bda74bc06fe66cc00eafae6e18e"
+    },
+    {
+      "id": "swsh12tg",
+      "name": "Silver Tempest Trainer Gallery",
+      "cardCount": 30,
+      "fingerprint": "d246d41cea12aba1894c7d4d38a33df304e5201f81ec07bc2d9aba7b4668d01b"
+    },
+    {
+      "id": "swsh2",
+      "name": "Rebel Clash",
+      "cardCount": 209,
+      "fingerprint": "6bf4ff86530e29b914514ee8f2d4eb18562f54cf616c8e9c6b3f1b1429f3ad14"
+    },
+    {
+      "id": "swsh3",
+      "name": "Darkness Ablaze",
+      "cardCount": 201,
+      "fingerprint": "8cf38ac3a9c29b157d281d7bf95d366d3defc7a72cd5ede2b578f50de4171dec"
+    },
+    {
+      "id": "swsh35",
+      "name": "Champion's Path",
+      "cardCount": 80,
+      "fingerprint": "93a04e424c21875a5653a04fd1235f1f2e0bddbc122a685f10e9707e056edf43"
+    },
+    {
+      "id": "swsh4",
+      "name": "Vivid Voltage",
+      "cardCount": 203,
+      "fingerprint": "0e7814c57deea7e45589fc208e3f421d93c4397c5e64ba8de157f1e4a7cd2c3f"
+    },
+    {
+      "id": "swsh45",
+      "name": "Shining Fates",
+      "cardCount": 73,
+      "fingerprint": "9211275c03794b7349e995afe073dd5e5414d1aa35c9e541bc3d53a4d2d3f3fc"
+    },
+    {
+      "id": "swsh45sv",
+      "name": "Shining Fates Shiny Vault",
+      "cardCount": 122,
+      "fingerprint": "344cced62254538e7d0b4977bbe0dce09c45dc12b9209e9328e6ee7c1c0088fa"
+    },
+    {
+      "id": "swsh5",
+      "name": "Battle Styles",
+      "cardCount": 183,
+      "fingerprint": "992a2497b5e67c9ef659d39f2a9345eb4bc03a4c4ae3b963fe68afba6a2bef5b"
+    },
+    {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "cardCount": 233,
+      "fingerprint": "e42cdb77ae7c998d0dbf9164225a6e413b7406b7c0b06a9c9b43f5a83f90aaca"
+    },
+    {
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "cardCount": 237,
+      "fingerprint": "5e2c2a529631595a5223590fd9371e273a16ff071a528e41d29409e908c74a10"
+    },
+    {
+      "id": "swsh8",
+      "name": "Fusion Strike",
+      "cardCount": 284,
+      "fingerprint": "9394df741b71ac6d77a72501773c77473a0281242c8631c612af26bdf390df9b"
+    },
+    {
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "cardCount": 186,
+      "fingerprint": "ff34803d57633a162a39b7e94760243790007ce96c98d8c43d4464c305541951"
+    },
+    {
+      "id": "swsh9tg",
+      "name": "Brilliant Stars Trainer Gallery",
+      "cardCount": 30,
+      "fingerprint": "a97ce2907cb73fb32de54c59101cc5d06421ccbd2bacf82a504bf420e0d600c2"
+    },
+    {
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "cardCount": 304,
+      "fingerprint": "183804d6f611319f154d538cf01eac537ef931c5f713a24c2f610f33a4bd2f2e"
+    },
+    {
+      "id": "tk1a",
+      "name": "EX Trainer Kit Latias",
+      "cardCount": 10,
+      "fingerprint": "b8cbca57aae8d63fc426e837f0d34d44e6ec3dc1ff2d1fd5f5787f337070dd7b"
+    },
+    {
+      "id": "tk1b",
+      "name": "EX Trainer Kit Latios",
+      "cardCount": 10,
+      "fingerprint": "f55e535643220092717b126cbfd8b9159ecf93b0149d63711f48fde23eb3fa3d"
+    },
+    {
+      "id": "tk2a",
+      "name": "EX Trainer Kit 2 Plusle",
+      "cardCount": 12,
+      "fingerprint": "35e6675985b985a741a867cef1dda0a768a588e6b7bb2a5413b4819cd14c8d61"
+    },
+    {
+      "id": "tk2b",
+      "name": "EX Trainer Kit 2 Minun",
+      "cardCount": 12,
+      "fingerprint": "785c4e49f44142bdbbb375d2eccc75c79a8d0fad14c1991629d5d5a425e6b98c"
+    },
+    {
+      "id": "xy0",
+      "name": "Kalos Starter Set",
+      "cardCount": 39,
+      "fingerprint": "41dfb0d94b47030bcc4c51430247bb2c208047c1ecb79c32f8318bcb5f24b116"
+    },
+    {
+      "id": "xy1",
+      "name": "XY",
+      "cardCount": 146,
+      "fingerprint": "a85e7b3bfe34bd32c87d8032e357da04959f24ebfa218e827da2f0d25ebe0600"
+    },
+    {
+      "id": "xy10",
+      "name": "Fates Collide",
+      "cardCount": 129,
+      "fingerprint": "acdb67100031bd4370796cea7569c5089ef5c0d80e7688606256bf0da343c99d"
+    },
+    {
+      "id": "xy11",
+      "name": "Steam Siege",
+      "cardCount": 116,
+      "fingerprint": "66fc4e274b17a4c86236ceb09edd0278719364b747a4133a65557b9ea31f7ece"
+    },
+    {
+      "id": "xy12",
+      "name": "Evolutions",
+      "cardCount": 113,
+      "fingerprint": "648ec9a960bc3890efaa787c30f153549e45943d67f8011457e475c47a2107cd"
+    },
+    {
+      "id": "xy2",
+      "name": "Flashfire",
+      "cardCount": 110,
+      "fingerprint": "f03d703d4d27bb169b8916ddb8a21aeaf57d583d2a6699f232def69eb01fba92"
+    },
+    {
+      "id": "xy3",
+      "name": "Furious Fists",
+      "cardCount": 114,
+      "fingerprint": "afbe3890d702273cfea0dac3d37d3737ccea88b3944481fb9e0f60f27e391d41"
+    },
+    {
+      "id": "xy4",
+      "name": "Phantom Forces",
+      "cardCount": 124,
+      "fingerprint": "a5002f45c3c50edabab50160c90ac5d4265b4b87c00c3c1602f3f7c2daa1437a"
+    },
+    {
+      "id": "xy5",
+      "name": "Primal Clash",
+      "cardCount": 164,
+      "fingerprint": "68325ede299cf7cd5664240bd67ab5abfac8a959c89db64b23a39e9ba58decb7"
+    },
+    {
+      "id": "xy6",
+      "name": "Roaring Skies",
+      "cardCount": 112,
+      "fingerprint": "d95608cfca1eff88ccee40e52aa5c5e5ca014e5ea76bfbbc6aa8287f9192cf0c"
+    },
+    {
+      "id": "xy7",
+      "name": "Ancient Origins",
+      "cardCount": 101,
+      "fingerprint": "1a50b3e9b28727ab6311eadea4c2b872428457bffb6cf81e78d1d67a306fa32d"
+    },
+    {
+      "id": "xy8",
+      "name": "BREAKthrough",
+      "cardCount": 165,
+      "fingerprint": "20433ce743c78759940cdf95e6ea33b37c7d16ef1e8d72c5aca6c0e4493c9d8d"
+    },
+    {
+      "id": "xy9",
+      "name": "BREAKpoint",
+      "cardCount": 126,
+      "fingerprint": "436c8c9e9474ddab1cffce137b34611485e25220ae5eeac3f53c774fbf6d5e10"
+    },
+    {
+      "id": "xyp",
+      "name": "XY Black Star Promos",
+      "cardCount": 216,
+      "fingerprint": "4d939496a241e337bd69c5ebaef1fdca2d786dbda15dbf400a25fc20e3ab9f3a"
+    },
+    {
+      "id": "zsv10pt5",
+      "name": "Black Bolt",
+      "cardCount": 172,
+      "fingerprint": "03e7959263ec323b11d78707b9e4b3718b2d4c0149f72290f5a32b2ab322f416"
+    }
+  ]
+}

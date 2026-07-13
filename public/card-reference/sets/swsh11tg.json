@@ -1,0 +1,888 @@
+[
+  {
+    "id": "swsh11tg-TG23",
+    "englishName": "Adventurer's Discovery",
+    "category": "Trainer",
+    "setCode": "LOR",
+    "setName": "Lost Origin Trainer Gallery",
+    "cardNumber": "TG23",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh11tg/TG23.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh11tg/TG23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh11tg-TG23",
+    "sourceSetId": "swsh11tg",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh11tg:TG23:english:swsh11tg-TG23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh11tg-TG23",
+      "setId": "swsh11tg",
+      "collectorNumber": "TG23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh11tg-TG23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh11tg-TG07",
+    "englishName": "Banette",
+    "category": "Pokemon",
+    "setCode": "LOR",
+    "setName": "Lost Origin Trainer Gallery",
+    "cardNumber": "TG07",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh11tg/TG07.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh11tg/TG07_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh11tg-TG07",
+    "sourceSetId": "swsh11tg",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh11tg:TG07:english:swsh11tg-TG07",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh11tg-TG07",
+      "setId": "swsh11tg",
+      "collectorNumber": "TG07",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh11tg-TG07",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh11tg-TG24",
+    "englishName": "Boss's Orders",
+    "category": "Trainer",
+    "setCode": "LOR",
+    "setName": "Lost Origin Trainer Gallery",
+    "cardNumber": "TG24",
+    "regulationMark": "D",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh11tg/TG24.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh11tg/TG24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh11tg-TG24",
+    "sourceSetId": "swsh11tg",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh11tg:TG24:english:swsh11tg-TG24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh11tg-TG24",
+      "setId": "swsh11tg",
+      "collectorNumber": "TG24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh11tg-TG24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh11tg-TG11",
+    "englishName": "Castform",
+    "category": "Pokemon",
+    "setCode": "LOR",
+    "setName": "Lost Origin Trainer Gallery",
+    "cardNumber": "TG11",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh11tg/TG11.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh11tg/TG11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh11tg-TG11",
+    "sourceSetId": "swsh11tg",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh11tg:TG11:english:swsh11tg-TG11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh11tg-TG11",
+      "setId": "swsh11tg",
+      "collectorNumber": "TG11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh11tg-TG11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh11tg-TG14",
+    "englishName": "Centiskorch V",
+    "category": "Pokemon",
+    "setCode": "LOR",
+    "setName": "Lost Origin Trainer Gallery",
+    "cardNumber": "TG14",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh11tg/TG14.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh11tg/TG14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh11tg-TG14",
+    "sourceSetId": "swsh11tg",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh11tg:TG14:english:swsh11tg-TG14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh11tg-TG14",
+      "setId": "swsh11tg",
+      "collectorNumber": "TG14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh11tg-TG14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh11tg-TG15",
+    "englishName": "Centiskorch VMAX",
+    "category": "Pokemon",
+    "setCode": "LOR",
+    "setName": "Lost Origin Trainer Gallery",
+    "cardNumber": "TG15",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh11tg/TG15.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh11tg/TG15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh11tg-TG15",
+    "sourceSetId": "swsh11tg",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh11tg:TG15:english:swsh11tg-TG15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh11tg-TG15",
+      "setId": "swsh11tg",
+      "collectorNumber": "TG15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh11tg-TG15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh11tg-TG04",
+    "englishName": "Chandelure",
+    "category": "Pokemon",
+    "setCode": "LOR",
+    "setName": "Lost Origin Trainer Gallery",
+    "cardNumber": "TG04",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh11tg/TG04.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh11tg/TG04_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh11tg-TG04",
+    "sourceSetId": "swsh11tg",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh11tg:TG04:english:swsh11tg-TG04",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh11tg-TG04",
+      "setId": "swsh11tg",
+      "collectorNumber": "TG04",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh11tg-TG04",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh11tg-TG03",
+    "englishName": "Charizard",
+    "category": "Pokemon",
+    "setCode": "LOR",
+    "setName": "Lost Origin Trainer Gallery",
+    "cardNumber": "TG03",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh11tg/TG03.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh11tg/TG03_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh11tg-TG03",
+    "sourceSetId": "swsh11tg",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh11tg:TG03:english:swsh11tg-TG03",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh11tg-TG03",
+      "setId": "swsh11tg",
+      "collectorNumber": "TG03",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh11tg-TG03",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh11tg-TG25",
+    "englishName": "Cook",
+    "category": "Trainer",
+    "setCode": "LOR",
+    "setName": "Lost Origin Trainer Gallery",
+    "cardNumber": "TG25",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh11tg/TG25.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh11tg/TG25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh11tg-TG25",
+    "sourceSetId": "swsh11tg",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh11tg:TG25:english:swsh11tg-TG25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh11tg-TG25",
+      "setId": "swsh11tg",
+      "collectorNumber": "TG25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh11tg-TG25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh11tg-TG20",
+    "englishName": "Crobat V",
+    "category": "Pokemon",
+    "setCode": "LOR",
+    "setName": "Lost Origin Trainer Gallery",
+    "cardNumber": "TG20",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh11tg/TG20.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh11tg/TG20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh11tg-TG20",
+    "sourceSetId": "swsh11tg",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh11tg:TG20:english:swsh11tg-TG20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh11tg-TG20",
+      "setId": "swsh11tg",
+      "collectorNumber": "TG20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh11tg-TG20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh11tg-TG18",
+    "englishName": "Enamorus V",
+    "category": "Pokemon",
+    "setCode": "LOR",
+    "setName": "Lost Origin Trainer Gallery",
+    "cardNumber": "TG18",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh11tg/TG18.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh11tg/TG18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh11tg-TG18",
+    "sourceSetId": "swsh11tg",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh11tg:TG18:english:swsh11tg-TG18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh11tg-TG18",
+      "setId": "swsh11tg",
+      "collectorNumber": "TG18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh11tg-TG18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh11tg-TG21",
+    "englishName": "Eternatus V",
+    "category": "Pokemon",
+    "setCode": "LOR",
+    "setName": "Lost Origin Trainer Gallery",
+    "cardNumber": "TG21",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh11tg/TG21.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh11tg/TG21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh11tg-TG21",
+    "sourceSetId": "swsh11tg",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh11tg:TG21:english:swsh11tg-TG21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh11tg-TG21",
+      "setId": "swsh11tg",
+      "collectorNumber": "TG21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh11tg-TG21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh11tg-TG22",
+    "englishName": "Eternatus VMAX",
+    "category": "Pokemon",
+    "setCode": "LOR",
+    "setName": "Lost Origin Trainer Gallery",
+    "cardNumber": "TG22",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh11tg/TG22.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh11tg/TG22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh11tg-TG22",
+    "sourceSetId": "swsh11tg",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh11tg:TG22:english:swsh11tg-TG22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh11tg-TG22",
+      "setId": "swsh11tg",
+      "collectorNumber": "TG22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh11tg-TG22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh11tg-TG19",
+    "englishName": "Gallade V",
+    "category": "Pokemon",
+    "setCode": "LOR",
+    "setName": "Lost Origin Trainer Gallery",
+    "cardNumber": "TG19",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh11tg/TG19.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh11tg/TG19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh11tg-TG19",
+    "sourceSetId": "swsh11tg",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh11tg:TG19:english:swsh11tg-TG19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh11tg-TG19",
+      "setId": "swsh11tg",
+      "collectorNumber": "TG19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh11tg-TG19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh11tg-TG06",
+    "englishName": "Gengar",
+    "category": "Pokemon",
+    "setCode": "LOR",
+    "setName": "Lost Origin Trainer Gallery",
+    "cardNumber": "TG06",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh11tg/TG06.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh11tg/TG06_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh11tg-TG06",
+    "sourceSetId": "swsh11tg",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh11tg:TG06:english:swsh11tg-TG06",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh11tg-TG06",
+      "setId": "swsh11tg",
+      "collectorNumber": "TG06",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh11tg-TG06",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh11tg-TG08",
+    "englishName": "Hisuian Arcanine",
+    "category": "Pokemon",
+    "setCode": "LOR",
+    "setName": "Lost Origin Trainer Gallery",
+    "cardNumber": "TG08",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh11tg/TG08.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh11tg/TG08_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh11tg-TG08",
+    "sourceSetId": "swsh11tg",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh11tg:TG08:english:swsh11tg-TG08",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh11tg-TG08",
+      "setId": "swsh11tg",
+      "collectorNumber": "TG08",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh11tg-TG08",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh11tg-TG26",
+    "englishName": "Kabu",
+    "category": "Trainer",
+    "setCode": "LOR",
+    "setName": "Lost Origin Trainer Gallery",
+    "cardNumber": "TG26",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh11tg/TG26.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh11tg/TG26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh11tg-TG26",
+    "sourceSetId": "swsh11tg",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh11tg:TG26:english:swsh11tg-TG26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh11tg-TG26",
+      "setId": "swsh11tg",
+      "collectorNumber": "TG26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh11tg-TG26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh11tg-TG30",
+    "englishName": "Mew VMAX",
+    "category": "Pokemon",
+    "setCode": "LOR",
+    "setName": "Lost Origin Trainer Gallery",
+    "cardNumber": "TG30",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh11tg/TG30.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh11tg/TG30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh11tg-TG30",
+    "sourceSetId": "swsh11tg",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh11tg:TG30:english:swsh11tg-TG30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh11tg-TG30",
+      "setId": "swsh11tg",
+      "collectorNumber": "TG30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh11tg-TG30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh11tg-TG27",
+    "englishName": "Nessa",
+    "category": "Trainer",
+    "setCode": "LOR",
+    "setName": "Lost Origin Trainer Gallery",
+    "cardNumber": "TG27",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh11tg/TG27.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh11tg/TG27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh11tg-TG27",
+    "sourceSetId": "swsh11tg",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh11tg:TG27:english:swsh11tg-TG27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh11tg-TG27",
+      "setId": "swsh11tg",
+      "collectorNumber": "TG27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh11tg-TG27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh11tg-TG28",
+    "englishName": "Opal",
+    "category": "Trainer",
+    "setCode": "LOR",
+    "setName": "Lost Origin Trainer Gallery",
+    "cardNumber": "TG28",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh11tg/TG28.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh11tg/TG28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh11tg-TG28",
+    "sourceSetId": "swsh11tg",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh11tg:TG28:english:swsh11tg-TG28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh11tg-TG28",
+      "setId": "swsh11tg",
+      "collectorNumber": "TG28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh11tg-TG28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh11tg-TG12",
+    "englishName": "Orbeetle V",
+    "category": "Pokemon",
+    "setCode": "LOR",
+    "setName": "Lost Origin Trainer Gallery",
+    "cardNumber": "TG12",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh11tg/TG12.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh11tg/TG12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh11tg-TG12",
+    "sourceSetId": "swsh11tg",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh11tg:TG12:english:swsh11tg-TG12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh11tg-TG12",
+      "setId": "swsh11tg",
+      "collectorNumber": "TG12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh11tg-TG12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh11tg-TG13",
+    "englishName": "Orbeetle VMAX",
+    "category": "Pokemon",
+    "setCode": "LOR",
+    "setName": "Lost Origin Trainer Gallery",
+    "cardNumber": "TG13",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh11tg/TG13.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh11tg/TG13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh11tg-TG13",
+    "sourceSetId": "swsh11tg",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh11tg:TG13:english:swsh11tg-TG13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh11tg-TG13",
+      "setId": "swsh11tg",
+      "collectorNumber": "TG13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh11tg-TG13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh11tg-TG01",
+    "englishName": "Parasect",
+    "category": "Pokemon",
+    "setCode": "LOR",
+    "setName": "Lost Origin Trainer Gallery",
+    "cardNumber": "TG01",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh11tg/TG01.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh11tg/TG01_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh11tg-TG01",
+    "sourceSetId": "swsh11tg",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh11tg:TG01:english:swsh11tg-TG01",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh11tg-TG01",
+      "setId": "swsh11tg",
+      "collectorNumber": "TG01",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh11tg-TG01",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh11tg-TG16",
+    "englishName": "Pikachu V",
+    "category": "Pokemon",
+    "setCode": "LOR",
+    "setName": "Lost Origin Trainer Gallery",
+    "cardNumber": "TG16",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh11tg/TG16.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh11tg/TG16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh11tg-TG16",
+    "sourceSetId": "swsh11tg",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh11tg:TG16:english:swsh11tg-TG16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh11tg-TG16",
+      "setId": "swsh11tg",
+      "collectorNumber": "TG16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh11tg-TG16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh11tg-TG17",
+    "englishName": "Pikachu VMAX",
+    "category": "Pokemon",
+    "setCode": "LOR",
+    "setName": "Lost Origin Trainer Gallery",
+    "cardNumber": "TG17",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh11tg/TG17.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh11tg/TG17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh11tg-TG17",
+    "sourceSetId": "swsh11tg",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh11tg:TG17:english:swsh11tg-TG17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh11tg-TG17",
+      "setId": "swsh11tg",
+      "collectorNumber": "TG17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh11tg-TG17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh11tg-TG29",
+    "englishName": "Pikachu VMAX",
+    "category": "Pokemon",
+    "setCode": "LOR",
+    "setName": "Lost Origin Trainer Gallery",
+    "cardNumber": "TG29",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh11tg/TG29.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh11tg/TG29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh11tg-TG29",
+    "sourceSetId": "swsh11tg",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh11tg:TG29:english:swsh11tg-TG29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh11tg-TG29",
+      "setId": "swsh11tg",
+      "collectorNumber": "TG29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh11tg-TG29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh11tg-TG05",
+    "englishName": "Pikachu",
+    "category": "Pokemon",
+    "setCode": "LOR",
+    "setName": "Lost Origin Trainer Gallery",
+    "cardNumber": "TG05",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh11tg/TG05.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh11tg/TG05_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh11tg-TG05",
+    "sourceSetId": "swsh11tg",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh11tg:TG05:english:swsh11tg-TG05",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh11tg-TG05",
+      "setId": "swsh11tg",
+      "collectorNumber": "TG05",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh11tg-TG05",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh11tg-TG02",
+    "englishName": "Roserade",
+    "category": "Pokemon",
+    "setCode": "LOR",
+    "setName": "Lost Origin Trainer Gallery",
+    "cardNumber": "TG02",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh11tg/TG02.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh11tg/TG02_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh11tg-TG02",
+    "sourceSetId": "swsh11tg",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh11tg:TG02:english:swsh11tg-TG02",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh11tg-TG02",
+      "setId": "swsh11tg",
+      "collectorNumber": "TG02",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh11tg-TG02",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh11tg-TG10",
+    "englishName": "Snorlax",
+    "category": "Pokemon",
+    "setCode": "LOR",
+    "setName": "Lost Origin Trainer Gallery",
+    "cardNumber": "TG10",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh11tg/TG10.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh11tg/TG10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh11tg-TG10",
+    "sourceSetId": "swsh11tg",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh11tg:TG10:english:swsh11tg-TG10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh11tg-TG10",
+      "setId": "swsh11tg",
+      "collectorNumber": "TG10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh11tg-TG10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh11tg-TG09",
+    "englishName": "Spiritomb",
+    "category": "Pokemon",
+    "setCode": "LOR",
+    "setName": "Lost Origin Trainer Gallery",
+    "cardNumber": "TG09",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh11tg/TG09.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh11tg/TG09_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh11tg-TG09",
+    "sourceSetId": "swsh11tg",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh11tg:TG09:english:swsh11tg-TG09",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh11tg-TG09",
+      "setId": "swsh11tg",
+      "collectorNumber": "TG09",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh11tg-TG09",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

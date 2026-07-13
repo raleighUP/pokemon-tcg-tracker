@@ -1,0 +1,3243 @@
+[
+  {
+    "id": "pl2-88",
+    "englishName": "Aaron's Collection",
+    "category": "Trainer",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "88",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/88.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/88_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-88",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:88:english:pl2-88",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-88",
+      "setId": "pl2",
+      "collectorNumber": "88",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-88",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-55",
+    "englishName": "Aerodactyl GL",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "55",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/55.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-55",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:55:english:pl2-55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-55",
+      "setId": "pl2",
+      "collectorNumber": "55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-14",
+    "englishName": "Aggron",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "14",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/14.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-14",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:14:english:pl2-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-14",
+      "setId": "pl2",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-103",
+    "englishName": "Alakazam E4 LV.X",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "103",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/103.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/103_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-103",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:103:english:pl2-103",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-103",
+      "setId": "pl2",
+      "collectorNumber": "103",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-103",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-38",
+    "englishName": "Alakazam E4",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "38",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/38.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-38",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:38:english:pl2-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-38",
+      "setId": "pl2",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-56",
+    "englishName": "Ambipom G",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "56",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/56.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-56",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:56:english:pl2-56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-56",
+      "setId": "pl2",
+      "collectorNumber": "56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-1",
+    "englishName": "Arcanine",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "1",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/1.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-1",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:1:english:pl2-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-1",
+      "setId": "pl2",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-57",
+    "englishName": "Aron",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "57",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/57.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-57",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:57:english:pl2-57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-57",
+      "setId": "pl2",
+      "collectorNumber": "57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-2",
+    "englishName": "Bastiodon GL",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "2",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/2.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-2",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:2:english:pl2-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-2",
+      "setId": "pl2",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-89",
+    "englishName": "Bebe's Search",
+    "category": "Trainer",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "89",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/89.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/89_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-89",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:89:english:pl2-89",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-89",
+      "setId": "pl2",
+      "collectorNumber": "89",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-89",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-15",
+    "englishName": "Beedrill",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "15",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/15.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-15",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:15:english:pl2-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-15",
+      "setId": "pl2",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-90",
+    "englishName": "Bertha's Warmth",
+    "category": "Trainer",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "90",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/90.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/90_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-90",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:90:english:pl2-90",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-90",
+      "setId": "pl2",
+      "collectorNumber": "90",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-90",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-16",
+    "englishName": "Bronzong E4",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "16",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/16.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-16",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:16:english:pl2-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-16",
+      "setId": "pl2",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-58",
+    "englishName": "Carvanha",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "58",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/58.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-58",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:58:english:pl2-58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-58",
+      "setId": "pl2",
+      "collectorNumber": "58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-RT6",
+    "englishName": "Charon's Choice",
+    "category": "Trainer",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "RT6",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/RT6.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/RT6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-RT6",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:RT6:english:pl2-RT6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-RT6",
+      "setId": "pl2",
+      "collectorNumber": "RT6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-RT6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-99",
+    "englishName": "Darkness Energy",
+    "category": "Energy",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "99",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/99.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/99_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-99",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:99:english:pl2-99",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-99",
+      "setId": "pl2",
+      "collectorNumber": "99",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-99",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-3",
+    "englishName": "Darkrai G",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "3",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/3.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-3",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:3:english:pl2-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-3",
+      "setId": "pl2",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-17",
+    "englishName": "Drapion E4",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "17",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/17.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-17",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:17:english:pl2-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-17",
+      "setId": "pl2",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-59",
+    "englishName": "Eevee",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "59",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/59.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-59",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:59:english:pl2-59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-59",
+      "setId": "pl2",
+      "collectorNumber": "59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-39",
+    "englishName": "Electrode G",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "39",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/39.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-39",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:39:english:pl2-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-39",
+      "setId": "pl2",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-18",
+    "englishName": "Espeon E4",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "18",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/18.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-18",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:18:english:pl2-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-18",
+      "setId": "pl2",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-RT1",
+    "englishName": "Fan Rotom",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "RT1",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/RT1.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/RT1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-RT1",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:RT1:english:pl2-RT1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-RT1",
+      "setId": "pl2",
+      "collectorNumber": "RT1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-RT1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-60",
+    "englishName": "Flareon E4",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "60",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/60.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-60",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:60:english:pl2-60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-60",
+      "setId": "pl2",
+      "collectorNumber": "60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-19",
+    "englishName": "Flareon",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "19",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/19.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-19",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:19:english:pl2-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-19",
+      "setId": "pl2",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-91",
+    "englishName": "Flint's Willpower",
+    "category": "Trainer",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "91",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/91.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/91_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-91",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:91:english:pl2-91",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-91",
+      "setId": "pl2",
+      "collectorNumber": "91",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-91",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-104",
+    "englishName": "Floatzel GL LV.X",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "104",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/104.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/104_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-104",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:104:english:pl2-104",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-104",
+      "setId": "pl2",
+      "collectorNumber": "104",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-104",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-4",
+    "englishName": "Floatzel GL",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "4",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/4.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-4",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:4:english:pl2-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-4",
+      "setId": "pl2",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-105",
+    "englishName": "Flygon LV.X",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "105",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/105.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/105_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-105",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:105:english:pl2-105",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-105",
+      "setId": "pl2",
+      "collectorNumber": "105",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-105",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-5",
+    "englishName": "Flygon",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "5",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/5.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-5",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:5:english:pl2-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-5",
+      "setId": "pl2",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-113",
+    "englishName": "Flying Pikachu",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "113",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/113.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/113_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-113",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:113:english:pl2-113",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-113",
+      "setId": "pl2",
+      "collectorNumber": "113",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-113",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-61",
+    "englishName": "Forretress G",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "61",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/61.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-61",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:61:english:pl2-61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-61",
+      "setId": "pl2",
+      "collectorNumber": "61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-6",
+    "englishName": "Froslass GL",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "6",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/6.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-6",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:6:english:pl2-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-6",
+      "setId": "pl2",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-RT2",
+    "englishName": "Frost Rotom",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "RT2",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/RT2.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/RT2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-RT2",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:RT2:english:pl2-RT2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-RT2",
+      "setId": "pl2",
+      "collectorNumber": "RT2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-RT2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-106",
+    "englishName": "Gallade E4 LV.X",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "106",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/106.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/106_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-106",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:106:english:pl2-106",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-106",
+      "setId": "pl2",
+      "collectorNumber": "106",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-106",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-20",
+    "englishName": "Gallade E4",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "20",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/20.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-20",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:20:english:pl2-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-20",
+      "setId": "pl2",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-21",
+    "englishName": "Gastrodon East Sea",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "21",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/21.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-21",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:21:english:pl2-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-21",
+      "setId": "pl2",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-22",
+    "englishName": "Gastrodon West Sea",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "22",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/22.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-22",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:22:english:pl2-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-22",
+      "setId": "pl2",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-40",
+    "englishName": "Gengar GL",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "40",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/40.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-40",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:40:english:pl2-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-40",
+      "setId": "pl2",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-41",
+    "englishName": "Glaceon",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "41",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/41.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-41",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:41:english:pl2-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-41",
+      "setId": "pl2",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-62",
+    "englishName": "Gliscor E4",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "62",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/62.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-62",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:62:english:pl2-62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-62",
+      "setId": "pl2",
+      "collectorNumber": "62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-23",
+    "englishName": "Golem E4",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "23",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/23.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-23",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:23:english:pl2-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-23",
+      "setId": "pl2",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-63",
+    "englishName": "Growlithe",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "63",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/63.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-63",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:63:english:pl2-63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-63",
+      "setId": "pl2",
+      "collectorNumber": "63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-RT3",
+    "englishName": "Heat Rotom",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "RT3",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/RT3.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/RT3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-RT3",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:RT3:english:pl2-RT3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-RT3",
+      "setId": "pl2",
+      "collectorNumber": "RT3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-RT3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-24",
+    "englishName": "Heracross E4",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "24",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/24.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-24",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:24:english:pl2-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-24",
+      "setId": "pl2",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-64",
+    "englishName": "Hippopotas",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "64",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/64.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-64",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:64:english:pl2-64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-64",
+      "setId": "pl2",
+      "collectorNumber": "64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-42",
+    "englishName": "Hippowdon E4",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "42",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/42.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-42",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:42:english:pl2-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-42",
+      "setId": "pl2",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-107",
+    "englishName": "Hippowdon LV.X",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "107",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/107.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/107_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-107",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:107:english:pl2-107",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-107",
+      "setId": "pl2",
+      "collectorNumber": "107",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-107",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-25",
+    "englishName": "Hippowdon",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "25",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/25.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-25",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:25:english:pl2-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-25",
+      "setId": "pl2",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-65",
+    "englishName": "Houndoom E4",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "65",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/65.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-65",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:65:english:pl2-65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-65",
+      "setId": "pl2",
+      "collectorNumber": "65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-108",
+    "englishName": "Infernape E4 LV.X",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "108",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/108.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/108_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-108",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:108:english:pl2-108",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-108",
+      "setId": "pl2",
+      "collectorNumber": "108",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-108",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-43",
+    "englishName": "Infernape E4",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "43",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/43.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-43",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:43:english:pl2-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-43",
+      "setId": "pl2",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-7",
+    "englishName": "Jirachi",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "7",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/7.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-7",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:7:english:pl2-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-7",
+      "setId": "pl2",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-26",
+    "englishName": "Jolteon",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "26",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/26.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-26",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:26:english:pl2-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-26",
+      "setId": "pl2",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-66",
+    "englishName": "Kakuna",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "66",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/66.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-66",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:66:english:pl2-66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-66",
+      "setId": "pl2",
+      "collectorNumber": "66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-67",
+    "englishName": "Kecleon",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "67",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/67.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-67",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:67:english:pl2-67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-67",
+      "setId": "pl2",
+      "collectorNumber": "67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-68",
+    "englishName": "Koffing",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "68",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/68.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-68",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:68:english:pl2-68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-68",
+      "setId": "pl2",
+      "collectorNumber": "68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-44",
+    "englishName": "Lairon",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "44",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/44.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-44",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:44:english:pl2-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-44",
+      "setId": "pl2",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-45",
+    "englishName": "Leafeon",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "45",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/45.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-45",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:45:english:pl2-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-45",
+      "setId": "pl2",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-8",
+    "englishName": "Lucario GL",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "8",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/8.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-8",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:8:english:pl2-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-8",
+      "setId": "pl2",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-92",
+    "englishName": "Lucian's Assignment",
+    "category": "Trainer",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "92",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/92.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/92_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-92",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:92:english:pl2-92",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-92",
+      "setId": "pl2",
+      "collectorNumber": "92",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-92",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-109",
+    "englishName": "Luxray GL LV.X",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "109",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/109.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/109_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-109",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:109:english:pl2-109",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-109",
+      "setId": "pl2",
+      "collectorNumber": "109",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-109",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-9",
+    "englishName": "Luxray GL",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "9",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/9.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-9",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:9:english:pl2-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-9",
+      "setId": "pl2",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-46",
+    "englishName": "Machamp GL",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "46",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/46.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-46",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:46:english:pl2-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-46",
+      "setId": "pl2",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-27",
+    "englishName": "Mamoswine GL",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "27",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/27.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-27",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:27:english:pl2-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-27",
+      "setId": "pl2",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-100",
+    "englishName": "Metal Energy",
+    "category": "Energy",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "100",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/100.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/100_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-100",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:100:english:pl2-100",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-100",
+      "setId": "pl2",
+      "collectorNumber": "100",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-100",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-110",
+    "englishName": "Mismagius GL LV.X",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "110",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/110.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/110_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-110",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:110:english:pl2-110",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-110",
+      "setId": "pl2",
+      "collectorNumber": "110",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-110",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-10",
+    "englishName": "Mismagius GL",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "10",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/10.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-10",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:10:english:pl2-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-10",
+      "setId": "pl2",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-RT4",
+    "englishName": "Mow Rotom",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "RT4",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/RT4.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/RT4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-RT4",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:RT4:english:pl2-RT4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-RT4",
+      "setId": "pl2",
+      "collectorNumber": "RT4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-RT4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-28",
+    "englishName": "Mr. Mime E4",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "28",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/28.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-28",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:28:english:pl2-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-28",
+      "setId": "pl2",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-69",
+    "englishName": "Munchlax",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "69",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/69.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-69",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:69:english:pl2-69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-69",
+      "setId": "pl2",
+      "collectorNumber": "69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-70",
+    "englishName": "Munchlax",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "70",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/70.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-70",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:70:english:pl2-70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-70",
+      "setId": "pl2",
+      "collectorNumber": "70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-29",
+    "englishName": "Nidoking",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "29",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/29.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-29",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:29:english:pl2-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-29",
+      "setId": "pl2",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-30",
+    "englishName": "Nidoqueen",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "30",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/30.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-30",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:30:english:pl2-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-30",
+      "setId": "pl2",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-71",
+    "englishName": "Nidoran ♀",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "71",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/71.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-71",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:71:english:pl2-71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-71",
+      "setId": "pl2",
+      "collectorNumber": "71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-72",
+    "englishName": "Nidoran ♂",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "72",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/72.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-72",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:72:english:pl2-72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-72",
+      "setId": "pl2",
+      "collectorNumber": "72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-73",
+    "englishName": "Nidorina",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "73",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/73.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-73",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:73:english:pl2-73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-73",
+      "setId": "pl2",
+      "collectorNumber": "73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-74",
+    "englishName": "Nidorino",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "74",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/74.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-74",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:74:english:pl2-74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-74",
+      "setId": "pl2",
+      "collectorNumber": "74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-75",
+    "englishName": "Nuzleaf",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "75",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/75.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-75",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:75:english:pl2-75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-75",
+      "setId": "pl2",
+      "collectorNumber": "75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-112",
+    "englishName": "Pikachu",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "112",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/112.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/112_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-112",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:112:english:pl2-112",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-112",
+      "setId": "pl2",
+      "collectorNumber": "112",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-112",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-93",
+    "englishName": "Pokémon Contest Hall",
+    "category": "Trainer",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "93",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/93.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/93_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-93",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:93:english:pl2-93",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-93",
+      "setId": "pl2",
+      "collectorNumber": "93",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-93",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-76",
+    "englishName": "Quagsire GL",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "76",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/76.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-76",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:76:english:pl2-76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-76",
+      "setId": "pl2",
+      "collectorNumber": "76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-31",
+    "englishName": "Raichu GL",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "31",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/31.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-31",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:31:english:pl2-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-31",
+      "setId": "pl2",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-11",
+    "englishName": "Rampardos GL",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "11",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/11.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-11",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:11:english:pl2-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-11",
+      "setId": "pl2",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-47",
+    "englishName": "Rapidash E4",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "47",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/47.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-47",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:47:english:pl2-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-47",
+      "setId": "pl2",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-32",
+    "englishName": "Rhyperior E4",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "32",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/32.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-32",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:32:english:pl2-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-32",
+      "setId": "pl2",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-12",
+    "englishName": "Roserade GL",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "12",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/12.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-12",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:12:english:pl2-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-12",
+      "setId": "pl2",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-48",
+    "englishName": "Scizor E4",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "48",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/48.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-48",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:48:english:pl2-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-48",
+      "setId": "pl2",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-77",
+    "englishName": "Sealeo",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "77",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/77.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-77",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:77:english:pl2-77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-77",
+      "setId": "pl2",
+      "collectorNumber": "77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-78",
+    "englishName": "Seedot",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "78",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/78.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-78",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:78:english:pl2-78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-78",
+      "setId": "pl2",
+      "collectorNumber": "78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-49",
+    "englishName": "Sharpedo",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "49",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/49.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-49",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:49:english:pl2-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-49",
+      "setId": "pl2",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-79",
+    "englishName": "Shellos East Sea",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "79",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/79.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/79_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-79",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:79:english:pl2-79",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-79",
+      "setId": "pl2",
+      "collectorNumber": "79",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-79",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-80",
+    "englishName": "Shellos West Sea",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "80",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/80.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/80_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-80",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:80:english:pl2-80",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-80",
+      "setId": "pl2",
+      "collectorNumber": "80",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-80",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-13",
+    "englishName": "Shiftry",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "13",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/13.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-13",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:13:english:pl2-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-13",
+      "setId": "pl2",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-111",
+    "englishName": "Snorlax LV.X",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "111",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/111.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/111_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-111",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:111:english:pl2-111",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-111",
+      "setId": "pl2",
+      "collectorNumber": "111",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-111",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-33",
+    "englishName": "Snorlax",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "33",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/33.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-33",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:33:english:pl2-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-33",
+      "setId": "pl2",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-81",
+    "englishName": "Snorlax",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "81",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/81.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/81_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-81",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:81:english:pl2-81",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-81",
+      "setId": "pl2",
+      "collectorNumber": "81",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-81",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-101",
+    "englishName": "SP Energy",
+    "category": "Energy",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "101",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/101.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/101_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-101",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:101:english:pl2-101",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-101",
+      "setId": "pl2",
+      "collectorNumber": "101",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-101",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-82",
+    "englishName": "Spheal",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "82",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/82.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/82_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-82",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:82:english:pl2-82",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-82",
+      "setId": "pl2",
+      "collectorNumber": "82",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-82",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-50",
+    "englishName": "Starmie",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "50",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/50.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-50",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:50:english:pl2-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-50",
+      "setId": "pl2",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-83",
+    "englishName": "Staryu",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "83",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/83.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/83_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-83",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:83:english:pl2-83",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-83",
+      "setId": "pl2",
+      "collectorNumber": "83",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-83",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-51",
+    "englishName": "Steelix GL",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "51",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/51.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-51",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:51:english:pl2-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-51",
+      "setId": "pl2",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-94",
+    "englishName": "Sunyshore City Gym",
+    "category": "Trainer",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "94",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/94.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/94_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-94",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:94:english:pl2-94",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-94",
+      "setId": "pl2",
+      "collectorNumber": "94",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-94",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-114",
+    "englishName": "Surfing Pikachu",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "114",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/114.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/114_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-114",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:114:english:pl2-114",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-114",
+      "setId": "pl2",
+      "collectorNumber": "114",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-114",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-95",
+    "englishName": "Team Galactic's Invention G-107 Technical Machine G",
+    "category": "Trainer",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "95",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/95.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/95_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-95",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:95:english:pl2-95",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-95",
+      "setId": "pl2",
+      "collectorNumber": "95",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-95",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-96",
+    "englishName": "Team Galactic's Invention G-109 SP Radar",
+    "category": "Trainer",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "96",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/96.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/96_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-96",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:96:english:pl2-96",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-96",
+      "setId": "pl2",
+      "collectorNumber": "96",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-96",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-84",
+    "englishName": "Trapinch",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "84",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/84.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/84_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-84",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:84:english:pl2-84",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-84",
+      "setId": "pl2",
+      "collectorNumber": "84",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-84",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-52",
+    "englishName": "Tropius",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "52",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/52.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-52",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:52:english:pl2-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-52",
+      "setId": "pl2",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-85",
+    "englishName": "Turtwig GL",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "85",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/85.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/85_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-85",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:85:english:pl2-85",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-85",
+      "setId": "pl2",
+      "collectorNumber": "85",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-85",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-97",
+    "englishName": "Underground Expedition",
+    "category": "Trainer",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "97",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/97.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/97_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-97",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:97:english:pl2-97",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-97",
+      "setId": "pl2",
+      "collectorNumber": "97",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-97",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-102",
+    "englishName": "Upper Energy",
+    "category": "Energy",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "102",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/102.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/102_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-102",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:102:english:pl2-102",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-102",
+      "setId": "pl2",
+      "collectorNumber": "102",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-102",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-34",
+    "englishName": "Vaporeon",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "34",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/34.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-34",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:34:english:pl2-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-34",
+      "setId": "pl2",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-35",
+    "englishName": "Vespiquen E4",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "35",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/35.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-35",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:35:english:pl2-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-35",
+      "setId": "pl2",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-53",
+    "englishName": "Vibrava",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "53",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/53.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-53",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:53:english:pl2-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-53",
+      "setId": "pl2",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-98",
+    "englishName": "Volkner's Philosophy",
+    "category": "Trainer",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "98",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/98.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/98_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-98",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:98:english:pl2-98",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-98",
+      "setId": "pl2",
+      "collectorNumber": "98",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-98",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-36",
+    "englishName": "Walrein",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "36",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/36.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-36",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:36:english:pl2-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-36",
+      "setId": "pl2",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-RT5",
+    "englishName": "Wash Rotom",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "RT5",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/RT5.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/RT5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-RT5",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:RT5:english:pl2-RT5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-RT5",
+      "setId": "pl2",
+      "collectorNumber": "RT5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-RT5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-86",
+    "englishName": "Weedle",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "86",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/86.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/86_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-86",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:86:english:pl2-86",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-86",
+      "setId": "pl2",
+      "collectorNumber": "86",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-86",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-87",
+    "englishName": "Weezing",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "87",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/87.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/87_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-87",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:87:english:pl2-87",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-87",
+      "setId": "pl2",
+      "collectorNumber": "87",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-87",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-54",
+    "englishName": "Whiscash E4",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "54",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/54.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-54",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:54:english:pl2-54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-54",
+      "setId": "pl2",
+      "collectorNumber": "54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl2-37",
+    "englishName": "Yanmega E4",
+    "category": "Pokemon",
+    "setCode": "RR",
+    "setName": "Rising Rivals",
+    "cardNumber": "37",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl2/37.png",
+    "imageLarge": "https://images.pokemontcg.io/pl2/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl2-37",
+    "sourceSetId": "pl2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl2:37:english:pl2-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl2-37",
+      "setId": "pl2",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl2-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

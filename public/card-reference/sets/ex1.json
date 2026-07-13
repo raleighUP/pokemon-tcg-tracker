@@ -1,0 +1,2969 @@
+[
+  {
+    "id": "ex1-1",
+    "englishName": "Aggron",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "1",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/1.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-1",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:1:english:ex1-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-1",
+      "setId": "ex1",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-25",
+    "englishName": "Aron",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "25",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/25.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-25",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:25:english:ex1-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-25",
+      "setId": "ex1",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-49",
+    "englishName": "Aron",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "49",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/49.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-49",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:49:english:ex1-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-49",
+      "setId": "ex1",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-50",
+    "englishName": "Aron",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "50",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/50.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-50",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:50:english:ex1-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-50",
+      "setId": "ex1",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-2",
+    "englishName": "Beautifly",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "2",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/2.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-2",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:2:english:ex1-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-2",
+      "setId": "ex1",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-15",
+    "englishName": "Blaziken",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "15",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/15.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-15",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:15:english:ex1-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-15",
+      "setId": "ex1",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-3",
+    "englishName": "Blaziken",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "3",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/3.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-3",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:3:english:ex1-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-3",
+      "setId": "ex1",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-16",
+    "englishName": "Breloom",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "16",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/16.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-16",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:16:english:ex1-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-16",
+      "setId": "ex1",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-4",
+    "englishName": "Camerupt",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "4",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/4.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-4",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:4:english:ex1-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-4",
+      "setId": "ex1",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-51",
+    "englishName": "Carvanha",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "51",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/51.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-51",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:51:english:ex1-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-51",
+      "setId": "ex1",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-26",
+    "englishName": "Cascoon",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "26",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/26.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-26",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:26:english:ex1-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-26",
+      "setId": "ex1",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-96",
+    "englishName": "Chansey ex",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "96",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/96.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/96_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-96",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:96:english:ex1-96",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-96",
+      "setId": "ex1",
+      "collectorNumber": "96",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-96",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-27",
+    "englishName": "Combusken",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "27",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/27.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-27",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:27:english:ex1-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-27",
+      "setId": "ex1",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-28",
+    "englishName": "Combusken",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "28",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/28.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-28",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:28:english:ex1-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-28",
+      "setId": "ex1",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-93",
+    "englishName": "Darkness Energy",
+    "category": "Energy",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "93",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/93.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/93_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-93",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:93:english:ex1-93",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-93",
+      "setId": "ex1",
+      "collectorNumber": "93",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-93",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-29",
+    "englishName": "Delcatty",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "29",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/29.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-29",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:29:english:ex1-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-29",
+      "setId": "ex1",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-5",
+    "englishName": "Delcatty",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "5",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/5.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-5",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:5:english:ex1-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-5",
+      "setId": "ex1",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-17",
+    "englishName": "Donphan",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "17",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/17.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-17",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:17:english:ex1-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-17",
+      "setId": "ex1",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-6",
+    "englishName": "Dustox",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "6",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/6.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-6",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:6:english:ex1-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-6",
+      "setId": "ex1",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-97",
+    "englishName": "Electabuzz ex",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "97",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/97.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/97_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-97",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:97:english:ex1-97",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-97",
+      "setId": "ex1",
+      "collectorNumber": "97",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-97",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-30",
+    "englishName": "Electrike",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "30",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/30.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-30",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:30:english:ex1-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-30",
+      "setId": "ex1",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-52",
+    "englishName": "Electrike",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "52",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/52.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-52",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:52:english:ex1-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-52",
+      "setId": "ex1",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-53",
+    "englishName": "Electrike",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "53",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/53.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-53",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:53:english:ex1-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-53",
+      "setId": "ex1",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-80",
+    "englishName": "Energy Removal 2",
+    "category": "Trainer",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "80",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/80.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/80_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-80",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:80:english:ex1-80",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-80",
+      "setId": "ex1",
+      "collectorNumber": "80",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-80",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-81",
+    "englishName": "Energy Restore",
+    "category": "Trainer",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "81",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/81.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/81_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-81",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:81:english:ex1-81",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-81",
+      "setId": "ex1",
+      "collectorNumber": "81",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-81",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-90",
+    "englishName": "Energy Search",
+    "category": "Trainer",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "90",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/90.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/90_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-90",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:90:english:ex1-90",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-90",
+      "setId": "ex1",
+      "collectorNumber": "90",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-90",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-82",
+    "englishName": "Energy Switch",
+    "category": "Trainer",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "82",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/82.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/82_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-82",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:82:english:ex1-82",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-82",
+      "setId": "ex1",
+      "collectorNumber": "82",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-82",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-105",
+    "englishName": "Fighting Energy",
+    "category": "Energy",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "105",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/105.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/105_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-105",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:105:english:ex1-105",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-105",
+      "setId": "ex1",
+      "collectorNumber": "105",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-105",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-108",
+    "englishName": "Fire Energy",
+    "category": "Energy",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "108",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/108.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/108_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-108",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:108:english:ex1-108",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-108",
+      "setId": "ex1",
+      "collectorNumber": "108",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-108",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-7",
+    "englishName": "Gardevoir",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "7",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/7.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-7",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:7:english:ex1-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-7",
+      "setId": "ex1",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-55",
+    "englishName": "Goldeen",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "55",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/55.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-55",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:55:english:ex1-55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-55",
+      "setId": "ex1",
+      "collectorNumber": "55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-104",
+    "englishName": "Grass Energy",
+    "category": "Energy",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "104",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/104.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/104_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-104",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:104:english:ex1-104",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-104",
+      "setId": "ex1",
+      "collectorNumber": "104",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-104",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-31",
+    "englishName": "Grovyle",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "31",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/31.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-31",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:31:english:ex1-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-31",
+      "setId": "ex1",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-32",
+    "englishName": "Grovyle",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "32",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/32.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-32",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:32:english:ex1-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-32",
+      "setId": "ex1",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-33",
+    "englishName": "Hariyama",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "33",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/33.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-33",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:33:english:ex1-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-33",
+      "setId": "ex1",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-8",
+    "englishName": "Hariyama",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "8",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/8.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-8",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:8:english:ex1-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-8",
+      "setId": "ex1",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-98",
+    "englishName": "Hitmonchan ex",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "98",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/98.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/98_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-98",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:98:english:ex1-98",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-98",
+      "setId": "ex1",
+      "collectorNumber": "98",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-98",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-34",
+    "englishName": "Kirlia",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "34",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/34.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-34",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:34:english:ex1-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-34",
+      "setId": "ex1",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-35",
+    "englishName": "Kirlia",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "35",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/35.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-35",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:35:english:ex1-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-35",
+      "setId": "ex1",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-54",
+    "englishName": "Koffing",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "54",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/54.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-54",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:54:english:ex1-54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-54",
+      "setId": "ex1",
+      "collectorNumber": "54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-83",
+    "englishName": "Lady Outing",
+    "category": "Trainer",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "83",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/83.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/83_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-83",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:83:english:ex1-83",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-83",
+      "setId": "ex1",
+      "collectorNumber": "83",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-83",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-36",
+    "englishName": "Lairon",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "36",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/36.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-36",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:36:english:ex1-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-36",
+      "setId": "ex1",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-37",
+    "englishName": "Lairon",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "37",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/37.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-37",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:37:english:ex1-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-37",
+      "setId": "ex1",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-99",
+    "englishName": "Lapras ex",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "99",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/99.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/99_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-99",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:99:english:ex1-99",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-99",
+      "setId": "ex1",
+      "collectorNumber": "99",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-99",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-109",
+    "englishName": "Lightning Energy",
+    "category": "Energy",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "109",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/109.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/109_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-109",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:109:english:ex1-109",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-109",
+      "setId": "ex1",
+      "collectorNumber": "109",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-109",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-38",
+    "englishName": "Linoone",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "38",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/38.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-38",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:38:english:ex1-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-38",
+      "setId": "ex1",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-84",
+    "englishName": "Lum Berry",
+    "category": "Trainer",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "84",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/84.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/84_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-84",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:84:english:ex1-84",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-84",
+      "setId": "ex1",
+      "collectorNumber": "84",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-84",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-100",
+    "englishName": "Magmar ex",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "100",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/100.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/100_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-100",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:100:english:ex1-100",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-100",
+      "setId": "ex1",
+      "collectorNumber": "100",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-100",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-56",
+    "englishName": "Makuhita",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "56",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/56.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-56",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:56:english:ex1-56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-56",
+      "setId": "ex1",
+      "collectorNumber": "56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-57",
+    "englishName": "Makuhita",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "57",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/57.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-57",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:57:english:ex1-57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-57",
+      "setId": "ex1",
+      "collectorNumber": "57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-58",
+    "englishName": "Makuhita",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "58",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/58.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-58",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:58:english:ex1-58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-58",
+      "setId": "ex1",
+      "collectorNumber": "58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-39",
+    "englishName": "Manectric",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "39",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/39.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-39",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:39:english:ex1-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-39",
+      "setId": "ex1",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-9",
+    "englishName": "Manectric",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "9",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/9.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-9",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:9:english:ex1-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-9",
+      "setId": "ex1",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-40",
+    "englishName": "Marshtomp",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "40",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/40.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-40",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:40:english:ex1-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-40",
+      "setId": "ex1",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-41",
+    "englishName": "Marshtomp",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "41",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/41.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-41",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:41:english:ex1-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-41",
+      "setId": "ex1",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-94",
+    "englishName": "Metal Energy",
+    "category": "Energy",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "94",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/94.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/94_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-94",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:94:english:ex1-94",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-94",
+      "setId": "ex1",
+      "collectorNumber": "94",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-94",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-101",
+    "englishName": "Mewtwo ex",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "101",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/101.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/101_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-101",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:101:english:ex1-101",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-101",
+      "setId": "ex1",
+      "collectorNumber": "101",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-101",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-10",
+    "englishName": "Mightyena",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "10",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/10.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-10",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:10:english:ex1-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-10",
+      "setId": "ex1",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-42",
+    "englishName": "Mightyena",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "42",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/42.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-42",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:42:english:ex1-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-42",
+      "setId": "ex1",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-59",
+    "englishName": "Mudkip",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "59",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/59.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-59",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:59:english:ex1-59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-59",
+      "setId": "ex1",
+      "collectorNumber": "59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-60",
+    "englishName": "Mudkip",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "60",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/60.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-60",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:60:english:ex1-60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-60",
+      "setId": "ex1",
+      "collectorNumber": "60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-18",
+    "englishName": "Nosepass",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "18",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/18.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-18",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:18:english:ex1-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-18",
+      "setId": "ex1",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-61",
+    "englishName": "Numel",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "61",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/61.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-61",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:61:english:ex1-61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-61",
+      "setId": "ex1",
+      "collectorNumber": "61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-85",
+    "englishName": "Oran Berry",
+    "category": "Trainer",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "85",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/85.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/85_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-85",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:85:english:ex1-85",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-85",
+      "setId": "ex1",
+      "collectorNumber": "85",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-85",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-19",
+    "englishName": "Pelipper",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "19",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/19.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-19",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:19:english:ex1-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-19",
+      "setId": "ex1",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-62",
+    "englishName": "Phanpy",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "62",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/62.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-62",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:62:english:ex1-62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-62",
+      "setId": "ex1",
+      "collectorNumber": "62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-86",
+    "englishName": "Poké Ball",
+    "category": "Trainer",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "86",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/86.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/86_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-86",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:86:english:ex1-86",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-86",
+      "setId": "ex1",
+      "collectorNumber": "86",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-86",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-87",
+    "englishName": "Pokémon Reversal",
+    "category": "Trainer",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "87",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/87.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/87_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-87",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:87:english:ex1-87",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-87",
+      "setId": "ex1",
+      "collectorNumber": "87",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-87",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-88",
+    "englishName": "PokéNav",
+    "category": "Trainer",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "88",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/88.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/88_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-88",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:88:english:ex1-88",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-88",
+      "setId": "ex1",
+      "collectorNumber": "88",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-88",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-63",
+    "englishName": "Poochyena",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "63",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/63.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-63",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:63:english:ex1-63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-63",
+      "setId": "ex1",
+      "collectorNumber": "63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-64",
+    "englishName": "Poochyena",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "64",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/64.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-64",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:64:english:ex1-64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-64",
+      "setId": "ex1",
+      "collectorNumber": "64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-65",
+    "englishName": "Poochyena",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "65",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/65.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-65",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:65:english:ex1-65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-65",
+      "setId": "ex1",
+      "collectorNumber": "65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-91",
+    "englishName": "Potion",
+    "category": "Trainer",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "91",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/91.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/91_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-91",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:91:english:ex1-91",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-91",
+      "setId": "ex1",
+      "collectorNumber": "91",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-91",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-89",
+    "englishName": "Professor Birch",
+    "category": "Trainer",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "89",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/89.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/89_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-89",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:89:english:ex1-89",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-89",
+      "setId": "ex1",
+      "collectorNumber": "89",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-89",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-107",
+    "englishName": "Psychic Energy",
+    "category": "Energy",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "107",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/107.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/107_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-107",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:107:english:ex1-107",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-107",
+      "setId": "ex1",
+      "collectorNumber": "107",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-107",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-95",
+    "englishName": "Rainbow Energy",
+    "category": "Energy",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "95",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/95.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/95_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-95",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:95:english:ex1-95",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-95",
+      "setId": "ex1",
+      "collectorNumber": "95",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-95",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-66",
+    "englishName": "Ralts",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "66",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/66.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-66",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:66:english:ex1-66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-66",
+      "setId": "ex1",
+      "collectorNumber": "66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-67",
+    "englishName": "Ralts",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "67",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/67.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-67",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:67:english:ex1-67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-67",
+      "setId": "ex1",
+      "collectorNumber": "67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-68",
+    "englishName": "Ralts",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "68",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/68.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-68",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:68:english:ex1-68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-68",
+      "setId": "ex1",
+      "collectorNumber": "68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-11",
+    "englishName": "Sceptile",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "11",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/11.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-11",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:11:english:ex1-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-11",
+      "setId": "ex1",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-20",
+    "englishName": "Sceptile",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "20",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/20.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-20",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:20:english:ex1-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-20",
+      "setId": "ex1",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-102",
+    "englishName": "Scyther ex",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "102",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/102.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/102_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-102",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:102:english:ex1-102",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-102",
+      "setId": "ex1",
+      "collectorNumber": "102",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-102",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-21",
+    "englishName": "Seaking",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "21",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/21.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-21",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:21:english:ex1-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-21",
+      "setId": "ex1",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-22",
+    "englishName": "Sharpedo",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "22",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/22.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-22",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:22:english:ex1-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-22",
+      "setId": "ex1",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-69",
+    "englishName": "Shroomish",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "69",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/69.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-69",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:69:english:ex1-69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-69",
+      "setId": "ex1",
+      "collectorNumber": "69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-43",
+    "englishName": "Silcoon",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "43",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/43.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-43",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:43:english:ex1-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-43",
+      "setId": "ex1",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-44",
+    "englishName": "Skitty",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "44",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/44.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-44",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:44:english:ex1-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-44",
+      "setId": "ex1",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-70",
+    "englishName": "Skitty",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "70",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/70.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-70",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:70:english:ex1-70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-70",
+      "setId": "ex1",
+      "collectorNumber": "70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-71",
+    "englishName": "Skitty",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "71",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/71.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-71",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:71:english:ex1-71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-71",
+      "setId": "ex1",
+      "collectorNumber": "71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-12",
+    "englishName": "Slaking",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "12",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/12.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-12",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:12:english:ex1-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-12",
+      "setId": "ex1",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-45",
+    "englishName": "Slakoth",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "45",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/45.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-45",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:45:english:ex1-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-45",
+      "setId": "ex1",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-103",
+    "englishName": "Sneasel ex",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "103",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/103.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/103_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-103",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:103:english:ex1-103",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-103",
+      "setId": "ex1",
+      "collectorNumber": "103",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-103",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-13",
+    "englishName": "Swampert",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "13",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/13.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-13",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:13:english:ex1-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-13",
+      "setId": "ex1",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-23",
+    "englishName": "Swampert",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "23",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/23.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-23",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:23:english:ex1-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-23",
+      "setId": "ex1",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-46",
+    "englishName": "Swellow",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "46",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/46.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-46",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:46:english:ex1-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-46",
+      "setId": "ex1",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-92",
+    "englishName": "Switch",
+    "category": "Trainer",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "92",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/92.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/92_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-92",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:92:english:ex1-92",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-92",
+      "setId": "ex1",
+      "collectorNumber": "92",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-92",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-72",
+    "englishName": "Taillow",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "72",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/72.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-72",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:72:english:ex1-72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-72",
+      "setId": "ex1",
+      "collectorNumber": "72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-73",
+    "englishName": "Torchic",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "73",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/73.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-73",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:73:english:ex1-73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-73",
+      "setId": "ex1",
+      "collectorNumber": "73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-74",
+    "englishName": "Torchic",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "74",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/74.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-74",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:74:english:ex1-74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-74",
+      "setId": "ex1",
+      "collectorNumber": "74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-75",
+    "englishName": "Treecko",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "75",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/75.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-75",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:75:english:ex1-75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-75",
+      "setId": "ex1",
+      "collectorNumber": "75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-76",
+    "englishName": "Treecko",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "76",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/76.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-76",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:76:english:ex1-76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-76",
+      "setId": "ex1",
+      "collectorNumber": "76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-47",
+    "englishName": "Vigoroth",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "47",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/47.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-47",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:47:english:ex1-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-47",
+      "setId": "ex1",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-48",
+    "englishName": "Wailmer",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "48",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/48.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-48",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:48:english:ex1-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-48",
+      "setId": "ex1",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-14",
+    "englishName": "Wailord",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "14",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/14.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-14",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:14:english:ex1-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-14",
+      "setId": "ex1",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-106",
+    "englishName": "Water Energy",
+    "category": "Energy",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "106",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/106.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/106_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-106",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:106:english:ex1-106",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-106",
+      "setId": "ex1",
+      "collectorNumber": "106",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-106",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-24",
+    "englishName": "Weezing",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "24",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/24.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-24",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:24:english:ex1-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-24",
+      "setId": "ex1",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-77",
+    "englishName": "Wingull",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "77",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/77.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-77",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:77:english:ex1-77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-77",
+      "setId": "ex1",
+      "collectorNumber": "77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-78",
+    "englishName": "Wurmple",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "78",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/78.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-78",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:78:english:ex1-78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-78",
+      "setId": "ex1",
+      "collectorNumber": "78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex1-79",
+    "englishName": "Zigzagoon",
+    "category": "Pokemon",
+    "setCode": "RS",
+    "setName": "Ruby & Sapphire",
+    "cardNumber": "79",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex1/79.png",
+    "imageLarge": "https://images.pokemontcg.io/ex1/79_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex1-79",
+    "sourceSetId": "ex1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex1:79:english:ex1-79",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex1-79",
+      "setId": "ex1",
+      "collectorNumber": "79",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex1-79",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

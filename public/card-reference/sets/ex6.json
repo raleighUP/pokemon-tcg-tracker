@@ -1,0 +1,3147 @@
+[
+  {
+    "id": "ex6-18",
+    "englishName": "Arcanine",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "18",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/18.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-18",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:18:english:ex6-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-18",
+      "setId": "ex6",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-114",
+    "englishName": "Articuno ex",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "114",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/114.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/114_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-114",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:114:english:ex6-114",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-114",
+      "setId": "ex6",
+      "collectorNumber": "114",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-114",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-1",
+    "englishName": "Beedrill",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "1",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/1.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-1",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:1:english:ex6-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-1",
+      "setId": "ex6",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-53",
+    "englishName": "Bellsprout",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "53",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/53.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-53",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:53:english:ex6-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-53",
+      "setId": "ex6",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-87",
+    "englishName": "Bill's Maintenance",
+    "category": "Trainer",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "87",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/87.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/87_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-87",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:87:english:ex6-87",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-87",
+      "setId": "ex6",
+      "collectorNumber": "87",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-87",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-104",
+    "englishName": "Blastoise ex",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "104",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/104.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/104_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-104",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:104:english:ex6-104",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-104",
+      "setId": "ex6",
+      "collectorNumber": "104",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-104",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-54",
+    "englishName": "Bulbasaur",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "54",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/54.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-54",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:54:english:ex6-54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-54",
+      "setId": "ex6",
+      "collectorNumber": "54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-55",
+    "englishName": "Bulbasaur",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "55",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/55.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-55",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:55:english:ex6-55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-55",
+      "setId": "ex6",
+      "collectorNumber": "55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-2",
+    "englishName": "Butterfree",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "2",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/2.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-2",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:2:english:ex6-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-2",
+      "setId": "ex6",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-56",
+    "englishName": "Caterpie",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "56",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/56.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-56",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:56:english:ex6-56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-56",
+      "setId": "ex6",
+      "collectorNumber": "56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-88",
+    "englishName": "Celio's Network",
+    "category": "Trainer",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "88",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/88.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/88_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-88",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:88:english:ex6-88",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-88",
+      "setId": "ex6",
+      "collectorNumber": "88",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-88",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-19",
+    "englishName": "Chansey",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "19",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/19.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-19",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:19:english:ex6-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-19",
+      "setId": "ex6",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-105",
+    "englishName": "Charizard ex",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "105",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/105.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/105_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-105",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:105:english:ex6-105",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-105",
+      "setId": "ex6",
+      "collectorNumber": "105",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-105",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-113",
+    "englishName": "Charmander",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "113",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/113.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/113_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-113",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:113:english:ex6-113",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-113",
+      "setId": "ex6",
+      "collectorNumber": "113",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-113",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-57",
+    "englishName": "Charmander",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "57",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/57.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-57",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:57:english:ex6-57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-57",
+      "setId": "ex6",
+      "collectorNumber": "57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-58",
+    "englishName": "Charmander",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "58",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/58.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-58",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:58:english:ex6-58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-58",
+      "setId": "ex6",
+      "collectorNumber": "58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-31",
+    "englishName": "Charmeleon",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "31",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/31.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-31",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:31:english:ex6-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-31",
+      "setId": "ex6",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-106",
+    "englishName": "Clefable ex",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "106",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/106.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/106_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-106",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:106:english:ex6-106",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-106",
+      "setId": "ex6",
+      "collectorNumber": "106",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-106",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-59",
+    "englishName": "Clefairy",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "59",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/59.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-59",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:59:english:ex6-59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-59",
+      "setId": "ex6",
+      "collectorNumber": "59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-20",
+    "englishName": "Cloyster",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "20",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/20.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-20",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:20:english:ex6-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-20",
+      "setId": "ex6",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-60",
+    "englishName": "Cubone",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "60",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/60.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-60",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:60:english:ex6-60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-60",
+      "setId": "ex6",
+      "collectorNumber": "60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-3",
+    "englishName": "Dewgong",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "3",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/3.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-3",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:3:english:ex6-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-3",
+      "setId": "ex6",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-61",
+    "englishName": "Diglett",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "61",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/61.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-61",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:61:english:ex6-61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-61",
+      "setId": "ex6",
+      "collectorNumber": "61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-4",
+    "englishName": "Ditto",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "4",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/4.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-4",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:4:english:ex6-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-4",
+      "setId": "ex6",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-21",
+    "englishName": "Dodrio",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "21",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/21.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-21",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:21:english:ex6-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-21",
+      "setId": "ex6",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-62",
+    "englishName": "Doduo",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "62",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/62.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-62",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:62:english:ex6-62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-62",
+      "setId": "ex6",
+      "collectorNumber": "62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-32",
+    "englishName": "Drowzee",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "32",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/32.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-32",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:32:english:ex6-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-32",
+      "setId": "ex6",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-22",
+    "englishName": "Dugtrio",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "22",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/22.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-22",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:22:english:ex6-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-22",
+      "setId": "ex6",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-107",
+    "englishName": "Electrode ex",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "107",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/107.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/107_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-107",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:107:english:ex6-107",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-107",
+      "setId": "ex6",
+      "collectorNumber": "107",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-107",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-89",
+    "englishName": "Energy Removal 2",
+    "category": "Trainer",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "89",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/89.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/89_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-89",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:89:english:ex6-89",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-89",
+      "setId": "ex6",
+      "collectorNumber": "89",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-89",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-90",
+    "englishName": "Energy Switch",
+    "category": "Trainer",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "90",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/90.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/90_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-90",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:90:english:ex6-90",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-90",
+      "setId": "ex6",
+      "collectorNumber": "90",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-90",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-33",
+    "englishName": "Exeggcute",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "33",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/33.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-33",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:33:english:ex6-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-33",
+      "setId": "ex6",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-5",
+    "englishName": "Exeggutor",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "5",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/5.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-5",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:5:english:ex6-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-5",
+      "setId": "ex6",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-91",
+    "englishName": "EXP.ALL",
+    "category": "Trainer",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "91",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/91.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/91_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-91",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:91:english:ex6-91",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-91",
+      "setId": "ex6",
+      "collectorNumber": "91",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-91",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-23",
+    "englishName": "Farfetch'd",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "23",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/23.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-23",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:23:english:ex6-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-23",
+      "setId": "ex6",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-24",
+    "englishName": "Fearow",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "24",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/24.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-24",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:24:english:ex6-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-24",
+      "setId": "ex6",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-63",
+    "englishName": "Gastly",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "63",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/63.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-63",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:63:english:ex6-63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-63",
+      "setId": "ex6",
+      "collectorNumber": "63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-108",
+    "englishName": "Gengar ex",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "108",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/108.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/108_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-108",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:108:english:ex6-108",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-108",
+      "setId": "ex6",
+      "collectorNumber": "108",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-108",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-92",
+    "englishName": "Great Ball",
+    "category": "Trainer",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "92",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/92.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/92_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-92",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:92:english:ex6-92",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-92",
+      "setId": "ex6",
+      "collectorNumber": "92",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-92",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-64",
+    "englishName": "Growlithe",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "64",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/64.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-64",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:64:english:ex6-64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-64",
+      "setId": "ex6",
+      "collectorNumber": "64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-109",
+    "englishName": "Gyarados ex",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "109",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/109.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/109_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-109",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:109:english:ex6-109",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-109",
+      "setId": "ex6",
+      "collectorNumber": "109",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-109",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-34",
+    "englishName": "Haunter",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "34",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/34.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-34",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:34:english:ex6-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-34",
+      "setId": "ex6",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-25",
+    "englishName": "Hypno",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "25",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/25.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-25",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:25:english:ex6-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-25",
+      "setId": "ex6",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-35",
+    "englishName": "Ivysaur",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "35",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/35.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-35",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:35:english:ex6-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-35",
+      "setId": "ex6",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-65",
+    "englishName": "Jigglypuff",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "65",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/65.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-65",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:65:english:ex6-65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-65",
+      "setId": "ex6",
+      "collectorNumber": "65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-36",
+    "englishName": "Kakuna",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "36",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/36.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-36",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:36:english:ex6-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-36",
+      "setId": "ex6",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-6",
+    "englishName": "Kangaskhan",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "6",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/6.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-6",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:6:english:ex6-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-6",
+      "setId": "ex6",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-26",
+    "englishName": "Kingler",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "26",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/26.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-26",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:26:english:ex6-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-26",
+      "setId": "ex6",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-66",
+    "englishName": "Krabby",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "66",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/66.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-66",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:66:english:ex6-66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-66",
+      "setId": "ex6",
+      "collectorNumber": "66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-37",
+    "englishName": "Lickitung",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "37",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/37.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-37",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:37:english:ex6-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-37",
+      "setId": "ex6",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-93",
+    "englishName": "Life Herb",
+    "category": "Trainer",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "93",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/93.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/93_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-93",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:93:english:ex6-93",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-93",
+      "setId": "ex6",
+      "collectorNumber": "93",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-93",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-67",
+    "englishName": "Magikarp",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "67",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/67.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-67",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:67:english:ex6-67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-67",
+      "setId": "ex6",
+      "collectorNumber": "67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-68",
+    "englishName": "Magnemite",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "68",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/68.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-68",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:68:english:ex6-68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-68",
+      "setId": "ex6",
+      "collectorNumber": "68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-27",
+    "englishName": "Magneton",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "27",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/27.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-27",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:27:english:ex6-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-27",
+      "setId": "ex6",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-38",
+    "englishName": "Mankey",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "38",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/38.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-38",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:38:english:ex6-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-38",
+      "setId": "ex6",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-7",
+    "englishName": "Marowak",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "7",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/7.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-7",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:7:english:ex6-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-7",
+      "setId": "ex6",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-69",
+    "englishName": "Meowth",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "69",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/69.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-69",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:69:english:ex6-69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-69",
+      "setId": "ex6",
+      "collectorNumber": "69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-39",
+    "englishName": "Metapod",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "39",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/39.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-39",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:39:english:ex6-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-39",
+      "setId": "ex6",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-115",
+    "englishName": "Moltres ex",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "115",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/115.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/115_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-115",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:115:english:ex6-115",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-115",
+      "setId": "ex6",
+      "collectorNumber": "115",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-115",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-110",
+    "englishName": "Mr. Mime ex",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "110",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/110.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/110_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-110",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:110:english:ex6-110",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-110",
+      "setId": "ex6",
+      "collectorNumber": "110",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-110",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-111",
+    "englishName": "Mr. Mime ex",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "111",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/111.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/111_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-111",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:111:english:ex6-111",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-111",
+      "setId": "ex6",
+      "collectorNumber": "111",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-111",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-94",
+    "englishName": "Mt. Moon",
+    "category": "Trainer",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "94",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/94.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/94_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-94",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:94:english:ex6-94",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-94",
+      "setId": "ex6",
+      "collectorNumber": "94",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-94",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-103",
+    "englishName": "Multi Energy",
+    "category": "Energy",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "103",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/103.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/103_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-103",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:103:english:ex6-103",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-103",
+      "setId": "ex6",
+      "collectorNumber": "103",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-103",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-8",
+    "englishName": "Nidoking",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "8",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/8.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-8",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:8:english:ex6-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-8",
+      "setId": "ex6",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-9",
+    "englishName": "Nidoqueen",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "9",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/9.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-9",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:9:english:ex6-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-9",
+      "setId": "ex6",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-70",
+    "englishName": "Nidoran ♀",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "70",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/70.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-70",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:70:english:ex6-70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-70",
+      "setId": "ex6",
+      "collectorNumber": "70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-71",
+    "englishName": "Nidoran ♂",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "71",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/71.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-71",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:71:english:ex6-71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-71",
+      "setId": "ex6",
+      "collectorNumber": "71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-40",
+    "englishName": "Nidorina",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "40",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/40.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-40",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:40:english:ex6-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-40",
+      "setId": "ex6",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-41",
+    "englishName": "Nidorino",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "41",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/41.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-41",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:41:english:ex6-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-41",
+      "setId": "ex6",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-42",
+    "englishName": "Onix",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "42",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/42.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-42",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:42:english:ex6-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-42",
+      "setId": "ex6",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-72",
+    "englishName": "Paras",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "72",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/72.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-72",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:72:english:ex6-72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-72",
+      "setId": "ex6",
+      "collectorNumber": "72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-43",
+    "englishName": "Parasect",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "43",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/43.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-43",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:43:english:ex6-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-43",
+      "setId": "ex6",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-44",
+    "englishName": "Persian",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "44",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/44.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-44",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:44:english:ex6-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-44",
+      "setId": "ex6",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-10",
+    "englishName": "Pidgeot",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "10",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/10.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-10",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:10:english:ex6-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-10",
+      "setId": "ex6",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-45",
+    "englishName": "Pidgeotto",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "45",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/45.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-45",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:45:english:ex6-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-45",
+      "setId": "ex6",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-73",
+    "englishName": "Pidgey",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "73",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/73.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-73",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:73:english:ex6-73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-73",
+      "setId": "ex6",
+      "collectorNumber": "73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-74",
+    "englishName": "Pikachu",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "74",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/74.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-74",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:74:english:ex6-74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-74",
+      "setId": "ex6",
+      "collectorNumber": "74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-95",
+    "englishName": "Poké Ball",
+    "category": "Trainer",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "95",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/95.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/95_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-95",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:95:english:ex6-95",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-95",
+      "setId": "ex6",
+      "collectorNumber": "95",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-95",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-96",
+    "englishName": "PokéDex HANDY909",
+    "category": "Trainer",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "96",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/96.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/96_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-96",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:96:english:ex6-96",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-96",
+      "setId": "ex6",
+      "collectorNumber": "96",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-96",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-97",
+    "englishName": "Pokémon Reversal",
+    "category": "Trainer",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "97",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/97.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/97_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-97",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:97:english:ex6-97",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-97",
+      "setId": "ex6",
+      "collectorNumber": "97",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-97",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-75",
+    "englishName": "Poliwag",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "75",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/75.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-75",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:75:english:ex6-75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-75",
+      "setId": "ex6",
+      "collectorNumber": "75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-46",
+    "englishName": "Poliwhirl",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "46",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/46.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-46",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:46:english:ex6-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-46",
+      "setId": "ex6",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-11",
+    "englishName": "Poliwrath",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "11",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/11.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-11",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:11:english:ex6-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-11",
+      "setId": "ex6",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-76",
+    "englishName": "Ponyta",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "76",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/76.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-76",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:76:english:ex6-76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-76",
+      "setId": "ex6",
+      "collectorNumber": "76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-47",
+    "englishName": "Porygon",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "47",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/47.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-47",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:47:english:ex6-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-47",
+      "setId": "ex6",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-101",
+    "englishName": "Potion",
+    "category": "Trainer",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "101",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/101.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/101_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-101",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:101:english:ex6-101",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-101",
+      "setId": "ex6",
+      "collectorNumber": "101",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-101",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-28",
+    "englishName": "Primeape",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "28",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/28.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-28",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:28:english:ex6-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-28",
+      "setId": "ex6",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-98",
+    "englishName": "Prof. Oak's Research",
+    "category": "Trainer",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "98",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/98.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/98_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-98",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:98:english:ex6-98",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-98",
+      "setId": "ex6",
+      "collectorNumber": "98",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-98",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-12",
+    "englishName": "Raichu",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "12",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/12.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-12",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:12:english:ex6-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-12",
+      "setId": "ex6",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-13",
+    "englishName": "Rapidash",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "13",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/13.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-13",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:13:english:ex6-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-13",
+      "setId": "ex6",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-48",
+    "englishName": "Raticate",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "48",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/48.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-48",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:48:english:ex6-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-48",
+      "setId": "ex6",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-77",
+    "englishName": "Rattata",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "77",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/77.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-77",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:77:english:ex6-77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-77",
+      "setId": "ex6",
+      "collectorNumber": "77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-29",
+    "englishName": "Scyther",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "29",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/29.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-29",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:29:english:ex6-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-29",
+      "setId": "ex6",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-78",
+    "englishName": "Seel",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "78",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/78.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-78",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:78:english:ex6-78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-78",
+      "setId": "ex6",
+      "collectorNumber": "78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-79",
+    "englishName": "Shellder",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "79",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/79.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/79_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-79",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:79:english:ex6-79",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-79",
+      "setId": "ex6",
+      "collectorNumber": "79",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-79",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-14",
+    "englishName": "Slowbro",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "14",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/14.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-14",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:14:english:ex6-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-14",
+      "setId": "ex6",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-80",
+    "englishName": "Slowpoke",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "80",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/80.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/80_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-80",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:80:english:ex6-80",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-80",
+      "setId": "ex6",
+      "collectorNumber": "80",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-80",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-15",
+    "englishName": "Snorlax",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "15",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/15.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-15",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:15:english:ex6-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-15",
+      "setId": "ex6",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-81",
+    "englishName": "Spearow",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "81",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/81.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/81_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-81",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:81:english:ex6-81",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-81",
+      "setId": "ex6",
+      "collectorNumber": "81",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-81",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-82",
+    "englishName": "Squirtle",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "82",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/82.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/82_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-82",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:82:english:ex6-82",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-82",
+      "setId": "ex6",
+      "collectorNumber": "82",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-82",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-83",
+    "englishName": "Squirtle",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "83",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/83.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/83_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-83",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:83:english:ex6-83",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-83",
+      "setId": "ex6",
+      "collectorNumber": "83",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-83",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-99",
+    "englishName": "Super Scoop Up",
+    "category": "Trainer",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "99",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/99.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/99_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-99",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:99:english:ex6-99",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-99",
+      "setId": "ex6",
+      "collectorNumber": "99",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-99",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-102",
+    "englishName": "Switch",
+    "category": "Trainer",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "102",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/102.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/102_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-102",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:102:english:ex6-102",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-102",
+      "setId": "ex6",
+      "collectorNumber": "102",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-102",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-30",
+    "englishName": "Tangela",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "30",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/30.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-30",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:30:english:ex6-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-30",
+      "setId": "ex6",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-16",
+    "englishName": "Tauros",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "16",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/16.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-16",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:16:english:ex6-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-16",
+      "setId": "ex6",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-49",
+    "englishName": "Venomoth",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "49",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/49.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-49",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:49:english:ex6-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-49",
+      "setId": "ex6",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-84",
+    "englishName": "Venonat",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "84",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/84.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/84_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-84",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:84:english:ex6-84",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-84",
+      "setId": "ex6",
+      "collectorNumber": "84",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-84",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-112",
+    "englishName": "Venusaur ex",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "112",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/112.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/112_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-112",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:112:english:ex6-112",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-112",
+      "setId": "ex6",
+      "collectorNumber": "112",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-112",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-17",
+    "englishName": "Victreebel",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "17",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/17.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-17",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:17:english:ex6-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-17",
+      "setId": "ex6",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-85",
+    "englishName": "Voltorb",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "85",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/85.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/85_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-85",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:85:english:ex6-85",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-85",
+      "setId": "ex6",
+      "collectorNumber": "85",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-85",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-100",
+    "englishName": "VS Seeker",
+    "category": "Trainer",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "100",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/100.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/100_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-100",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:100:english:ex6-100",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-100",
+      "setId": "ex6",
+      "collectorNumber": "100",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-100",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-50",
+    "englishName": "Wartortle",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "50",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/50.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-50",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:50:english:ex6-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-50",
+      "setId": "ex6",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-86",
+    "englishName": "Weedle",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "86",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/86.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/86_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-86",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:86:english:ex6-86",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-86",
+      "setId": "ex6",
+      "collectorNumber": "86",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-86",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-51",
+    "englishName": "Weepinbell",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "51",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/51.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-51",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:51:english:ex6-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-51",
+      "setId": "ex6",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-52",
+    "englishName": "Wigglytuff",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "52",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/52.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-52",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:52:english:ex6-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-52",
+      "setId": "ex6",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex6-116",
+    "englishName": "Zapdos ex",
+    "category": "Pokemon",
+    "setCode": "RG",
+    "setName": "FireRed & LeafGreen",
+    "cardNumber": "116",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex6/116.png",
+    "imageLarge": "https://images.pokemontcg.io/ex6/116_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex6-116",
+    "sourceSetId": "ex6",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex6:116:english:ex6-116",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex6-116",
+      "setId": "ex6",
+      "collectorNumber": "116",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex6-116",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

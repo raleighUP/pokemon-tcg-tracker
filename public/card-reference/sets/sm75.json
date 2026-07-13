@@ -1,0 +1,2242 @@
+[
+  {
+    "id": "sm75-41",
+    "englishName": "Altaria-GX",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "41",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/41.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-41",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:41:english:sm75-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-41",
+      "setId": "sm75",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-68",
+    "englishName": "Altaria-GX",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "68",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/68.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-68",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:68:english:sm75-68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-68",
+      "setId": "sm75",
+      "collectorNumber": "68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-72",
+    "englishName": "Altaria-GX",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "72",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/72.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-72",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:72:english:sm75-72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-72",
+      "setId": "sm75",
+      "collectorNumber": "72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-40",
+    "englishName": "Altaria",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "40",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/40.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-40",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:40:english:sm75-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-40",
+      "setId": "sm75",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-40a",
+    "englishName": "Altaria",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "40a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/40a.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/40a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-40a",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:40a:english:sm75-40a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-40a",
+      "setId": "sm75",
+      "collectorNumber": "40a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-40a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-42",
+    "englishName": "Bagon",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "42",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/42.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-42",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:42:english:sm75-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-42",
+      "setId": "sm75",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-58",
+    "englishName": "Blaine's Last Stand",
+    "category": "Trainer",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "58",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/58.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-58",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:58:english:sm75-58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-58",
+      "setId": "sm75",
+      "collectorNumber": "58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-69",
+    "englishName": "Blaine's Last Stand",
+    "category": "Trainer",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "69",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/69.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-69",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:69:english:sm75-69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-69",
+      "setId": "sm75",
+      "collectorNumber": "69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-6",
+    "englishName": "Blaziken",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "6",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/6.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-6",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:6:english:sm75-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-6",
+      "setId": "sm75",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-3",
+    "englishName": "Charizard",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "3",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/3.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-3",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:3:english:sm75-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-3",
+      "setId": "sm75",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-1",
+    "englishName": "Charmander",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "1",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/1.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-1",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:1:english:sm75-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-1",
+      "setId": "sm75",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-2",
+    "englishName": "Charmeleon",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "2",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/2.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-2",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:2:english:sm75-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-2",
+      "setId": "sm75",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-5",
+    "englishName": "Combusken",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "5",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/5.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-5",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:5:english:sm75-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-5",
+      "setId": "sm75",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-27",
+    "englishName": "Corsola",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "27",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/27.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-27",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:27:english:sm75-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-27",
+      "setId": "sm75",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-23",
+    "englishName": "Croconaw",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "23",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/23.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-23",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:23:english:sm75-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-23",
+      "setId": "sm75",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-9",
+    "englishName": "Darmanitan",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "9",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/9.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-9",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:9:english:sm75-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-9",
+      "setId": "sm75",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-8",
+    "englishName": "Darumaka",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "8",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/8.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-8",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:8:english:sm75-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-8",
+      "setId": "sm75",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-59",
+    "englishName": "Dragon Talon",
+    "category": "Trainer",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "59",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/59.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-59",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:59:english:sm75-59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-59",
+      "setId": "sm75",
+      "collectorNumber": "59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-75",
+    "englishName": "Dragon Talon",
+    "category": "Trainer",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "75",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/75.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-75",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:75:english:sm75-75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-75",
+      "setId": "sm75",
+      "collectorNumber": "75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-36",
+    "englishName": "Dragonair",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "36",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/36.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-36",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:36:english:sm75-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-36",
+      "setId": "sm75",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-37",
+    "englishName": "Dragonite-GX",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "37",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/37.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-37",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:37:english:sm75-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-37",
+      "setId": "sm75",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-67",
+    "englishName": "Dragonite-GX",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "67",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/67.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-67",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:67:english:sm75-67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-67",
+      "setId": "sm75",
+      "collectorNumber": "67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-51",
+    "englishName": "Drampa",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "51",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/51.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-51",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:51:english:sm75-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-51",
+      "setId": "sm75",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-34",
+    "englishName": "Dratini",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "34",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/34.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-34",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:34:english:sm75-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-34",
+      "setId": "sm75",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-35",
+    "englishName": "Dratini",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "35",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/35.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-35",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:35:english:sm75-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-35",
+      "setId": "sm75",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-45",
+    "englishName": "Druddigon",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "45",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/45.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-45",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:45:english:sm75-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-45",
+      "setId": "sm75",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-28",
+    "englishName": "Feebas",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "28",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/28.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-28",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:28:english:sm75-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-28",
+      "setId": "sm75",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-24",
+    "englishName": "Feraligatr",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "24",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/24.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-24",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:24:english:sm75-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-24",
+      "setId": "sm75",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-60",
+    "englishName": "Fiery Flint",
+    "category": "Trainer",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "60",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/60.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-60",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:60:english:sm75-60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-60",
+      "setId": "sm75",
+      "collectorNumber": "60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-60a",
+    "englishName": "Fiery Flint",
+    "category": "Trainer",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "60a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/60a.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/60a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-60a",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:60a:english:sm75-60a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-60a",
+      "setId": "sm75",
+      "collectorNumber": "60a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-60a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-76",
+    "englishName": "Fiery Flint",
+    "category": "Trainer",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "76",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/76.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-76",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:76:english:sm75-76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-76",
+      "setId": "sm75",
+      "collectorNumber": "76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-39",
+    "englishName": "Flygon",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "39",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/39.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-39",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:39:english:sm75-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-39",
+      "setId": "sm75",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-20",
+    "englishName": "Gyarados",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "20",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/20.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-20",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:20:english:sm75-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-20",
+      "setId": "sm75",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-53",
+    "englishName": "Hakamo-o",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "53",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/53.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-53",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:53:english:sm75-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-53",
+      "setId": "sm75",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-10",
+    "englishName": "Heatmor",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "10",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/10.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-10",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:10:english:sm75-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-10",
+      "setId": "sm75",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-15",
+    "englishName": "Horsea",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "15",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/15.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-15",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:15:english:sm75-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-15",
+      "setId": "sm75",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-16",
+    "englishName": "Horsea",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "16",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/16.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-16",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:16:english:sm75-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-16",
+      "setId": "sm75",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-33",
+    "englishName": "Hydreigon",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "33",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/33.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-33",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:33:english:sm75-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-33",
+      "setId": "sm75",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-52",
+    "englishName": "Jangmo-o",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "52",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/52.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-52",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:52:english:sm75-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-52",
+      "setId": "sm75",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-55",
+    "englishName": "Kangaskhan",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "55",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/55.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-55",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:55:english:sm75-55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-55",
+      "setId": "sm75",
+      "collectorNumber": "55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-18",
+    "englishName": "Kingdra-GX",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "18",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/18.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-18",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:18:english:sm75-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-18",
+      "setId": "sm75",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-66",
+    "englishName": "Kingdra-GX",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "66",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/66.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-66",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:66:english:sm75-66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-66",
+      "setId": "sm75",
+      "collectorNumber": "66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-54",
+    "englishName": "Kommo-o",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "54",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/54.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-54",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:54:english:sm75-54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-54",
+      "setId": "sm75",
+      "collectorNumber": "54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-47",
+    "englishName": "Kyurem",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "47",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/47.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-47",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:47:english:sm75-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-47",
+      "setId": "sm75",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-61",
+    "englishName": "Lance ◇",
+    "category": "Trainer",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "61",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/61.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-61",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:61:english:sm75-61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-61",
+      "setId": "sm75",
+      "collectorNumber": "61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-21",
+    "englishName": "Lapras",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "21",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/21.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-21",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:21:english:sm75-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-21",
+      "setId": "sm75",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-12",
+    "englishName": "Litten",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "12",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/12.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-12",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:12:english:sm75-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-12",
+      "setId": "sm75",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-19",
+    "englishName": "Magikarp",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "19",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/19.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-19",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:19:english:sm75-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-19",
+      "setId": "sm75",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-29",
+    "englishName": "Milotic",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "29",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/29.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-29",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:29:english:sm75-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-29",
+      "setId": "sm75",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-30",
+    "englishName": "Phione",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "30",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/30.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-30",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:30:english:sm75-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-30",
+      "setId": "sm75",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-26",
+    "englishName": "Quagsire",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "26",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/26.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-26",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:26:english:sm75-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-26",
+      "setId": "sm75",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-11",
+    "englishName": "Reshiram-GX",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "11",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/11.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-11",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:11:english:sm75-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-11",
+      "setId": "sm75",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-65",
+    "englishName": "Reshiram-GX",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "65",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/65.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-65",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:65:english:sm75-65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-65",
+      "setId": "sm75",
+      "collectorNumber": "65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-71",
+    "englishName": "Reshiram-GX",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "71",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/71.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-71",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:71:english:sm75-71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-71",
+      "setId": "sm75",
+      "collectorNumber": "71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-44",
+    "englishName": "Salamence-GX",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "44",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/44.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-44",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:44:english:sm75-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-44",
+      "setId": "sm75",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-73",
+    "englishName": "Salamence-GX",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "73",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/73.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-73",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:73:english:sm75-73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-73",
+      "setId": "sm75",
+      "collectorNumber": "73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-13",
+    "englishName": "Salandit",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "13",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/13.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-13",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:13:english:sm75-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-13",
+      "setId": "sm75",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-14",
+    "englishName": "Salazzle",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "14",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/14.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-14",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:14:english:sm75-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-14",
+      "setId": "sm75",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-17",
+    "englishName": "Seadra",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "17",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/17.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-17",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:17:english:sm75-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-17",
+      "setId": "sm75",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-43",
+    "englishName": "Shelgon",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "43",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/43.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-43",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:43:english:sm75-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-43",
+      "setId": "sm75",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-56",
+    "englishName": "Swablu",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "56",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/56.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-56",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:56:english:sm75-56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-56",
+      "setId": "sm75",
+      "collectorNumber": "56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-57",
+    "englishName": "Swablu",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "57",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/57.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-57",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:57:english:sm75-57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-57",
+      "setId": "sm75",
+      "collectorNumber": "57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-62",
+    "englishName": "Switch Raft",
+    "category": "Trainer",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "62",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/62.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-62",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:62:english:sm75-62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-62",
+      "setId": "sm75",
+      "collectorNumber": "62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-77",
+    "englishName": "Switch Raft",
+    "category": "Trainer",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "77",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/77.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-77",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:77:english:sm75-77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-77",
+      "setId": "sm75",
+      "collectorNumber": "77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-4",
+    "englishName": "Torchic",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "4",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/4.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-4",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:4:english:sm75-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-4",
+      "setId": "sm75",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-22",
+    "englishName": "Totodile",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "22",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/22.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-22",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:22:english:sm75-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-22",
+      "setId": "sm75",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-32",
+    "englishName": "Trapinch",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "32",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/32.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-32",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:32:english:sm75-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-32",
+      "setId": "sm75",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-50",
+    "englishName": "Turtonator",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "50",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/50.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-50",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:50:english:sm75-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-50",
+      "setId": "sm75",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-78",
+    "englishName": "Ultra Necrozma-GX",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "78",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/78.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-78",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:78:english:sm75-78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-78",
+      "setId": "sm75",
+      "collectorNumber": "78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-38",
+    "englishName": "Vibrava",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "38",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/38.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-38",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:38:english:sm75-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-38",
+      "setId": "sm75",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-7",
+    "englishName": "Victini ◇",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "7",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/7.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-7",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:7:english:sm75-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-7",
+      "setId": "sm75",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-63",
+    "englishName": "Wela Volcano Park",
+    "category": "Trainer",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "63",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/63.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-63",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:63:english:sm75-63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-63",
+      "setId": "sm75",
+      "collectorNumber": "63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-48",
+    "englishName": "White Kyurem-GX",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "48",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/48.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-48",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:48:english:sm75-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-48",
+      "setId": "sm75",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-74",
+    "englishName": "White Kyurem-GX",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "74",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/74.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-74",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:74:english:sm75-74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-74",
+      "setId": "sm75",
+      "collectorNumber": "74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-31",
+    "englishName": "Wishiwashi",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "31",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/31.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-31",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:31:english:sm75-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-31",
+      "setId": "sm75",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-25",
+    "englishName": "Wooper",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "25",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/25.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-25",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:25:english:sm75-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-25",
+      "setId": "sm75",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-46",
+    "englishName": "Zekrom",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "46",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/46.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-46",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:46:english:sm75-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-46",
+      "setId": "sm75",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-64",
+    "englishName": "Zinnia",
+    "category": "Trainer",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "64",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/64.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-64",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:64:english:sm75-64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-64",
+      "setId": "sm75",
+      "collectorNumber": "64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-70",
+    "englishName": "Zinnia",
+    "category": "Trainer",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "70",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/70.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-70",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:70:english:sm75-70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-70",
+      "setId": "sm75",
+      "collectorNumber": "70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm75-49",
+    "englishName": "Zygarde",
+    "category": "Pokemon",
+    "setCode": "DRM",
+    "setName": "Dragon Majesty",
+    "cardNumber": "49",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm75/49.png",
+    "imageLarge": "https://images.pokemontcg.io/sm75/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm75-49",
+    "sourceSetId": "sm75",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm75:49:english:sm75-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm75-49",
+      "setId": "sm75",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm75-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

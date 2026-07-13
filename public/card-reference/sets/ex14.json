@@ -1,0 +1,2709 @@
+[
+  {
+    "id": "ex14-89",
+    "englishName": "Aggron ex",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "89",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/89.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/89_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-89",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:89:english:ex14-89",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-89",
+      "setId": "ex14",
+      "collectorNumber": "89",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-89",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-99",
+    "englishName": "Alakazam ★",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "99",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/99.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/99_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-99",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:99:english:ex14-99",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-99",
+      "setId": "ex14",
+      "collectorNumber": "99",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-99",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-44",
+    "englishName": "Aron",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "44",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/44.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-44",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:44:english:ex14-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-44",
+      "setId": "ex14",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-1",
+    "englishName": "Banette",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "1",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/1.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-1",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:1:english:ex14-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-1",
+      "setId": "ex14",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-71",
+    "englishName": "Bill's Maintenance",
+    "category": "Trainer",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "71",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/71.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-71",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:71:english:ex14-71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-71",
+      "setId": "ex14",
+      "collectorNumber": "71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-2",
+    "englishName": "Blastoise δ",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "2",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/2.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-2",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:2:english:ex14-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-2",
+      "setId": "ex14",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-14",
+    "englishName": "Blastoise",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "14",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/14.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-14",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:14:english:ex14-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-14",
+      "setId": "ex14",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-90",
+    "englishName": "Blaziken ex",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "90",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/90.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/90_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-90",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:90:english:ex14-90",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-90",
+      "setId": "ex14",
+      "collectorNumber": "90",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-90",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-45",
+    "englishName": "Bulbasaur",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "45",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/45.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-45",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:45:english:ex14-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-45",
+      "setId": "ex14",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-46",
+    "englishName": "Bulbasaur",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "46",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/46.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-46",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:46:english:ex14-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-46",
+      "setId": "ex14",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-47",
+    "englishName": "Cacnea",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "47",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/47.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-47",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:47:english:ex14-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-47",
+      "setId": "ex14",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-15",
+    "englishName": "Cacturne δ",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "15",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/15.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-15",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:15:english:ex14-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-15",
+      "setId": "ex14",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-3",
+    "englishName": "Camerupt",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "3",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/3.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-3",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:3:english:ex14-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-3",
+      "setId": "ex14",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-72",
+    "englishName": "Castaway",
+    "category": "Trainer",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "72",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/72.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-72",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:72:english:ex14-72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-72",
+      "setId": "ex14",
+      "collectorNumber": "72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-100",
+    "englishName": "Celebi ★",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "100",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/100.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/100_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-100",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:100:english:ex14-100",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-100",
+      "setId": "ex14",
+      "collectorNumber": "100",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-100",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-73",
+    "englishName": "Celio's Network",
+    "category": "Trainer",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "73",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/73.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-73",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:73:english:ex14-73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-73",
+      "setId": "ex14",
+      "collectorNumber": "73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-74",
+    "englishName": "Cessation Crystal",
+    "category": "Trainer",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "74",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/74.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-74",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:74:english:ex14-74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-74",
+      "setId": "ex14",
+      "collectorNumber": "74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-4",
+    "englishName": "Charizard δ",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "4",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/4.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-4",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:4:english:ex14-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-4",
+      "setId": "ex14",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-49",
+    "englishName": "Charmander δ",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "49",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/49.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-49",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:49:english:ex14-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-49",
+      "setId": "ex14",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-48",
+    "englishName": "Charmander",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "48",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/48.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-48",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:48:english:ex14-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-48",
+      "setId": "ex14",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-30",
+    "englishName": "Charmeleon δ",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "30",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/30.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-30",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:30:english:ex14-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-30",
+      "setId": "ex14",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-29",
+    "englishName": "Charmeleon",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "29",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/29.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-29",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:29:english:ex14-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-29",
+      "setId": "ex14",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-16",
+    "englishName": "Combusken",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "16",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/16.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-16",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:16:english:ex14-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-16",
+      "setId": "ex14",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-31",
+    "englishName": "Combusken",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "31",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/31.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-31",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:31:english:ex14-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-31",
+      "setId": "ex14",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-75",
+    "englishName": "Crystal Beach",
+    "category": "Trainer",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "75",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/75.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-75",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:75:english:ex14-75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-75",
+      "setId": "ex14",
+      "collectorNumber": "75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-76",
+    "englishName": "Crystal Shard",
+    "category": "Trainer",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "76",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/76.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-76",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:76:english:ex14-76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-76",
+      "setId": "ex14",
+      "collectorNumber": "76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-91",
+    "englishName": "Delcatty ex",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "91",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/91.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/91_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-91",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:91:english:ex14-91",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-91",
+      "setId": "ex14",
+      "collectorNumber": "91",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-91",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-50",
+    "englishName": "Diglett",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "50",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/50.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-50",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:50:english:ex14-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-50",
+      "setId": "ex14",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-77",
+    "englishName": "Double Full Heal",
+    "category": "Trainer",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "77",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/77.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-77",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:77:english:ex14-77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-77",
+      "setId": "ex14",
+      "collectorNumber": "77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-88",
+    "englishName": "Double Rainbow Energy",
+    "category": "Energy",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "88",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/88.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/88_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-88",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:88:english:ex14-88",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-88",
+      "setId": "ex14",
+      "collectorNumber": "88",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-88",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-78",
+    "englishName": "Dual Ball",
+    "category": "Trainer",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "78",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/78.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-78",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:78:english:ex14-78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-78",
+      "setId": "ex14",
+      "collectorNumber": "78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-5",
+    "englishName": "Dugtrio",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "5",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/5.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-5",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:5:english:ex14-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-5",
+      "setId": "ex14",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-17",
+    "englishName": "Dusclops",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "17",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/17.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-17",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:17:english:ex14-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-17",
+      "setId": "ex14",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-51",
+    "englishName": "Duskull",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "51",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/51.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-51",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:51:english:ex14-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-51",
+      "setId": "ex14",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-52",
+    "englishName": "Electrike",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "52",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/52.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-52",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:52:english:ex14-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-52",
+      "setId": "ex14",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-86",
+    "englishName": "Energy Search",
+    "category": "Trainer",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "86",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/86.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/86_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-86",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:86:english:ex14-86",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-86",
+      "setId": "ex14",
+      "collectorNumber": "86",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-86",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-92",
+    "englishName": "Exploud ex",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "92",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/92.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/92_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-92",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:92:english:ex14-92",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-92",
+      "setId": "ex14",
+      "collectorNumber": "92",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-92",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-18",
+    "englishName": "Fearow δ",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "18",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/18.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-18",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:18:english:ex14-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-18",
+      "setId": "ex14",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-93",
+    "englishName": "Groudon ex",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "93",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/93.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/93_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-93",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:93:english:ex14-93",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-93",
+      "setId": "ex14",
+      "collectorNumber": "93",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-93",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-19",
+    "englishName": "Grovyle δ",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "19",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/19.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-19",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:19:english:ex14-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-19",
+      "setId": "ex14",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-32",
+    "englishName": "Grovyle",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "32",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/32.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-32",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:32:english:ex14-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-32",
+      "setId": "ex14",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-20",
+    "englishName": "Grumpig",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "20",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/20.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-20",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:20:english:ex14-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-20",
+      "setId": "ex14",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-33",
+    "englishName": "Gulpin",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "33",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/33.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-33",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:33:english:ex14-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-33",
+      "setId": "ex14",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-79",
+    "englishName": "Holon Circle",
+    "category": "Trainer",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "79",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/79.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/79_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-79",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:79:english:ex14-79",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-79",
+      "setId": "ex14",
+      "collectorNumber": "79",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-79",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-21",
+    "englishName": "Igglybuff",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "21",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/21.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-21",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:21:english:ex14-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-21",
+      "setId": "ex14",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-34",
+    "englishName": "Ivysaur",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "34",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/34.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-34",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:34:english:ex14-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-34",
+      "setId": "ex14",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-35",
+    "englishName": "Ivysaur",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "35",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/35.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-35",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:35:english:ex14-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-35",
+      "setId": "ex14",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-53",
+    "englishName": "Jigglypuff",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "53",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/53.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-53",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:53:english:ex14-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-53",
+      "setId": "ex14",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-94",
+    "englishName": "Jirachi ex",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "94",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/94.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/94_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-94",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:94:english:ex14-94",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-94",
+      "setId": "ex14",
+      "collectorNumber": "94",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-94",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-22",
+    "englishName": "Kingler δ",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "22",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/22.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-22",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:22:english:ex14-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-22",
+      "setId": "ex14",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-54",
+    "englishName": "Krabby",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "54",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/54.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-54",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:54:english:ex14-54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-54",
+      "setId": "ex14",
+      "collectorNumber": "54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-95",
+    "englishName": "Kyogre ex",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "95",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/95.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/95_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-95",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:95:english:ex14-95",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-95",
+      "setId": "ex14",
+      "collectorNumber": "95",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-95",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-36",
+    "englishName": "Lairon",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "36",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/36.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-36",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:36:english:ex14-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-36",
+      "setId": "ex14",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-37",
+    "englishName": "Lombre",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "37",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/37.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-37",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:37:english:ex14-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-37",
+      "setId": "ex14",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-55",
+    "englishName": "Lotad",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "55",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/55.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-55",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:55:english:ex14-55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-55",
+      "setId": "ex14",
+      "collectorNumber": "55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-23",
+    "englishName": "Loudred",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "23",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/23.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-23",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:23:english:ex14-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-23",
+      "setId": "ex14",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-6",
+    "englishName": "Ludicolo δ",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "6",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/6.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-6",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:6:english:ex14-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-6",
+      "setId": "ex14",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-7",
+    "englishName": "Luvdisc",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "7",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/7.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-7",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:7:english:ex14-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-7",
+      "setId": "ex14",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-8",
+    "englishName": "Manectric",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "8",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/8.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-8",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:8:english:ex14-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-8",
+      "setId": "ex14",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-24",
+    "englishName": "Marshtomp",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "24",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/24.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-24",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:24:english:ex14-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-24",
+      "setId": "ex14",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-38",
+    "englishName": "Marshtomp",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "38",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/38.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-38",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:38:english:ex14-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-38",
+      "setId": "ex14",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-9",
+    "englishName": "Mawile",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "9",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/9.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-9",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:9:english:ex14-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-9",
+      "setId": "ex14",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-25",
+    "englishName": "Medicham",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "25",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/25.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-25",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:25:english:ex14-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-25",
+      "setId": "ex14",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-56",
+    "englishName": "Meditite",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "56",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/56.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-56",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:56:english:ex14-56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-56",
+      "setId": "ex14",
+      "collectorNumber": "56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-80",
+    "englishName": "Memory Berry",
+    "category": "Trainer",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "80",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/80.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/80_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-80",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:80:english:ex14-80",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-80",
+      "setId": "ex14",
+      "collectorNumber": "80",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-80",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-57",
+    "englishName": "Mudkip",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "57",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/57.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-57",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:57:english:ex14-57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-57",
+      "setId": "ex14",
+      "collectorNumber": "57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-58",
+    "englishName": "Mudkip",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "58",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/58.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-58",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:58:english:ex14-58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-58",
+      "setId": "ex14",
+      "collectorNumber": "58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-81",
+    "englishName": "Mysterious Shard",
+    "category": "Trainer",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "81",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/81.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/81_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-81",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:81:english:ex14-81",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-81",
+      "setId": "ex14",
+      "collectorNumber": "81",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-81",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-59",
+    "englishName": "Numel",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "59",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/59.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-59",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:59:english:ex14-59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-59",
+      "setId": "ex14",
+      "collectorNumber": "59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-39",
+    "englishName": "Nuzleaf",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "39",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/39.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-39",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:39:english:ex14-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-39",
+      "setId": "ex14",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-26",
+    "englishName": "Pelipper δ",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "26",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/26.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-26",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:26:english:ex14-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-26",
+      "setId": "ex14",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-82",
+    "englishName": "Poké Ball",
+    "category": "Trainer",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "82",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/82.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/82_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-82",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:82:english:ex14-82",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-82",
+      "setId": "ex14",
+      "collectorNumber": "82",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-82",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-83",
+    "englishName": "PokéNav",
+    "category": "Trainer",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "83",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/83.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/83_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-83",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:83:english:ex14-83",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-83",
+      "setId": "ex14",
+      "collectorNumber": "83",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-83",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-87",
+    "englishName": "Potion",
+    "category": "Trainer",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "87",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/87.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/87_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-87",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:87:english:ex14-87",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-87",
+      "setId": "ex14",
+      "collectorNumber": "87",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-87",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-10",
+    "englishName": "Sableye",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "10",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/10.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-10",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:10:english:ex14-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-10",
+      "setId": "ex14",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-96",
+    "englishName": "Sceptile ex δ",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "96",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/96.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/96_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-96",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:96:english:ex14-96",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-96",
+      "setId": "ex14",
+      "collectorNumber": "96",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-96",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-60",
+    "englishName": "Seedot",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "60",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/60.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-60",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:60:english:ex14-60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-60",
+      "setId": "ex14",
+      "collectorNumber": "60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-97",
+    "englishName": "Shiftry ex",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "97",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/97.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/97_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-97",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:97:english:ex14-97",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-97",
+      "setId": "ex14",
+      "collectorNumber": "97",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-97",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-40",
+    "englishName": "Shuppet",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "40",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/40.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-40",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:40:english:ex14-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-40",
+      "setId": "ex14",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-41",
+    "englishName": "Skitty",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "41",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/41.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-41",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:41:english:ex14-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-41",
+      "setId": "ex14",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-61",
+    "englishName": "Spearow",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "61",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/61.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-61",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:61:english:ex14-61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-61",
+      "setId": "ex14",
+      "collectorNumber": "61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-62",
+    "englishName": "Spoink",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "62",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/62.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-62",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:62:english:ex14-62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-62",
+      "setId": "ex14",
+      "collectorNumber": "62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-63",
+    "englishName": "Squirtle",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "63",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/63.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-63",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:63:english:ex14-63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-63",
+      "setId": "ex14",
+      "collectorNumber": "63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-64",
+    "englishName": "Squirtle",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "64",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/64.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-64",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:64:english:ex14-64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-64",
+      "setId": "ex14",
+      "collectorNumber": "64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-11",
+    "englishName": "Swalot",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "11",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/11.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-11",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:11:english:ex14-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-11",
+      "setId": "ex14",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-98",
+    "englishName": "Swampert ex",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "98",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/98.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/98_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-98",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:98:english:ex14-98",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-98",
+      "setId": "ex14",
+      "collectorNumber": "98",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-98",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-27",
+    "englishName": "Swampert",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "27",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/27.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-27",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:27:english:ex14-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-27",
+      "setId": "ex14",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-12",
+    "englishName": "Tauros",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "12",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/12.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-12",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:12:english:ex14-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-12",
+      "setId": "ex14",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-65",
+    "englishName": "Torchic",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "65",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/65.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-65",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:65:english:ex14-65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-65",
+      "setId": "ex14",
+      "collectorNumber": "65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-66",
+    "englishName": "Torchic",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "66",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/66.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-66",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:66:english:ex14-66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-66",
+      "setId": "ex14",
+      "collectorNumber": "66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-68",
+    "englishName": "Treecko δ",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "68",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/68.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-68",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:68:english:ex14-68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-68",
+      "setId": "ex14",
+      "collectorNumber": "68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-67",
+    "englishName": "Treecko",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "67",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/67.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-67",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:67:english:ex14-67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-67",
+      "setId": "ex14",
+      "collectorNumber": "67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-28",
+    "englishName": "Venusaur",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "28",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/28.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-28",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:28:english:ex14-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-28",
+      "setId": "ex14",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-84",
+    "englishName": "Warp Point",
+    "category": "Trainer",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "84",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/84.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/84_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-84",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:84:english:ex14-84",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-84",
+      "setId": "ex14",
+      "collectorNumber": "84",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-84",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-42",
+    "englishName": "Wartortle",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "42",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/42.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-42",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:42:english:ex14-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-42",
+      "setId": "ex14",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-43",
+    "englishName": "Wartortle",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "43",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/43.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-43",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:43:english:ex14-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-43",
+      "setId": "ex14",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-69",
+    "englishName": "Whismur",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "69",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/69.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-69",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:69:english:ex14-69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-69",
+      "setId": "ex14",
+      "collectorNumber": "69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-13",
+    "englishName": "Wigglytuff",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "13",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/13.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-13",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:13:english:ex14-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-13",
+      "setId": "ex14",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-85",
+    "englishName": "Windstorm",
+    "category": "Trainer",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "85",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/85.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/85_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-85",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:85:english:ex14-85",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-85",
+      "setId": "ex14",
+      "collectorNumber": "85",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-85",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex14-70",
+    "englishName": "Wingull",
+    "category": "Pokemon",
+    "setCode": "CG",
+    "setName": "Crystal Guardians",
+    "cardNumber": "70",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex14/70.png",
+    "imageLarge": "https://images.pokemontcg.io/ex14/70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex14-70",
+    "sourceSetId": "ex14",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex14:70:english:ex14-70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex14-70",
+      "setId": "ex14",
+      "collectorNumber": "70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex14-70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

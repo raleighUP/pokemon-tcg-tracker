@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "ex7-1",
+    "englishName": "Azumarill",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "1",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/1.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-1",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:1:english:ex7-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-1",
+      "setId": "ex7",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-110",
+    "englishName": "Charmeleon",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "110",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/110.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/110_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-110",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:110:english:ex7-110",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-110",
+      "setId": "ex7",
+      "collectorNumber": "110",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-110",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-83",
+    "englishName": "Copycat",
+    "category": "Trainer",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "83",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/83.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/83_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-83",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:83:english:ex7-83",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-83",
+      "setId": "ex7",
+      "collectorNumber": "83",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-83",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-51",
+    "englishName": "Cubone",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "51",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/51.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-51",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:51:english:ex7-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-51",
+      "setId": "ex7",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-2",
+    "englishName": "Dark Ampharos",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "2",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/2.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-2",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:2:english:ex7-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-2",
+      "setId": "ex7",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-29",
+    "englishName": "Dark Arbok",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "29",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/29.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-29",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:29:english:ex7-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-29",
+      "setId": "ex7",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-30",
+    "englishName": "Dark Ariados",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "30",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/30.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-30",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:30:english:ex7-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-30",
+      "setId": "ex7",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-3",
+    "englishName": "Dark Crobat",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "3",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/3.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-3",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:3:english:ex7-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-3",
+      "setId": "ex7",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-31",
+    "englishName": "Dark Dragonair",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "31",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/31.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-31",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:31:english:ex7-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-31",
+      "setId": "ex7",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-32",
+    "englishName": "Dark Dragonair",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "32",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/32.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-32",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:32:english:ex7-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-32",
+      "setId": "ex7",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-15",
+    "englishName": "Dark Dragonite",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "15",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/15.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-15",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:15:english:ex7-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-15",
+      "setId": "ex7",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-4",
+    "englishName": "Dark Electrode",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "4",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/4.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-4",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:4:english:ex7-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-4",
+      "setId": "ex7",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-33",
+    "englishName": "Dark Flaaffy",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "33",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/33.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-33",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:33:english:ex7-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-33",
+      "setId": "ex7",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-34",
+    "englishName": "Dark Golbat",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "34",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/34.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-34",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:34:english:ex7-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-34",
+      "setId": "ex7",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-35",
+    "englishName": "Dark Golduck",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "35",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/35.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-35",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:35:english:ex7-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-35",
+      "setId": "ex7",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-36",
+    "englishName": "Dark Gyarados",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "36",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/36.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-36",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:36:english:ex7-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-36",
+      "setId": "ex7",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-37",
+    "englishName": "Dark Houndoom",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "37",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/37.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-37",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:37:english:ex7-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-37",
+      "setId": "ex7",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-5",
+    "englishName": "Dark Houndoom",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "5",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/5.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-5",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:5:english:ex7-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-5",
+      "setId": "ex7",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-6",
+    "englishName": "Dark Hypno",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "6",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/6.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-6",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:6:english:ex7-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-6",
+      "setId": "ex7",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-38",
+    "englishName": "Dark Magcargo",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "38",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/38.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-38",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:38:english:ex7-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-38",
+      "setId": "ex7",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-39",
+    "englishName": "Dark Magneton",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "39",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/39.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-39",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:39:english:ex7-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-39",
+      "setId": "ex7",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-7",
+    "englishName": "Dark Marowak",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "7",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/7.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-7",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:7:english:ex7-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-7",
+      "setId": "ex7",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-94",
+    "englishName": "Dark Metal Energy",
+    "category": "Energy",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "94",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/94.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/94_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-94",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:94:english:ex7-94",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-94",
+      "setId": "ex7",
+      "collectorNumber": "94",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-94",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-16",
+    "englishName": "Dark Muk",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "16",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/16.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-16",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:16:english:ex7-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-16",
+      "setId": "ex7",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-8",
+    "englishName": "Dark Octillery",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "8",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/8.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-8",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:8:english:ex7-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-8",
+      "setId": "ex7",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-40",
+    "englishName": "Dark Pupitar",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "40",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/40.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-40",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:40:english:ex7-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-40",
+      "setId": "ex7",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-41",
+    "englishName": "Dark Pupitar",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "41",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/41.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-41",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:41:english:ex7-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-41",
+      "setId": "ex7",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-17",
+    "englishName": "Dark Raticate",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "17",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/17.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-17",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:17:english:ex7-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-17",
+      "setId": "ex7",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-18",
+    "englishName": "Dark Sandslash",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "18",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/18.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-18",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:18:english:ex7-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-18",
+      "setId": "ex7",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-9",
+    "englishName": "Dark Slowking",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "9",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/9.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-9",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:9:english:ex7-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-9",
+      "setId": "ex7",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-10",
+    "englishName": "Dark Steelix",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "10",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/10.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-10",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:10:english:ex7-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-10",
+      "setId": "ex7",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-19",
+    "englishName": "Dark Tyranitar",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "19",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/19.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-19",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:19:english:ex7-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-19",
+      "setId": "ex7",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-20",
+    "englishName": "Dark Tyranitar",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "20",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/20.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-20",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:20:english:ex7-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-20",
+      "setId": "ex7",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-42",
+    "englishName": "Dark Weezing",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "42",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/42.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-42",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:42:english:ex7-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-42",
+      "setId": "ex7",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-21",
+    "englishName": "Delibird",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "21",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/21.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-21",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:21:english:ex7-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-21",
+      "setId": "ex7",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-52",
+    "englishName": "Dratini",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "52",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/52.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-52",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:52:english:ex7-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-52",
+      "setId": "ex7",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-53",
+    "englishName": "Dratini",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "53",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/53.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-53",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:53:english:ex7-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-53",
+      "setId": "ex7",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-54",
+    "englishName": "Drowzee",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "54",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/54.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-54",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:54:english:ex7-54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-54",
+      "setId": "ex7",
+      "collectorNumber": "54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-55",
+    "englishName": "Ekans",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "55",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/55.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-55",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:55:english:ex7-55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-55",
+      "setId": "ex7",
+      "collectorNumber": "55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-22",
+    "englishName": "Furret",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "22",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/22.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-22",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:22:english:ex7-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-22",
+      "setId": "ex7",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-56",
+    "englishName": "Grimer",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "56",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/56.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-56",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:56:english:ex7-56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-56",
+      "setId": "ex7",
+      "collectorNumber": "56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-43",
+    "englishName": "Heracross",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "43",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/43.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-43",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:43:english:ex7-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-43",
+      "setId": "ex7",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-111",
+    "englishName": "Here Comes Team Rocket!",
+    "category": "Trainer",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "111",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/111.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/111_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-111",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:111:english:ex7-111",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-111",
+      "setId": "ex7",
+      "collectorNumber": "111",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-111",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-57",
+    "englishName": "Hoppip",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "57",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/57.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-57",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:57:english:ex7-57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-57",
+      "setId": "ex7",
+      "collectorNumber": "57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-58",
+    "englishName": "Horsea",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "58",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/58.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-58",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:58:english:ex7-58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-58",
+      "setId": "ex7",
+      "collectorNumber": "58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-59",
+    "englishName": "Houndour",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "59",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/59.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-59",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:59:english:ex7-59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-59",
+      "setId": "ex7",
+      "collectorNumber": "59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-60",
+    "englishName": "Houndour",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "60",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/60.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-60",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:60:english:ex7-60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-60",
+      "setId": "ex7",
+      "collectorNumber": "60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-11",
+    "englishName": "Jumpluff",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "11",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/11.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-11",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:11:english:ex7-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-11",
+      "setId": "ex7",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-12",
+    "englishName": "Kingdra",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "12",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/12.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-12",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:12:english:ex7-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-12",
+      "setId": "ex7",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-61",
+    "englishName": "Koffing",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "61",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/61.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-61",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:61:english:ex7-61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-61",
+      "setId": "ex7",
+      "collectorNumber": "61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-62",
+    "englishName": "Larvitar",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "62",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/62.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-62",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:62:english:ex7-62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-62",
+      "setId": "ex7",
+      "collectorNumber": "62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-63",
+    "englishName": "Larvitar",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "63",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/63.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-63",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:63:english:ex7-63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-63",
+      "setId": "ex7",
+      "collectorNumber": "63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-23",
+    "englishName": "Ledian",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "23",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/23.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-23",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:23:english:ex7-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-23",
+      "setId": "ex7",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-64",
+    "englishName": "Ledyba",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "64",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/64.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-64",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:64:english:ex7-64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-64",
+      "setId": "ex7",
+      "collectorNumber": "64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-24",
+    "englishName": "Magby",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "24",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/24.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-24",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:24:english:ex7-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-24",
+      "setId": "ex7",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-65",
+    "englishName": "Magikarp",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "65",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/65.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-65",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:65:english:ex7-65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-65",
+      "setId": "ex7",
+      "collectorNumber": "65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-44",
+    "englishName": "Magmar",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "44",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/44.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-44",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:44:english:ex7-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-44",
+      "setId": "ex7",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-66",
+    "englishName": "Magnemite",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "66",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/66.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-66",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:66:english:ex7-66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-66",
+      "setId": "ex7",
+      "collectorNumber": "66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-45",
+    "englishName": "Mantine",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "45",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/45.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-45",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:45:english:ex7-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-45",
+      "setId": "ex7",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-67",
+    "englishName": "Mareep",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "67",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/67.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-67",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:67:english:ex7-67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-67",
+      "setId": "ex7",
+      "collectorNumber": "67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-68",
+    "englishName": "Marill",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "68",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/68.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-68",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:68:english:ex7-68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-68",
+      "setId": "ex7",
+      "collectorNumber": "68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-25",
+    "englishName": "Misdreavus",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "25",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/25.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-25",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:25:english:ex7-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-25",
+      "setId": "ex7",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-107",
+    "englishName": "Mudkip ★",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "107",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/107.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/107_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-107",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:107:english:ex7-107",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-107",
+      "setId": "ex7",
+      "collectorNumber": "107",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-107",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-69",
+    "englishName": "Onix",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "69",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/69.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-69",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:69:english:ex7-69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-69",
+      "setId": "ex7",
+      "collectorNumber": "69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-13",
+    "englishName": "Piloswine",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "13",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/13.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-13",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:13:english:ex7-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-13",
+      "setId": "ex7",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-84",
+    "englishName": "Pokémon Retriever",
+    "category": "Trainer",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "84",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/84.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/84_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-84",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:84:english:ex7-84",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-84",
+      "setId": "ex7",
+      "collectorNumber": "84",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-84",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-85",
+    "englishName": "Pow! Hand Extension",
+    "category": "Trainer",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "85",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/85.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/85_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-85",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:85:english:ex7-85",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-85",
+      "setId": "ex7",
+      "collectorNumber": "85",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-85",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-70",
+    "englishName": "Psyduck",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "70",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/70.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-70",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:70:english:ex7-70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-70",
+      "setId": "ex7",
+      "collectorNumber": "70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-26",
+    "englishName": "Quagsire",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "26",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/26.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-26",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:26:english:ex7-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-26",
+      "setId": "ex7",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-27",
+    "englishName": "Qwilfish",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "27",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/27.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-27",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:27:english:ex7-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-27",
+      "setId": "ex7",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-95",
+    "englishName": "R Energy",
+    "category": "Energy",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "95",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/95.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/95_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-95",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:95:english:ex7-95",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-95",
+      "setId": "ex7",
+      "collectorNumber": "95",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-95",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-71",
+    "englishName": "Rattata",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "71",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/71.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-71",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:71:english:ex7-71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-71",
+      "setId": "ex7",
+      "collectorNumber": "71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-72",
+    "englishName": "Rattata",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "72",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/72.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-72",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:72:english:ex7-72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-72",
+      "setId": "ex7",
+      "collectorNumber": "72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-73",
+    "englishName": "Remoraid",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "73",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/73.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-73",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:73:english:ex7-73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-73",
+      "setId": "ex7",
+      "collectorNumber": "73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-86",
+    "englishName": "Rocket's Admin.",
+    "category": "Trainer",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "86",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/86.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/86_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-86",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:86:english:ex7-86",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-86",
+      "setId": "ex7",
+      "collectorNumber": "86",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-86",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-96",
+    "englishName": "Rocket's Articuno ex",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "96",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/96.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/96_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-96",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:96:english:ex7-96",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-96",
+      "setId": "ex7",
+      "collectorNumber": "96",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-96",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-97",
+    "englishName": "Rocket's Entei ex",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "97",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/97.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/97_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-97",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:97:english:ex7-97",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-97",
+      "setId": "ex7",
+      "collectorNumber": "97",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-97",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-87",
+    "englishName": "Rocket's Hideout",
+    "category": "Trainer",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "87",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/87.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/87_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-87",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:87:english:ex7-87",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-87",
+      "setId": "ex7",
+      "collectorNumber": "87",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-87",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-98",
+    "englishName": "Rocket's Hitmonchan ex",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "98",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/98.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/98_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-98",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:98:english:ex7-98",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-98",
+      "setId": "ex7",
+      "collectorNumber": "98",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-98",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-46",
+    "englishName": "Rocket's Meowth",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "46",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/46.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-46",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:46:english:ex7-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-46",
+      "setId": "ex7",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-99",
+    "englishName": "Rocket's Mewtwo ex",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "99",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/99.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/99_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-99",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:99:english:ex7-99",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-99",
+      "setId": "ex7",
+      "collectorNumber": "99",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-99",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-88",
+    "englishName": "Rocket's Mission",
+    "category": "Trainer",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "88",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/88.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/88_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-88",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:88:english:ex7-88",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-88",
+      "setId": "ex7",
+      "collectorNumber": "88",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-88",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-100",
+    "englishName": "Rocket's Moltres ex",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "100",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/100.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/100_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-100",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:100:english:ex7-100",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-100",
+      "setId": "ex7",
+      "collectorNumber": "100",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-100",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-89",
+    "englishName": "Rocket's Poké Ball",
+    "category": "Trainer",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "89",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/89.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/89_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-89",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:89:english:ex7-89",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-89",
+      "setId": "ex7",
+      "collectorNumber": "89",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-89",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-101",
+    "englishName": "Rocket's Scizor ex",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "101",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/101.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/101_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-101",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:101:english:ex7-101",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-101",
+      "setId": "ex7",
+      "collectorNumber": "101",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-101",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-102",
+    "englishName": "Rocket's Scyther ex",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "102",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/102.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/102_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-102",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:102:english:ex7-102",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-102",
+      "setId": "ex7",
+      "collectorNumber": "102",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-102",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-103",
+    "englishName": "Rocket's Sneasel ex",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "103",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/103.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/103_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-103",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:103:english:ex7-103",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-103",
+      "setId": "ex7",
+      "collectorNumber": "103",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-103",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-104",
+    "englishName": "Rocket's Snorlax ex",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "104",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/104.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/104_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-104",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:104:english:ex7-104",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-104",
+      "setId": "ex7",
+      "collectorNumber": "104",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-104",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-105",
+    "englishName": "Rocket's Suicune ex",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "105",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/105.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/105_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-105",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:105:english:ex7-105",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-105",
+      "setId": "ex7",
+      "collectorNumber": "105",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-105",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-90",
+    "englishName": "Rocket's Tricky Gym",
+    "category": "Trainer",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "90",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/90.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/90_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-90",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:90:english:ex7-90",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-90",
+      "setId": "ex7",
+      "collectorNumber": "90",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-90",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-47",
+    "englishName": "Rocket's Wobbuffet",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "47",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/47.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-47",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:47:english:ex7-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-47",
+      "setId": "ex7",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-106",
+    "englishName": "Rocket's Zapdos ex",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "106",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/106.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/106_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-106",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:106:english:ex7-106",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-106",
+      "setId": "ex7",
+      "collectorNumber": "106",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-106",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-74",
+    "englishName": "Sandshrew",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "74",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/74.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-74",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:74:english:ex7-74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-74",
+      "setId": "ex7",
+      "collectorNumber": "74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-48",
+    "englishName": "Seadra",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "48",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/48.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-48",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:48:english:ex7-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-48",
+      "setId": "ex7",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-75",
+    "englishName": "Sentret",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "75",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/75.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-75",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:75:english:ex7-75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-75",
+      "setId": "ex7",
+      "collectorNumber": "75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-49",
+    "englishName": "Skiploom",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "49",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/49.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-49",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:49:english:ex7-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-49",
+      "setId": "ex7",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-76",
+    "englishName": "Slowpoke",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "76",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/76.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-76",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:76:english:ex7-76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-76",
+      "setId": "ex7",
+      "collectorNumber": "76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-77",
+    "englishName": "Slugma",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "77",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/77.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-77",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:77:english:ex7-77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-77",
+      "setId": "ex7",
+      "collectorNumber": "77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-78",
+    "englishName": "Spinarak",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "78",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/78.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-78",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:78:english:ex7-78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-78",
+      "setId": "ex7",
+      "collectorNumber": "78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-91",
+    "englishName": "Surprise! Time Machine",
+    "category": "Trainer",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "91",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/91.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/91_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-91",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:91:english:ex7-91",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-91",
+      "setId": "ex7",
+      "collectorNumber": "91",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-91",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-79",
+    "englishName": "Swinub",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "79",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/79.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/79_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-79",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:79:english:ex7-79",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-79",
+      "setId": "ex7",
+      "collectorNumber": "79",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-79",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-92",
+    "englishName": "Swoop! Teleporter",
+    "category": "Trainer",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "92",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/92.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/92_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-92",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:92:english:ex7-92",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-92",
+      "setId": "ex7",
+      "collectorNumber": "92",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-92",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-50",
+    "englishName": "Togepi",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "50",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/50.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-50",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:50:english:ex7-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-50",
+      "setId": "ex7",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-14",
+    "englishName": "Togetic",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "14",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/14.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-14",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:14:english:ex7-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-14",
+      "setId": "ex7",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-108",
+    "englishName": "Torchic ★",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "108",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/108.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/108_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-108",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:108:english:ex7-108",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-108",
+      "setId": "ex7",
+      "collectorNumber": "108",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-108",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-109",
+    "englishName": "Treecko ★",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "109",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/109.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/109_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-109",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:109:english:ex7-109",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-109",
+      "setId": "ex7",
+      "collectorNumber": "109",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-109",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-93",
+    "englishName": "Venture Bomb",
+    "category": "Trainer",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "93",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/93.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/93_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-93",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:93:english:ex7-93",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-93",
+      "setId": "ex7",
+      "collectorNumber": "93",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-93",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-80",
+    "englishName": "Voltorb",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "80",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/80.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/80_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-80",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:80:english:ex7-80",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-80",
+      "setId": "ex7",
+      "collectorNumber": "80",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-80",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-81",
+    "englishName": "Wooper",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "81",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/81.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/81_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-81",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:81:english:ex7-81",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-81",
+      "setId": "ex7",
+      "collectorNumber": "81",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-81",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-28",
+    "englishName": "Yanma",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "28",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/28.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-28",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:28:english:ex7-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-28",
+      "setId": "ex7",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex7-82",
+    "englishName": "Zubat",
+    "category": "Pokemon",
+    "setCode": "TRR",
+    "setName": "Team Rocket Returns",
+    "cardNumber": "82",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex7/82.png",
+    "imageLarge": "https://images.pokemontcg.io/ex7/82_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex7-82",
+    "sourceSetId": "ex7",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex7:82:english:ex7-82",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex7-82",
+      "setId": "ex7",
+      "collectorNumber": "82",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex7-82",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

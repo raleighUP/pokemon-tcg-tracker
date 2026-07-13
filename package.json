@@ -6,6 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "build:meta": "node scripts/build-limitless-major-meta.mjs",
+    "build:card-cache": "node scripts/build-card-reference-cache.mjs",
+    "sync:card-reference": "node scripts/sync-card-reference-cache.mjs",
+    "test:card-reference-sync": "node scripts/test-card-reference-sync.mjs",
+    "validate:card-cache": "node scripts/validate-card-reference-cache.mjs",
     "start": "node scripts/serve-static.mjs",
     "preview": "node scripts/serve-static.mjs",
     "verify:static": "node scripts/verify-static.mjs",
@@ -16,7 +20,8 @@
     "cap:sync:android": "cap sync android",
     "cap:open:ios": "cap open ios",
     "cap:open:android": "cap open android",
-    "lint": "eslint"
+    "lint": "eslint",
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "@capacitor/android": "^8.4.1",

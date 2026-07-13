@@ -1,0 +1,3616 @@
+[
+  {
+    "id": "xy10-76",
+    "englishName": "Aerodactyl",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "76",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/76.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-76",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:76:english:xy10-76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-76",
+      "setId": "xy10",
+      "collectorNumber": "76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-90",
+    "englishName": "Alakazam Spirit Link",
+    "category": "Trainer",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "90",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/90.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/90_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-90",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:90:english:xy10-90",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-90",
+      "setId": "xy10",
+      "collectorNumber": "90",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-90",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-117",
+    "englishName": "Alakazam-EX",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "117",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/117.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/117_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-117",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:117:english:xy10-117",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-117",
+      "setId": "xy10",
+      "collectorNumber": "117",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-117",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-125",
+    "englishName": "Alakazam-EX",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "125",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/125.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/125_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-125",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:125:english:xy10-125",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-125",
+      "setId": "xy10",
+      "collectorNumber": "125",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-125",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-25",
+    "englishName": "Alakazam-EX",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "25",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/25.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-25",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:25:english:xy10-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-25",
+      "setId": "xy10",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-91",
+    "englishName": "Altaria Spirit Link",
+    "category": "Trainer",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "91",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/91.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/91_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-91",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:91:english:xy10-91",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-91",
+      "setId": "xy10",
+      "collectorNumber": "91",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-91",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-123",
+    "englishName": "Altaria-EX",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "123",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/123.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/123_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-123",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:123:english:xy10-123",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-123",
+      "setId": "xy10",
+      "collectorNumber": "123",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-123",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-83",
+    "englishName": "Altaria-EX",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "83",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/83.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/83_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-83",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:83:english:xy10-83",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-83",
+      "setId": "xy10",
+      "collectorNumber": "83",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-83",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-92",
+    "englishName": "Audino Spirit Link",
+    "category": "Trainer",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "92",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/92.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/92_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-92",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:92:english:xy10-92",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-92",
+      "setId": "xy10",
+      "collectorNumber": "92",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-92",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-84",
+    "englishName": "Audino-EX",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "84",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/84.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/84_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-84",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:84:english:xy10-84",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-84",
+      "setId": "xy10",
+      "collectorNumber": "84",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-84",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-23",
+    "englishName": "Barbaracle",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "23",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/23.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-23",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:23:english:xy10-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-23",
+      "setId": "xy10",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-93",
+    "englishName": "Bent Spoon",
+    "category": "Trainer",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "93",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/93.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/93_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-93",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:93:english:xy10-93",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-93",
+      "setId": "xy10",
+      "collectorNumber": "93",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-93",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-22",
+    "englishName": "Binacle",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "22",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/22.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-22",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:22:english:xy10-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-22",
+      "setId": "xy10",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-12",
+    "englishName": "Braixen",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "12",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/12.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-12",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:12:english:xy10-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-12",
+      "setId": "xy10",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-62",
+    "englishName": "Bronzong BREAK",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "62",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/62.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-62",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:62:english:xy10-62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-62",
+      "setId": "xy10",
+      "collectorNumber": "62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-61",
+    "englishName": "Bronzong",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "61",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/61.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-61",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:61:english:xy10-61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-61",
+      "setId": "xy10",
+      "collectorNumber": "61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-60",
+    "englishName": "Bronzor",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "60",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/60.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-60",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:60:english:xy10-60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-60",
+      "setId": "xy10",
+      "collectorNumber": "60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-2",
+    "englishName": "Burmy",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "2",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/2.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-2",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:2:english:xy10-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-2",
+      "setId": "xy10",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-51",
+    "englishName": "Carbink BREAK",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "51",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/51.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-51",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:51:english:xy10-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-51",
+      "setId": "xy10",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-49",
+    "englishName": "Carbink",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "49",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/49.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-49",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:49:english:xy10-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-49",
+      "setId": "xy10",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-50",
+    "englishName": "Carbink",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "50",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/50.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-50",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:50:english:xy10-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-50",
+      "setId": "xy10",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-94",
+    "englishName": "Chaos Tower",
+    "category": "Trainer",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "94",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/94.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/94_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-94",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:94:english:xy10-94",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-94",
+      "setId": "xy10",
+      "collectorNumber": "94",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-94",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-88",
+    "englishName": "Cinccino",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "88",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/88.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/88_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-88",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:88:english:xy10-88",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-88",
+      "setId": "xy10",
+      "collectorNumber": "88",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-88",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-89",
+    "englishName": "Cinccino",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "89",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/89.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/89_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-89",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:89:english:xy10-89",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-89",
+      "setId": "xy10",
+      "collectorNumber": "89",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-89",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-70",
+    "englishName": "Cottonee",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "70",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/70.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-70",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:70:english:xy10-70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-70",
+      "setId": "xy10",
+      "collectorNumber": "70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-8",
+    "englishName": "Deerling",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "8",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/8.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-8",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:8:english:xy10-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-8",
+      "setId": "xy10",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-14",
+    "englishName": "Delphox BREAK",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "14",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/14.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-14",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:14:english:xy10-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-14",
+      "setId": "xy10",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-13",
+    "englishName": "Delphox",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "13",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/13.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-13",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:13:english:xy10-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-13",
+      "setId": "xy10",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-95",
+    "englishName": "Devolution Spray",
+    "category": "Trainer",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "95",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/95.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/95_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-95",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:95:english:xy10-95",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-95",
+      "setId": "xy10",
+      "collectorNumber": "95",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-95",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-16",
+    "englishName": "Dewgong",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "16",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/16.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-16",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:16:english:xy10-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-16",
+      "setId": "xy10",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-72",
+    "englishName": "Diancie-EX",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "72",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/72.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-72",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:72:english:xy10-72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-72",
+      "setId": "xy10",
+      "collectorNumber": "72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-36",
+    "englishName": "Diglett",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "36",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/36.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-36",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:36:english:xy10-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-36",
+      "setId": "xy10",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-96",
+    "englishName": "Dome Fossil Kabuto",
+    "category": "Trainer",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "96",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/96.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/96_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-96",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:96:english:xy10-96",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-96",
+      "setId": "xy10",
+      "collectorNumber": "96",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-96",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-114",
+    "englishName": "Double Colorless Energy",
+    "category": "Energy",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "114",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/114.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/114_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-114",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:114:english:xy10-114",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-114",
+      "setId": "xy10",
+      "collectorNumber": "114",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-114",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-34",
+    "englishName": "Duosion",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "34",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/34.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-34",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:34:english:xy10-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-34",
+      "setId": "xy10",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-97",
+    "englishName": "Energy Pouch",
+    "category": "Trainer",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "97",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/97.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/97_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-97",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:97:english:xy10-97",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-97",
+      "setId": "xy10",
+      "collectorNumber": "97",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-97",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-98",
+    "englishName": "Energy Reset",
+    "category": "Trainer",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "98",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/98.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/98_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-98",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:98:english:xy10-98",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-98",
+      "setId": "xy10",
+      "collectorNumber": "98",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-98",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-82",
+    "englishName": "Exploud",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "82",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/82.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/82_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-82",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:82:english:xy10-82",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-82",
+      "setId": "xy10",
+      "collectorNumber": "82",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-82",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-99",
+    "englishName": "Fairy Drop",
+    "category": "Trainer",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "99",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/99.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/99_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-99",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:99:english:xy10-99",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-99",
+      "setId": "xy10",
+      "collectorNumber": "99",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-99",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-100",
+    "englishName": "Fairy Garden",
+    "category": "Trainer",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "100",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/100.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/100_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-100",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:100:english:xy10-100",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-100",
+      "setId": "xy10",
+      "collectorNumber": "100",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-100",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-10",
+    "englishName": "Fennekin",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "10",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/10.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-10",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:10:english:xy10-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-10",
+      "setId": "xy10",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-11",
+    "englishName": "Fennekin",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "11",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/11.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-11",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:11:english:xy10-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-11",
+      "setId": "xy10",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-101",
+    "englishName": "Fossil Excavation Kit",
+    "category": "Trainer",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "101",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/101.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/101_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-101",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:101:english:xy10-101",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-101",
+      "setId": "xy10",
+      "collectorNumber": "101",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-101",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-120",
+    "englishName": "Genesect-EX",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "120",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/120.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/120_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-120",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:120:english:xy10-120",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-120",
+      "setId": "xy10",
+      "collectorNumber": "120",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-120",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-64",
+    "englishName": "Genesect-EX",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "64",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/64.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-64",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:64:english:xy10-64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-64",
+      "setId": "xy10",
+      "collectorNumber": "64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-116",
+    "englishName": "Glaceon-EX",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "116",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/116.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/116_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-116",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:116:english:xy10-116",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-116",
+      "setId": "xy10",
+      "collectorNumber": "116",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-116",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-20",
+    "englishName": "Glaceon-EX",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "20",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/20.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-20",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:20:english:xy10-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-20",
+      "setId": "xy10",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-32",
+    "englishName": "Gothita",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "32",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/32.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-32",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:32:english:xy10-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-32",
+      "setId": "xy10",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-31",
+    "englishName": "Grumpig",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "31",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/31.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-31",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:31:english:xy10-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-31",
+      "setId": "xy10",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-48",
+    "englishName": "Hawlucha",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "48",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/48.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-48",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:48:english:xy10-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-48",
+      "setId": "xy10",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-102",
+    "englishName": "Helix Fossil Omanyte",
+    "category": "Trainer",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "102",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/102.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/102_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-102",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:102:english:xy10-102",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-102",
+      "setId": "xy10",
+      "collectorNumber": "102",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-102",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-65",
+    "englishName": "Jigglypuff",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "65",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/65.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-65",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:65:english:xy10-65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-65",
+      "setId": "xy10",
+      "collectorNumber": "65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-38",
+    "englishName": "Kabuto",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "38",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/38.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-38",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:38:english:xy10-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-38",
+      "setId": "xy10",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-39",
+    "englishName": "Kabutops",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "39",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/39.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-39",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:39:english:xy10-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-39",
+      "setId": "xy10",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-75",
+    "englishName": "Kangaskhan",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "75",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/75.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-75",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:75:english:xy10-75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-75",
+      "setId": "xy10",
+      "collectorNumber": "75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-122",
+    "englishName": "Kingdra-EX",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "122",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/122.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/122_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-122",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:122:english:xy10-122",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-122",
+      "setId": "xy10",
+      "collectorNumber": "122",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-122",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-73",
+    "englishName": "Kingdra-EX",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "73",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/73.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-73",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:73:english:xy10-73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-73",
+      "setId": "xy10",
+      "collectorNumber": "73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-27",
+    "englishName": "Koffing",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "27",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/27.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-27",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:27:english:xy10-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-27",
+      "setId": "xy10",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-40",
+    "englishName": "Larvitar",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "40",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/40.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-40",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:40:english:xy10-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-40",
+      "setId": "xy10",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-41",
+    "englishName": "Larvitar",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "41",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/41.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-41",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:41:english:xy10-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-41",
+      "setId": "xy10",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-103",
+    "englishName": "Lass's Special",
+    "category": "Trainer",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "103",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/103.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/103_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-103",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:103:english:xy10-103",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-103",
+      "setId": "xy10",
+      "collectorNumber": "103",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-103",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-81",
+    "englishName": "Loudred",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "81",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/81.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/81_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-81",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:81:english:xy10-81",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-81",
+      "setId": "xy10",
+      "collectorNumber": "81",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-81",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-47",
+    "englishName": "Lucario",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "47",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/47.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-47",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:47:english:xy10-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-47",
+      "setId": "xy10",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-63",
+    "englishName": "Lucario",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "63",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/63.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-63",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:63:english:xy10-63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-63",
+      "setId": "xy10",
+      "collectorNumber": "63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-79",
+    "englishName": "Lugia BREAK",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "79",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/79.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/79_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-79",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:79:english:xy10-79",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-79",
+      "setId": "xy10",
+      "collectorNumber": "79",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-79",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-78",
+    "englishName": "Lugia",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "78",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/78.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-78",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:78:english:xy10-78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-78",
+      "setId": "xy10",
+      "collectorNumber": "78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-118",
+    "englishName": "M Alakazam-EX",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "118",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/118.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/118_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-118",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:118:english:xy10-118",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-118",
+      "setId": "xy10",
+      "collectorNumber": "118",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-118",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-26",
+    "englishName": "M Alakazam-EX",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "26",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/26.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-26",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:26:english:xy10-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-26",
+      "setId": "xy10",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-121",
+    "englishName": "M Altaria-EX",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "121",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/121.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/121_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-121",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:121:english:xy10-121",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-121",
+      "setId": "xy10",
+      "collectorNumber": "121",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-121",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-69",
+    "englishName": "M Altaria-EX",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "69",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/69.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-69",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:69:english:xy10-69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-69",
+      "setId": "xy10",
+      "collectorNumber": "69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-85",
+    "englishName": "M Audino-EX",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "85",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/85.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/85_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-85",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:85:english:xy10-85",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-85",
+      "setId": "xy10",
+      "collectorNumber": "85",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-85",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-58",
+    "englishName": "Mandibuzz",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "58",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/58.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-58",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:58:english:xy10-58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-58",
+      "setId": "xy10",
+      "collectorNumber": "58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-37",
+    "englishName": "Marowak",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "37",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/37.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-37",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:37:english:xy10-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-37",
+      "setId": "xy10",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-104",
+    "englishName": "Mega Catcher",
+    "category": "Trainer",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "104",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/104.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/104_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-104",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:104:english:xy10-104",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-104",
+      "setId": "xy10",
+      "collectorNumber": "104",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-104",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-74",
+    "englishName": "Meowth",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "74",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/74.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-74",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:74:english:xy10-74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-74",
+      "setId": "xy10",
+      "collectorNumber": "74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-29",
+    "englishName": "Mew",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "29",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/29.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-29",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:29:english:xy10-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-29",
+      "setId": "xy10",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-86",
+    "englishName": "Minccino",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "86",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/86.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/86_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-86",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:86:english:xy10-86",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-86",
+      "setId": "xy10",
+      "collectorNumber": "86",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-86",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-87",
+    "englishName": "Minccino",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "87",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/87.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/87_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-87",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:87:english:xy10-87",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-87",
+      "setId": "xy10",
+      "collectorNumber": "87",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-87",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-9",
+    "englishName": "Moltres",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "9",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/9.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-9",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:9:english:xy10-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-9",
+      "setId": "xy10",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-4",
+    "englishName": "Mothim",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "4",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/4.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-4",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:4:english:xy10-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-4",
+      "setId": "xy10",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-67",
+    "englishName": "Mr. Mime",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "67",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/67.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-67",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:67:english:xy10-67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-67",
+      "setId": "xy10",
+      "collectorNumber": "67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-105",
+    "englishName": "N",
+    "category": "Trainer",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "105",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/105.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/105_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-105",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:105:english:xy10-105",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-105",
+      "setId": "xy10",
+      "collectorNumber": "105",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-105",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-105a",
+    "englishName": "N",
+    "category": "Trainer",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "105a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/105a.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/105a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-105a",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:105a:english:xy10-105a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-105a",
+      "setId": "xy10",
+      "collectorNumber": "105a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-105a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-106",
+    "englishName": "Old Amber Aerodactyl",
+    "category": "Trainer",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "106",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/106.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/106_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-106",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:106:english:xy10-106",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-106",
+      "setId": "xy10",
+      "collectorNumber": "106",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-106",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-17",
+    "englishName": "Omanyte",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "17",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/17.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-17",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:17:english:xy10-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-17",
+      "setId": "xy10",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-19",
+    "englishName": "Omastar BREAK",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "19",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/19.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-19",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:19:english:xy10-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-19",
+      "setId": "xy10",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-18",
+    "englishName": "Omastar",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "18",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/18.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-18",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:18:english:xy10-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-18",
+      "setId": "xy10",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-107",
+    "englishName": "Pokémon Fan Club",
+    "category": "Trainer",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "107",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/107.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/107_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-107",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:107:english:xy10-107",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-107",
+      "setId": "xy10",
+      "collectorNumber": "107",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-107",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-108",
+    "englishName": "Power Memory",
+    "category": "Trainer",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "108",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/108.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/108_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-108",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:108:english:xy10-108",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-108",
+      "setId": "xy10",
+      "collectorNumber": "108",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-108",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-42",
+    "englishName": "Pupitar",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "42",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/42.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-42",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:42:english:xy10-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-42",
+      "setId": "xy10",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-109",
+    "englishName": "Random Receiver",
+    "category": "Trainer",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "109",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/109.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/109_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-109",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:109:english:xy10-109",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-109",
+      "setId": "xy10",
+      "collectorNumber": "109",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-109",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-43",
+    "englishName": "Regirock-EX",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "43",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/43.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-43",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:43:english:xy10-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-43",
+      "setId": "xy10",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-43a",
+    "englishName": "Regirock-EX",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "43a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/43a.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/43a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-43a",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:43a:english:xy10-43a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-43a",
+      "setId": "xy10",
+      "collectorNumber": "43a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-43a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-35",
+    "englishName": "Reuniclus",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "35",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/35.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-35",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:35:english:xy10-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-35",
+      "setId": "xy10",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-45",
+    "englishName": "Riolu",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "45",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/45.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-45",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:45:english:xy10-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-45",
+      "setId": "xy10",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-46",
+    "englishName": "Riolu",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "46",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/46.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-46",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:46:english:xy10-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-46",
+      "setId": "xy10",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-24",
+    "englishName": "Rotom",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "24",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/24.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-24",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:24:english:xy10-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-24",
+      "setId": "xy10",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-110",
+    "englishName": "Scorched Earth",
+    "category": "Trainer",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "110",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/110.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/110_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-110",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:110:english:xy10-110",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-110",
+      "setId": "xy10",
+      "collectorNumber": "110",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-110",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-15",
+    "englishName": "Seel",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "15",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/15.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-15",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:15:english:xy10-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-15",
+      "setId": "xy10",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-7",
+    "englishName": "Serperior",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "7",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/7.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-7",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:7:english:xy10-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-7",
+      "setId": "xy10",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-6",
+    "englishName": "Servine",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "6",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/6.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-6",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:6:english:xy10-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-6",
+      "setId": "xy10",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-111",
+    "englishName": "Shauna",
+    "category": "Trainer",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "111",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/111.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/111_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-111",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:111:english:xy10-111",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-111",
+      "setId": "xy10",
+      "collectorNumber": "111",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-111",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-111a",
+    "englishName": "Shauna",
+    "category": "Trainer",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "111a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/111a.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/111a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-111a",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:111a:english:xy10-111a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-111a",
+      "setId": "xy10",
+      "collectorNumber": "111a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-111a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-1",
+    "englishName": "Shuckle",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "1",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/1.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-1",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:1:english:xy10-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-1",
+      "setId": "xy10",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-5",
+    "englishName": "Snivy",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "5",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/5.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-5",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:5:english:xy10-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-5",
+      "setId": "xy10",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-77",
+    "englishName": "Snorlax",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "77",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/77.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-77",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:77:english:xy10-77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-77",
+      "setId": "xy10",
+      "collectorNumber": "77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-68",
+    "englishName": "Snubbull",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "68",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/68.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-68",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:68:english:xy10-68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-68",
+      "setId": "xy10",
+      "collectorNumber": "68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-33",
+    "englishName": "Solosis",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "33",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/33.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-33",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:33:english:xy10-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-33",
+      "setId": "xy10",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-30",
+    "englishName": "Spoink",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "30",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/30.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-30",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:30:english:xy10-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-30",
+      "setId": "xy10",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-115",
+    "englishName": "Strong Energy",
+    "category": "Energy",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "115",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/115.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/115_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-115",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:115:english:xy10-115",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-115",
+      "setId": "xy10",
+      "collectorNumber": "115",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-115",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-112",
+    "englishName": "Team Rocket's Handiwork",
+    "category": "Trainer",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "112",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/112.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/112_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-112",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:112:english:xy10-112",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-112",
+      "setId": "xy10",
+      "collectorNumber": "112",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-112",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-124",
+    "englishName": "Team Rocket's Handiwork",
+    "category": "Trainer",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "124",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/124.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/124_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-124",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:124:english:xy10-124",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-124",
+      "setId": "xy10",
+      "collectorNumber": "124",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-124",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-56",
+    "englishName": "Tyranitar",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "56",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/56.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-56",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:56:english:xy10-56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-56",
+      "setId": "xy10",
+      "collectorNumber": "56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-113",
+    "englishName": "Ultra Ball",
+    "category": "Trainer",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "113",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/113.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/113_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-113",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:113:english:xy10-113",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-113",
+      "setId": "xy10",
+      "collectorNumber": "113",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-113",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-119",
+    "englishName": "Umbreon-EX",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "119",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/119.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/119_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-119",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:119:english:xy10-119",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-119",
+      "setId": "xy10",
+      "collectorNumber": "119",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-119",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-55",
+    "englishName": "Umbreon-EX",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "55",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/55.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-55",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:55:english:xy10-55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-55",
+      "setId": "xy10",
+      "collectorNumber": "55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-57",
+    "englishName": "Vullaby",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "57",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/57.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-57",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:57:english:xy10-57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-57",
+      "setId": "xy10",
+      "collectorNumber": "57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-28",
+    "englishName": "Weezing",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "28",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/28.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-28",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:28:english:xy10-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-28",
+      "setId": "xy10",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-71",
+    "englishName": "Whimsicott",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "71",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/71.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-71",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:71:english:xy10-71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-71",
+      "setId": "xy10",
+      "collectorNumber": "71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-80",
+    "englishName": "Whismur",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "80",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/80.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/80_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-80",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:80:english:xy10-80",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-80",
+      "setId": "xy10",
+      "collectorNumber": "80",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-80",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-21",
+    "englishName": "White Kyurem",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "21",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/21.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-21",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:21:english:xy10-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-21",
+      "setId": "xy10",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-66",
+    "englishName": "Wigglytuff",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "66",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/66.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-66",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:66:english:xy10-66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-66",
+      "setId": "xy10",
+      "collectorNumber": "66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-3",
+    "englishName": "Wormadam",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "3",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/3.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-3",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:3:english:xy10-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-3",
+      "setId": "xy10",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-44",
+    "englishName": "Wormadam",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "44",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/44.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-44",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:44:english:xy10-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-44",
+      "setId": "xy10",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-59",
+    "englishName": "Wormadam",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "59",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/59.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-59",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:59:english:xy10-59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-59",
+      "setId": "xy10",
+      "collectorNumber": "59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-54",
+    "englishName": "Zygarde-EX",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "54",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/54.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-54",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:54:english:xy10-54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-54",
+      "setId": "xy10",
+      "collectorNumber": "54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-54a",
+    "englishName": "Zygarde-EX",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "54a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/54a.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/54a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-54a",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:54a:english:xy10-54a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-54a",
+      "setId": "xy10",
+      "collectorNumber": "54a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-54a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-52",
+    "englishName": "Zygarde",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "52",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/52.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-52",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:52:english:xy10-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-52",
+      "setId": "xy10",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy10-53",
+    "englishName": "Zygarde",
+    "category": "Pokemon",
+    "setCode": "FCO",
+    "setName": "Fates Collide",
+    "cardNumber": "53",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy10/53.png",
+    "imageLarge": "https://images.pokemontcg.io/xy10/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy10-53",
+    "sourceSetId": "xy10",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy10:53:english:xy10-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy10-53",
+      "setId": "xy10",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy10-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

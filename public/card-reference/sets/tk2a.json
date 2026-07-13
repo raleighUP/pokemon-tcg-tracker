@@ -1,0 +1,334 @@
+[
+  {
+    "id": "tk2a-1",
+    "englishName": "Beldum",
+    "category": "Pokemon",
+    "setCode": "tk2a",
+    "setName": "EX Trainer Kit 2 Plusle",
+    "cardNumber": "1",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/tk2a/1.png",
+    "imageLarge": "https://images.pokemontcg.io/tk2a/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "tk2a-1",
+    "sourceSetId": "tk2a",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:tk2a:1:english:tk2a-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "tk2a-1",
+      "setId": "tk2a",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "tk2a-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "tk2a-2",
+    "englishName": "Electrike",
+    "category": "Pokemon",
+    "setCode": "tk2a",
+    "setName": "EX Trainer Kit 2 Plusle",
+    "cardNumber": "2",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/tk2a/2.png",
+    "imageLarge": "https://images.pokemontcg.io/tk2a/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "tk2a-2",
+    "sourceSetId": "tk2a",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:tk2a:2:english:tk2a-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "tk2a-2",
+      "setId": "tk2a",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "tk2a-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "tk2a-8",
+    "englishName": "Energy Search",
+    "category": "Trainer",
+    "setCode": "tk2a",
+    "setName": "EX Trainer Kit 2 Plusle",
+    "cardNumber": "8",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/tk2a/8.png",
+    "imageLarge": "https://images.pokemontcg.io/tk2a/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "tk2a-8",
+    "sourceSetId": "tk2a",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:tk2a:8:english:tk2a-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "tk2a-8",
+      "setId": "tk2a",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "tk2a-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "tk2a-3",
+    "englishName": "Grumpig",
+    "category": "Pokemon",
+    "setCode": "tk2a",
+    "setName": "EX Trainer Kit 2 Plusle",
+    "cardNumber": "3",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/tk2a/3.png",
+    "imageLarge": "https://images.pokemontcg.io/tk2a/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "tk2a-3",
+    "sourceSetId": "tk2a",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:tk2a:3:english:tk2a-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "tk2a-3",
+      "setId": "tk2a",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "tk2a-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "tk2a-11",
+    "englishName": "Lightning Energy",
+    "category": "Energy",
+    "setCode": "tk2a",
+    "setName": "EX Trainer Kit 2 Plusle",
+    "cardNumber": "11",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/tk2a/11.png",
+    "imageLarge": "https://images.pokemontcg.io/tk2a/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "tk2a-11",
+    "sourceSetId": "tk2a",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:tk2a:11:english:tk2a-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "tk2a-11",
+      "setId": "tk2a",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "tk2a-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "tk2a-4",
+    "englishName": "Meowth",
+    "category": "Pokemon",
+    "setCode": "tk2a",
+    "setName": "EX Trainer Kit 2 Plusle",
+    "cardNumber": "4",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/tk2a/4.png",
+    "imageLarge": "https://images.pokemontcg.io/tk2a/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "tk2a-4",
+    "sourceSetId": "tk2a",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:tk2a:4:english:tk2a-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "tk2a-4",
+      "setId": "tk2a",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "tk2a-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "tk2a-5",
+    "englishName": "Metang",
+    "category": "Pokemon",
+    "setCode": "tk2a",
+    "setName": "EX Trainer Kit 2 Plusle",
+    "cardNumber": "5",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/tk2a/5.png",
+    "imageLarge": "https://images.pokemontcg.io/tk2a/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "tk2a-5",
+    "sourceSetId": "tk2a",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:tk2a:5:english:tk2a-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "tk2a-5",
+      "setId": "tk2a",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "tk2a-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "tk2a-6",
+    "englishName": "Plusle",
+    "category": "Pokemon",
+    "setCode": "tk2a",
+    "setName": "EX Trainer Kit 2 Plusle",
+    "cardNumber": "6",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/tk2a/6.png",
+    "imageLarge": "https://images.pokemontcg.io/tk2a/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "tk2a-6",
+    "sourceSetId": "tk2a",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:tk2a:6:english:tk2a-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "tk2a-6",
+      "setId": "tk2a",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "tk2a-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "tk2a-9",
+    "englishName": "Potion",
+    "category": "Trainer",
+    "setCode": "tk2a",
+    "setName": "EX Trainer Kit 2 Plusle",
+    "cardNumber": "9",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/tk2a/9.png",
+    "imageLarge": "https://images.pokemontcg.io/tk2a/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "tk2a-9",
+    "sourceSetId": "tk2a",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:tk2a:9:english:tk2a-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "tk2a-9",
+      "setId": "tk2a",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "tk2a-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "tk2a-10",
+    "englishName": "Professor Cozmo's Discovery",
+    "category": "Trainer",
+    "setCode": "tk2a",
+    "setName": "EX Trainer Kit 2 Plusle",
+    "cardNumber": "10",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/tk2a/10.png",
+    "imageLarge": "https://images.pokemontcg.io/tk2a/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "tk2a-10",
+    "sourceSetId": "tk2a",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:tk2a:10:english:tk2a-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "tk2a-10",
+      "setId": "tk2a",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "tk2a-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "tk2a-12",
+    "englishName": "Psychic Energy",
+    "category": "Energy",
+    "setCode": "tk2a",
+    "setName": "EX Trainer Kit 2 Plusle",
+    "cardNumber": "12",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/tk2a/12.png",
+    "imageLarge": "https://images.pokemontcg.io/tk2a/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "tk2a-12",
+    "sourceSetId": "tk2a",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:tk2a:12:english:tk2a-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "tk2a-12",
+      "setId": "tk2a",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "tk2a-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "tk2a-7",
+    "englishName": "Spoink",
+    "category": "Pokemon",
+    "setCode": "tk2a",
+    "setName": "EX Trainer Kit 2 Plusle",
+    "cardNumber": "7",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/tk2a/7.png",
+    "imageLarge": "https://images.pokemontcg.io/tk2a/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "tk2a-7",
+    "sourceSetId": "tk2a",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:tk2a:7:english:tk2a-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "tk2a-7",
+      "setId": "tk2a",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "tk2a-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

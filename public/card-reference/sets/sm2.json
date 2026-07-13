@@ -1,0 +1,5048 @@
+[
+  {
+    "id": "sm2-81",
+    "englishName": "Absol",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "81",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/81.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/81_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-81",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:81:english:sm2-81",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-81",
+      "setId": "sm2",
+      "collectorNumber": "81",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-81",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-116",
+    "englishName": "Aether Paradise Conservation Area",
+    "category": "Trainer",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "116",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/116.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/116_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-116",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:116:english:sm2-116",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-116",
+      "setId": "sm2",
+      "collectorNumber": "116",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-116",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-40",
+    "englishName": "Alolan Geodude",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "40",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/40.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-40",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:40:english:sm2-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-40",
+      "setId": "sm2",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-42",
+    "englishName": "Alolan Golem",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "42",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/42.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-42",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:42:english:sm2-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-42",
+      "setId": "sm2",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-41",
+    "englishName": "Alolan Graveler",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "41",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/41.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-41",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:41:english:sm2-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-41",
+      "setId": "sm2",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-132",
+    "englishName": "Alolan Ninetales-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "132",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/132.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/132_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-132",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:132:english:sm2-132",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-132",
+      "setId": "sm2",
+      "collectorNumber": "132",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-132",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-150",
+    "englishName": "Alolan Ninetales-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "150",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/150.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/150_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-150",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:150:english:sm2-150",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-150",
+      "setId": "sm2",
+      "collectorNumber": "150",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-150",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-22",
+    "englishName": "Alolan Ninetales-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "22",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/22.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-22",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:22:english:sm2-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-22",
+      "setId": "sm2",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-19",
+    "englishName": "Alolan Sandshrew",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "19",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/19.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-19",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:19:english:sm2-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-19",
+      "setId": "sm2",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-19a",
+    "englishName": "Alolan Sandshrew",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "19a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/19a.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/19a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-19a",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:19a:english:sm2-19a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-19a",
+      "setId": "sm2",
+      "collectorNumber": "19a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-19a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-20",
+    "englishName": "Alolan Sandslash",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "20",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/20.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-20",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:20:english:sm2-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-20",
+      "setId": "sm2",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-21",
+    "englishName": "Alolan Vulpix",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "21",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/21.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-21",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:21:english:sm2-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-21",
+      "setId": "sm2",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-21a",
+    "englishName": "Alolan Vulpix",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "21a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/21a.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/21a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-21a",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:21a:english:sm2-21a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-21a",
+      "setId": "sm2",
+      "collectorNumber": "21a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-21a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-36",
+    "englishName": "Alomomola",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "36",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/36.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-36",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:36:english:sm2-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-36",
+      "setId": "sm2",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-117",
+    "englishName": "Altar of the Moone",
+    "category": "Trainer",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "117",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/117.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/117_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-117",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:117:english:sm2-117",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-117",
+      "setId": "sm2",
+      "collectorNumber": "117",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-117",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-118",
+    "englishName": "Altar of the Sunne",
+    "category": "Trainer",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "118",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/118.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/118_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-118",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:118:english:sm2-118",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-118",
+      "setId": "sm2",
+      "collectorNumber": "118",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-118",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-119",
+    "englishName": "Aqua Patch",
+    "category": "Trainer",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "119",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/119.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/119_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-119",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:119:english:sm2-119",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-119",
+      "setId": "sm2",
+      "collectorNumber": "119",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-119",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-161",
+    "englishName": "Aqua Patch",
+    "category": "Trainer",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "161",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/161.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/161_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-161",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:161:english:sm2-161",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-161",
+      "setId": "sm2",
+      "collectorNumber": "161",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-161",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-70",
+    "englishName": "Barboach",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "70",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/70.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-70",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:70:english:sm2-70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-70",
+      "setId": "sm2",
+      "collectorNumber": "70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-83",
+    "englishName": "Beldum",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "83",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/83.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/83_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-83",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:83:english:sm2-83",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-83",
+      "setId": "sm2",
+      "collectorNumber": "83",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-83",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-1",
+    "englishName": "Bellsprout",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "1",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/1.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-1",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:1:english:sm2-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-1",
+      "setId": "sm2",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-113",
+    "englishName": "Bewear",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "113",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/113.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/113_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-113",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:113:english:sm2-113",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-113",
+      "setId": "sm2",
+      "collectorNumber": "113",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-113",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-102",
+    "englishName": "Blissey",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "102",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/102.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/102_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-102",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:102:english:sm2-102",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-102",
+      "setId": "sm2",
+      "collectorNumber": "102",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-102",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-120",
+    "englishName": "Brooklet Hill",
+    "category": "Trainer",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "120",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/120.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/120_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-120",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:120:english:sm2-120",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-120",
+      "setId": "sm2",
+      "collectorNumber": "120",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-120",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-27",
+    "englishName": "Carvanha",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "27",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/27.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-27",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:27:english:sm2-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-27",
+      "setId": "sm2",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-105",
+    "englishName": "Castform",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "105",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/105.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/105_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-105",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:105:english:sm2-105",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-105",
+      "setId": "sm2",
+      "collectorNumber": "105",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-105",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-13",
+    "englishName": "Chandelure",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "13",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/13.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-13",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:13:english:sm2-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-13",
+      "setId": "sm2",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-101",
+    "englishName": "Chansey",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "101",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/101.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/101_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-101",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:101:english:sm2-101",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-101",
+      "setId": "sm2",
+      "collectorNumber": "101",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-101",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-121",
+    "englishName": "Choice Band",
+    "category": "Trainer",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "121",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/121.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/121_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-121",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:121:english:sm2-121",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-121",
+      "setId": "sm2",
+      "collectorNumber": "121",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-121",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-121a",
+    "englishName": "Choice Band",
+    "category": "Trainer",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "121a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/121a.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/121a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-121a",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:121a:english:sm2-121a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-121a",
+      "setId": "sm2",
+      "collectorNumber": "121a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-121a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-89",
+    "englishName": "Clefable",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "89",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/89.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/89_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-89",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:89:english:sm2-89",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-89",
+      "setId": "sm2",
+      "collectorNumber": "89",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-89",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-88",
+    "englishName": "Clefairy",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "88",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/88.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/88_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-88",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:88:english:sm2-88",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-88",
+      "setId": "sm2",
+      "collectorNumber": "88",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-88",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-93",
+    "englishName": "Comfey",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "93",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/93.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/93_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-93",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:93:english:sm2-93",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-93",
+      "setId": "sm2",
+      "collectorNumber": "93",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-93",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-90",
+    "englishName": "Cottonee",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "90",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/90.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/90_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-90",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:90:english:sm2-90",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-90",
+      "setId": "sm2",
+      "collectorNumber": "90",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-90",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-146",
+    "englishName": "Decidueye-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "146",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/146.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/146_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-146",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:146:english:sm2-146",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-146",
+      "setId": "sm2",
+      "collectorNumber": "146",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-146",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-26",
+    "englishName": "Delibird",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "26",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/26.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-26",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:26:english:sm2-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-26",
+      "setId": "sm2",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-59",
+    "englishName": "Dhelmise",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "59",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/59.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-59",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:59:english:sm2-59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-59",
+      "setId": "sm2",
+      "collectorNumber": "59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-166",
+    "englishName": "Double Colorless Energy",
+    "category": "Energy",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "166",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/166.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/166_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-166",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:166:english:sm2-166",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-166",
+      "setId": "sm2",
+      "collectorNumber": "166",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-166",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-115",
+    "englishName": "Drampa-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "115",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/115.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/115_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-115",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:115:english:sm2-115",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-115",
+      "setId": "sm2",
+      "collectorNumber": "115",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-115",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-142",
+    "englishName": "Drampa-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "142",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/142.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/142_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-142",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:142:english:sm2-142",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-142",
+      "setId": "sm2",
+      "collectorNumber": "142",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-142",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-160",
+    "englishName": "Drampa-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "160",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/160.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/160_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-160",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:160:english:sm2-160",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-160",
+      "setId": "sm2",
+      "collectorNumber": "160",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-160",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-97",
+    "englishName": "Drampa",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "97",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/97.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/97_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-97",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:97:english:sm2-97",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-97",
+      "setId": "sm2",
+      "collectorNumber": "97",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-97",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-122",
+    "englishName": "Energy Loto",
+    "category": "Trainer",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "122",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/122.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/122_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-122",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:122:english:sm2-122",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-122",
+      "setId": "sm2",
+      "collectorNumber": "122",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-122",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-123",
+    "englishName": "Energy Recycler",
+    "category": "Trainer",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "123",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/123.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/123_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-123",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:123:english:sm2-123",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-123",
+      "setId": "sm2",
+      "collectorNumber": "123",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-123",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-124",
+    "englishName": "Enhanced Hammer",
+    "category": "Trainer",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "124",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/124.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/124_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-124",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:124:english:sm2-124",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-124",
+      "setId": "sm2",
+      "collectorNumber": "124",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-124",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-124a",
+    "englishName": "Enhanced Hammer",
+    "category": "Trainer",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "124a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/124a.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/124a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-124a",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:124a:english:sm2-124a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-124a",
+      "setId": "sm2",
+      "collectorNumber": "124a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-124a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-162",
+    "englishName": "Enhanced Hammer",
+    "category": "Trainer",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "162",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/162.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/162_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-162",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:162:english:sm2-162",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-162",
+      "setId": "sm2",
+      "collectorNumber": "162",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-162",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-125",
+    "englishName": "Field Blower",
+    "category": "Trainer",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "125",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/125.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/125_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-125",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:125:english:sm2-125",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-125",
+      "setId": "sm2",
+      "collectorNumber": "125",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-125",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-125a",
+    "englishName": "Field Blower",
+    "category": "Trainer",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "125a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/125a.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/125a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-125a",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:125a:english:sm2-125a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-125a",
+      "setId": "sm2",
+      "collectorNumber": "125a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-125a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-163",
+    "englishName": "Field Blower",
+    "category": "Trainer",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "163",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/163.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/163_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-163",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:163:english:sm2-163",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-163",
+      "setId": "sm2",
+      "collectorNumber": "163",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-163",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-169",
+    "englishName": "Fighting Energy",
+    "category": "Energy",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "169",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/169.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/169_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-169",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:169:english:sm2-169",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-169",
+      "setId": "sm2",
+      "collectorNumber": "169",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-169",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-110",
+    "englishName": "Fletchinder",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "110",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/110.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/110_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-110",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:110:english:sm2-110",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-110",
+      "setId": "sm2",
+      "collectorNumber": "110",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-110",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-109",
+    "englishName": "Fletchling",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "109",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/109.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/109_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-109",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:109:english:sm2-109",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-109",
+      "setId": "sm2",
+      "collectorNumber": "109",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-109",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-51",
+    "englishName": "Garbodor",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "51",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/51.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-51",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:51:english:sm2-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-51",
+      "setId": "sm2",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-51a",
+    "englishName": "Garbodor",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "51a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/51a.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/51a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-51a",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:51a:english:sm2-51a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-51a",
+      "setId": "sm2",
+      "collectorNumber": "51a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-51a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-32",
+    "englishName": "Glalie",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "32",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/32.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-32",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:32:english:sm2-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-32",
+      "setId": "sm2",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-67",
+    "englishName": "Gligar",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "67",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/67.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-67",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:67:english:sm2-67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-67",
+      "setId": "sm2",
+      "collectorNumber": "67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-68",
+    "englishName": "Gliscor",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "68",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/68.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-68",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:68:english:sm2-68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-68",
+      "setId": "sm2",
+      "collectorNumber": "68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-9",
+    "englishName": "Golisopod",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "9",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/9.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-9",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:9:english:sm2-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-9",
+      "setId": "sm2",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-96",
+    "englishName": "Goodra",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "96",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/96.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/96_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-96",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:96:english:sm2-96",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-96",
+      "setId": "sm2",
+      "collectorNumber": "96",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-96",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-94",
+    "englishName": "Goomy",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "94",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/94.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/94_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-94",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:94:english:sm2-94",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-94",
+      "setId": "sm2",
+      "collectorNumber": "94",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-94",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-52",
+    "englishName": "Gothita",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "52",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/52.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-52",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:52:english:sm2-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-52",
+      "setId": "sm2",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-54",
+    "englishName": "Gothitelle",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "54",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/54.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-54",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:54:english:sm2-54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-54",
+      "setId": "sm2",
+      "collectorNumber": "54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-53",
+    "englishName": "Gothorita",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "53",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/53.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-53",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:53:english:sm2-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-53",
+      "setId": "sm2",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-167",
+    "englishName": "Grass Energy",
+    "category": "Energy",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "167",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/167.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/167_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-167",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:167:english:sm2-167",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-167",
+      "setId": "sm2",
+      "collectorNumber": "167",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-167",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-99",
+    "englishName": "Hakamo-o",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "99",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/99.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/99_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-99",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:99:english:sm2-99",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-99",
+      "setId": "sm2",
+      "collectorNumber": "99",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-99",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-126",
+    "englishName": "Hala",
+    "category": "Trainer",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "126",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/126.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/126_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-126",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:126:english:sm2-126",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-126",
+      "setId": "sm2",
+      "collectorNumber": "126",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-126",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-143",
+    "englishName": "Hala",
+    "category": "Trainer",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "143",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/143.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/143_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-143",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:143:english:sm2-143",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-143",
+      "setId": "sm2",
+      "collectorNumber": "143",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-143",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-144",
+    "englishName": "Hau",
+    "category": "Trainer",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "144",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/144.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/144_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-144",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:144:english:sm2-144",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-144",
+      "setId": "sm2",
+      "collectorNumber": "144",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-144",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-44",
+    "englishName": "Heliolisk",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "44",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/44.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-44",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:44:english:sm2-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-44",
+      "setId": "sm2",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-43",
+    "englishName": "Helioptile",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "43",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/43.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-43",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:43:english:sm2-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-43",
+      "setId": "sm2",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-79",
+    "englishName": "Honchkrow",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "79",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/79.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/79_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-79",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:79:english:sm2-79",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-79",
+      "setId": "sm2",
+      "collectorNumber": "79",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-79",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-147",
+    "englishName": "Incineroar-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "147",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/147.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/147_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-147",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:147:english:sm2-147",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-147",
+      "setId": "sm2",
+      "collectorNumber": "147",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-147",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-98",
+    "englishName": "Jangmo-o",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "98",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/98.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/98_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-98",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:98:english:sm2-98",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-98",
+      "setId": "sm2",
+      "collectorNumber": "98",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-98",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-114",
+    "englishName": "Komala",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "114",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/114.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/114_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-114",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:114:english:sm2-114",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-114",
+      "setId": "sm2",
+      "collectorNumber": "114",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-114",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-100",
+    "englishName": "Kommo-o-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "100",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/100.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/100_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-100",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:100:english:sm2-100",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-100",
+      "setId": "sm2",
+      "collectorNumber": "100",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-100",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-141",
+    "englishName": "Kommo-o-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "141",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/141.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/141_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-141",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:141:english:sm2-141",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-141",
+      "setId": "sm2",
+      "collectorNumber": "141",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-141",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-159",
+    "englishName": "Kommo-o-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "159",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/159.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/159_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-159",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:159:english:sm2-159",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-159",
+      "setId": "sm2",
+      "collectorNumber": "159",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-159",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-12",
+    "englishName": "Lampent",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "12",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/12.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-12",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:12:english:sm2-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-12",
+      "setId": "sm2",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-168",
+    "englishName": "Lightning Energy",
+    "category": "Energy",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "168",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/168.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/168_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-168",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:168:english:sm2-168",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-168",
+      "setId": "sm2",
+      "collectorNumber": "168",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-168",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-5",
+    "englishName": "Lilligant",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "5",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/5.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-5",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:5:english:sm2-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-5",
+      "setId": "sm2",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-11",
+    "englishName": "Litwick",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "11",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/11.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-11",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:11:english:sm2-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-11",
+      "setId": "sm2",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-61",
+    "englishName": "Lunala",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "61",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/61.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-61",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:61:english:sm2-61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-61",
+      "setId": "sm2",
+      "collectorNumber": "61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-138",
+    "englishName": "Lycanroc-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "138",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/138.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/138_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-138",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:138:english:sm2-138",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-138",
+      "setId": "sm2",
+      "collectorNumber": "138",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-138",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-156",
+    "englishName": "Lycanroc-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "156",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/156.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/156_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-156",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:156:english:sm2-156",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-156",
+      "setId": "sm2",
+      "collectorNumber": "156",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-156",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-74",
+    "englishName": "Lycanroc-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "74",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/74.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-74",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:74:english:sm2-74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-74",
+      "setId": "sm2",
+      "collectorNumber": "74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-65",
+    "englishName": "Machamp",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "65",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/65.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-65",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:65:english:sm2-65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-65",
+      "setId": "sm2",
+      "collectorNumber": "65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-64",
+    "englishName": "Machoke",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "64",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/64.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-64",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:64:english:sm2-64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-64",
+      "setId": "sm2",
+      "collectorNumber": "64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-62",
+    "englishName": "Machop",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "62",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/62.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-62",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:62:english:sm2-62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-62",
+      "setId": "sm2",
+      "collectorNumber": "62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-63",
+    "englishName": "Machop",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "63",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/63.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-63",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:63:english:sm2-63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-63",
+      "setId": "sm2",
+      "collectorNumber": "63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-127",
+    "englishName": "Mallow",
+    "category": "Trainer",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "127",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/127.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/127_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-127",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:127:english:sm2-127",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-127",
+      "setId": "sm2",
+      "collectorNumber": "127",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-127",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-145",
+    "englishName": "Mallow",
+    "category": "Trainer",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "145",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/145.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/145_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-145",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:145:english:sm2-145",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-145",
+      "setId": "sm2",
+      "collectorNumber": "145",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-145",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-39",
+    "englishName": "Mareanie",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "39",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/39.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-39",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:39:english:sm2-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-39",
+      "setId": "sm2",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-128",
+    "englishName": "Max Potion",
+    "category": "Trainer",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "128",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/128.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/128_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-128",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:128:english:sm2-128",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-128",
+      "setId": "sm2",
+      "collectorNumber": "128",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-128",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-128a",
+    "englishName": "Max Potion",
+    "category": "Trainer",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "128a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/128a.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/128a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-128a",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:128a:english:sm2-128a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-128a",
+      "setId": "sm2",
+      "collectorNumber": "128a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-128a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-164",
+    "englishName": "Max Potion",
+    "category": "Trainer",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "164",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/164.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/164_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-164",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:164:english:sm2-164",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-164",
+      "setId": "sm2",
+      "collectorNumber": "164",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-164",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-139",
+    "englishName": "Metagross-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "139",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/139.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/139_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-139",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:139:english:sm2-139",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-139",
+      "setId": "sm2",
+      "collectorNumber": "139",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-139",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-157",
+    "englishName": "Metagross-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "157",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/157.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/157_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-157",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:157:english:sm2-157",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-157",
+      "setId": "sm2",
+      "collectorNumber": "157",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-157",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-157a",
+    "englishName": "Metagross-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "157a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/157a.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/157a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-157a",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:157a:english:sm2-157a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-157a",
+      "setId": "sm2",
+      "collectorNumber": "157a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-157a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-85",
+    "englishName": "Metagross-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "85",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/85.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/85_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-85",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:85:english:sm2-85",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-85",
+      "setId": "sm2",
+      "collectorNumber": "85",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-85",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-84",
+    "englishName": "Metang",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "84",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/84.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/84_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-84",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:84:english:sm2-84",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-84",
+      "setId": "sm2",
+      "collectorNumber": "84",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-84",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-58",
+    "englishName": "Mimikyu",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "58",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/58.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-58",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:58:english:sm2-58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-58",
+      "setId": "sm2",
+      "collectorNumber": "58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-77",
+    "englishName": "Minior",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "77",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/77.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-77",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:77:english:sm2-77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-77",
+      "setId": "sm2",
+      "collectorNumber": "77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-75",
+    "englishName": "Mudbray",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "75",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/75.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-75",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:75:english:sm2-75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-75",
+      "setId": "sm2",
+      "collectorNumber": "75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-76",
+    "englishName": "Mudsdale",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "76",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/76.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-76",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:76:english:sm2-76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-76",
+      "setId": "sm2",
+      "collectorNumber": "76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-129",
+    "englishName": "Multi Switch",
+    "category": "Trainer",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "129",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/129.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/129_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-129",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:129:english:sm2-129",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-129",
+      "setId": "sm2",
+      "collectorNumber": "129",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-129",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-78",
+    "englishName": "Murkrow",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "78",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/78.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-78",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:78:english:sm2-78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-78",
+      "setId": "sm2",
+      "collectorNumber": "78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-69",
+    "englishName": "Nosepass",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "69",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/69.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-69",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:69:english:sm2-69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-69",
+      "setId": "sm2",
+      "collectorNumber": "69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-14",
+    "englishName": "Oricorio",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "14",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/14.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-14",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:14:english:sm2-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-14",
+      "setId": "sm2",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-46",
+    "englishName": "Oricorio",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "46",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/46.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-46",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:46:english:sm2-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-46",
+      "setId": "sm2",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-55",
+    "englishName": "Oricorio",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "55",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/55.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-55",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:55:english:sm2-55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-55",
+      "setId": "sm2",
+      "collectorNumber": "55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-56",
+    "englishName": "Oricorio",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "56",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/56.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-56",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:56:english:sm2-56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-56",
+      "setId": "sm2",
+      "collectorNumber": "56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-72",
+    "englishName": "Pancham",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "72",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/72.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-72",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:72:english:sm2-72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-72",
+      "setId": "sm2",
+      "collectorNumber": "72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-82",
+    "englishName": "Pangoro",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "82",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/82.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/82_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-82",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:82:english:sm2-82",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-82",
+      "setId": "sm2",
+      "collectorNumber": "82",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-82",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-107",
+    "englishName": "Patrat",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "107",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/107.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/107_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-107",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:107:english:sm2-107",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-107",
+      "setId": "sm2",
+      "collectorNumber": "107",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-107",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-4",
+    "englishName": "Petilil",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "4",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/4.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-4",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:4:english:sm2-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-4",
+      "setId": "sm2",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-6",
+    "englishName": "Phantump",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "6",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/6.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-6",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:6:english:sm2-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-6",
+      "setId": "sm2",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-25",
+    "englishName": "Politoed",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "25",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/25.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-25",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:25:english:sm2-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-25",
+      "setId": "sm2",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-149",
+    "englishName": "Primarina-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "149",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/149.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/149_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-149",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:149:english:sm2-149",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-149",
+      "setId": "sm2",
+      "collectorNumber": "149",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-149",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-86",
+    "englishName": "Probopass",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "86",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/86.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/86_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-86",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:86:english:sm2-86",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-86",
+      "setId": "sm2",
+      "collectorNumber": "86",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-86",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-165",
+    "englishName": "Rare Candy",
+    "category": "Trainer",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "165",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/165.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/165_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-165",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:165:english:sm2-165",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-165",
+      "setId": "sm2",
+      "collectorNumber": "165",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-165",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-106",
+    "englishName": "Rayquaza",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "106",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/106.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/106_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-106",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:106:english:sm2-106",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-106",
+      "setId": "sm2",
+      "collectorNumber": "106",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-106",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-130",
+    "englishName": "Rescue Stretcher",
+    "category": "Trainer",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "130",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/130.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/130_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-130",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:130:english:sm2-130",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-130",
+      "setId": "sm2",
+      "collectorNumber": "130",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-130",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-130a",
+    "englishName": "Rescue Stretcher",
+    "category": "Trainer",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "130a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/130a.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/130a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-130a",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:130a:english:sm2-130a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-130a",
+      "setId": "sm2",
+      "collectorNumber": "130a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-130a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-73",
+    "englishName": "Rockruff",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "73",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/73.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-73",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:73:english:sm2-73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-73",
+      "setId": "sm2",
+      "collectorNumber": "73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-80",
+    "englishName": "Sableye",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "80",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/80.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/80_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-80",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:80:english:sm2-80",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-80",
+      "setId": "sm2",
+      "collectorNumber": "80",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-80",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-15",
+    "englishName": "Salandit",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "15",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/15.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-15",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:15:english:sm2-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-15",
+      "setId": "sm2",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-16",
+    "englishName": "Salazzle",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "16",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/16.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-16",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:16:english:sm2-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-16",
+      "setId": "sm2",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-28",
+    "englishName": "Sharpedo",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "28",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/28.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-28",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:28:english:sm2-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-28",
+      "setId": "sm2",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-95",
+    "englishName": "Sliggoo",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "95",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/95.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/95_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-95",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:95:english:sm2-95",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-95",
+      "setId": "sm2",
+      "collectorNumber": "95",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-95",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-49",
+    "englishName": "Slowbro",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "49",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/49.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-49",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:49:english:sm2-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-49",
+      "setId": "sm2",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-48",
+    "englishName": "Slowpoke",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "48",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/48.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-48",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:48:english:sm2-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-48",
+      "setId": "sm2",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-31",
+    "englishName": "Snorunt",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "31",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/31.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-31",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:31:english:sm2-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-31",
+      "setId": "sm2",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-87",
+    "englishName": "Solgaleo",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "87",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/87.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/87_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-87",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:87:english:sm2-87",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-87",
+      "setId": "sm2",
+      "collectorNumber": "87",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-87",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-112",
+    "englishName": "Stufful",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "112",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/112.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/112_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-112",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:112:english:sm2-112",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-112",
+      "setId": "sm2",
+      "collectorNumber": "112",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-112",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-66",
+    "englishName": "Sudowoodo",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "66",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/66.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-66",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:66:english:sm2-66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-66",
+      "setId": "sm2",
+      "collectorNumber": "66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-104",
+    "englishName": "Swellow",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "104",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/104.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/104_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-104",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:104:english:sm2-104",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-104",
+      "setId": "sm2",
+      "collectorNumber": "104",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-104",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-140",
+    "englishName": "Sylveon-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "140",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/140.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/140_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-140",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:140:english:sm2-140",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-140",
+      "setId": "sm2",
+      "collectorNumber": "140",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-140",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-158",
+    "englishName": "Sylveon-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "158",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/158.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/158_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-158",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:158:english:sm2-158",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-158",
+      "setId": "sm2",
+      "collectorNumber": "158",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-158",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-92",
+    "englishName": "Sylveon-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "92",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/92.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/92_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-92",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:92:english:sm2-92",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-92",
+      "setId": "sm2",
+      "collectorNumber": "92",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-92",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-92a",
+    "englishName": "Sylveon-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "92a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/92a.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/92a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-92a",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:92a:english:sm2-92a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-92a",
+      "setId": "sm2",
+      "collectorNumber": "92a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-92a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-103",
+    "englishName": "Taillow",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "103",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/103.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/103_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-103",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:103:english:sm2-103",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-103",
+      "setId": "sm2",
+      "collectorNumber": "103",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-103",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-111",
+    "englishName": "Talonflame",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "111",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/111.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/111_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-111",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:111:english:sm2-111",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-111",
+      "setId": "sm2",
+      "collectorNumber": "111",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-111",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-135",
+    "englishName": "Tapu Koko-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "135",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/135.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/135_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-135",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:135:english:sm2-135",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-135",
+      "setId": "sm2",
+      "collectorNumber": "135",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-135",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-153",
+    "englishName": "Tapu Koko-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "153",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/153.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/153_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-153",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:153:english:sm2-153",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-153",
+      "setId": "sm2",
+      "collectorNumber": "153",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-153",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-47",
+    "englishName": "Tapu Koko-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "47",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/47.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-47",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:47:english:sm2-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-47",
+      "setId": "sm2",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-137",
+    "englishName": "Tapu Lele-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "137",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/137.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/137_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-137",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:137:english:sm2-137",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-137",
+      "setId": "sm2",
+      "collectorNumber": "137",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-137",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-155",
+    "englishName": "Tapu Lele-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "155",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/155.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/155_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-155",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:155:english:sm2-155",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-155",
+      "setId": "sm2",
+      "collectorNumber": "155",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-155",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-60",
+    "englishName": "Tapu Lele-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "60",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/60.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-60",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:60:english:sm2-60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-60",
+      "setId": "sm2",
+      "collectorNumber": "60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-60a",
+    "englishName": "Tapu Lele-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "60a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/60a.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/60a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-60a",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:60a:english:sm2-60a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-60a",
+      "setId": "sm2",
+      "collectorNumber": "60a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-60a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-23",
+    "englishName": "Tentacool",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "23",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/23.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-23",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:23:english:sm2-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-23",
+      "setId": "sm2",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-24",
+    "englishName": "Tentacruel",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "24",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/24.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-24",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:24:english:sm2-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-24",
+      "setId": "sm2",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-136",
+    "englishName": "Toxapex-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "136",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/136.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/136_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-136",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:136:english:sm2-136",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-136",
+      "setId": "sm2",
+      "collectorNumber": "136",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-136",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-154",
+    "englishName": "Toxapex-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "154",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/154.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/154_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-154",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:154:english:sm2-154",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-154",
+      "setId": "sm2",
+      "collectorNumber": "154",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-154",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-57",
+    "englishName": "Toxapex-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "57",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/57.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-57",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:57:english:sm2-57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-57",
+      "setId": "sm2",
+      "collectorNumber": "57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-7",
+    "englishName": "Trevenant",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "7",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/7.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-7",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:7:english:sm2-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-7",
+      "setId": "sm2",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-50",
+    "englishName": "Trubbish",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "50",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/50.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-50",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:50:english:sm2-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-50",
+      "setId": "sm2",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-131",
+    "englishName": "Turtonator-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "131",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/131.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/131_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-131",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:131:english:sm2-131",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-131",
+      "setId": "sm2",
+      "collectorNumber": "131",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-131",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-148",
+    "englishName": "Turtonator-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "148",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/148.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/148_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-148",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:148:english:sm2-148",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-148",
+      "setId": "sm2",
+      "collectorNumber": "148",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-148",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-18",
+    "englishName": "Turtonator-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "18",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/18.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-18",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:18:english:sm2-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-18",
+      "setId": "sm2",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-17",
+    "englishName": "Turtonator",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "17",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/17.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-17",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:17:english:sm2-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-17",
+      "setId": "sm2",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-34",
+    "englishName": "Vanillish",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "34",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/34.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-34",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:34:english:sm2-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-34",
+      "setId": "sm2",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-33",
+    "englishName": "Vanillite",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "33",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/33.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-33",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:33:english:sm2-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-33",
+      "setId": "sm2",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-35",
+    "englishName": "Vanilluxe",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "35",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/35.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-35",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:35:english:sm2-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-35",
+      "setId": "sm2",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-10",
+    "englishName": "Victini",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "10",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/10.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-10",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:10:english:sm2-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-10",
+      "setId": "sm2",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-3",
+    "englishName": "Victreebel",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "3",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/3.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-3",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:3:english:sm2-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-3",
+      "setId": "sm2",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-134",
+    "englishName": "Vikavolt-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "134",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/134.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/134_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-134",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:134:english:sm2-134",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-134",
+      "setId": "sm2",
+      "collectorNumber": "134",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-134",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-152",
+    "englishName": "Vikavolt-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "152",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/152.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/152_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-152",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:152:english:sm2-152",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-152",
+      "setId": "sm2",
+      "collectorNumber": "152",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-152",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-45",
+    "englishName": "Vikavolt-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "45",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/45.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-45",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:45:english:sm2-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-45",
+      "setId": "sm2",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-29",
+    "englishName": "Wailmer",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "29",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/29.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-29",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:29:english:sm2-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-29",
+      "setId": "sm2",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-30",
+    "englishName": "Wailord",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "30",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/30.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-30",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:30:english:sm2-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-30",
+      "setId": "sm2",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-108",
+    "englishName": "Watchog",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "108",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/108.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/108_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-108",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:108:english:sm2-108",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-108",
+      "setId": "sm2",
+      "collectorNumber": "108",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-108",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-2",
+    "englishName": "Weepinbell",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "2",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/2.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-2",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:2:english:sm2-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-2",
+      "setId": "sm2",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-91",
+    "englishName": "Whimsicott",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "91",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/91.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/91_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-91",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:91:english:sm2-91",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-91",
+      "setId": "sm2",
+      "collectorNumber": "91",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-91",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-71",
+    "englishName": "Whiscash",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "71",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/71.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-71",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:71:english:sm2-71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-71",
+      "setId": "sm2",
+      "collectorNumber": "71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-8",
+    "englishName": "Wimpod",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "8",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/8.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-8",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:8:english:sm2-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-8",
+      "setId": "sm2",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-133",
+    "englishName": "Wishiwashi-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "133",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/133.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/133_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-133",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:133:english:sm2-133",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-133",
+      "setId": "sm2",
+      "collectorNumber": "133",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-133",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-151",
+    "englishName": "Wishiwashi-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "151",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/151.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/151_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-151",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:151:english:sm2-151",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-151",
+      "setId": "sm2",
+      "collectorNumber": "151",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-151",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-38",
+    "englishName": "Wishiwashi-GX",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "38",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/38.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-38",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:38:english:sm2-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-38",
+      "setId": "sm2",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm2-37",
+    "englishName": "Wishiwashi",
+    "category": "Pokemon",
+    "setCode": "GRI",
+    "setName": "Guardians Rising",
+    "cardNumber": "37",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm2/37.png",
+    "imageLarge": "https://images.pokemontcg.io/sm2/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm2-37",
+    "sourceSetId": "sm2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm2:37:english:sm2-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm2-37",
+      "setId": "sm2",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm2-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

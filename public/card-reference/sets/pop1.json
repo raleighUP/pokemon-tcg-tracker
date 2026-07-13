@@ -1,0 +1,461 @@
+[
+  {
+    "id": "pop1-16",
+    "englishName": "Armaldo ex",
+    "category": "Pokemon",
+    "setCode": "pop1",
+    "setName": "POP Series 1",
+    "cardNumber": "16",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop1/16.png",
+    "imageLarge": "https://images.pokemontcg.io/pop1/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop1-16",
+    "sourceSetId": "pop1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop1:16:english:pop1-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop1-16",
+      "setId": "pop1",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop1-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop1-6",
+    "englishName": "Beautifly",
+    "category": "Pokemon",
+    "setCode": "pop1",
+    "setName": "POP Series 1",
+    "cardNumber": "6",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop1/6.png",
+    "imageLarge": "https://images.pokemontcg.io/pop1/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop1-6",
+    "sourceSetId": "pop1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop1:6:english:pop1-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop1-6",
+      "setId": "pop1",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop1-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop1-1",
+    "englishName": "Blaziken",
+    "category": "Pokemon",
+    "setCode": "pop1",
+    "setName": "POP Series 1",
+    "cardNumber": "1",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop1/1.png",
+    "imageLarge": "https://images.pokemontcg.io/pop1/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop1-1",
+    "sourceSetId": "pop1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop1:1:english:pop1-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop1-1",
+      "setId": "pop1",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop1-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop1-11",
+    "englishName": "Larvitar",
+    "category": "Pokemon",
+    "setCode": "pop1",
+    "setName": "POP Series 1",
+    "cardNumber": "11",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop1/11.png",
+    "imageLarge": "https://images.pokemontcg.io/pop1/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop1-11",
+    "sourceSetId": "pop1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop1:11:english:pop1-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop1-11",
+      "setId": "pop1",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop1-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop1-7",
+    "englishName": "Masquerain",
+    "category": "Pokemon",
+    "setCode": "pop1",
+    "setName": "POP Series 1",
+    "cardNumber": "7",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop1/7.png",
+    "imageLarge": "https://images.pokemontcg.io/pop1/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop1-7",
+    "sourceSetId": "pop1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop1:7:english:pop1-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop1-7",
+      "setId": "pop1",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop1-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop1-2",
+    "englishName": "Metagross",
+    "category": "Pokemon",
+    "setCode": "pop1",
+    "setName": "POP Series 1",
+    "cardNumber": "2",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop1/2.png",
+    "imageLarge": "https://images.pokemontcg.io/pop1/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop1-2",
+    "sourceSetId": "pop1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop1:2:english:pop1-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop1-2",
+      "setId": "pop1",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop1-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop1-12",
+    "englishName": "Minun",
+    "category": "Pokemon",
+    "setCode": "pop1",
+    "setName": "POP Series 1",
+    "cardNumber": "12",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop1/12.png",
+    "imageLarge": "https://images.pokemontcg.io/pop1/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop1-12",
+    "sourceSetId": "pop1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop1:12:english:pop1-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop1-12",
+      "setId": "pop1",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop1-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop1-8",
+    "englishName": "Murkrow",
+    "category": "Pokemon",
+    "setCode": "pop1",
+    "setName": "POP Series 1",
+    "cardNumber": "8",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop1/8.png",
+    "imageLarge": "https://images.pokemontcg.io/pop1/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop1-8",
+    "sourceSetId": "pop1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop1:8:english:pop1-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop1-8",
+      "setId": "pop1",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop1-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop1-13",
+    "englishName": "Plusle",
+    "category": "Pokemon",
+    "setCode": "pop1",
+    "setName": "POP Series 1",
+    "cardNumber": "13",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop1/13.png",
+    "imageLarge": "https://images.pokemontcg.io/pop1/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop1-13",
+    "sourceSetId": "pop1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop1:13:english:pop1-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop1-13",
+      "setId": "pop1",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop1-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop1-9",
+    "englishName": "Pupitar",
+    "category": "Pokemon",
+    "setCode": "pop1",
+    "setName": "POP Series 1",
+    "cardNumber": "9",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop1/9.png",
+    "imageLarge": "https://images.pokemontcg.io/pop1/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop1-9",
+    "sourceSetId": "pop1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop1:9:english:pop1-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop1-9",
+      "setId": "pop1",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop1-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop1-3",
+    "englishName": "Rayquaza",
+    "category": "Pokemon",
+    "setCode": "pop1",
+    "setName": "POP Series 1",
+    "cardNumber": "3",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop1/3.png",
+    "imageLarge": "https://images.pokemontcg.io/pop1/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop1-3",
+    "sourceSetId": "pop1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop1:3:english:pop1-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop1-3",
+      "setId": "pop1",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop1-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop1-4",
+    "englishName": "Sceptile",
+    "category": "Pokemon",
+    "setCode": "pop1",
+    "setName": "POP Series 1",
+    "cardNumber": "4",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop1/4.png",
+    "imageLarge": "https://images.pokemontcg.io/pop1/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop1-4",
+    "sourceSetId": "pop1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop1:4:english:pop1-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop1-4",
+      "setId": "pop1",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop1-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop1-14",
+    "englishName": "Surskit",
+    "category": "Pokemon",
+    "setCode": "pop1",
+    "setName": "POP Series 1",
+    "cardNumber": "14",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop1/14.png",
+    "imageLarge": "https://images.pokemontcg.io/pop1/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop1-14",
+    "sourceSetId": "pop1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop1:14:english:pop1-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop1-14",
+      "setId": "pop1",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop1-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop1-5",
+    "englishName": "Swampert",
+    "category": "Pokemon",
+    "setCode": "pop1",
+    "setName": "POP Series 1",
+    "cardNumber": "5",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop1/5.png",
+    "imageLarge": "https://images.pokemontcg.io/pop1/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop1-5",
+    "sourceSetId": "pop1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop1:5:english:pop1-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop1-5",
+      "setId": "pop1",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop1-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop1-15",
+    "englishName": "Swellow",
+    "category": "Pokemon",
+    "setCode": "pop1",
+    "setName": "POP Series 1",
+    "cardNumber": "15",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop1/15.png",
+    "imageLarge": "https://images.pokemontcg.io/pop1/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop1-15",
+    "sourceSetId": "pop1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop1:15:english:pop1-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop1-15",
+      "setId": "pop1",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop1-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop1-10",
+    "englishName": "Torkoal",
+    "category": "Pokemon",
+    "setCode": "pop1",
+    "setName": "POP Series 1",
+    "cardNumber": "10",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop1/10.png",
+    "imageLarge": "https://images.pokemontcg.io/pop1/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop1-10",
+    "sourceSetId": "pop1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop1:10:english:pop1-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop1-10",
+      "setId": "pop1",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop1-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop1-17",
+    "englishName": "Tyranitar ex",
+    "category": "Pokemon",
+    "setCode": "pop1",
+    "setName": "POP Series 1",
+    "cardNumber": "17",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop1/17.png",
+    "imageLarge": "https://images.pokemontcg.io/pop1/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop1-17",
+    "sourceSetId": "pop1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop1:17:english:pop1-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop1-17",
+      "setId": "pop1",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop1-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

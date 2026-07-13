@@ -1,0 +1,466 @@
+[
+  {
+    "id": "sve-15",
+    "englishName": "Basic Darkness Energy",
+    "category": "Energy",
+    "setCode": "SVE",
+    "setName": "Scarlet & Violet Energies",
+    "cardNumber": "15",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sve/15.png",
+    "imageLarge": "https://images.pokemontcg.io/sve/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sve-15",
+    "sourceSetId": "sve",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sve:15:english:sve-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sve-15",
+      "setId": "sve",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sve-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sve-7",
+    "englishName": "Basic Darkness Energy",
+    "category": "Energy",
+    "setCode": "sve",
+    "setName": "Scarlet & Violet Energies",
+    "cardNumber": "7",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sve/7.png",
+    "imageLarge": "https://images.pokemontcg.io/sve/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sve-7",
+    "sourceSetId": "sve",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sve:7:english:sve-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sve-7",
+      "setId": "sve",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sve-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sve-14",
+    "englishName": "Basic Fighting Energy",
+    "category": "Energy",
+    "setCode": "SVE",
+    "setName": "Scarlet & Violet Energies",
+    "cardNumber": "14",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sve/14.png",
+    "imageLarge": "https://images.pokemontcg.io/sve/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sve-14",
+    "sourceSetId": "sve",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sve:14:english:sve-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sve-14",
+      "setId": "sve",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sve-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sve-6",
+    "englishName": "Basic Fighting Energy",
+    "category": "Energy",
+    "setCode": "sve",
+    "setName": "Scarlet & Violet Energies",
+    "cardNumber": "6",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sve/6.png",
+    "imageLarge": "https://images.pokemontcg.io/sve/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sve-6",
+    "sourceSetId": "sve",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sve:6:english:sve-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sve-6",
+      "setId": "sve",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sve-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sve-10",
+    "englishName": "Basic Fire Energy",
+    "category": "Energy",
+    "setCode": "SVE",
+    "setName": "Scarlet & Violet Energies",
+    "cardNumber": "10",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sve/10.png",
+    "imageLarge": "https://images.pokemontcg.io/sve/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sve-10",
+    "sourceSetId": "sve",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sve:10:english:sve-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sve-10",
+      "setId": "sve",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sve-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sve-2",
+    "englishName": "Basic Fire Energy",
+    "category": "Energy",
+    "setCode": "sve",
+    "setName": "Scarlet & Violet Energies",
+    "cardNumber": "2",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sve/2.png",
+    "imageLarge": "https://images.pokemontcg.io/sve/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sve-2",
+    "sourceSetId": "sve",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sve:2:english:sve-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sve-2",
+      "setId": "sve",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sve-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sve-1",
+    "englishName": "Basic Grass Energy",
+    "category": "Energy",
+    "setCode": "sve",
+    "setName": "Scarlet & Violet Energies",
+    "cardNumber": "1",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sve/1.png",
+    "imageLarge": "https://images.pokemontcg.io/sve/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sve-1",
+    "sourceSetId": "sve",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sve:1:english:sve-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sve-1",
+      "setId": "sve",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sve-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sve-9",
+    "englishName": "Basic Grass Energy",
+    "category": "Energy",
+    "setCode": "SVE",
+    "setName": "Scarlet & Violet Energies",
+    "cardNumber": "9",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sve/9.png",
+    "imageLarge": "https://images.pokemontcg.io/sve/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sve-9",
+    "sourceSetId": "sve",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sve:9:english:sve-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sve-9",
+      "setId": "sve",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sve-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sve-12",
+    "englishName": "Basic Lightning Energy",
+    "category": "Energy",
+    "setCode": "SVE",
+    "setName": "Scarlet & Violet Energies",
+    "cardNumber": "12",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sve/12.png",
+    "imageLarge": "https://images.pokemontcg.io/sve/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sve-12",
+    "sourceSetId": "sve",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sve:12:english:sve-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sve-12",
+      "setId": "sve",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sve-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sve-4",
+    "englishName": "Basic Lightning Energy",
+    "category": "Energy",
+    "setCode": "sve",
+    "setName": "Scarlet & Violet Energies",
+    "cardNumber": "4",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sve/4.png",
+    "imageLarge": "https://images.pokemontcg.io/sve/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sve-4",
+    "sourceSetId": "sve",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sve:4:english:sve-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sve-4",
+      "setId": "sve",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sve-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sve-16",
+    "englishName": "Basic Metal Energy",
+    "category": "Energy",
+    "setCode": "SVE",
+    "setName": "Scarlet & Violet Energies",
+    "cardNumber": "16",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sve/16.png",
+    "imageLarge": "https://images.pokemontcg.io/sve/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sve-16",
+    "sourceSetId": "sve",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sve:16:english:sve-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sve-16",
+      "setId": "sve",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sve-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sve-8",
+    "englishName": "Basic Metal Energy",
+    "category": "Energy",
+    "setCode": "sve",
+    "setName": "Scarlet & Violet Energies",
+    "cardNumber": "8",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sve/8.png",
+    "imageLarge": "https://images.pokemontcg.io/sve/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sve-8",
+    "sourceSetId": "sve",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sve:8:english:sve-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sve-8",
+      "setId": "sve",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sve-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sve-13",
+    "englishName": "Basic Psychic Energy",
+    "category": "Energy",
+    "setCode": "SVE",
+    "setName": "Scarlet & Violet Energies",
+    "cardNumber": "13",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sve/13.png",
+    "imageLarge": "https://images.pokemontcg.io/sve/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sve-13",
+    "sourceSetId": "sve",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sve:13:english:sve-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sve-13",
+      "setId": "sve",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sve-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sve-5",
+    "englishName": "Basic Psychic Energy",
+    "category": "Energy",
+    "setCode": "sve",
+    "setName": "Scarlet & Violet Energies",
+    "cardNumber": "5",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sve/5.png",
+    "imageLarge": "https://images.pokemontcg.io/sve/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sve-5",
+    "sourceSetId": "sve",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sve:5:english:sve-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sve-5",
+      "setId": "sve",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sve-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sve-11",
+    "englishName": "Basic Water Energy",
+    "category": "Energy",
+    "setCode": "SVE",
+    "setName": "Scarlet & Violet Energies",
+    "cardNumber": "11",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sve/11.png",
+    "imageLarge": "https://images.pokemontcg.io/sve/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sve-11",
+    "sourceSetId": "sve",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sve:11:english:sve-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sve-11",
+      "setId": "sve",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sve-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sve-3",
+    "englishName": "Basic Water Energy",
+    "category": "Energy",
+    "setCode": "sve",
+    "setName": "Scarlet & Violet Energies",
+    "cardNumber": "3",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sve/3.png",
+    "imageLarge": "https://images.pokemontcg.io/sve/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sve-3",
+    "sourceSetId": "sve",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sve:3:english:sve-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sve-3",
+      "setId": "sve",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sve-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

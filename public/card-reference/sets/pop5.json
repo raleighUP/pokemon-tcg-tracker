@@ -1,0 +1,464 @@
+[
+  {
+    "id": "pop5-6",
+    "englishName": "Bill's Maintenance",
+    "category": "Trainer",
+    "setCode": "pop5",
+    "setName": "POP Series 5",
+    "cardNumber": "6",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop5/6.png",
+    "imageLarge": "https://images.pokemontcg.io/pop5/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop5-6",
+    "sourceSetId": "pop5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop5:6:english:pop5-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop5-6",
+      "setId": "pop5",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop5-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop5-8",
+    "englishName": "Boost Energy",
+    "category": "Energy",
+    "setCode": "pop5",
+    "setName": "POP Series 5",
+    "cardNumber": "8",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop5/8.png",
+    "imageLarge": "https://images.pokemontcg.io/pop5/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop5-8",
+    "sourceSetId": "pop5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop5:8:english:pop5-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop5-8",
+      "setId": "pop5",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop5-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop5-10",
+    "englishName": "Charmander δ",
+    "category": "Pokemon",
+    "setCode": "pop5",
+    "setName": "POP Series 5",
+    "cardNumber": "10",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop5/10.png",
+    "imageLarge": "https://images.pokemontcg.io/pop5/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop5-10",
+    "sourceSetId": "pop5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop5:10:english:pop5-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop5-10",
+      "setId": "pop5",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop5-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop5-5",
+    "englishName": "Charmeleon δ",
+    "category": "Pokemon",
+    "setCode": "pop5",
+    "setName": "POP Series 5",
+    "cardNumber": "5",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop5/5.png",
+    "imageLarge": "https://images.pokemontcg.io/pop5/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop5-5",
+    "sourceSetId": "pop5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop5:5:english:pop5-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop5-5",
+      "setId": "pop5",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop5-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop5-4",
+    "englishName": "Double Rainbow Energy",
+    "category": "Energy",
+    "setCode": "pop5",
+    "setName": "POP Series 5",
+    "cardNumber": "4",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop5/4.png",
+    "imageLarge": "https://images.pokemontcg.io/pop5/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop5-4",
+    "sourceSetId": "pop5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop5:4:english:pop5-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop5-4",
+      "setId": "pop5",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop5-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop5-16",
+    "englishName": "Espeon ★",
+    "category": "Pokemon",
+    "setCode": "pop5",
+    "setName": "POP Series 5",
+    "cardNumber": "16",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop5/16.png",
+    "imageLarge": "https://images.pokemontcg.io/pop5/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop5-16",
+    "sourceSetId": "pop5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop5:16:english:pop5-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop5-16",
+      "setId": "pop5",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop5-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop5-1",
+    "englishName": "Ho-Oh",
+    "category": "Pokemon",
+    "setCode": "pop5",
+    "setName": "POP Series 5",
+    "cardNumber": "1",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop5/1.png",
+    "imageLarge": "https://images.pokemontcg.io/pop5/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop5-1",
+    "sourceSetId": "pop5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop5:1:english:pop5-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop5-1",
+      "setId": "pop5",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop5-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop5-2",
+    "englishName": "Lugia",
+    "category": "Pokemon",
+    "setCode": "pop5",
+    "setName": "POP Series 5",
+    "cardNumber": "2",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop5/2.png",
+    "imageLarge": "https://images.pokemontcg.io/pop5/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop5-2",
+    "sourceSetId": "pop5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop5:2:english:pop5-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop5-2",
+      "setId": "pop5",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop5-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop5-11",
+    "englishName": "Meowth δ",
+    "category": "Pokemon",
+    "setCode": "pop5",
+    "setName": "POP Series 5",
+    "cardNumber": "11",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop5/11.png",
+    "imageLarge": "https://images.pokemontcg.io/pop5/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop5-11",
+    "sourceSetId": "pop5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop5:11:english:pop5-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop5-11",
+      "setId": "pop5",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop5-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop5-3",
+    "englishName": "Mew δ",
+    "category": "Pokemon",
+    "setCode": "pop5",
+    "setName": "POP Series 5",
+    "cardNumber": "3",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop5/3.png",
+    "imageLarge": "https://images.pokemontcg.io/pop5/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop5-3",
+    "sourceSetId": "pop5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop5:3:english:pop5-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop5-3",
+      "setId": "pop5",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop5-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop5-14",
+    "englishName": "Pelipper δ",
+    "category": "Pokemon",
+    "setCode": "pop5",
+    "setName": "POP Series 5",
+    "cardNumber": "14",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop5/14.png",
+    "imageLarge": "https://images.pokemontcg.io/pop5/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop5-14",
+    "sourceSetId": "pop5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop5:14:english:pop5-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop5-14",
+      "setId": "pop5",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop5-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop5-13",
+    "englishName": "Pikachu δ",
+    "category": "Pokemon",
+    "setCode": "pop5",
+    "setName": "POP Series 5",
+    "cardNumber": "13",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop5/13.png",
+    "imageLarge": "https://images.pokemontcg.io/pop5/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop5-13",
+    "sourceSetId": "pop5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop5:13:english:pop5-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop5-13",
+      "setId": "pop5",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop5-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop5-12",
+    "englishName": "Pikachu",
+    "category": "Pokemon",
+    "setCode": "pop5",
+    "setName": "POP Series 5",
+    "cardNumber": "12",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop5/12.png",
+    "imageLarge": "https://images.pokemontcg.io/pop5/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop5-12",
+    "sourceSetId": "pop5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop5:12:english:pop5-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop5-12",
+      "setId": "pop5",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop5-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop5-7",
+    "englishName": "Rare Candy",
+    "category": "Trainer",
+    "setCode": "pop5",
+    "setName": "POP Series 5",
+    "cardNumber": "7",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop5/7.png",
+    "imageLarge": "https://images.pokemontcg.io/pop5/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop5-7",
+    "sourceSetId": "pop5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop5:7:english:pop5-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop5-7",
+      "setId": "pop5",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop5-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop5-17",
+    "englishName": "Umbreon ★",
+    "category": "Pokemon",
+    "setCode": "pop5",
+    "setName": "POP Series 5",
+    "cardNumber": "17",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop5/17.png",
+    "imageLarge": "https://images.pokemontcg.io/pop5/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop5-17",
+    "sourceSetId": "pop5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop5:17:english:pop5-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop5-17",
+      "setId": "pop5",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop5-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop5-15",
+    "englishName": "Zangoose δ",
+    "category": "Pokemon",
+    "setCode": "pop5",
+    "setName": "POP Series 5",
+    "cardNumber": "15",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop5/15.png",
+    "imageLarge": "https://images.pokemontcg.io/pop5/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop5-15",
+    "sourceSetId": "pop5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop5:15:english:pop5-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop5-15",
+      "setId": "pop5",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop5-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop5-9",
+    "englishName": "δ Rainbow Energy",
+    "category": "Energy",
+    "setCode": "pop5",
+    "setName": "POP Series 5",
+    "cardNumber": "9",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop5/9.png",
+    "imageLarge": "https://images.pokemontcg.io/pop5/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop5-9",
+    "sourceSetId": "pop5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop5:9:english:pop5-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop5-9",
+      "setId": "pop5",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop5-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

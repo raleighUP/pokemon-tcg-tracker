@@ -1,0 +1,450 @@
+[
+  {
+    "id": "mcd22-12",
+    "englishName": "Bewear",
+    "category": "Pokemon",
+    "setCode": "mcd22",
+    "setName": "McDonald's Collection 2022",
+    "cardNumber": "12",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/mcd22/12.png",
+    "imageLarge": "https://images.pokemontcg.io/mcd22/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "mcd22-12",
+    "sourceSetId": "mcd22",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:mcd22:12:english:mcd22-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "mcd22-12",
+      "setId": "mcd22",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "mcd22-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "mcd22-8",
+    "englishName": "Chinchou",
+    "category": "Pokemon",
+    "setCode": "mcd22",
+    "setName": "McDonald's Collection 2022",
+    "cardNumber": "8",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/mcd22/8.png",
+    "imageLarge": "https://images.pokemontcg.io/mcd22/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "mcd22-8",
+    "sourceSetId": "mcd22",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:mcd22:8:english:mcd22-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "mcd22-8",
+      "setId": "mcd22",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "mcd22-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "mcd22-11",
+    "englishName": "Cutiefly",
+    "category": "Pokemon",
+    "setCode": "mcd22",
+    "setName": "McDonald's Collection 2022",
+    "cardNumber": "11",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/mcd22/11.png",
+    "imageLarge": "https://images.pokemontcg.io/mcd22/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "mcd22-11",
+    "sourceSetId": "mcd22",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:mcd22:11:english:mcd22-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "mcd22-11",
+      "setId": "mcd22",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "mcd22-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "mcd22-14",
+    "englishName": "Drampa",
+    "category": "Pokemon",
+    "setCode": "mcd22",
+    "setName": "McDonald's Collection 2022",
+    "cardNumber": "14",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/mcd22/14.png",
+    "imageLarge": "https://images.pokemontcg.io/mcd22/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "mcd22-14",
+    "sourceSetId": "mcd22",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:mcd22:14:english:mcd22-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "mcd22-14",
+      "setId": "mcd22",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "mcd22-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "mcd22-9",
+    "englishName": "Flaaffy",
+    "category": "Pokemon",
+    "setCode": "mcd22",
+    "setName": "McDonald's Collection 2022",
+    "cardNumber": "9",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/mcd22/9.png",
+    "imageLarge": "https://images.pokemontcg.io/mcd22/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "mcd22-9",
+    "sourceSetId": "mcd22",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:mcd22:9:english:mcd22-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "mcd22-9",
+      "setId": "mcd22",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "mcd22-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "mcd22-3",
+    "englishName": "Gossifleur",
+    "category": "Pokemon",
+    "setCode": "mcd22",
+    "setName": "McDonald's Collection 2022",
+    "cardNumber": "3",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/mcd22/3.png",
+    "imageLarge": "https://images.pokemontcg.io/mcd22/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "mcd22-3",
+    "sourceSetId": "mcd22",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:mcd22:3:english:mcd22-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "mcd22-3",
+      "setId": "mcd22",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "mcd22-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "mcd22-4",
+    "englishName": "Growlithe",
+    "category": "Pokemon",
+    "setCode": "mcd22",
+    "setName": "McDonald's Collection 2022",
+    "cardNumber": "4",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/mcd22/4.png",
+    "imageLarge": "https://images.pokemontcg.io/mcd22/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "mcd22-4",
+    "sourceSetId": "mcd22",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:mcd22:4:english:mcd22-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "mcd22-4",
+      "setId": "mcd22",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "mcd22-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "mcd22-6",
+    "englishName": "Lapras",
+    "category": "Pokemon",
+    "setCode": "mcd22",
+    "setName": "McDonald's Collection 2022",
+    "cardNumber": "6",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/mcd22/6.png",
+    "imageLarge": "https://images.pokemontcg.io/mcd22/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "mcd22-6",
+    "sourceSetId": "mcd22",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:mcd22:6:english:mcd22-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "mcd22-6",
+      "setId": "mcd22",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "mcd22-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "mcd22-1",
+    "englishName": "Ledyba",
+    "category": "Pokemon",
+    "setCode": "mcd22",
+    "setName": "McDonald's Collection 2022",
+    "cardNumber": "1",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/mcd22/1.png",
+    "imageLarge": "https://images.pokemontcg.io/mcd22/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "mcd22-1",
+    "sourceSetId": "mcd22",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:mcd22:1:english:mcd22-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "mcd22-1",
+      "setId": "mcd22",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "mcd22-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "mcd22-13",
+    "englishName": "Pangoro",
+    "category": "Pokemon",
+    "setCode": "mcd22",
+    "setName": "McDonald's Collection 2022",
+    "cardNumber": "13",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/mcd22/13.png",
+    "imageLarge": "https://images.pokemontcg.io/mcd22/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "mcd22-13",
+    "sourceSetId": "mcd22",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:mcd22:13:english:mcd22-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "mcd22-13",
+      "setId": "mcd22",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "mcd22-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "mcd22-7",
+    "englishName": "Pikachu",
+    "category": "Pokemon",
+    "setCode": "mcd22",
+    "setName": "McDonald's Collection 2022",
+    "cardNumber": "7",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/mcd22/7.png",
+    "imageLarge": "https://images.pokemontcg.io/mcd22/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "mcd22-7",
+    "sourceSetId": "mcd22",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:mcd22:7:english:mcd22-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "mcd22-7",
+      "setId": "mcd22",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "mcd22-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "mcd22-2",
+    "englishName": "Rowlet",
+    "category": "Pokemon",
+    "setCode": "mcd22",
+    "setName": "McDonald's Collection 2022",
+    "cardNumber": "2",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/mcd22/2.png",
+    "imageLarge": "https://images.pokemontcg.io/mcd22/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "mcd22-2",
+    "sourceSetId": "mcd22",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:mcd22:2:english:mcd22-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "mcd22-2",
+      "setId": "mcd22",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "mcd22-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "mcd22-15",
+    "englishName": "Smeargle",
+    "category": "Pokemon",
+    "setCode": "mcd22",
+    "setName": "McDonald's Collection 2022",
+    "cardNumber": "15",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/mcd22/15.png",
+    "imageLarge": "https://images.pokemontcg.io/mcd22/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "mcd22-15",
+    "sourceSetId": "mcd22",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:mcd22:15:english:mcd22-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "mcd22-15",
+      "setId": "mcd22",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "mcd22-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "mcd22-10",
+    "englishName": "Tynamo",
+    "category": "Pokemon",
+    "setCode": "mcd22",
+    "setName": "McDonald's Collection 2022",
+    "cardNumber": "10",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/mcd22/10.png",
+    "imageLarge": "https://images.pokemontcg.io/mcd22/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "mcd22-10",
+    "sourceSetId": "mcd22",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:mcd22:10:english:mcd22-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "mcd22-10",
+      "setId": "mcd22",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "mcd22-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "mcd22-5",
+    "englishName": "Victini",
+    "category": "Pokemon",
+    "setCode": "mcd22",
+    "setName": "McDonald's Collection 2022",
+    "cardNumber": "5",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/mcd22/5.png",
+    "imageLarge": "https://images.pokemontcg.io/mcd22/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "mcd22-5",
+    "sourceSetId": "mcd22",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:mcd22:5:english:mcd22-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "mcd22-5",
+      "setId": "mcd22",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "mcd22-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

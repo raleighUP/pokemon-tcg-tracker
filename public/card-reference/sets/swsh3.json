@@ -1,0 +1,5831 @@
+[
+  {
+    "id": "swsh3-10",
+    "englishName": "Accelgor",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "10",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/10.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-10",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:10:english:swsh3-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-10",
+      "setId": "swsh3",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-123",
+    "englishName": "Aggron",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "123",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/123.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/123_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-123",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:123:english:swsh3-123",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-123",
+      "setId": "swsh3",
+      "collectorNumber": "123",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-123",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-57",
+    "englishName": "Ampharos",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "57",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/57.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-57",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:57:english:swsh3-57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-57",
+      "setId": "swsh3",
+      "collectorNumber": "57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-54",
+    "englishName": "Arctovish",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "54",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/54.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-54",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:54:english:swsh3-54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-54",
+      "setId": "swsh3",
+      "collectorNumber": "54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-66",
+    "englishName": "Arctozolt",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "66",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/66.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-66",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:66:english:swsh3-66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-66",
+      "setId": "swsh3",
+      "collectorNumber": "66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-103",
+    "englishName": "Ariados",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "103",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/103.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/103_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-103",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:103:english:swsh3-103",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-103",
+      "setId": "swsh3",
+      "collectorNumber": "103",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-103",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-121",
+    "englishName": "Aron",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "121",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/121.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/121_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-121",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:121:english:swsh3-121",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-121",
+      "setId": "swsh3",
+      "collectorNumber": "121",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-121",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-49",
+    "englishName": "Beartic",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "49",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/49.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-49",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:49:english:swsh3-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-49",
+      "setId": "swsh3",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-157",
+    "englishName": "Big Parasol",
+    "category": "Trainer",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "157",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/157.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/157_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-157",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:157:english:swsh3-157",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-157",
+      "setId": "swsh3",
+      "collectorNumber": "157",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-157",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-199",
+    "englishName": "Big Parasol",
+    "category": "Trainer",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "199",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/199.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/199_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-199",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:199:english:swsh3-199",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-199",
+      "setId": "swsh3",
+      "collectorNumber": "199",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-199",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-158",
+    "englishName": "Billowing Smoke",
+    "category": "Trainer",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "158",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/158.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/158_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-158",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:158:english:swsh3-158",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-158",
+      "setId": "swsh3",
+      "collectorNumber": "158",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-158",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-159",
+    "englishName": "Bird Keeper",
+    "category": "Trainer",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "159",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/159.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/159_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-159",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:159:english:swsh3-159",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-159",
+      "setId": "swsh3",
+      "collectorNumber": "159",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-159",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-24",
+    "englishName": "Blaziken",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "24",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/24.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-24",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:24:english:swsh3-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-24",
+      "setId": "swsh3",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-14",
+    "englishName": "Bounsweet",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "14",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/14.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-14",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:14:english:swsh3-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-14",
+      "setId": "swsh3",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-150",
+    "englishName": "Bunnelby",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "150",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/150.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/150_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-150",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:150:english:swsh3-150",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-150",
+      "setId": "swsh3",
+      "collectorNumber": "150",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-150",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-1",
+    "englishName": "Butterfree V",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "1",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/1.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-1",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:1:english:swsh3-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-1",
+      "setId": "swsh3",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-177",
+    "englishName": "Butterfree V",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "177",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/177.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/177_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-177",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:177:english:swsh3-177",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-177",
+      "setId": "swsh3",
+      "collectorNumber": "177",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-177",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-190",
+    "englishName": "Butterfree VMAX",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "190",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/190.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/190_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-190",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:190:english:swsh3-190",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-190",
+      "setId": "swsh3",
+      "collectorNumber": "190",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-190",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-2",
+    "englishName": "Butterfree VMAX",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "2",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/2.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-2",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:2:english:swsh3-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-2",
+      "setId": "swsh3",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-160",
+    "englishName": "Cape of Toughness",
+    "category": "Trainer",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "160",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/160.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/160_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-160",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:160:english:swsh3-160",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-160",
+      "setId": "swsh3",
+      "collectorNumber": "160",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-160",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-201",
+    "englishName": "Capture Energy",
+    "category": "Energy",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "201",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/201.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/201_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-201",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:201:english:swsh3-201",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-201",
+      "setId": "swsh3",
+      "collectorNumber": "201",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-201",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-5",
+    "englishName": "Carnivine",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "5",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/5.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-5",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:5:english:swsh3-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-5",
+      "setId": "swsh3",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-179",
+    "englishName": "Centiskorch V",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "179",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/179.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/179_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-179",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:179:english:swsh3-179",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-179",
+      "setId": "swsh3",
+      "collectorNumber": "179",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-179",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-33",
+    "englishName": "Centiskorch V",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "33",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/33.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-33",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:33:english:swsh3-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-33",
+      "setId": "swsh3",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-191",
+    "englishName": "Centiskorch VMAX",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "191",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/191.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/191_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-191",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:191:english:swsh3-191",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-191",
+      "setId": "swsh3",
+      "collectorNumber": "191",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-191",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-34",
+    "englishName": "Centiskorch VMAX",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "34",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/34.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-34",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:34:english:swsh3-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-34",
+      "setId": "swsh3",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-19",
+    "englishName": "Charizard V",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "19",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/19.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-19",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:19:english:swsh3-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-19",
+      "setId": "swsh3",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-20",
+    "englishName": "Charizard VMAX",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "20",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/20.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-20",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:20:english:swsh3-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-20",
+      "setId": "swsh3",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-198",
+    "englishName": "Coalossal",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "198",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/198.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/198_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-198",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:198:english:swsh3-198",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-198",
+      "setId": "swsh3",
+      "collectorNumber": "198",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-198",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-23",
+    "englishName": "Combusken",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "23",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/23.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-23",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:23:english:swsh3-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-23",
+      "setId": "swsh3",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-132",
+    "englishName": "Copperajah",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "132",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/132.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/132_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-132",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:132:english:swsh3-132",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-132",
+      "setId": "swsh3",
+      "collectorNumber": "132",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-132",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-156",
+    "englishName": "Corviknight",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "156",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/156.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/156_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-156",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:156:english:swsh3-156",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-156",
+      "setId": "swsh3",
+      "collectorNumber": "156",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-156",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-155",
+    "englishName": "Corvisquire",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "155",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/155.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/155_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-155",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:155:english:swsh3-155",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-155",
+      "setId": "swsh3",
+      "collectorNumber": "155",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-155",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-104",
+    "englishName": "Crobat V",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "104",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/104.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/104_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-104",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:104:english:swsh3-104",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-104",
+      "setId": "swsh3",
+      "collectorNumber": "104",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-104",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-182",
+    "englishName": "Crobat V",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "182",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/182.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/182_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-182",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:182:english:swsh3-182",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-182",
+      "setId": "swsh3",
+      "collectorNumber": "182",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-182",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-48",
+    "englishName": "Cubchoo",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "48",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/48.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-48",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:48:english:swsh3-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-48",
+      "setId": "swsh3",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-131",
+    "englishName": "Cufant",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "131",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/131.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/131_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-131",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:131:english:swsh3-131",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-131",
+      "setId": "swsh3",
+      "collectorNumber": "131",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-131",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-105",
+    "englishName": "Darkrai",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "105",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/105.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/105_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-105",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:105:english:swsh3-105",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-105",
+      "setId": "swsh3",
+      "collectorNumber": "105",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-105",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-12",
+    "englishName": "Dartrix",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "12",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/12.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-12",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:12:english:swsh3-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-12",
+      "setId": "swsh3",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-13",
+    "englishName": "Decidueye",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "13",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/13.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-13",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:13:english:swsh3-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-13",
+      "setId": "swsh3",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-78",
+    "englishName": "Dedenne",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "78",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/78.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-78",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:78:english:swsh3-78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-78",
+      "setId": "swsh3",
+      "collectorNumber": "78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-108",
+    "englishName": "Deino",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "108",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/108.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/108_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-108",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:108:english:swsh3-108",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-108",
+      "setId": "swsh3",
+      "collectorNumber": "108",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-108",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-142",
+    "englishName": "Delcatty",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "142",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/142.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/142_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-142",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:142:english:swsh3-142",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-142",
+      "setId": "swsh3",
+      "collectorNumber": "142",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-142",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-96",
+    "englishName": "Diggersby",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "96",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/96.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/96_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-96",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:96:english:swsh3-96",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-96",
+      "setId": "swsh3",
+      "collectorNumber": "96",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-96",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-84",
+    "englishName": "Diglett",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "84",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/84.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/84_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-84",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:84:english:swsh3-84",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-84",
+      "setId": "swsh3",
+      "collectorNumber": "84",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-84",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-53",
+    "englishName": "Dracovish",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "53",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/53.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-53",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:53:english:swsh3-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-53",
+      "setId": "swsh3",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-65",
+    "englishName": "Dracozolt",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "65",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/65.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-65",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:65:english:swsh3-65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-65",
+      "setId": "swsh3",
+      "collectorNumber": "65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-148",
+    "englishName": "Ducklett",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "148",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/148.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/148_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-148",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:148:english:swsh3-148",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-148",
+      "setId": "swsh3",
+      "collectorNumber": "148",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-148",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-85",
+    "englishName": "Dugtrio",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "85",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/85.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/85_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-85",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:85:english:swsh3-85",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-85",
+      "setId": "swsh3",
+      "collectorNumber": "85",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-85",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-137",
+    "englishName": "Dunsparce",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "137",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/137.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/137_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-137",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:137:english:swsh3-137",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-137",
+      "setId": "swsh3",
+      "collectorNumber": "137",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-137",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-58",
+    "englishName": "Electrike",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "58",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/58.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-58",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:58:english:swsh3-58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-58",
+      "setId": "swsh3",
+      "collectorNumber": "58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-124",
+    "englishName": "Escavalier",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "124",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/124.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/124_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-124",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:124:english:swsh3-124",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-124",
+      "setId": "swsh3",
+      "collectorNumber": "124",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-124",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-116",
+    "englishName": "Eternatus V",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "116",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/116.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/116_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-116",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:116:english:swsh3-116",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-116",
+      "setId": "swsh3",
+      "collectorNumber": "116",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-116",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-117",
+    "englishName": "Eternatus VMAX",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "117",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/117.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/117_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-117",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:117:english:swsh3-117",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-117",
+      "setId": "swsh3",
+      "collectorNumber": "117",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-117",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-192",
+    "englishName": "Eternatus VMAX",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "192",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/192.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/192_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-192",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:192:english:swsh3-192",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-192",
+      "setId": "swsh3",
+      "collectorNumber": "192",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-192",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-161",
+    "englishName": "Familiar Bell",
+    "category": "Trainer",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "161",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/161.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/161_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-161",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:161:english:swsh3-161",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-161",
+      "setId": "swsh3",
+      "collectorNumber": "161",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-161",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-38",
+    "englishName": "Feebas",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "38",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/38.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-38",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:38:english:swsh3-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-38",
+      "setId": "swsh3",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-56",
+    "englishName": "Flaaffy",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "56",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/56.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-56",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:56:english:swsh3-56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-56",
+      "setId": "swsh3",
+      "collectorNumber": "56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-31",
+    "englishName": "Fletchinder",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "31",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/31.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-31",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:31:english:swsh3-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-31",
+      "setId": "swsh3",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-151",
+    "englishName": "Fletchling",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "151",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/151.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/151_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-151",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:151:english:swsh3-151",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-151",
+      "setId": "swsh3",
+      "collectorNumber": "151",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-151",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-91",
+    "englishName": "Flygon",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "91",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/91.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/91_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-91",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:91:english:swsh3-91",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-91",
+      "setId": "swsh3",
+      "collectorNumber": "91",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-91",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-136",
+    "englishName": "Furret",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "136",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/136.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/136_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-136",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:136:english:swsh3-136",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-136",
+      "setId": "swsh3",
+      "collectorNumber": "136",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-136",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-28",
+    "englishName": "Galarian Darmanitan",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "28",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/28.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-28",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:28:english:swsh3-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-28",
+      "setId": "swsh3",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-44",
+    "englishName": "Galarian Darmanitan",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "44",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/44.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-44",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:44:english:swsh3-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-44",
+      "setId": "swsh3",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-43",
+    "englishName": "Galarian Darumaka",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "43",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/43.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-43",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:43:english:swsh3-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-43",
+      "setId": "swsh3",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-35",
+    "englishName": "Galarian Mr. Mime",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "35",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/35.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-35",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:35:english:swsh3-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-35",
+      "setId": "swsh3",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-36",
+    "englishName": "Galarian Mr. Rime",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "36",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/36.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-36",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:36:english:swsh3-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-36",
+      "setId": "swsh3",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-98",
+    "englishName": "Galarian Sirfetch'd",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "98",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/98.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/98_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-98",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:98:english:swsh3-98",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-98",
+      "setId": "swsh3",
+      "collectorNumber": "98",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-98",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-99",
+    "englishName": "Galarian Slowbro V",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "99",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/99.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/99_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-99",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:99:english:swsh3-99",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-99",
+      "setId": "swsh3",
+      "collectorNumber": "99",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-99",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-128",
+    "englishName": "Galarian Stunfisk V",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "128",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/128.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/128_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-128",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:128:english:swsh3-128",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-128",
+      "setId": "swsh3",
+      "collectorNumber": "128",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-128",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-184",
+    "englishName": "Galarian Stunfisk V",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "184",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/184.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/184_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-184",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:184:english:swsh3-184",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-184",
+      "setId": "swsh3",
+      "collectorNumber": "184",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-184",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-162",
+    "englishName": "Glimwood Tangle",
+    "category": "Trainer",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "162",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/162.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/162_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-162",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:162:english:swsh3-162",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-162",
+      "setId": "swsh3",
+      "collectorNumber": "162",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-162",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-76",
+    "englishName": "Golett",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "76",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/76.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-76",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:76:english:swsh3-76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-76",
+      "setId": "swsh3",
+      "collectorNumber": "76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-18",
+    "englishName": "Golisopod",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "18",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/18.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-18",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:18:english:swsh3-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-18",
+      "setId": "swsh3",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-77",
+    "englishName": "Golurk",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "77",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/77.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-77",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:77:english:swsh3-77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-77",
+      "setId": "swsh3",
+      "collectorNumber": "77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-73",
+    "englishName": "Gothita",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "73",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/73.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-73",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:73:english:swsh3-73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-73",
+      "setId": "swsh3",
+      "collectorNumber": "73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-75",
+    "englishName": "Gothitelle",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "75",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/75.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-75",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:75:english:swsh3-75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-75",
+      "setId": "swsh3",
+      "collectorNumber": "75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-74",
+    "englishName": "Gothorita",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "74",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/74.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-74",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:74:english:swsh3-74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-74",
+      "setId": "swsh3",
+      "collectorNumber": "74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-71",
+    "englishName": "Granbull",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "71",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/71.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-71",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:71:english:swsh3-71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-71",
+      "setId": "swsh3",
+      "collectorNumber": "71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-153",
+    "englishName": "Greedent",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "153",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/153.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/153_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-153",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:153:english:swsh3-153",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-153",
+      "setId": "swsh3",
+      "collectorNumber": "153",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-153",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-100",
+    "englishName": "Grimer",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "100",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/100.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/100_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-100",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:100:english:swsh3-100",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-100",
+      "setId": "swsh3",
+      "collectorNumber": "100",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-100",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-114",
+    "englishName": "Grimmsnarl V",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "114",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/114.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/114_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-114",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:114:english:swsh3-114",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-114",
+      "setId": "swsh3",
+      "collectorNumber": "114",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-114",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-115",
+    "englishName": "Grimmsnarl VMAX",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "115",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/115.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/115_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-115",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:115:english:swsh3-115",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-115",
+      "setId": "swsh3",
+      "collectorNumber": "115",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-115",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-174",
+    "englishName": "Heat Fire Energy",
+    "category": "Energy",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "174",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/174.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/174_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-174",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:174:english:swsh3-174",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-174",
+      "setId": "swsh3",
+      "collectorNumber": "174",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-174",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-25",
+    "englishName": "Heatran",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "25",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/25.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-25",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:25:english:swsh3-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-25",
+      "setId": "swsh3",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-175",
+    "englishName": "Hiding Darkness Energy",
+    "category": "Energy",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "175",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/175.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/175_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-175",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:175:english:swsh3-175",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-175",
+      "setId": "swsh3",
+      "collectorNumber": "175",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-175",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-93",
+    "englishName": "Hippopotas",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "93",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/93.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/93_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-93",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:93:english:swsh3-93",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-93",
+      "setId": "swsh3",
+      "collectorNumber": "93",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-93",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-94",
+    "englishName": "Hippowdon",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "94",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/94.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/94_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-94",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:94:english:swsh3-94",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-94",
+      "setId": "swsh3",
+      "collectorNumber": "94",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-94",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-111",
+    "englishName": "Hoopa",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "111",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/111.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/111_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-111",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:111:english:swsh3-111",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-111",
+      "setId": "swsh3",
+      "collectorNumber": "111",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-111",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-178",
+    "englishName": "Houndoom V",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "178",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/178.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/178_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-178",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:178:english:swsh3-178",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-178",
+      "setId": "swsh3",
+      "collectorNumber": "178",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-178",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-21",
+    "englishName": "Houndoom V",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "21",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/21.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-21",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:21:english:swsh3-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-21",
+      "setId": "swsh3",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-110",
+    "englishName": "Hydreigon",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "110",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/110.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/110_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-110",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:110:english:swsh3-110",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-110",
+      "setId": "swsh3",
+      "collectorNumber": "110",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-110",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-67",
+    "englishName": "Jigglypuff",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "67",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/67.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-67",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:67:english:swsh3-67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-67",
+      "setId": "swsh3",
+      "collectorNumber": "67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-163",
+    "englishName": "Kabu",
+    "category": "Trainer",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "163",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/163.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/163_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-163",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:163:english:swsh3-163",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-163",
+      "setId": "swsh3",
+      "collectorNumber": "163",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-163",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-186",
+    "englishName": "Kabu",
+    "category": "Trainer",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "186",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/186.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/186_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-186",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:186:english:swsh3-186",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-186",
+      "setId": "swsh3",
+      "collectorNumber": "186",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-186",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-133",
+    "englishName": "Kangaskhan",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "133",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/133.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/133_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-133",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:133:english:swsh3-133",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-133",
+      "setId": "swsh3",
+      "collectorNumber": "133",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-133",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-8",
+    "englishName": "Karrablast",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "8",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/8.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-8",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:8:english:swsh3-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-8",
+      "setId": "swsh3",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-126",
+    "englishName": "Klang",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "126",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/126.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/126_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-126",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:126:english:swsh3-126",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-126",
+      "setId": "swsh3",
+      "collectorNumber": "126",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-126",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-125",
+    "englishName": "Klink",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "125",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/125.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/125_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-125",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:125:english:swsh3-125",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-125",
+      "setId": "swsh3",
+      "collectorNumber": "125",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-125",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-127",
+    "englishName": "Klinklang",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "127",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/127.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/127_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-127",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:127:english:swsh3-127",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-127",
+      "setId": "swsh3",
+      "collectorNumber": "127",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-127",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-122",
+    "englishName": "Lairon",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "122",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/122.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/122_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-122",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:122:english:swsh3-122",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-122",
+      "setId": "swsh3",
+      "collectorNumber": "122",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-122",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-29",
+    "englishName": "Larvesta",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "29",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/29.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-29",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:29:english:swsh3-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-29",
+      "setId": "swsh3",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-86",
+    "englishName": "Larvitar",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "86",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/86.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/86_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-86",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:86:english:swsh3-86",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-86",
+      "setId": "swsh3",
+      "collectorNumber": "86",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-86",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-107",
+    "englishName": "Liepard",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "107",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/107.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/107_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-107",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:107:english:swsh3-107",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-107",
+      "setId": "swsh3",
+      "collectorNumber": "107",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-107",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-140",
+    "englishName": "Lugia",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "140",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/140.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/140_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-140",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:140:english:swsh3-140",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-140",
+      "setId": "swsh3",
+      "collectorNumber": "140",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-140",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-72",
+    "englishName": "Lunatone",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "72",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/72.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-72",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:72:english:swsh3-72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-72",
+      "setId": "swsh3",
+      "collectorNumber": "72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-59",
+    "englishName": "Manectric",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "59",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/59.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-59",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:59:english:swsh3-59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-59",
+      "setId": "swsh3",
+      "collectorNumber": "59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-51",
+    "englishName": "Mareanie",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "51",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/51.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-51",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:51:english:swsh3-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-51",
+      "setId": "swsh3",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-55",
+    "englishName": "Mareep",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "55",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/55.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-55",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:55:english:swsh3-55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-55",
+      "setId": "swsh3",
+      "collectorNumber": "55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-130",
+    "englishName": "Melmetal",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "130",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/130.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/130_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-130",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:130:english:swsh3-130",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-130",
+      "setId": "swsh3",
+      "collectorNumber": "130",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-130",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-129",
+    "englishName": "Meltan",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "129",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/129.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/129_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-129",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:129:english:swsh3-129",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-129",
+      "setId": "swsh3",
+      "collectorNumber": "129",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-129",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-69",
+    "englishName": "Mew V",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "69",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/69.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-69",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:69:english:swsh3-69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-69",
+      "setId": "swsh3",
+      "collectorNumber": "69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-39",
+    "englishName": "Milotic",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "39",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/39.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-39",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:39:english:swsh3-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-39",
+      "setId": "swsh3",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-81",
+    "englishName": "Mimikyu",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "81",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/81.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/81_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-81",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:81:english:swsh3-81",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-81",
+      "setId": "swsh3",
+      "collectorNumber": "81",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-81",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-79",
+    "englishName": "Morelull",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "79",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/79.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/79_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-79",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:79:english:swsh3-79",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-79",
+      "setId": "swsh3",
+      "collectorNumber": "79",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-79",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-101",
+    "englishName": "Muk",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "101",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/101.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/101_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-101",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:101:english:swsh3-101",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-101",
+      "setId": "swsh3",
+      "collectorNumber": "101",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-101",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-112",
+    "englishName": "Nickit",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "112",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/112.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/112_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-112",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:112:english:swsh3-112",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-112",
+      "setId": "swsh3",
+      "collectorNumber": "112",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-112",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-164",
+    "englishName": "Old PC",
+    "category": "Trainer",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "164",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/164.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/164_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-164",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:164:english:swsh3-164",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-164",
+      "setId": "swsh3",
+      "collectorNumber": "164",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-164",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-41",
+    "englishName": "Panpour",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "41",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/41.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-41",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:41:english:swsh3-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-41",
+      "setId": "swsh3",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-6",
+    "englishName": "Pansage",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "6",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/6.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-6",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:6:english:swsh3-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-6",
+      "setId": "swsh3",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-26",
+    "englishName": "Pansear",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "26",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/26.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-26",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:26:english:swsh3-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-26",
+      "setId": "swsh3",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-3",
+    "englishName": "Paras",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "3",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/3.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-3",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:3:english:swsh3-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-3",
+      "setId": "swsh3",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-4",
+    "englishName": "Parasect",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "4",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/4.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-4",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:4:english:swsh3-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-4",
+      "setId": "swsh3",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-97",
+    "englishName": "Passimian",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "97",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/97.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/97_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-97",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:97:english:swsh3-97",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-97",
+      "setId": "swsh3",
+      "collectorNumber": "97",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-97",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-165",
+    "englishName": "Piers",
+    "category": "Trainer",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "165",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/165.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/165_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-165",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:165:english:swsh3-165",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-165",
+      "setId": "swsh3",
+      "collectorNumber": "165",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-165",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-187",
+    "englishName": "Piers",
+    "category": "Trainer",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "187",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/187.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/187_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-187",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:187:english:swsh3-187",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-187",
+      "setId": "swsh3",
+      "collectorNumber": "187",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-187",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-64",
+    "englishName": "Pincurchin",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "64",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/64.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-64",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:64:english:swsh3-64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-64",
+      "setId": "swsh3",
+      "collectorNumber": "64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-166",
+    "englishName": "Pokémon Breeder's Nurturing",
+    "category": "Trainer",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "166",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/166.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/166_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-166",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:166:english:swsh3-166",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-166",
+      "setId": "swsh3",
+      "collectorNumber": "166",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-166",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-188",
+    "englishName": "Pokémon Breeder's Nurturing",
+    "category": "Trainer",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "188",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/188.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/188_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-188",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:188:english:swsh3-188",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-188",
+      "setId": "swsh3",
+      "collectorNumber": "188",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-188",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-195",
+    "englishName": "Pokémon Breeder's Nurturing",
+    "category": "Trainer",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "195",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/195.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/195_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-195",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:195:english:swsh3-195",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-195",
+      "setId": "swsh3",
+      "collectorNumber": "195",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-195",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-83",
+    "englishName": "Polteageist",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "83",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/83.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/83_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-83",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:83:english:swsh3-83",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-83",
+      "setId": "swsh3",
+      "collectorNumber": "83",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-83",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-176",
+    "englishName": "Powerful Colorless Energy",
+    "category": "Energy",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "176",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/176.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/176_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-176",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:176:english:swsh3-176",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-176",
+      "setId": "swsh3",
+      "collectorNumber": "176",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-176",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-87",
+    "englishName": "Pupitar",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "87",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/87.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/87_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-87",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:87:english:swsh3-87",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-87",
+      "setId": "swsh3",
+      "collectorNumber": "87",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-87",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-106",
+    "englishName": "Purrloin",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "106",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/106.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/106_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-106",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:106:english:swsh3-106",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-106",
+      "setId": "swsh3",
+      "collectorNumber": "106",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-106",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-167",
+    "englishName": "Rare Fossil",
+    "category": "Trainer",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "167",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/167.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/167_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-167",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:167:english:swsh3-167",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-167",
+      "setId": "swsh3",
+      "collectorNumber": "167",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-167",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-40",
+    "englishName": "Relicanth",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "40",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/40.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-40",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:40:english:swsh3-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-40",
+      "setId": "swsh3",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-181",
+    "englishName": "Rhyperior V",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "181",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/181.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/181_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-181",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:181:english:swsh3-181",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-181",
+      "setId": "swsh3",
+      "collectorNumber": "181",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-181",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-95",
+    "englishName": "Rhyperior V",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "95",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/95.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/95_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-95",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:95:english:swsh3-95",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-95",
+      "setId": "swsh3",
+      "collectorNumber": "95",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-95",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-197",
+    "englishName": "Rillaboom",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "197",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/197.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/197_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-197",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:197:english:swsh3-197",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-197",
+      "setId": "swsh3",
+      "collectorNumber": "197",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-197",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-154",
+    "englishName": "Rookidee",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "154",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/154.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/154_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-154",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:154:english:swsh3-154",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-154",
+      "setId": "swsh3",
+      "collectorNumber": "154",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-154",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-169",
+    "englishName": "Rose Tower",
+    "category": "Trainer",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "169",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/169.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/169_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-169",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:169:english:swsh3-169",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-169",
+      "setId": "swsh3",
+      "collectorNumber": "169",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-169",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-168",
+    "englishName": "Rose",
+    "category": "Trainer",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "168",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/168.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/168_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-168",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:168:english:swsh3-168",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-168",
+      "setId": "swsh3",
+      "collectorNumber": "168",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-168",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-189",
+    "englishName": "Rose",
+    "category": "Trainer",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "189",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/189.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/189_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-189",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:189:english:swsh3-189",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-189",
+      "setId": "swsh3",
+      "collectorNumber": "189",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-189",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-196",
+    "englishName": "Rose",
+    "category": "Trainer",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "196",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/196.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/196_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-196",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:196:english:swsh3-196",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-196",
+      "setId": "swsh3",
+      "collectorNumber": "196",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-196",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-11",
+    "englishName": "Rowlet",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "11",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/11.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-11",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:11:english:swsh3-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-11",
+      "setId": "swsh3",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-143",
+    "englishName": "Salamence V",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "143",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/143.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/143_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-143",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:143:english:swsh3-143",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-143",
+      "setId": "swsh3",
+      "collectorNumber": "143",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-143",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-185",
+    "englishName": "Salamence V",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "185",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/185.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/185_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-185",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:185:english:swsh3-185",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-185",
+      "setId": "swsh3",
+      "collectorNumber": "185",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-185",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-144",
+    "englishName": "Salamence VMAX",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "144",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/144.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/144_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-144",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:144:english:swsh3-144",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-144",
+      "setId": "swsh3",
+      "collectorNumber": "144",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-144",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-194",
+    "englishName": "Salamence VMAX",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "194",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/194.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/194_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-194",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:194:english:swsh3-194",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-194",
+      "setId": "swsh3",
+      "collectorNumber": "194",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-194",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-118",
+    "englishName": "Scizor V",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "118",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/118.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/118_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-118",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:118:english:swsh3-118",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-118",
+      "setId": "swsh3",
+      "collectorNumber": "118",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-118",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-183",
+    "englishName": "Scizor V",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "183",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/183.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/183_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-183",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:183:english:swsh3-183",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-183",
+      "setId": "swsh3",
+      "collectorNumber": "183",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-183",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-119",
+    "englishName": "Scizor VMAX",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "119",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/119.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/119_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-119",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:119:english:swsh3-119",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-119",
+      "setId": "swsh3",
+      "collectorNumber": "119",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-119",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-193",
+    "englishName": "Scizor VMAX",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "193",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/193.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/193_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-193",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:193:english:swsh3-193",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-193",
+      "setId": "swsh3",
+      "collectorNumber": "193",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-193",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-135",
+    "englishName": "Sentret",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "135",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/135.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/135_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-135",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:135:english:swsh3-135",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-135",
+      "setId": "swsh3",
+      "collectorNumber": "135",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-135",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-9",
+    "englishName": "Shelmet",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "9",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/9.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-9",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:9:english:swsh3-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-9",
+      "setId": "swsh3",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-80",
+    "englishName": "Shiinotic",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "80",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/80.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/80_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-80",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:80:english:swsh3-80",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-80",
+      "setId": "swsh3",
+      "collectorNumber": "80",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-80",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-42",
+    "englishName": "Simipour",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "42",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/42.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-42",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:42:english:swsh3-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-42",
+      "setId": "swsh3",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-7",
+    "englishName": "Simisage",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "7",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/7.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-7",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:7:english:swsh3-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-7",
+      "setId": "swsh3",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-27",
+    "englishName": "Simisear",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "27",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/27.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-27",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:27:english:swsh3-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-27",
+      "setId": "swsh3",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-82",
+    "englishName": "Sinistea",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "82",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/82.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/82_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-82",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:82:english:swsh3-82",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-82",
+      "setId": "swsh3",
+      "collectorNumber": "82",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-82",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-120",
+    "englishName": "Skarmory",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "120",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/120.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/120_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-120",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:120:english:swsh3-120",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-120",
+      "setId": "swsh3",
+      "collectorNumber": "120",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-120",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-141",
+    "englishName": "Skitty",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "141",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/141.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/141_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-141",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:141:english:swsh3-141",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-141",
+      "setId": "swsh3",
+      "collectorNumber": "141",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-141",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-152",
+    "englishName": "Skwovet",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "152",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/152.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/152_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-152",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:152:english:swsh3-152",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-152",
+      "setId": "swsh3",
+      "collectorNumber": "152",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-152",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-70",
+    "englishName": "Snubbull",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "70",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/70.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-70",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:70:english:swsh3-70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-70",
+      "setId": "swsh3",
+      "collectorNumber": "70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-92",
+    "englishName": "Solrock",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "92",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/92.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/92_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-92",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:92:english:swsh3-92",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-92",
+      "setId": "swsh3",
+      "collectorNumber": "92",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-92",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-170",
+    "englishName": "Spikemuth",
+    "category": "Trainer",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "170",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/170.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/170_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-170",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:170:english:swsh3-170",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-170",
+      "setId": "swsh3",
+      "collectorNumber": "170",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-170",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-102",
+    "englishName": "Spinarak",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "102",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/102.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/102_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-102",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:102:english:swsh3-102",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-102",
+      "setId": "swsh3",
+      "collectorNumber": "102",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-102",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-147",
+    "englishName": "Staraptor",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "147",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/147.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/147_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-147",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:147:english:swsh3-147",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-147",
+      "setId": "swsh3",
+      "collectorNumber": "147",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-147",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-146",
+    "englishName": "Staravia",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "146",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/146.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/146_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-146",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:146:english:swsh3-146",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-146",
+      "setId": "swsh3",
+      "collectorNumber": "146",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-146",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-145",
+    "englishName": "Starly",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "145",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/145.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/145_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-145",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:145:english:swsh3-145",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-145",
+      "setId": "swsh3",
+      "collectorNumber": "145",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-145",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-15",
+    "englishName": "Steenee",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "15",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/15.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-15",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:15:english:swsh3-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-15",
+      "setId": "swsh3",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-171",
+    "englishName": "Struggle Gloves",
+    "category": "Trainer",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "171",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/171.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/171_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-171",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:171:english:swsh3-171",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-171",
+      "setId": "swsh3",
+      "collectorNumber": "171",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-171",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-37",
+    "englishName": "Suicune",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "37",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/37.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-37",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:37:english:swsh3-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-37",
+      "setId": "swsh3",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-149",
+    "englishName": "Swanna",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "149",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/149.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/149_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-149",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:149:english:swsh3-149",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-149",
+      "setId": "swsh3",
+      "collectorNumber": "149",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-149",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-32",
+    "englishName": "Talonflame",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "32",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/32.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-32",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:32:english:swsh3-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-32",
+      "setId": "swsh3",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-61",
+    "englishName": "Tapu Koko",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "61",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/61.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-61",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:61:english:swsh3-61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-61",
+      "setId": "swsh3",
+      "collectorNumber": "61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-134",
+    "englishName": "Tauros",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "134",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/134.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/134_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-134",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:134:english:swsh3-134",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-134",
+      "setId": "swsh3",
+      "collectorNumber": "134",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-134",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-138",
+    "englishName": "Teddiursa",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "138",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/138.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/138_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-138",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:138:english:swsh3-138",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-138",
+      "setId": "swsh3",
+      "collectorNumber": "138",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-138",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-113",
+    "englishName": "Thievul",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "113",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/113.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/113_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-113",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:113:english:swsh3-113",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-113",
+      "setId": "swsh3",
+      "collectorNumber": "113",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-113",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-22",
+    "englishName": "Torchic",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "22",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/22.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-22",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:22:english:swsh3-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-22",
+      "setId": "swsh3",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-52",
+    "englishName": "Toxapex",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "52",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/52.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-52",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:52:english:swsh3-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-52",
+      "setId": "swsh3",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-62",
+    "englishName": "Toxel",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "62",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/62.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-62",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:62:english:swsh3-62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-62",
+      "setId": "swsh3",
+      "collectorNumber": "62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-63",
+    "englishName": "Toxtricity",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "63",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/63.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-63",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:63:english:swsh3-63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-63",
+      "setId": "swsh3",
+      "collectorNumber": "63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-89",
+    "englishName": "Trapinch",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "89",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/89.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/89_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-89",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:89:english:swsh3-89",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-89",
+      "setId": "swsh3",
+      "collectorNumber": "89",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-89",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-16",
+    "englishName": "Tsareena",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "16",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/16.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-16",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:16:english:swsh3-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-16",
+      "setId": "swsh3",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-172",
+    "englishName": "Turbo Patch",
+    "category": "Trainer",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "172",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/172.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/172_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-172",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:172:english:swsh3-172",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-172",
+      "setId": "swsh3",
+      "collectorNumber": "172",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-172",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-200",
+    "englishName": "Turbo Patch",
+    "category": "Trainer",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "200",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/200.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/200_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-200",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:200:english:swsh3-200",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-200",
+      "setId": "swsh3",
+      "collectorNumber": "200",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-200",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-88",
+    "englishName": "Tyranitar",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "88",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/88.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/88_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-88",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:88:english:swsh3-88",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-88",
+      "setId": "swsh3",
+      "collectorNumber": "88",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-88",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-139",
+    "englishName": "Ursaring",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "139",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/139.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/139_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-139",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:139:english:swsh3-139",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-139",
+      "setId": "swsh3",
+      "collectorNumber": "139",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-139",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-46",
+    "englishName": "Vanillish",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "46",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/46.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-46",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:46:english:swsh3-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-46",
+      "setId": "swsh3",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-45",
+    "englishName": "Vanillite",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "45",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/45.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-45",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:45:english:swsh3-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-45",
+      "setId": "swsh3",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-47",
+    "englishName": "Vanilluxe",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "47",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/47.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-47",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:47:english:swsh3-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-47",
+      "setId": "swsh3",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-90",
+    "englishName": "Vibrava",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "90",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/90.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/90_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-90",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:90:english:swsh3-90",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-90",
+      "setId": "swsh3",
+      "collectorNumber": "90",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-90",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-180",
+    "englishName": "Vikavolt V",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "180",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/180.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/180_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-180",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:180:english:swsh3-180",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-180",
+      "setId": "swsh3",
+      "collectorNumber": "180",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-180",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-60",
+    "englishName": "Vikavolt V",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "60",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/60.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-60",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:60:english:swsh3-60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-60",
+      "setId": "swsh3",
+      "collectorNumber": "60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-30",
+    "englishName": "Volcarona",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "30",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/30.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-30",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:30:english:swsh3-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-30",
+      "setId": "swsh3",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-68",
+    "englishName": "Wigglytuff",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "68",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/68.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-68",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:68:english:swsh3-68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-68",
+      "setId": "swsh3",
+      "collectorNumber": "68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-17",
+    "englishName": "Wimpod",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "17",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/17.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-17",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:17:english:swsh3-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-17",
+      "setId": "swsh3",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-50",
+    "englishName": "Wishiwashi",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "50",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/50.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-50",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:50:english:swsh3-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-50",
+      "setId": "swsh3",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-173",
+    "englishName": "Yell Horn",
+    "category": "Trainer",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "173",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/173.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/173_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-173",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:173:english:swsh3-173",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-173",
+      "setId": "swsh3",
+      "collectorNumber": "173",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-173",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh3-109",
+    "englishName": "Zweilous",
+    "category": "Pokemon",
+    "setCode": "DAA",
+    "setName": "Darkness Ablaze",
+    "cardNumber": "109",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh3/109.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh3/109_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh3-109",
+    "sourceSetId": "swsh3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh3:109:english:swsh3-109",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh3-109",
+      "setId": "swsh3",
+      "collectorNumber": "109",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh3-109",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

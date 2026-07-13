@@ -1,0 +1,147 @@
+[
+  {
+    "id": "fut20-2",
+    "englishName": "Eevee on the Ball",
+    "category": "Pokemon",
+    "setCode": "FUT20",
+    "setName": "Pokémon Futsal Collection",
+    "cardNumber": "2",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/fut20/2.png",
+    "imageLarge": "https://images.pokemontcg.io/fut20/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "fut20-2",
+    "sourceSetId": "fut20",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:fut20:2:english:fut20-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "fut20-2",
+      "setId": "fut20",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "fut20-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "fut20-3",
+    "englishName": "Grookey on the Ball",
+    "category": "Pokemon",
+    "setCode": "FUT20",
+    "setName": "Pokémon Futsal Collection",
+    "cardNumber": "3",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/fut20/3.png",
+    "imageLarge": "https://images.pokemontcg.io/fut20/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "fut20-3",
+    "sourceSetId": "fut20",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:fut20:3:english:fut20-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "fut20-3",
+      "setId": "fut20",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "fut20-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "fut20-1",
+    "englishName": "Pikachu on the Ball",
+    "category": "Pokemon",
+    "setCode": "FUT20",
+    "setName": "Pokémon Futsal Collection",
+    "cardNumber": "1",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/fut20/1.png",
+    "imageLarge": "https://images.pokemontcg.io/fut20/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "fut20-1",
+    "sourceSetId": "fut20",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:fut20:1:english:fut20-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "fut20-1",
+      "setId": "fut20",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "fut20-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "fut20-4",
+    "englishName": "Scorbunny on the Ball",
+    "category": "Pokemon",
+    "setCode": "FUT20",
+    "setName": "Pokémon Futsal Collection",
+    "cardNumber": "4",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/fut20/4.png",
+    "imageLarge": "https://images.pokemontcg.io/fut20/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "fut20-4",
+    "sourceSetId": "fut20",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:fut20:4:english:fut20-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "fut20-4",
+      "setId": "fut20",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "fut20-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "fut20-5",
+    "englishName": "Sobble on the Ball",
+    "category": "Pokemon",
+    "setCode": "FUT20",
+    "setName": "Pokémon Futsal Collection",
+    "cardNumber": "5",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/fut20/5.png",
+    "imageLarge": "https://images.pokemontcg.io/fut20/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "fut20-5",
+    "sourceSetId": "fut20",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:fut20:5:english:fut20-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "fut20-5",
+      "setId": "fut20",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "fut20-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

@@ -1,0 +1,5582 @@
+[
+  {
+    "id": "swsh9-129",
+    "englishName": "Acerola's Premonition",
+    "category": "Trainer",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "129",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/129.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/129_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-129",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:129:english:swsh9-129",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-129",
+      "setId": "swsh9",
+      "collectorNumber": "129",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-129",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-96",
+    "englishName": "Aggron V",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "96",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/96.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/96_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-96",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:96:english:swsh9-96",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-96",
+      "setId": "swsh9",
+      "collectorNumber": "96",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-96",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-97",
+    "englishName": "Aggron VMAX",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "97",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/97.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/97_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-97",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:97:english:swsh9-97",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-97",
+      "setId": "swsh9",
+      "collectorNumber": "97",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-97",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-71",
+    "englishName": "Alcremie",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "71",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/71.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-71",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:71:english:swsh9-71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-71",
+      "setId": "swsh9",
+      "collectorNumber": "71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-122",
+    "englishName": "Arceus V",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "122",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/122.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/122_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-122",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:122:english:swsh9-122",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-122",
+      "setId": "swsh9",
+      "collectorNumber": "122",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-122",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-165",
+    "englishName": "Arceus V",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "165",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/165.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/165_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-165",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:165:english:swsh9-165",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-165",
+      "setId": "swsh9",
+      "collectorNumber": "165",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-165",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-166",
+    "englishName": "Arceus V",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "166",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/166.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/166_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-166",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:166:english:swsh9-166",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-166",
+      "setId": "swsh9",
+      "collectorNumber": "166",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-166",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-123",
+    "englishName": "Arceus VSTAR",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "123",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/123.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/123_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-123",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:123:english:swsh9-123",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-123",
+      "setId": "swsh9",
+      "collectorNumber": "123",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-123",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-176",
+    "englishName": "Arceus VSTAR",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "176",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/176.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/176_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-176",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:176:english:swsh9-176",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-176",
+      "setId": "swsh9",
+      "collectorNumber": "176",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-176",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-184",
+    "englishName": "Arceus VSTAR",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "184",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/184.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/184_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-184",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:184:english:swsh9-184",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-184",
+      "setId": "swsh9",
+      "collectorNumber": "184",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-184",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-110",
+    "englishName": "Axew",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "110",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/110.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/110_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-110",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:110:english:swsh9-110",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-110",
+      "setId": "swsh9",
+      "collectorNumber": "110",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-110",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-58",
+    "englishName": "Baltoy",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "58",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/58.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-58",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:58:english:swsh9-58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-58",
+      "setId": "swsh9",
+      "collectorNumber": "58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-130",
+    "englishName": "Barry",
+    "category": "Trainer",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "130",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/130.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/130_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-130",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:130:english:swsh9-130",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-130",
+      "setId": "swsh9",
+      "collectorNumber": "130",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-130",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-167",
+    "englishName": "Barry",
+    "category": "Trainer",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "167",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/167.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/167_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-167",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:167:english:swsh9-167",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-167",
+      "setId": "swsh9",
+      "collectorNumber": "167",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-167",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-43",
+    "englishName": "Beartic",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "43",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/43.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-43",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:43:english:swsh9-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-43",
+      "setId": "swsh9",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-121",
+    "englishName": "Bibarel",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "121",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/121.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/121_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-121",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:121:english:swsh9-121",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-121",
+      "setId": "swsh9",
+      "collectorNumber": "121",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-121",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-120",
+    "englishName": "Bidoof",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "120",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/120.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/120_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-120",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:120:english:swsh9-120",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-120",
+      "setId": "swsh9",
+      "collectorNumber": "120",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-120",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-131",
+    "englishName": "Blunder Policy",
+    "category": "Trainer",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "131",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/131.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/131_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-131",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:131:english:swsh9-131",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-131",
+      "setId": "swsh9",
+      "collectorNumber": "131",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-131",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-132",
+    "englishName": "Boss's Orders",
+    "category": "Trainer",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "132",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/132.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/132_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-132",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:132:english:swsh9-132",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-132",
+      "setId": "swsh9",
+      "collectorNumber": "132",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-132",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-4",
+    "englishName": "Breloom",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "4",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/4.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-4",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:4:english:swsh9-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-4",
+      "setId": "swsh9",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-38",
+    "englishName": "Buizel",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "38",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/38.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-38",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:38:english:swsh9-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-38",
+      "setId": "swsh9",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-9",
+    "englishName": "Burmy",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "9",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/9.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-9",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:9:english:swsh9-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-9",
+      "setId": "swsh9",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-133",
+    "englishName": "Café Master",
+    "category": "Trainer",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "133",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/133.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/133_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-133",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:133:english:swsh9-133",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-133",
+      "setId": "swsh9",
+      "collectorNumber": "133",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-133",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-116",
+    "englishName": "Castform",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "116",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/116.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/116_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-116",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:116:english:swsh9-116",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-116",
+      "setId": "swsh9",
+      "collectorNumber": "116",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-116",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-153",
+    "englishName": "Charizard V",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "153",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/153.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/153_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-153",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:153:english:swsh9-153",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-153",
+      "setId": "swsh9",
+      "collectorNumber": "153",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-153",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-154",
+    "englishName": "Charizard V",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "154",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/154.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/154_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-154",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:154:english:swsh9-154",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-154",
+      "setId": "swsh9",
+      "collectorNumber": "154",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-154",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-17",
+    "englishName": "Charizard V",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "17",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/17.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-17",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:17:english:swsh9-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-17",
+      "setId": "swsh9",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-174",
+    "englishName": "Charizard VSTAR",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "174",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/174.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/174_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-174",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:174:english:swsh9-174",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-174",
+      "setId": "swsh9",
+      "collectorNumber": "174",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-174",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-18",
+    "englishName": "Charizard VSTAR",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "18",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/18.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-18",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:18:english:swsh9-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-18",
+      "setId": "swsh9",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-134",
+    "englishName": "Cheren's Care",
+    "category": "Trainer",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "134",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/134.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/134_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-134",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:134:english:swsh9-134",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-134",
+      "setId": "swsh9",
+      "collectorNumber": "134",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-134",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-168",
+    "englishName": "Cheren's Care",
+    "category": "Trainer",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "168",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/168.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/168_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-168",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:168:english:swsh9-168",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-168",
+      "setId": "swsh9",
+      "collectorNumber": "168",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-168",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-177",
+    "englishName": "Cheren's Care",
+    "category": "Trainer",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "177",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/177.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/177_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-177",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:177:english:swsh9-177",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-177",
+      "setId": "swsh9",
+      "collectorNumber": "177",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-177",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-12",
+    "englishName": "Cherubi",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "12",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/12.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-12",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:12:english:swsh9-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-12",
+      "setId": "swsh9",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-24",
+    "englishName": "Chimchar",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "24",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/24.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-24",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:24:english:swsh9-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-24",
+      "setId": "swsh9",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-63",
+    "englishName": "Chimecho",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "63",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/63.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-63",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:63:english:swsh9-63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-63",
+      "setId": "swsh9",
+      "collectorNumber": "63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-135",
+    "englishName": "Choice Belt",
+    "category": "Trainer",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "135",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/135.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/135_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-135",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:135:english:swsh9-135",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-135",
+      "setId": "swsh9",
+      "collectorNumber": "135",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-135",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-125",
+    "englishName": "Cinccino",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "125",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/125.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/125_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-125",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:125:english:swsh9-125",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-125",
+      "setId": "swsh9",
+      "collectorNumber": "125",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-125",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-59",
+    "englishName": "Claydol",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "59",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/59.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-59",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:59:english:swsh9-59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-59",
+      "setId": "swsh9",
+      "collectorNumber": "59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-136",
+    "englishName": "Cleansing Gloves",
+    "category": "Trainer",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "136",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/136.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/136_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-136",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:136:english:swsh9-136",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-136",
+      "setId": "swsh9",
+      "collectorNumber": "136",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-136",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-54",
+    "englishName": "Clefable",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "54",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/54.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-54",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:54:english:swsh9-54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-54",
+      "setId": "swsh9",
+      "collectorNumber": "54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-53",
+    "englishName": "Clefairy",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "53",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/53.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-53",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:53:english:swsh9-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-53",
+      "setId": "swsh9",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-137",
+    "englishName": "Collapsed Stadium",
+    "category": "Trainer",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "137",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/137.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/137_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-137",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:137:english:swsh9-137",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-137",
+      "setId": "swsh9",
+      "collectorNumber": "137",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-137",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-32",
+    "englishName": "Corphish",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "32",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/32.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-32",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:32:english:swsh9-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-32",
+      "setId": "swsh9",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-33",
+    "englishName": "Crawdaunt",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "33",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/33.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-33",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:33:english:swsh9-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-33",
+      "setId": "swsh9",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-42",
+    "englishName": "Cubchoo",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "42",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/42.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-42",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:42:english:swsh9-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-42",
+      "setId": "swsh9",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-138",
+    "englishName": "Cynthia's Ambition",
+    "category": "Trainer",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "138",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/138.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/138_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-138",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:138:english:swsh9-138",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-138",
+      "setId": "swsh9",
+      "collectorNumber": "138",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-138",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-169",
+    "englishName": "Cynthia's Ambition",
+    "category": "Trainer",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "169",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/169.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/169_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-169",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:169:english:swsh9-169",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-169",
+      "setId": "swsh9",
+      "collectorNumber": "169",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-169",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-178",
+    "englishName": "Cynthia's Ambition",
+    "category": "Trainer",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "178",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/178.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/178_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-178",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:178:english:swsh9-178",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-178",
+      "setId": "swsh9",
+      "collectorNumber": "178",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-178",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-67",
+    "englishName": "Dedenne",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "67",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/67.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-67",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:67:english:swsh9-67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-67",
+      "setId": "swsh9",
+      "collectorNumber": "67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-151",
+    "englishName": "Double Turbo Energy",
+    "category": "Energy",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "151",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/151.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/151_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-151",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:151:english:swsh9-151",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-151",
+      "setId": "swsh9",
+      "collectorNumber": "151",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-151",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-114",
+    "englishName": "Dracovish V",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "114",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/114.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/114_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-114",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:114:english:swsh9-114",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-114",
+      "setId": "swsh9",
+      "collectorNumber": "114",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-114",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-128",
+    "englishName": "Drampa V",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "128",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/128.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/128_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-128",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:128:english:swsh9-128",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-128",
+      "setId": "swsh9",
+      "collectorNumber": "128",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-128",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-113",
+    "englishName": "Druddigon",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "113",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/113.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/113_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-113",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:113:english:swsh9-113",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-113",
+      "setId": "swsh9",
+      "collectorNumber": "113",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-113",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-61",
+    "englishName": "Dusclops",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "61",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/61.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-61",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:61:english:swsh9-61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-61",
+      "setId": "swsh9",
+      "collectorNumber": "61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-62",
+    "englishName": "Dusknoir",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "62",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/62.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-62",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:62:english:swsh9-62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-62",
+      "setId": "swsh9",
+      "collectorNumber": "62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-60",
+    "englishName": "Duskull",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "60",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/60.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-60",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:60:english:swsh9-60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-60",
+      "setId": "swsh9",
+      "collectorNumber": "60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-44",
+    "englishName": "Eiscue",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "44",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/44.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-44",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:44:english:swsh9-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-44",
+      "setId": "swsh9",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-46",
+    "englishName": "Electabuzz",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "46",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/46.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-46",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:46:english:swsh9-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-46",
+      "setId": "swsh9",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-47",
+    "englishName": "Electivire",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "47",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/47.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-47",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:47:english:swsh9-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-47",
+      "setId": "swsh9",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-37",
+    "englishName": "Empoleon",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "37",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/37.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-37",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:37:english:swsh9-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-37",
+      "setId": "swsh9",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-22",
+    "englishName": "Entei V",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "22",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/22.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-22",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:22:english:swsh9-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-22",
+      "setId": "swsh9",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-101",
+    "englishName": "Escavalier",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "101",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/101.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/101_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-101",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:101:english:swsh9-101",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-101",
+      "setId": "swsh9",
+      "collectorNumber": "101",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-101",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-1",
+    "englishName": "Exeggcute",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "1",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/1.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-1",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:1:english:swsh9-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-1",
+      "setId": "swsh9",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-2",
+    "englishName": "Exeggutor",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "2",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/2.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-2",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:2:english:swsh9-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-2",
+      "setId": "swsh9",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-115",
+    "englishName": "Farfetch'd",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "115",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/115.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/115_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-115",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:115:english:swsh9-115",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-115",
+      "setId": "swsh9",
+      "collectorNumber": "115",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-115",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-39",
+    "englishName": "Floatzel",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "39",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/39.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-39",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:39:english:swsh9-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-39",
+      "setId": "swsh9",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-106",
+    "englishName": "Flygon V",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "106",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/106.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/106_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-106",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:106:english:swsh9-106",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-106",
+      "setId": "swsh9",
+      "collectorNumber": "106",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-106",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-164",
+    "englishName": "Flygon V",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "164",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/164.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/164_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-164",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:164:english:swsh9-164",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-164",
+      "setId": "swsh9",
+      "collectorNumber": "164",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-164",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-76",
+    "englishName": "Flygon",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "76",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/76.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-76",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:76:english:swsh9-76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-76",
+      "setId": "swsh9",
+      "collectorNumber": "76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-111",
+    "englishName": "Fraxure",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "111",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/111.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/111_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-111",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:111:english:swsh9-111",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-111",
+      "setId": "swsh9",
+      "collectorNumber": "111",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-111",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-139",
+    "englishName": "Fresh Water Set",
+    "category": "Trainer",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "139",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/139.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/139_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-139",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:139:english:swsh9-139",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-139",
+      "setId": "swsh9",
+      "collectorNumber": "139",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-139",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-140",
+    "englishName": "Friends in Galar",
+    "category": "Trainer",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "140",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/140.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/140_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-140",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:140:english:swsh9-140",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-140",
+      "setId": "swsh9",
+      "collectorNumber": "140",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-140",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-108",
+    "englishName": "Gabite",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "108",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/108.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/108_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-108",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:108:english:swsh9-108",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-108",
+      "setId": "swsh9",
+      "collectorNumber": "108",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-108",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-181",
+    "englishName": "Galarian Articuno V",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "181",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/181.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/181_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-181",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:181:english:swsh9-181",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-181",
+      "setId": "swsh9",
+      "collectorNumber": "181",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-181",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-183",
+    "englishName": "Galarian Moltres V",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "183",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/183.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/183_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-183",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:183:english:swsh9-183",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-183",
+      "setId": "swsh9",
+      "collectorNumber": "183",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-183",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-182",
+    "englishName": "Galarian Zapdos V",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "182",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/182.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/182_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-182",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:182:english:swsh9-182",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-182",
+      "setId": "swsh9",
+      "collectorNumber": "182",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-182",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-109",
+    "englishName": "Garchomp",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "109",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/109.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/109_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-109",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:109:english:swsh9-109",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-109",
+      "setId": "swsh9",
+      "collectorNumber": "109",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-109",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-107",
+    "englishName": "Gible",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "107",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/107.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/107_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-107",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:107:english:swsh9-107",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-107",
+      "setId": "swsh9",
+      "collectorNumber": "107",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-107",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-141",
+    "englishName": "Gloria",
+    "category": "Trainer",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "141",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/141.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/141_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-141",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:141:english:swsh9-141",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-141",
+      "setId": "swsh9",
+      "collectorNumber": "141",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-141",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-82",
+    "englishName": "Golett",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "82",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/82.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/82_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-82",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:82:english:swsh9-82",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-82",
+      "setId": "swsh9",
+      "collectorNumber": "82",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-82",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-83",
+    "englishName": "Golurk",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "83",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/83.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/83_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-83",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:83:english:swsh9-83",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-83",
+      "setId": "swsh9",
+      "collectorNumber": "83",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-83",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-159",
+    "englishName": "Granbull V",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "159",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/159.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/159_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-159",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:159:english:swsh9-159",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-159",
+      "setId": "swsh9",
+      "collectorNumber": "159",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-159",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-57",
+    "englishName": "Granbull V",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "57",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/57.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-57",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:57:english:swsh9-57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-57",
+      "setId": "swsh9",
+      "collectorNumber": "57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-84",
+    "englishName": "Grimer",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "84",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/84.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/84_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-84",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:84:english:swsh9-84",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-84",
+      "setId": "swsh9",
+      "collectorNumber": "84",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-84",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-94",
+    "englishName": "Grimmsnarl",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "94",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/94.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/94_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-94",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:94:english:swsh9-94",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-94",
+      "setId": "swsh9",
+      "collectorNumber": "94",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-94",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-7",
+    "englishName": "Grotle",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "7",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/7.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-7",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:7:english:swsh9-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-7",
+      "setId": "swsh9",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-127",
+    "englishName": "Hawlucha",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "127",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/127.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/127_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-127",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:127:english:swsh9-127",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-127",
+      "setId": "swsh9",
+      "collectorNumber": "127",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-127",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-112",
+    "englishName": "Haxorus",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "112",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/112.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/112_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-112",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:112:english:swsh9-112",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-112",
+      "setId": "swsh9",
+      "collectorNumber": "112",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-112",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-100",
+    "englishName": "Heatran",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "100",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/100.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/100_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-100",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:100:english:swsh9-100",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-100",
+      "setId": "swsh9",
+      "collectorNumber": "100",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-100",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-72",
+    "englishName": "Hitmontop",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "72",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/72.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-72",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:72:english:swsh9-72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-72",
+      "setId": "swsh9",
+      "collectorNumber": "72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-161",
+    "englishName": "Honchkrow V",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "161",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/161.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/161_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-161",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:161:english:swsh9-161",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-161",
+      "setId": "swsh9",
+      "collectorNumber": "161",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-161",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-162",
+    "englishName": "Honchkrow V",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "162",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/162.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/162_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-162",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:162:english:swsh9-162",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-162",
+      "setId": "swsh9",
+      "collectorNumber": "162",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-162",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-88",
+    "englishName": "Honchkrow V",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "88",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/88.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/88_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-88",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:88:english:swsh9-88",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-88",
+      "setId": "swsh9",
+      "collectorNumber": "88",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-88",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-142",
+    "englishName": "Hunting Gloves",
+    "category": "Trainer",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "142",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/142.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/142_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-142",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:142:english:swsh9-142",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-142",
+      "setId": "swsh9",
+      "collectorNumber": "142",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-142",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-92",
+    "englishName": "Impidimp",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "92",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/92.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/92_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-92",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:92:english:swsh9-92",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-92",
+      "setId": "swsh9",
+      "collectorNumber": "92",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-92",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-26",
+    "englishName": "Infernape",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "26",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/26.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-26",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:26:english:swsh9-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-26",
+      "setId": "swsh9",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-15",
+    "englishName": "Karrablast",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "15",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/15.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-15",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:15:english:swsh9-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-15",
+      "setId": "swsh9",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-143",
+    "englishName": "Kindler",
+    "category": "Trainer",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "143",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/143.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/143_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-143",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:143:english:swsh9-143",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-143",
+      "setId": "swsh9",
+      "collectorNumber": "143",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-143",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-170",
+    "englishName": "Kindler",
+    "category": "Trainer",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "170",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/170.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/170_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-170",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:170:english:swsh9-170",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-170",
+      "setId": "swsh9",
+      "collectorNumber": "170",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-170",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-179",
+    "englishName": "Kindler",
+    "category": "Trainer",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "179",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/179.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/179_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-179",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:179:english:swsh9-179",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-179",
+      "setId": "swsh9",
+      "collectorNumber": "179",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-179",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-28",
+    "englishName": "Kingler V",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "28",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/28.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-28",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:28:english:swsh9-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-28",
+      "setId": "swsh9",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-29",
+    "englishName": "Kingler VMAX",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "29",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/29.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-29",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:29:english:swsh9-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-29",
+      "setId": "swsh9",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-103",
+    "englishName": "Klang",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "103",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/103.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/103_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-103",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:103:english:swsh9-103",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-103",
+      "setId": "swsh9",
+      "collectorNumber": "103",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-103",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-102",
+    "englishName": "Klink",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "102",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/102.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/102_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-102",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:102:english:swsh9-102",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-102",
+      "setId": "swsh9",
+      "collectorNumber": "102",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-102",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-104",
+    "englishName": "Klinklang",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "104",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/104.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/104_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-104",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:104:english:swsh9-104",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-104",
+      "setId": "swsh9",
+      "collectorNumber": "104",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-104",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-31",
+    "englishName": "Lapras",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "31",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/31.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-31",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:31:english:swsh9-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-31",
+      "setId": "swsh9",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-91",
+    "englishName": "Liepard",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "91",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/91.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/91_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-91",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:91:english:swsh9-91",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-91",
+      "setId": "swsh9",
+      "collectorNumber": "91",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-91",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-79",
+    "englishName": "Lucario",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "79",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/79.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/79_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-79",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:79:english:swsh9-79",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-79",
+      "setId": "swsh9",
+      "collectorNumber": "79",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-79",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-155",
+    "englishName": "Lumineon V",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "155",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/155.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/155_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-155",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:155:english:swsh9-155",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-155",
+      "setId": "swsh9",
+      "collectorNumber": "155",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-155",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-156",
+    "englishName": "Lumineon V",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "156",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/156.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/156_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-156",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:156:english:swsh9-156",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-156",
+      "setId": "swsh9",
+      "collectorNumber": "156",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-156",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-40",
+    "englishName": "Lumineon V",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "40",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/40.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-40",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:40:english:swsh9-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-40",
+      "setId": "swsh9",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-50",
+    "englishName": "Luxio",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "50",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/50.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-50",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:50:english:swsh9-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-50",
+      "setId": "swsh9",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-51",
+    "englishName": "Luxray",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "51",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/51.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-51",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:51:english:swsh9-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-51",
+      "setId": "swsh9",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-144",
+    "englishName": "Magma Basin",
+    "category": "Trainer",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "144",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/144.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/144_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-144",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:144:english:swsh9-144",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-144",
+      "setId": "swsh9",
+      "collectorNumber": "144",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-144",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-185",
+    "englishName": "Magma Basin",
+    "category": "Trainer",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "185",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/185.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/185_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-185",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:185:english:swsh9-185",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-185",
+      "setId": "swsh9",
+      "collectorNumber": "185",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-185",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-19",
+    "englishName": "Magmar",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "19",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/19.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-19",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:19:english:swsh9-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-19",
+      "setId": "swsh9",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-20",
+    "englishName": "Magmortar",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "20",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/20.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-20",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:20:english:swsh9-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-20",
+      "setId": "swsh9",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-41",
+    "englishName": "Manaphy",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "41",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/41.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-41",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:41:english:swsh9-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-41",
+      "setId": "swsh9",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-145",
+    "englishName": "Marnie's Pride",
+    "category": "Trainer",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "145",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/145.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/145_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-145",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:145:english:swsh9-145",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-145",
+      "setId": "swsh9",
+      "collectorNumber": "145",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-145",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-171",
+    "englishName": "Marnie's Pride",
+    "category": "Trainer",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "171",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/171.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/171_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-171",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:171:english:swsh9-171",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-171",
+      "setId": "swsh9",
+      "collectorNumber": "171",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-171",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-56",
+    "englishName": "Mewtwo",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "56",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/56.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-56",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:56:english:swsh9-56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-56",
+      "setId": "swsh9",
+      "collectorNumber": "56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-70",
+    "englishName": "Milcery",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "70",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/70.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-70",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:70:english:swsh9-70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-70",
+      "setId": "swsh9",
+      "collectorNumber": "70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-68",
+    "englishName": "Mimikyu V",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "68",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/68.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-68",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:68:english:swsh9-68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-68",
+      "setId": "swsh9",
+      "collectorNumber": "68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-69",
+    "englishName": "Mimikyu VMAX",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "69",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/69.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-69",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:69:english:swsh9-69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-69",
+      "setId": "swsh9",
+      "collectorNumber": "69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-124",
+    "englishName": "Minccino",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "124",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/124.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/124_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-124",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:124:english:swsh9-124",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-124",
+      "setId": "swsh9",
+      "collectorNumber": "124",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-124",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-21",
+    "englishName": "Moltres",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "21",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/21.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-21",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:21:english:swsh9-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-21",
+      "setId": "swsh9",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-25",
+    "englishName": "Monferno",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "25",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/25.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-25",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:25:english:swsh9-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-25",
+      "setId": "swsh9",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-93",
+    "englishName": "Morgrem",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "93",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/93.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/93_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-93",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:93:english:swsh9-93",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-93",
+      "setId": "swsh9",
+      "collectorNumber": "93",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-93",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-95",
+    "englishName": "Morpeko V",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "95",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/95.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/95_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-95",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:95:english:swsh9-95",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-95",
+      "setId": "swsh9",
+      "collectorNumber": "95",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-95",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-11",
+    "englishName": "Mothim",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "11",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/11.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-11",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:11:english:swsh9-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-11",
+      "setId": "swsh9",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-85",
+    "englishName": "Muk",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "85",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/85.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/85_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-85",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:85:english:swsh9-85",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-85",
+      "setId": "swsh9",
+      "collectorNumber": "85",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-85",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-73",
+    "englishName": "Nosepass",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "73",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/73.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-73",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:73:english:swsh9-73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-73",
+      "setId": "swsh9",
+      "collectorNumber": "73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-52",
+    "englishName": "Pachirisu",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "52",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/52.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-52",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:52:english:swsh9-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-52",
+      "setId": "swsh9",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-157",
+    "englishName": "Pikachu V",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "157",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/157.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/157_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-157",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:157:english:swsh9-157",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-157",
+      "setId": "swsh9",
+      "collectorNumber": "157",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-157",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-35",
+    "englishName": "Piplup",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "35",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/35.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-35",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:35:english:swsh9-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-35",
+      "setId": "swsh9",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-146",
+    "englishName": "Pot Helmet",
+    "category": "Trainer",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "146",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/146.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/146_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-146",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:146:english:swsh9-146",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-146",
+      "setId": "swsh9",
+      "collectorNumber": "146",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-146",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-36",
+    "englishName": "Prinplup",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "36",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/36.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-36",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:36:english:swsh9-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-36",
+      "setId": "swsh9",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-99",
+    "englishName": "Probopass",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "99",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/99.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/99_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-99",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:99:english:swsh9-99",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-99",
+      "setId": "swsh9",
+      "collectorNumber": "99",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-99",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-147",
+    "englishName": "Professor's Research",
+    "category": "Trainer",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "147",
+    "regulationMark": "D",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/147.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/147_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-147",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:147:english:swsh9-147",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-147",
+      "setId": "swsh9",
+      "collectorNumber": "147",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-147",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-90",
+    "englishName": "Purrloin",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "90",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/90.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/90_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-90",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:90:english:swsh9-90",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-90",
+      "setId": "swsh9",
+      "collectorNumber": "90",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-90",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-158",
+    "englishName": "Raichu V",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "158",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/158.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/158_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-158",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:158:english:swsh9-158",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-158",
+      "setId": "swsh9",
+      "collectorNumber": "158",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-158",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-45",
+    "englishName": "Raichu V",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "45",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/45.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-45",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:45:english:swsh9-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-45",
+      "setId": "swsh9",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-48",
+    "englishName": "Raikou V",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "48",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/48.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-48",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:48:english:swsh9-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-48",
+      "setId": "swsh9",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-78",
+    "englishName": "Riolu",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "78",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/78.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-78",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:78:english:swsh9-78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-78",
+      "setId": "swsh9",
+      "collectorNumber": "78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-148",
+    "englishName": "Roseanne's Backup",
+    "category": "Trainer",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "148",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/148.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/148_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-148",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:148:english:swsh9-148",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-148",
+      "setId": "swsh9",
+      "collectorNumber": "148",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-148",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-172",
+    "englishName": "Roseanne's Backup",
+    "category": "Trainer",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "172",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/172.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/172_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-172",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:172:english:swsh9-172",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-172",
+      "setId": "swsh9",
+      "collectorNumber": "172",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-172",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-180",
+    "englishName": "Roseanne's Backup",
+    "category": "Trainer",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "180",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/180.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/180_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-180",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:180:english:swsh9-180",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-180",
+      "setId": "swsh9",
+      "collectorNumber": "180",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-180",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-81",
+    "englishName": "Sawk",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "81",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/81.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/81_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-81",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:81:english:swsh9-81",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-81",
+      "setId": "swsh9",
+      "collectorNumber": "81",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-81",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-13",
+    "englishName": "Shaymin V",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "13",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/13.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-13",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:13:english:swsh9-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-13",
+      "setId": "swsh9",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-152",
+    "englishName": "Shaymin V",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "152",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/152.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/152_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-152",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:152:english:swsh9-152",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-152",
+      "setId": "swsh9",
+      "collectorNumber": "152",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-152",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-14",
+    "englishName": "Shaymin VSTAR",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "14",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/14.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-14",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:14:english:swsh9-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-14",
+      "setId": "swsh9",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-173",
+    "englishName": "Shaymin VSTAR",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "173",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/173.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/173_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-173",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:173:english:swsh9-173",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-173",
+      "setId": "swsh9",
+      "collectorNumber": "173",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-173",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-49",
+    "englishName": "Shinx",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "49",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/49.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-49",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:49:english:swsh9-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-49",
+      "setId": "swsh9",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-3",
+    "englishName": "Shroomish",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "3",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/3.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-3",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:3:english:swsh9-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-3",
+      "setId": "swsh9",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-66",
+    "englishName": "Sigilyph",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "66",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/66.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-66",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:66:english:swsh9-66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-66",
+      "setId": "swsh9",
+      "collectorNumber": "66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-27",
+    "englishName": "Simisear V",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "27",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/27.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-27",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:27:english:swsh9-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-27",
+      "setId": "swsh9",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-86",
+    "englishName": "Sneasel",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "86",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/86.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/86_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-86",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:86:english:swsh9-86",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-86",
+      "setId": "swsh9",
+      "collectorNumber": "86",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-86",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-34",
+    "englishName": "Snorunt",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "34",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/34.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-34",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:34:english:swsh9-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-34",
+      "setId": "swsh9",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-89",
+    "englishName": "Spiritomb",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "89",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/89.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/89_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-89",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:89:english:swsh9-89",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-89",
+      "setId": "swsh9",
+      "collectorNumber": "89",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-89",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-119",
+    "englishName": "Staraptor",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "119",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/119.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/119_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-119",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:119:english:swsh9-119",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-119",
+      "setId": "swsh9",
+      "collectorNumber": "119",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-119",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-118",
+    "englishName": "Staravia",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "118",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/118.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/118_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-118",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:118:english:swsh9-118",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-118",
+      "setId": "swsh9",
+      "collectorNumber": "118",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-118",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-117",
+    "englishName": "Starly",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "117",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/117.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/117_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-117",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:117:english:swsh9-117",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-117",
+      "setId": "swsh9",
+      "collectorNumber": "117",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-117",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-55",
+    "englishName": "Starmie",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "55",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/55.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-55",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:55:english:swsh9-55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-55",
+      "setId": "swsh9",
+      "collectorNumber": "55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-30",
+    "englishName": "Staryu",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "30",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/30.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-30",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:30:english:swsh9-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-30",
+      "setId": "swsh9",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-149",
+    "englishName": "Team Yell's Cheer",
+    "category": "Trainer",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "149",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/149.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/149_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-149",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:149:english:swsh9-149",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-149",
+      "setId": "swsh9",
+      "collectorNumber": "149",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-149",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-80",
+    "englishName": "Throh",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "80",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/80.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/80_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-80",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:80:english:swsh9-80",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-80",
+      "setId": "swsh9",
+      "collectorNumber": "80",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-80",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-23",
+    "englishName": "Torkoal",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "23",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/23.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-23",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:23:english:swsh9-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-23",
+      "setId": "swsh9",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-126",
+    "englishName": "Tornadus",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "126",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/126.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/126_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-126",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:126:english:swsh9-126",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-126",
+      "setId": "swsh9",
+      "collectorNumber": "126",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-126",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-8",
+    "englishName": "Torterra",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "8",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/8.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-8",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:8:english:swsh9-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-8",
+      "setId": "swsh9",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-74",
+    "englishName": "Trapinch",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "74",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/74.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-74",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:74:english:swsh9-74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-74",
+      "setId": "swsh9",
+      "collectorNumber": "74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-5",
+    "englishName": "Tropius",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "5",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/5.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-5",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:5:english:swsh9-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-5",
+      "setId": "swsh9",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-6",
+    "englishName": "Turtwig",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "6",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/6.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-6",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:6:english:swsh9-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-6",
+      "setId": "swsh9",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-150",
+    "englishName": "Ultra Ball",
+    "category": "Trainer",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "150",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/150.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/150_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-150",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:150:english:swsh9-150",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-150",
+      "setId": "swsh9",
+      "collectorNumber": "150",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-150",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-186",
+    "englishName": "Ultra Ball",
+    "category": "Trainer",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "186",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/186.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/186_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-186",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:186:english:swsh9-186",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-186",
+      "setId": "swsh9",
+      "collectorNumber": "186",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-186",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-75",
+    "englishName": "Vibrava",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "75",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/75.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-75",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:75:english:swsh9-75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-75",
+      "setId": "swsh9",
+      "collectorNumber": "75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-87",
+    "englishName": "Weavile",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "87",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/87.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/87_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-87",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:87:english:swsh9-87",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-87",
+      "setId": "swsh9",
+      "collectorNumber": "87",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-87",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-160",
+    "englishName": "Whimsicott V",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "160",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/160.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/160_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-160",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:160:english:swsh9-160",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-160",
+      "setId": "swsh9",
+      "collectorNumber": "160",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-160",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-64",
+    "englishName": "Whimsicott V",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "64",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/64.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-64",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:64:english:swsh9-64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-64",
+      "setId": "swsh9",
+      "collectorNumber": "64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-175",
+    "englishName": "Whimsicott VSTAR",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "175",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/175.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/175_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-175",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:175:english:swsh9-175",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-175",
+      "setId": "swsh9",
+      "collectorNumber": "175",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-175",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-65",
+    "englishName": "Whimsicott VSTAR",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "65",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/65.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-65",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:65:english:swsh9-65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-65",
+      "setId": "swsh9",
+      "collectorNumber": "65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-10",
+    "englishName": "Wormadam",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "10",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/10.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-10",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:10:english:swsh9-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-10",
+      "setId": "swsh9",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-77",
+    "englishName": "Wormadam",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "77",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/77.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-77",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:77:english:swsh9-77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-77",
+      "setId": "swsh9",
+      "collectorNumber": "77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-98",
+    "englishName": "Wormadam",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "98",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/98.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/98_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-98",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:98:english:swsh9-98",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-98",
+      "setId": "swsh9",
+      "collectorNumber": "98",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-98",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-105",
+    "englishName": "Zamazenta V",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "105",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/105.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/105_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-105",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:105:english:swsh9-105",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-105",
+      "setId": "swsh9",
+      "collectorNumber": "105",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-105",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-163",
+    "englishName": "Zamazenta V",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "163",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/163.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/163_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-163",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:163:english:swsh9-163",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-163",
+      "setId": "swsh9",
+      "collectorNumber": "163",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-163",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh9-16",
+    "englishName": "Zarude V",
+    "category": "Pokemon",
+    "setCode": "BRS",
+    "setName": "Brilliant Stars",
+    "cardNumber": "16",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh9/16.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh9/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh9-16",
+    "sourceSetId": "swsh9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh9:16:english:swsh9-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh9-16",
+      "setId": "swsh9",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh9-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

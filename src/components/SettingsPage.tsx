@@ -1,6 +1,6 @@
 'use client'
 
-import { ChangeEvent, useRef, useState } from 'react'
+import { ChangeEvent, useEffect, useRef, useState } from 'react'
 import Link from 'next/link'
 
 import {
@@ -22,6 +22,11 @@ import {
   SUPPORT_PATH,
 } from '@/constants/app-info'
 import { bucketCount, trackEvent } from '@/utils/analytics'
+import {
+  CardReferenceCacheDiagnostics,
+  CardReferenceManifest,
+  getCardReferenceCacheDiagnostics,
+} from '@/lib/card-reference-cache-update'
 
 type Feedback = {
   tone: 'success' | 'error'
@@ -46,6 +51,37 @@ export default function SettingsPage({
   const [pendingImport, setPendingImport] =
     useState<AppDataSnapshot | null>(null)
   const [clearDialogOpen, setClearDialogOpen] = useState(false)
+  const [cardReferenceDiagnostics, setCardReferenceDiagnostics] =
+    useState<CardReferenceCacheDiagnostics | null>(null)
+
+  useEffect(() => {
+    let cancelled = false
+
+    async function loadDiagnostics() {
+      let bundledManifest: CardReferenceManifest | undefined
+
+      try {
+        const response = await fetch('/card-reference/card-reference-manifest.json')
+        if (response.ok) {
+          bundledManifest = (await response.json()) as CardReferenceManifest
+        }
+      } catch {
+        bundledManifest = undefined
+      }
+
+      if (!cancelled) {
+        setCardReferenceDiagnostics(
+          getCardReferenceCacheDiagnostics(bundledManifest)
+        )
+      }
+    }
+
+    loadDiagnostics()
+
+    return () => {
+      cancelled = true
+    }
+  }, [])
 
   const downloadExport = () => {
     const exportData = createAppDataExport()
@@ -181,6 +217,70 @@ export default function SettingsPage({
         <p className="text-sm leading-6 text-[var(--text-muted)]">
           Top Cut is a tournament tracking and deck analysis tool for Pokémon TCG players.
         </p>
+      </Panel>
+
+      <Panel className="space-y-3">
+        <details className="group">
+          <summary className="cursor-pointer list-none">
+            <SectionHeader
+              title="Card Database"
+              level={3}
+              description="Reference data used by deck image and decklist identification."
+            />
+          </summary>
+          <div className="mt-3 grid gap-2 text-sm text-[var(--text-secondary)] sm:grid-cols-2">
+            <p>
+              Source:{' '}
+              <span className="font-semibold text-[var(--text-primary)]">
+                {cardReferenceDiagnostics?.source ?? 'bundled'}
+              </span>
+            </p>
+            <p>
+              Version:{' '}
+              <span className="font-semibold text-[var(--text-primary)]">
+                {cardReferenceDiagnostics?.active?.cacheVersion?.slice(0, 12) ??
+                  'Unknown'}
+              </span>
+            </p>
+            <p>
+              Cards:{' '}
+              <span className="font-semibold text-[var(--text-primary)]">
+                {cardReferenceDiagnostics?.active?.totalCards?.toLocaleString() ??
+                  'Unknown'}
+              </span>
+            </p>
+            <p>
+              Sets:{' '}
+              <span className="font-semibold text-[var(--text-primary)]">
+                {cardReferenceDiagnostics?.active?.totalSets?.toLocaleString() ??
+                  'Unknown'}
+              </span>
+            </p>
+            <p>
+              Updated:{' '}
+              <span className="font-semibold text-[var(--text-primary)]">
+                {cardReferenceDiagnostics?.active?.generatedAt
+                  ? new Date(
+                      cardReferenceDiagnostics.active.generatedAt
+                    ).toLocaleDateString()
+                  : 'Unknown'}
+              </span>
+            </p>
+            <p>
+              Fallback:{' '}
+              <span className="font-semibold text-[var(--text-primary)]">
+                {cardReferenceDiagnostics?.source === 'downloaded'
+                  ? 'Bundled available'
+                  : 'Using bundled'}
+              </span>
+            </p>
+          </div>
+          {cardReferenceDiagnostics?.lastError && (
+            <p className="mt-3 text-xs leading-5 text-[var(--text-subtle)]">
+              Last update check: {cardReferenceDiagnostics.lastError}
+            </p>
+          )}
+        </details>
       </Panel>
 
       <Panel className="space-y-3">

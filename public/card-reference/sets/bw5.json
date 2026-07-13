@@ -1,0 +1,3114 @@
+[
+  {
+    "id": "bw5-11",
+    "englishName": "Accelgor",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "11",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/11.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-11",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:11:english:bw5-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-11",
+      "setId": "bw5",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-53",
+    "englishName": "Aerodactyl",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "53",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/53.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-53",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:53:english:bw5-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-53",
+      "setId": "bw5",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-110",
+    "englishName": "Archeops",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "110",
+    "legalities": {
+      "expanded": "Banned",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/110.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/110_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-110",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:110:english:bw5-110",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-110",
+      "setId": "bw5",
+      "collectorNumber": "110",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-110",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-72",
+    "englishName": "Bisharp",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "72",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/72.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-72",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:72:english:bw5-72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-72",
+      "setId": "bw5",
+      "collectorNumber": "72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-79",
+    "englishName": "Bisharp",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "79",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/79.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/79_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-79",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:79:english:bw5-79",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-79",
+      "setId": "bw5",
+      "collectorNumber": "79",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-79",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-17",
+    "englishName": "Blaziken",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "17",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/17.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-17",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:17:english:bw5-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-17",
+      "setId": "bw5",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-82",
+    "englishName": "Blissey",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "82",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/82.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/82_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-82",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:82:english:bw5-82",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-82",
+      "setId": "bw5",
+      "collectorNumber": "82",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-82",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-1",
+    "englishName": "Bulbasaur",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "1",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/1.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-1",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:1:english:bw5-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-1",
+      "setId": "bw5",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-5",
+    "englishName": "Carnivine",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "5",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/5.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-5",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:5:english:bw5-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-5",
+      "setId": "bw5",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-80",
+    "englishName": "Chansey",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "80",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/80.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/80_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-80",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:80:english:bw5-80",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-80",
+      "setId": "bw5",
+      "collectorNumber": "80",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-80",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-81",
+    "englishName": "Chansey",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "81",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/81.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/81_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-81",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:81:english:bw5-81",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-81",
+      "setId": "bw5",
+      "collectorNumber": "81",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-81",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-85",
+    "englishName": "Chatot",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "85",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/85.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/85_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-85",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:85:english:bw5-85",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-85",
+      "setId": "bw5",
+      "collectorNumber": "85",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-85",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-91",
+    "englishName": "Cheren",
+    "category": "Trainer",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "91",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/91.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/91_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-91",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:91:english:bw5-91",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-91",
+      "setId": "bw5",
+      "collectorNumber": "91",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-91",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-52",
+    "englishName": "Cofagrigus",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "52",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/52.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-52",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:52:english:bw5-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-52",
+      "setId": "bw5",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-16",
+    "englishName": "Combusken",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "16",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/16.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-16",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:16:english:bw5-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-16",
+      "setId": "bw5",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-8",
+    "englishName": "Crustle",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "8",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/8.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-8",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:8:english:bw5-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-8",
+      "setId": "bw5",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-92",
+    "englishName": "Dark Claw",
+    "category": "Trainer",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "92",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/92.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/92_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-92",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:92:english:bw5-92",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-92",
+      "setId": "bw5",
+      "collectorNumber": "92",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-92",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-93",
+    "englishName": "Dark Patch",
+    "category": "Trainer",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "93",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/93.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/93_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-93",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:93:english:bw5-93",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-93",
+      "setId": "bw5",
+      "collectorNumber": "93",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-93",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-107",
+    "englishName": "Darkrai-EX",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "107",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/107.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/107_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-107",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:107:english:bw5-107",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-107",
+      "setId": "bw5",
+      "collectorNumber": "107",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-107",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-63",
+    "englishName": "Darkrai-EX",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "63",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/63.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-63",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:63:english:bw5-63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-63",
+      "setId": "bw5",
+      "collectorNumber": "63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-55",
+    "englishName": "Drilbur",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "55",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/55.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-55",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:55:english:bw5-55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-55",
+      "setId": "bw5",
+      "collectorNumber": "55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-35",
+    "englishName": "Ducklett",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "35",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/35.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-35",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:35:english:bw5-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-35",
+      "setId": "bw5",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-7",
+    "englishName": "Dwebble",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "7",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/7.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-7",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:7:english:bw5-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-7",
+      "setId": "bw5",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-46",
+    "englishName": "Eelektrik",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "46",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/46.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-46",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:46:english:bw5-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-46",
+      "setId": "bw5",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-47",
+    "englishName": "Eelektross",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "47",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/47.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-47",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:47:english:bw5-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-47",
+      "setId": "bw5",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-83",
+    "englishName": "Eevee",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "83",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/83.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/83_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-83",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:83:english:bw5-83",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-83",
+      "setId": "bw5",
+      "collectorNumber": "83",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-83",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-84",
+    "englishName": "Eevee",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "84",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/84.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/84_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-84",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:84:english:bw5-84",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-84",
+      "setId": "bw5",
+      "collectorNumber": "84",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-84",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-29",
+    "englishName": "Empoleon",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "29",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/29.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-29",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:29:english:bw5-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-29",
+      "setId": "bw5",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-94",
+    "englishName": "Enhanced Hammer",
+    "category": "Trainer",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "94",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/94.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/94_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-94",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:94:english:bw5-94",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-94",
+      "setId": "bw5",
+      "collectorNumber": "94",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-94",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-103",
+    "englishName": "Entei-EX",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "103",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/103.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/103_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-103",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:103:english:bw5-103",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-103",
+      "setId": "bw5",
+      "collectorNumber": "103",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-103",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-13",
+    "englishName": "Entei-EX",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "13",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/13.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-13",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:13:english:bw5-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-13",
+      "setId": "bw5",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-74",
+    "englishName": "Escavalier",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "74",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/74.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-74",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:74:english:bw5-74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-74",
+      "setId": "bw5",
+      "collectorNumber": "74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-48",
+    "englishName": "Espeon",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "48",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/48.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-48",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:48:english:bw5-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-48",
+      "setId": "bw5",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-56",
+    "englishName": "Excadrill",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "56",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/56.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-56",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:56:english:bw5-56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-56",
+      "setId": "bw5",
+      "collectorNumber": "56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-57",
+    "englishName": "Excadrill",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "57",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/57.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-57",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:57:english:bw5-57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-57",
+      "setId": "bw5",
+      "collectorNumber": "57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-12",
+    "englishName": "Flareon",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "12",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/12.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-12",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:12:english:bw5-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-12",
+      "setId": "bw5",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-43",
+    "englishName": "Galvantula",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "43",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/43.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-43",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:43:english:bw5-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-43",
+      "setId": "bw5",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-109",
+    "englishName": "Gardevoir",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "109",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/109.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/109_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-109",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:109:english:bw5-109",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-109",
+      "setId": "bw5",
+      "collectorNumber": "109",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-109",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-30",
+    "englishName": "Glaceon",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "30",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/30.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-30",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:30:english:bw5-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-30",
+      "setId": "bw5",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-106",
+    "englishName": "Groudon-EX",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "106",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/106.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/106_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-106",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:106:english:bw5-106",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-106",
+      "setId": "bw5",
+      "collectorNumber": "106",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-106",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-54",
+    "englishName": "Groudon-EX",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "54",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/54.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-54",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:54:english:bw5-54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-54",
+      "setId": "bw5",
+      "collectorNumber": "54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-59",
+    "englishName": "Gurdurr",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "59",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/59.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-59",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:59:english:bw5-59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-59",
+      "setId": "bw5",
+      "collectorNumber": "59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-89",
+    "englishName": "Haxorus",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "89",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/89.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/89_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-89",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:89:english:bw5-89",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-89",
+      "setId": "bw5",
+      "collectorNumber": "89",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-89",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-19",
+    "englishName": "Heatmor",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "19",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/19.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-19",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:19:english:bw5-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-19",
+      "setId": "bw5",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-87",
+    "englishName": "Herdier",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "87",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/87.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/87_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-87",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:87:english:bw5-87",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-87",
+      "setId": "bw5",
+      "collectorNumber": "87",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-87",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-95",
+    "englishName": "Hooligans Jim & Cas",
+    "category": "Trainer",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "95",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/95.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/95_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-95",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:95:english:bw5-95",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-95",
+      "setId": "bw5",
+      "collectorNumber": "95",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-95",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-2",
+    "englishName": "Ivysaur",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "2",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/2.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-2",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:2:english:bw5-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-2",
+      "setId": "bw5",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-37",
+    "englishName": "Jolteon",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "37",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/37.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-37",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:37:english:bw5-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-37",
+      "setId": "bw5",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-41",
+    "englishName": "Joltik",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "41",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/41.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-41",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:41:english:bw5-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-41",
+      "setId": "bw5",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-42",
+    "englishName": "Joltik",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "42",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/42.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-42",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:42:english:bw5-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-42",
+      "setId": "bw5",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-9",
+    "englishName": "Karrablast",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "9",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/9.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-9",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:9:english:bw5-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-9",
+      "setId": "bw5",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-76",
+    "englishName": "Klang",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "76",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/76.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-76",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:76:english:bw5-76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-76",
+      "setId": "bw5",
+      "collectorNumber": "76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-75",
+    "englishName": "Klink",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "75",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/75.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-75",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:75:english:bw5-75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-75",
+      "setId": "bw5",
+      "collectorNumber": "75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-77",
+    "englishName": "Klinklang",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "77",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/77.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-77",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:77:english:bw5-77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-77",
+      "setId": "bw5",
+      "collectorNumber": "77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-65",
+    "englishName": "Krokorok",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "65",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/65.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-65",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:65:english:bw5-65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-65",
+      "setId": "bw5",
+      "collectorNumber": "65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-66",
+    "englishName": "Krookodile",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "66",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/66.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-66",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:66:english:bw5-66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-66",
+      "setId": "bw5",
+      "collectorNumber": "66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-104",
+    "englishName": "Kyogre-EX",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "104",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/104.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/104_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-104",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:104:english:bw5-104",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-104",
+      "setId": "bw5",
+      "collectorNumber": "104",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-104",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-26",
+    "englishName": "Kyogre-EX",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "26",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/26.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-26",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:26:english:bw5-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-26",
+      "setId": "bw5",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-20",
+    "englishName": "Larvesta",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "20",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/20.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-20",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:20:english:bw5-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-20",
+      "setId": "bw5",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-21",
+    "englishName": "Larvesta",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "21",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/21.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-21",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:21:english:bw5-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-21",
+      "setId": "bw5",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-6",
+    "englishName": "Leafeon",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "6",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/6.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-6",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:6:english:bw5-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-6",
+      "setId": "bw5",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-86",
+    "englishName": "Lillipup",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "86",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/86.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/86_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-86",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:86:english:bw5-86",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-86",
+      "setId": "bw5",
+      "collectorNumber": "86",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-86",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-40",
+    "englishName": "Minun",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "40",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/40.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-40",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:40:english:bw5-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-40",
+      "setId": "bw5",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-96",
+    "englishName": "N",
+    "category": "Trainer",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "96",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/96.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/96_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-96",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:96:english:bw5-96",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-96",
+      "setId": "bw5",
+      "collectorNumber": "96",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-96",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-97",
+    "englishName": "Old Amber Aerodactyl",
+    "category": "Trainer",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "97",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/97.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/97_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-97",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:97:english:bw5-97",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-97",
+      "setId": "bw5",
+      "collectorNumber": "97",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-97",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-32",
+    "englishName": "Palpitoad",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "32",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/32.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-32",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:32:english:bw5-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-32",
+      "setId": "bw5",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-78",
+    "englishName": "Pawniard",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "78",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/78.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-78",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:78:english:bw5-78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-78",
+      "setId": "bw5",
+      "collectorNumber": "78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-27",
+    "englishName": "Piplup",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "27",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/27.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-27",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:27:english:bw5-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-27",
+      "setId": "bw5",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-39",
+    "englishName": "Plusle",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "39",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/39.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-39",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:39:english:bw5-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-39",
+      "setId": "bw5",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-111",
+    "englishName": "Pokémon Catcher",
+    "category": "Trainer",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "111",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/111.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/111_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-111",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:111:english:bw5-111",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-111",
+      "setId": "bw5",
+      "collectorNumber": "111",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-111",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-28",
+    "englishName": "Prinplup",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "28",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/28.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-28",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:28:english:bw5-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-28",
+      "setId": "bw5",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-98",
+    "englishName": "Professor Juniper",
+    "category": "Trainer",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "98",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/98.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/98_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-98",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:98:english:bw5-98",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-98",
+      "setId": "bw5",
+      "collectorNumber": "98",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-98",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-105",
+    "englishName": "Raikou-EX",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "105",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/105.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/105_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-105",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:105:english:bw5-105",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-105",
+      "setId": "bw5",
+      "collectorNumber": "105",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-105",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-38",
+    "englishName": "Raikou-EX",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "38",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/38.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-38",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:38:english:bw5-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-38",
+      "setId": "bw5",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-99",
+    "englishName": "Random Receiver",
+    "category": "Trainer",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "99",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/99.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/99_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-99",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:99:english:bw5-99",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-99",
+      "setId": "bw5",
+      "collectorNumber": "99",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-99",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-100",
+    "englishName": "Rare Candy",
+    "category": "Trainer",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "100",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/100.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/100_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-100",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:100:english:bw5-100",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-100",
+      "setId": "bw5",
+      "collectorNumber": "100",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-100",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-62",
+    "englishName": "Sableye",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "62",
+    "legalities": {
+      "expanded": "Banned",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/62.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-62",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:62:english:bw5-62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-62",
+      "setId": "bw5",
+      "collectorNumber": "62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-64",
+    "englishName": "Sandile",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "64",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/64.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-64",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:64:english:bw5-64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-64",
+      "setId": "bw5",
+      "collectorNumber": "64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-68",
+    "englishName": "Scrafty",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "68",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/68.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-68",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:68:english:bw5-68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-68",
+      "setId": "bw5",
+      "collectorNumber": "68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-67",
+    "englishName": "Scraggy",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "67",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/67.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-67",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:67:english:bw5-67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-67",
+      "setId": "bw5",
+      "collectorNumber": "67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-4",
+    "englishName": "Scyther",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "4",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/4.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-4",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:4:english:bw5-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-4",
+      "setId": "bw5",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-10",
+    "englishName": "Shelmet",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "10",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/10.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-10",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:10:english:bw5-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-10",
+      "setId": "bw5",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-24",
+    "englishName": "Slowbro",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "24",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/24.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-24",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:24:english:bw5-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-24",
+      "setId": "bw5",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-49",
+    "englishName": "Slowking",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "49",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/49.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-49",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:49:english:bw5-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-49",
+      "setId": "bw5",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-23",
+    "englishName": "Slowpoke",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "23",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/23.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-23",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:23:english:bw5-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-23",
+      "setId": "bw5",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-88",
+    "englishName": "Stoutland",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "88",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/88.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/88_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-88",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:88:english:bw5-88",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-88",
+      "setId": "bw5",
+      "collectorNumber": "88",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-88",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-36",
+    "englishName": "Swanna",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "36",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/36.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-36",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:36:english:bw5-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-36",
+      "setId": "bw5",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-58",
+    "englishName": "Timburr",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "58",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/58.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-58",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:58:english:bw5-58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-58",
+      "setId": "bw5",
+      "collectorNumber": "58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-14",
+    "englishName": "Torchic",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "14",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/14.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-14",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:14:english:bw5-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-14",
+      "setId": "bw5",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-15",
+    "englishName": "Torchic",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "15",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/15.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-15",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:15:english:bw5-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-15",
+      "setId": "bw5",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-18",
+    "englishName": "Torkoal",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "18",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/18.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-18",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:18:english:bw5-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-18",
+      "setId": "bw5",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-108",
+    "englishName": "Tornadus-EX",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "108",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/108.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/108_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-108",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:108:english:bw5-108",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-108",
+      "setId": "bw5",
+      "collectorNumber": "108",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-108",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-90",
+    "englishName": "Tornadus-EX",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "90",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/90.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/90_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-90",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:90:english:bw5-90",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-90",
+      "setId": "bw5",
+      "collectorNumber": "90",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-90",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-101",
+    "englishName": "Twist Mountain",
+    "category": "Trainer",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "101",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/101.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/101_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-101",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:101:english:bw5-101",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-101",
+      "setId": "bw5",
+      "collectorNumber": "101",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-101",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-31",
+    "englishName": "Tympole",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "31",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/31.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-31",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:31:english:bw5-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-31",
+      "setId": "bw5",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-44",
+    "englishName": "Tynamo",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "44",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/44.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-44",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:44:english:bw5-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-44",
+      "setId": "bw5",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-45",
+    "englishName": "Tynamo",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "45",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/45.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-45",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:45:english:bw5-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-45",
+      "setId": "bw5",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-102",
+    "englishName": "Ultra Ball",
+    "category": "Trainer",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "102",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/102.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/102_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-102",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:102:english:bw5-102",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-102",
+      "setId": "bw5",
+      "collectorNumber": "102",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-102",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-60",
+    "englishName": "Umbreon",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "60",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/60.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-60",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:60:english:bw5-60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-60",
+      "setId": "bw5",
+      "collectorNumber": "60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-61",
+    "englishName": "Umbreon",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "61",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/61.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-61",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:61:english:bw5-61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-61",
+      "setId": "bw5",
+      "collectorNumber": "61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-34",
+    "englishName": "Vanillish",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "34",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/34.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-34",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:34:english:bw5-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-34",
+      "setId": "bw5",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-33",
+    "englishName": "Vanillite",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "33",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/33.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-33",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:33:english:bw5-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-33",
+      "setId": "bw5",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-25",
+    "englishName": "Vaporeon",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "25",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/25.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-25",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:25:english:bw5-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-25",
+      "setId": "bw5",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-3",
+    "englishName": "Venusaur",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "3",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/3.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-3",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:3:english:bw5-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-3",
+      "setId": "bw5",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-22",
+    "englishName": "Volcarona",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "22",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/22.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-22",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:22:english:bw5-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-22",
+      "setId": "bw5",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-73",
+    "englishName": "Vullaby",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "73",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/73.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-73",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:73:english:bw5-73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-73",
+      "setId": "bw5",
+      "collectorNumber": "73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-50",
+    "englishName": "Woobat",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "50",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/50.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-50",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:50:english:bw5-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-50",
+      "setId": "bw5",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-51",
+    "englishName": "Yamask",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "51",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/51.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-51",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:51:english:bw5-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-51",
+      "setId": "bw5",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-71",
+    "englishName": "Zoroark",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "71",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/71.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-71",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:71:english:bw5-71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-71",
+      "setId": "bw5",
+      "collectorNumber": "71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-69",
+    "englishName": "Zorua",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "69",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/69.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-69",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:69:english:bw5-69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-69",
+      "setId": "bw5",
+      "collectorNumber": "69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw5-70",
+    "englishName": "Zorua",
+    "category": "Pokemon",
+    "setCode": "DEX",
+    "setName": "Dark Explorers",
+    "cardNumber": "70",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw5/70.png",
+    "imageLarge": "https://images.pokemontcg.io/bw5/70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw5-70",
+    "sourceSetId": "bw5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw5:70:english:bw5-70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw5-70",
+      "setId": "bw5",
+      "collectorNumber": "70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw5-70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

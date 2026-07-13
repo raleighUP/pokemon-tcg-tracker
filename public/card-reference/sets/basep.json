@@ -1,0 +1,1434 @@
+[
+  {
+    "id": "basep-24",
+    "englishName": "_____'s Pikachu",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "24",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/24.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-24",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:24:english:basep-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-24",
+      "setId": "basep",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-6",
+    "englishName": "Arcanine",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "6",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/6.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-6",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:6:english:basep-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-6",
+      "setId": "basep",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-22",
+    "englishName": "Articuno",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "22",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/22.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-22",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:22:english:basep-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-22",
+      "setId": "basep",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-48",
+    "englishName": "Articuno",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "48",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/48.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-48",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:48:english:basep-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-48",
+      "setId": "basep",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-50",
+    "englishName": "Celebi",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "50",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/50.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-50",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:50:english:basep-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-50",
+      "setId": "basep",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-31",
+    "englishName": "Cleffa",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "31",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/31.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-31",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:31:english:basep-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-31",
+      "setId": "basep",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-16",
+    "englishName": "Computer Error",
+    "category": "Trainer",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "16",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/16.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-16",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:16:english:basep-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-16",
+      "setId": "basep",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-15",
+    "englishName": "Cool Porygon",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "15",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/15.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-15",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:15:english:basep-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-15",
+      "setId": "basep",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-17",
+    "englishName": "Dark Persian",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "17",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/17.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-17",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:17:english:basep-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-17",
+      "setId": "basep",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-5",
+    "englishName": "Dragonite",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "5",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/5.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-5",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:5:english:basep-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-5",
+      "setId": "basep",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-11",
+    "englishName": "Eevee",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "11",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/11.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-11",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:11:english:basep-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-11",
+      "setId": "basep",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-2",
+    "englishName": "Electabuzz",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "2",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/2.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-2",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:2:english:basep-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-2",
+      "setId": "basep",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-46",
+    "englishName": "Electabuzz",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "46",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/46.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-46",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:46:english:basep-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-46",
+      "setId": "basep",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-34",
+    "englishName": "Entei",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "34",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/34.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-34",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:34:english:basep-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-34",
+      "setId": "basep",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-25",
+    "englishName": "Flying Pikachu",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "25",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/25.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-25",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:25:english:basep-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-25",
+      "setId": "basep",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-37",
+    "englishName": "Hitmontop",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "37",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/37.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-37",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:37:english:basep-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-37",
+      "setId": "basep",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-52",
+    "englishName": "Ho-oh",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "52",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/52.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-52",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:52:english:basep-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-52",
+      "setId": "basep",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-36",
+    "englishName": "Igglybuff",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "36",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/36.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-36",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:36:english:basep-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-36",
+      "setId": "basep",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-7",
+    "englishName": "Jigglypuff",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "7",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/7.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-7",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:7:english:basep-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-7",
+      "setId": "basep",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-41",
+    "englishName": "Lucky Stadium",
+    "category": "Trainer",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "41",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/41.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-41",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:41:english:basep-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-41",
+      "setId": "basep",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-43",
+    "englishName": "Machamp",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "43",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/43.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-43",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:43:english:basep-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-43",
+      "setId": "basep",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-44",
+    "englishName": "Magmar",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "44",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/44.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-44",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:44:english:basep-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-44",
+      "setId": "basep",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-29",
+    "englishName": "Marill",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "29",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/29.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-29",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:29:english:basep-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-29",
+      "setId": "basep",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-10",
+    "englishName": "Meowth",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "10",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/10.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-10",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:10:english:basep-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-10",
+      "setId": "basep",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-47",
+    "englishName": "Mew",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "47",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/47.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-47",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:47:english:basep-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-47",
+      "setId": "basep",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-8",
+    "englishName": "Mew",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "8",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/8.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-8",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:8:english:basep-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-8",
+      "setId": "basep",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-9",
+    "englishName": "Mew",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "9",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/9.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-9",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:9:english:basep-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-9",
+      "setId": "basep",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-12",
+    "englishName": "Mewtwo",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "12",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/12.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-12",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:12:english:basep-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-12",
+      "setId": "basep",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-14",
+    "englishName": "Mewtwo",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "14",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/14.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-14",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:14:english:basep-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-14",
+      "setId": "basep",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-3",
+    "englishName": "Mewtwo",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "3",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/3.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-3",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:3:english:basep-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-3",
+      "setId": "basep",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-39",
+    "englishName": "Misdreavus",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "39",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/39.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-39",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:39:english:basep-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-39",
+      "setId": "basep",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-21",
+    "englishName": "Moltres",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "21",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/21.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-21",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:21:english:basep-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-21",
+      "setId": "basep",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-35",
+    "englishName": "Pichu",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "35",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/35.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-35",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:35:english:basep-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-35",
+      "setId": "basep",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-1",
+    "englishName": "Pikachu",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "1",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/1.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-1",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:1:english:basep-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-1",
+      "setId": "basep",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-26",
+    "englishName": "Pikachu",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "26",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/26.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-26",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:26:english:basep-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-26",
+      "setId": "basep",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-27",
+    "englishName": "Pikachu",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "27",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/27.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-27",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:27:english:basep-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-27",
+      "setId": "basep",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-4",
+    "englishName": "Pikachu",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "4",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/4.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-4",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:4:english:basep-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-4",
+      "setId": "basep",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-40",
+    "englishName": "Pokémon Center",
+    "category": "Trainer",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "40",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/40.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-40",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:40:english:basep-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-40",
+      "setId": "basep",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-42",
+    "englishName": "Pokémon Tower",
+    "category": "Trainer",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "42",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/42.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-42",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:42:english:basep-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-42",
+      "setId": "basep",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-20",
+    "englishName": "Psyduck",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "20",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/20.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-20",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:20:english:basep-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-20",
+      "setId": "basep",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-51",
+    "englishName": "Rapidash",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "51",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/51.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-51",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:51:english:basep-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-51",
+      "setId": "basep",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-19",
+    "englishName": "Sabrina's Abra",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "19",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/19.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-19",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:19:english:basep-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-19",
+      "setId": "basep",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-33",
+    "englishName": "Scizor",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "33",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/33.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-33",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:33:english:basep-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-33",
+      "setId": "basep",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-45",
+    "englishName": "Scyther",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "45",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/45.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-45",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:45:english:basep-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-45",
+      "setId": "basep",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-32",
+    "englishName": "Smeargle",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "32",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/32.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-32",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:32:english:basep-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-32",
+      "setId": "basep",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-49",
+    "englishName": "Snorlax",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "49",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/49.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-49",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:49:english:basep-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-49",
+      "setId": "basep",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-53",
+    "englishName": "Suicune",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "53",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/53.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-53",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:53:english:basep-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-53",
+      "setId": "basep",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-28",
+    "englishName": "Surfing Pikachu",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "28",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/28.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-28",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:28:english:basep-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-28",
+      "setId": "basep",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-18",
+    "englishName": "Team Rocket's Meowth",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "18",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/18.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-18",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:18:english:basep-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-18",
+      "setId": "basep",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-30",
+    "englishName": "Togepi",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "30",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/30.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-30",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:30:english:basep-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-30",
+      "setId": "basep",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-38",
+    "englishName": "Unown [J]",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "38",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/38.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-38",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:38:english:basep-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-38",
+      "setId": "basep",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-13",
+    "englishName": "Venusaur",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "13",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/13.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-13",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:13:english:basep-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-13",
+      "setId": "basep",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "basep-23",
+    "englishName": "Zapdos",
+    "category": "Pokemon",
+    "setCode": "PR",
+    "setName": "Wizards Black Star Promos",
+    "cardNumber": "23",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/basep/23.png",
+    "imageLarge": "https://images.pokemontcg.io/basep/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "basep-23",
+    "sourceSetId": "basep",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:basep:23:english:basep-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "basep-23",
+      "setId": "basep",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "basep-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

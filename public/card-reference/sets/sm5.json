@@ -1,0 +1,4989 @@
+[
+  {
+    "id": "sm5-38",
+    "englishName": "Abomasnow",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "38",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/38.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-38",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:38:english:sm5-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-38",
+      "setId": "sm5",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-78",
+    "englishName": "Alolan Diglett",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "78",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/78.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-78",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:78:english:sm5-78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-78",
+      "setId": "sm5",
+      "collectorNumber": "78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-79",
+    "englishName": "Alolan Dugtrio",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "79",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/79.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/79_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-79",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:79:english:sm5-79",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-79",
+      "setId": "sm5",
+      "collectorNumber": "79",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-79",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-95",
+    "englishName": "Alolan Exeggutor",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "95",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/95.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/95_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-95",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:95:english:sm5-95",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-95",
+      "setId": "sm5",
+      "collectorNumber": "95",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-95",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-28",
+    "englishName": "Alolan Sandshrew",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "28",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/28.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-28",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:28:english:sm5-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-28",
+      "setId": "sm5",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-29",
+    "englishName": "Alolan Sandslash",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "29",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/29.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-29",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:29:english:sm5-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-29",
+      "setId": "sm5",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-30",
+    "englishName": "Alolan Vulpix",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "30",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/30.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-30",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:30:english:sm5-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-30",
+      "setId": "sm5",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-118",
+    "englishName": "Ancient Crystal",
+    "category": "Trainer",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "118",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/118.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/118_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-118",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:118:english:sm5-118",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-118",
+      "setId": "sm5",
+      "collectorNumber": "118",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-118",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-17",
+    "englishName": "Araquanid",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "17",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/17.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-17",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:17:english:sm5-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-17",
+      "setId": "sm5",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-85",
+    "englishName": "Bastiodon",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "85",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/85.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/85_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-85",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:85:english:sm5-85",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-85",
+      "setId": "sm5",
+      "collectorNumber": "85",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-85",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-87",
+    "englishName": "Bronzong",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "87",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/87.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/87_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-87",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:87:english:sm5-87",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-87",
+      "setId": "sm5",
+      "collectorNumber": "87",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-87",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-86",
+    "englishName": "Bronzor",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "86",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/86.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/86_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-86",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:86:english:sm5-86",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-86",
+      "setId": "sm5",
+      "collectorNumber": "86",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-86",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-35",
+    "englishName": "Buizel",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "35",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/35.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-35",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:35:english:sm5-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-35",
+      "setId": "sm5",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-106",
+    "englishName": "Buneary",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "106",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/106.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/106_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-106",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:106:english:sm5-106",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-106",
+      "setId": "sm5",
+      "collectorNumber": "106",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-106",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-12",
+    "englishName": "Carnivine",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "12",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/12.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-12",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:12:english:sm5-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-12",
+      "setId": "sm5",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-144",
+    "englishName": "Celesteela-GX",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "144",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/144.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/144_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-144",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:144:english:sm5-144",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-144",
+      "setId": "sm5",
+      "collectorNumber": "144",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-144",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-162",
+    "englishName": "Celesteela-GX",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "162",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/162.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/162_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-162",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:162:english:sm5-162",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-162",
+      "setId": "sm5",
+      "collectorNumber": "162",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-162",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-11",
+    "englishName": "Cherrim",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "11",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/11.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-11",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:11:english:sm5-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-11",
+      "setId": "sm5",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-10",
+    "englishName": "Cherubi",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "10",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/10.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-10",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:10:english:sm5-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-10",
+      "setId": "sm5",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-20",
+    "englishName": "Chimchar",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "20",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/20.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-20",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:20:english:sm5-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-20",
+      "setId": "sm5",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-21",
+    "englishName": "Chimchar",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "21",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/21.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-21",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:21:english:sm5-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-21",
+      "setId": "sm5",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-61",
+    "englishName": "Cosmoem",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "61",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/61.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-61",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:61:english:sm5-61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-61",
+      "setId": "sm5",
+      "collectorNumber": "61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-60",
+    "englishName": "Cosmog",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "60",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/60.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-60",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:60:english:sm5-60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-60",
+      "setId": "sm5",
+      "collectorNumber": "60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-64",
+    "englishName": "Cranidos",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "64",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/64.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-64",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:64:english:sm5-64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-64",
+      "setId": "sm5",
+      "collectorNumber": "64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-59",
+    "englishName": "Cresselia",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "59",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/59.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-59",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:59:english:sm5-59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-59",
+      "setId": "sm5",
+      "collectorNumber": "59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-56",
+    "englishName": "Croagunk",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "56",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/56.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-56",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:56:english:sm5-56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-56",
+      "setId": "sm5",
+      "collectorNumber": "56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-166",
+    "englishName": "Crushing Hammer",
+    "category": "Trainer",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "166",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/166.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/166_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-166",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:166:english:sm5-166",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-166",
+      "setId": "sm5",
+      "collectorNumber": "166",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-166",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-119",
+    "englishName": "Cynthia",
+    "category": "Trainer",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "119",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/119.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/119_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-119",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:119:english:sm5-119",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-119",
+      "setId": "sm5",
+      "collectorNumber": "119",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-119",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-119a",
+    "englishName": "Cynthia",
+    "category": "Trainer",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "119a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/119a.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/119a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-119a",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:119a:english:sm5-119a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-119a",
+      "setId": "sm5",
+      "collectorNumber": "119a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-119a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-148",
+    "englishName": "Cynthia",
+    "category": "Trainer",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "148",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/148.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/148_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-148",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:148:english:sm5-148",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-148",
+      "setId": "sm5",
+      "collectorNumber": "148",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-148",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-120",
+    "englishName": "Cyrus ◇",
+    "category": "Trainer",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "120",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/120.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/120_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-120",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:120:english:sm5-120",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-120",
+      "setId": "sm5",
+      "collectorNumber": "120",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-120",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-77",
+    "englishName": "Darkrai ◇",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "77",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/77.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-77",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:77:english:sm5-77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-77",
+      "setId": "sm5",
+      "collectorNumber": "77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-143",
+    "englishName": "Dawn Wings Necrozma-GX",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "143",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/143.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/143_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-143",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:143:english:sm5-143",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-143",
+      "setId": "sm5",
+      "collectorNumber": "143",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-143",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-161",
+    "englishName": "Dawn Wings Necrozma-GX",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "161",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/161.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/161_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-161",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:161:english:sm5-161",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-161",
+      "setId": "sm5",
+      "collectorNumber": "161",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-161",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-63",
+    "englishName": "Dawn Wings Necrozma-GX",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "63",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/63.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-63",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:63:english:sm5-63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-63",
+      "setId": "sm5",
+      "collectorNumber": "63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-16",
+    "englishName": "Dewpider",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "16",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/16.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-16",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:16:english:sm5-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-16",
+      "setId": "sm5",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-100",
+    "englishName": "Dialga-GX",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "100",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/100.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/100_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-100",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:100:english:sm5-100",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-100",
+      "setId": "sm5",
+      "collectorNumber": "100",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-100",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-146",
+    "englishName": "Dialga-GX",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "146",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/146.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/146_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-146",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:146:english:sm5-146",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-146",
+      "setId": "sm5",
+      "collectorNumber": "146",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-146",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-164",
+    "englishName": "Dialga-GX",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "164",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/164.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/164_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-164",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:164:english:sm5-164",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-164",
+      "setId": "sm5",
+      "collectorNumber": "164",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-164",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-117",
+    "englishName": "Drampa",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "117",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/117.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/117_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-117",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:117:english:sm5-117",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-117",
+      "setId": "sm5",
+      "collectorNumber": "117",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-117",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-55",
+    "englishName": "Drapion",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "55",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/55.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-55",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:55:english:sm5-55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-55",
+      "setId": "sm5",
+      "collectorNumber": "55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-52",
+    "englishName": "Drifblim",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "52",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/52.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-52",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:52:english:sm5-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-52",
+      "setId": "sm5",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-51",
+    "englishName": "Drifloon",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "51",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/51.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-51",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:51:english:sm5-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-51",
+      "setId": "sm5",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-145",
+    "englishName": "Dusk Mane Necrozma-GX",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "145",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/145.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/145_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-145",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:145:english:sm5-145",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-145",
+      "setId": "sm5",
+      "collectorNumber": "145",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-145",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-163",
+    "englishName": "Dusk Mane Necrozma-GX",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "163",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/163.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/163_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-163",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:163:english:sm5-163",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-163",
+      "setId": "sm5",
+      "collectorNumber": "163",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-163",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-90",
+    "englishName": "Dusk Mane Necrozma-GX",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "90",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/90.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/90_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-90",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:90:english:sm5-90",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-90",
+      "setId": "sm5",
+      "collectorNumber": "90",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-90",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-104",
+    "englishName": "Eevee",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "104",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/104.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/104_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-104",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:104:english:sm5-104",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-104",
+      "setId": "sm5",
+      "collectorNumber": "104",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-104",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-105",
+    "englishName": "Eevee",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "105",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/105.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/105_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-105",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:105:english:sm5-105",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-105",
+      "setId": "sm5",
+      "collectorNumber": "105",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-105",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-43",
+    "englishName": "Electabuzz",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "43",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/43.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-43",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:43:english:sm5-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-43",
+      "setId": "sm5",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-44",
+    "englishName": "Electivire",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "44",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/44.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-44",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:44:english:sm5-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-44",
+      "setId": "sm5",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-121",
+    "englishName": "Electric Memory",
+    "category": "Trainer",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "121",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/121.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/121_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-121",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:121:english:sm5-121",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-121",
+      "setId": "sm5",
+      "collectorNumber": "121",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-121",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-34",
+    "englishName": "Empoleon",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "34",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/34.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-34",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:34:english:sm5-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-34",
+      "setId": "sm5",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-122",
+    "englishName": "Escape Board",
+    "category": "Trainer",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "122",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/122.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/122_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-122",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:122:english:sm5-122",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-122",
+      "setId": "sm5",
+      "collectorNumber": "122",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-122",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-122a",
+    "englishName": "Escape Board",
+    "category": "Trainer",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "122a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/122a.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/122a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-122a",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:122a:english:sm5-122a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-122a",
+      "setId": "sm5",
+      "collectorNumber": "122a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-122a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-167",
+    "englishName": "Escape Board",
+    "category": "Trainer",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "167",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/167.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/167_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-167",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:167:english:sm5-167",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-167",
+      "setId": "sm5",
+      "collectorNumber": "167",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-167",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-1",
+    "englishName": "Exeggcute",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "1",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/1.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-1",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:1:english:sm5-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-1",
+      "setId": "sm5",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-110",
+    "englishName": "Fan Rotom",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "110",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/110.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/110_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-110",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:110:english:sm5-110",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-110",
+      "setId": "sm5",
+      "collectorNumber": "110",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-110",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-123",
+    "englishName": "Fire Memory",
+    "category": "Trainer",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "123",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/123.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/123_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-123",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:123:english:sm5-123",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-123",
+      "setId": "sm5",
+      "collectorNumber": "123",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-123",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-36",
+    "englishName": "Floatzel",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "36",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/36.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-36",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:36:english:sm5-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-36",
+      "setId": "sm5",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-41",
+    "englishName": "Frost Rotom",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "41",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/41.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-41",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:41:english:sm5-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-41",
+      "setId": "sm5",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-98",
+    "englishName": "Gabite",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "98",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/98.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/98_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-98",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:98:english:sm5-98",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-98",
+      "setId": "sm5",
+      "collectorNumber": "98",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-98",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-99",
+    "englishName": "Garchomp",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "99",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/99.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/99_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-99",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:99:english:sm5-99",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-99",
+      "setId": "sm5",
+      "collectorNumber": "99",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-99",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-124",
+    "englishName": "Gardenia",
+    "category": "Trainer",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "124",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/124.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/124_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-124",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:124:english:sm5-124",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-124",
+      "setId": "sm5",
+      "collectorNumber": "124",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-124",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-149",
+    "englishName": "Gardenia",
+    "category": "Trainer",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "149",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/149.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/149_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-149",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:149:english:sm5-149",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-149",
+      "setId": "sm5",
+      "collectorNumber": "149",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-149",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-96",
+    "englishName": "Gible",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "96",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/96.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/96_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-96",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:96:english:sm5-96",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-96",
+      "setId": "sm5",
+      "collectorNumber": "96",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-96",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-97",
+    "englishName": "Gible",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "97",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/97.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/97_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-97",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:97:english:sm5-97",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-97",
+      "setId": "sm5",
+      "collectorNumber": "97",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-97",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-58",
+    "englishName": "Giratina ◇",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "58",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/58.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-58",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:58:english:sm5-58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-58",
+      "setId": "sm5",
+      "collectorNumber": "58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-141",
+    "englishName": "Glaceon-GX",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "141",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/141.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/141_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-141",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:141:english:sm5-141",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-141",
+      "setId": "sm5",
+      "collectorNumber": "141",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-141",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-159",
+    "englishName": "Glaceon-GX",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "159",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/159.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/159_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-159",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:159:english:sm5-159",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-159",
+      "setId": "sm5",
+      "collectorNumber": "159",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-159",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-39",
+    "englishName": "Glaceon-GX",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "39",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/39.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-39",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:39:english:sm5-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-39",
+      "setId": "sm5",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-108",
+    "englishName": "Glameow",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "108",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/108.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/108_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-108",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:108:english:sm5-108",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-108",
+      "setId": "sm5",
+      "collectorNumber": "108",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-108",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-8",
+    "englishName": "Grotle",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "8",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/8.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-8",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:8:english:sm5-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-8",
+      "setId": "sm5",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-113",
+    "englishName": "Gumshoos",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "113",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/113.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/113_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-113",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:113:english:sm5-113",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-113",
+      "setId": "sm5",
+      "collectorNumber": "113",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-113",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-24",
+    "englishName": "Heat Rotom",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "24",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/24.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-24",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:24:english:sm5-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-24",
+      "setId": "sm5",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-88",
+    "englishName": "Heatran",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "88",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/88.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/88_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-88",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:88:english:sm5-88",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-88",
+      "setId": "sm5",
+      "collectorNumber": "88",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-88",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-68",
+    "englishName": "Hippopotas",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "68",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/68.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-68",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:68:english:sm5-68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-68",
+      "setId": "sm5",
+      "collectorNumber": "68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-69",
+    "englishName": "Hippowdon",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "69",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/69.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-69",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:69:english:sm5-69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-69",
+      "setId": "sm5",
+      "collectorNumber": "69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-72",
+    "englishName": "Honchkrow",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "72",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/72.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-72",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:72:english:sm5-72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-72",
+      "setId": "sm5",
+      "collectorNumber": "72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-23",
+    "englishName": "Infernape",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "23",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/23.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-23",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:23:english:sm5-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-23",
+      "setId": "sm5",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-150",
+    "englishName": "Lana",
+    "category": "Trainer",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "150",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/150.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/150_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-150",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:150:english:sm5-150",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-150",
+      "setId": "sm5",
+      "collectorNumber": "150",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-150",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-13",
+    "englishName": "Leafeon-GX",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "13",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/13.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-13",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:13:english:sm5-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-13",
+      "setId": "sm5",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-139",
+    "englishName": "Leafeon-GX",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "139",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/139.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/139_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-139",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:139:english:sm5-139",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-139",
+      "setId": "sm5",
+      "collectorNumber": "139",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-139",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-157",
+    "englishName": "Leafeon-GX",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "157",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/157.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/157_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-157",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:157:english:sm5-157",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-157",
+      "setId": "sm5",
+      "collectorNumber": "157",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-157",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-103",
+    "englishName": "Lickilicky",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "103",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/103.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/103_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-103",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:103:english:sm5-103",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-103",
+      "setId": "sm5",
+      "collectorNumber": "103",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-103",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-102",
+    "englishName": "Lickitung",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "102",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/102.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/102_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-102",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:102:english:sm5-102",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-102",
+      "setId": "sm5",
+      "collectorNumber": "102",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-102",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-125",
+    "englishName": "Lillie",
+    "category": "Trainer",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "125",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/125.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/125_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-125",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:125:english:sm5-125",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-125",
+      "setId": "sm5",
+      "collectorNumber": "125",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-125",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-125a",
+    "englishName": "Lillie",
+    "category": "Trainer",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "125a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/125a.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/125a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-125a",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:125a:english:sm5-125a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-125a",
+      "setId": "sm5",
+      "collectorNumber": "125a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-125a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-151",
+    "englishName": "Lillie",
+    "category": "Trainer",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "151",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/151.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/151_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-151",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:151:english:sm5-151",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-151",
+      "setId": "sm5",
+      "collectorNumber": "151",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-151",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-127",
+    "englishName": "Looker Whistle",
+    "category": "Trainer",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "127",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/127.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/127_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-127",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:127:english:sm5-127",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-127",
+      "setId": "sm5",
+      "collectorNumber": "127",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-127",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-126",
+    "englishName": "Looker",
+    "category": "Trainer",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "126",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/126.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/126_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-126",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:126:english:sm5-126",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-126",
+      "setId": "sm5",
+      "collectorNumber": "126",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-126",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-152",
+    "englishName": "Looker",
+    "category": "Trainer",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "152",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/152.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/152_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-152",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:152:english:sm5-152",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-152",
+      "setId": "sm5",
+      "collectorNumber": "152",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-152",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-107",
+    "englishName": "Lopunny",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "107",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/107.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/107_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-107",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:107:english:sm5-107",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-107",
+      "setId": "sm5",
+      "collectorNumber": "107",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-107",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-67",
+    "englishName": "Lucario",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "67",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/67.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-67",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:67:english:sm5-67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-67",
+      "setId": "sm5",
+      "collectorNumber": "67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-62",
+    "englishName": "Lunala ◇",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "62",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/62.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-62",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:62:english:sm5-62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-62",
+      "setId": "sm5",
+      "collectorNumber": "62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-172",
+    "englishName": "Lunala-GX",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "172",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/172.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/172_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-172",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:172:english:sm5-172",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-172",
+      "setId": "sm5",
+      "collectorNumber": "172",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-172",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-153",
+    "englishName": "Lusamine",
+    "category": "Trainer",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "153",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/153.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/153_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-153",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:153:english:sm5-153",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-153",
+      "setId": "sm5",
+      "collectorNumber": "153",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-153",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-153a",
+    "englishName": "Lusamine",
+    "category": "Trainer",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "153a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/153a.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/153a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-153a",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:153a:english:sm5-153a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-153a",
+      "setId": "sm5",
+      "collectorNumber": "153a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-153a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-47",
+    "englishName": "Luxio",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "47",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/47.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-47",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:47:english:sm5-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-47",
+      "setId": "sm5",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-48",
+    "englishName": "Luxray",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "48",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/48.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-48",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:48:english:sm5-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-48",
+      "setId": "sm5",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-91",
+    "englishName": "Magearna",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "91",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/91.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/91_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-91",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:91:english:sm5-91",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-91",
+      "setId": "sm5",
+      "collectorNumber": "91",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-91",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-18",
+    "englishName": "Magmar",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "18",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/18.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-18",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:18:english:sm5-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-18",
+      "setId": "sm5",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-19",
+    "englishName": "Magmortar",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "19",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/19.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-19",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:19:english:sm5-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-19",
+      "setId": "sm5",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-80",
+    "englishName": "Magnemite",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "80",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/80.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/80_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-80",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:80:english:sm5-80",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-80",
+      "setId": "sm5",
+      "collectorNumber": "80",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-80",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-81",
+    "englishName": "Magnemite",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "81",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/81.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/81_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-81",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:81:english:sm5-81",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-81",
+      "setId": "sm5",
+      "collectorNumber": "81",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-81",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-82",
+    "englishName": "Magneton",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "82",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/82.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/82_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-82",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:82:english:sm5-82",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-82",
+      "setId": "sm5",
+      "collectorNumber": "82",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-82",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-83",
+    "englishName": "Magnezone",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "83",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/83.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/83_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-83",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:83:english:sm5-83",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-83",
+      "setId": "sm5",
+      "collectorNumber": "83",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-83",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-42",
+    "englishName": "Manaphy",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "42",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/42.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-42",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:42:english:sm5-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-42",
+      "setId": "sm5",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-128",
+    "englishName": "Mars",
+    "category": "Trainer",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "128",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/128.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/128_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-128",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:128:english:sm5-128",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-128",
+      "setId": "sm5",
+      "collectorNumber": "128",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-128",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-154",
+    "englishName": "Mars",
+    "category": "Trainer",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "154",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/154.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/154_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-154",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:154:english:sm5-154",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-154",
+      "setId": "sm5",
+      "collectorNumber": "154",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-154",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-129",
+    "englishName": "Missing Clover",
+    "category": "Trainer",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "129",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/129.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/129_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-129",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:129:english:sm5-129",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-129",
+      "setId": "sm5",
+      "collectorNumber": "129",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-129",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-168",
+    "englishName": "Missing Clover",
+    "category": "Trainer",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "168",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/168.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/168_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-168",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:168:english:sm5-168",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-168",
+      "setId": "sm5",
+      "collectorNumber": "168",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-168",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-22",
+    "englishName": "Monferno",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "22",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/22.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-22",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:22:english:sm5-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-22",
+      "setId": "sm5",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-92",
+    "englishName": "Morelull",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "92",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/92.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/92_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-92",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:92:english:sm5-92",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-92",
+      "setId": "sm5",
+      "collectorNumber": "92",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-92",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-14",
+    "englishName": "Mow Rotom",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "14",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/14.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-14",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:14:english:sm5-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-14",
+      "setId": "sm5",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-130",
+    "englishName": "Mt. Coronet",
+    "category": "Trainer",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "130",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/130.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/130_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-130",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:130:english:sm5-130",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-130",
+      "setId": "sm5",
+      "collectorNumber": "130",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-130",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-71",
+    "englishName": "Murkrow",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "71",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/71.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-71",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:71:english:sm5-71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-71",
+      "setId": "sm5",
+      "collectorNumber": "71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-114",
+    "englishName": "Oranguru",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "114",
+    "legalities": {
+      "expanded": "Banned",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/114.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/114_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-114",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:114:english:sm5-114",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-114",
+      "setId": "sm5",
+      "collectorNumber": "114",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-114",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-131",
+    "englishName": "Order Pad",
+    "category": "Trainer",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "131",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/131.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/131_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-131",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:131:english:sm5-131",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-131",
+      "setId": "sm5",
+      "collectorNumber": "131",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-131",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-49",
+    "englishName": "Pachirisu",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "49",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/49.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-49",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:49:english:sm5-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-49",
+      "setId": "sm5",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-132",
+    "englishName": "Pal Pad",
+    "category": "Trainer",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "132",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/132.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/132_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-132",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:132:english:sm5-132",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-132",
+      "setId": "sm5",
+      "collectorNumber": "132",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-132",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-101",
+    "englishName": "Palkia-GX",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "101",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/101.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/101_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-101",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:101:english:sm5-101",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-101",
+      "setId": "sm5",
+      "collectorNumber": "101",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-101",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-147",
+    "englishName": "Palkia-GX",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "147",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/147.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/147_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-147",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:147:english:sm5-147",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-147",
+      "setId": "sm5",
+      "collectorNumber": "147",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-147",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-165",
+    "englishName": "Palkia-GX",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "165",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/165.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/165_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-165",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:165:english:sm5-165",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-165",
+      "setId": "sm5",
+      "collectorNumber": "165",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-165",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-70",
+    "englishName": "Passimian",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "70",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/70.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-70",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:70:english:sm5-70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-70",
+      "setId": "sm5",
+      "collectorNumber": "70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-169",
+    "englishName": "Peeking Red Card",
+    "category": "Trainer",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "169",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/169.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/169_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-169",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:169:english:sm5-169",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-169",
+      "setId": "sm5",
+      "collectorNumber": "169",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-169",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-140",
+    "englishName": "Pheromosa-GX",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "140",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/140.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/140_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-140",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:140:english:sm5-140",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-140",
+      "setId": "sm5",
+      "collectorNumber": "140",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-140",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-158",
+    "englishName": "Pheromosa-GX",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "158",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/158.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/158_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-158",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:158:english:sm5-158",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-158",
+      "setId": "sm5",
+      "collectorNumber": "158",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-158",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-31",
+    "englishName": "Piplup",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "31",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/31.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-31",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:31:english:sm5-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-31",
+      "setId": "sm5",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-32",
+    "englishName": "Piplup",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "32",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/32.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-32",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:32:english:sm5-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-32",
+      "setId": "sm5",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-133",
+    "englishName": "Pokémon Fan Club",
+    "category": "Trainer",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "133",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/133.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/133_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-133",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:133:english:sm5-133",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-133",
+      "setId": "sm5",
+      "collectorNumber": "133",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-133",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-155",
+    "englishName": "Pokémon Fan Club",
+    "category": "Trainer",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "155",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/155.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/155_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-155",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:155:english:sm5-155",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-155",
+      "setId": "sm5",
+      "collectorNumber": "155",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-155",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-33",
+    "englishName": "Prinplup",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "33",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/33.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-33",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:33:english:sm5-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-33",
+      "setId": "sm5",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-109",
+    "englishName": "Purugly",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "109",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/109.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/109_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-109",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:109:english:sm5-109",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-109",
+      "setId": "sm5",
+      "collectorNumber": "109",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-109",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-65",
+    "englishName": "Rampardos",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "65",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/65.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-65",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:65:english:sm5-65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-65",
+      "setId": "sm5",
+      "collectorNumber": "65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-66",
+    "englishName": "Riolu",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "66",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/66.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-66",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:66:english:sm5-66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-66",
+      "setId": "sm5",
+      "collectorNumber": "66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-4",
+    "englishName": "Roselia",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "4",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/4.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-4",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:4:english:sm5-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-4",
+      "setId": "sm5",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-5",
+    "englishName": "Roserade",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "5",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/5.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-5",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:5:english:sm5-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-5",
+      "setId": "sm5",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-50",
+    "englishName": "Rotom",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "50",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/50.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-50",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:50:english:sm5-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-50",
+      "setId": "sm5",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-25",
+    "englishName": "Salandit",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "25",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/25.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-25",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:25:english:sm5-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-25",
+      "setId": "sm5",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-26",
+    "englishName": "Salazzle",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "26",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/26.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-26",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:26:english:sm5-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-26",
+      "setId": "sm5",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-111",
+    "englishName": "Shaymin",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "111",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/111.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/111_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-111",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:111:english:sm5-111",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-111",
+      "setId": "sm5",
+      "collectorNumber": "111",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-111",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-15",
+    "englishName": "Shaymin",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "15",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/15.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-15",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:15:english:sm5-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-15",
+      "setId": "sm5",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-84",
+    "englishName": "Shieldon",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "84",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/84.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/84_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-84",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:84:english:sm5-84",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-84",
+      "setId": "sm5",
+      "collectorNumber": "84",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-84",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-93",
+    "englishName": "Shiinotic",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "93",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/93.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/93_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-93",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:93:english:sm5-93",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-93",
+      "setId": "sm5",
+      "collectorNumber": "93",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-93",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-45",
+    "englishName": "Shinx",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "45",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/45.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-45",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:45:english:sm5-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-45",
+      "setId": "sm5",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-46",
+    "englishName": "Shinx",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "46",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/46.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-46",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:46:english:sm5-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-46",
+      "setId": "sm5",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-116",
+    "englishName": "Silvally-GX",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "116",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/116.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/116_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-116",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:116:english:sm5-116",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-116",
+      "setId": "sm5",
+      "collectorNumber": "116",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-116",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-54",
+    "englishName": "Skorupi",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "54",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/54.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-54",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:54:english:sm5-54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-54",
+      "setId": "sm5",
+      "collectorNumber": "54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-76",
+    "englishName": "Skuntank",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "76",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/76.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-76",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:76:english:sm5-76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-76",
+      "setId": "sm5",
+      "collectorNumber": "76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-73",
+    "englishName": "Sneasel",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "73",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/73.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-73",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:73:english:sm5-73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-73",
+      "setId": "sm5",
+      "collectorNumber": "73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-37",
+    "englishName": "Snover",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "37",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/37.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-37",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:37:english:sm5-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-37",
+      "setId": "sm5",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-89",
+    "englishName": "Solgaleo ◇",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "89",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/89.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/89_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-89",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:89:english:sm5-89",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-89",
+      "setId": "sm5",
+      "collectorNumber": "89",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-89",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-173",
+    "englishName": "Solgaleo-GX",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "173",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/173.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/173_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-173",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:173:english:sm5-173",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-173",
+      "setId": "sm5",
+      "collectorNumber": "173",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-173",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-53",
+    "englishName": "Spiritomb",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "53",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/53.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-53",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:53:english:sm5-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-53",
+      "setId": "sm5",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-75",
+    "englishName": "Stunky",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "75",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/75.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-75",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:75:english:sm5-75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-75",
+      "setId": "sm5",
+      "collectorNumber": "75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-136",
+    "englishName": "Super Boost Energy ◇",
+    "category": "Energy",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "136",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/136.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/136_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-136",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:136:english:sm5-136",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-136",
+      "setId": "sm5",
+      "collectorNumber": "136",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-136",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-94",
+    "englishName": "Tapu Lele",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "94",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/94.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/94_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-94",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:94:english:sm5-94",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-94",
+      "setId": "sm5",
+      "collectorNumber": "94",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-94",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-9",
+    "englishName": "Torterra",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "9",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/9.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-9",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:9:english:sm5-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-9",
+      "setId": "sm5",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-57",
+    "englishName": "Toxicroak",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "57",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/57.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-57",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:57:english:sm5-57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-57",
+      "setId": "sm5",
+      "collectorNumber": "57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-27",
+    "englishName": "Turtonator",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "27",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/27.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-27",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:27:english:sm5-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-27",
+      "setId": "sm5",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-6",
+    "englishName": "Turtwig",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "6",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/6.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-6",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:6:english:sm5-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-6",
+      "setId": "sm5",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-7",
+    "englishName": "Turtwig",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "7",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/7.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-7",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:7:english:sm5-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-7",
+      "setId": "sm5",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-115",
+    "englishName": "Type: Null",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "115",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/115.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/115_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-115",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:115:english:sm5-115",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-115",
+      "setId": "sm5",
+      "collectorNumber": "115",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-115",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-134",
+    "englishName": "Unidentified Fossil",
+    "category": "Trainer",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "134",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/134.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/134_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-134",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:134:english:sm5-134",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-134",
+      "setId": "sm5",
+      "collectorNumber": "134",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-134",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-137",
+    "englishName": "Unit Energy GrassFireWater",
+    "category": "Energy",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "137",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/137.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/137_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-137",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:137:english:sm5-137",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-137",
+      "setId": "sm5",
+      "collectorNumber": "137",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-137",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-170",
+    "englishName": "Unit Energy GrassFireWater",
+    "category": "Energy",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "170",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/170.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/170_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-170",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:170:english:sm5-170",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-170",
+      "setId": "sm5",
+      "collectorNumber": "170",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-170",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-138",
+    "englishName": "Unit Energy LightningPsychicMetal",
+    "category": "Energy",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "138",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/138.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/138_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-138",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:138:english:sm5-138",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-138",
+      "setId": "sm5",
+      "collectorNumber": "138",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-138",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-171",
+    "englishName": "Unit Energy LightningPsychicMetal",
+    "category": "Energy",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "171",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/171.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/171_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-171",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:171:english:sm5-171",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-171",
+      "setId": "sm5",
+      "collectorNumber": "171",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-171",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-135",
+    "englishName": "Volkner",
+    "category": "Trainer",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "135",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/135.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/135_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-135",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:135:english:sm5-135",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-135",
+      "setId": "sm5",
+      "collectorNumber": "135",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-135",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-135a",
+    "englishName": "Volkner",
+    "category": "Trainer",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "135a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/135a.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/135a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-135a",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:135a:english:sm5-135a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-135a",
+      "setId": "sm5",
+      "collectorNumber": "135a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-135a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-156",
+    "englishName": "Volkner",
+    "category": "Trainer",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "156",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/156.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/156_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-156",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:156:english:sm5-156",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-156",
+      "setId": "sm5",
+      "collectorNumber": "156",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-156",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-40",
+    "englishName": "Wash Rotom",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "40",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/40.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-40",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:40:english:sm5-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-40",
+      "setId": "sm5",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-74",
+    "englishName": "Weavile",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "74",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/74.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-74",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:74:english:sm5-74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-74",
+      "setId": "sm5",
+      "collectorNumber": "74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-142",
+    "englishName": "Xurkitree-GX",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "142",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/142.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/142_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-142",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:142:english:sm5-142",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-142",
+      "setId": "sm5",
+      "collectorNumber": "142",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-142",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-160",
+    "englishName": "Xurkitree-GX",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "160",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/160.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/160_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-160",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:160:english:sm5-160",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-160",
+      "setId": "sm5",
+      "collectorNumber": "160",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-160",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-2",
+    "englishName": "Yanma",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "2",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/2.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-2",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:2:english:sm5-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-2",
+      "setId": "sm5",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-3",
+    "englishName": "Yanmega",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "3",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/3.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-3",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:3:english:sm5-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-3",
+      "setId": "sm5",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm5-112",
+    "englishName": "Yungoos",
+    "category": "Pokemon",
+    "setCode": "UPR",
+    "setName": "Ultra Prism",
+    "cardNumber": "112",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm5/112.png",
+    "imageLarge": "https://images.pokemontcg.io/sm5/112_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm5-112",
+    "sourceSetId": "sm5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm5:112:english:sm5-112",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm5-112",
+      "setId": "sm5",
+      "collectorNumber": "112",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm5-112",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

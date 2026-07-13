@@ -1,0 +1,3420 @@
+[
+  {
+    "id": "bw9-67",
+    "englishName": "Absol",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "67",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/67.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-67",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:67:english:bw9-67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-67",
+      "setId": "bw9",
+      "collectorNumber": "67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-3",
+    "englishName": "Beedrill",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "3",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/3.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-3",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:3:english:bw9-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-3",
+      "setId": "bw9",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-50",
+    "englishName": "Beldum",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "50",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/50.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-50",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:50:english:bw9-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-50",
+      "setId": "bw9",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-73",
+    "englishName": "Bisharp",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "73",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/73.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-73",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:73:english:bw9-73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-73",
+      "setId": "bw9",
+      "collectorNumber": "73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-74",
+    "englishName": "Bisharp",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "74",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/74.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-74",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:74:english:bw9-74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-74",
+      "setId": "bw9",
+      "collectorNumber": "74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-9",
+    "englishName": "Cacnea",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "9",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/9.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-9",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:9:english:bw9-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-9",
+      "setId": "bw9",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-10",
+    "englishName": "Cacturne",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "10",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/10.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-10",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:10:english:bw9-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-10",
+      "setId": "bw9",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-16",
+    "englishName": "Chandelure",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "16",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/16.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-16",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:16:english:bw9-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-16",
+      "setId": "bw9",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-35",
+    "englishName": "Chinchou",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "35",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/35.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-35",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:35:english:bw9-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-35",
+      "setId": "bw9",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-56",
+    "englishName": "Cofagrigus",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "56",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/56.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-56",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:56:english:bw9-56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-56",
+      "setId": "bw9",
+      "collectorNumber": "56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-57",
+    "englishName": "Cofagrigus",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "57",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/57.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-57",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:57:english:bw9-57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-57",
+      "setId": "bw9",
+      "collectorNumber": "57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-30",
+    "englishName": "Cryogonal",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "30",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/30.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-30",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:30:english:bw9-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-30",
+      "setId": "bw9",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-75",
+    "englishName": "Deino",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "75",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/75.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-75",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:75:english:bw9-75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-75",
+      "setId": "bw9",
+      "collectorNumber": "75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-76",
+    "englishName": "Deino",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "76",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/76.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-76",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:76:english:bw9-76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-76",
+      "setId": "bw9",
+      "collectorNumber": "76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-111",
+    "englishName": "Deoxys-EX",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "111",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/111.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/111_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-111",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:111:english:bw9-111",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-111",
+      "setId": "bw9",
+      "collectorNumber": "111",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-111",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-53",
+    "englishName": "Deoxys-EX",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "53",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/53.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-53",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:53:english:bw9-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-53",
+      "setId": "bw9",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-82",
+    "englishName": "Dragonair",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "82",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/82.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/82_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-82",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:82:english:bw9-82",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-82",
+      "setId": "bw9",
+      "collectorNumber": "82",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-82",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-83",
+    "englishName": "Dragonite",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "83",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/83.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/83_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-83",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:83:english:bw9-83",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-83",
+      "setId": "bw9",
+      "collectorNumber": "83",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-83",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-81",
+    "englishName": "Dratini",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "81",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/81.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/81_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-81",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:81:english:bw9-81",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-81",
+      "setId": "bw9",
+      "collectorNumber": "81",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-81",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-89",
+    "englishName": "Eevee",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "89",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/89.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/89_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-89",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:89:english:bw9-89",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-89",
+      "setId": "bw9",
+      "collectorNumber": "89",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-89",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-90",
+    "englishName": "Eevee",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "90",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/90.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/90_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-90",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:90:english:bw9-90",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-90",
+      "setId": "bw9",
+      "collectorNumber": "90",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-90",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-33",
+    "englishName": "Electrode",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "33",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/33.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-33",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:33:english:bw9-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-33",
+      "setId": "bw9",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-117",
+    "englishName": "Empoleon",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "117",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/117.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/117_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-117",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:117:english:bw9-117",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-117",
+      "setId": "bw9",
+      "collectorNumber": "117",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-117",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-48",
+    "englishName": "Espeon",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "48",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/48.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-48",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:48:english:bw9-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-48",
+      "setId": "bw9",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-4",
+    "englishName": "Exeggcute",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "4",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/4.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-4",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:4:english:bw9-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-4",
+      "setId": "bw9",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-5",
+    "englishName": "Exeggutor",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "5",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/5.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-5",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:5:english:bw9-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-5",
+      "setId": "bw9",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-12",
+    "englishName": "Flareon",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "12",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/12.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-12",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:12:english:bw9-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-12",
+      "setId": "bw9",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-99",
+    "englishName": "Float Stone",
+    "category": "Trainer",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "99",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/99.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/99_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-99",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:99:english:bw9-99",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-99",
+      "setId": "bw9",
+      "collectorNumber": "99",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-99",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-100",
+    "englishName": "Frozen City",
+    "category": "Trainer",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "100",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/100.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/100_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-100",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:100:english:bw9-100",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-100",
+      "setId": "bw9",
+      "collectorNumber": "100",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-100",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-119",
+    "englishName": "Garbodor",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "119",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/119.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/119_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-119",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:119:english:bw9-119",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-119",
+      "setId": "bw9",
+      "collectorNumber": "119",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-119",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-120",
+    "englishName": "Garchomp",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "120",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/120.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/120_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-120",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:120:english:bw9-120",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-120",
+      "setId": "bw9",
+      "collectorNumber": "120",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-120",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-101",
+    "englishName": "Ghetsis",
+    "category": "Trainer",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "101",
+    "legalities": {
+      "expanded": "Banned",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/101.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/101_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-101",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:101:english:bw9-101",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-101",
+      "setId": "bw9",
+      "collectorNumber": "101",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-101",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-115",
+    "englishName": "Ghetsis",
+    "category": "Trainer",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "115",
+    "legalities": {
+      "expanded": "Banned",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/115.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/115_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-115",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:115:english:bw9-115",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-115",
+      "setId": "bw9",
+      "collectorNumber": "115",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-115",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-23",
+    "englishName": "Glaceon",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "23",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/23.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-23",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:23:english:bw9-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-23",
+      "setId": "bw9",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-45",
+    "englishName": "Grimer",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "45",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/45.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-45",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:45:english:bw9-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-45",
+      "setId": "bw9",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-7",
+    "englishName": "Grovyle",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "7",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/7.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-7",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:7:english:bw9-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-7",
+      "setId": "bw9",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-63",
+    "englishName": "Hariyama",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "63",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/63.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-63",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:63:english:bw9-63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-63",
+      "setId": "bw9",
+      "collectorNumber": "63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-109",
+    "englishName": "Heatran-EX",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "109",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/109.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/109_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-109",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:109:english:bw9-109",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-109",
+      "setId": "bw9",
+      "collectorNumber": "109",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-109",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-13",
+    "englishName": "Heatran-EX",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "13",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/13.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-13",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:13:english:bw9-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-13",
+      "setId": "bw9",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-91",
+    "englishName": "Hoothoot",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "91",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/91.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/91_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-91",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:91:english:bw9-91",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-91",
+      "setId": "bw9",
+      "collectorNumber": "91",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-91",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-18",
+    "englishName": "Horsea",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "18",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/18.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-18",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:18:english:bw9-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-18",
+      "setId": "bw9",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-78",
+    "englishName": "Hydreigon",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "78",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/78.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-78",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:78:english:bw9-78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-78",
+      "setId": "bw9",
+      "collectorNumber": "78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-34",
+    "englishName": "Jolteon",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "34",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/34.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-34",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:34:english:bw9-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-34",
+      "setId": "bw9",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-2",
+    "englishName": "Kakuna",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "2",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/2.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-2",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:2:english:bw9-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-2",
+      "setId": "bw9",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-94",
+    "englishName": "Kecleon",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "94",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/94.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/94_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-94",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:94:english:bw9-94",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-94",
+      "setId": "bw9",
+      "collectorNumber": "94",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-94",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-84",
+    "englishName": "Kingdra",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "84",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/84.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/84_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-84",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:84:english:bw9-84",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-84",
+      "setId": "bw9",
+      "collectorNumber": "84",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-84",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-69",
+    "englishName": "Krokorok",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "69",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/69.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-69",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:69:english:bw9-69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-69",
+      "setId": "bw9",
+      "collectorNumber": "69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-70",
+    "englishName": "Krookodile",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "70",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/70.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-70",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:70:english:bw9-70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-70",
+      "setId": "bw9",
+      "collectorNumber": "70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-31",
+    "englishName": "Kyurem",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "31",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/31.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-31",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:31:english:bw9-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-31",
+      "setId": "bw9",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-15",
+    "englishName": "Lampent",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "15",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/15.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-15",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:15:english:bw9-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-15",
+      "setId": "bw9",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-36",
+    "englishName": "Lanturn",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "36",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/36.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-36",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:36:english:bw9-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-36",
+      "setId": "bw9",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-112",
+    "englishName": "Latias-EX",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "112",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/112.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/112_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-112",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:112:english:bw9-112",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-112",
+      "setId": "bw9",
+      "collectorNumber": "112",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-112",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-85",
+    "englishName": "Latias-EX",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "85",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/85.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/85_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-85",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:85:english:bw9-85",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-85",
+      "setId": "bw9",
+      "collectorNumber": "85",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-85",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-113",
+    "englishName": "Latios-EX",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "113",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/113.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/113_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-113",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:113:english:bw9-113",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-113",
+      "setId": "bw9",
+      "collectorNumber": "113",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-113",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-86",
+    "englishName": "Latios-EX",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "86",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/86.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/86_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-86",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:86:english:bw9-86",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-86",
+      "setId": "bw9",
+      "collectorNumber": "86",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-86",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-11",
+    "englishName": "Leafeon",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "11",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/11.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-11",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:11:english:bw9-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-11",
+      "setId": "bw9",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-107",
+    "englishName": "Life Dew",
+    "category": "Trainer",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "107",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/107.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/107_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-107",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:107:english:bw9-107",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-107",
+      "setId": "bw9",
+      "collectorNumber": "107",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-107",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-14",
+    "englishName": "Litwick",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "14",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/14.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-14",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:14:english:bw9-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-14",
+      "setId": "bw9",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-62",
+    "englishName": "Makuhita",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "62",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/62.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-62",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:62:english:bw9-62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-62",
+      "setId": "bw9",
+      "collectorNumber": "62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-59",
+    "englishName": "Mankey",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "59",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/59.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-59",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:59:english:bw9-59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-59",
+      "setId": "bw9",
+      "collectorNumber": "59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-80",
+    "englishName": "Mawile",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "80",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/80.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/80_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-80",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:80:english:bw9-80",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-80",
+      "setId": "bw9",
+      "collectorNumber": "80",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-80",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-121",
+    "englishName": "Max Potion",
+    "category": "Trainer",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "121",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/121.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/121_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-121",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:121:english:bw9-121",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-121",
+      "setId": "bw9",
+      "collectorNumber": "121",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-121",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-52",
+    "englishName": "Metagross",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "52",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/52.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-52",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:52:english:bw9-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-52",
+      "setId": "bw9",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-51",
+    "englishName": "Metang",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "51",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/51.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-51",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:51:english:bw9-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-51",
+      "setId": "bw9",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-93",
+    "englishName": "Miltank",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "93",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/93.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/93_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-93",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:93:english:bw9-93",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-93",
+      "setId": "bw9",
+      "collectorNumber": "93",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-93",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-47",
+    "englishName": "Mr. Mime",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "47",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/47.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-47",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:47:english:bw9-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-47",
+      "setId": "bw9",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-46",
+    "englishName": "Muk",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "46",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/46.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-46",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:46:english:bw9-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-46",
+      "setId": "bw9",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-58",
+    "englishName": "Nidoking",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "58",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/58.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-58",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:58:english:bw9-58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-58",
+      "setId": "bw9",
+      "collectorNumber": "58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-42",
+    "englishName": "Nidoqueen",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "42",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/42.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-42",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:42:english:bw9-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-42",
+      "setId": "bw9",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-40",
+    "englishName": "Nidoran ♀",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "40",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/40.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-40",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:40:english:bw9-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-40",
+      "setId": "bw9",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-43",
+    "englishName": "Nidoran ♂",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "43",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/43.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-43",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:43:english:bw9-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-43",
+      "setId": "bw9",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-41",
+    "englishName": "Nidorina",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "41",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/41.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-41",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:41:english:bw9-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-41",
+      "setId": "bw9",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-44",
+    "englishName": "Nidorino",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "44",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/44.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-44",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:44:english:bw9-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-44",
+      "setId": "bw9",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-92",
+    "englishName": "Noctowl",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "92",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/92.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/92_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-92",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:92:english:bw9-92",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-92",
+      "setId": "bw9",
+      "collectorNumber": "92",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-92",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-61",
+    "englishName": "Onix",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "61",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/61.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-61",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:61:english:bw9-61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-61",
+      "setId": "bw9",
+      "collectorNumber": "61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-37",
+    "englishName": "Pachirisu",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "37",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/37.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-37",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:37:english:bw9-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-37",
+      "setId": "bw9",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-25",
+    "englishName": "Palpitoad",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "25",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/25.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-25",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:25:english:bw9-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-25",
+      "setId": "bw9",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-71",
+    "englishName": "Pawniard",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "71",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/71.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-71",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:71:english:bw9-71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-71",
+      "setId": "bw9",
+      "collectorNumber": "71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-72",
+    "englishName": "Pawniard",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "72",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/72.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-72",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:72:english:bw9-72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-72",
+      "setId": "bw9",
+      "collectorNumber": "72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-106",
+    "englishName": "Plasma Energy",
+    "category": "Energy",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "106",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/106.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/106_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-106",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:106:english:bw9-106",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-106",
+      "setId": "bw9",
+      "collectorNumber": "106",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-106",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-60",
+    "englishName": "Primeape",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "60",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/60.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-60",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:60:english:bw9-60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-60",
+      "setId": "bw9",
+      "collectorNumber": "60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-116",
+    "englishName": "Professor Juniper",
+    "category": "Trainer",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "116",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/116.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/116_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-116",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:116:english:bw9-116",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-116",
+      "setId": "bw9",
+      "collectorNumber": "116",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-116",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-22",
+    "englishName": "Quagsire",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "22",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/22.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-22",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:22:english:bw9-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-22",
+      "setId": "bw9",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-88",
+    "englishName": "Raticate",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "88",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/88.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/88_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-88",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:88:english:bw9-88",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-88",
+      "setId": "bw9",
+      "collectorNumber": "88",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-88",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-87",
+    "englishName": "Rattata",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "87",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/87.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/87_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-87",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:87:english:bw9-87",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-87",
+      "setId": "bw9",
+      "collectorNumber": "87",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-87",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-17",
+    "englishName": "Reshiram",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "17",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/17.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-17",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:17:english:bw9-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-17",
+      "setId": "bw9",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-108",
+    "englishName": "Rock Guard",
+    "category": "Trainer",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "108",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/108.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/108_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-108",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:108:english:bw9-108",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-108",
+      "setId": "bw9",
+      "collectorNumber": "108",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-108",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-49",
+    "englishName": "Sableye",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "49",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/49.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-49",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:49:english:bw9-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-49",
+      "setId": "bw9",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-68",
+    "englishName": "Sandile",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "68",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/68.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-68",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:68:english:bw9-68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-68",
+      "setId": "bw9",
+      "collectorNumber": "68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-8",
+    "englishName": "Sceptile",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "8",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/8.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-8",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:8:english:bw9-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-8",
+      "setId": "bw9",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-19",
+    "englishName": "Seadra",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "19",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/19.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-19",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:19:english:bw9-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-19",
+      "setId": "bw9",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-26",
+    "englishName": "Seismitoad",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "26",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/26.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-26",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:26:english:bw9-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-26",
+      "setId": "bw9",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-102",
+    "englishName": "Shadow Triad",
+    "category": "Trainer",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "102",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/102.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/102_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-102",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:102:english:bw9-102",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-102",
+      "setId": "bw9",
+      "collectorNumber": "102",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-102",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-118",
+    "englishName": "Sigilyph",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "118",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/118.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/118_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-118",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:118:english:bw9-118",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-118",
+      "setId": "bw9",
+      "collectorNumber": "118",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-118",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-65",
+    "englishName": "Sneasel",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "65",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/65.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-65",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:65:english:bw9-65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-65",
+      "setId": "bw9",
+      "collectorNumber": "65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-97",
+    "englishName": "Staraptor",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "97",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/97.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/97_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-97",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:97:english:bw9-97",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-97",
+      "setId": "bw9",
+      "collectorNumber": "97",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-97",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-96",
+    "englishName": "Staravia",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "96",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/96.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/96_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-96",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:96:english:bw9-96",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-96",
+      "setId": "bw9",
+      "collectorNumber": "96",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-96",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-95",
+    "englishName": "Starly",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "95",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/95.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/95_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-95",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:95:english:bw9-95",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-95",
+      "setId": "bw9",
+      "collectorNumber": "95",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-95",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-79",
+    "englishName": "Steelix",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "79",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/79.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/79_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-79",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:79:english:bw9-79",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-79",
+      "setId": "bw9",
+      "collectorNumber": "79",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-79",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-103",
+    "englishName": "Superior Energy Retrieval",
+    "category": "Trainer",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "103",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/103.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/103_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-103",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:103:english:bw9-103",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-103",
+      "setId": "bw9",
+      "collectorNumber": "103",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-103",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-104",
+    "englishName": "Team Plasma Badge",
+    "category": "Trainer",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "104",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/104.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/104_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-104",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:104:english:bw9-104",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-104",
+      "setId": "bw9",
+      "collectorNumber": "104",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-104",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-105",
+    "englishName": "Team Plasma Ball",
+    "category": "Trainer",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "105",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/105.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/105_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-105",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:105:english:bw9-105",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-105",
+      "setId": "bw9",
+      "collectorNumber": "105",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-105",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-110",
+    "englishName": "Thundurus-EX",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "110",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/110.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/110_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-110",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:110:english:bw9-110",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-110",
+      "setId": "bw9",
+      "collectorNumber": "110",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-110",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-38",
+    "englishName": "Thundurus-EX",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "38",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/38.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-38",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:38:english:bw9-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-38",
+      "setId": "bw9",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-114",
+    "englishName": "Tornadus-EX",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "114",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/114.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/114_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-114",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:114:english:bw9-114",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-114",
+      "setId": "bw9",
+      "collectorNumber": "114",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-114",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-98",
+    "englishName": "Tornadus-EX",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "98",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/98.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/98_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-98",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:98:english:bw9-98",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-98",
+      "setId": "bw9",
+      "collectorNumber": "98",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-98",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-6",
+    "englishName": "Treecko",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "6",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/6.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-6",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:6:english:bw9-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-6",
+      "setId": "bw9",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-24",
+    "englishName": "Tympole",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "24",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/24.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-24",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:24:english:bw9-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-24",
+      "setId": "bw9",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-122",
+    "englishName": "Ultra Ball",
+    "category": "Trainer",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "122",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/122.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/122_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-122",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:122:english:bw9-122",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-122",
+      "setId": "bw9",
+      "collectorNumber": "122",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-122",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-64",
+    "englishName": "Umbreon",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "64",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/64.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-64",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:64:english:bw9-64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-64",
+      "setId": "bw9",
+      "collectorNumber": "64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-28",
+    "englishName": "Vanillish",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "28",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/28.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-28",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:28:english:bw9-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-28",
+      "setId": "bw9",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-27",
+    "englishName": "Vanillite",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "27",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/27.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-27",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:27:english:bw9-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-27",
+      "setId": "bw9",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-29",
+    "englishName": "Vanilluxe",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "29",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/29.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-29",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:29:english:bw9-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-29",
+      "setId": "bw9",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-20",
+    "englishName": "Vaporeon",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "20",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/20.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-20",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:20:english:bw9-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-20",
+      "setId": "bw9",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-32",
+    "englishName": "Voltorb",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "32",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/32.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-32",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:32:english:bw9-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-32",
+      "setId": "bw9",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-66",
+    "englishName": "Weavile",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "66",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/66.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-66",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:66:english:bw9-66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-66",
+      "setId": "bw9",
+      "collectorNumber": "66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-1",
+    "englishName": "Weedle",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "1",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/1.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-1",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:1:english:bw9-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-1",
+      "setId": "bw9",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-21",
+    "englishName": "Wooper",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "21",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/21.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-21",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:21:english:bw9-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-21",
+      "setId": "bw9",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-54",
+    "englishName": "Yamask",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "54",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/54.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-54",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:54:english:bw9-54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-54",
+      "setId": "bw9",
+      "collectorNumber": "54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-55",
+    "englishName": "Yamask",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "55",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/55.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-55",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:55:english:bw9-55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-55",
+      "setId": "bw9",
+      "collectorNumber": "55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-39",
+    "englishName": "Zekrom",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "39",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/39.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-39",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:39:english:bw9-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-39",
+      "setId": "bw9",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw9-77",
+    "englishName": "Zweilous",
+    "category": "Pokemon",
+    "setCode": "PLF",
+    "setName": "Plasma Freeze",
+    "cardNumber": "77",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw9/77.png",
+    "imageLarge": "https://images.pokemontcg.io/bw9/77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw9-77",
+    "sourceSetId": "bw9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw9:77:english:bw9-77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw9-77",
+      "setId": "bw9",
+      "collectorNumber": "77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw9-77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

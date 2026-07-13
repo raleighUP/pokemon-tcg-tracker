@@ -1,0 +1,2734 @@
+[
+  {
+    "id": "ex15-90",
+    "englishName": "Altaria ex δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "90",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/90.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/90_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-90",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:90:english:ex15-90",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-90",
+      "setId": "ex15",
+      "collectorNumber": "90",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-90",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-1",
+    "englishName": "Ampharos δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "1",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/1.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-1",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:1:english:ex15-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-1",
+      "setId": "ex15",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-13",
+    "englishName": "Arbok δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "13",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/13.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-13",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:13:english:ex15-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-13",
+      "setId": "ex15",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-43",
+    "englishName": "Bagon δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "43",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/43.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-43",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:43:english:ex15-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-43",
+      "setId": "ex15",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-26",
+    "englishName": "Bayleef δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "26",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/26.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-26",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:26:english:ex15-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-26",
+      "setId": "ex15",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-87",
+    "englishName": "Boost Energy",
+    "category": "Energy",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "87",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/87.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/87_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-87",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:87:english:ex15-87",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-87",
+      "setId": "ex15",
+      "collectorNumber": "87",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-87",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-72",
+    "englishName": "Buffer Piece",
+    "category": "Trainer",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "72",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/72.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-72",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:72:english:ex15-72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-72",
+      "setId": "ex15",
+      "collectorNumber": "72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-100",
+    "englishName": "Charizard ★ δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "100",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/100.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/100_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-100",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:100:english:ex15-100",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-100",
+      "setId": "ex15",
+      "collectorNumber": "100",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-100",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-44",
+    "englishName": "Chikorita δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "44",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/44.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-44",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:44:english:ex15-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-44",
+      "setId": "ex15",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-14",
+    "englishName": "Cloyster δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "14",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/14.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-14",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:14:english:ex15-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-14",
+      "setId": "ex15",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-73",
+    "englishName": "Copycat",
+    "category": "Trainer",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "73",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/73.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-73",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:73:english:ex15-73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-73",
+      "setId": "ex15",
+      "collectorNumber": "73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-27",
+    "englishName": "Croconaw δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "27",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/27.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-27",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:27:english:ex15-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-27",
+      "setId": "ex15",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-45",
+    "englishName": "Cyndaquil δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "45",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/45.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-45",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:45:english:ex15-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-45",
+      "setId": "ex15",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-15",
+    "englishName": "Dewgong δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "15",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/15.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-15",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:15:english:ex15-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-15",
+      "setId": "ex15",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-28",
+    "englishName": "Dragonair δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "28",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/28.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-28",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:28:english:ex15-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-28",
+      "setId": "ex15",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-91",
+    "englishName": "Dragonite ex δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "91",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/91.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/91_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-91",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:91:english:ex15-91",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-91",
+      "setId": "ex15",
+      "collectorNumber": "91",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-91",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-46",
+    "englishName": "Dratini δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "46",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/46.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-46",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:46:english:ex15-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-46",
+      "setId": "ex15",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-47",
+    "englishName": "Ekans δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "47",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/47.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-47",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:47:english:ex15-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-47",
+      "setId": "ex15",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-29",
+    "englishName": "Electabuzz δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "29",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/29.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-29",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:29:english:ex15-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-29",
+      "setId": "ex15",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-48",
+    "englishName": "Elekid δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "48",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/48.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-48",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:48:english:ex15-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-48",
+      "setId": "ex15",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-49",
+    "englishName": "Feebas δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "49",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/49.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-49",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:49:english:ex15-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-49",
+      "setId": "ex15",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-2",
+    "englishName": "Feraligatr δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "2",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/2.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-2",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:2:english:ex15-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-2",
+      "setId": "ex15",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-30",
+    "englishName": "Flaaffy δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "30",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/30.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-30",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:30:english:ex15-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-30",
+      "setId": "ex15",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-92",
+    "englishName": "Flygon ex δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "92",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/92.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/92_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-92",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:92:english:ex15-92",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-92",
+      "setId": "ex15",
+      "collectorNumber": "92",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-92",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-93",
+    "englishName": "Gardevoir ex δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "93",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/93.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/93_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-93",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:93:english:ex15-93",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-93",
+      "setId": "ex15",
+      "collectorNumber": "93",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-93",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-16",
+    "englishName": "Gligar δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "16",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/16.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-16",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:16:english:ex15-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-16",
+      "setId": "ex15",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-3",
+    "englishName": "Heracross δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "3",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/3.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-3",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:3:english:ex15-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-3",
+      "setId": "ex15",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-84",
+    "englishName": "Holon Energy FF",
+    "category": "Energy",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "84",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/84.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/84_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-84",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:84:english:ex15-84",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-84",
+      "setId": "ex15",
+      "collectorNumber": "84",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-84",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-85",
+    "englishName": "Holon Energy GL",
+    "category": "Energy",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "85",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/85.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/85_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-85",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:85:english:ex15-85",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-85",
+      "setId": "ex15",
+      "collectorNumber": "85",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-85",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-86",
+    "englishName": "Holon Energy WP",
+    "category": "Energy",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "86",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/86.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/86_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-86",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:86:english:ex15-86",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-86",
+      "setId": "ex15",
+      "collectorNumber": "86",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-86",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-74",
+    "englishName": "Holon Legacy",
+    "category": "Trainer",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "74",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/74.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-74",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:74:english:ex15-74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-74",
+      "setId": "ex15",
+      "collectorNumber": "74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-75",
+    "englishName": "Holon Mentor",
+    "category": "Trainer",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "75",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/75.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-75",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:75:english:ex15-75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-75",
+      "setId": "ex15",
+      "collectorNumber": "75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-31",
+    "englishName": "Horsea δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "31",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/31.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-31",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:31:english:ex15-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-31",
+      "setId": "ex15",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-50",
+    "englishName": "Horsea δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "50",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/50.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-50",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:50:english:ex15-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-50",
+      "setId": "ex15",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-76",
+    "englishName": "Island Hermit",
+    "category": "Trainer",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "76",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/76.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-76",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:76:english:ex15-76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-76",
+      "setId": "ex15",
+      "collectorNumber": "76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-17",
+    "englishName": "Jynx δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "17",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/17.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-17",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:17:english:ex15-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-17",
+      "setId": "ex15",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-94",
+    "englishName": "Kingdra ex δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "94",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/94.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/94_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-94",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:94:english:ex15-94",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-94",
+      "setId": "ex15",
+      "collectorNumber": "94",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-94",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-33",
+    "englishName": "Kirlia δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "33",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/33.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-33",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:33:english:ex15-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-33",
+      "setId": "ex15",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-32",
+    "englishName": "Kirlia",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "32",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/32.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-32",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:32:english:ex15-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-32",
+      "setId": "ex15",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-52",
+    "englishName": "Larvitar δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "52",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/52.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-52",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:52:english:ex15-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-52",
+      "setId": "ex15",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-51",
+    "englishName": "Larvitar",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "51",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/51.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-51",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:51:english:ex15-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-51",
+      "setId": "ex15",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-95",
+    "englishName": "Latias ex δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "95",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/95.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/95_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-95",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:95:english:ex15-95",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-95",
+      "setId": "ex15",
+      "collectorNumber": "95",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-95",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-96",
+    "englishName": "Latios ex δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "96",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/96.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/96_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-96",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:96:english:ex15-96",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-96",
+      "setId": "ex15",
+      "collectorNumber": "96",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-96",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-18",
+    "englishName": "Ledian δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "18",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/18.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-18",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:18:english:ex15-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-18",
+      "setId": "ex15",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-53",
+    "englishName": "Ledyba δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "53",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/53.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-53",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:53:english:ex15-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-53",
+      "setId": "ex15",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-19",
+    "englishName": "Lickitung δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "19",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/19.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-19",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:19:english:ex15-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-19",
+      "setId": "ex15",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-20",
+    "englishName": "Mantine δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "20",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/20.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-20",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:20:english:ex15-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-20",
+      "setId": "ex15",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-54",
+    "englishName": "Mareep δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "54",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/54.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-54",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:54:english:ex15-54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-54",
+      "setId": "ex15",
+      "collectorNumber": "54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-4",
+    "englishName": "Meganium δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "4",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/4.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-4",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:4:english:ex15-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-4",
+      "setId": "ex15",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-101",
+    "englishName": "Mew ★ δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "101",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/101.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/101_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-101",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:101:english:ex15-101",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-101",
+      "setId": "ex15",
+      "collectorNumber": "101",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-101",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-5",
+    "englishName": "Milotic δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "5",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/5.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-5",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:5:english:ex15-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-5",
+      "setId": "ex15",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-77",
+    "englishName": "Mr. Stone's Project",
+    "category": "Trainer",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "77",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/77.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-77",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:77:english:ex15-77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-77",
+      "setId": "ex15",
+      "collectorNumber": "77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-55",
+    "englishName": "Natu δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "55",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/55.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-55",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:55:english:ex15-55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-55",
+      "setId": "ex15",
+      "collectorNumber": "55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-6",
+    "englishName": "Nidoking δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "6",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/6.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-6",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:6:english:ex15-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-6",
+      "setId": "ex15",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-7",
+    "englishName": "Nidoqueen δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "7",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/7.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-7",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:7:english:ex15-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-7",
+      "setId": "ex15",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-56",
+    "englishName": "Nidoran ♀ δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "56",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/56.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-56",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:56:english:ex15-56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-56",
+      "setId": "ex15",
+      "collectorNumber": "56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-57",
+    "englishName": "Nidoran ♂ δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "57",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/57.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-57",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:57:english:ex15-57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-57",
+      "setId": "ex15",
+      "collectorNumber": "57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-34",
+    "englishName": "Nidorina δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "34",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/34.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-34",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:34:english:ex15-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-34",
+      "setId": "ex15",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-35",
+    "englishName": "Nidorino δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "35",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/35.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-35",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:35:english:ex15-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-35",
+      "setId": "ex15",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-8",
+    "englishName": "Ninetales δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "8",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/8.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-8",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:8:english:ex15-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-8",
+      "setId": "ex15",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-78",
+    "englishName": "Old Rod",
+    "category": "Trainer",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "78",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/78.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-78",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:78:english:ex15-78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-78",
+      "setId": "ex15",
+      "collectorNumber": "78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-9",
+    "englishName": "Pinsir δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "9",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/9.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-9",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:9:english:ex15-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-9",
+      "setId": "ex15",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-79",
+    "englishName": "Professor Elm's Training Method",
+    "category": "Trainer",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "79",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/79.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/79_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-79",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:79:english:ex15-79",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-79",
+      "setId": "ex15",
+      "collectorNumber": "79",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-79",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-80",
+    "englishName": "Professor Oak's Research",
+    "category": "Trainer",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "80",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/80.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/80_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-80",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:80:english:ex15-80",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-80",
+      "setId": "ex15",
+      "collectorNumber": "80",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-80",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-59",
+    "englishName": "Pupitar δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "59",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/59.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-59",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:59:english:ex15-59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-59",
+      "setId": "ex15",
+      "collectorNumber": "59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-58",
+    "englishName": "Pupitar",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "58",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/58.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-58",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:58:english:ex15-58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-58",
+      "setId": "ex15",
+      "collectorNumber": "58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-21",
+    "englishName": "Quagsire δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "21",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/21.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-21",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:21:english:ex15-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-21",
+      "setId": "ex15",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-36",
+    "englishName": "Quilava δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "36",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/36.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-36",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:36:english:ex15-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-36",
+      "setId": "ex15",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-61",
+    "englishName": "Ralts δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "61",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/61.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-61",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:61:english:ex15-61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-61",
+      "setId": "ex15",
+      "collectorNumber": "61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-60",
+    "englishName": "Ralts",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "60",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/60.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-60",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:60:english:ex15-60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-60",
+      "setId": "ex15",
+      "collectorNumber": "60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-97",
+    "englishName": "Rayquaza ex δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "97",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/97.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/97_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-97",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:97:english:ex15-97",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-97",
+      "setId": "ex15",
+      "collectorNumber": "97",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-97",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-98",
+    "englishName": "Salamence ex δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "98",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/98.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/98_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-98",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:98:english:ex15-98",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-98",
+      "setId": "ex15",
+      "collectorNumber": "98",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-98",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-89",
+    "englishName": "Scramble Energy",
+    "category": "Energy",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "89",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/89.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/89_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-89",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:89:english:ex15-89",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-89",
+      "setId": "ex15",
+      "collectorNumber": "89",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-89",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-22",
+    "englishName": "Seadra δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "22",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/22.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-22",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:22:english:ex15-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-22",
+      "setId": "ex15",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-37",
+    "englishName": "Seadra δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "37",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/37.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-37",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:37:english:ex15-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-37",
+      "setId": "ex15",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-62",
+    "englishName": "Seel δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "62",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/62.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-62",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:62:english:ex15-62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-62",
+      "setId": "ex15",
+      "collectorNumber": "62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-38",
+    "englishName": "Shelgon δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "38",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/38.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-38",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:38:english:ex15-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-38",
+      "setId": "ex15",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-63",
+    "englishName": "Shellder δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "63",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/63.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-63",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:63:english:ex15-63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-63",
+      "setId": "ex15",
+      "collectorNumber": "63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-39",
+    "englishName": "Smeargle δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "39",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/39.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-39",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:39:english:ex15-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-39",
+      "setId": "ex15",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-64",
+    "englishName": "Smoochum δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "64",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/64.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-64",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:64:english:ex15-64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-64",
+      "setId": "ex15",
+      "collectorNumber": "64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-10",
+    "englishName": "Snorlax δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "10",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/10.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-10",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:10:english:ex15-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-10",
+      "setId": "ex15",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-81",
+    "englishName": "Strength Charm",
+    "category": "Trainer",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "81",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/81.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/81_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-81",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:81:english:ex15-81",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-81",
+      "setId": "ex15",
+      "collectorNumber": "81",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-81",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-65",
+    "englishName": "Swablu δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "65",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/65.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-65",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:65:english:ex15-65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-65",
+      "setId": "ex15",
+      "collectorNumber": "65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-40",
+    "englishName": "Swellow δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "40",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/40.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-40",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:40:english:ex15-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-40",
+      "setId": "ex15",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-83",
+    "englishName": "Switch",
+    "category": "Trainer",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "83",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/83.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/83_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-83",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:83:english:ex15-83",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-83",
+      "setId": "ex15",
+      "collectorNumber": "83",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-83",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-66",
+    "englishName": "Taillow δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "66",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/66.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-66",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:66:english:ex15-66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-66",
+      "setId": "ex15",
+      "collectorNumber": "66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-41",
+    "englishName": "Togepi δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "41",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/41.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-41",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:41:english:ex15-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-41",
+      "setId": "ex15",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-11",
+    "englishName": "Togetic δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "11",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/11.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-11",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:11:english:ex15-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-11",
+      "setId": "ex15",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-67",
+    "englishName": "Totodile δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "67",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/67.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-67",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:67:english:ex15-67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-67",
+      "setId": "ex15",
+      "collectorNumber": "67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-68",
+    "englishName": "Trapinch δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "68",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/68.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-68",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:68:english:ex15-68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-68",
+      "setId": "ex15",
+      "collectorNumber": "68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-69",
+    "englishName": "Trapinch δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "69",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/69.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-69",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:69:english:ex15-69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-69",
+      "setId": "ex15",
+      "collectorNumber": "69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-23",
+    "englishName": "Tropius δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "23",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/23.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-23",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:23:english:ex15-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-23",
+      "setId": "ex15",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-82",
+    "englishName": "TV Reporter",
+    "category": "Trainer",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "82",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/82.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/82_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-82",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:82:english:ex15-82",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-82",
+      "setId": "ex15",
+      "collectorNumber": "82",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-82",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-12",
+    "englishName": "Typhlosion δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "12",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/12.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-12",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:12:english:ex15-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-12",
+      "setId": "ex15",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-99",
+    "englishName": "Tyranitar ex δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "99",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/99.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/99_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-99",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:99:english:ex15-99",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-99",
+      "setId": "ex15",
+      "collectorNumber": "99",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-99",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-24",
+    "englishName": "Vibrava δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "24",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/24.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-24",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:24:english:ex15-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-24",
+      "setId": "ex15",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-42",
+    "englishName": "Vibrava δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "42",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/42.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-42",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:42:english:ex15-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-42",
+      "setId": "ex15",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-70",
+    "englishName": "Vulpix δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "70",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/70.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-70",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:70:english:ex15-70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-70",
+      "setId": "ex15",
+      "collectorNumber": "70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-71",
+    "englishName": "Wooper δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "71",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/71.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-71",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:71:english:ex15-71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-71",
+      "setId": "ex15",
+      "collectorNumber": "71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-25",
+    "englishName": "Xatu δ",
+    "category": "Pokemon",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "25",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/25.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-25",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:25:english:ex15-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-25",
+      "setId": "ex15",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex15-88",
+    "englishName": "δ Rainbow Energy",
+    "category": "Energy",
+    "setCode": "DF",
+    "setName": "Dragon Frontiers",
+    "cardNumber": "88",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex15/88.png",
+    "imageLarge": "https://images.pokemontcg.io/ex15/88_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex15-88",
+    "sourceSetId": "ex15",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex15:88:english:ex15-88",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex15-88",
+      "setId": "ex15",
+      "collectorNumber": "88",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex15-88",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

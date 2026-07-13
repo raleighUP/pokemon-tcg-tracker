@@ -1,0 +1,3578 @@
+[
+  {
+    "id": "gym2-1",
+    "englishName": "Blaine's Arcanine",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "1",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/1.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-1",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:1:english:gym2-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-1",
+      "setId": "gym2",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-2",
+    "englishName": "Blaine's Charizard",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "2",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/2.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-2",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:2:english:gym2-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-2",
+      "setId": "gym2",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-60",
+    "englishName": "Blaine's Charmander",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "60",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/60.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-60",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:60:english:gym2-60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-60",
+      "setId": "gym2",
+      "collectorNumber": "60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-31",
+    "englishName": "Blaine's Charmeleon",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "31",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/31.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-31",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:31:english:gym2-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-31",
+      "setId": "gym2",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-32",
+    "englishName": "Blaine's Dodrio",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "32",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/32.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-32",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:32:english:gym2-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-32",
+      "setId": "gym2",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-61",
+    "englishName": "Blaine's Doduo",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "61",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/61.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-61",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:61:english:gym2-61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-61",
+      "setId": "gym2",
+      "collectorNumber": "61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-62",
+    "englishName": "Blaine's Growlithe",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "62",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/62.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-62",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:62:english:gym2-62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-62",
+      "setId": "gym2",
+      "collectorNumber": "62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-63",
+    "englishName": "Blaine's Mankey",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "63",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/63.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-63",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:63:english:gym2-63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-63",
+      "setId": "gym2",
+      "collectorNumber": "63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-21",
+    "englishName": "Blaine's Ninetales",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "21",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/21.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-21",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:21:english:gym2-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-21",
+      "setId": "gym2",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-64",
+    "englishName": "Blaine's Ponyta",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "64",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/64.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-64",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:64:english:gym2-64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-64",
+      "setId": "gym2",
+      "collectorNumber": "64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-111",
+    "englishName": "Blaine's Quiz #2",
+    "category": "Trainer",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "111",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/111.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/111_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-111",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:111:english:gym2-111",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-111",
+      "setId": "gym2",
+      "collectorNumber": "111",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-111",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-112",
+    "englishName": "Blaine's Quiz #3",
+    "category": "Trainer",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "112",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/112.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/112_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-112",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:112:english:gym2-112",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-112",
+      "setId": "gym2",
+      "collectorNumber": "112",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-112",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-33",
+    "englishName": "Blaine's Rapidash",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "33",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/33.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-33",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:33:english:gym2-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-33",
+      "setId": "gym2",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-65",
+    "englishName": "Blaine's Rhyhorn",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "65",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/65.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-65",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:65:english:gym2-65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-65",
+      "setId": "gym2",
+      "collectorNumber": "65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-66",
+    "englishName": "Blaine's Vulpix",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "66",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/66.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-66",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:66:english:gym2-66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-66",
+      "setId": "gym2",
+      "collectorNumber": "66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-100",
+    "englishName": "Blaine",
+    "category": "Trainer",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "100",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/100.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/100_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-100",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:100:english:gym2-100",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-100",
+      "setId": "gym2",
+      "collectorNumber": "100",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-100",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-17",
+    "englishName": "Blaine",
+    "category": "Trainer",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "17",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/17.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-17",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:17:english:gym2-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-17",
+      "setId": "gym2",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-67",
+    "englishName": "Brock's Diglett",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "67",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/67.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-67",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:67:english:gym2-67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-67",
+      "setId": "gym2",
+      "collectorNumber": "67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-22",
+    "englishName": "Brock's Dugtrio",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "22",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/22.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-22",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:22:english:gym2-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-22",
+      "setId": "gym2",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-68",
+    "englishName": "Brock's Geodude",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "68",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/68.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-68",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:68:english:gym2-68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-68",
+      "setId": "gym2",
+      "collectorNumber": "68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-34",
+    "englishName": "Brock's Graveler",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "34",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/34.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-34",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:34:english:gym2-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-34",
+      "setId": "gym2",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-3",
+    "englishName": "Brock's Ninetales",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "3",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/3.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-3",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:3:english:gym2-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-3",
+      "setId": "gym2",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-35",
+    "englishName": "Brock's Primeape",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "35",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/35.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-35",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:35:english:gym2-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-35",
+      "setId": "gym2",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-101",
+    "englishName": "Brock's Protection",
+    "category": "Trainer",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "101",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/101.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/101_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-101",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:101:english:gym2-101",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-101",
+      "setId": "gym2",
+      "collectorNumber": "101",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-101",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-36",
+    "englishName": "Brock's Sandslash",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "36",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/36.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-36",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:36:english:gym2-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-36",
+      "setId": "gym2",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-37",
+    "englishName": "Brock's Vulpix",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "37",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/37.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-37",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:37:english:gym2-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-37",
+      "setId": "gym2",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-102",
+    "englishName": "Chaos Gym",
+    "category": "Trainer",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "102",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/102.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/102_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-102",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:102:english:gym2-102",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-102",
+      "setId": "gym2",
+      "collectorNumber": "102",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-102",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-113",
+    "englishName": "Cinnabar City Gym",
+    "category": "Trainer",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "113",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/113.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/113_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-113",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:113:english:gym2-113",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-113",
+      "setId": "gym2",
+      "collectorNumber": "113",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-113",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-38",
+    "englishName": "Erika's Bellsprout",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "38",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/38.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-38",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:38:english:gym2-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-38",
+      "setId": "gym2",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-39",
+    "englishName": "Erika's Bulbasaur",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "39",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/39.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-39",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:39:english:gym2-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-39",
+      "setId": "gym2",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-40",
+    "englishName": "Erika's Clefairy",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "40",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/40.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-40",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:40:english:gym2-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-40",
+      "setId": "gym2",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-41",
+    "englishName": "Erika's Ivysaur",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "41",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/41.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-41",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:41:english:gym2-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-41",
+      "setId": "gym2",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-69",
+    "englishName": "Erika's Jigglypuff",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "69",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/69.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-69",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:69:english:gym2-69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-69",
+      "setId": "gym2",
+      "collectorNumber": "69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-103",
+    "englishName": "Erika's Kindness",
+    "category": "Trainer",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "103",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/103.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/103_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-103",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:103:english:gym2-103",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-103",
+      "setId": "gym2",
+      "collectorNumber": "103",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-103",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-70",
+    "englishName": "Erika's Oddish",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "70",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/70.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-70",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:70:english:gym2-70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-70",
+      "setId": "gym2",
+      "collectorNumber": "70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-71",
+    "englishName": "Erika's Paras",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "71",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/71.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-71",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:71:english:gym2-71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-71",
+      "setId": "gym2",
+      "collectorNumber": "71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-4",
+    "englishName": "Erika's Venusaur",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "4",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/4.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-4",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:4:english:gym2-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-4",
+      "setId": "gym2",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-124",
+    "englishName": "Fervor",
+    "category": "Trainer",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "124",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/124.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/124_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-124",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:124:english:gym2-124",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-124",
+      "setId": "gym2",
+      "collectorNumber": "124",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-124",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-127",
+    "englishName": "Fighting Energy",
+    "category": "Energy",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "127",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/127.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/127_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-127",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:127:english:gym2-127",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-127",
+      "setId": "gym2",
+      "collectorNumber": "127",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-127",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-128",
+    "englishName": "Fire Energy",
+    "category": "Energy",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "128",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/128.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/128_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-128",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:128:english:gym2-128",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-128",
+      "setId": "gym2",
+      "collectorNumber": "128",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-128",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-114",
+    "englishName": "Fuchsia City Gym",
+    "category": "Trainer",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "114",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/114.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/114_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-114",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:114:english:gym2-114",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-114",
+      "setId": "gym2",
+      "collectorNumber": "114",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-114",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-5",
+    "englishName": "Giovanni's Gyarados",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "5",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/5.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-5",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:5:english:gym2-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-5",
+      "setId": "gym2",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-105",
+    "englishName": "Giovanni's Last Resort",
+    "category": "Trainer",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "105",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/105.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/105_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-105",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:105:english:gym2-105",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-105",
+      "setId": "gym2",
+      "collectorNumber": "105",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-105",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-6",
+    "englishName": "Giovanni's Machamp",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "6",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/6.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-6",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:6:english:gym2-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-6",
+      "setId": "gym2",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-42",
+    "englishName": "Giovanni's Machoke",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "42",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/42.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-42",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:42:english:gym2-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-42",
+      "setId": "gym2",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-72",
+    "englishName": "Giovanni's Machop",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "72",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/72.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-72",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:72:english:gym2-72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-72",
+      "setId": "gym2",
+      "collectorNumber": "72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-73",
+    "englishName": "Giovanni's Magikarp",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "73",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/73.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-73",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:73:english:gym2-73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-73",
+      "setId": "gym2",
+      "collectorNumber": "73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-43",
+    "englishName": "Giovanni's Meowth",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "43",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/43.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-43",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:43:english:gym2-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-43",
+      "setId": "gym2",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-74",
+    "englishName": "Giovanni's Meowth",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "74",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/74.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-74",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:74:english:gym2-74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-74",
+      "setId": "gym2",
+      "collectorNumber": "74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-7",
+    "englishName": "Giovanni's Nidoking",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "7",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/7.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-7",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:7:english:gym2-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-7",
+      "setId": "gym2",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-23",
+    "englishName": "Giovanni's Nidoqueen",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "23",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/23.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-23",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:23:english:gym2-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-23",
+      "setId": "gym2",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-75",
+    "englishName": "Giovanni's Nidoran ♀",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "75",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/75.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-75",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:75:english:gym2-75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-75",
+      "setId": "gym2",
+      "collectorNumber": "75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-76",
+    "englishName": "Giovanni's Nidoran ♂",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "76",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/76.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-76",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:76:english:gym2-76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-76",
+      "setId": "gym2",
+      "collectorNumber": "76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-44",
+    "englishName": "Giovanni's Nidorina",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "44",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/44.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-44",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:44:english:gym2-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-44",
+      "setId": "gym2",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-45",
+    "englishName": "Giovanni's Nidorino",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "45",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/45.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-45",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:45:english:gym2-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-45",
+      "setId": "gym2",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-8",
+    "englishName": "Giovanni's Persian",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "8",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/8.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-8",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:8:english:gym2-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-8",
+      "setId": "gym2",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-24",
+    "englishName": "Giovanni's Pinsir",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "24",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/24.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-24",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:24:english:gym2-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-24",
+      "setId": "gym2",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-104",
+    "englishName": "Giovanni",
+    "category": "Trainer",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "104",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/104.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/104_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-104",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:104:english:gym2-104",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-104",
+      "setId": "gym2",
+      "collectorNumber": "104",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-104",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-18",
+    "englishName": "Giovanni",
+    "category": "Trainer",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "18",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/18.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-18",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:18:english:gym2-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-18",
+      "setId": "gym2",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-129",
+    "englishName": "Grass Energy",
+    "category": "Energy",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "129",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/129.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/129_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-129",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:129:english:gym2-129",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-129",
+      "setId": "gym2",
+      "collectorNumber": "129",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-129",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-25",
+    "englishName": "Koga's Arbok",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "25",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/25.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-25",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:25:english:gym2-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-25",
+      "setId": "gym2",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-9",
+    "englishName": "Koga's Beedrill",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "9",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/9.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-9",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:9:english:gym2-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-9",
+      "setId": "gym2",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-10",
+    "englishName": "Koga's Ditto",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "10",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/10.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-10",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:10:english:gym2-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-10",
+      "setId": "gym2",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-77",
+    "englishName": "Koga's Ekans",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "77",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/77.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-77",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:77:english:gym2-77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-77",
+      "setId": "gym2",
+      "collectorNumber": "77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-46",
+    "englishName": "Koga's Golbat",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "46",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/46.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-46",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:46:english:gym2-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-46",
+      "setId": "gym2",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-78",
+    "englishName": "Koga's Grimer",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "78",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/78.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-78",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:78:english:gym2-78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-78",
+      "setId": "gym2",
+      "collectorNumber": "78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-47",
+    "englishName": "Koga's Kakuna",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "47",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/47.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-47",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:47:english:gym2-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-47",
+      "setId": "gym2",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-48",
+    "englishName": "Koga's Koffing",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "48",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/48.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-48",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:48:english:gym2-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-48",
+      "setId": "gym2",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-79",
+    "englishName": "Koga's Koffing",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "79",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/79.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/79_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-79",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:79:english:gym2-79",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-79",
+      "setId": "gym2",
+      "collectorNumber": "79",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-79",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-26",
+    "englishName": "Koga's Muk",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "26",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/26.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-26",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:26:english:gym2-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-26",
+      "setId": "gym2",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-115",
+    "englishName": "Koga's Ninja Trick",
+    "category": "Trainer",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "115",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/115.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/115_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-115",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:115:english:gym2-115",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-115",
+      "setId": "gym2",
+      "collectorNumber": "115",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-115",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-27",
+    "englishName": "Koga's Pidgeotto",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "27",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/27.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-27",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:27:english:gym2-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-27",
+      "setId": "gym2",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-49",
+    "englishName": "Koga's Pidgey",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "49",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/49.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-49",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:49:english:gym2-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-49",
+      "setId": "gym2",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-80",
+    "englishName": "Koga's Pidgey",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "80",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/80.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/80_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-80",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:80:english:gym2-80",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-80",
+      "setId": "gym2",
+      "collectorNumber": "80",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-80",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-81",
+    "englishName": "Koga's Tangela",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "81",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/81.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/81_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-81",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:81:english:gym2-81",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-81",
+      "setId": "gym2",
+      "collectorNumber": "81",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-81",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-82",
+    "englishName": "Koga's Weedle",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "82",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/82.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/82_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-82",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:82:english:gym2-82",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-82",
+      "setId": "gym2",
+      "collectorNumber": "82",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-82",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-50",
+    "englishName": "Koga's Weezing",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "50",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/50.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-50",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:50:english:gym2-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-50",
+      "setId": "gym2",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-83",
+    "englishName": "Koga's Zubat",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "83",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/83.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/83_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-83",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:83:english:gym2-83",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-83",
+      "setId": "gym2",
+      "collectorNumber": "83",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-83",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-106",
+    "englishName": "Koga",
+    "category": "Trainer",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "106",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/106.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/106_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-106",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:106:english:gym2-106",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-106",
+      "setId": "gym2",
+      "collectorNumber": "106",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-106",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-19",
+    "englishName": "Koga",
+    "category": "Trainer",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "19",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/19.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-19",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:19:english:gym2-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-19",
+      "setId": "gym2",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-130",
+    "englishName": "Lightning Energy",
+    "category": "Energy",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "130",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/130.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/130_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-130",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:130:english:gym2-130",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-130",
+      "setId": "gym2",
+      "collectorNumber": "130",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-130",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-51",
+    "englishName": "Lt. Surge's Eevee",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "51",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/51.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-51",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:51:english:gym2-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-51",
+      "setId": "gym2",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-52",
+    "englishName": "Lt. Surge's Electrode",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "52",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/52.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-52",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:52:english:gym2-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-52",
+      "setId": "gym2",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-28",
+    "englishName": "Lt. Surge's Jolteon",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "28",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/28.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-28",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:28:english:gym2-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-28",
+      "setId": "gym2",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-84",
+    "englishName": "Lt. Surge's Pikachu",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "84",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/84.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/84_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-84",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:84:english:gym2-84",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-84",
+      "setId": "gym2",
+      "collectorNumber": "84",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-84",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-11",
+    "englishName": "Lt. Surge's Raichu",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "11",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/11.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-11",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:11:english:gym2-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-11",
+      "setId": "gym2",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-53",
+    "englishName": "Lt. Surge's Raticate",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "53",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/53.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-53",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:53:english:gym2-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-53",
+      "setId": "gym2",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-85",
+    "englishName": "Lt. Surge's Rattata",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "85",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/85.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/85_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-85",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:85:english:gym2-85",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-85",
+      "setId": "gym2",
+      "collectorNumber": "85",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-85",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-107",
+    "englishName": "Lt. Surge's Secret Plan",
+    "category": "Trainer",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "107",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/107.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/107_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-107",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:107:english:gym2-107",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-107",
+      "setId": "gym2",
+      "collectorNumber": "107",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-107",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-86",
+    "englishName": "Lt. Surge's Voltorb",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "86",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/86.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/86_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-86",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:86:english:gym2-86",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-86",
+      "setId": "gym2",
+      "collectorNumber": "86",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-86",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-116",
+    "englishName": "Master Ball",
+    "category": "Trainer",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "116",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/116.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/116_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-116",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:116:english:gym2-116",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-116",
+      "setId": "gym2",
+      "collectorNumber": "116",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-116",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-117",
+    "englishName": "Max Revive",
+    "category": "Trainer",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "117",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/117.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/117_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-117",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:117:english:gym2-117",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-117",
+      "setId": "gym2",
+      "collectorNumber": "117",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-117",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-54",
+    "englishName": "Misty's Dewgong",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "54",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/54.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-54",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:54:english:gym2-54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-54",
+      "setId": "gym2",
+      "collectorNumber": "54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-12",
+    "englishName": "Misty's Golduck",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "12",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/12.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-12",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:12:english:gym2-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-12",
+      "setId": "gym2",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-13",
+    "englishName": "Misty's Gyarados",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "13",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/13.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-13",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:13:english:gym2-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-13",
+      "setId": "gym2",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-87",
+    "englishName": "Misty's Horsea",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "87",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/87.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/87_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-87",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:87:english:gym2-87",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-87",
+      "setId": "gym2",
+      "collectorNumber": "87",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-87",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-88",
+    "englishName": "Misty's Magikarp",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "88",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/88.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/88_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-88",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:88:english:gym2-88",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-88",
+      "setId": "gym2",
+      "collectorNumber": "88",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-88",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-89",
+    "englishName": "Misty's Poliwag",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "89",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/89.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/89_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-89",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:89:english:gym2-89",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-89",
+      "setId": "gym2",
+      "collectorNumber": "89",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-89",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-90",
+    "englishName": "Misty's Psyduck",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "90",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/90.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/90_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-90",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:90:english:gym2-90",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-90",
+      "setId": "gym2",
+      "collectorNumber": "90",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-90",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-91",
+    "englishName": "Misty's Seel",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "91",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/91.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/91_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-91",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:91:english:gym2-91",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-91",
+      "setId": "gym2",
+      "collectorNumber": "91",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-91",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-92",
+    "englishName": "Misty's Staryu",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "92",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/92.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/92_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-92",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:92:english:gym2-92",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-92",
+      "setId": "gym2",
+      "collectorNumber": "92",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-92",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-118",
+    "englishName": "Misty's Tears",
+    "category": "Trainer",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "118",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/118.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/118_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-118",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:118:english:gym2-118",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-118",
+      "setId": "gym2",
+      "collectorNumber": "118",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-118",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-108",
+    "englishName": "Misty's Wish",
+    "category": "Trainer",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "108",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/108.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/108_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-108",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:108:english:gym2-108",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-108",
+      "setId": "gym2",
+      "collectorNumber": "108",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-108",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-131",
+    "englishName": "Psychic Energy",
+    "category": "Energy",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "131",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/131.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/131_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-131",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:131:english:gym2-131",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-131",
+      "setId": "gym2",
+      "collectorNumber": "131",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-131",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-109",
+    "englishName": "Resistance Gym",
+    "category": "Trainer",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "109",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/109.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/109_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-109",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:109:english:gym2-109",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-109",
+      "setId": "gym2",
+      "collectorNumber": "109",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-109",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-14",
+    "englishName": "Rocket's Mewtwo",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "14",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/14.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-14",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:14:english:gym2-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-14",
+      "setId": "gym2",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-119",
+    "englishName": "Rocket's Minefield Gym",
+    "category": "Trainer",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "119",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/119.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/119_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-119",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:119:english:gym2-119",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-119",
+      "setId": "gym2",
+      "collectorNumber": "119",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-119",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-120",
+    "englishName": "Rocket's Secret Experiment",
+    "category": "Trainer",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "120",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/120.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/120_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-120",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:120:english:gym2-120",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-120",
+      "setId": "gym2",
+      "collectorNumber": "120",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-120",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-15",
+    "englishName": "Rocket's Zapdos",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "15",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/15.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-15",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:15:english:gym2-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-15",
+      "setId": "gym2",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-93",
+    "englishName": "Sabrina's Abra",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "93",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/93.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/93_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-93",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:93:english:gym2-93",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-93",
+      "setId": "gym2",
+      "collectorNumber": "93",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-93",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-94",
+    "englishName": "Sabrina's Abra",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "94",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/94.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/94_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-94",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:94:english:gym2-94",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-94",
+      "setId": "gym2",
+      "collectorNumber": "94",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-94",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-16",
+    "englishName": "Sabrina's Alakazam",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "16",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/16.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-16",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:16:english:gym2-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-16",
+      "setId": "gym2",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-95",
+    "englishName": "Sabrina's Drowzee",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "95",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/95.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/95_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-95",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:95:english:gym2-95",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-95",
+      "setId": "gym2",
+      "collectorNumber": "95",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-95",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-96",
+    "englishName": "Sabrina's Gastly",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "96",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/96.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/96_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-96",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:96:english:gym2-96",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-96",
+      "setId": "gym2",
+      "collectorNumber": "96",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-96",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-97",
+    "englishName": "Sabrina's Gastly",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "97",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/97.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/97_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-97",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:97:english:gym2-97",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-97",
+      "setId": "gym2",
+      "collectorNumber": "97",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-97",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-29",
+    "englishName": "Sabrina's Gengar",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "29",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/29.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-29",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:29:english:gym2-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-29",
+      "setId": "gym2",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-30",
+    "englishName": "Sabrina's Golduck",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "30",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/30.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-30",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:30:english:gym2-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-30",
+      "setId": "gym2",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-55",
+    "englishName": "Sabrina's Haunter",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "55",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/55.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-55",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:55:english:gym2-55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-55",
+      "setId": "gym2",
+      "collectorNumber": "55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-56",
+    "englishName": "Sabrina's Hypno",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "56",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/56.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-56",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:56:english:gym2-56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-56",
+      "setId": "gym2",
+      "collectorNumber": "56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-57",
+    "englishName": "Sabrina's Jynx",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "57",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/57.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-57",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:57:english:gym2-57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-57",
+      "setId": "gym2",
+      "collectorNumber": "57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-58",
+    "englishName": "Sabrina's Kadabra",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "58",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/58.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-58",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:58:english:gym2-58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-58",
+      "setId": "gym2",
+      "collectorNumber": "58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-59",
+    "englishName": "Sabrina's Mr. Mime",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "59",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/59.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-59",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:59:english:gym2-59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-59",
+      "setId": "gym2",
+      "collectorNumber": "59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-98",
+    "englishName": "Sabrina's Porygon",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "98",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/98.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/98_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-98",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:98:english:gym2-98",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-98",
+      "setId": "gym2",
+      "collectorNumber": "98",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-98",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-121",
+    "englishName": "Sabrina's Psychic Control",
+    "category": "Trainer",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "121",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/121.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/121_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-121",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:121:english:gym2-121",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-121",
+      "setId": "gym2",
+      "collectorNumber": "121",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-121",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-99",
+    "englishName": "Sabrina's Psyduck",
+    "category": "Pokemon",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "99",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/99.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/99_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-99",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:99:english:gym2-99",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-99",
+      "setId": "gym2",
+      "collectorNumber": "99",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-99",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-110",
+    "englishName": "Sabrina",
+    "category": "Trainer",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "110",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/110.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/110_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-110",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:110:english:gym2-110",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-110",
+      "setId": "gym2",
+      "collectorNumber": "110",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-110",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-20",
+    "englishName": "Sabrina",
+    "category": "Trainer",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "20",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/20.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-20",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:20:english:gym2-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-20",
+      "setId": "gym2",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-122",
+    "englishName": "Saffron City Gym",
+    "category": "Trainer",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "122",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/122.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/122_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-122",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:122:english:gym2-122",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-122",
+      "setId": "gym2",
+      "collectorNumber": "122",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-122",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-125",
+    "englishName": "Transparent Walls",
+    "category": "Trainer",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "125",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/125.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/125_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-125",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:125:english:gym2-125",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-125",
+      "setId": "gym2",
+      "collectorNumber": "125",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-125",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-123",
+    "englishName": "Viridian City Gym",
+    "category": "Trainer",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "123",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/123.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/123_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-123",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:123:english:gym2-123",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-123",
+      "setId": "gym2",
+      "collectorNumber": "123",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-123",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-126",
+    "englishName": "Warp Point",
+    "category": "Trainer",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "126",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/126.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/126_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-126",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:126:english:gym2-126",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-126",
+      "setId": "gym2",
+      "collectorNumber": "126",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-126",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym2-132",
+    "englishName": "Water Energy",
+    "category": "Energy",
+    "setCode": "G2",
+    "setName": "Gym Challenge",
+    "cardNumber": "132",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym2/132.png",
+    "imageLarge": "https://images.pokemontcg.io/gym2/132_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym2-132",
+    "sourceSetId": "gym2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym2:132:english:gym2-132",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym2-132",
+      "setId": "gym2",
+      "collectorNumber": "132",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym2-132",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

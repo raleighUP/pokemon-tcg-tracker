@@ -1,0 +1,4869 @@
+[
+  {
+    "id": "sm1-86",
+    "englishName": "Alolan Diglett",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "86",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/86.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/86_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-86",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:86:english:sm1-86",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-86",
+      "setId": "sm1",
+      "collectorNumber": "86",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-86",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-87",
+    "englishName": "Alolan Dugtrio",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "87",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/87.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/87_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-87",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:87:english:sm1-87",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-87",
+      "setId": "sm1",
+      "collectorNumber": "87",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-87",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-57",
+    "englishName": "Alolan Grimer",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "57",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/57.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-57",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:57:english:sm1-57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-57",
+      "setId": "sm1",
+      "collectorNumber": "57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-78",
+    "englishName": "Alolan Meowth",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "78",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/78.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-78",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:78:english:sm1-78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-78",
+      "setId": "sm1",
+      "collectorNumber": "78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-58",
+    "englishName": "Alolan Muk",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "58",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/58.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-58",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:58:english:sm1-58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-58",
+      "setId": "sm1",
+      "collectorNumber": "58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-79",
+    "englishName": "Alolan Persian",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "79",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/79.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/79_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-79",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:79:english:sm1-79",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-79",
+      "setId": "sm1",
+      "collectorNumber": "79",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-79",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-77",
+    "englishName": "Alolan Raticate",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "77",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/77.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-77",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:77:english:sm1-77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-77",
+      "setId": "sm1",
+      "collectorNumber": "77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-76",
+    "englishName": "Alolan Rattata",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "76",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/76.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-76",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:76:english:sm1-76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-76",
+      "setId": "sm1",
+      "collectorNumber": "76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-46",
+    "englishName": "Araquanid",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "46",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/46.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-46",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:46:english:sm1-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-46",
+      "setId": "sm1",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-22",
+    "englishName": "Arcanine",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "22",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/22.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-22",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:22:english:sm1-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-22",
+      "setId": "sm1",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-112",
+    "englishName": "Bewear",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "112",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/112.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/112_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-112",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:112:english:sm1-112",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-112",
+      "setId": "sm1",
+      "collectorNumber": "112",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-112",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-114",
+    "englishName": "Big Malasada",
+    "category": "Trainer",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "114",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/114.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/114_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-114",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:114:english:sm1-114",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-114",
+      "setId": "sm1",
+      "collectorNumber": "114",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-114",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-70",
+    "englishName": "Boldore",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "70",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/70.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-70",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:70:english:sm1-70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-70",
+      "setId": "sm1",
+      "collectorNumber": "70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-18",
+    "englishName": "Bounsweet",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "18",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/18.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-18",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:18:english:sm1-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-18",
+      "setId": "sm1",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-40",
+    "englishName": "Brionne",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "40",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/40.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-40",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:40:english:sm1-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-40",
+      "setId": "sm1",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-48",
+    "englishName": "Bruxish",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "48",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/48.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-48",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:48:english:sm1-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-48",
+      "setId": "sm1",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-3",
+    "englishName": "Butterfree",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "3",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/3.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-3",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:3:english:sm1-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-3",
+      "setId": "sm1",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-81",
+    "englishName": "Carvanha",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "81",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/81.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/81_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-81",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:81:english:sm1-81",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-81",
+      "setId": "sm1",
+      "collectorNumber": "81",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-81",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-1",
+    "englishName": "Caterpie",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "1",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/1.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-1",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:1:english:sm1-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-1",
+      "setId": "sm1",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-51",
+    "englishName": "Charjabug",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "51",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/51.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-51",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:51:english:sm1-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-51",
+      "setId": "sm1",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-49",
+    "englishName": "Chinchou",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "49",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/49.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-49",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:49:english:sm1-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-49",
+      "setId": "sm1",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-34",
+    "englishName": "Cloyster",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "34",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/34.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-34",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:34:english:sm1-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-34",
+      "setId": "sm1",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-36",
+    "englishName": "Corsola",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "36",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/36.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-36",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:36:english:sm1-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-36",
+      "setId": "sm1",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-65",
+    "englishName": "Cosmoem",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "65",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/65.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-65",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:65:english:sm1-65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-65",
+      "setId": "sm1",
+      "collectorNumber": "65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-64",
+    "englishName": "Cosmog",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "64",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/64.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-64",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:64:english:sm1-64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-64",
+      "setId": "sm1",
+      "collectorNumber": "64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-43",
+    "englishName": "Crabominable",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "43",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/43.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-43",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:43:english:sm1-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-43",
+      "setId": "sm1",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-72",
+    "englishName": "Crabrawler",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "72",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/72.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-72",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:72:english:sm1-72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-72",
+      "setId": "sm1",
+      "collectorNumber": "72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-56",
+    "englishName": "Crobat",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "56",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/56.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-56",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:56:english:sm1-56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-56",
+      "setId": "sm1",
+      "collectorNumber": "56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-115",
+    "englishName": "Crushing Hammer",
+    "category": "Trainer",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "115",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/115.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/115_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-115",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:115:english:sm1-115",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-115",
+      "setId": "sm1",
+      "collectorNumber": "115",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-115",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-92",
+    "englishName": "Cutiefly",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "92",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/92.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/92_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-92",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:92:english:sm1-92",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-92",
+      "setId": "sm1",
+      "collectorNumber": "92",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-92",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-170",
+    "englishName": "Darkness Energy",
+    "category": "Energy",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "170",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/170.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/170_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-170",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:170:english:sm1-170",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-170",
+      "setId": "sm1",
+      "collectorNumber": "170",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-170",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-10",
+    "englishName": "Dartrix",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "10",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/10.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-10",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:10:english:sm1-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-10",
+      "setId": "sm1",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-12",
+    "englishName": "Decidueye-GX",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "12",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/12.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-12",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:12:english:sm1-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-12",
+      "setId": "sm1",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-11",
+    "englishName": "Decidueye",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "11",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/11.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-11",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:11:english:sm1-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-11",
+      "setId": "sm1",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-45",
+    "englishName": "Dewpider",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "45",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/45.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-45",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:45:english:sm1-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-45",
+      "setId": "sm1",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-136",
+    "englishName": "Double Colorless Energy",
+    "category": "Energy",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "136",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/136.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/136_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-136",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:136:english:sm1-136",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-136",
+      "setId": "sm1",
+      "collectorNumber": "136",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-136",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-95",
+    "englishName": "Dragonair",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "95",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/95.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/95_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-95",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:95:english:sm1-95",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-95",
+      "setId": "sm1",
+      "collectorNumber": "95",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-95",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-96",
+    "englishName": "Dragonite",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "96",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/96.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/96_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-96",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:96:english:sm1-96",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-96",
+      "setId": "sm1",
+      "collectorNumber": "96",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-96",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-94",
+    "englishName": "Dratini",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "94",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/94.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/94_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-94",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:94:english:sm1-94",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-94",
+      "setId": "sm1",
+      "collectorNumber": "94",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-94",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-59",
+    "englishName": "Drowzee",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "59",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/59.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-59",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:59:english:sm1-59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-59",
+      "setId": "sm1",
+      "collectorNumber": "59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-101",
+    "englishName": "Eevee",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "101",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/101.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/101_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-101",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:101:english:sm1-101",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-101",
+      "setId": "sm1",
+      "collectorNumber": "101",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-101",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-101a",
+    "englishName": "Eevee",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "101a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/101a.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/101a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-101a",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:101a:english:sm1-101a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-101a",
+      "setId": "sm1",
+      "collectorNumber": "101a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-101a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-116",
+    "englishName": "Energy Retrieval",
+    "category": "Trainer",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "116",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/116.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/116_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-116",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:116:english:sm1-116",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-116",
+      "setId": "sm1",
+      "collectorNumber": "116",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-116",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-117",
+    "englishName": "Energy Switch",
+    "category": "Trainer",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "117",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/117.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/117_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-117",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:117:english:sm1-117",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-117",
+      "setId": "sm1",
+      "collectorNumber": "117",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-117",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-140",
+    "englishName": "Espeon-GX",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "140",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/140.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/140_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-140",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:140:english:sm1-140",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-140",
+      "setId": "sm1",
+      "collectorNumber": "140",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-140",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-152",
+    "englishName": "Espeon-GX",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "152",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/152.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/152_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-152",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:152:english:sm1-152",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-152",
+      "setId": "sm1",
+      "collectorNumber": "152",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-152",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-61",
+    "englishName": "Espeon-GX",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "61",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/61.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-61",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:61:english:sm1-61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-61",
+      "setId": "sm1",
+      "collectorNumber": "61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-118",
+    "englishName": "Exp. Share",
+    "category": "Trainer",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "118",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/118.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/118_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-118",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:118:english:sm1-118",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-118",
+      "setId": "sm1",
+      "collectorNumber": "118",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-118",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-172",
+    "englishName": "Fairy Energy",
+    "category": "Energy",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "172",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/172.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/172_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-172",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:172:english:sm1-172",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-172",
+      "setId": "sm1",
+      "collectorNumber": "172",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-172",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-98",
+    "englishName": "Fearow",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "98",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/98.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/98_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-98",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:98:english:sm1-98",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-98",
+      "setId": "sm1",
+      "collectorNumber": "98",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-98",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-169",
+    "englishName": "Fighting Energy",
+    "category": "Energy",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "169",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/169.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/169_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-169",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:169:english:sm1-169",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-169",
+      "setId": "sm1",
+      "collectorNumber": "169",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-169",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-165",
+    "englishName": "Fire Energy",
+    "category": "Energy",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "165",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/165.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/165_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-165",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:165:english:sm1-165",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-165",
+      "setId": "sm1",
+      "collectorNumber": "165",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-165",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-14",
+    "englishName": "Fomantis",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "14",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/14.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-14",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:14:english:sm1-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-14",
+      "setId": "sm1",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-71",
+    "englishName": "Gigalith",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "71",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/71.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-71",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:71:english:sm1-71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-71",
+      "setId": "sm1",
+      "collectorNumber": "71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-55",
+    "englishName": "Golbat",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "55",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/55.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-55",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:55:english:sm1-55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-55",
+      "setId": "sm1",
+      "collectorNumber": "55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-29",
+    "englishName": "Golduck",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "29",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/29.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-29",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:29:english:sm1-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-29",
+      "setId": "sm1",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-91",
+    "englishName": "Granbull",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "91",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/91.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/91_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-91",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:91:english:sm1-91",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-91",
+      "setId": "sm1",
+      "collectorNumber": "91",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-91",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-164",
+    "englishName": "Grass Energy",
+    "category": "Energy",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "164",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/164.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/164_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-164",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:164:english:sm1-164",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-164",
+      "setId": "sm1",
+      "collectorNumber": "164",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-164",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-119",
+    "englishName": "Great Ball",
+    "category": "Trainer",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "119",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/119.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/119_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-119",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:119:english:sm1-119",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-119",
+      "setId": "sm1",
+      "collectorNumber": "119",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-119",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-21",
+    "englishName": "Growlithe",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "21",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/21.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-21",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:21:english:sm1-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-21",
+      "setId": "sm1",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-13",
+    "englishName": "Grubbin",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "13",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/13.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-13",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:13:english:sm1-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-13",
+      "setId": "sm1",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-110",
+    "englishName": "Gumshoos-GX",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "110",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/110.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/110_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-110",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:110:english:sm1-110",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-110",
+      "setId": "sm1",
+      "collectorNumber": "110",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-110",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-145",
+    "englishName": "Gumshoos-GX",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "145",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/145.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/145_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-145",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:145:english:sm1-145",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-145",
+      "setId": "sm1",
+      "collectorNumber": "145",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-145",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-157",
+    "englishName": "Gumshoos-GX",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "157",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/157.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/157_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-157",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:157:english:sm1-157",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-157",
+      "setId": "sm1",
+      "collectorNumber": "157",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-157",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-68",
+    "englishName": "Hariyama",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "68",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/68.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-68",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:68:english:sm1-68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-68",
+      "setId": "sm1",
+      "collectorNumber": "68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-120",
+    "englishName": "Hau",
+    "category": "Trainer",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "120",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/120.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/120_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-120",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:120:english:sm1-120",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-120",
+      "setId": "sm1",
+      "collectorNumber": "120",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-120",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-104",
+    "englishName": "Herdier",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "104",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/104.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/104_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-104",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:104:english:sm1-104",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-104",
+      "setId": "sm1",
+      "collectorNumber": "104",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-104",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-60",
+    "englishName": "Hypno",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "60",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/60.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-60",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:60:english:sm1-60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-60",
+      "setId": "sm1",
+      "collectorNumber": "60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-121",
+    "englishName": "Ilima",
+    "category": "Trainer",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "121",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/121.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/121_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-121",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:121:english:sm1-121",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-121",
+      "setId": "sm1",
+      "collectorNumber": "121",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-121",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-146",
+    "englishName": "Ilima",
+    "category": "Trainer",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "146",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/146.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/146_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-146",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:146:english:sm1-146",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-146",
+      "setId": "sm1",
+      "collectorNumber": "146",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-146",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-27",
+    "englishName": "Incineroar-GX",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "27",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/27.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-27",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:27:english:sm1-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-27",
+      "setId": "sm1",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-26",
+    "englishName": "Incineroar",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "26",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/26.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-26",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:26:english:sm1-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-26",
+      "setId": "sm1",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-99",
+    "englishName": "Kangaskhan",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "99",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/99.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/99_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-99",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:99:english:sm1-99",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-99",
+      "setId": "sm1",
+      "collectorNumber": "99",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-99",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-84",
+    "englishName": "Krokorok",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "84",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/84.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/84_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-84",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:84:english:sm1-84",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-84",
+      "setId": "sm1",
+      "collectorNumber": "84",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-84",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-85",
+    "englishName": "Krookodile",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "85",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/85.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/85_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-85",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:85:english:sm1-85",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-85",
+      "setId": "sm1",
+      "collectorNumber": "85",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-85",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-50",
+    "englishName": "Lanturn",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "50",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/50.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-50",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:50:english:sm1-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-50",
+      "setId": "sm1",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-139",
+    "englishName": "Lapras-GX",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "139",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/139.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/139_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-139",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:139:english:sm1-139",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-139",
+      "setId": "sm1",
+      "collectorNumber": "139",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-139",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-151",
+    "englishName": "Lapras-GX",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "151",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/151.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/151_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-151",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:151:english:sm1-151",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-151",
+      "setId": "sm1",
+      "collectorNumber": "151",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-151",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-35",
+    "englishName": "Lapras-GX",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "35",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/35.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-35",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:35:english:sm1-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-35",
+      "setId": "sm1",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-167",
+    "englishName": "Lightning Energy",
+    "category": "Energy",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "167",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/167.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/167_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-167",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:167:english:sm1-167",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-167",
+      "setId": "sm1",
+      "collectorNumber": "167",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-167",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-122",
+    "englishName": "Lillie",
+    "category": "Trainer",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "122",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/122.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/122_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-122",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:122:english:sm1-122",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-122",
+      "setId": "sm1",
+      "collectorNumber": "122",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-122",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-147",
+    "englishName": "Lillie",
+    "category": "Trainer",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "147",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/147.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/147_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-147",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:147:english:sm1-147",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-147",
+      "setId": "sm1",
+      "collectorNumber": "147",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-147",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-103",
+    "englishName": "Lillipup",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "103",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/103.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/103_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-103",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:103:english:sm1-103",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-103",
+      "setId": "sm1",
+      "collectorNumber": "103",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-103",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-24",
+    "englishName": "Litten",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "24",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/24.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-24",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:24:english:sm1-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-24",
+      "setId": "sm1",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-141",
+    "englishName": "Lunala-GX",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "141",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/141.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/141_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-141",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:141:english:sm1-141",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-141",
+      "setId": "sm1",
+      "collectorNumber": "141",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-141",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-153",
+    "englishName": "Lunala-GX",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "153",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/153.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/153_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-153",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:153:english:sm1-153",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-153",
+      "setId": "sm1",
+      "collectorNumber": "153",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-153",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-66",
+    "englishName": "Lunala-GX",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "66",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/66.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-66",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:66:english:sm1-66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-66",
+      "setId": "sm1",
+      "collectorNumber": "66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-138",
+    "englishName": "Lurantis-GX",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "138",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/138.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/138_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-138",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:138:english:sm1-138",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-138",
+      "setId": "sm1",
+      "collectorNumber": "138",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-138",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-15",
+    "englishName": "Lurantis-GX",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "15",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/15.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-15",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:15:english:sm1-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-15",
+      "setId": "sm1",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-150",
+    "englishName": "Lurantis-GX",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "150",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/150.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/150_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-150",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:150:english:sm1-150",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-150",
+      "setId": "sm1",
+      "collectorNumber": "150",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-150",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-67",
+    "englishName": "Makuhita",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "67",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/67.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-67",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:67:english:sm1-67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-67",
+      "setId": "sm1",
+      "collectorNumber": "67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-62",
+    "englishName": "Mareanie",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "62",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/62.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-62",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:62:english:sm1-62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-62",
+      "setId": "sm1",
+      "collectorNumber": "62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-8",
+    "englishName": "Masquerain",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "8",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/8.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-8",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:8:english:sm1-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-8",
+      "setId": "sm1",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-163",
+    "englishName": "Metal Energy",
+    "category": "Energy",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "163",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/163.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/163_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-163",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:163:english:sm1-163",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-163",
+      "setId": "sm1",
+      "collectorNumber": "163",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-163",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-171",
+    "englishName": "Metal Energy",
+    "category": "Energy",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "171",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/171.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/171_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-171",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:171:english:sm1-171",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-171",
+      "setId": "sm1",
+      "collectorNumber": "171",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-171",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-2",
+    "englishName": "Metapod",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "2",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/2.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-2",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:2:english:sm1-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-2",
+      "setId": "sm1",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-16",
+    "englishName": "Morelull",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "16",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/16.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-16",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:16:english:sm1-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-16",
+      "setId": "sm1",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-123",
+    "englishName": "Nest Ball",
+    "category": "Trainer",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "123",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/123.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/123_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-123",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:123:english:sm1-123",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-123",
+      "setId": "sm1",
+      "collectorNumber": "123",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-123",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-158",
+    "englishName": "Nest Ball",
+    "category": "Trainer",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "158",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/158.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/158_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-158",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:158:english:sm1-158",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-158",
+      "setId": "sm1",
+      "collectorNumber": "158",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-158",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-113",
+    "englishName": "Oranguru",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "113",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/113.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/113_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-113",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:113:english:sm1-113",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-113",
+      "setId": "sm1",
+      "collectorNumber": "113",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-113",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-75",
+    "englishName": "Palossand",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "75",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/75.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-75",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:75:english:sm1-75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-75",
+      "setId": "sm1",
+      "collectorNumber": "75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-4",
+    "englishName": "Paras",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "4",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/4.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-4",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:4:english:sm1-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-4",
+      "setId": "sm1",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-5",
+    "englishName": "Parasect",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "5",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/5.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-5",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:5:english:sm1-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-5",
+      "setId": "sm1",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-73",
+    "englishName": "Passimian",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "73",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/73.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-73",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:73:english:sm1-73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-73",
+      "setId": "sm1",
+      "collectorNumber": "73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-38",
+    "englishName": "Pelipper",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "38",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/38.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-38",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:38:english:sm1-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-38",
+      "setId": "sm1",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-106",
+    "englishName": "Pikipek",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "106",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/106.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/106_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-106",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:106:english:sm1-106",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-106",
+      "setId": "sm1",
+      "collectorNumber": "106",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-106",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-6",
+    "englishName": "Pinsir",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "6",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/6.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-6",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:6:english:sm1-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-6",
+      "setId": "sm1",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-124",
+    "englishName": "Poison Barb",
+    "category": "Trainer",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "124",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/124.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/124_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-124",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:124:english:sm1-124",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-124",
+      "setId": "sm1",
+      "collectorNumber": "124",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-124",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-125",
+    "englishName": "Poké Ball",
+    "category": "Trainer",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "125",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/125.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/125_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-125",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:125:english:sm1-125",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-125",
+      "setId": "sm1",
+      "collectorNumber": "125",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-125",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-126",
+    "englishName": "Pokémon Catcher",
+    "category": "Trainer",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "126",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/126.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/126_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-126",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:126:english:sm1-126",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-126",
+      "setId": "sm1",
+      "collectorNumber": "126",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-126",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-30",
+    "englishName": "Poliwag",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "30",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/30.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-30",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:30:english:sm1-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-30",
+      "setId": "sm1",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-31",
+    "englishName": "Poliwhirl",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "31",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/31.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-31",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:31:english:sm1-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-31",
+      "setId": "sm1",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-32",
+    "englishName": "Poliwrath",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "32",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/32.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-32",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:32:english:sm1-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-32",
+      "setId": "sm1",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-39",
+    "englishName": "Popplio",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "39",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/39.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-39",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:39:english:sm1-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-39",
+      "setId": "sm1",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-127",
+    "englishName": "Potion",
+    "category": "Trainer",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "127",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/127.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/127_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-127",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:127:english:sm1-127",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-127",
+      "setId": "sm1",
+      "collectorNumber": "127",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-127",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-42",
+    "englishName": "Primarina-GX",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "42",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/42.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-42",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:42:english:sm1-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-42",
+      "setId": "sm1",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-41",
+    "englishName": "Primarina",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "41",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/41.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-41",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:41:english:sm1-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-41",
+      "setId": "sm1",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-128",
+    "englishName": "Professor Kukui",
+    "category": "Trainer",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "128",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/128.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/128_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-128",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:128:english:sm1-128",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-128",
+      "setId": "sm1",
+      "collectorNumber": "128",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-128",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-148",
+    "englishName": "Professor Kukui",
+    "category": "Trainer",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "148",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/148.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/148_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-148",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:148:english:sm1-148",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-148",
+      "setId": "sm1",
+      "collectorNumber": "148",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-148",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-162",
+    "englishName": "Psychic Energy",
+    "category": "Energy",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "162",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/162.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/162_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-162",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:162:english:sm1-162",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-162",
+      "setId": "sm1",
+      "collectorNumber": "162",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-162",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-168",
+    "englishName": "Psychic Energy",
+    "category": "Energy",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "168",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/168.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/168_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-168",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:168:english:sm1-168",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-168",
+      "setId": "sm1",
+      "collectorNumber": "168",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-168",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-28",
+    "englishName": "Psyduck",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "28",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/28.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-28",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:28:english:sm1-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-28",
+      "setId": "sm1",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-47",
+    "englishName": "Pyukumuku",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "47",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/47.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-47",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:47:english:sm1-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-47",
+      "setId": "sm1",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-137",
+    "englishName": "Rainbow Energy",
+    "category": "Energy",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "137",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/137.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/137_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-137",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:137:english:sm1-137",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-137",
+      "setId": "sm1",
+      "collectorNumber": "137",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-137",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-129",
+    "englishName": "Rare Candy",
+    "category": "Trainer",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "129",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/129.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/129_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-129",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:129:english:sm1-129",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-129",
+      "setId": "sm1",
+      "collectorNumber": "129",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-129",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-130",
+    "englishName": "Repel",
+    "category": "Trainer",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "130",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/130.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/130_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-130",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:130:english:sm1-130",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-130",
+      "setId": "sm1",
+      "collectorNumber": "130",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-130",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-93",
+    "englishName": "Ribombee",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "93",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/93.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/93_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-93",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:93:english:sm1-93",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-93",
+      "setId": "sm1",
+      "collectorNumber": "93",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-93",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-69",
+    "englishName": "Roggenrola",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "69",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/69.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-69",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:69:english:sm1-69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-69",
+      "setId": "sm1",
+      "collectorNumber": "69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-131",
+    "englishName": "Rotom Dex",
+    "category": "Trainer",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "131",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/131.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/131_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-131",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:131:english:sm1-131",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-131",
+      "setId": "sm1",
+      "collectorNumber": "131",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-131",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-159",
+    "englishName": "Rotom Dex",
+    "category": "Trainer",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "159",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/159.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/159_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-159",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:159:english:sm1-159",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-159",
+      "setId": "sm1",
+      "collectorNumber": "159",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-159",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-9",
+    "englishName": "Rowlet",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "9",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/9.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-9",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:9:english:sm1-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-9",
+      "setId": "sm1",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-83",
+    "englishName": "Sandile",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "83",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/83.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/83_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-83",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:83:english:sm1-83",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-83",
+      "setId": "sm1",
+      "collectorNumber": "83",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-83",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-74",
+    "englishName": "Sandygast",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "74",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/74.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-74",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:74:english:sm1-74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-74",
+      "setId": "sm1",
+      "collectorNumber": "74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-82",
+    "englishName": "Sharpedo",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "82",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/82.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/82_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-82",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:82:english:sm1-82",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-82",
+      "setId": "sm1",
+      "collectorNumber": "82",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-82",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-33",
+    "englishName": "Shellder",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "33",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/33.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-33",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:33:english:sm1-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-33",
+      "setId": "sm1",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-17",
+    "englishName": "Shiinotic",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "17",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/17.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-17",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:17:english:sm1-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-17",
+      "setId": "sm1",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-88",
+    "englishName": "Skarmory",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "88",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/88.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/88_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-88",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:88:english:sm1-88",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-88",
+      "setId": "sm1",
+      "collectorNumber": "88",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-88",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-90",
+    "englishName": "Snubbull",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "90",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/90.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/90_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-90",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:90:english:sm1-90",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-90",
+      "setId": "sm1",
+      "collectorNumber": "90",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-90",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-143",
+    "englishName": "Solgaleo-GX",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "143",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/143.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/143_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-143",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:143:english:sm1-143",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-143",
+      "setId": "sm1",
+      "collectorNumber": "143",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-143",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-155",
+    "englishName": "Solgaleo-GX",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "155",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/155.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/155_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-155",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:155:english:sm1-155",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-155",
+      "setId": "sm1",
+      "collectorNumber": "155",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-155",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-89",
+    "englishName": "Solgaleo-GX",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "89",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/89.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/89_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-89",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:89:english:sm1-89",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-89",
+      "setId": "sm1",
+      "collectorNumber": "89",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-89",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-97",
+    "englishName": "Spearow",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "97",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/97.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/97_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-97",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:97:english:sm1-97",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-97",
+      "setId": "sm1",
+      "collectorNumber": "97",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-97",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-102",
+    "englishName": "Spinda",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "102",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/102.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/102_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-102",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:102:english:sm1-102",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-102",
+      "setId": "sm1",
+      "collectorNumber": "102",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-102",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-19",
+    "englishName": "Steenee",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "19",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/19.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-19",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:19:english:sm1-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-19",
+      "setId": "sm1",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-105",
+    "englishName": "Stoutland",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "105",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/105.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/105_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-105",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:105:english:sm1-105",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-105",
+      "setId": "sm1",
+      "collectorNumber": "105",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-105",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-111",
+    "englishName": "Stufful",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "111",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/111.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/111_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-111",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:111:english:sm1-111",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-111",
+      "setId": "sm1",
+      "collectorNumber": "111",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-111",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-7",
+    "englishName": "Surskit",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "7",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/7.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-7",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:7:english:sm1-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-7",
+      "setId": "sm1",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-132",
+    "englishName": "Switch",
+    "category": "Trainer",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "132",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/132.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/132_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-132",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:132:english:sm1-132",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-132",
+      "setId": "sm1",
+      "collectorNumber": "132",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-132",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-160",
+    "englishName": "Switch",
+    "category": "Trainer",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "160",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/160.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/160_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-160",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:160:english:sm1-160",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-160",
+      "setId": "sm1",
+      "collectorNumber": "160",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-160",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-100",
+    "englishName": "Tauros-GX",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "100",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/100.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/100_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-100",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:100:english:sm1-100",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-100",
+      "setId": "sm1",
+      "collectorNumber": "100",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-100",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-144",
+    "englishName": "Tauros-GX",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "144",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/144.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/144_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-144",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:144:english:sm1-144",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-144",
+      "setId": "sm1",
+      "collectorNumber": "144",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-144",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-156",
+    "englishName": "Tauros-GX",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "156",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/156.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/156_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-156",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:156:english:sm1-156",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-156",
+      "setId": "sm1",
+      "collectorNumber": "156",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-156",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-133",
+    "englishName": "Team Skull Grunt",
+    "category": "Trainer",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "133",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/133.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/133_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-133",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:133:english:sm1-133",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-133",
+      "setId": "sm1",
+      "collectorNumber": "133",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-133",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-149",
+    "englishName": "Team Skull Grunt",
+    "category": "Trainer",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "149",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/149.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/149_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-149",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:149:english:sm1-149",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-149",
+      "setId": "sm1",
+      "collectorNumber": "149",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-149",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-134",
+    "englishName": "Timer Ball",
+    "category": "Trainer",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "134",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/134.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/134_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-134",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:134:english:sm1-134",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-134",
+      "setId": "sm1",
+      "collectorNumber": "134",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-134",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-53",
+    "englishName": "Togedemaru",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "53",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/53.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-53",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:53:english:sm1-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-53",
+      "setId": "sm1",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-23",
+    "englishName": "Torkoal",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "23",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/23.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-23",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:23:english:sm1-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-23",
+      "setId": "sm1",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-25",
+    "englishName": "Torracat",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "25",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/25.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-25",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:25:english:sm1-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-25",
+      "setId": "sm1",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-108",
+    "englishName": "Toucannon",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "108",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/108.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/108_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-108",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:108:english:sm1-108",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-108",
+      "setId": "sm1",
+      "collectorNumber": "108",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-108",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-63",
+    "englishName": "Toxapex",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "63",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/63.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-63",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:63:english:sm1-63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-63",
+      "setId": "sm1",
+      "collectorNumber": "63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-107",
+    "englishName": "Trumbeak",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "107",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/107.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/107_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-107",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:107:english:sm1-107",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-107",
+      "setId": "sm1",
+      "collectorNumber": "107",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-107",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-20",
+    "englishName": "Tsareena",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "20",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/20.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-20",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:20:english:sm1-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-20",
+      "setId": "sm1",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-135",
+    "englishName": "Ultra Ball",
+    "category": "Trainer",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "135",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/135.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/135_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-135",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:135:english:sm1-135",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-135",
+      "setId": "sm1",
+      "collectorNumber": "135",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-135",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-161",
+    "englishName": "Ultra Ball",
+    "category": "Trainer",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "161",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/161.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/161_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-161",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:161:english:sm1-161",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-161",
+      "setId": "sm1",
+      "collectorNumber": "161",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-161",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-142",
+    "englishName": "Umbreon-GX",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "142",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/142.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/142_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-142",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:142:english:sm1-142",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-142",
+      "setId": "sm1",
+      "collectorNumber": "142",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-142",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-154",
+    "englishName": "Umbreon-GX",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "154",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/154.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/154_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-154",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:154:english:sm1-154",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-154",
+      "setId": "sm1",
+      "collectorNumber": "154",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-154",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-80",
+    "englishName": "Umbreon-GX",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "80",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/80.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/80_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-80",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:80:english:sm1-80",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-80",
+      "setId": "sm1",
+      "collectorNumber": "80",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-80",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-52",
+    "englishName": "Vikavolt",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "52",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/52.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-52",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:52:english:sm1-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-52",
+      "setId": "sm1",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-166",
+    "englishName": "Water Energy",
+    "category": "Energy",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "166",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/166.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/166_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-166",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:166:english:sm1-166",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-166",
+      "setId": "sm1",
+      "collectorNumber": "166",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-166",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-37",
+    "englishName": "Wingull",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "37",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/37.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-37",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:37:english:sm1-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-37",
+      "setId": "sm1",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-44",
+    "englishName": "Wishiwashi",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "44",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/44.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-44",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:44:english:sm1-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-44",
+      "setId": "sm1",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-109",
+    "englishName": "Yungoos",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "109",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/109.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/109_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-109",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:109:english:sm1-109",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-109",
+      "setId": "sm1",
+      "collectorNumber": "109",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-109",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm1-54",
+    "englishName": "Zubat",
+    "category": "Pokemon",
+    "setCode": "SUM",
+    "setName": "Sun & Moon",
+    "cardNumber": "54",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm1/54.png",
+    "imageLarge": "https://images.pokemontcg.io/sm1/54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm1-54",
+    "sourceSetId": "sm1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm1:54:english:sm1-54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm1-54",
+      "setId": "sm1",
+      "collectorNumber": "54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm1-54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

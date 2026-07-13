@@ -1,0 +1,5547 @@
+[
+  {
+    "id": "sm9-88",
+    "englishName": "Absol",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "88",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/88.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/88_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-88",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:88:english:sm9-88",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-88",
+      "setId": "sm9",
+      "collectorNumber": "88",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-88",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-109",
+    "englishName": "Aegislash",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "109",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/109.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/109_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-109",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:109:english:sm9-109",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-109",
+      "setId": "sm9",
+      "collectorNumber": "109",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-109",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-130",
+    "englishName": "Aerodactyl",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "130",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/130.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/130_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-130",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:130:english:sm9-130",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-130",
+      "setId": "sm9",
+      "collectorNumber": "130",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-130",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-114",
+    "englishName": "Alolan Exeggutor",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "114",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/114.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/114_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-114",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:114:english:sm9-114",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-114",
+      "setId": "sm9",
+      "collectorNumber": "114",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-114",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-115",
+    "englishName": "Alolan Exeggutor",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "115",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/115.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/115_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-115",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:115:english:sm9-115",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-115",
+      "setId": "sm9",
+      "collectorNumber": "115",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-115",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-34",
+    "englishName": "Alolan Geodude",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "34",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/34.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-34",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:34:english:sm9-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-34",
+      "setId": "sm9",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-35",
+    "englishName": "Alolan Geodude",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "35",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/35.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-35",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:35:english:sm9-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-35",
+      "setId": "sm9",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-37",
+    "englishName": "Alolan Golem",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "37",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/37.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-37",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:37:english:sm9-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-37",
+      "setId": "sm9",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-36",
+    "englishName": "Alolan Graveler",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "36",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/36.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-36",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:36:english:sm9-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-36",
+      "setId": "sm9",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-83",
+    "englishName": "Alolan Grimer",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "83",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/83.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/83_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-83",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:83:english:sm9-83",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-83",
+      "setId": "sm9",
+      "collectorNumber": "83",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-83",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-64",
+    "englishName": "Alolan Marowak",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "64",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/64.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-64",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:64:english:sm9-64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-64",
+      "setId": "sm9",
+      "collectorNumber": "64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-84",
+    "englishName": "Alolan Muk",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "84",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/84.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/84_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-84",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:84:english:sm9-84",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-84",
+      "setId": "sm9",
+      "collectorNumber": "84",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-84",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-111",
+    "englishName": "Alolan Ninetales",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "111",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/111.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/111_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-111",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:111:english:sm9-111",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-111",
+      "setId": "sm9",
+      "collectorNumber": "111",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-111",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-163",
+    "englishName": "Ampharos-GX",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "163",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/163.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/163_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-163",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:163:english:sm9-163",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-163",
+      "setId": "sm9",
+      "collectorNumber": "163",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-163",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-185",
+    "englishName": "Ampharos-GX",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "185",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/185.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/185_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-185",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:185:english:sm9-185",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-185",
+      "setId": "sm9",
+      "collectorNumber": "185",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-185",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-43",
+    "englishName": "Ampharos-GX",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "43",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/43.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-43",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:43:english:sm9-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-43",
+      "setId": "sm9",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-32",
+    "englishName": "Articuno",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "32",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/32.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-32",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:32:english:sm9-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-32",
+      "setId": "sm9",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-5",
+    "englishName": "Beedrill",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "5",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/5.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-5",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:5:english:sm9-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-5",
+      "setId": "sm9",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-133",
+    "englishName": "Bill's Analysis",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "133",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/133.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/133_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-133",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:133:english:sm9-133",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-133",
+      "setId": "sm9",
+      "collectorNumber": "133",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-133",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-105",
+    "englishName": "Bisharp",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "105",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/105.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/105_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-105",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:105:english:sm9-105",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-105",
+      "setId": "sm9",
+      "collectorNumber": "105",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-105",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-134",
+    "englishName": "Black Market ◇",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "134",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/134.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/134_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-134",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:134:english:sm9-134",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-134",
+      "setId": "sm9",
+      "collectorNumber": "134",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-134",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-25",
+    "englishName": "Blastoise",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "25",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/25.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-25",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:25:english:sm9-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-25",
+      "setId": "sm9",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-44",
+    "englishName": "Blitzle",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "44",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/44.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-44",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:44:english:sm9-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-44",
+      "setId": "sm9",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-135",
+    "englishName": "Brock's Grit",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "135",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/135.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/135_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-135",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:135:english:sm9-135",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-135",
+      "setId": "sm9",
+      "collectorNumber": "135",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-135",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-172",
+    "englishName": "Brock's Grit",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "172",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/172.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/172_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-172",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:172:english:sm9-172",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-172",
+      "setId": "sm9",
+      "collectorNumber": "172",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-172",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-101",
+    "englishName": "Bronzong",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "101",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/101.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/101_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-101",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:101:english:sm9-101",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-101",
+      "setId": "sm9",
+      "collectorNumber": "101",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-101",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-100",
+    "englishName": "Bronzor",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "100",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/100.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/100_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-100",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:100:english:sm9-100",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-100",
+      "setId": "sm9",
+      "collectorNumber": "100",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-100",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-136",
+    "englishName": "Buff Padding",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "136",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/136.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/136_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-136",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:136:english:sm9-136",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-136",
+      "setId": "sm9",
+      "collectorNumber": "136",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-136",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-1",
+    "englishName": "Celebi & Venusaur-GX",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "1",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/1.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-1",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:1:english:sm9-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-1",
+      "setId": "sm9",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-159",
+    "englishName": "Celebi & Venusaur-GX",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "159",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/159.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/159_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-159",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:159:english:sm9-159",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-159",
+      "setId": "sm9",
+      "collectorNumber": "159",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-159",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-182",
+    "englishName": "Celebi & Venusaur-GX",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "182",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/182.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/182_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-182",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:182:english:sm9-182",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-182",
+      "setId": "sm9",
+      "collectorNumber": "182",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-182",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-14",
+    "englishName": "Charizard",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "14",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/14.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-14",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:14:english:sm9-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-14",
+      "setId": "sm9",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-11",
+    "englishName": "Charmander",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "11",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/11.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-11",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:11:english:sm9-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-11",
+      "setId": "sm9",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-12",
+    "englishName": "Charmander",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "12",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/12.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-12",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:12:english:sm9-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-12",
+      "setId": "sm9",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-13",
+    "englishName": "Charmeleon",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "13",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/13.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-13",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:13:english:sm9-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-13",
+      "setId": "sm9",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-106",
+    "englishName": "Cobalion-GX",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "106",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/106.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/106_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-106",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:106:english:sm9-106",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-106",
+      "setId": "sm9",
+      "collectorNumber": "106",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-106",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-168",
+    "englishName": "Cobalion-GX",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "168",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/168.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/168_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-168",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:168:english:sm9-168",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-168",
+      "setId": "sm9",
+      "collectorNumber": "168",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-168",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-189",
+    "englishName": "Cobalion-GX",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "189",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/189.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/189_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-189",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:189:english:sm9-189",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-189",
+      "setId": "sm9",
+      "collectorNumber": "189",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-189",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-70",
+    "englishName": "Cosmoem",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "70",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/70.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-70",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:70:english:sm9-70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-70",
+      "setId": "sm9",
+      "collectorNumber": "70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-69",
+    "englishName": "Cosmog",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "69",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/69.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-69",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:69:english:sm9-69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-69",
+      "setId": "sm9",
+      "collectorNumber": "69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-137",
+    "englishName": "Dana",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "137",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/137.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/137_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-137",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:137:english:sm9-137",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-137",
+      "setId": "sm9",
+      "collectorNumber": "137",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-137",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-173",
+    "englishName": "Dana",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "173",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/173.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/173_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-173",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:173:english:sm9-173",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-173",
+      "setId": "sm9",
+      "collectorNumber": "173",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-173",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-138",
+    "englishName": "Dangerous Drill",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "138",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/138.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/138_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-138",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:138:english:sm9-138",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-138",
+      "setId": "sm9",
+      "collectorNumber": "138",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-138",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-192",
+    "englishName": "Dangerous Drill",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "192",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/192.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/192_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-192",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:192:english:sm9-192",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-192",
+      "setId": "sm9",
+      "collectorNumber": "192",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-192",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-108",
+    "englishName": "Doublade",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "108",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/108.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/108_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-108",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:108:english:sm9-108",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-108",
+      "setId": "sm9",
+      "collectorNumber": "108",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-108",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-118",
+    "englishName": "Dragonair",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "118",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/118.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/118_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-118",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:118:english:sm9-118",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-118",
+      "setId": "sm9",
+      "collectorNumber": "118",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-118",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-119",
+    "englishName": "Dragonite",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "119",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/119.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/119_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-119",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:119:english:sm9-119",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-119",
+      "setId": "sm9",
+      "collectorNumber": "119",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-119",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-116",
+    "englishName": "Dratini",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "116",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/116.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/116_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-116",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:116:english:sm9-116",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-116",
+      "setId": "sm9",
+      "collectorNumber": "116",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-116",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-117",
+    "englishName": "Dratini",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "117",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/117.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/117_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-117",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:117:english:sm9-117",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-117",
+      "setId": "sm9",
+      "collectorNumber": "117",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-117",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-120",
+    "englishName": "Eevee & Snorlax-GX",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "120",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/120.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/120_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-120",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:120:english:sm9-120",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-120",
+      "setId": "sm9",
+      "collectorNumber": "120",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-120",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-171",
+    "englishName": "Eevee & Snorlax-GX",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "171",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/171.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/171_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-171",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:171:english:sm9-171",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-171",
+      "setId": "sm9",
+      "collectorNumber": "171",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-171",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-191",
+    "englishName": "Eevee & Snorlax-GX",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "191",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/191.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/191_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-191",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:191:english:sm9-191",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-191",
+      "setId": "sm9",
+      "collectorNumber": "191",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-191",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-139",
+    "englishName": "Electrocharger",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "139",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/139.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/139_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-139",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:139:english:sm9-139",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-139",
+      "setId": "sm9",
+      "collectorNumber": "139",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-139",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-193",
+    "englishName": "Electrocharger",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "193",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/193.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/193_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-193",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:193:english:sm9-193",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-193",
+      "setId": "sm9",
+      "collectorNumber": "193",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-193",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-39",
+    "englishName": "Electrode",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "39",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/39.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-39",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:39:english:sm9-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-39",
+      "setId": "sm9",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-46",
+    "englishName": "Emolga",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "46",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/46.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-46",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:46:english:sm9-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-46",
+      "setId": "sm9",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-140",
+    "englishName": "Erika's Hospitality",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "140",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/140.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/140_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-140",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:140:english:sm9-140",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-140",
+      "setId": "sm9",
+      "collectorNumber": "140",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-140",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-174",
+    "englishName": "Erika's Hospitality",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "174",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/174.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/174_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-174",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:174:english:sm9-174",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-174",
+      "setId": "sm9",
+      "collectorNumber": "174",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-174",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-141",
+    "englishName": "Evelyn",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "141",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/141.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/141_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-141",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:141:english:sm9-141",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-141",
+      "setId": "sm9",
+      "collectorNumber": "141",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-141",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-175",
+    "englishName": "Evelyn",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "175",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/175.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/175_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-175",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:175:english:sm9-175",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-175",
+      "setId": "sm9",
+      "collectorNumber": "175",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-175",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-8",
+    "englishName": "Exeggcute",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "8",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/8.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-8",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:8:english:sm9-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-8",
+      "setId": "sm9",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-142",
+    "englishName": "Fairy Charm UB",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "142",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/142.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/142_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-142",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:142:english:sm9-142",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-142",
+      "setId": "sm9",
+      "collectorNumber": "142",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-142",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-127",
+    "englishName": "Farfetch'd",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "127",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/127.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/127_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-127",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:127:english:sm9-127",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-127",
+      "setId": "sm9",
+      "collectorNumber": "127",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-127",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-102",
+    "englishName": "Ferroseed",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "102",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/102.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/102_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-102",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:102:english:sm9-102",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-102",
+      "setId": "sm9",
+      "collectorNumber": "102",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-102",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-103",
+    "englishName": "Ferrothorn",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "103",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/103.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/103_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-103",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:103:english:sm9-103",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-103",
+      "setId": "sm9",
+      "collectorNumber": "103",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-103",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-42",
+    "englishName": "Flaaffy",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "42",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/42.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-42",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:42:english:sm9-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-42",
+      "setId": "sm9",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-48",
+    "englishName": "Galvantula",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "48",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/48.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-48",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:48:english:sm9-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-48",
+      "setId": "sm9",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-164",
+    "englishName": "Gengar & Mimikyu-GX",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "164",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/164.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/164_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-164",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:164:english:sm9-164",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-164",
+      "setId": "sm9",
+      "collectorNumber": "164",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-164",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-165",
+    "englishName": "Gengar & Mimikyu-GX",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "165",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/165.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/165_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-165",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:165:english:sm9-165",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-165",
+      "setId": "sm9",
+      "collectorNumber": "165",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-165",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-186",
+    "englishName": "Gengar & Mimikyu-GX",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "186",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/186.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/186_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-186",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:186:english:sm9-186",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-186",
+      "setId": "sm9",
+      "collectorNumber": "186",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-186",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-53",
+    "englishName": "Gengar & Mimikyu-GX",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "53",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/53.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-53",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:53:english:sm9-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-53",
+      "setId": "sm9",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-27",
+    "englishName": "Golduck",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "27",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/27.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-27",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:27:english:sm9-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-27",
+      "setId": "sm9",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-143",
+    "englishName": "Grass Memory",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "143",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/143.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/143_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-143",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:143:english:sm9-143",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-143",
+      "setId": "sm9",
+      "collectorNumber": "143",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-143",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-62",
+    "englishName": "Grimer",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "62",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/62.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-62",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:62:english:sm9-62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-62",
+      "setId": "sm9",
+      "collectorNumber": "62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-30",
+    "englishName": "Gyarados",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "30",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/30.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-30",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:30:english:sm9-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-30",
+      "setId": "sm9",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-50",
+    "englishName": "Heliolisk",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "50",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/50.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-50",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:50:english:sm9-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-50",
+      "setId": "sm9",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-49",
+    "englishName": "Helioptile",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "49",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/49.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-49",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:49:english:sm9-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-49",
+      "setId": "sm9",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-74",
+    "englishName": "Hitmonchan",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "74",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/74.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-74",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:74:english:sm9-74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-74",
+      "setId": "sm9",
+      "collectorNumber": "74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-73",
+    "englishName": "Hitmonlee",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "73",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/73.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-73",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:73:english:sm9-73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-73",
+      "setId": "sm9",
+      "collectorNumber": "73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-107",
+    "englishName": "Honedge",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "107",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/107.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/107_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-107",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:107:english:sm9-107",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-107",
+      "setId": "sm9",
+      "collectorNumber": "107",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-107",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-166",
+    "englishName": "Hoopa-GX",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "166",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/166.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/166_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-166",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:166:english:sm9-166",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-166",
+      "setId": "sm9",
+      "collectorNumber": "166",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-166",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-187",
+    "englishName": "Hoopa-GX",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "187",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/187.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/187_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-187",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:187:english:sm9-187",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-187",
+      "setId": "sm9",
+      "collectorNumber": "187",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-187",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-96",
+    "englishName": "Hoopa-GX",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "96",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/96.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/96_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-96",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:96:english:sm9-96",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-96",
+      "setId": "sm9",
+      "collectorNumber": "96",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-96",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-167",
+    "englishName": "Incineroar-GX",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "167",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/167.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/167_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-167",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:167:english:sm9-167",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-167",
+      "setId": "sm9",
+      "collectorNumber": "167",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-167",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-188",
+    "englishName": "Incineroar-GX",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "188",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/188.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/188_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-188",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:188:english:sm9-188",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-188",
+      "setId": "sm9",
+      "collectorNumber": "188",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-188",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-97",
+    "englishName": "Incineroar-GX",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "97",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/97.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/97_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-97",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:97:english:sm9-97",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-97",
+      "setId": "sm9",
+      "collectorNumber": "97",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-97",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-144",
+    "englishName": "Ingo & Emmet",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "144",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/144.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/144_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-144",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:144:english:sm9-144",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-144",
+      "setId": "sm9",
+      "collectorNumber": "144",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-144",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-176",
+    "englishName": "Ingo & Emmet",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "176",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/176.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/176_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-176",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:176:english:sm9-176",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-176",
+      "setId": "sm9",
+      "collectorNumber": "176",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-176",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-145",
+    "englishName": "Jasmine",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "145",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/145.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/145_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-145",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:145:english:sm9-145",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-145",
+      "setId": "sm9",
+      "collectorNumber": "145",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-145",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-177",
+    "englishName": "Jasmine",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "177",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/177.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/177_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-177",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:177:english:sm9-177",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-177",
+      "setId": "sm9",
+      "collectorNumber": "177",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-177",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-99",
+    "englishName": "Jirachi",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "99",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/99.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/99_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-99",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:99:english:sm9-99",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-99",
+      "setId": "sm9",
+      "collectorNumber": "99",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-99",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-47",
+    "englishName": "Joltik",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "47",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/47.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-47",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:47:english:sm9-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-47",
+      "setId": "sm9",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-146",
+    "englishName": "Judge Whistle",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "146",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/146.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/146_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-146",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:146:english:sm9-146",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-146",
+      "setId": "sm9",
+      "collectorNumber": "146",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-146",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-194",
+    "englishName": "Judge Whistle",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "194",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/194.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/194_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-194",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:194:english:sm9-194",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-194",
+      "setId": "sm9",
+      "collectorNumber": "194",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-194",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-68",
+    "englishName": "Jynx",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "68",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/68.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-68",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:68:english:sm9-68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-68",
+      "setId": "sm9",
+      "collectorNumber": "68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-77",
+    "englishName": "Kabuto",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "77",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/77.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-77",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:77:english:sm9-77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-77",
+      "setId": "sm9",
+      "collectorNumber": "77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-78",
+    "englishName": "Kabutops",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "78",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/78.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-78",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:78:english:sm9-78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-78",
+      "setId": "sm9",
+      "collectorNumber": "78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-4",
+    "englishName": "Kakuna",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "4",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/4.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-4",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:4:english:sm9-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-4",
+      "setId": "sm9",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-128",
+    "englishName": "Kangaskhan",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "128",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/128.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/128_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-128",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:128:english:sm9-128",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-128",
+      "setId": "sm9",
+      "collectorNumber": "128",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-128",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-110",
+    "englishName": "Klefki",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "110",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/110.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/110_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-110",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:110:english:sm9-110",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-110",
+      "setId": "sm9",
+      "collectorNumber": "110",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-110",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-31",
+    "englishName": "Lapras",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "31",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/31.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-31",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:31:english:sm9-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-31",
+      "setId": "sm9",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-79",
+    "englishName": "Larvitar",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "79",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/79.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/79_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-79",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:79:english:sm9-79",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-79",
+      "setId": "sm9",
+      "collectorNumber": "79",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-79",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-113",
+    "englishName": "Latias & Latios-GX",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "113",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/113.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/113_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-113",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:113:english:sm9-113",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-113",
+      "setId": "sm9",
+      "collectorNumber": "113",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-113",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-169",
+    "englishName": "Latias & Latios-GX",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "169",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/169.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/169_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-169",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:169:english:sm9-169",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-169",
+      "setId": "sm9",
+      "collectorNumber": "169",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-169",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-170",
+    "englishName": "Latias & Latios-GX",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "170",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/170.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/170_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-170",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:170:english:sm9-170",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-170",
+      "setId": "sm9",
+      "collectorNumber": "170",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-170",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-190",
+    "englishName": "Latias & Latios-GX",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "190",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/190.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/190_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-190",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:190:english:sm9-190",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-190",
+      "setId": "sm9",
+      "collectorNumber": "190",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-190",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-147",
+    "englishName": "Lavender Town",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "147",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/147.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/147_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-147",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:147:english:sm9-147",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-147",
+      "setId": "sm9",
+      "collectorNumber": "147",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-147",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-20",
+    "englishName": "Litten",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "20",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/20.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-20",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:20:english:sm9-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-20",
+      "setId": "sm9",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-131",
+    "englishName": "Lugia",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "131",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/131.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/131_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-131",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:131:english:sm9-131",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-131",
+      "setId": "sm9",
+      "collectorNumber": "131",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-131",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-82",
+    "englishName": "Lycanroc-GX",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "82",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/82.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/82_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-82",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:82:english:sm9-82",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-82",
+      "setId": "sm9",
+      "collectorNumber": "82",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-82",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-160",
+    "englishName": "Magikarp & Wailord-GX",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "160",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/160.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/160_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-160",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:160:english:sm9-160",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-160",
+      "setId": "sm9",
+      "collectorNumber": "160",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-160",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-161",
+    "englishName": "Magikarp & Wailord-GX",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "161",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/161.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/161_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-161",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:161:english:sm9-161",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-161",
+      "setId": "sm9",
+      "collectorNumber": "161",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-161",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-183",
+    "englishName": "Magikarp & Wailord-GX",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "183",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/183.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/183_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-183",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:183:english:sm9-183",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-183",
+      "setId": "sm9",
+      "collectorNumber": "183",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-183",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-29",
+    "englishName": "Magikarp",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "29",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/29.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-29",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:29:english:sm9-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-29",
+      "setId": "sm9",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-93",
+    "englishName": "Mandibuzz",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "93",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/93.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/93_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-93",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:93:english:sm9-93",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-93",
+      "setId": "sm9",
+      "collectorNumber": "93",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-93",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-71",
+    "englishName": "Mankey",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "71",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/71.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-71",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:71:english:sm9-71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-71",
+      "setId": "sm9",
+      "collectorNumber": "71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-41",
+    "englishName": "Mareep",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "41",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/41.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-41",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:41:english:sm9-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-41",
+      "setId": "sm9",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-125",
+    "englishName": "Meowth",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "125",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/125.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/125_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-125",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:125:english:sm9-125",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-125",
+      "setId": "sm9",
+      "collectorNumber": "125",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-125",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-148",
+    "englishName": "Metal Goggles",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "148",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/148.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/148_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-148",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:148:english:sm9-148",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-148",
+      "setId": "sm9",
+      "collectorNumber": "148",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-148",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-195",
+    "englishName": "Metal Goggles",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "195",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/195.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/195_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-195",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:195:english:sm9-195",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-195",
+      "setId": "sm9",
+      "collectorNumber": "195",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-195",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-87",
+    "englishName": "Mightyena",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "87",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/87.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/87_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-87",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:87:english:sm9-87",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-87",
+      "setId": "sm9",
+      "collectorNumber": "87",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-87",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-112",
+    "englishName": "Mimikyu",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "112",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/112.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/112_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-112",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:112:english:sm9-112",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-112",
+      "setId": "sm9",
+      "collectorNumber": "112",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-112",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-19",
+    "englishName": "Moltres",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "19",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/19.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-19",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:19:english:sm9-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-19",
+      "setId": "sm9",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-149",
+    "englishName": "Morgan",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "149",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/149.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/149_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-149",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:149:english:sm9-149",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-149",
+      "setId": "sm9",
+      "collectorNumber": "149",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-149",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-178",
+    "englishName": "Morgan",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "178",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/178.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/178_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-178",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:178:english:sm9-178",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-178",
+      "setId": "sm9",
+      "collectorNumber": "178",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-178",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-67",
+    "englishName": "Mr. Mime-GX",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "67",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/67.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-67",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:67:english:sm9-67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-67",
+      "setId": "sm9",
+      "collectorNumber": "67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-66",
+    "englishName": "Mr. Mime",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "66",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/66.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-66",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:66:english:sm9-66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-66",
+      "setId": "sm9",
+      "collectorNumber": "66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-63",
+    "englishName": "Muk",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "63",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/63.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-63",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:63:english:sm9-63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-63",
+      "setId": "sm9",
+      "collectorNumber": "63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-150",
+    "englishName": "Nanu",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "150",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/150.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/150_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-150",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:150:english:sm9-150",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-150",
+      "setId": "sm9",
+      "collectorNumber": "150",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-150",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-179",
+    "englishName": "Nanu",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "179",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/179.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/179_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-179",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:179:english:sm9-179",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-179",
+      "setId": "sm9",
+      "collectorNumber": "179",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-179",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-59",
+    "englishName": "Nidoking",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "59",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/59.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-59",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:59:english:sm9-59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-59",
+      "setId": "sm9",
+      "collectorNumber": "59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-56",
+    "englishName": "Nidoqueen",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "56",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/56.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-56",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:56:english:sm9-56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-56",
+      "setId": "sm9",
+      "collectorNumber": "56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-54",
+    "englishName": "Nidoran ♀",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "54",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/54.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-54",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:54:english:sm9-54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-54",
+      "setId": "sm9",
+      "collectorNumber": "54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-57",
+    "englishName": "Nidoran ♂",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "57",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/57.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-57",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:57:english:sm9-57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-57",
+      "setId": "sm9",
+      "collectorNumber": "57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-55",
+    "englishName": "Nidorina",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "55",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/55.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-55",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:55:english:sm9-55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-55",
+      "setId": "sm9",
+      "collectorNumber": "55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-58",
+    "englishName": "Nidorino",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "58",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/58.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-58",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:58:english:sm9-58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-58",
+      "setId": "sm9",
+      "collectorNumber": "58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-16",
+    "englishName": "Ninetales",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "16",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/16.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-16",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:16:english:sm9-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-16",
+      "setId": "sm9",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-151",
+    "englishName": "Nita",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "151",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/151.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/151_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-151",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:151:english:sm9-151",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-151",
+      "setId": "sm9",
+      "collectorNumber": "151",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-151",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-180",
+    "englishName": "Nita",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "180",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/180.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/180_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-180",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:180:english:sm9-180",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-180",
+      "setId": "sm9",
+      "collectorNumber": "180",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-180",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-75",
+    "englishName": "Omanyte",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "75",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/75.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-75",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:75:english:sm9-75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-75",
+      "setId": "sm9",
+      "collectorNumber": "75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-76",
+    "englishName": "Omastar",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "76",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/76.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-76",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:76:english:sm9-76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-76",
+      "setId": "sm9",
+      "collectorNumber": "76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-81",
+    "englishName": "Pancham",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "81",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/81.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/81_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-81",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:81:english:sm9-81",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-81",
+      "setId": "sm9",
+      "collectorNumber": "81",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-81",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-94",
+    "englishName": "Pangoro",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "94",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/94.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/94_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-94",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:94:english:sm9-94",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-94",
+      "setId": "sm9",
+      "collectorNumber": "94",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-94",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-6",
+    "englishName": "Paras",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "6",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/6.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-6",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:6:english:sm9-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-6",
+      "setId": "sm9",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-7",
+    "englishName": "Parasect",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "7",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/7.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-7",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:7:english:sm9-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-7",
+      "setId": "sm9",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-104",
+    "englishName": "Pawniard",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "104",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/104.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/104_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-104",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:104:english:sm9-104",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-104",
+      "setId": "sm9",
+      "collectorNumber": "104",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-104",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-126",
+    "englishName": "Persian",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "126",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/126.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/126_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-126",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:126:english:sm9-126",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-126",
+      "setId": "sm9",
+      "collectorNumber": "126",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-126",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-124",
+    "englishName": "Pidgeot",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "124",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/124.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/124_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-124",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:124:english:sm9-124",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-124",
+      "setId": "sm9",
+      "collectorNumber": "124",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-124",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-123",
+    "englishName": "Pidgeotto",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "123",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/123.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/123_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-123",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:123:english:sm9-123",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-123",
+      "setId": "sm9",
+      "collectorNumber": "123",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-123",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-121",
+    "englishName": "Pidgey",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "121",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/121.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/121_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-121",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:121:english:sm9-121",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-121",
+      "setId": "sm9",
+      "collectorNumber": "121",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-121",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-122",
+    "englishName": "Pidgey",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "122",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/122.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/122_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-122",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:122:english:sm9-122",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-122",
+      "setId": "sm9",
+      "collectorNumber": "122",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-122",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-162",
+    "englishName": "Pikachu & Zekrom-GX",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "162",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/162.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/162_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-162",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:162:english:sm9-162",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-162",
+      "setId": "sm9",
+      "collectorNumber": "162",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-162",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-184",
+    "englishName": "Pikachu & Zekrom-GX",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "184",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/184.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/184_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-184",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:184:english:sm9-184",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-184",
+      "setId": "sm9",
+      "collectorNumber": "184",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-184",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-33",
+    "englishName": "Pikachu & Zekrom-GX",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "33",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/33.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-33",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:33:english:sm9-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-33",
+      "setId": "sm9",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-9",
+    "englishName": "Pinsir",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "9",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/9.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-9",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:9:english:sm9-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-9",
+      "setId": "sm9",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-152",
+    "englishName": "Pokémon Communication",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "152",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/152.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/152_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-152",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:152:english:sm9-152",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-152",
+      "setId": "sm9",
+      "collectorNumber": "152",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-152",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-152a",
+    "englishName": "Pokémon Communication",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "152a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/152a.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/152a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-152a",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:152a:english:sm9-152a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-152a",
+      "setId": "sm9",
+      "collectorNumber": "152a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-152a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-152b",
+    "englishName": "Pokémon Communication",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "152b",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/152b.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/152b_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-152b",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:152b:english:sm9-152b",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-152b",
+      "setId": "sm9",
+      "collectorNumber": "152b",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-152b",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-196",
+    "englishName": "Pokémon Communication",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "196",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/196.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/196_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-196",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:196:english:sm9-196",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-196",
+      "setId": "sm9",
+      "collectorNumber": "196",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-196",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-17",
+    "englishName": "Ponyta",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "17",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/17.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-17",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:17:english:sm9-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-17",
+      "setId": "sm9",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-86",
+    "englishName": "Poochyena",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "86",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/86.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/86_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-86",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:86:english:sm9-86",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-86",
+      "setId": "sm9",
+      "collectorNumber": "86",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-86",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-72",
+    "englishName": "Primeape",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "72",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/72.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-72",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:72:english:sm9-72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-72",
+      "setId": "sm9",
+      "collectorNumber": "72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-26",
+    "englishName": "Psyduck",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "26",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/26.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-26",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:26:english:sm9-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-26",
+      "setId": "sm9",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-80",
+    "englishName": "Pupitar",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "80",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/80.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/80_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-80",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:80:english:sm9-80",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-80",
+      "setId": "sm9",
+      "collectorNumber": "80",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-80",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-18",
+    "englishName": "Rapidash",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "18",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/18.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-18",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:18:english:sm9-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-18",
+      "setId": "sm9",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-153",
+    "englishName": "Return Label",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "153",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/153.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/153_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-153",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:153:english:sm9-153",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-153",
+      "setId": "sm9",
+      "collectorNumber": "153",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-153",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-154",
+    "englishName": "Sabrina's Suggestion",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "154",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/154.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/154_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-154",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:154:english:sm9-154",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-154",
+      "setId": "sm9",
+      "collectorNumber": "154",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-154",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-181",
+    "englishName": "Sabrina's Suggestion",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "181",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/181.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/181_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-181",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:181:english:sm9-181",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-181",
+      "setId": "sm9",
+      "collectorNumber": "181",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-181",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-10",
+    "englishName": "Shaymin ◇",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "10",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/10.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-10",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:10:english:sm9-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-10",
+      "setId": "sm9",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-98",
+    "englishName": "Skarmory",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "98",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/98.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/98_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-98",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:98:english:sm9-98",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-98",
+      "setId": "sm9",
+      "collectorNumber": "98",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-98",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-89",
+    "englishName": "Spiritomb",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "89",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/89.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/89_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-89",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:89:english:sm9-89",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-89",
+      "setId": "sm9",
+      "collectorNumber": "89",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-89",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-22",
+    "englishName": "Squirtle",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "22",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/22.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-22",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:22:english:sm9-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-22",
+      "setId": "sm9",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-23",
+    "englishName": "Squirtle",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "23",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/23.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-23",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:23:english:sm9-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-23",
+      "setId": "sm9",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-65",
+    "englishName": "Starmie",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "65",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/65.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-65",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:65:english:sm9-65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-65",
+      "setId": "sm9",
+      "collectorNumber": "65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-28",
+    "englishName": "Staryu",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "28",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/28.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-28",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:28:english:sm9-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-28",
+      "setId": "sm9",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-51",
+    "englishName": "Tapu Koko ◇",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "51",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/51.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-51",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:51:english:sm9-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-51",
+      "setId": "sm9",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-129",
+    "englishName": "Tauros",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "129",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/129.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/129_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-129",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:129:english:sm9-129",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-129",
+      "setId": "sm9",
+      "collectorNumber": "129",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-129",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-60",
+    "englishName": "Tentacool",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "60",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/60.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-60",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:60:english:sm9-60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-60",
+      "setId": "sm9",
+      "collectorNumber": "60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-61",
+    "englishName": "Tentacruel",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "61",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/61.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-61",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:61:english:sm9-61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-61",
+      "setId": "sm9",
+      "collectorNumber": "61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-21",
+    "englishName": "Torracat",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "21",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/21.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-21",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:21:english:sm9-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-21",
+      "setId": "sm9",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-85",
+    "englishName": "Tyranitar",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "85",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/85.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/85_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-85",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:85:english:sm9-85",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-85",
+      "setId": "sm9",
+      "collectorNumber": "85",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-85",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-155",
+    "englishName": "Unidentified Fossil",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "155",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/155.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/155_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-155",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:155:english:sm9-155",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-155",
+      "setId": "sm9",
+      "collectorNumber": "155",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-155",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-156",
+    "englishName": "Viridian Forest",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "156",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/156.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/156_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-156",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:156:english:sm9-156",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-156",
+      "setId": "sm9",
+      "collectorNumber": "156",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-156",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-38",
+    "englishName": "Voltorb",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "38",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/38.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-38",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:38:english:sm9-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-38",
+      "setId": "sm9",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-92",
+    "englishName": "Vullaby",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "92",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/92.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/92_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-92",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:92:english:sm9-92",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-92",
+      "setId": "sm9",
+      "collectorNumber": "92",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-92",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-15",
+    "englishName": "Vulpix",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "15",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/15.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-15",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:15:english:sm9-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-15",
+      "setId": "sm9",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-24",
+    "englishName": "Wartortle",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "24",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/24.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-24",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:24:english:sm9-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-24",
+      "setId": "sm9",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-157",
+    "englishName": "Water Memory",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "157",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/157.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/157_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-157",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:157:english:sm9-157",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-157",
+      "setId": "sm9",
+      "collectorNumber": "157",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-157",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-2",
+    "englishName": "Weedle",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "2",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/2.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-2",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:2:english:sm9-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-2",
+      "setId": "sm9",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-3",
+    "englishName": "Weedle",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "3",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/3.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-3",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:3:english:sm9-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-3",
+      "setId": "sm9",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-158",
+    "englishName": "Wondrous Labyrinth ◇",
+    "category": "Trainer",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "158",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/158.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/158_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-158",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:158:english:sm9-158",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-158",
+      "setId": "sm9",
+      "collectorNumber": "158",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-158",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-95",
+    "englishName": "Yveltal",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "95",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/95.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/95_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-95",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:95:english:sm9-95",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-95",
+      "setId": "sm9",
+      "collectorNumber": "95",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-95",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-132",
+    "englishName": "Zangoose",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "132",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/132.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/132_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-132",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:132:english:sm9-132",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-132",
+      "setId": "sm9",
+      "collectorNumber": "132",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-132",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-40",
+    "englishName": "Zapdos",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "40",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/40.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-40",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:40:english:sm9-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-40",
+      "setId": "sm9",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-45",
+    "englishName": "Zebstrika",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "45",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/45.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-45",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:45:english:sm9-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-45",
+      "setId": "sm9",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-52",
+    "englishName": "Zeraora",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "52",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/52.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-52",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:52:english:sm9-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-52",
+      "setId": "sm9",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-91",
+    "englishName": "Zoroark",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "91",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/91.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/91_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-91",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:91:english:sm9-91",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-91",
+      "setId": "sm9",
+      "collectorNumber": "91",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-91",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm9-90",
+    "englishName": "Zorua",
+    "category": "Pokemon",
+    "setCode": "TEU",
+    "setName": "Team Up",
+    "cardNumber": "90",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm9/90.png",
+    "imageLarge": "https://images.pokemontcg.io/sm9/90_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm9-90",
+    "sourceSetId": "sm9",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm9:90:english:sm9-90",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm9-90",
+      "setId": "sm9",
+      "collectorNumber": "90",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm9-90",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

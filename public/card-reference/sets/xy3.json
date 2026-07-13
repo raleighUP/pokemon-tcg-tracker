@@ -1,0 +1,3195 @@
+[
+  {
+    "id": "xy3-9",
+    "englishName": "Accelgor",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "9",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/9.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-9",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:9:english:xy3-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-9",
+      "setId": "xy3",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-25",
+    "englishName": "Amaura",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "25",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/25.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-25",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:25:english:xy3-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-25",
+      "setId": "xy3",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-26",
+    "englishName": "Aurorus",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "26",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/26.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-26",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:26:english:xy3-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-26",
+      "setId": "xy3",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-109",
+    "englishName": "Battle Reporter",
+    "category": "Trainer",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "109",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/109.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/109_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-109",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:109:english:xy3-109",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-109",
+      "setId": "xy3",
+      "collectorNumber": "109",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-109",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-88",
+    "englishName": "Battle Reporter",
+    "category": "Trainer",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "88",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/88.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/88_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-88",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:88:english:xy3-88",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-88",
+      "setId": "xy3",
+      "collectorNumber": "88",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-88",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-22",
+    "englishName": "Beartic",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "22",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/22.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-22",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:22:english:xy3-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-22",
+      "setId": "xy3",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-1",
+    "englishName": "Bellsprout",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "1",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/1.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-1",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:1:english:xy3-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-1",
+      "setId": "xy3",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-14",
+    "englishName": "Blaziken",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "14",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/14.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-14",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:14:english:xy3-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-14",
+      "setId": "xy3",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-50",
+    "englishName": "Breloom",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "50",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/50.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-50",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:50:english:xy3-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-50",
+      "setId": "xy3",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-23",
+    "englishName": "Clauncher",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "23",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/23.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-23",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:23:english:xy3-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-23",
+      "setId": "xy3",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-24",
+    "englishName": "Clawitzer",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "24",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/24.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-24",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:24:english:xy3-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-24",
+      "setId": "xy3",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-71",
+    "englishName": "Clefable",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "71",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/71.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-71",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:71:english:xy3-71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-71",
+      "setId": "xy3",
+      "collectorNumber": "71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-69",
+    "englishName": "Clefairy",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "69",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/69.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-69",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:69:english:xy3-69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-69",
+      "setId": "xy3",
+      "collectorNumber": "69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-70",
+    "englishName": "Clefairy",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "70",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/70.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-70",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:70:english:xy3-70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-70",
+      "setId": "xy3",
+      "collectorNumber": "70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-13",
+    "englishName": "Combusken",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "13",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/13.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-13",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:13:english:xy3-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-13",
+      "setId": "xy3",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-21",
+    "englishName": "Cubchoo",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "21",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/21.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-21",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:21:english:xy3-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-21",
+      "setId": "xy3",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-34",
+    "englishName": "Dedenne",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "34",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/34.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-34",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:34:english:xy3-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-34",
+      "setId": "xy3",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-108",
+    "englishName": "Dragonite-EX",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "108",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/108.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/108_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-108",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:108:english:xy3-108",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-108",
+      "setId": "xy3",
+      "collectorNumber": "108",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-108",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-74",
+    "englishName": "Dragonite-EX",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "74",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/74.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-74",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:74:english:xy3-74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-74",
+      "setId": "xy3",
+      "collectorNumber": "74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-65",
+    "englishName": "Drapion",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "65",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/65.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-65",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:65:english:xy3-65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-65",
+      "setId": "xy3",
+      "collectorNumber": "65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-35",
+    "englishName": "Drowzee",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "35",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/35.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-35",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:35:english:xy3-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-35",
+      "setId": "xy3",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-80",
+    "englishName": "Eevee",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "80",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/80.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/80_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-80",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:80:english:xy3-80",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-80",
+      "setId": "xy3",
+      "collectorNumber": "80",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-80",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-29",
+    "englishName": "Electabuzz",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "29",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/29.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-29",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:29:english:xy3-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-29",
+      "setId": "xy3",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-30",
+    "englishName": "Electivire",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "30",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/30.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-30",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:30:english:xy3-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-30",
+      "setId": "xy3",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-89",
+    "englishName": "Energy Switch",
+    "category": "Trainer",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "89",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/89.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/89_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-89",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:89:english:xy3-89",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-89",
+      "setId": "xy3",
+      "collectorNumber": "89",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-89",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-90",
+    "englishName": "Fighting Stadium",
+    "category": "Trainer",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "90",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/90.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/90_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-90",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:90:english:xy3-90",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-90",
+      "setId": "xy3",
+      "collectorNumber": "90",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-90",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-76",
+    "englishName": "Flygon",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "76",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/76.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-76",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:76:english:xy3-76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-76",
+      "setId": "xy3",
+      "collectorNumber": "76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-91",
+    "englishName": "Focus Sash",
+    "category": "Trainer",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "91",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/91.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/91_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-91",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:91:english:xy3-91",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-91",
+      "setId": "xy3",
+      "collectorNumber": "91",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-91",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-110",
+    "englishName": "Fossil Researcher",
+    "category": "Trainer",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "110",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/110.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/110_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-110",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:110:english:xy3-110",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-110",
+      "setId": "xy3",
+      "collectorNumber": "110",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-110",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-92",
+    "englishName": "Fossil Researcher",
+    "category": "Trainer",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "92",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/92.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/92_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-92",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:92:english:xy3-92",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-92",
+      "setId": "xy3",
+      "collectorNumber": "92",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-92",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-93",
+    "englishName": "Full Heal",
+    "category": "Trainer",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "93",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/93.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/93_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-93",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:93:english:xy3-93",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-93",
+      "setId": "xy3",
+      "collectorNumber": "93",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-93",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-19",
+    "englishName": "Glaceon",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "19",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/19.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-19",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:19:english:xy3-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-19",
+      "setId": "xy3",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-42",
+    "englishName": "Golett",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "42",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/42.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-42",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:42:english:xy3-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-42",
+      "setId": "xy3",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-43",
+    "englishName": "Golurk",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "43",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/43.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-43",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:43:english:xy3-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-43",
+      "setId": "xy3",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-39",
+    "englishName": "Gothita",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "39",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/39.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-39",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:39:english:xy3-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-39",
+      "setId": "xy3",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-41",
+    "englishName": "Gothitelle",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "41",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/41.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-41",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:41:english:xy3-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-41",
+      "setId": "xy3",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-40",
+    "englishName": "Gothorita",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "40",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/40.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-40",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:40:english:xy3-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-40",
+      "setId": "xy3",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-52",
+    "englishName": "Hariyama",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "52",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/52.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-52",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:52:english:xy3-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-52",
+      "setId": "xy3",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-64",
+    "englishName": "Hawlucha-EX",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "64",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/64.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-64",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:64:english:xy3-64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-64",
+      "setId": "xy3",
+      "collectorNumber": "64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-63",
+    "englishName": "Hawlucha",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "63",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/63.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-63",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:63:english:xy3-63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-63",
+      "setId": "xy3",
+      "collectorNumber": "63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-105",
+    "englishName": "Heracross-EX",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "105",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/105.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/105_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-105",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:105:english:xy3-105",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-105",
+      "setId": "xy3",
+      "collectorNumber": "105",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-105",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-4",
+    "englishName": "Heracross-EX",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "4",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/4.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-4",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:4:english:xy3-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-4",
+      "setId": "xy3",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-103",
+    "englishName": "Herbal Energy",
+    "category": "Energy",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "103",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/103.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/103_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-103",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:103:english:xy3-103",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-103",
+      "setId": "xy3",
+      "collectorNumber": "103",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-103",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-48",
+    "englishName": "Hitmonchan",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "48",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/48.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-48",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:48:english:xy3-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-48",
+      "setId": "xy3",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-47",
+    "englishName": "Hitmonlee",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "47",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/47.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-47",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:47:english:xy3-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-47",
+      "setId": "xy3",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-49",
+    "englishName": "Hitmontop",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "49",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/49.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-49",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:49:english:xy3-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-49",
+      "setId": "xy3",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-36",
+    "englishName": "Hypno",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "36",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/36.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-36",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:36:english:xy3-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-36",
+      "setId": "xy3",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-94",
+    "englishName": "Jaw Fossil",
+    "category": "Trainer",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "94",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/94.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/94_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-94",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:94:english:xy3-94",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-94",
+      "setId": "xy3",
+      "collectorNumber": "94",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-94",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-37",
+    "englishName": "Jynx",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "37",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/37.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-37",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:37:english:xy3-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-37",
+      "setId": "xy3",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-73",
+    "englishName": "Klefki",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "73",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/73.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-73",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:73:english:xy3-73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-73",
+      "setId": "xy3",
+      "collectorNumber": "73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-111",
+    "englishName": "Korrina",
+    "category": "Trainer",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "111",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/111.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/111_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-111",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:111:english:xy3-111",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-111",
+      "setId": "xy3",
+      "collectorNumber": "111",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-111",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-95",
+    "englishName": "Korrina",
+    "category": "Trainer",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "95",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/95.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/95_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-95",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:95:english:xy3-95",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-95",
+      "setId": "xy3",
+      "collectorNumber": "95",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-95",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-58",
+    "englishName": "Landorus",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "58",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/58.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-58",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:58:english:xy3-58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-58",
+      "setId": "xy3",
+      "collectorNumber": "58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-7",
+    "englishName": "Leafeon",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "7",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/7.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-7",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:7:english:xy3-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-7",
+      "setId": "xy3",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-79",
+    "englishName": "Lickilicky",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "79",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/79.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/79_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-79",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:79:english:xy3-79",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-79",
+      "setId": "xy3",
+      "collectorNumber": "79",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-79",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-78",
+    "englishName": "Lickitung",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "78",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/78.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-78",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:78:english:xy3-78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-78",
+      "setId": "xy3",
+      "collectorNumber": "78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-107",
+    "englishName": "Lucario-EX",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "107",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/107.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/107_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-107",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:107:english:xy3-107",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-107",
+      "setId": "xy3",
+      "collectorNumber": "107",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-107",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-54",
+    "englishName": "Lucario-EX",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "54",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/54.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-54",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:54:english:xy3-54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-54",
+      "setId": "xy3",
+      "collectorNumber": "54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-112",
+    "englishName": "M Heracross-EX",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "112",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/112.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/112_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-112",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:112:english:xy3-112",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-112",
+      "setId": "xy3",
+      "collectorNumber": "112",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-112",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-5",
+    "englishName": "M Heracross-EX",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "5",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/5.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-5",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:5:english:xy3-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-5",
+      "setId": "xy3",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-113",
+    "englishName": "M Lucario-EX",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "113",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/113.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/113_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-113",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:113:english:xy3-113",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-113",
+      "setId": "xy3",
+      "collectorNumber": "113",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-113",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-55",
+    "englishName": "M Lucario-EX",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "55",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/55.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-55",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:55:english:xy3-55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-55",
+      "setId": "xy3",
+      "collectorNumber": "55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-55a",
+    "englishName": "M Lucario-EX",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "55a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/55a.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/55a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-55a",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:55a:english:xy3-55a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-55a",
+      "setId": "xy3",
+      "collectorNumber": "55a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-55a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-46",
+    "englishName": "Machamp",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "46",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/46.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-46",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:46:english:xy3-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-46",
+      "setId": "xy3",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-45",
+    "englishName": "Machoke",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "45",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/45.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-45",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:45:english:xy3-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-45",
+      "setId": "xy3",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-44",
+    "englishName": "Machop",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "44",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/44.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-44",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:44:english:xy3-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-44",
+      "setId": "xy3",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-10",
+    "englishName": "Magmar",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "10",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/10.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-10",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:10:english:xy3-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-10",
+      "setId": "xy3",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-11",
+    "englishName": "Magmortar",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "11",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/11.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-11",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:11:english:xy3-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-11",
+      "setId": "xy3",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-96",
+    "englishName": "Maintenance",
+    "category": "Trainer",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "96",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/96.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/96_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-96",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:96:english:xy3-96",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-96",
+      "setId": "xy3",
+      "collectorNumber": "96",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-96",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-51",
+    "englishName": "Makuhita",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "51",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/51.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-51",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:51:english:xy3-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-51",
+      "setId": "xy3",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-56",
+    "englishName": "Mienfoo",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "56",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/56.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-56",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:56:english:xy3-56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-56",
+      "setId": "xy3",
+      "collectorNumber": "56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-57",
+    "englishName": "Mienshao",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "57",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/57.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-57",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:57:english:xy3-57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-57",
+      "setId": "xy3",
+      "collectorNumber": "57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-32",
+    "englishName": "Minun",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "32",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/32.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-32",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:32:english:xy3-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-32",
+      "setId": "xy3",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-97",
+    "englishName": "Mountain Ring",
+    "category": "Trainer",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "97",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/97.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/97_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-97",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:97:english:xy3-97",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-97",
+      "setId": "xy3",
+      "collectorNumber": "97",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-97",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-87",
+    "englishName": "Noibat",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "87",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/87.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/87_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-87",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:87:english:xy3-87",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-87",
+      "setId": "xy3",
+      "collectorNumber": "87",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-87",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-77",
+    "englishName": "Noivern",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "77",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/77.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-77",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:77:english:xy3-77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-77",
+      "setId": "xy3",
+      "collectorNumber": "77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-59",
+    "englishName": "Pancham",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "59",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/59.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-59",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:59:english:xy3-59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-59",
+      "setId": "xy3",
+      "collectorNumber": "59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-60",
+    "englishName": "Pancham",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "60",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/60.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-60",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:60:english:xy3-60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-60",
+      "setId": "xy3",
+      "collectorNumber": "60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-68",
+    "englishName": "Pangoro",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "68",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/68.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-68",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:68:english:xy3-68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-68",
+      "setId": "xy3",
+      "collectorNumber": "68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-84",
+    "englishName": "Patrat",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "84",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/84.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/84_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-84",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:84:english:xy3-84",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-84",
+      "setId": "xy3",
+      "collectorNumber": "84",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-84",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-27",
+    "englishName": "Pikachu",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "27",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/27.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-27",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:27:english:xy3-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-27",
+      "setId": "xy3",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-31",
+    "englishName": "Plusle",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "31",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/31.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-31",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:31:english:xy3-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-31",
+      "setId": "xy3",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-18",
+    "englishName": "Politoed",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "18",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/18.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-18",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:18:english:xy3-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-18",
+      "setId": "xy3",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-15",
+    "englishName": "Poliwag",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "15",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/15.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-15",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:15:english:xy3-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-15",
+      "setId": "xy3",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-16",
+    "englishName": "Poliwhirl",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "16",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/16.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-16",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:16:english:xy3-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-16",
+      "setId": "xy3",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-17",
+    "englishName": "Poliwrath",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "17",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/17.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-17",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:17:english:xy3-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-17",
+      "setId": "xy3",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-28",
+    "englishName": "Raichu",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "28",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/28.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-28",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:28:english:xy3-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-28",
+      "setId": "xy3",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-98",
+    "englishName": "Sail Fossil",
+    "category": "Trainer",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "98",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/98.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/98_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-98",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:98:english:xy3-98",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-98",
+      "setId": "xy3",
+      "collectorNumber": "98",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-98",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-67",
+    "englishName": "Scrafty",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "67",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/67.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-67",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:67:english:xy3-67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-67",
+      "setId": "xy3",
+      "collectorNumber": "67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-66",
+    "englishName": "Scraggy",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "66",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/66.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-66",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:66:english:xy3-66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-66",
+      "setId": "xy3",
+      "collectorNumber": "66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-106",
+    "englishName": "Seismitoad-EX",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "106",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/106.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/106_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-106",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:106:english:xy3-106",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-106",
+      "setId": "xy3",
+      "collectorNumber": "106",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-106",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-20",
+    "englishName": "Seismitoad-EX",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "20",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/20.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-20",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:20:english:xy3-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-20",
+      "setId": "xy3",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-8",
+    "englishName": "Shelmet",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "8",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/8.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-8",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:8:english:xy3-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-8",
+      "setId": "xy3",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-6",
+    "englishName": "Shroomish",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "6",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/6.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-6",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:6:english:xy3-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-6",
+      "setId": "xy3",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-38",
+    "englishName": "Skorupi",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "38",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/38.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-38",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:38:english:xy3-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-38",
+      "setId": "xy3",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-83",
+    "englishName": "Slaking",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "83",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/83.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/83_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-83",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:83:english:xy3-83",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-83",
+      "setId": "xy3",
+      "collectorNumber": "83",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-83",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-81",
+    "englishName": "Slakoth",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "81",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/81.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/81_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-81",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:81:english:xy3-81",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-81",
+      "setId": "xy3",
+      "collectorNumber": "81",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-81",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-99",
+    "englishName": "Sparkling Robe",
+    "category": "Trainer",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "99",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/99.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/99_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-99",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:99:english:xy3-99",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-99",
+      "setId": "xy3",
+      "collectorNumber": "99",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-99",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-104",
+    "englishName": "Strong Energy",
+    "category": "Energy",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "104",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/104.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/104_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-104",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:104:english:xy3-104",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-104",
+      "setId": "xy3",
+      "collectorNumber": "104",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-104",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-100",
+    "englishName": "Super Scoop Up",
+    "category": "Trainer",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "100",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/100.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/100_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-100",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:100:english:xy3-100",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-100",
+      "setId": "xy3",
+      "collectorNumber": "100",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-100",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-72",
+    "englishName": "Sylveon",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "72",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/72.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-72",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:72:english:xy3-72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-72",
+      "setId": "xy3",
+      "collectorNumber": "72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-33",
+    "englishName": "Thundurus",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "33",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/33.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-33",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:33:english:xy3-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-33",
+      "setId": "xy3",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-101",
+    "englishName": "Tool Retriever",
+    "category": "Trainer",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "101",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/101.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/101_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-101",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:101:english:xy3-101",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-101",
+      "setId": "xy3",
+      "collectorNumber": "101",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-101",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-12",
+    "englishName": "Torchic",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "12",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/12.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-12",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:12:english:xy3-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-12",
+      "setId": "xy3",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-86",
+    "englishName": "Tornadus",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "86",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/86.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/86_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-86",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:86:english:xy3-86",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-86",
+      "setId": "xy3",
+      "collectorNumber": "86",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-86",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-102",
+    "englishName": "Training Center",
+    "category": "Trainer",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "102",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/102.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/102_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-102",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:102:english:xy3-102",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-102",
+      "setId": "xy3",
+      "collectorNumber": "102",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-102",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-53",
+    "englishName": "Trapinch",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "53",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/53.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-53",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:53:english:xy3-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-53",
+      "setId": "xy3",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-62",
+    "englishName": "Tyrantrum",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "62",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/62.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-62",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:62:english:xy3-62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-62",
+      "setId": "xy3",
+      "collectorNumber": "62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-61",
+    "englishName": "Tyrunt",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "61",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/61.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-61",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:61:english:xy3-61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-61",
+      "setId": "xy3",
+      "collectorNumber": "61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-75",
+    "englishName": "Vibrava",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "75",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/75.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-75",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:75:english:xy3-75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-75",
+      "setId": "xy3",
+      "collectorNumber": "75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-3",
+    "englishName": "Victreebel",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "3",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/3.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-3",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:3:english:xy3-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-3",
+      "setId": "xy3",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-82",
+    "englishName": "Vigoroth",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "82",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/82.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/82_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-82",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:82:english:xy3-82",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-82",
+      "setId": "xy3",
+      "collectorNumber": "82",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-82",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-85",
+    "englishName": "Watchog",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "85",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/85.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/85_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-85",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:85:english:xy3-85",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-85",
+      "setId": "xy3",
+      "collectorNumber": "85",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-85",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy3-2",
+    "englishName": "Weepinbell",
+    "category": "Pokemon",
+    "setCode": "FFI",
+    "setName": "Furious Fists",
+    "cardNumber": "2",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy3/2.png",
+    "imageLarge": "https://images.pokemontcg.io/xy3/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy3-2",
+    "sourceSetId": "xy3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy3:2:english:xy3-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy3-2",
+      "setId": "xy3",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy3-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

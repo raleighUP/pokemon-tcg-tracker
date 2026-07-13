@@ -1,0 +1,3290 @@
+[
+  {
+    "id": "g1-RC24",
+    "englishName": "Altaria",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "RC24",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/RC24.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/RC24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-RC24",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:RC24:english:g1-RC24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-RC24",
+      "setId": "g1",
+      "collectorNumber": "RC24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-RC24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-25",
+    "englishName": "Articuno",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "25",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/25.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-25",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:25:english:g1-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-25",
+      "setId": "g1",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-17",
+    "englishName": "Blastoise-EX",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "17",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/17.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-17",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:17:english:g1-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-17",
+      "setId": "g1",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-5",
+    "englishName": "Butterfree",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "5",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/5.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-5",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:5:english:g1-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-5",
+      "setId": "g1",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-3",
+    "englishName": "Caterpie",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "3",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/3.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-3",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:3:english:g1-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-3",
+      "setId": "g1",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-11",
+    "englishName": "Charizard-EX",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "11",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/11.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-11",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:11:english:g1-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-11",
+      "setId": "g1",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-RC5",
+    "englishName": "Charizard",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "RC5",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/RC5.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/RC5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-RC5",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:RC5:english:g1-RC5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-RC5",
+      "setId": "g1",
+      "collectorNumber": "RC5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-RC5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-RC3",
+    "englishName": "Charmander",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "RC3",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/RC3.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/RC3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-RC3",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:RC3:english:g1-RC3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-RC3",
+      "setId": "g1",
+      "collectorNumber": "RC3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-RC3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-RC4",
+    "englishName": "Charmeleon",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "RC4",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/RC4.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/RC4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-RC4",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:RC4:english:g1-RC4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-RC4",
+      "setId": "g1",
+      "collectorNumber": "RC4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-RC4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-RC1",
+    "englishName": "Chikorita",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "RC1",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/RC1.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/RC1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-RC1",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:RC1:english:g1-RC1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-RC1",
+      "setId": "g1",
+      "collectorNumber": "RC1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-RC1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-51",
+    "englishName": "Clefable",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "51",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/51.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-51",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:51:english:g1-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-51",
+      "setId": "g1",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-50",
+    "englishName": "Clefairy",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "50",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/50.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-50",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:50:english:g1-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-50",
+      "setId": "g1",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-59",
+    "englishName": "Clemont",
+    "category": "Trainer",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "59",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/59.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-59",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:59:english:g1-59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-59",
+      "setId": "g1",
+      "collectorNumber": "59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-20",
+    "englishName": "Cloyster",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "20",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/20.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-20",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:20:english:g1-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-20",
+      "setId": "g1",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-60",
+    "englishName": "Crushing Hammer",
+    "category": "Trainer",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "60",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/60.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-60",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:60:english:g1-60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-60",
+      "setId": "g1",
+      "collectorNumber": "60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-81",
+    "englishName": "Darkness Energy",
+    "category": "Energy",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "81",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/81.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/81_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-81",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:81:english:g1-81",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-81",
+      "setId": "g1",
+      "collectorNumber": "81",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-81",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-RC10",
+    "englishName": "Dedenne",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "RC10",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/RC10.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/RC10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-RC10",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:RC10:english:g1-RC10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-RC10",
+      "setId": "g1",
+      "collectorNumber": "RC10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-RC10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-RC22",
+    "englishName": "Diancie",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "RC22",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/RC22.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/RC22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-RC22",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:RC22:english:g1-RC22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-RC22",
+      "setId": "g1",
+      "collectorNumber": "RC22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-RC22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-38",
+    "englishName": "Diglett",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "38",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/38.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-38",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:38:english:g1-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-38",
+      "setId": "g1",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-56",
+    "englishName": "Dodrio",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "56",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/56.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-56",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:56:english:g1-56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-56",
+      "setId": "g1",
+      "collectorNumber": "56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-55",
+    "englishName": "Doduo",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "55",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/55.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-55",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:55:english:g1-55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-55",
+      "setId": "g1",
+      "collectorNumber": "55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-74",
+    "englishName": "Double Colorless Energy",
+    "category": "Energy",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "74",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/74.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-74",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:74:english:g1-74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-74",
+      "setId": "g1",
+      "collectorNumber": "74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-39",
+    "englishName": "Dugtrio",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "39",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/39.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-39",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:39:english:g1-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-39",
+      "setId": "g1",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-61",
+    "englishName": "Energy Switch",
+    "category": "Trainer",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "61",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/61.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-61",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:61:english:g1-61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-61",
+      "setId": "g1",
+      "collectorNumber": "61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-RC14",
+    "englishName": "Espurr",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "RC14",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/RC14.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/RC14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-RC14",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:RC14:english:g1-RC14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-RC14",
+      "setId": "g1",
+      "collectorNumber": "RC14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-RC14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-62",
+    "englishName": "Evosoda",
+    "category": "Trainer",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "62",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/62.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-62",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:62:english:g1-62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-62",
+      "setId": "g1",
+      "collectorNumber": "62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-83",
+    "englishName": "Fairy Energy",
+    "category": "Energy",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "83",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/83.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/83_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-83",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:83:english:g1-83",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-83",
+      "setId": "g1",
+      "collectorNumber": "83",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-83",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-80",
+    "englishName": "Fighting Energy",
+    "category": "Energy",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "80",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/80.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/80_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-80",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:80:english:g1-80",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-80",
+      "setId": "g1",
+      "collectorNumber": "80",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-80",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-76",
+    "englishName": "Fire Energy",
+    "category": "Energy",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "76",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/76.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-76",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:76:english:g1-76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-76",
+      "setId": "g1",
+      "collectorNumber": "76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-RC17",
+    "englishName": "Flabébé",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "RC17",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/RC17.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/RC17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-RC17",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:RC17:english:g1-RC17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-RC17",
+      "setId": "g1",
+      "collectorNumber": "RC17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-RC17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-RC28",
+    "englishName": "Flareon-EX",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "RC28",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/RC28.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/RC28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-RC28",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:RC28:english:g1-RC28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-RC28",
+      "setId": "g1",
+      "collectorNumber": "RC28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-RC28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-RC6",
+    "englishName": "Flareon-EX",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "RC6",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/RC6.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/RC6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-RC6",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:RC6:english:g1-RC6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-RC6",
+      "setId": "g1",
+      "collectorNumber": "RC6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-RC6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-RC25",
+    "englishName": "Fletchling",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "RC25",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/RC25.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/RC25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-RC25",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:RC25:english:g1-RC25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-RC25",
+      "setId": "g1",
+      "collectorNumber": "RC25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-RC25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-RC18",
+    "englishName": "Floette",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "RC18",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/RC18.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/RC18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-RC18",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:RC18:english:g1-RC18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-RC18",
+      "setId": "g1",
+      "collectorNumber": "RC18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-RC18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-RC26",
+    "englishName": "Floral Crown",
+    "category": "Trainer",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "RC26",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/RC26.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/RC26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-RC26",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:RC26:english:g1-RC26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-RC26",
+      "setId": "g1",
+      "collectorNumber": "RC26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-RC26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-RC8",
+    "englishName": "Froslass",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "RC8",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/RC8.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/RC8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-RC8",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:RC8:english:g1-RC8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-RC8",
+      "setId": "g1",
+      "collectorNumber": "RC8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-RC8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-RC30",
+    "englishName": "Gardevoir-EX",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "RC30",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/RC30.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/RC30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-RC30",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:RC30:english:g1-RC30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-RC30",
+      "setId": "g1",
+      "collectorNumber": "RC30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-RC30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-33",
+    "englishName": "Gastly",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "33",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/33.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-33",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:33:english:g1-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-33",
+      "setId": "g1",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-35",
+    "englishName": "Gengar",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "35",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/35.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-35",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:35:english:g1-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-35",
+      "setId": "g1",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-43",
+    "englishName": "Geodude",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "43",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/43.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-43",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:43:english:g1-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-43",
+      "setId": "g1",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-31",
+    "englishName": "Golbat",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "31",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/31.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-31",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:31:english:g1-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-31",
+      "setId": "g1",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-46",
+    "englishName": "Golem-EX",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "46",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/46.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-46",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:46:english:g1-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-46",
+      "setId": "g1",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-45",
+    "englishName": "Golem",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "45",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/45.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-45",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:45:english:g1-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-45",
+      "setId": "g1",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-75",
+    "englishName": "Grass Energy",
+    "category": "Energy",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "75",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/75.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-75",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:75:english:g1-75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-75",
+      "setId": "g1",
+      "collectorNumber": "75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-44",
+    "englishName": "Graveler",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "44",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/44.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-44",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:44:english:g1-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-44",
+      "setId": "g1",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-RC12",
+    "englishName": "Gulpin",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "RC12",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/RC12.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/RC12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-RC12",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:RC12:english:g1-RC12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-RC12",
+      "setId": "g1",
+      "collectorNumber": "RC12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-RC12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-23",
+    "englishName": "Gyarados",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "23",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/23.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-23",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:23:english:g1-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-23",
+      "setId": "g1",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-34",
+    "englishName": "Haunter",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "34",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/34.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-34",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:34:english:g1-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-34",
+      "setId": "g1",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-48",
+    "englishName": "Hitmonchan",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "48",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/48.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-48",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:48:english:g1-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-48",
+      "setId": "g1",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-47",
+    "englishName": "Hitmonlee",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "47",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/47.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-47",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:47:english:g1-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-47",
+      "setId": "g1",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-63",
+    "englishName": "Imakuni?",
+    "category": "Trainer",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "63",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/63.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-63",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:63:english:g1-63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-63",
+      "setId": "g1",
+      "collectorNumber": "63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-RC13",
+    "englishName": "Jirachi",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "RC13",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/RC13.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/RC13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-RC13",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:RC13:english:g1-RC13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-RC13",
+      "setId": "g1",
+      "collectorNumber": "RC13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-RC13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-28",
+    "englishName": "Jolteon-EX",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "28",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/28.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-28",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:28:english:g1-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-28",
+      "setId": "g1",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-28a",
+    "englishName": "Jolteon-EX",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "28a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/28a.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/28a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-28a",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:28a:english:g1-28a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-28a",
+      "setId": "g1",
+      "collectorNumber": "28a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-28a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-36",
+    "englishName": "Jynx",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "36",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/36.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-36",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:36:english:g1-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-36",
+      "setId": "g1",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-21",
+    "englishName": "Krabby",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "21",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/21.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-21",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:21:english:g1-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-21",
+      "setId": "g1",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-10",
+    "englishName": "Leafeon-EX",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "10",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/10.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-10",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:10:english:g1-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-10",
+      "setId": "g1",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-78",
+    "englishName": "Lightning Energy",
+    "category": "Energy",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "78",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/78.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-78",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:78:english:g1-78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-78",
+      "setId": "g1",
+      "collectorNumber": "78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-18",
+    "englishName": "M Blastoise-EX",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "18",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/18.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-18",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:18:english:g1-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-18",
+      "setId": "g1",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-12",
+    "englishName": "M Charizard-EX",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "12",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/12.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-12",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:12:english:g1-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-12",
+      "setId": "g1",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-RC31",
+    "englishName": "M Gardevoir-EX",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "RC31",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/RC31.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/RC31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-RC31",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:RC31:english:g1-RC31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-RC31",
+      "setId": "g1",
+      "collectorNumber": "RC31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-RC31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-2",
+    "englishName": "M Venusaur-EX",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "2",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/2.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-2",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:2:english:g1-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-2",
+      "setId": "g1",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-42",
+    "englishName": "Machamp",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "42",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/42.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-42",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:42:english:g1-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-42",
+      "setId": "g1",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-41",
+    "englishName": "Machoke",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "41",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/41.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-41",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:41:english:g1-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-41",
+      "setId": "g1",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-40",
+    "englishName": "Machop",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "40",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/40.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-40",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:40:english:g1-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-40",
+      "setId": "g1",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-22",
+    "englishName": "Magikarp",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "22",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/22.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-22",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:22:english:g1-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-22",
+      "setId": "g1",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-16",
+    "englishName": "Magmar",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "16",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/16.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-16",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:16:english:g1-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-16",
+      "setId": "g1",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-64",
+    "englishName": "Maintenance",
+    "category": "Trainer",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "64",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/64.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-64",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:64:english:g1-64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-64",
+      "setId": "g1",
+      "collectorNumber": "64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-65",
+    "englishName": "Max Revive",
+    "category": "Trainer",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "65",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/65.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-65",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:65:english:g1-65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-65",
+      "setId": "g1",
+      "collectorNumber": "65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-37",
+    "englishName": "Meowstic-EX",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "37",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/37.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-37",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:37:english:g1-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-37",
+      "setId": "g1",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-RC15",
+    "englishName": "Meowstic",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "RC15",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/RC15.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/RC15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-RC15",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:RC15:english:g1-RC15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-RC15",
+      "setId": "g1",
+      "collectorNumber": "RC15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-RC15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-53",
+    "englishName": "Meowth",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "53",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/53.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-53",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:53:english:g1-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-53",
+      "setId": "g1",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-82",
+    "englishName": "Metal Energy",
+    "category": "Energy",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "82",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/82.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/82_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-82",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:82:english:g1-82",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-82",
+      "setId": "g1",
+      "collectorNumber": "82",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-82",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-4",
+    "englishName": "Metapod",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "4",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/4.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-4",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:4:english:g1-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-4",
+      "setId": "g1",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-52",
+    "englishName": "Mr. Mime",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "52",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/52.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-52",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:52:english:g1-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-52",
+      "setId": "g1",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-13",
+    "englishName": "Ninetales-EX",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "13",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/13.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-13",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:13:english:g1-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-13",
+      "setId": "g1",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-66",
+    "englishName": "Olympia",
+    "category": "Trainer",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "66",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/66.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-66",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:66:english:g1-66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-66",
+      "setId": "g1",
+      "collectorNumber": "66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-6",
+    "englishName": "Paras",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "6",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/6.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-6",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:6:english:g1-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-6",
+      "setId": "g1",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-7",
+    "englishName": "Parasect",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "7",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/7.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-7",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:7:english:g1-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-7",
+      "setId": "g1",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-54",
+    "englishName": "Persian",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "54",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/54.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-54",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:54:english:g1-54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-54",
+      "setId": "g1",
+      "collectorNumber": "54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-26",
+    "englishName": "Pikachu",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "26",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/26.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-26",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:26:english:g1-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-26",
+      "setId": "g1",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-RC29",
+    "englishName": "Pikachu",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "RC29",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/RC29.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/RC29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-RC29",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:RC29:english:g1-RC29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-RC29",
+      "setId": "g1",
+      "collectorNumber": "RC29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-RC29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-9",
+    "englishName": "Pinsir",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "9",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/9.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-9",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:9:english:g1-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-9",
+      "setId": "g1",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-67",
+    "englishName": "Poké Ball",
+    "category": "Trainer",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "67",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/67.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-67",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:67:english:g1-67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-67",
+      "setId": "g1",
+      "collectorNumber": "67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-68",
+    "englishName": "Pokémon Center Lady",
+    "category": "Trainer",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "68",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/68.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-68",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:68:english:g1-68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-68",
+      "setId": "g1",
+      "collectorNumber": "68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-69",
+    "englishName": "Pokémon Fan Club",
+    "category": "Trainer",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "69",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/69.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-69",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:69:english:g1-69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-69",
+      "setId": "g1",
+      "collectorNumber": "69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-14",
+    "englishName": "Ponyta",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "14",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/14.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-14",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:14:english:g1-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-14",
+      "setId": "g1",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-79",
+    "englishName": "Psychic Energy",
+    "category": "Energy",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "79",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/79.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/79_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-79",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:79:english:g1-79",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-79",
+      "setId": "g1",
+      "collectorNumber": "79",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-79",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-27",
+    "englishName": "Raichu",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "27",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/27.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-27",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:27:english:g1-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-27",
+      "setId": "g1",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-RC9",
+    "englishName": "Raichu",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "RC9",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/RC9.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/RC9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-RC9",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:RC9:english:g1-RC9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-RC9",
+      "setId": "g1",
+      "collectorNumber": "RC9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-RC9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-15",
+    "englishName": "Rapidash",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "15",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/15.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-15",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:15:english:g1-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-15",
+      "setId": "g1",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-71",
+    "englishName": "Red Card",
+    "category": "Trainer",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "71",
+    "legalities": {
+      "expanded": "Banned",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/71.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-71",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:71:english:g1-71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-71",
+      "setId": "g1",
+      "collectorNumber": "71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-70",
+    "englishName": "Revitalizer",
+    "category": "Trainer",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "70",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/70.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-70",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:70:english:g1-70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-70",
+      "setId": "g1",
+      "collectorNumber": "70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-49",
+    "englishName": "Rhyhorn",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "49",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/49.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-49",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:49:english:g1-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-49",
+      "setId": "g1",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-72",
+    "englishName": "Shauna",
+    "category": "Trainer",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "72",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/72.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-72",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:72:english:g1-72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-72",
+      "setId": "g1",
+      "collectorNumber": "72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-19",
+    "englishName": "Shellder",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "19",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/19.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-19",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:19:english:g1-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-19",
+      "setId": "g1",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-RC2",
+    "englishName": "Shroomish",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "RC2",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/RC2.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/RC2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-RC2",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:RC2:english:g1-RC2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-RC2",
+      "setId": "g1",
+      "collectorNumber": "RC2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-RC2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-32",
+    "englishName": "Slowpoke",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "32",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/32.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-32",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:32:english:g1-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-32",
+      "setId": "g1",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-RC20",
+    "englishName": "Slurpuff",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "RC20",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/RC20.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/RC20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-RC20",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:RC20:english:g1-RC20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-RC20",
+      "setId": "g1",
+      "collectorNumber": "RC20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-RC20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-58",
+    "englishName": "Snorlax",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "58",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/58.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-58",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:58:english:g1-58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-58",
+      "setId": "g1",
+      "collectorNumber": "58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-RC7",
+    "englishName": "Snorunt",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "RC7",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/RC7.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/RC7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-RC7",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:RC7:english:g1-RC7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-RC7",
+      "setId": "g1",
+      "collectorNumber": "RC7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-RC7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-RC23",
+    "englishName": "Swablu",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "RC23",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/RC23.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/RC23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-RC23",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:RC23:english:g1-RC23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-RC23",
+      "setId": "g1",
+      "collectorNumber": "RC23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-RC23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-RC19",
+    "englishName": "Swirlix",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "RC19",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/RC19.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/RC19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-RC19",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:RC19:english:g1-RC19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-RC19",
+      "setId": "g1",
+      "collectorNumber": "RC19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-RC19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-RC21",
+    "englishName": "Sylveon-EX",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "RC21",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/RC21.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/RC21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-RC21",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:RC21:english:g1-RC21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-RC21",
+      "setId": "g1",
+      "collectorNumber": "RC21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-RC21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-RC32",
+    "englishName": "Sylveon-EX",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "RC32",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/RC32.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/RC32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-RC32",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:RC32:english:g1-RC32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-RC32",
+      "setId": "g1",
+      "collectorNumber": "RC32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-RC32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-8",
+    "englishName": "Tangela",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "8",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/8.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-8",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:8:english:g1-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-8",
+      "setId": "g1",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-57",
+    "englishName": "Tauros",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "57",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/57.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-57",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:57:english:g1-57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-57",
+      "setId": "g1",
+      "collectorNumber": "57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-73",
+    "englishName": "Team Flare Grunt",
+    "category": "Trainer",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "73",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/73.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-73",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:73:english:g1-73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-73",
+      "setId": "g1",
+      "collectorNumber": "73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-73a",
+    "englishName": "Team Flare Grunt",
+    "category": "Trainer",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "73a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/73a.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/73a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-73a",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:73a:english:g1-73a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-73a",
+      "setId": "g1",
+      "collectorNumber": "73a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-73a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-24",
+    "englishName": "Vaporeon-EX",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "24",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/24.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-24",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:24:english:g1-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-24",
+      "setId": "g1",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-1",
+    "englishName": "Venusaur-EX",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "1",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/1.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-1",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:1:english:g1-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-1",
+      "setId": "g1",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-RC27",
+    "englishName": "Wally",
+    "category": "Trainer",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "RC27",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/RC27.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/RC27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-RC27",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:RC27:english:g1-RC27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-RC27",
+      "setId": "g1",
+      "collectorNumber": "RC27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-RC27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-77",
+    "englishName": "Water Energy",
+    "category": "Energy",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "77",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/77.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-77",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:77:english:g1-77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-77",
+      "setId": "g1",
+      "collectorNumber": "77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-RC11",
+    "englishName": "Wobbuffet",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "RC11",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/RC11.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/RC11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-RC11",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:RC11:english:g1-RC11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-RC11",
+      "setId": "g1",
+      "collectorNumber": "RC11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-RC11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-RC16",
+    "englishName": "Yveltal",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "RC16",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/RC16.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/RC16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-RC16",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:RC16:english:g1-RC16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-RC16",
+      "setId": "g1",
+      "collectorNumber": "RC16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-RC16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-29",
+    "englishName": "Zapdos",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "29",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/29.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-29",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:29:english:g1-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-29",
+      "setId": "g1",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "g1-30",
+    "englishName": "Zubat",
+    "category": "Pokemon",
+    "setCode": "GEN",
+    "setName": "Generations",
+    "cardNumber": "30",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/g1/30.png",
+    "imageLarge": "https://images.pokemontcg.io/g1/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "g1-30",
+    "sourceSetId": "g1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:g1:30:english:g1-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "g1-30",
+      "setId": "g1",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "g1-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

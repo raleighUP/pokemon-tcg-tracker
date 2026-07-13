@@ -1,0 +1,88 @@
+name: Update card reference cache
+
+on:
+  workflow_dispatch:
+    inputs:
+      full:
+        description: Run a full rebuild instead of incremental sync
+        required: false
+        type: boolean
+        default: false
+      force_set:
+        description: Optional Pokemon TCG API set id to force refresh
+        required: false
+        type: string
+  schedule:
+    - cron: '17 9 * * *'
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync-card-reference:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Build sync arguments
+        id: args
+        shell: bash
+        run: |
+          args=()
+          if [[ "${{ inputs.full }}" == "true" ]]; then
+            args+=(--full)
+          fi
+          if [[ -n "${{ inputs.force_set }}" ]]; then
+            args+=(--force-set="${{ inputs.force_set }}")
+          fi
+          echo "value=${args[*]}" >> "$GITHUB_OUTPUT"
+
+      - name: Sync card reference cache
+        run: npm run sync:card-reference -- ${{ steps.args.outputs.value }}
+        env:
+          POKEMON_TCG_API_KEY: ${{ secrets.POKEMON_TCG_API_KEY }}
+
+      - name: Validate card reference cache
+        run: npm run validate:card-cache
+
+      - name: Summarize generated cache
+        shell: bash
+        run: |
+          node -e "const fs=require('fs'); const m=JSON.parse(fs.readFileSync('public/card-reference/card-reference-manifest.json','utf8')); console.log('## Card reference cache'); console.log(''); console.log('| Metric | Value |'); console.log('| --- | ---: |'); console.log('| Sets | '+m.totalSets+' |'); console.log('| Cards | '+m.totalCards+' |'); console.log('| Standard legal cards | '+(m.standardLegalCards ?? 'n/a')+' |'); console.log('| Generated at | '+m.generatedAt+' |');" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload static cache artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: card-reference-cache
+          path: public/card-reference
+
+      - name: Open update pull request
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet -- data/card-reference-cache.json public/card-reference; then
+            echo "No card reference changes detected."
+            exit 0
+          fi
+
+          branch="automation/card-reference-cache-${GITHUB_RUN_ID}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$branch"
+          git add data/card-reference-cache.json public/card-reference
+          git commit -m "Update card reference cache"
+          git push --set-upstream origin "$branch"
+          gh pr create \
+            --title "Update card reference cache" \
+            --body "Automated card reference cache update. Validation passed and the static cache artifact was uploaded with this workflow run." \
+            --base "$GITHUB_REF_NAME" \
+            --head "$branch"

@@ -1,0 +1,461 @@
+[
+  {
+    "id": "pop3-1",
+    "englishName": "Blastoise",
+    "category": "Pokemon",
+    "setCode": "pop3",
+    "setName": "POP Series 3",
+    "cardNumber": "1",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop3/1.png",
+    "imageLarge": "https://images.pokemontcg.io/pop3/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop3-1",
+    "sourceSetId": "pop3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop3:1:english:pop3-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop3-1",
+      "setId": "pop3",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop3-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop3-7",
+    "englishName": "Combusken",
+    "category": "Pokemon",
+    "setCode": "pop3",
+    "setName": "POP Series 3",
+    "cardNumber": "7",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop3/7.png",
+    "imageLarge": "https://images.pokemontcg.io/pop3/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop3-7",
+    "sourceSetId": "pop3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop3:7:english:pop3-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop3-7",
+      "setId": "pop3",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop3-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop3-12",
+    "englishName": "Ditto",
+    "category": "Pokemon",
+    "setCode": "pop3",
+    "setName": "POP Series 3",
+    "cardNumber": "12",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop3/12.png",
+    "imageLarge": "https://images.pokemontcg.io/pop3/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop3-12",
+    "sourceSetId": "pop3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop3:12:english:pop3-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop3-12",
+      "setId": "pop3",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop3-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop3-8",
+    "englishName": "Donphan",
+    "category": "Pokemon",
+    "setCode": "pop3",
+    "setName": "POP Series 3",
+    "cardNumber": "8",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop3/8.png",
+    "imageLarge": "https://images.pokemontcg.io/pop3/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop3-8",
+    "sourceSetId": "pop3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop3:8:english:pop3-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop3-8",
+      "setId": "pop3",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop3-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop3-13",
+    "englishName": "Eevee",
+    "category": "Pokemon",
+    "setCode": "pop3",
+    "setName": "POP Series 3",
+    "cardNumber": "13",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop3/13.png",
+    "imageLarge": "https://images.pokemontcg.io/pop3/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop3-13",
+    "sourceSetId": "pop3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop3:13:english:pop3-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop3-13",
+      "setId": "pop3",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop3-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop3-2",
+    "englishName": "Flareon",
+    "category": "Pokemon",
+    "setCode": "pop3",
+    "setName": "POP Series 3",
+    "cardNumber": "2",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop3/2.png",
+    "imageLarge": "https://images.pokemontcg.io/pop3/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop3-2",
+    "sourceSetId": "pop3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop3:2:english:pop3-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop3-2",
+      "setId": "pop3",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop3-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop3-9",
+    "englishName": "Forretress",
+    "category": "Pokemon",
+    "setCode": "pop3",
+    "setName": "POP Series 3",
+    "cardNumber": "9",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop3/9.png",
+    "imageLarge": "https://images.pokemontcg.io/pop3/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop3-9",
+    "sourceSetId": "pop3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop3:9:english:pop3-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop3-9",
+      "setId": "pop3",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop3-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop3-10",
+    "englishName": "High Pressure System",
+    "category": "Trainer",
+    "setCode": "pop3",
+    "setName": "POP Series 3",
+    "cardNumber": "10",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop3/10.png",
+    "imageLarge": "https://images.pokemontcg.io/pop3/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop3-10",
+    "sourceSetId": "pop3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop3:10:english:pop3-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop3-10",
+      "setId": "pop3",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop3-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop3-17",
+    "englishName": "Ho-Oh ex",
+    "category": "Pokemon",
+    "setCode": "pop3",
+    "setName": "POP Series 3",
+    "cardNumber": "17",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop3/17.png",
+    "imageLarge": "https://images.pokemontcg.io/pop3/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop3-17",
+    "sourceSetId": "pop3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop3:17:english:pop3-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop3-17",
+      "setId": "pop3",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop3-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop3-14",
+    "englishName": "Ivysaur",
+    "category": "Pokemon",
+    "setCode": "pop3",
+    "setName": "POP Series 3",
+    "cardNumber": "14",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop3/14.png",
+    "imageLarge": "https://images.pokemontcg.io/pop3/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop3-14",
+    "sourceSetId": "pop3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop3:14:english:pop3-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop3-14",
+      "setId": "pop3",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop3-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop3-3",
+    "englishName": "Jolteon",
+    "category": "Pokemon",
+    "setCode": "pop3",
+    "setName": "POP Series 3",
+    "cardNumber": "3",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop3/3.png",
+    "imageLarge": "https://images.pokemontcg.io/pop3/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop3-3",
+    "sourceSetId": "pop3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop3:3:english:pop3-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop3-3",
+      "setId": "pop3",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop3-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop3-11",
+    "englishName": "Low Pressure System",
+    "category": "Trainer",
+    "setCode": "pop3",
+    "setName": "POP Series 3",
+    "cardNumber": "11",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop3/11.png",
+    "imageLarge": "https://images.pokemontcg.io/pop3/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop3-11",
+    "sourceSetId": "pop3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop3:11:english:pop3-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop3-11",
+      "setId": "pop3",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop3-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop3-15",
+    "englishName": "Marshtomp",
+    "category": "Pokemon",
+    "setCode": "pop3",
+    "setName": "POP Series 3",
+    "cardNumber": "15",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop3/15.png",
+    "imageLarge": "https://images.pokemontcg.io/pop3/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop3-15",
+    "sourceSetId": "pop3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop3:15:english:pop3-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop3-15",
+      "setId": "pop3",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop3-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop3-4",
+    "englishName": "Minun",
+    "category": "Pokemon",
+    "setCode": "pop3",
+    "setName": "POP Series 3",
+    "cardNumber": "4",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop3/4.png",
+    "imageLarge": "https://images.pokemontcg.io/pop3/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop3-4",
+    "sourceSetId": "pop3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop3:4:english:pop3-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop3-4",
+      "setId": "pop3",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop3-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop3-16",
+    "englishName": "Pichu Bros.",
+    "category": "Pokemon",
+    "setCode": "pop3",
+    "setName": "POP Series 3",
+    "cardNumber": "16",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop3/16.png",
+    "imageLarge": "https://images.pokemontcg.io/pop3/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop3-16",
+    "sourceSetId": "pop3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop3:16:english:pop3-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop3-16",
+      "setId": "pop3",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop3-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop3-5",
+    "englishName": "Plusle",
+    "category": "Pokemon",
+    "setCode": "pop3",
+    "setName": "POP Series 3",
+    "cardNumber": "5",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop3/5.png",
+    "imageLarge": "https://images.pokemontcg.io/pop3/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop3-5",
+    "sourceSetId": "pop3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop3:5:english:pop3-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop3-5",
+      "setId": "pop3",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop3-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pop3-6",
+    "englishName": "Vaporeon",
+    "category": "Pokemon",
+    "setCode": "pop3",
+    "setName": "POP Series 3",
+    "cardNumber": "6",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pop3/6.png",
+    "imageLarge": "https://images.pokemontcg.io/pop3/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pop3-6",
+    "sourceSetId": "pop3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pop3:6:english:pop3-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pop3-6",
+      "setId": "pop3",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pop3-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

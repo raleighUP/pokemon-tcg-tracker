@@ -1,0 +1,3383 @@
+[
+  {
+    "id": "hgss1-ONE",
+    "englishName": "Alph Lithograph",
+    "category": "Trainer",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "ONE",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/ONE.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/ONE_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-ONE",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:ONE:english:hgss1-ONE",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-ONE",
+      "setId": "hgss1",
+      "collectorNumber": "ONE",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-ONE",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-105",
+    "englishName": "Ampharos",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "105",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/105.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/105_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-105",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:105:english:hgss1-105",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-105",
+      "setId": "hgss1",
+      "collectorNumber": "105",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-105",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-14",
+    "englishName": "Ampharos",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "14",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/14.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-14",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:14:english:hgss1-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-14",
+      "setId": "hgss1",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-1",
+    "englishName": "Arcanine",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "1",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/1.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-1",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:1:english:hgss1-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-1",
+      "setId": "hgss1",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-15",
+    "englishName": "Ariados",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "15",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/15.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-15",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:15:english:hgss1-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-15",
+      "setId": "hgss1",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-2",
+    "englishName": "Azumarill",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "2",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/2.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-2",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:2:english:hgss1-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-2",
+      "setId": "hgss1",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-35",
+    "englishName": "Bayleef",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "35",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/35.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-35",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:35:english:hgss1-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-35",
+      "setId": "hgss1",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-89",
+    "englishName": "Bill",
+    "category": "Trainer",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "89",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/89.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/89_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-89",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:89:english:hgss1-89",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-89",
+      "setId": "hgss1",
+      "collectorNumber": "89",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-89",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-106",
+    "englishName": "Blissey",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "106",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/106.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/106_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-106",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:106:english:hgss1-106",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-106",
+      "setId": "hgss1",
+      "collectorNumber": "106",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-106",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-36",
+    "englishName": "Blissey",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "36",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/36.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-36",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:36:english:hgss1-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-36",
+      "setId": "hgss1",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-16",
+    "englishName": "Butterfree",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "16",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/16.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-16",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:16:english:hgss1-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-16",
+      "setId": "hgss1",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-57",
+    "englishName": "Caterpie",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "57",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/57.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-57",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:57:english:hgss1-57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-57",
+      "setId": "hgss1",
+      "collectorNumber": "57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-58",
+    "englishName": "Chansey",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "58",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/58.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-58",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:58:english:hgss1-58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-58",
+      "setId": "hgss1",
+      "collectorNumber": "58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-59",
+    "englishName": "Chikorita",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "59",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/59.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-59",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:59:english:hgss1-59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-59",
+      "setId": "hgss1",
+      "collectorNumber": "59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-3",
+    "englishName": "Clefable",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "3",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/3.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-3",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:3:english:hgss1-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-3",
+      "setId": "hgss1",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-60",
+    "englishName": "Clefairy",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "60",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/60.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-60",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:60:english:hgss1-60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-60",
+      "setId": "hgss1",
+      "collectorNumber": "60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-17",
+    "englishName": "Cleffa",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "17",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/17.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-17",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:17:english:hgss1-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-17",
+      "setId": "hgss1",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-90",
+    "englishName": "Copycat",
+    "category": "Trainer",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "90",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/90.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/90_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-90",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:90:english:hgss1-90",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-90",
+      "setId": "hgss1",
+      "collectorNumber": "90",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-90",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-37",
+    "englishName": "Corsola",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "37",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/37.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-37",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:37:english:hgss1-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-37",
+      "setId": "hgss1",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-38",
+    "englishName": "Croconaw",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "38",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/38.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-38",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:38:english:hgss1-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-38",
+      "setId": "hgss1",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-61",
+    "englishName": "Cyndaquil",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "61",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/61.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-61",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:61:english:hgss1-61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-61",
+      "setId": "hgss1",
+      "collectorNumber": "61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-121",
+    "englishName": "Darkness Energy",
+    "category": "Energy",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "121",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/121.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/121_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-121",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:121:english:hgss1-121",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-121",
+      "setId": "hgss1",
+      "collectorNumber": "121",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-121",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-39",
+    "englishName": "Delibird",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "39",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/39.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-39",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:39:english:hgss1-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-39",
+      "setId": "hgss1",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-107",
+    "englishName": "Donphan",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "107",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/107.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/107_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-107",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:107:english:hgss1-107",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-107",
+      "setId": "hgss1",
+      "collectorNumber": "107",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-107",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-40",
+    "englishName": "Donphan",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "40",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/40.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-40",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:40:english:hgss1-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-40",
+      "setId": "hgss1",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-103",
+    "englishName": "Double Colorless Energy",
+    "category": "Energy",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "103",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/103.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/103_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-103",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:103:english:hgss1-103",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-103",
+      "setId": "hgss1",
+      "collectorNumber": "103",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-103",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-62",
+    "englishName": "Drowzee",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "62",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/62.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-62",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:62:english:hgss1-62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-62",
+      "setId": "hgss1",
+      "collectorNumber": "62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-41",
+    "englishName": "Dunsparce",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "41",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/41.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-41",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:41:english:hgss1-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-41",
+      "setId": "hgss1",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-91",
+    "englishName": "Energy Switch",
+    "category": "Trainer",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "91",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/91.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/91_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-91",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:91:english:hgss1-91",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-91",
+      "setId": "hgss1",
+      "collectorNumber": "91",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-91",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-63",
+    "englishName": "Exeggcute",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "63",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/63.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-63",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:63:english:hgss1-63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-63",
+      "setId": "hgss1",
+      "collectorNumber": "63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-18",
+    "englishName": "Exeggutor",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "18",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/18.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-18",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:18:english:hgss1-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-18",
+      "setId": "hgss1",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-19",
+    "englishName": "Farfetch'd",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "19",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/19.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-19",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:19:english:hgss1-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-19",
+      "setId": "hgss1",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-108",
+    "englishName": "Feraligatr",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "108",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/108.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/108_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-108",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:108:english:hgss1-108",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-108",
+      "setId": "hgss1",
+      "collectorNumber": "108",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-108",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-20",
+    "englishName": "Feraligatr",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "20",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/20.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-20",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:20:english:hgss1-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-20",
+      "setId": "hgss1",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-120",
+    "englishName": "Fighting Energy",
+    "category": "Energy",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "120",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/120.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/120_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-120",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:120:english:hgss1-120",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-120",
+      "setId": "hgss1",
+      "collectorNumber": "120",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-120",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-116",
+    "englishName": "Fire Energy",
+    "category": "Energy",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "116",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/116.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/116_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-116",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:116:english:hgss1-116",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-116",
+      "setId": "hgss1",
+      "collectorNumber": "116",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-116",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-92",
+    "englishName": "Fisherman",
+    "category": "Trainer",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "92",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/92.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/92_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-92",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:92:english:hgss1-92",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-92",
+      "setId": "hgss1",
+      "collectorNumber": "92",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-92",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-42",
+    "englishName": "Flaaffy",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "42",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/42.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-42",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:42:english:hgss1-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-42",
+      "setId": "hgss1",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-93",
+    "englishName": "Full Heal",
+    "category": "Trainer",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "93",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/93.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/93_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-93",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:93:english:hgss1-93",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-93",
+      "setId": "hgss1",
+      "collectorNumber": "93",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-93",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-21",
+    "englishName": "Furret",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "21",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/21.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-21",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:21:english:hgss1-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-21",
+      "setId": "hgss1",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-64",
+    "englishName": "Girafarig",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "64",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/64.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-64",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:64:english:hgss1-64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-64",
+      "setId": "hgss1",
+      "collectorNumber": "64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-22",
+    "englishName": "Granbull",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "22",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/22.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-22",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:22:english:hgss1-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-22",
+      "setId": "hgss1",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-115",
+    "englishName": "Grass Energy",
+    "category": "Energy",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "115",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/115.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/115_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-115",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:115:english:hgss1-115",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-115",
+      "setId": "hgss1",
+      "collectorNumber": "115",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-115",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-65",
+    "englishName": "Growlithe",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "65",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/65.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-65",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:65:english:hgss1-65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-65",
+      "setId": "hgss1",
+      "collectorNumber": "65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-123",
+    "englishName": "Gyarados",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "123",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/123.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/123_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-123",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:123:english:hgss1-123",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-123",
+      "setId": "hgss1",
+      "collectorNumber": "123",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-123",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-4",
+    "englishName": "Gyarados",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "4",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/4.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-4",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:4:english:hgss1-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-4",
+      "setId": "hgss1",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-43",
+    "englishName": "Heracross",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "43",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/43.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-43",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:43:english:hgss1-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-43",
+      "setId": "hgss1",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-5",
+    "englishName": "Hitmontop",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "5",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/5.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-5",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:5:english:hgss1-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-5",
+      "setId": "hgss1",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-111",
+    "englishName": "Ho-Oh LEGEND",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "111",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/111.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/111_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-111",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:111:english:hgss1-111",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-111",
+      "setId": "hgss1",
+      "collectorNumber": "111",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-111",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-112",
+    "englishName": "Ho-Oh LEGEND",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "112",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/112.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/112_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-112",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:112:english:hgss1-112",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-112",
+      "setId": "hgss1",
+      "collectorNumber": "112",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-112",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-66",
+    "englishName": "Hoothoot",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "66",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/66.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-66",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:66:english:hgss1-66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-66",
+      "setId": "hgss1",
+      "collectorNumber": "66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-67",
+    "englishName": "Hoppip",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "67",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/67.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-67",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:67:english:hgss1-67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-67",
+      "setId": "hgss1",
+      "collectorNumber": "67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-23",
+    "englishName": "Hypno",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "23",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/23.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-23",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:23:english:hgss1-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-23",
+      "setId": "hgss1",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-44",
+    "englishName": "Igglybuff",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "44",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/44.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-44",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:44:english:hgss1-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-44",
+      "setId": "hgss1",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-68",
+    "englishName": "Jigglypuff",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "68",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/68.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-68",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:68:english:hgss1-68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-68",
+      "setId": "hgss1",
+      "collectorNumber": "68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-6",
+    "englishName": "Jumpluff",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "6",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/6.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-6",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:6:english:hgss1-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-6",
+      "setId": "hgss1",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-69",
+    "englishName": "Jynx",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "69",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/69.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-69",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:69:english:hgss1-69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-69",
+      "setId": "hgss1",
+      "collectorNumber": "69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-70",
+    "englishName": "Koffing",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "70",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/70.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-70",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:70:english:hgss1-70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-70",
+      "setId": "hgss1",
+      "collectorNumber": "70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-24",
+    "englishName": "Lapras",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "24",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/24.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-24",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:24:english:hgss1-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-24",
+      "setId": "hgss1",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-25",
+    "englishName": "Ledian",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "25",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/25.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-25",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:25:english:hgss1-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-25",
+      "setId": "hgss1",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-71",
+    "englishName": "Ledyba",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "71",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/71.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-71",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:71:english:hgss1-71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-71",
+      "setId": "hgss1",
+      "collectorNumber": "71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-118",
+    "englishName": "Lightning Energy",
+    "category": "Energy",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "118",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/118.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/118_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-118",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:118:english:hgss1-118",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-118",
+      "setId": "hgss1",
+      "collectorNumber": "118",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-118",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-113",
+    "englishName": "Lugia LEGEND",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "113",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/113.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/113_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-113",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:113:english:hgss1-113",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-113",
+      "setId": "hgss1",
+      "collectorNumber": "113",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-113",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-114",
+    "englishName": "Lugia LEGEND",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "114",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/114.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/114_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-114",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:114:english:hgss1-114",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-114",
+      "setId": "hgss1",
+      "collectorNumber": "114",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-114",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-72",
+    "englishName": "Magikarp",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "72",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/72.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-72",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:72:english:hgss1-72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-72",
+      "setId": "hgss1",
+      "collectorNumber": "72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-45",
+    "englishName": "Mantine",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "45",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/45.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-45",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:45:english:hgss1-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-45",
+      "setId": "hgss1",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-73",
+    "englishName": "Mareep",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "73",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/73.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-73",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:73:english:hgss1-73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-73",
+      "setId": "hgss1",
+      "collectorNumber": "73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-74",
+    "englishName": "Marill",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "74",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/74.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-74",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:74:english:hgss1-74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-74",
+      "setId": "hgss1",
+      "collectorNumber": "74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-109",
+    "englishName": "Meganium",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "109",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/109.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/109_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-109",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:109:english:hgss1-109",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-109",
+      "setId": "hgss1",
+      "collectorNumber": "109",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-109",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-26",
+    "englishName": "Meganium",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "26",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/26.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-26",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:26:english:hgss1-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-26",
+      "setId": "hgss1",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-75",
+    "englishName": "Meowth",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "75",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/75.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-75",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:75:english:hgss1-75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-75",
+      "setId": "hgss1",
+      "collectorNumber": "75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-122",
+    "englishName": "Metal Energy",
+    "category": "Energy",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "122",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/122.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/122_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-122",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:122:english:hgss1-122",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-122",
+      "setId": "hgss1",
+      "collectorNumber": "122",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-122",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-46",
+    "englishName": "Metapod",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "46",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/46.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-46",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:46:english:hgss1-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-46",
+      "setId": "hgss1",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-47",
+    "englishName": "Miltank",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "47",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/47.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-47",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:47:english:hgss1-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-47",
+      "setId": "hgss1",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-94",
+    "englishName": "Moomoo Milk",
+    "category": "Trainer",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "94",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/94.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/94_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-94",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:94:english:hgss1-94",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-94",
+      "setId": "hgss1",
+      "collectorNumber": "94",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-94",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-7",
+    "englishName": "Ninetales",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "7",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/7.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-7",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:7:english:hgss1-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-7",
+      "setId": "hgss1",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-8",
+    "englishName": "Noctowl",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "8",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/8.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-8",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:8:english:hgss1-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-8",
+      "setId": "hgss1",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-76",
+    "englishName": "Paras",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "76",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/76.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-76",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:76:english:hgss1-76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-76",
+      "setId": "hgss1",
+      "collectorNumber": "76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-48",
+    "englishName": "Parasect",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "48",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/48.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-48",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:48:english:hgss1-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-48",
+      "setId": "hgss1",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-27",
+    "englishName": "Persian",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "27",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/27.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-27",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:27:english:hgss1-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-27",
+      "setId": "hgss1",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-77",
+    "englishName": "Phanpy",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "77",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/77.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-77",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:77:english:hgss1-77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-77",
+      "setId": "hgss1",
+      "collectorNumber": "77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-28",
+    "englishName": "Pichu",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "28",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/28.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-28",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:28:english:hgss1-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-28",
+      "setId": "hgss1",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-78",
+    "englishName": "Pikachu",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "78",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/78.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-78",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:78:english:hgss1-78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-78",
+      "setId": "hgss1",
+      "collectorNumber": "78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-95",
+    "englishName": "Poké Ball",
+    "category": "Trainer",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "95",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/95.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/95_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-95",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:95:english:hgss1-95",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-95",
+      "setId": "hgss1",
+      "collectorNumber": "95",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-95",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-96",
+    "englishName": "Pokégear 3.0",
+    "category": "Trainer",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "96",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/96.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/96_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-96",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:96:english:hgss1-96",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-96",
+      "setId": "hgss1",
+      "collectorNumber": "96",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-96",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-97",
+    "englishName": "Pokémon Collector",
+    "category": "Trainer",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "97",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/97.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/97_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-97",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:97:english:hgss1-97",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-97",
+      "setId": "hgss1",
+      "collectorNumber": "97",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-97",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-98",
+    "englishName": "Pokémon Communication",
+    "category": "Trainer",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "98",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/98.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/98_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-98",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:98:english:hgss1-98",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-98",
+      "setId": "hgss1",
+      "collectorNumber": "98",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-98",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-99",
+    "englishName": "Pokémon Reversal",
+    "category": "Trainer",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "99",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/99.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/99_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-99",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:99:english:hgss1-99",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-99",
+      "setId": "hgss1",
+      "collectorNumber": "99",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-99",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-100",
+    "englishName": "Professor Elm's Training Method",
+    "category": "Trainer",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "100",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/100.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/100_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-100",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:100:english:hgss1-100",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-100",
+      "setId": "hgss1",
+      "collectorNumber": "100",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-100",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-101",
+    "englishName": "Professor Oak's New Theory",
+    "category": "Trainer",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "101",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/101.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/101_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-101",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:101:english:hgss1-101",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-101",
+      "setId": "hgss1",
+      "collectorNumber": "101",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-101",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-119",
+    "englishName": "Psychic Energy",
+    "category": "Energy",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "119",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/119.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/119_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-119",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:119:english:hgss1-119",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-119",
+      "setId": "hgss1",
+      "collectorNumber": "119",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-119",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-9",
+    "englishName": "Quagsire",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "9",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/9.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-9",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:9:english:hgss1-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-9",
+      "setId": "hgss1",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-49",
+    "englishName": "Quilava",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "49",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/49.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-49",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:49:english:hgss1-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-49",
+      "setId": "hgss1",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-50",
+    "englishName": "Qwilfish",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "50",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/50.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-50",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:50:english:hgss1-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-50",
+      "setId": "hgss1",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-10",
+    "englishName": "Raichu",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "10",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/10.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-10",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:10:english:hgss1-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-10",
+      "setId": "hgss1",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-104",
+    "englishName": "Rainbow Energy",
+    "category": "Energy",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "104",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/104.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/104_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-104",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:104:english:hgss1-104",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-104",
+      "setId": "hgss1",
+      "collectorNumber": "104",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-104",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-79",
+    "englishName": "Sandshrew",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "79",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/79.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/79_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-79",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:79:english:hgss1-79",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-79",
+      "setId": "hgss1",
+      "collectorNumber": "79",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-79",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-29",
+    "englishName": "Sandslash",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "29",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/29.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-29",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:29:english:hgss1-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-29",
+      "setId": "hgss1",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-80",
+    "englishName": "Sentret",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "80",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/80.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/80_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-80",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:80:english:hgss1-80",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-80",
+      "setId": "hgss1",
+      "collectorNumber": "80",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-80",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-11",
+    "englishName": "Shuckle",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "11",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/11.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-11",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:11:english:hgss1-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-11",
+      "setId": "hgss1",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-51",
+    "englishName": "Skiploom",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "51",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/51.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-51",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:51:english:hgss1-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-51",
+      "setId": "hgss1",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-52",
+    "englishName": "Slowbro",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "52",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/52.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-52",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:52:english:hgss1-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-52",
+      "setId": "hgss1",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-12",
+    "englishName": "Slowking",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "12",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/12.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-12",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:12:english:hgss1-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-12",
+      "setId": "hgss1",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-81",
+    "englishName": "Slowpoke",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "81",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/81.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/81_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-81",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:81:english:hgss1-81",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-81",
+      "setId": "hgss1",
+      "collectorNumber": "81",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-81",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-30",
+    "englishName": "Smoochum",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "30",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/30.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-30",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:30:english:hgss1-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-30",
+      "setId": "hgss1",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-82",
+    "englishName": "Snubbull",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "82",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/82.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/82_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-82",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:82:english:hgss1-82",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-82",
+      "setId": "hgss1",
+      "collectorNumber": "82",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-82",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-83",
+    "englishName": "Spinarak",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "83",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/83.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/83_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-83",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:83:english:hgss1-83",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-83",
+      "setId": "hgss1",
+      "collectorNumber": "83",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-83",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-53",
+    "englishName": "Starmie",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "53",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/53.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-53",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:53:english:hgss1-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-53",
+      "setId": "hgss1",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-84",
+    "englishName": "Staryu",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "84",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/84.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/84_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-84",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:84:english:hgss1-84",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-84",
+      "setId": "hgss1",
+      "collectorNumber": "84",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-84",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-31",
+    "englishName": "Sunflora",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "31",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/31.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-31",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:31:english:hgss1-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-31",
+      "setId": "hgss1",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-85",
+    "englishName": "Sunkern",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "85",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/85.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/85_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-85",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:85:english:hgss1-85",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-85",
+      "setId": "hgss1",
+      "collectorNumber": "85",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-85",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-102",
+    "englishName": "Switch",
+    "category": "Trainer",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "102",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/102.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/102_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-102",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:102:english:hgss1-102",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-102",
+      "setId": "hgss1",
+      "collectorNumber": "102",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-102",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-86",
+    "englishName": "Totodile",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "86",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/86.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/86_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-86",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:86:english:hgss1-86",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-86",
+      "setId": "hgss1",
+      "collectorNumber": "86",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-86",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-110",
+    "englishName": "Typhlosion",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "110",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/110.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/110_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-110",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:110:english:hgss1-110",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-110",
+      "setId": "hgss1",
+      "collectorNumber": "110",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-110",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-32",
+    "englishName": "Typhlosion",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "32",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/32.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-32",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:32:english:hgss1-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-32",
+      "setId": "hgss1",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-33",
+    "englishName": "Tyrogue",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "33",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/33.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-33",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:33:english:hgss1-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-33",
+      "setId": "hgss1",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-54",
+    "englishName": "Unown",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "54",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/54.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-54",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:54:english:hgss1-54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-54",
+      "setId": "hgss1",
+      "collectorNumber": "54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-55",
+    "englishName": "Unown",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "55",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/55.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-55",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:55:english:hgss1-55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-55",
+      "setId": "hgss1",
+      "collectorNumber": "55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-87",
+    "englishName": "Vulpix",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "87",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/87.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/87_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-87",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:87:english:hgss1-87",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-87",
+      "setId": "hgss1",
+      "collectorNumber": "87",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-87",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-117",
+    "englishName": "Water Energy",
+    "category": "Energy",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "117",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/117.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/117_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-117",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:117:english:hgss1-117",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-117",
+      "setId": "hgss1",
+      "collectorNumber": "117",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-117",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-34",
+    "englishName": "Weezing",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "34",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/34.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-34",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:34:english:hgss1-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-34",
+      "setId": "hgss1",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-56",
+    "englishName": "Wigglytuff",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "56",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/56.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-56",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:56:english:hgss1-56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-56",
+      "setId": "hgss1",
+      "collectorNumber": "56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-13",
+    "englishName": "Wobbuffet",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "13",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/13.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-13",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:13:english:hgss1-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-13",
+      "setId": "hgss1",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hgss1-88",
+    "englishName": "Wooper",
+    "category": "Pokemon",
+    "setCode": "HS",
+    "setName": "HeartGold & SoulSilver",
+    "cardNumber": "88",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hgss1/88.png",
+    "imageLarge": "https://images.pokemontcg.io/hgss1/88_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hgss1-88",
+    "sourceSetId": "hgss1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hgss1:88:english:hgss1-88",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hgss1-88",
+      "setId": "hgss1",
+      "collectorNumber": "88",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hgss1-88",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

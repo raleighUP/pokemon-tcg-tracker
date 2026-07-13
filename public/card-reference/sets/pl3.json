@@ -1,0 +1,4134 @@
+[
+  {
+    "id": "pl3-141",
+    "englishName": "Absol G LV.X",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "141",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/141.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/141_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-141",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:141:english:pl3-141",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-141",
+      "setId": "pl3",
+      "collectorNumber": "141",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-141",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-1",
+    "englishName": "Absol G",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "1",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/1.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-1",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:1:english:pl3-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-1",
+      "setId": "pl3",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-49",
+    "englishName": "Altaria C",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "49",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/49.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-49",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:49:english:pl3-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-49",
+      "setId": "pl3",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-15",
+    "englishName": "Arcanine G",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "15",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/15.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-15",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:15:english:pl3-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-15",
+      "setId": "pl3",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-50",
+    "englishName": "Arcanine",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "50",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/50.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-50",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:50:english:pl3-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-50",
+      "setId": "pl3",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-148",
+    "englishName": "Articuno",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "148",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/148.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/148_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-148",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:148:english:pl3-148",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-148",
+      "setId": "pl3",
+      "collectorNumber": "148",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-148",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-16",
+    "englishName": "Articuno",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "16",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/16.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-16",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:16:english:pl3-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-16",
+      "setId": "pl3",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-89",
+    "englishName": "Baltoy",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "89",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/89.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/89_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-89",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:89:english:pl3-89",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-89",
+      "setId": "pl3",
+      "collectorNumber": "89",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-89",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-134",
+    "englishName": "Battle Tower",
+    "category": "Trainer",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "134",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/134.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/134_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-134",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:134:english:pl3-134",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-134",
+      "setId": "pl3",
+      "collectorNumber": "134",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-134",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-90",
+    "englishName": "Beldum",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "90",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/90.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/90_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-90",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:90:english:pl3-90",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-90",
+      "setId": "pl3",
+      "collectorNumber": "90",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-90",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-51",
+    "englishName": "Bibarel",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "51",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/51.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-51",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:51:english:pl3-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-51",
+      "setId": "pl3",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-91",
+    "englishName": "Bidoof",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "91",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/91.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/91_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-91",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:91:english:pl3-91",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-91",
+      "setId": "pl3",
+      "collectorNumber": "91",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-91",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-142",
+    "englishName": "Blaziken FB LV.X",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "142",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/142.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/142_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-142",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:142:english:pl3-142",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-142",
+      "setId": "pl3",
+      "collectorNumber": "142",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-142",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-2",
+    "englishName": "Blaziken FB",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "2",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/2.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-2",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:2:english:pl3-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-2",
+      "setId": "pl3",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-52",
+    "englishName": "Breloom",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "52",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/52.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-52",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:52:english:pl3-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-52",
+      "setId": "pl3",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-92",
+    "englishName": "Buizel",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "92",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/92.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/92_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-92",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:92:english:pl3-92",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-92",
+      "setId": "pl3",
+      "collectorNumber": "92",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-92",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-93",
+    "englishName": "Bulbasaur",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "93",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/93.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/93_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-93",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:93:english:pl3-93",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-93",
+      "setId": "pl3",
+      "collectorNumber": "93",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-93",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-94",
+    "englishName": "Buneary",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "94",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/94.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/94_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-94",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:94:english:pl3-94",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-94",
+      "setId": "pl3",
+      "collectorNumber": "94",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-94",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-17",
+    "englishName": "Butterfree FB",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "17",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/17.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-17",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:17:english:pl3-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-17",
+      "setId": "pl3",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-19",
+    "englishName": "Camerupt G",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "19",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/19.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-19",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:19:english:pl3-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-19",
+      "setId": "pl3",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-18",
+    "englishName": "Camerupt",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "18",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/18.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-18",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:18:english:pl3-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-18",
+      "setId": "pl3",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-53",
+    "englishName": "Carnivine",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "53",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/53.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-53",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:53:english:pl3-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-53",
+      "setId": "pl3",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-135",
+    "englishName": "Champion's Room",
+    "category": "Trainer",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "135",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/135.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/135_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-135",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:135:english:pl3-135",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-135",
+      "setId": "pl3",
+      "collectorNumber": "135",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-135",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-143",
+    "englishName": "Charizard G LV.X",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "143",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/143.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/143_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-143",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:143:english:pl3-143",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-143",
+      "setId": "pl3",
+      "collectorNumber": "143",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-143",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-20",
+    "englishName": "Charizard G",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "20",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/20.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-20",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:20:english:pl3-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-20",
+      "setId": "pl3",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-54",
+    "englishName": "Chatot G",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "54",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/54.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-54",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:54:english:pl3-54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-54",
+      "setId": "pl3",
+      "collectorNumber": "54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-95",
+    "englishName": "Chatot",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "95",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/95.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/95_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-95",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:95:english:pl3-95",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-95",
+      "setId": "pl3",
+      "collectorNumber": "95",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-95",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-55",
+    "englishName": "Cherrim",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "55",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/55.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-55",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:55:english:pl3-55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-55",
+      "setId": "pl3",
+      "collectorNumber": "55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-96",
+    "englishName": "Cherubi",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "96",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/96.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/96_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-96",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:96:english:pl3-96",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-96",
+      "setId": "pl3",
+      "collectorNumber": "96",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-96",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-97",
+    "englishName": "Chimchar",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "97",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/97.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/97_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-97",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:97:english:pl3-97",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-97",
+      "setId": "pl3",
+      "collectorNumber": "97",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-97",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-21",
+    "englishName": "Chimecho",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "21",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/21.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-21",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:21:english:pl3-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-21",
+      "setId": "pl3",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-98",
+    "englishName": "Chingling",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "98",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/98.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/98_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-98",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:98:english:pl3-98",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-98",
+      "setId": "pl3",
+      "collectorNumber": "98",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-98",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-22",
+    "englishName": "Claydol",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "22",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/22.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-22",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:22:english:pl3-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-22",
+      "setId": "pl3",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-99",
+    "englishName": "Combee",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "99",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/99.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/99_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-99",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:99:english:pl3-99",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-99",
+      "setId": "pl3",
+      "collectorNumber": "99",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-99",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-100",
+    "englishName": "Corphish",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "100",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/100.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/100_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-100",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:100:english:pl3-100",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-100",
+      "setId": "pl3",
+      "collectorNumber": "100",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-100",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-23",
+    "englishName": "Crawdaunt G",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "23",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/23.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-23",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:23:english:pl3-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-23",
+      "setId": "pl3",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-101",
+    "englishName": "Croagunk",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "101",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/101.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/101_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-101",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:101:english:pl3-101",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-101",
+      "setId": "pl3",
+      "collectorNumber": "101",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-101",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-136",
+    "englishName": "Cynthia's Guidance",
+    "category": "Trainer",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "136",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/136.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/136_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-136",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:136:english:pl3-136",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-136",
+      "setId": "pl3",
+      "collectorNumber": "136",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-136",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-137",
+    "englishName": "Cyrus's Initiative",
+    "category": "Trainer",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "137",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/137.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/137_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-137",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:137:english:pl3-137",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-137",
+      "setId": "pl3",
+      "collectorNumber": "137",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-137",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-24",
+    "englishName": "Dewgong",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "24",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/24.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-24",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:24:english:pl3-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-24",
+      "setId": "pl3",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-25",
+    "englishName": "Dodrio",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "25",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/25.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-25",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:25:english:pl3-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-25",
+      "setId": "pl3",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-102",
+    "englishName": "Doduo",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "102",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/102.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/102_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-102",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:102:english:pl3-102",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-102",
+      "setId": "pl3",
+      "collectorNumber": "102",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-102",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-56",
+    "englishName": "Dragonite FB",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "56",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/56.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-56",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:56:english:pl3-56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-56",
+      "setId": "pl3",
+      "collectorNumber": "56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-3",
+    "englishName": "Drifblim FB",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "3",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/3.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-3",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:3:english:pl3-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-3",
+      "setId": "pl3",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-57",
+    "englishName": "Drifblim",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "57",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/57.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-57",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:57:english:pl3-57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-57",
+      "setId": "pl3",
+      "collectorNumber": "57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-103",
+    "englishName": "Drifloon",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "103",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/103.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/103_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-103",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:103:english:pl3-103",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-103",
+      "setId": "pl3",
+      "collectorNumber": "103",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-103",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-26",
+    "englishName": "Dusknoir FB",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "26",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/26.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-26",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:26:english:pl3-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-26",
+      "setId": "pl3",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-144",
+    "englishName": "Electivire FB LV.X",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "144",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/144.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/144_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-144",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:144:english:pl3-144",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-144",
+      "setId": "pl3",
+      "collectorNumber": "144",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-144",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-4",
+    "englishName": "Electivire FB",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "4",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/4.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-4",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:4:english:pl3-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-4",
+      "setId": "pl3",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-27",
+    "englishName": "Empoleon FB",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "27",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/27.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-27",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:27:english:pl3-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-27",
+      "setId": "pl3",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-28",
+    "englishName": "Exploud",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "28",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/28.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-28",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:28:english:pl3-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-28",
+      "setId": "pl3",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-104",
+    "englishName": "Feebas",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "104",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/104.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/104_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-104",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:104:english:pl3-104",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-104",
+      "setId": "pl3",
+      "collectorNumber": "104",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-104",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-58",
+    "englishName": "Floatzel",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "58",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/58.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-58",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:58:english:pl3-58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-58",
+      "setId": "pl3",
+      "collectorNumber": "58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-59",
+    "englishName": "Gabite",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "59",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/59.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-59",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:59:english:pl3-59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-59",
+      "setId": "pl3",
+      "collectorNumber": "59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-145",
+    "englishName": "Garchomp C LV.X",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "145",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/145.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/145_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-145",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:145:english:pl3-145",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-145",
+      "setId": "pl3",
+      "collectorNumber": "145",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-145",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-60",
+    "englishName": "Garchomp C",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "60",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/60.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-60",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:60:english:pl3-60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-60",
+      "setId": "pl3",
+      "collectorNumber": "60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-5",
+    "englishName": "Garchomp",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "5",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/5.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-5",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:5:english:pl3-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-5",
+      "setId": "pl3",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-105",
+    "englishName": "Geodude",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "105",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/105.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/105_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-105",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:105:english:pl3-105",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-105",
+      "setId": "pl3",
+      "collectorNumber": "105",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-105",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-106",
+    "englishName": "Gible",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "106",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/106.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/106_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-106",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:106:english:pl3-106",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-106",
+      "setId": "pl3",
+      "collectorNumber": "106",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-106",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-107",
+    "englishName": "Goldeen",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "107",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/107.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/107_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-107",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:107:english:pl3-107",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-107",
+      "setId": "pl3",
+      "collectorNumber": "107",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-107",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-108",
+    "englishName": "Growlithe",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "108",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/108.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/108_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-108",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:108:english:pl3-108",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-108",
+      "setId": "pl3",
+      "collectorNumber": "108",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-108",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-61",
+    "englishName": "Hippopotas",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "61",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/61.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-61",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:61:english:pl3-61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-61",
+      "setId": "pl3",
+      "collectorNumber": "61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-29",
+    "englishName": "Honchkrow",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "29",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/29.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-29",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:29:english:pl3-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-29",
+      "setId": "pl3",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-62",
+    "englishName": "Ivysaur",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "62",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/62.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-62",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:62:english:pl3-62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-62",
+      "setId": "pl3",
+      "collectorNumber": "62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-109",
+    "englishName": "Kricketot",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "109",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/109.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/109_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-109",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:109:english:pl3-109",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-109",
+      "setId": "pl3",
+      "collectorNumber": "109",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-109",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-30",
+    "englishName": "Lickilicky C",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "30",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/30.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-30",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:30:english:pl3-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-30",
+      "setId": "pl3",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-63",
+    "englishName": "Lopunny",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "63",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/63.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-63",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:63:english:pl3-63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-63",
+      "setId": "pl3",
+      "collectorNumber": "63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-64",
+    "englishName": "Loudred",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "64",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/64.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-64",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:64:english:pl3-64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-64",
+      "setId": "pl3",
+      "collectorNumber": "64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-31",
+    "englishName": "Lucario C",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "31",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/31.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-31",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:31:english:pl3-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-31",
+      "setId": "pl3",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-32",
+    "englishName": "Lunatone",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "32",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/32.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-32",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:32:english:pl3-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-32",
+      "setId": "pl3",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-110",
+    "englishName": "Magikarp",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "110",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/110.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/110_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-110",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:110:english:pl3-110",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-110",
+      "setId": "pl3",
+      "collectorNumber": "110",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-110",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-65",
+    "englishName": "Magmar",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "65",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/65.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-65",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:65:english:pl3-65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-65",
+      "setId": "pl3",
+      "collectorNumber": "65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-6",
+    "englishName": "Magmortar",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "6",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/6.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-6",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:6:english:pl3-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-6",
+      "setId": "pl3",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-111",
+    "englishName": "Magnemite",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "111",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/111.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/111_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-111",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:111:english:pl3-111",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-111",
+      "setId": "pl3",
+      "collectorNumber": "111",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-111",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-66",
+    "englishName": "Manectric G",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "66",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/66.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-66",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:66:english:pl3-66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-66",
+      "setId": "pl3",
+      "collectorNumber": "66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-112",
+    "englishName": "Mankey",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "112",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/112.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/112_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-112",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:112:english:pl3-112",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-112",
+      "setId": "pl3",
+      "collectorNumber": "112",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-112",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-67",
+    "englishName": "Marshtomp",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "67",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/67.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-67",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:67:english:pl3-67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-67",
+      "setId": "pl3",
+      "collectorNumber": "67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-68",
+    "englishName": "Masquerain",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "68",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/68.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-68",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:68:english:pl3-68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-68",
+      "setId": "pl3",
+      "collectorNumber": "68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-33",
+    "englishName": "Mawile",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "33",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/33.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-33",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:33:english:pl3-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-33",
+      "setId": "pl3",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-34",
+    "englishName": "Medicham",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "34",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/34.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-34",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:34:english:pl3-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-34",
+      "setId": "pl3",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-113",
+    "englishName": "Meditite",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "113",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/113.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/113_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-113",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:113:english:pl3-113",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-113",
+      "setId": "pl3",
+      "collectorNumber": "113",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-113",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-114",
+    "englishName": "Meowth",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "114",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/114.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/114_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-114",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:114:english:pl3-114",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-114",
+      "setId": "pl3",
+      "collectorNumber": "114",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-114",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-7",
+    "englishName": "Metagross",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "7",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/7.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-7",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:7:english:pl3-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-7",
+      "setId": "pl3",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-69",
+    "englishName": "Metang",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "69",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/69.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-69",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:69:english:pl3-69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-69",
+      "setId": "pl3",
+      "collectorNumber": "69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-35",
+    "englishName": "Milotic C",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "35",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/35.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-35",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:35:english:pl3-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-35",
+      "setId": "pl3",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-70",
+    "englishName": "Milotic",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "70",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/70.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-70",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:70:english:pl3-70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-70",
+      "setId": "pl3",
+      "collectorNumber": "70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-SH7",
+    "englishName": "Milotic",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "SH7",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/SH7.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/SH7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-SH7",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:SH7:english:pl3-SH7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-SH7",
+      "setId": "pl3",
+      "collectorNumber": "SH7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-SH7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-115",
+    "englishName": "Mime Jr.",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "115",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/115.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/115_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-115",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:115:english:pl3-115",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-115",
+      "setId": "pl3",
+      "collectorNumber": "115",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-115",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-71",
+    "englishName": "Minun",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "71",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/71.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-71",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:71:english:pl3-71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-71",
+      "setId": "pl3",
+      "collectorNumber": "71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-149",
+    "englishName": "Moltres",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "149",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/149.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/149_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-149",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:149:english:pl3-149",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-149",
+      "setId": "pl3",
+      "collectorNumber": "149",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-149",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-36",
+    "englishName": "Moltres",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "36",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/36.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-36",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:36:english:pl3-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-36",
+      "setId": "pl3",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-37",
+    "englishName": "Mr. Mime",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "37",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/37.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-37",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:37:english:pl3-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-37",
+      "setId": "pl3",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-116",
+    "englishName": "Mudkip",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "116",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/116.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/116_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-116",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:116:english:pl3-116",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-116",
+      "setId": "pl3",
+      "collectorNumber": "116",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-116",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-72",
+    "englishName": "Murkrow",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "72",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/72.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-72",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:72:english:pl3-72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-72",
+      "setId": "pl3",
+      "collectorNumber": "72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-138",
+    "englishName": "Night Teleporter",
+    "category": "Trainer",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "138",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/138.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/138_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-138",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:138:english:pl3-138",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-138",
+      "setId": "pl3",
+      "collectorNumber": "138",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-138",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-117",
+    "englishName": "Nincada",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "117",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/117.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/117_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-117",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:117:english:pl3-117",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-117",
+      "setId": "pl3",
+      "collectorNumber": "117",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-117",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-73",
+    "englishName": "Ninjask",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "73",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/73.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-73",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:73:english:pl3-73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-73",
+      "setId": "pl3",
+      "collectorNumber": "73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-74",
+    "englishName": "Numel",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "74",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/74.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-74",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:74:english:pl3-74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-74",
+      "setId": "pl3",
+      "collectorNumber": "74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-118",
+    "englishName": "Pachirisu",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "118",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/118.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/118_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-118",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:118:english:pl3-118",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-118",
+      "setId": "pl3",
+      "collectorNumber": "118",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-118",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-139",
+    "englishName": "Palmer's Contribution",
+    "category": "Trainer",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "139",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/139.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/139_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-139",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:139:english:pl3-139",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-139",
+      "setId": "pl3",
+      "collectorNumber": "139",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-139",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-119",
+    "englishName": "Paras",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "119",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/119.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/119_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-119",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:119:english:pl3-119",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-119",
+      "setId": "pl3",
+      "collectorNumber": "119",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-119",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-38",
+    "englishName": "Parasect",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "38",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/38.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-38",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:38:english:pl3-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-38",
+      "setId": "pl3",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-120",
+    "englishName": "Pikachu",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "120",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/120.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/120_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-120",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:120:english:pl3-120",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-120",
+      "setId": "pl3",
+      "collectorNumber": "120",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-120",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-75",
+    "englishName": "Pinsir",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "75",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/75.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-75",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:75:english:pl3-75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-75",
+      "setId": "pl3",
+      "collectorNumber": "75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-121",
+    "englishName": "Piplup",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "121",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/121.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/121_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-121",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:121:english:pl3-121",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-121",
+      "setId": "pl3",
+      "collectorNumber": "121",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-121",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-76",
+    "englishName": "Plusle",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "76",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/76.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-76",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:76:english:pl3-76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-76",
+      "setId": "pl3",
+      "collectorNumber": "76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-39",
+    "englishName": "Primeape",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "39",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/39.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-39",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:39:english:pl3-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-39",
+      "setId": "pl3",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-77",
+    "englishName": "Raichu",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "77",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/77.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-77",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:77:english:pl3-77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-77",
+      "setId": "pl3",
+      "collectorNumber": "77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-78",
+    "englishName": "Raticate G",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "78",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/78.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-78",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:78:english:pl3-78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-78",
+      "setId": "pl3",
+      "collectorNumber": "78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-146",
+    "englishName": "Rayquaza C LV.X",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "146",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/146.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/146_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-146",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:146:english:pl3-146",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-146",
+      "setId": "pl3",
+      "collectorNumber": "146",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-146",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-8",
+    "englishName": "Rayquaza C",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "8",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/8.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-8",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:8:english:pl3-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-8",
+      "setId": "pl3",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-9",
+    "englishName": "Regigigas FB",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "9",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/9.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-9",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:9:english:pl3-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-9",
+      "setId": "pl3",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-79",
+    "englishName": "Relicanth",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "79",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/79.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/79_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-79",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:79:english:pl3-79",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-79",
+      "setId": "pl3",
+      "collectorNumber": "79",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-79",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-SH8",
+    "englishName": "Relicanth",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "SH8",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/SH8.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/SH8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-SH8",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:SH8:english:pl3-SH8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-SH8",
+      "setId": "pl3",
+      "collectorNumber": "SH8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-SH8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-80",
+    "englishName": "Rhydon",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "80",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/80.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/80_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-80",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:80:english:pl3-80",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-80",
+      "setId": "pl3",
+      "collectorNumber": "80",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-80",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-122",
+    "englishName": "Rhyhorn",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "122",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/122.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/122_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-122",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:122:english:pl3-122",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-122",
+      "setId": "pl3",
+      "collectorNumber": "122",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-122",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-10",
+    "englishName": "Rhyperior",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "10",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/10.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-10",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:10:english:pl3-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-10",
+      "setId": "pl3",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-123",
+    "englishName": "Roselia",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "123",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/123.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/123_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-123",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:123:english:pl3-123",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-123",
+      "setId": "pl3",
+      "collectorNumber": "123",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-123",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-40",
+    "englishName": "Roserade C",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "40",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/40.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-40",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:40:english:pl3-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-40",
+      "setId": "pl3",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-81",
+    "englishName": "Roserade",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "81",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/81.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/81_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-81",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:81:english:pl3-81",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-81",
+      "setId": "pl3",
+      "collectorNumber": "81",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-81",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-82",
+    "englishName": "Rotom",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "82",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/82.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/82_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-82",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:82:english:pl3-82",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-82",
+      "setId": "pl3",
+      "collectorNumber": "82",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-82",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-41",
+    "englishName": "Sableye G",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "41",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/41.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-41",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:41:english:pl3-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-41",
+      "setId": "pl3",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-124",
+    "englishName": "Sandshrew",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "124",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/124.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/124_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-124",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:124:english:pl3-124",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-124",
+      "setId": "pl3",
+      "collectorNumber": "124",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-124",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-42",
+    "englishName": "Sandslash",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "42",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/42.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-42",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:42:english:pl3-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-42",
+      "setId": "pl3",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-43",
+    "englishName": "Seaking",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "43",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/43.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-43",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:43:english:pl3-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-43",
+      "setId": "pl3",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-125",
+    "englishName": "Seel",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "125",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/125.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/125_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-125",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:125:english:pl3-125",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-125",
+      "setId": "pl3",
+      "collectorNumber": "125",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-125",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-44",
+    "englishName": "Shedinja",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "44",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/44.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-44",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:44:english:pl3-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-44",
+      "setId": "pl3",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-126",
+    "englishName": "Shinx",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "126",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/126.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/126_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-126",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:126:english:pl3-126",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-126",
+      "setId": "pl3",
+      "collectorNumber": "126",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-126",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-127",
+    "englishName": "Shroomish",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "127",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/127.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/127_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-127",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:127:english:pl3-127",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-127",
+      "setId": "pl3",
+      "collectorNumber": "127",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-127",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-83",
+    "englishName": "Skarmory FB",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "83",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/83.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/83_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-83",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:83:english:pl3-83",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-83",
+      "setId": "pl3",
+      "collectorNumber": "83",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-83",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-128",
+    "englishName": "Skorupi",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "128",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/128.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/128_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-128",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:128:english:pl3-128",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-128",
+      "setId": "pl3",
+      "collectorNumber": "128",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-128",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-45",
+    "englishName": "Solrock",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "45",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/45.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-45",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:45:english:pl3-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-45",
+      "setId": "pl3",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-46",
+    "englishName": "Spinda",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "46",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/46.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-46",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:46:english:pl3-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-46",
+      "setId": "pl3",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-84",
+    "englishName": "Spiritomb C",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "84",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/84.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/84_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-84",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:84:english:pl3-84",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-84",
+      "setId": "pl3",
+      "collectorNumber": "84",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-84",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-147",
+    "englishName": "Staraptor FB LV.X",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "147",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/147.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/147_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-147",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:147:english:pl3-147",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-147",
+      "setId": "pl3",
+      "collectorNumber": "147",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-147",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-11",
+    "englishName": "Staraptor FB",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "11",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/11.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-11",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:11:english:pl3-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-11",
+      "setId": "pl3",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-85",
+    "englishName": "Staravia",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "85",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/85.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/85_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-85",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:85:english:pl3-85",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-85",
+      "setId": "pl3",
+      "collectorNumber": "85",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-85",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-129",
+    "englishName": "Starly",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "129",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/129.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/129_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-129",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:129:english:pl3-129",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-129",
+      "setId": "pl3",
+      "collectorNumber": "129",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-129",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-130",
+    "englishName": "Surskit",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "130",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/130.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/130_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-130",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:130:english:pl3-130",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-130",
+      "setId": "pl3",
+      "collectorNumber": "130",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-130",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-12",
+    "englishName": "Swampert",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "12",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/12.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-12",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:12:english:pl3-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-12",
+      "setId": "pl3",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-86",
+    "englishName": "Togekiss C",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "86",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/86.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/86_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-86",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:86:english:pl3-86",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-86",
+      "setId": "pl3",
+      "collectorNumber": "86",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-86",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-131",
+    "englishName": "Turtwig",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "131",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/131.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/131_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-131",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:131:english:pl3-131",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-131",
+      "setId": "pl3",
+      "collectorNumber": "131",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-131",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-13",
+    "englishName": "Venusaur",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "13",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/13.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-13",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:13:english:pl3-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-13",
+      "setId": "pl3",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-140",
+    "englishName": "VS Seeker",
+    "category": "Trainer",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "140",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/140.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/140_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-140",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:140:english:pl3-140",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-140",
+      "setId": "pl3",
+      "collectorNumber": "140",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-140",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-87",
+    "englishName": "Wailmer",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "87",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/87.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/87_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-87",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:87:english:pl3-87",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-87",
+      "setId": "pl3",
+      "collectorNumber": "87",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-87",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-47",
+    "englishName": "Wailord",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "47",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/47.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-47",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:47:english:pl3-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-47",
+      "setId": "pl3",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-132",
+    "englishName": "Whismur",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "132",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/132.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/132_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-132",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:132:english:pl3-132",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-132",
+      "setId": "pl3",
+      "collectorNumber": "132",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-132",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-88",
+    "englishName": "Yanma",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "88",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/88.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/88_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-88",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:88:english:pl3-88",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-88",
+      "setId": "pl3",
+      "collectorNumber": "88",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-88",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-SH9",
+    "englishName": "Yanma",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "SH9",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/SH9.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/SH9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-SH9",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:SH9:english:pl3-SH9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-SH9",
+      "setId": "pl3",
+      "collectorNumber": "SH9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-SH9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-14",
+    "englishName": "Yanmega",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "14",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/14.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-14",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:14:english:pl3-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-14",
+      "setId": "pl3",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-150",
+    "englishName": "Zapdos",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "150",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/150.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/150_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-150",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:150:english:pl3-150",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-150",
+      "setId": "pl3",
+      "collectorNumber": "150",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-150",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-48",
+    "englishName": "Zapdos",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "48",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/48.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-48",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:48:english:pl3-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-48",
+      "setId": "pl3",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl3-133",
+    "englishName": "Zubat",
+    "category": "Pokemon",
+    "setCode": "SV",
+    "setName": "Supreme Victors",
+    "cardNumber": "133",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl3/133.png",
+    "imageLarge": "https://images.pokemontcg.io/pl3/133_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl3-133",
+    "sourceSetId": "pl3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl3:133:english:pl3-133",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl3-133",
+      "setId": "pl3",
+      "collectorNumber": "133",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl3-133",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

@@ -1,0 +1,4599 @@
+[
+  {
+    "id": "xy5-122",
+    "englishName": "Acro Bike",
+    "category": "Trainer",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "122",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/122.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/122_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-122",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:122:english:xy5-122",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-122",
+      "setId": "xy5",
+      "collectorNumber": "122",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-122",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-100",
+    "englishName": "Aegislash",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "100",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/100.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/100_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-100",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:100:english:xy5-100",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-100",
+      "setId": "xy5",
+      "collectorNumber": "100",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-100",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-123",
+    "englishName": "Aggron Spirit Link",
+    "category": "Trainer",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "123",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/123.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/123_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-123",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:123:english:xy5-123",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-123",
+      "setId": "xy5",
+      "collectorNumber": "123",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-123",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-153",
+    "englishName": "Aggron-EX",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "153",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/153.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/153_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-153",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:153:english:xy5-153",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-153",
+      "setId": "xy5",
+      "collectorNumber": "153",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-153",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-93",
+    "englishName": "Aggron-EX",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "93",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/93.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/93_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-93",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:93:english:xy5-93",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-93",
+      "setId": "xy5",
+      "collectorNumber": "93",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-93",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-124",
+    "englishName": "Archie's Ace in the Hole",
+    "category": "Trainer",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "124",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/124.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/124_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-124",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:124:english:xy5-124",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-124",
+      "setId": "xy5",
+      "collectorNumber": "124",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-124",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-157",
+    "englishName": "Archie's Ace in the Hole",
+    "category": "Trainer",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "157",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/157.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/157_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-157",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:157:english:xy5-157",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-157",
+      "setId": "xy5",
+      "collectorNumber": "157",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-157",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-103",
+    "englishName": "Azumarill",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "103",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/103.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/103_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-103",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:103:english:xy5-103",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-103",
+      "setId": "xy5",
+      "collectorNumber": "103",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-103",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-104",
+    "englishName": "Azumarill",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "104",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/104.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/104_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-104",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:104:english:xy5-104",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-104",
+      "setId": "xy5",
+      "collectorNumber": "104",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-104",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-39",
+    "englishName": "Barboach",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "39",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/39.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-39",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:39:english:xy5-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-39",
+      "setId": "xy5",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-3",
+    "englishName": "Beedrill",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "3",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/3.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-3",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:3:english:xy5-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-3",
+      "setId": "xy5",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-118",
+    "englishName": "Bibarel",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "118",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/118.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/118_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-118",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:118:english:xy5-118",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-118",
+      "setId": "xy5",
+      "collectorNumber": "118",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-118",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-116",
+    "englishName": "Bidoof",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "116",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/116.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/116_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-116",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:116:english:xy5-116",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-116",
+      "setId": "xy5",
+      "collectorNumber": "116",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-116",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-117",
+    "englishName": "Bidoof",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "117",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/117.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/117_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-117",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:117:english:xy5-117",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-117",
+      "setId": "xy5",
+      "collectorNumber": "117",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-117",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-28",
+    "englishName": "Blaziken",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "28",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/28.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-28",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:28:english:xy5-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-28",
+      "setId": "xy5",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-119",
+    "englishName": "Bouffalant",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "119",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/119.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/119_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-119",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:119:english:xy5-119",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-119",
+      "setId": "xy5",
+      "collectorNumber": "119",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-119",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-16",
+    "englishName": "Breloom",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "16",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/16.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-16",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:16:english:xy5-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-16",
+      "setId": "xy5",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-120",
+    "englishName": "Bunnelby",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "120",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/120.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/120_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-120",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:120:english:xy5-120",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-120",
+      "setId": "xy5",
+      "collectorNumber": "120",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-120",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-121",
+    "englishName": "Bunnelby",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "121",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/121.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/121_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-121",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:121:english:xy5-121",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-121",
+      "setId": "xy5",
+      "collectorNumber": "121",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-121",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-146",
+    "englishName": "Camerupt-EX",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "146",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/146.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/146_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-146",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:146:english:xy5-146",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-146",
+      "setId": "xy5",
+      "collectorNumber": "146",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-146",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-29",
+    "englishName": "Camerupt-EX",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "29",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/29.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-29",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:29:english:xy5-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-29",
+      "setId": "xy5",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-57",
+    "englishName": "Chinchou",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "57",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/57.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-57",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:57:english:xy5-57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-57",
+      "setId": "xy5",
+      "collectorNumber": "57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-49",
+    "englishName": "Clamperl",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "49",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/49.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-49",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:49:english:xy5-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-49",
+      "setId": "xy5",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-27",
+    "englishName": "Combusken",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "27",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/27.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-27",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:27:english:xy5-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-27",
+      "setId": "xy5",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-42",
+    "englishName": "Corphish",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "42",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/42.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-42",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:42:english:xy5-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-42",
+      "setId": "xy5",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-92",
+    "englishName": "Crawdaunt",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "92",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/92.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/92_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-92",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:92:english:xy5-92",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-92",
+      "setId": "xy5",
+      "collectorNumber": "92",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-92",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-114",
+    "englishName": "Delcatty",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "114",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/114.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/114_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-114",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:114:english:xy5-114",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-114",
+      "setId": "xy5",
+      "collectorNumber": "114",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-114",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-90",
+    "englishName": "Diggersby",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "90",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/90.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/90_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-90",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:90:english:xy5-90",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-90",
+      "setId": "xy5",
+      "collectorNumber": "90",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-90",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-125",
+    "englishName": "Dive Ball",
+    "category": "Trainer",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "125",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/125.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/125_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-125",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:125:english:xy5-125",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-125",
+      "setId": "xy5",
+      "collectorNumber": "125",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-125",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-161",
+    "englishName": "Dive Ball",
+    "category": "Trainer",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "161",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/161.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/161_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-161",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:161:english:xy5-161",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-161",
+      "setId": "xy5",
+      "collectorNumber": "161",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-161",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-99",
+    "englishName": "Doublade",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "99",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/99.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/99_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-99",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:99:english:xy5-99",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-99",
+      "setId": "xy5",
+      "collectorNumber": "99",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-99",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-89",
+    "englishName": "Drilbur",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "89",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/89.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/89_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-89",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:89:english:xy5-89",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-89",
+      "setId": "xy5",
+      "collectorNumber": "89",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-89",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-63",
+    "englishName": "Eelektrik",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "63",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/63.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-63",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:63:english:xy5-63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-63",
+      "setId": "xy5",
+      "collectorNumber": "63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-64",
+    "englishName": "Eelektrik",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "64",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/64.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-64",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:64:english:xy5-64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-64",
+      "setId": "xy5",
+      "collectorNumber": "64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-65",
+    "englishName": "Eelektross",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "65",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/65.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-65",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:65:english:xy5-65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-65",
+      "setId": "xy5",
+      "collectorNumber": "65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-59",
+    "englishName": "Electrike",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "59",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/59.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-59",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:59:english:xy5-59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-59",
+      "setId": "xy5",
+      "collectorNumber": "59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-60",
+    "englishName": "Electrike",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "60",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/60.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-60",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:60:english:xy5-60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-60",
+      "setId": "xy5",
+      "collectorNumber": "60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-126",
+    "englishName": "Energy Retrieval",
+    "category": "Trainer",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "126",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/126.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/126_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-126",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:126:english:xy5-126",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-126",
+      "setId": "xy5",
+      "collectorNumber": "126",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-126",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-162",
+    "englishName": "Enhanced Hammer",
+    "category": "Trainer",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "162",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/162.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/162_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-162",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:162:english:xy5-162",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-162",
+      "setId": "xy5",
+      "collectorNumber": "162",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-162",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-127",
+    "englishName": "Escape Rope",
+    "category": "Trainer",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "127",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/127.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/127_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-127",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:127:english:xy5-127",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-127",
+      "setId": "xy5",
+      "collectorNumber": "127",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-127",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-96",
+    "englishName": "Excadrill",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "96",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/96.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/96_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-96",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:96:english:xy5-96",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-96",
+      "setId": "xy5",
+      "collectorNumber": "96",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-96",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-97",
+    "englishName": "Excadrill",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "97",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/97.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/97_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-97",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:97:english:xy5-97",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-97",
+      "setId": "xy5",
+      "collectorNumber": "97",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-97",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-128",
+    "englishName": "Exp. Share",
+    "category": "Trainer",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "128",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/128.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/128_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-128",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:128:english:xy5-128",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-128",
+      "setId": "xy5",
+      "collectorNumber": "128",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-128",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-43",
+    "englishName": "Feebas",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "43",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/43.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-43",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:43:english:xy5-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-43",
+      "setId": "xy5",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-110",
+    "englishName": "Flygon",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "110",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/110.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/110_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-110",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:110:english:xy5-110",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-110",
+      "setId": "xy5",
+      "collectorNumber": "110",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-110",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-129",
+    "englishName": "Fresh Water Set",
+    "category": "Trainer",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "129",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/129.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/129_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-129",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:129:english:xy5-129",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-129",
+      "setId": "xy5",
+      "collectorNumber": "129",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-129",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-130",
+    "englishName": "Gardevoir Spirit Link",
+    "category": "Trainer",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "130",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/130.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/130_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-130",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:130:english:xy5-130",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-130",
+      "setId": "xy5",
+      "collectorNumber": "130",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-130",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-105",
+    "englishName": "Gardevoir-EX",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "105",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/105.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/105_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-105",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:105:english:xy5-105",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-105",
+      "setId": "xy5",
+      "collectorNumber": "105",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-105",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-155",
+    "englishName": "Gardevoir-EX",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "155",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/155.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/155_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-155",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:155:english:xy5-155",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-155",
+      "setId": "xy5",
+      "collectorNumber": "155",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-155",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-51",
+    "englishName": "Gorebyss",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "51",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/51.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-51",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:51:english:xy5-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-51",
+      "setId": "xy5",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-52",
+    "englishName": "Gorebyss",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "52",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/52.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-52",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:52:english:xy5-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-52",
+      "setId": "xy5",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-131",
+    "englishName": "Groudon Spirit Link",
+    "category": "Trainer",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "131",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/131.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/131_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-131",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:131:english:xy5-131",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-131",
+      "setId": "xy5",
+      "collectorNumber": "131",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-131",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-150",
+    "englishName": "Groudon-EX",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "150",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/150.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/150_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-150",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:150:english:xy5-150",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-150",
+      "setId": "xy5",
+      "collectorNumber": "150",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-150",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-85",
+    "englishName": "Groudon-EX",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "85",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/85.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/85_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-85",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:85:english:xy5-85",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-85",
+      "setId": "xy5",
+      "collectorNumber": "85",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-85",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-84",
+    "englishName": "Groudon",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "84",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/84.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/84_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-84",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:84:english:xy5-84",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-84",
+      "setId": "xy5",
+      "collectorNumber": "84",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-84",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-7",
+    "englishName": "Grovyle",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "7",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/7.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-7",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:7:english:xy5-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-7",
+      "setId": "xy5",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-87",
+    "englishName": "Hippopotas",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "87",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/87.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/87_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-87",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:87:english:xy5-87",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-87",
+      "setId": "xy5",
+      "collectorNumber": "87",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-87",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-88",
+    "englishName": "Hippowdon",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "88",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/88.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/88_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-88",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:88:english:xy5-88",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-88",
+      "setId": "xy5",
+      "collectorNumber": "88",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-88",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-98",
+    "englishName": "Honedge",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "98",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/98.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/98_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-98",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:98:english:xy5-98",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-98",
+      "setId": "xy5",
+      "collectorNumber": "98",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-98",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-30",
+    "englishName": "Horsea",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "30",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/30.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-30",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:30:english:xy5-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-30",
+      "setId": "xy5",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-50",
+    "englishName": "Huntail",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "50",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/50.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-50",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:50:english:xy5-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-50",
+      "setId": "xy5",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-18",
+    "englishName": "Illumise",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "18",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/18.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-18",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:18:english:xy5-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-18",
+      "setId": "xy5",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-2",
+    "englishName": "Kakuna",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "2",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/2.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-2",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:2:english:xy5-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-2",
+      "setId": "xy5",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-107",
+    "englishName": "Kingdra",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "107",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/107.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/107_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-107",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:107:english:xy5-107",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-107",
+      "setId": "xy5",
+      "collectorNumber": "107",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-107",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-108",
+    "englishName": "Kingdra",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "108",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/108.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/108_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-108",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:108:english:xy5-108",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-108",
+      "setId": "xy5",
+      "collectorNumber": "108",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-108",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-132",
+    "englishName": "Kyogre Spirit Link",
+    "category": "Trainer",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "132",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/132.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/132_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-132",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:132:english:xy5-132",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-132",
+      "setId": "xy5",
+      "collectorNumber": "132",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-132",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-148",
+    "englishName": "Kyogre-EX",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "148",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/148.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/148_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-148",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:148:english:xy5-148",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-148",
+      "setId": "xy5",
+      "collectorNumber": "148",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-148",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-54",
+    "englishName": "Kyogre-EX",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "54",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/54.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-54",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:54:english:xy5-54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-54",
+      "setId": "xy5",
+      "collectorNumber": "54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-53",
+    "englishName": "Kyogre",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "53",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/53.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-53",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:53:english:xy5-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-53",
+      "setId": "xy5",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-58",
+    "englishName": "Lanturn",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "58",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/58.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-58",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:58:english:xy5-58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-58",
+      "setId": "xy5",
+      "collectorNumber": "58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-112",
+    "englishName": "Linoone",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "112",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/112.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/112_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-112",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:112:english:xy5-112",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-112",
+      "setId": "xy5",
+      "collectorNumber": "112",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-112",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-11",
+    "englishName": "Lombre",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "11",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/11.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-11",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:11:english:xy5-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-11",
+      "setId": "xy5",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-10",
+    "englishName": "Lotad",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "10",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/10.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-10",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:10:english:xy5-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-10",
+      "setId": "xy5",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-12",
+    "englishName": "Ludicolo",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "12",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/12.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-12",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:12:english:xy5-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-12",
+      "setId": "xy5",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-37",
+    "englishName": "Ludicolo",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "37",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/37.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-37",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:37:english:xy5-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-37",
+      "setId": "xy5",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-154",
+    "englishName": "M Aggron-EX",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "154",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/154.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/154_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-154",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:154:english:xy5-154",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-154",
+      "setId": "xy5",
+      "collectorNumber": "154",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-154",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-94",
+    "englishName": "M Aggron-EX",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "94",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/94.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/94_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-94",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:94:english:xy5-94",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-94",
+      "setId": "xy5",
+      "collectorNumber": "94",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-94",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-106",
+    "englishName": "M Gardevoir-EX",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "106",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/106.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/106_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-106",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:106:english:xy5-106",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-106",
+      "setId": "xy5",
+      "collectorNumber": "106",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-106",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-156",
+    "englishName": "M Gardevoir-EX",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "156",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/156.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/156_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-156",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:156:english:xy5-156",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-156",
+      "setId": "xy5",
+      "collectorNumber": "156",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-156",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-23",
+    "englishName": "Magcargo",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "23",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/23.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-23",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:23:english:xy5-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-23",
+      "setId": "xy5",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-24",
+    "englishName": "Magcargo",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "24",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/24.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-24",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:24:english:xy5-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-24",
+      "setId": "xy5",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-56",
+    "englishName": "Manaphy",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "56",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/56.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-56",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:56:english:xy5-56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-56",
+      "setId": "xy5",
+      "collectorNumber": "56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-61",
+    "englishName": "Manectric",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "61",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/61.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-61",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:61:english:xy5-61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-61",
+      "setId": "xy5",
+      "collectorNumber": "61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-102",
+    "englishName": "Marill",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "102",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/102.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/102_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-102",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:102:english:xy5-102",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-102",
+      "setId": "xy5",
+      "collectorNumber": "102",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-102",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-34",
+    "englishName": "Marshtomp",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "34",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/34.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-34",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:34:english:xy5-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-34",
+      "setId": "xy5",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-14",
+    "englishName": "Masquerain",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "14",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/14.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-14",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:14:english:xy5-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-14",
+      "setId": "xy5",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-133",
+    "englishName": "Maxie's Hidden Ball Trick",
+    "category": "Trainer",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "133",
+    "legalities": {
+      "expanded": "Banned",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/133.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/133_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-133",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:133:english:xy5-133",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-133",
+      "setId": "xy5",
+      "collectorNumber": "133",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-133",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-158",
+    "englishName": "Maxie's Hidden Ball Trick",
+    "category": "Trainer",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "158",
+    "legalities": {
+      "expanded": "Banned",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/158.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/158_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-158",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:158:english:xy5-158",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-158",
+      "setId": "xy5",
+      "collectorNumber": "158",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-158",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-80",
+    "englishName": "Medicham",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "80",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/80.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/80_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-80",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:80:english:xy5-80",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-80",
+      "setId": "xy5",
+      "collectorNumber": "80",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-80",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-81",
+    "englishName": "Medicham",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "81",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/81.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/81_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-81",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:81:english:xy5-81",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-81",
+      "setId": "xy5",
+      "collectorNumber": "81",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-81",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-79",
+    "englishName": "Meditite",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "79",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/79.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/79_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-79",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:79:english:xy5-79",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-79",
+      "setId": "xy5",
+      "collectorNumber": "79",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-79",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-44",
+    "englishName": "Milotic",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "44",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/44.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-44",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:44:english:xy5-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-44",
+      "setId": "xy5",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-101",
+    "englishName": "Mr. Mime",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "101",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/101.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/101_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-101",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:101:english:xy5-101",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-101",
+      "setId": "xy5",
+      "collectorNumber": "101",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-101",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-33",
+    "englishName": "Mudkip",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "33",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/33.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-33",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:33:english:xy5-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-33",
+      "setId": "xy5",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-68",
+    "englishName": "Nidoqueen",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "68",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/68.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-68",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:68:english:xy5-68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-68",
+      "setId": "xy5",
+      "collectorNumber": "68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-69",
+    "englishName": "Nidoqueen",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "69",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/69.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-69",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:69:english:xy5-69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-69",
+      "setId": "xy5",
+      "collectorNumber": "69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-66",
+    "englishName": "Nidoran ♀",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "66",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/66.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-66",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:66:english:xy5-66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-66",
+      "setId": "xy5",
+      "collectorNumber": "66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-67",
+    "englishName": "Nidorina",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "67",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/67.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-67",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:67:english:xy5-67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-67",
+      "setId": "xy5",
+      "collectorNumber": "67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-21",
+    "englishName": "Ninetales",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "21",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/21.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-21",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:21:english:xy5-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-21",
+      "setId": "xy5",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-78",
+    "englishName": "Nosepass",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "78",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/78.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-78",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:78:english:xy5-78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-78",
+      "setId": "xy5",
+      "collectorNumber": "78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-151",
+    "englishName": "Primal Groudon-EX",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "151",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/151.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/151_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-151",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:151:english:xy5-151",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-151",
+      "setId": "xy5",
+      "collectorNumber": "151",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-151",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-86",
+    "englishName": "Primal Groudon-EX",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "86",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/86.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/86_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-86",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:86:english:xy5-86",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-86",
+      "setId": "xy5",
+      "collectorNumber": "86",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-86",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-149",
+    "englishName": "Primal Kyogre-EX",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "149",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/149.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/149_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-149",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:149:english:xy5-149",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-149",
+      "setId": "xy5",
+      "collectorNumber": "149",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-149",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-55",
+    "englishName": "Primal Kyogre-EX",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "55",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/55.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-55",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:55:english:xy5-55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-55",
+      "setId": "xy5",
+      "collectorNumber": "55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-95",
+    "englishName": "Probopass",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "95",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/95.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/95_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-95",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:95:english:xy5-95",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-95",
+      "setId": "xy5",
+      "collectorNumber": "95",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-95",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-134",
+    "englishName": "Professor Birch's Observations",
+    "category": "Trainer",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "134",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/134.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/134_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-134",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:134:english:xy5-134",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-134",
+      "setId": "xy5",
+      "collectorNumber": "134",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-134",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-159",
+    "englishName": "Professor Birch's Observations",
+    "category": "Trainer",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "159",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/159.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/159_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-159",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:159:english:xy5-159",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-159",
+      "setId": "xy5",
+      "collectorNumber": "159",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-159",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-135",
+    "englishName": "Rare Candy",
+    "category": "Trainer",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "135",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/135.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/135_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-135",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:135:english:xy5-135",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-135",
+      "setId": "xy5",
+      "collectorNumber": "135",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-135",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-136",
+    "englishName": "Repeat Ball",
+    "category": "Trainer",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "136",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/136.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/136_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-136",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:136:english:xy5-136",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-136",
+      "setId": "xy5",
+      "collectorNumber": "136",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-136",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-75",
+    "englishName": "Rhydon",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "75",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/75.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-75",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:75:english:xy5-75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-75",
+      "setId": "xy5",
+      "collectorNumber": "75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-74",
+    "englishName": "Rhyhorn",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "74",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/74.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-74",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:74:english:xy5-74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-74",
+      "setId": "xy5",
+      "collectorNumber": "74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-76",
+    "englishName": "Rhyperior",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "76",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/76.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-76",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:76:english:xy5-76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-76",
+      "setId": "xy5",
+      "collectorNumber": "76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-77",
+    "englishName": "Rhyperior",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "77",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/77.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-77",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:77:english:xy5-77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-77",
+      "setId": "xy5",
+      "collectorNumber": "77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-137",
+    "englishName": "Rough Seas",
+    "category": "Trainer",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "137",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/137.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/137_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-137",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:137:english:xy5-137",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-137",
+      "setId": "xy5",
+      "collectorNumber": "137",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-137",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-8",
+    "englishName": "Sceptile",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "8",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/8.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-8",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:8:english:xy5-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-8",
+      "setId": "xy5",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-9",
+    "englishName": "Sceptile",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "9",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/9.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-9",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:9:english:xy5-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-9",
+      "setId": "xy5",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-138",
+    "englishName": "Scorched Earth",
+    "category": "Trainer",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "138",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/138.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/138_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-138",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:138:english:xy5-138",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-138",
+      "setId": "xy5",
+      "collectorNumber": "138",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-138",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-31",
+    "englishName": "Seadra",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "31",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/31.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-31",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:31:english:xy5-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-31",
+      "setId": "xy5",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-47",
+    "englishName": "Sealeo",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "47",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/47.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-47",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:47:english:xy5-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-47",
+      "setId": "xy5",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-152",
+    "englishName": "Sharpedo-EX",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "152",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/152.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/152_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-152",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:152:english:xy5-152",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-152",
+      "setId": "xy5",
+      "collectorNumber": "152",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-152",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-91",
+    "englishName": "Sharpedo-EX",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "91",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/91.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/91_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-91",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:91:english:xy5-91",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-91",
+      "setId": "xy5",
+      "collectorNumber": "91",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-91",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-143",
+    "englishName": "Shield Energy",
+    "category": "Energy",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "143",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/143.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/143_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-143",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:143:english:xy5-143",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-143",
+      "setId": "xy5",
+      "collectorNumber": "143",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-143",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-139",
+    "englishName": "Shrine of Memories",
+    "category": "Trainer",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "139",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/139.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/139_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-139",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:139:english:xy5-139",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-139",
+      "setId": "xy5",
+      "collectorNumber": "139",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-139",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-15",
+    "englishName": "Shroomish",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "15",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/15.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-15",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:15:english:xy5-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-15",
+      "setId": "xy5",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-140",
+    "englishName": "Silent Lab",
+    "category": "Trainer",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "140",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/140.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/140_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-140",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:140:english:xy5-140",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-140",
+      "setId": "xy5",
+      "collectorNumber": "140",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-140",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-113",
+    "englishName": "Skitty",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "113",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/113.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/113_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-113",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:113:english:xy5-113",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-113",
+      "setId": "xy5",
+      "collectorNumber": "113",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-113",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-22",
+    "englishName": "Slugma",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "22",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/22.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-22",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:22:english:xy5-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-22",
+      "setId": "xy5",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-83",
+    "englishName": "Solrock",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "83",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/83.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/83_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-83",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:83:english:xy5-83",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-83",
+      "setId": "xy5",
+      "collectorNumber": "83",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-83",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-45",
+    "englishName": "Spheal",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "45",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/45.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-45",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:45:english:xy5-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-45",
+      "setId": "xy5",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-46",
+    "englishName": "Spheal",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "46",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/46.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-46",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:46:english:xy5-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-46",
+      "setId": "xy5",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-115",
+    "englishName": "Spinda",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "115",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/115.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/115_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-115",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:115:english:xy5-115",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-115",
+      "setId": "xy5",
+      "collectorNumber": "115",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-115",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-73",
+    "englishName": "Starmie",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "73",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/73.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-73",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:73:english:xy5-73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-73",
+      "setId": "xy5",
+      "collectorNumber": "73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-32",
+    "englishName": "Staryu",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "32",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/32.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-32",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:32:english:xy5-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-32",
+      "setId": "xy5",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-13",
+    "englishName": "Surskit",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "13",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/13.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-13",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:13:english:xy5-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-13",
+      "setId": "xy5",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-35",
+    "englishName": "Swampert",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "35",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/35.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-35",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:35:english:xy5-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-35",
+      "setId": "xy5",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-36",
+    "englishName": "Swampert",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "36",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/36.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-36",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:36:english:xy5-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-36",
+      "setId": "xy5",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-163",
+    "englishName": "Switch",
+    "category": "Trainer",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "163",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/163.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/163_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-163",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:163:english:xy5-163",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-163",
+      "setId": "xy5",
+      "collectorNumber": "163",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-163",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-4",
+    "englishName": "Tangela",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "4",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/4.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-4",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:4:english:xy5-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-4",
+      "setId": "xy5",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-5",
+    "englishName": "Tangrowth",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "5",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/5.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-5",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:5:english:xy5-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-5",
+      "setId": "xy5",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-141",
+    "englishName": "Teammates",
+    "category": "Trainer",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "141",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/141.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/141_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-141",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:141:english:xy5-141",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-141",
+      "setId": "xy5",
+      "collectorNumber": "141",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-141",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-160",
+    "englishName": "Teammates",
+    "category": "Trainer",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "160",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/160.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/160_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-160",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:160:english:xy5-160",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-160",
+      "setId": "xy5",
+      "collectorNumber": "160",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-160",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-70",
+    "englishName": "Tentacool",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "70",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/70.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-70",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:70:english:xy5-70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-70",
+      "setId": "xy5",
+      "collectorNumber": "70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-71",
+    "englishName": "Tentacool",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "71",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/71.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-71",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:71:english:xy5-71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-71",
+      "setId": "xy5",
+      "collectorNumber": "71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-72",
+    "englishName": "Tentacruel",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "72",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/72.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-72",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:72:english:xy5-72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-72",
+      "setId": "xy5",
+      "collectorNumber": "72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-25",
+    "englishName": "Torchic",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "25",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/25.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-25",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:25:english:xy5-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-25",
+      "setId": "xy5",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-26",
+    "englishName": "Torchic",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "26",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/26.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-26",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:26:english:xy5-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-26",
+      "setId": "xy5",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-82",
+    "englishName": "Trapinch",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "82",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/82.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/82_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-82",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:82:english:xy5-82",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-82",
+      "setId": "xy5",
+      "collectorNumber": "82",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-82",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-6",
+    "englishName": "Treecko",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "6",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/6.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-6",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:6:english:xy5-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-6",
+      "setId": "xy5",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-145",
+    "englishName": "Trevenant-EX",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "145",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/145.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/145_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-145",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:145:english:xy5-145",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-145",
+      "setId": "xy5",
+      "collectorNumber": "145",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-145",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-19",
+    "englishName": "Trevenant-EX",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "19",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/19.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-19",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:19:english:xy5-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-19",
+      "setId": "xy5",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-62",
+    "englishName": "Tynamo",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "62",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/62.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-62",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:62:english:xy5-62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-62",
+      "setId": "xy5",
+      "collectorNumber": "62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-109",
+    "englishName": "Vibrava",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "109",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/109.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/109_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-109",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:109:english:xy5-109",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-109",
+      "setId": "xy5",
+      "collectorNumber": "109",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-109",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-17",
+    "englishName": "Volbeat",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "17",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/17.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-17",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:17:english:xy5-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-17",
+      "setId": "xy5",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-20",
+    "englishName": "Vulpix",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "20",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/20.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-20",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:20:english:xy5-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-20",
+      "setId": "xy5",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-147",
+    "englishName": "Wailord-EX",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "147",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/147.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/147_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-147",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:147:english:xy5-147",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-147",
+      "setId": "xy5",
+      "collectorNumber": "147",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-147",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-38",
+    "englishName": "Wailord-EX",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "38",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/38.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-38",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:38:english:xy5-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-38",
+      "setId": "xy5",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-48",
+    "englishName": "Walrein",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "48",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/48.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-48",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:48:english:xy5-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-48",
+      "setId": "xy5",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-142",
+    "englishName": "Weakness Policy",
+    "category": "Trainer",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "142",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/142.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/142_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-142",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:142:english:xy5-142",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-142",
+      "setId": "xy5",
+      "collectorNumber": "142",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-142",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-164",
+    "englishName": "Weakness Policy",
+    "category": "Trainer",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "164",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/164.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/164_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-164",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:164:english:xy5-164",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-164",
+      "setId": "xy5",
+      "collectorNumber": "164",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-164",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-1",
+    "englishName": "Weedle",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "1",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/1.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-1",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:1:english:xy5-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-1",
+      "setId": "xy5",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-40",
+    "englishName": "Whiscash",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "40",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/40.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-40",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:40:english:xy5-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-40",
+      "setId": "xy5",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-41",
+    "englishName": "Whiscash",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "41",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/41.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-41",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:41:english:xy5-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-41",
+      "setId": "xy5",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-144",
+    "englishName": "Wonder Energy",
+    "category": "Energy",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "144",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/144.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/144_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-144",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:144:english:xy5-144",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-144",
+      "setId": "xy5",
+      "collectorNumber": "144",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-144",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy5-111",
+    "englishName": "Zigzagoon",
+    "category": "Pokemon",
+    "setCode": "PRC",
+    "setName": "Primal Clash",
+    "cardNumber": "111",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy5/111.png",
+    "imageLarge": "https://images.pokemontcg.io/xy5/111_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy5-111",
+    "sourceSetId": "xy5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy5:111:english:xy5-111",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy5-111",
+      "setId": "xy5",
+      "collectorNumber": "111",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy5-111",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

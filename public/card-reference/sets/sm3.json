@@ -1,0 +1,4961 @@
+[
+  {
+    "id": "sm3-112",
+    "englishName": "Acerola",
+    "category": "Trainer",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "112",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/112.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/112_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-112",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:112:english:sm3-112",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-112",
+      "setId": "sm3",
+      "collectorNumber": "112",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-112",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-112a",
+    "englishName": "Acerola",
+    "category": "Trainer",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "112a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/112a.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/112a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-112a",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:112a:english:sm3-112a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-112a",
+      "setId": "sm3",
+      "collectorNumber": "112a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-112a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-142",
+    "englishName": "Acerola",
+    "category": "Trainer",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "142",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/142.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/142_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-142",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:142:english:sm3-142",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-142",
+      "setId": "sm3",
+      "collectorNumber": "142",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-142",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-83",
+    "englishName": "Alolan Grimer",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "83",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/83.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/83_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-83",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:83:english:sm3-83",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-83",
+      "setId": "sm3",
+      "collectorNumber": "83",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-83",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-138",
+    "englishName": "Alolan Muk-GX",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "138",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/138.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/138_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-138",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:138:english:sm3-138",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-138",
+      "setId": "sm3",
+      "collectorNumber": "138",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-138",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-157",
+    "englishName": "Alolan Muk-GX",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "157",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/157.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/157_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-157",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:157:english:sm3-157",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-157",
+      "setId": "sm3",
+      "collectorNumber": "157",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-157",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-84",
+    "englishName": "Alolan Muk-GX",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "84",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/84.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/84_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-84",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:84:english:sm3-84",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-84",
+      "setId": "sm3",
+      "collectorNumber": "84",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-84",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-28",
+    "englishName": "Alolan Ninetales",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "28",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/28.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-28",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:28:english:sm3-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-28",
+      "setId": "sm3",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-82",
+    "englishName": "Alolan Raticate",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "82",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/82.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/82_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-82",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:82:english:sm3-82",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-82",
+      "setId": "sm3",
+      "collectorNumber": "82",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-82",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-81",
+    "englishName": "Alolan Rattata",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "81",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/81.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/81_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-81",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:81:english:sm3-81",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-81",
+      "setId": "sm3",
+      "collectorNumber": "81",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-81",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-27",
+    "englishName": "Alolan Vulpix",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "27",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/27.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-27",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:27:english:sm3-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-27",
+      "setId": "sm3",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-15",
+    "englishName": "Araquanid",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "15",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/15.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-15",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:15:english:sm3-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-15",
+      "setId": "sm3",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-35",
+    "englishName": "Azumarill",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "35",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/35.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-35",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:35:english:sm3-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-35",
+      "setId": "sm3",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-111",
+    "englishName": "Bewear",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "111",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/111.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/111_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-111",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:111:english:sm3-111",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-111",
+      "setId": "sm3",
+      "collectorNumber": "111",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-111",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-113",
+    "englishName": "Bodybuilding Dumbbells",
+    "category": "Trainer",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "113",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/113.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/113_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-113",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:113:english:sm3-113",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-113",
+      "setId": "sm3",
+      "collectorNumber": "113",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-113",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-161",
+    "englishName": "Bodybuilding Dumbbells",
+    "category": "Trainer",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "161",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/161.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/161_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-161",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:161:english:sm3-161",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-161",
+      "setId": "sm3",
+      "collectorNumber": "161",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-161",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-108",
+    "englishName": "Bouffalant",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "108",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/108.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/108_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-108",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:108:english:sm3-108",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-108",
+      "setId": "sm3",
+      "collectorNumber": "108",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-108",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-38",
+    "englishName": "Bruxish",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "38",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/38.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-38",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:38:english:sm3-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-38",
+      "setId": "sm3",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-3",
+    "englishName": "Butterfree",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "3",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/3.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-3",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:3:english:sm3-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-3",
+      "setId": "sm3",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-1",
+    "englishName": "Caterpie",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "1",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/1.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-1",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:1:english:sm3-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-1",
+      "setId": "sm3",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-150",
+    "englishName": "Charizard-GX",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "150",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/150.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/150_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-150",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:150:english:sm3-150",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-150",
+      "setId": "sm3",
+      "collectorNumber": "150",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-150",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-20",
+    "englishName": "Charizard-GX",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "20",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/20.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-20",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:20:english:sm3-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-20",
+      "setId": "sm3",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-18",
+    "englishName": "Charmander",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "18",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/18.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-18",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:18:english:sm3-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-18",
+      "setId": "sm3",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-18a",
+    "englishName": "Charmander",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "18a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/18a.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/18a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-18a",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:18a:english:sm3-18a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-18a",
+      "setId": "sm3",
+      "collectorNumber": "18a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-18a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-19",
+    "englishName": "Charmeleon",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "19",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/19.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-19",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:19:english:sm3-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-19",
+      "setId": "sm3",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-162",
+    "englishName": "Choice Band",
+    "category": "Trainer",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "162",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/162.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/162_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-162",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:162:english:sm3-162",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-162",
+      "setId": "sm3",
+      "collectorNumber": "162",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-162",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-74",
+    "englishName": "Crabominable",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "74",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/74.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-74",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:74:english:sm3-74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-74",
+      "setId": "sm3",
+      "collectorNumber": "74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-73",
+    "englishName": "Crabrawler",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "73",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/73.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-73",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:73:english:sm3-73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-73",
+      "setId": "sm3",
+      "collectorNumber": "73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-54",
+    "englishName": "Croagunk",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "54",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/54.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-54",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:54:english:sm3-54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-54",
+      "setId": "sm3",
+      "collectorNumber": "54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-95",
+    "englishName": "Cutiefly",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "95",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/95.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/95_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-95",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:95:english:sm3-95",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-95",
+      "setId": "sm3",
+      "collectorNumber": "95",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-95",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-168",
+    "englishName": "Darkness Energy",
+    "category": "Energy",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "168",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/168.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/168_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-168",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:168:english:sm3-168",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-168",
+      "setId": "sm3",
+      "collectorNumber": "168",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-168",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-139",
+    "englishName": "Darkrai-GX",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "139",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/139.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/139_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-139",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:139:english:sm3-139",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-139",
+      "setId": "sm3",
+      "collectorNumber": "139",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-139",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-158",
+    "englishName": "Darkrai-GX",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "158",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/158.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/158_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-158",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:158:english:sm3-158",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-158",
+      "setId": "sm3",
+      "collectorNumber": "158",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-158",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-88",
+    "englishName": "Darkrai-GX",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "88",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/88.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/88_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-88",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:88:english:sm3-88",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-88",
+      "setId": "sm3",
+      "collectorNumber": "88",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-88",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-88a",
+    "englishName": "Darkrai-GX",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "88a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/88a.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/88a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-88a",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:88a:english:sm3-88a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-88a",
+      "setId": "sm3",
+      "collectorNumber": "88a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-88a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-87",
+    "englishName": "Darkrai",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "87",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/87.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/87_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-87",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:87:english:sm3-87",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-87",
+      "setId": "sm3",
+      "collectorNumber": "87",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-87",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-14",
+    "englishName": "Dewpider",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "14",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/14.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-14",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:14:english:sm3-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-14",
+      "setId": "sm3",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-94",
+    "englishName": "Diancie",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "94",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/94.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/94_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-94",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:94:english:sm3-94",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-94",
+      "setId": "sm3",
+      "collectorNumber": "94",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-94",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-52",
+    "englishName": "Dusclops",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "52",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/52.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-52",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:52:english:sm3-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-52",
+      "setId": "sm3",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-53",
+    "englishName": "Dusknoir",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "53",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/53.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-53",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:53:english:sm3-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-53",
+      "setId": "sm3",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-51",
+    "englishName": "Duskull",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "51",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/51.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-51",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:51:english:sm3-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-51",
+      "setId": "sm3",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-45",
+    "englishName": "Eelektrik",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "45",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/45.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-45",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:45:english:sm3-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-45",
+      "setId": "sm3",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-46",
+    "englishName": "Eelektross",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "46",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/46.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-46",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:46:english:sm3-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-46",
+      "setId": "sm3",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-42",
+    "englishName": "Electabuzz",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "42",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/42.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-42",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:42:english:sm3-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-42",
+      "setId": "sm3",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-43",
+    "englishName": "Electivire",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "43",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/43.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-43",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:43:english:sm3-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-43",
+      "setId": "sm3",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-114",
+    "englishName": "Escape Rope",
+    "category": "Trainer",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "114",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/114.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/114_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-114",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:114:english:sm3-114",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-114",
+      "setId": "sm3",
+      "collectorNumber": "114",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-114",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-163",
+    "englishName": "Escape Rope",
+    "category": "Trainer",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "163",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/163.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/163_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-163",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:163:english:sm3-163",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-163",
+      "setId": "sm3",
+      "collectorNumber": "163",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-163",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-59",
+    "englishName": "Espurr",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "59",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/59.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-59",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:59:english:sm3-59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-59",
+      "setId": "sm3",
+      "collectorNumber": "59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-169",
+    "englishName": "Fairy Energy",
+    "category": "Energy",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "169",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/169.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/169_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-169",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:169:english:sm3-169",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-169",
+      "setId": "sm3",
+      "collectorNumber": "169",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-169",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-167",
+    "englishName": "Fire Energy",
+    "category": "Energy",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "167",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/167.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/167_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-167",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:167:english:sm3-167",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-167",
+      "setId": "sm3",
+      "collectorNumber": "167",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-167",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-140",
+    "englishName": "Gardevoir-GX",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "140",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/140.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/140_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-140",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:140:english:sm3-140",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-140",
+      "setId": "sm3",
+      "collectorNumber": "140",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-140",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-159",
+    "englishName": "Gardevoir-GX",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "159",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/159.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/159_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-159",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:159:english:sm3-159",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-159",
+      "setId": "sm3",
+      "collectorNumber": "159",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-159",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-93",
+    "englishName": "Gardevoir-GX",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "93",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/93.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/93_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-93",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:93:english:sm3-93",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-93",
+      "setId": "sm3",
+      "collectorNumber": "93",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-93",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-5",
+    "englishName": "Gloom",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "5",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/5.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-5",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:5:english:sm3-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-5",
+      "setId": "sm3",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-129",
+    "englishName": "Golisopod-GX",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "129",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/129.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/129_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-129",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:129:english:sm3-129",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-129",
+      "setId": "sm3",
+      "collectorNumber": "129",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-129",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-148",
+    "englishName": "Golisopod-GX",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "148",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/148.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/148_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-148",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:148:english:sm3-148",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-148",
+      "setId": "sm3",
+      "collectorNumber": "148",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-148",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-17",
+    "englishName": "Golisopod-GX",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "17",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/17.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-17",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:17:english:sm3-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-17",
+      "setId": "sm3",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-115",
+    "englishName": "Guzma",
+    "category": "Trainer",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "115",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/115.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/115_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-115",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:115:english:sm3-115",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-115",
+      "setId": "sm3",
+      "collectorNumber": "115",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-115",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-115a",
+    "englishName": "Guzma",
+    "category": "Trainer",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "115a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/115a.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/115a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-115a",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:115a:english:sm3-115a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-115a",
+      "setId": "sm3",
+      "collectorNumber": "115a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-115a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-143",
+    "englishName": "Guzma",
+    "category": "Trainer",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "143",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/143.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/143_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-143",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:143:english:sm3-143",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-143",
+      "setId": "sm3",
+      "collectorNumber": "143",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-143",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-33",
+    "englishName": "Gyarados",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "33",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/33.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-33",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:33:english:sm3-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-33",
+      "setId": "sm3",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-24",
+    "englishName": "Heatmor",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "24",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/24.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-24",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:24:english:sm3-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-24",
+      "setId": "sm3",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-11",
+    "englishName": "Heracross",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "11",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/11.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-11",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:11:english:sm3-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-11",
+      "setId": "sm3",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-131",
+    "englishName": "Ho-Oh-GX",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "131",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/131.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/131_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-131",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:131:english:sm3-131",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-131",
+      "setId": "sm3",
+      "collectorNumber": "131",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-131",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-21",
+    "englishName": "Ho-Oh-GX",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "21",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/21.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-21",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:21:english:sm3-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-21",
+      "setId": "sm3",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-106",
+    "englishName": "Hoothoot",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "106",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/106.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/106_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-106",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:106:english:sm3-106",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-106",
+      "setId": "sm3",
+      "collectorNumber": "106",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-106",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-29",
+    "englishName": "Horsea",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "29",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/29.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-29",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:29:english:sm3-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-29",
+      "setId": "sm3",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-89",
+    "englishName": "Inkay",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "89",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/89.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/89_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-89",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:89:english:sm3-89",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-89",
+      "setId": "sm3",
+      "collectorNumber": "89",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-89",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-116",
+    "englishName": "Kiawe",
+    "category": "Trainer",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "116",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/116.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/116_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-116",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:116:english:sm3-116",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-116",
+      "setId": "sm3",
+      "collectorNumber": "116",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-116",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-116a",
+    "englishName": "Kiawe",
+    "category": "Trainer",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "116a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/116a.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/116a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-116a",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:116a:english:sm3-116a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-116a",
+      "setId": "sm3",
+      "collectorNumber": "116a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-116a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-144",
+    "englishName": "Kiawe",
+    "category": "Trainer",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "144",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/144.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/144_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-144",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:144:english:sm3-144",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-144",
+      "setId": "sm3",
+      "collectorNumber": "144",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-144",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-31",
+    "englishName": "Kingdra",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "31",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/31.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-31",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:31:english:sm3-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-31",
+      "setId": "sm3",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-92",
+    "englishName": "Kirlia",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "92",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/92.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/92_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-92",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:92:english:sm3-92",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-92",
+      "setId": "sm3",
+      "collectorNumber": "92",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-92",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-92a",
+    "englishName": "Kirlia",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "92a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/92a.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/92a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-92a",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:92a:english:sm3-92a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-92a",
+      "setId": "sm3",
+      "collectorNumber": "92a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-92a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-117",
+    "englishName": "Lana",
+    "category": "Trainer",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "117",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/117.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/117_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-117",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:117:english:sm3-117",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-117",
+      "setId": "sm3",
+      "collectorNumber": "117",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-117",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-10",
+    "englishName": "Ledian",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "10",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/10.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-10",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:10:english:sm3-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-10",
+      "setId": "sm3",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-9",
+    "englishName": "Ledyba",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "9",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/9.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-9",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:9:english:sm3-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-9",
+      "setId": "sm3",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-71",
+    "englishName": "Lucario",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "71",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/71.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-71",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:71:english:sm3-71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-71",
+      "setId": "sm3",
+      "collectorNumber": "71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-68",
+    "englishName": "Lunatone",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "68",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/68.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-68",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:68:english:sm3-68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-68",
+      "setId": "sm3",
+      "collectorNumber": "68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-136",
+    "englishName": "Lycanroc-GX",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "136",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/136.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/136_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-136",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:136:english:sm3-136",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-136",
+      "setId": "sm3",
+      "collectorNumber": "136",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-136",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-155",
+    "englishName": "Lycanroc-GX",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "155",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/155.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/155_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-155",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:155:english:sm3-155",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-155",
+      "setId": "sm3",
+      "collectorNumber": "155",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-155",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-75",
+    "englishName": "Lycanroc",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "75",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/75.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-75",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:75:english:sm3-75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-75",
+      "setId": "sm3",
+      "collectorNumber": "75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-76",
+    "englishName": "Lycanroc",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "76",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/76.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-76",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:76:english:sm3-76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-76",
+      "setId": "sm3",
+      "collectorNumber": "76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-135",
+    "englishName": "Machamp-GX",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "135",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/135.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/135_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-135",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:135:english:sm3-135",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-135",
+      "setId": "sm3",
+      "collectorNumber": "135",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-135",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-154",
+    "englishName": "Machamp-GX",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "154",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/154.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/154_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-154",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:154:english:sm3-154",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-154",
+      "setId": "sm3",
+      "collectorNumber": "154",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-154",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-64",
+    "englishName": "Machamp-GX",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "64",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/64.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-64",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:64:english:sm3-64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-64",
+      "setId": "sm3",
+      "collectorNumber": "64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-32",
+    "englishName": "Magikarp",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "32",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/32.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-32",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:32:english:sm3-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-32",
+      "setId": "sm3",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-90",
+    "englishName": "Malamar",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "90",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/90.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/90_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-90",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:90:english:sm3-90",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-90",
+      "setId": "sm3",
+      "collectorNumber": "90",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-90",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-34",
+    "englishName": "Marill",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "34",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/34.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-34",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:34:english:sm3-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-34",
+      "setId": "sm3",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-137",
+    "englishName": "Marshadow-GX",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "137",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/137.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/137_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-137",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:137:english:sm3-137",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-137",
+      "setId": "sm3",
+      "collectorNumber": "137",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-137",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-156",
+    "englishName": "Marshadow-GX",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "156",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/156.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/156_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-156",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:156:english:sm3-156",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-156",
+      "setId": "sm3",
+      "collectorNumber": "156",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-156",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-80",
+    "englishName": "Marshadow-GX",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "80",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/80.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/80_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-80",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:80:english:sm3-80",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-80",
+      "setId": "sm3",
+      "collectorNumber": "80",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-80",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-60",
+    "englishName": "Meowstic",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "60",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/60.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-60",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:60:english:sm3-60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-60",
+      "setId": "sm3",
+      "collectorNumber": "60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-101",
+    "englishName": "Meowth",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "101",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/101.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/101_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-101",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:101:english:sm3-101",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-101",
+      "setId": "sm3",
+      "collectorNumber": "101",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-101",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-2",
+    "englishName": "Metapod",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "2",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/2.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-2",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:2:english:sm3-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-2",
+      "setId": "sm3",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-97",
+    "englishName": "Morelull",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "97",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/97.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/97_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-97",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:97:english:sm3-97",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-97",
+      "setId": "sm3",
+      "collectorNumber": "97",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-97",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-118",
+    "englishName": "Mount Lanakila",
+    "category": "Trainer",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "118",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/118.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/118_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-118",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:118:english:sm3-118",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-118",
+      "setId": "sm3",
+      "collectorNumber": "118",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-118",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-77",
+    "englishName": "Mudbray",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "77",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/77.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-77",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:77:english:sm3-77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-77",
+      "setId": "sm3",
+      "collectorNumber": "77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-78",
+    "englishName": "Mudsdale",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "78",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/78.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-78",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:78:english:sm3-78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-78",
+      "setId": "sm3",
+      "collectorNumber": "78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-164",
+    "englishName": "Multi Switch",
+    "category": "Trainer",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "164",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/164.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/164_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-164",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:164:english:sm3-164",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-164",
+      "setId": "sm3",
+      "collectorNumber": "164",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-164",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-134",
+    "englishName": "Necrozma-GX",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "134",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/134.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/134_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-134",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:134:english:sm3-134",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-134",
+      "setId": "sm3",
+      "collectorNumber": "134",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-134",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-153",
+    "englishName": "Necrozma-GX",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "153",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/153.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/153_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-153",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:153:english:sm3-153",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-153",
+      "setId": "sm3",
+      "collectorNumber": "153",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-153",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-63",
+    "englishName": "Necrozma-GX",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "63",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/63.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-63",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:63:english:sm3-63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-63",
+      "setId": "sm3",
+      "collectorNumber": "63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-107",
+    "englishName": "Noctowl",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "107",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/107.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/107_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-107",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:107:english:sm3-107",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-107",
+      "setId": "sm3",
+      "collectorNumber": "107",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-107",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-109",
+    "englishName": "Noibat",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "109",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/109.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/109_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-109",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:109:english:sm3-109",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-109",
+      "setId": "sm3",
+      "collectorNumber": "109",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-109",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-141",
+    "englishName": "Noivern-GX",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "141",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/141.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/141_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-141",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:141:english:sm3-141",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-141",
+      "setId": "sm3",
+      "collectorNumber": "141",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-141",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-160",
+    "englishName": "Noivern-GX",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "160",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/160.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/160_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-160",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:160:english:sm3-160",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-160",
+      "setId": "sm3",
+      "collectorNumber": "160",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-160",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-99",
+    "englishName": "Noivern-GX",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "99",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/99.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/99_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-99",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:99:english:sm3-99",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-99",
+      "setId": "sm3",
+      "collectorNumber": "99",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-99",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-4",
+    "englishName": "Oddish",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "4",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/4.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-4",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:4:english:sm3-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-4",
+      "setId": "sm3",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-119",
+    "englishName": "Olivia",
+    "category": "Trainer",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "119",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/119.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/119_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-119",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:119:english:sm3-119",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-119",
+      "setId": "sm3",
+      "collectorNumber": "119",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-119",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-62",
+    "englishName": "Palossand",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "62",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/62.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-62",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:62:english:sm3-62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-62",
+      "setId": "sm3",
+      "collectorNumber": "62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-36",
+    "englishName": "Panpour",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "36",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/36.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-36",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:36:english:sm3-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-36",
+      "setId": "sm3",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-12",
+    "englishName": "Pansage",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "12",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/12.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-12",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:12:english:sm3-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-12",
+      "setId": "sm3",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-22",
+    "englishName": "Pansear",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "22",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/22.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-22",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:22:english:sm3-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-22",
+      "setId": "sm3",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-79",
+    "englishName": "Passimian",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "79",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/79.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/79_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-79",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:79:english:sm3-79",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-79",
+      "setId": "sm3",
+      "collectorNumber": "79",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-79",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-102",
+    "englishName": "Persian",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "102",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/102.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/102_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-102",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:102:english:sm3-102",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-102",
+      "setId": "sm3",
+      "collectorNumber": "102",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-102",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-40",
+    "englishName": "Pikachu",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "40",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/40.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-40",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:40:english:sm3-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-40",
+      "setId": "sm3",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-120",
+    "englishName": "Plumeria",
+    "category": "Trainer",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "120",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/120.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/120_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-120",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:120:english:sm3-120",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-120",
+      "setId": "sm3",
+      "collectorNumber": "120",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-120",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-145",
+    "englishName": "Plumeria",
+    "category": "Trainer",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "145",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/145.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/145_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-145",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:145:english:sm3-145",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-145",
+      "setId": "sm3",
+      "collectorNumber": "145",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-145",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-121",
+    "englishName": "Po Town",
+    "category": "Trainer",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "121",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/121.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/121_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-121",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:121:english:sm3-121",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-121",
+      "setId": "sm3",
+      "collectorNumber": "121",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-121",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-105",
+    "englishName": "Porygon-Z",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "105",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/105.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/105_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-105",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:105:english:sm3-105",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-105",
+      "setId": "sm3",
+      "collectorNumber": "105",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-105",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-105a",
+    "englishName": "Porygon-Z",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "105a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/105a.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/105a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-105a",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:105a:english:sm3-105a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-105a",
+      "setId": "sm3",
+      "collectorNumber": "105a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-105a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-103",
+    "englishName": "Porygon",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "103",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/103.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/103_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-103",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:103:english:sm3-103",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-103",
+      "setId": "sm3",
+      "collectorNumber": "103",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-103",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-104",
+    "englishName": "Porygon2",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "104",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/104.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/104_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-104",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:104:english:sm3-104",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-104",
+      "setId": "sm3",
+      "collectorNumber": "104",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-104",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-41",
+    "englishName": "Raichu",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "41",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/41.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-41",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:41:english:sm3-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-41",
+      "setId": "sm3",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-91",
+    "englishName": "Ralts",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "91",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/91.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/91_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-91",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:91:english:sm3-91",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-91",
+      "setId": "sm3",
+      "collectorNumber": "91",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-91",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-165",
+    "englishName": "Rescue Stretcher",
+    "category": "Trainer",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "165",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/165.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/165_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-165",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:165:english:sm3-165",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-165",
+      "setId": "sm3",
+      "collectorNumber": "165",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-165",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-66",
+    "englishName": "Rhydon",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "66",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/66.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-66",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:66:english:sm3-66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-66",
+      "setId": "sm3",
+      "collectorNumber": "66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-65",
+    "englishName": "Rhyhorn",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "65",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/65.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-65",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:65:english:sm3-65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-65",
+      "setId": "sm3",
+      "collectorNumber": "65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-67",
+    "englishName": "Rhyperior",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "67",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/67.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-67",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:67:english:sm3-67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-67",
+      "setId": "sm3",
+      "collectorNumber": "67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-96",
+    "englishName": "Ribombee",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "96",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/96.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/96_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-96",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:96:english:sm3-96",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-96",
+      "setId": "sm3",
+      "collectorNumber": "96",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-96",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-70",
+    "englishName": "Riolu",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "70",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/70.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-70",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:70:english:sm3-70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-70",
+      "setId": "sm3",
+      "collectorNumber": "70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-122",
+    "englishName": "Rotom Dex Poké Finder Mode",
+    "category": "Trainer",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "122",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/122.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/122_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-122",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:122:english:sm3-122",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-122",
+      "setId": "sm3",
+      "collectorNumber": "122",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-122",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-132",
+    "englishName": "Salazzle-GX",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "132",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/132.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/132_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-132",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:132:english:sm3-132",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-132",
+      "setId": "sm3",
+      "collectorNumber": "132",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-132",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-151",
+    "englishName": "Salazzle-GX",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "151",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/151.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/151_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-151",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:151:english:sm3-151",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-151",
+      "setId": "sm3",
+      "collectorNumber": "151",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-151",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-25",
+    "englishName": "Salazzle-GX",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "25",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/25.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-25",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:25:english:sm3-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-25",
+      "setId": "sm3",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-61",
+    "englishName": "Sandygast",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "61",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/61.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-61",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:61:english:sm3-61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-61",
+      "setId": "sm3",
+      "collectorNumber": "61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-72",
+    "englishName": "Sawk",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "72",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/72.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-72",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:72:english:sm3-72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-72",
+      "setId": "sm3",
+      "collectorNumber": "72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-58",
+    "englishName": "Scolipede",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "58",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/58.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-58",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:58:english:sm3-58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-58",
+      "setId": "sm3",
+      "collectorNumber": "58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-30",
+    "englishName": "Seadra",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "30",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/30.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-30",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:30:english:sm3-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-30",
+      "setId": "sm3",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-50",
+    "englishName": "Seviper",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "50",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/50.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-50",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:50:english:sm3-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-50",
+      "setId": "sm3",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-98",
+    "englishName": "Shiinotic",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "98",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/98.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/98_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-98",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:98:english:sm3-98",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-98",
+      "setId": "sm3",
+      "collectorNumber": "98",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-98",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-37",
+    "englishName": "Simipour",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "37",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/37.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-37",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:37:english:sm3-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-37",
+      "setId": "sm3",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-13",
+    "englishName": "Simisage",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "13",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/13.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-13",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:13:english:sm3-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-13",
+      "setId": "sm3",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-23",
+    "englishName": "Simisear",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "23",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/23.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-23",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:23:english:sm3-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-23",
+      "setId": "sm3",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-48",
+    "englishName": "Slowking",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "48",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/48.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-48",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:48:english:sm3-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-48",
+      "setId": "sm3",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-85",
+    "englishName": "Sneasel",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "85",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/85.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/85_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-85",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:85:english:sm3-85",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-85",
+      "setId": "sm3",
+      "collectorNumber": "85",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-85",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-69",
+    "englishName": "Solrock",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "69",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/69.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-69",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:69:english:sm3-69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-69",
+      "setId": "sm3",
+      "collectorNumber": "69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-123",
+    "englishName": "Sophocles",
+    "category": "Trainer",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "123",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/123.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/123_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-123",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:123:english:sm3-123",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-123",
+      "setId": "sm3",
+      "collectorNumber": "123",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-123",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-146",
+    "englishName": "Sophocles",
+    "category": "Trainer",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "146",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/146.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/146_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-146",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:146:english:sm3-146",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-146",
+      "setId": "sm3",
+      "collectorNumber": "146",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-146",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-110",
+    "englishName": "Stufful",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "110",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/110.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/110_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-110",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:110:english:sm3-110",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-110",
+      "setId": "sm3",
+      "collectorNumber": "110",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-110",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-124",
+    "englishName": "Super Scoop Up",
+    "category": "Trainer",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "124",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/124.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/124_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-124",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:124:english:sm3-124",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-124",
+      "setId": "sm3",
+      "collectorNumber": "124",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-124",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-166",
+    "englishName": "Super Scoop Up",
+    "category": "Trainer",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "166",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/166.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/166_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-166",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:166:english:sm3-166",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-166",
+      "setId": "sm3",
+      "collectorNumber": "166",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-166",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-7",
+    "englishName": "Tangela",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "7",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/7.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-7",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:7:english:sm3-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-7",
+      "setId": "sm3",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-8",
+    "englishName": "Tangrowth",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "8",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/8.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-8",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:8:english:sm3-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-8",
+      "setId": "sm3",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-130",
+    "englishName": "Tapu Bulu-GX",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "130",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/130.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/130_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-130",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:130:english:sm3-130",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-130",
+      "setId": "sm3",
+      "collectorNumber": "130",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-130",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-149",
+    "englishName": "Tapu Bulu-GX",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "149",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/149.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/149_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-149",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:149:english:sm3-149",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-149",
+      "setId": "sm3",
+      "collectorNumber": "149",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-149",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-133",
+    "englishName": "Tapu Fini-GX",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "133",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/133.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/133_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-133",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:133:english:sm3-133",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-133",
+      "setId": "sm3",
+      "collectorNumber": "133",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-133",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-152",
+    "englishName": "Tapu Fini-GX",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "152",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/152.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/152_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-152",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:152:english:sm3-152",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-152",
+      "setId": "sm3",
+      "collectorNumber": "152",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-152",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-39",
+    "englishName": "Tapu Fini-GX",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "39",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/39.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-39",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:39:english:sm3-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-39",
+      "setId": "sm3",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-39a",
+    "englishName": "Tapu Fini-GX",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "39a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/39a.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/39a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-39a",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:39a:english:sm3-39a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-39a",
+      "setId": "sm3",
+      "collectorNumber": "39a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-39a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-47",
+    "englishName": "Togedemaru",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "47",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/47.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-47",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:47:english:sm3-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-47",
+      "setId": "sm3",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-125",
+    "englishName": "Tormenting Spray",
+    "category": "Trainer",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "125",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/125.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/125_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-125",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:125:english:sm3-125",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-125",
+      "setId": "sm3",
+      "collectorNumber": "125",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-125",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-55",
+    "englishName": "Toxicroak",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "55",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/55.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-55",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:55:english:sm3-55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-55",
+      "setId": "sm3",
+      "collectorNumber": "55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-26",
+    "englishName": "Turtonator",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "26",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/26.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-26",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:26:english:sm3-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-26",
+      "setId": "sm3",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-44",
+    "englishName": "Tynamo",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "44",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/44.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-44",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:44:english:sm3-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-44",
+      "setId": "sm3",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-56",
+    "englishName": "Venipede",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "56",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/56.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-56",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:56:english:sm3-56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-56",
+      "setId": "sm3",
+      "collectorNumber": "56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-6",
+    "englishName": "Vileplume",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "6",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/6.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-6",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:6:english:sm3-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-6",
+      "setId": "sm3",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-126",
+    "englishName": "Weakness Policy",
+    "category": "Trainer",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "126",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/126.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/126_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-126",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:126:english:sm3-126",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-126",
+      "setId": "sm3",
+      "collectorNumber": "126",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-126",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-86",
+    "englishName": "Weavile",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "86",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/86.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/86_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-86",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:86:english:sm3-86",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-86",
+      "setId": "sm3",
+      "collectorNumber": "86",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-86",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-57",
+    "englishName": "Whirlipede",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "57",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/57.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-57",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:57:english:sm3-57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-57",
+      "setId": "sm3",
+      "collectorNumber": "57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-127",
+    "englishName": "Wicke",
+    "category": "Trainer",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "127",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/127.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/127_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-127",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:127:english:sm3-127",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-127",
+      "setId": "sm3",
+      "collectorNumber": "127",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-127",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-147",
+    "englishName": "Wicke",
+    "category": "Trainer",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "147",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/147.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/147_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-147",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:147:english:sm3-147",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-147",
+      "setId": "sm3",
+      "collectorNumber": "147",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-147",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-16",
+    "englishName": "Wimpod",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "16",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/16.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-16",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:16:english:sm3-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-16",
+      "setId": "sm3",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-128",
+    "englishName": "Wishful Baton",
+    "category": "Trainer",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "128",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/128.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/128_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-128",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:128:english:sm3-128",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-128",
+      "setId": "sm3",
+      "collectorNumber": "128",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-128",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-49",
+    "englishName": "Wobbuffet",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "49",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/49.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-49",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:49:english:sm3-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-49",
+      "setId": "sm3",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm3-100",
+    "englishName": "Zygarde",
+    "category": "Pokemon",
+    "setCode": "BUS",
+    "setName": "Burning Shadows",
+    "cardNumber": "100",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm3/100.png",
+    "imageLarge": "https://images.pokemontcg.io/sm3/100_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm3-100",
+    "sourceSetId": "sm3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm3:100:english:sm3-100",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm3-100",
+      "setId": "sm3",
+      "collectorNumber": "100",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm3-100",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

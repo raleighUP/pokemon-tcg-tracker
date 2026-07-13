@@ -1,0 +1,3475 @@
+[
+  {
+    "id": "xy4-65",
+    "englishName": "Aegislash-EX",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "65",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/65.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-65",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:65:english:xy4-65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-65",
+      "setId": "xy4",
+      "collectorNumber": "65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-65a",
+    "englishName": "Aegislash-EX",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "65a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/65a.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/65a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-65a",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:65a:english:xy4-65a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-65a",
+      "setId": "xy4",
+      "collectorNumber": "65a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-65a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-22",
+    "englishName": "Alomomola",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "22",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/22.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-22",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:22:english:xy4-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-22",
+      "setId": "xy4",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-117",
+    "englishName": "AZ",
+    "category": "Trainer",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "117",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/117.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/117_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-117",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:117:english:xy4-117",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-117",
+      "setId": "xy4",
+      "collectorNumber": "117",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-117",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-91",
+    "englishName": "AZ",
+    "category": "Trainer",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "91",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/91.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/91_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-91",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:91:english:xy4-91",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-91",
+      "setId": "xy4",
+      "collectorNumber": "91",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-91",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-92",
+    "englishName": "Battle Compressor Team Flare Gear",
+    "category": "Trainer",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "92",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/92.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/92_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-92",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:92:english:xy4-92",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-92",
+      "setId": "xy4",
+      "collectorNumber": "92",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-92",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-81",
+    "englishName": "Blissey",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "81",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/81.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/81_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-81",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:81:english:xy4-81",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-81",
+      "setId": "xy4",
+      "collectorNumber": "81",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-81",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-49",
+    "englishName": "Boldore",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "49",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/49.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-49",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:49:english:xy4-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-49",
+      "setId": "xy4",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-61",
+    "englishName": "Bronzong",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "61",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/61.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-61",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:61:english:xy4-61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-61",
+      "setId": "xy4",
+      "collectorNumber": "61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-60",
+    "englishName": "Bronzor",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "60",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/60.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-60",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:60:english:xy4-60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-60",
+      "setId": "xy4",
+      "collectorNumber": "60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-87",
+    "englishName": "Bunnelby",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "87",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/87.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/87_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-87",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:87:english:xy4-87",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-87",
+      "setId": "xy4",
+      "collectorNumber": "87",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-87",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-43",
+    "englishName": "Chandelure",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "43",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/43.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-43",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:43:english:xy4-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-43",
+      "setId": "xy4",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-80",
+    "englishName": "Chansey",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "80",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/80.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/80_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-80",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:80:english:xy4-80",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-80",
+      "setId": "xy4",
+      "collectorNumber": "80",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-80",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-33",
+    "englishName": "Crobat",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "33",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/33.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-33",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:33:english:xy4-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-33",
+      "setId": "xy4",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-16",
+    "englishName": "Croconaw",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "16",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/16.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-16",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:16:english:xy4-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-16",
+      "setId": "xy4",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-70",
+    "englishName": "Dedenne",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "70",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/70.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-70",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:70:english:xy4-70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-70",
+      "setId": "xy4",
+      "collectorNumber": "70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-72",
+    "englishName": "Deino",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "72",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/72.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-72",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:72:english:xy4-72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-72",
+      "setId": "xy4",
+      "collectorNumber": "72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-122",
+    "englishName": "Dialga-EX",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "122",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/122.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/122_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-122",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:122:english:xy4-122",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-122",
+      "setId": "xy4",
+      "collectorNumber": "122",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-122",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-62",
+    "englishName": "Dialga-EX",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "62",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/62.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-62",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:62:english:xy4-62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-62",
+      "setId": "xy4",
+      "collectorNumber": "62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-71",
+    "englishName": "Diancie",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "71",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/71.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-71",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:71:english:xy4-71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-71",
+      "setId": "xy4",
+      "collectorNumber": "71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-88",
+    "englishName": "Diggersby",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "88",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/88.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/88_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-88",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:88:english:xy4-88",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-88",
+      "setId": "xy4",
+      "collectorNumber": "88",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-88",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-93",
+    "englishName": "Dimension Valley",
+    "category": "Trainer",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "93",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/93.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/93_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-93",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:93:english:xy4-93",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-93",
+      "setId": "xy4",
+      "collectorNumber": "93",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-93",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-111",
+    "englishName": "Double Colorless Energy",
+    "category": "Energy",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "111",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/111.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/111_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-111",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:111:english:xy4-111",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-111",
+      "setId": "xy4",
+      "collectorNumber": "111",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-111",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-94",
+    "englishName": "Enhanced Hammer",
+    "category": "Trainer",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "94",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/94.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/94_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-94",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:94:english:xy4-94",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-94",
+      "setId": "xy4",
+      "collectorNumber": "94",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-94",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-64",
+    "englishName": "Escavalier",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "64",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/64.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-64",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:64:english:xy4-64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-64",
+      "setId": "xy4",
+      "collectorNumber": "64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-85",
+    "englishName": "Exploud",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "85",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/85.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/85_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-85",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:85:english:xy4-85",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-85",
+      "setId": "xy4",
+      "collectorNumber": "85",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-85",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-79",
+    "englishName": "Fearow",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "79",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/79.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/79_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-79",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:79:english:xy4-79",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-79",
+      "setId": "xy4",
+      "collectorNumber": "79",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-79",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-17",
+    "englishName": "Feraligatr",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "17",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/17.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-17",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:17:english:xy4-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-17",
+      "setId": "xy4",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-18",
+    "englishName": "Finneon",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "18",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/18.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-18",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:18:english:xy4-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-18",
+      "setId": "xy4",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-9",
+    "englishName": "Fletchinder",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "9",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/9.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-9",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:9:english:xy4-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-9",
+      "setId": "xy4",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-89",
+    "englishName": "Fletchling",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "89",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/89.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/89_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-89",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:89:english:xy4-89",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-89",
+      "setId": "xy4",
+      "collectorNumber": "89",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-89",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-116",
+    "englishName": "Florges-EX",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "116",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/116.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/116_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-116",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:116:english:xy4-116",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-116",
+      "setId": "xy4",
+      "collectorNumber": "116",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-116",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-67",
+    "englishName": "Florges-EX",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "67",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/67.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-67",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:67:english:xy4-67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-67",
+      "setId": "xy4",
+      "collectorNumber": "67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-20",
+    "englishName": "Frillish",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "20",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/20.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-20",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:20:english:xy4-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-20",
+      "setId": "xy4",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-90",
+    "englishName": "Furfrou",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "90",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/90.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/90_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-90",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:90:english:xy4-90",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-90",
+      "setId": "xy4",
+      "collectorNumber": "90",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-90",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-27",
+    "englishName": "Galvantula",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "27",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/27.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-27",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:27:english:xy4-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-27",
+      "setId": "xy4",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-95",
+    "englishName": "Gengar Spirit Link",
+    "category": "Trainer",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "95",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/95.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/95_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-95",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:95:english:xy4-95",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-95",
+      "setId": "xy4",
+      "collectorNumber": "95",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-95",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-114",
+    "englishName": "Gengar-EX",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "114",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/114.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/114_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-114",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:114:english:xy4-114",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-114",
+      "setId": "xy4",
+      "collectorNumber": "114",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-114",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-34",
+    "englishName": "Gengar-EX",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "34",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/34.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-34",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:34:english:xy4-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-34",
+      "setId": "xy4",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-50",
+    "englishName": "Gigalith",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "50",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/50.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-50",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:50:english:xy4-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-50",
+      "setId": "xy4",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-82",
+    "englishName": "Girafarig",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "82",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/82.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/82_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-82",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:82:english:xy4-82",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-82",
+      "setId": "xy4",
+      "collectorNumber": "82",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-82",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-46",
+    "englishName": "Gligar",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "46",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/46.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-46",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:46:english:xy4-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-46",
+      "setId": "xy4",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-47",
+    "englishName": "Gliscor",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "47",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/47.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-47",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:47:english:xy4-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-47",
+      "setId": "xy4",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-32",
+    "englishName": "Golbat",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "32",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/32.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-32",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:32:english:xy4-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-32",
+      "setId": "xy4",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-77",
+    "englishName": "Goodra",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "77",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/77.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-77",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:77:english:xy4-77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-77",
+      "setId": "xy4",
+      "collectorNumber": "77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-75",
+    "englishName": "Goomy",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "75",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/75.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-75",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:75:english:xy4-75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-75",
+      "setId": "xy4",
+      "collectorNumber": "75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-45",
+    "englishName": "Gourgeist",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "45",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/45.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-45",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:45:english:xy4-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-45",
+      "setId": "xy4",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-37",
+    "englishName": "Gulpin",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "37",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/37.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-37",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:37:english:xy4-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-37",
+      "setId": "xy4",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-96",
+    "englishName": "Hand Scope",
+    "category": "Trainer",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "96",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/96.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/96_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-96",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:96:english:xy4-96",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-96",
+      "setId": "xy4",
+      "collectorNumber": "96",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-96",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-97",
+    "englishName": "Head Ringer Team Flare Hyper Gear",
+    "category": "Trainer",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "97",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/97.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/97_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-97",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:97:english:xy4-97",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-97",
+      "setId": "xy4",
+      "collectorNumber": "97",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-97",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-63",
+    "englishName": "Heatran",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "63",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/63.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-63",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:63:english:xy4-63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-63",
+      "setId": "xy4",
+      "collectorNumber": "63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-30",
+    "englishName": "Heliolisk",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "30",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/30.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-30",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:30:english:xy4-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-30",
+      "setId": "xy4",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-28",
+    "englishName": "Helioptile",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "28",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/28.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-28",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:28:english:xy4-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-28",
+      "setId": "xy4",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-29",
+    "englishName": "Helioptile",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "29",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/29.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-29",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:29:english:xy4-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-29",
+      "setId": "xy4",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-52",
+    "englishName": "Honchkrow",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "52",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/52.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-52",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:52:english:xy4-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-52",
+      "setId": "xy4",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-74",
+    "englishName": "Hydreigon",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "74",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/74.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-74",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:74:english:xy4-74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-74",
+      "setId": "xy4",
+      "collectorNumber": "74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-98",
+    "englishName": "Jamming Net Team Flare Hyper Gear",
+    "category": "Trainer",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "98",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/98.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/98_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-98",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:98:english:xy4-98",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-98",
+      "setId": "xy4",
+      "collectorNumber": "98",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-98",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-21",
+    "englishName": "Jellicent",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "21",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/21.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-21",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:21:english:xy4-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-21",
+      "setId": "xy4",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-26",
+    "englishName": "Joltik",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "26",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/26.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-26",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:26:english:xy4-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-26",
+      "setId": "xy4",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-8",
+    "englishName": "Karrablast",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "8",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/8.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-8",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:8:english:xy4-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-8",
+      "setId": "xy4",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-14",
+    "englishName": "Kingler",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "14",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/14.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-14",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:14:english:xy4-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-14",
+      "setId": "xy4",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-66",
+    "englishName": "Klefki",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "66",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/66.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-66",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:66:english:xy4-66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-66",
+      "setId": "xy4",
+      "collectorNumber": "66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-13",
+    "englishName": "Krabby",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "13",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/13.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-13",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:13:english:xy4-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-13",
+      "setId": "xy4",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-42",
+    "englishName": "Lampent",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "42",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/42.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-42",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:42:english:xy4-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-42",
+      "setId": "xy4",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-7",
+    "englishName": "Leavanny",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "7",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/7.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-7",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:7:english:xy4-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-7",
+      "setId": "xy4",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-57",
+    "englishName": "Liepard",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "57",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/57.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-57",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:57:english:xy4-57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-57",
+      "setId": "xy4",
+      "collectorNumber": "57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-11",
+    "englishName": "Litleo",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "11",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/11.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-11",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:11:english:xy4-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-11",
+      "setId": "xy4",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-41",
+    "englishName": "Litwick",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "41",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/41.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-41",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:41:english:xy4-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-41",
+      "setId": "xy4",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-84",
+    "englishName": "Loudred",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "84",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/84.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/84_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-84",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:84:english:xy4-84",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-84",
+      "setId": "xy4",
+      "collectorNumber": "84",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-84",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-19",
+    "englishName": "Lumineon",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "19",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/19.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-19",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:19:english:xy4-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-19",
+      "setId": "xy4",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-118",
+    "englishName": "Lysandre's Trump Card",
+    "category": "Trainer",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "118",
+    "legalities": {
+      "expanded": "Banned",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/118.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/118_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-118",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:118:english:xy4-118",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-118",
+      "setId": "xy4",
+      "collectorNumber": "118",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-118",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-99",
+    "englishName": "Lysandre's Trump Card",
+    "category": "Trainer",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "99",
+    "legalities": {
+      "expanded": "Banned",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/99.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/99_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-99",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:99:english:xy4-99",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-99",
+      "setId": "xy4",
+      "collectorNumber": "99",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-99",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-121",
+    "englishName": "M Gengar-EX",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "121",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/121.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/121_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-121",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:121:english:xy4-121",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-121",
+      "setId": "xy4",
+      "collectorNumber": "121",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-121",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-35",
+    "englishName": "M Gengar-EX",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "35",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/35.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-35",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:35:english:xy4-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-35",
+      "setId": "xy4",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-120",
+    "englishName": "M Manectric-EX",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "120",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/120.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/120_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-120",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:120:english:xy4-120",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-120",
+      "setId": "xy4",
+      "collectorNumber": "120",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-120",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-24",
+    "englishName": "M Manectric-EX",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "24",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/24.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-24",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:24:english:xy4-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-24",
+      "setId": "xy4",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-24a",
+    "englishName": "M Manectric-EX",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "24a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/24a.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/24a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-24a",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:24a:english:xy4-24a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-24a",
+      "setId": "xy4",
+      "collectorNumber": "24a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-24a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-115",
+    "englishName": "Malamar-EX",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "115",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/115.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/115_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-115",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:115:english:xy4-115",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-115",
+      "setId": "xy4",
+      "collectorNumber": "115",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-115",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-58",
+    "englishName": "Malamar-EX",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "58",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/58.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-58",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:58:english:xy4-58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-58",
+      "setId": "xy4",
+      "collectorNumber": "58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-100",
+    "englishName": "Manectric Spirit Link",
+    "category": "Trainer",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "100",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/100.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/100_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-100",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:100:english:xy4-100",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-100",
+      "setId": "xy4",
+      "collectorNumber": "100",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-100",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-113",
+    "englishName": "Manectric-EX",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "113",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/113.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/113_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-113",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:113:english:xy4-113",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-113",
+      "setId": "xy4",
+      "collectorNumber": "113",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-113",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-23",
+    "englishName": "Manectric-EX",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "23",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/23.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-23",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:23:english:xy4-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-23",
+      "setId": "xy4",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-54",
+    "englishName": "Mightyena",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "54",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/54.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-54",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:54:english:xy4-54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-54",
+      "setId": "xy4",
+      "collectorNumber": "54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-39",
+    "englishName": "Munna",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "39",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/39.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-39",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:39:english:xy4-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-39",
+      "setId": "xy4",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-51",
+    "englishName": "Murkrow",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "51",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/51.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-51",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:51:english:xy4-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-51",
+      "setId": "xy4",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-40",
+    "englishName": "Musharna",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "40",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/40.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-40",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:40:english:xy4-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-40",
+      "setId": "xy4",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-112",
+    "englishName": "Mystery Energy",
+    "category": "Energy",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "112",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/112.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/112_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-112",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:112:english:xy4-112",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-112",
+      "setId": "xy4",
+      "collectorNumber": "112",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-112",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-25",
+    "englishName": "Pachirisu",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "25",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/25.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-25",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:25:english:xy4-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-25",
+      "setId": "xy4",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-53",
+    "englishName": "Poochyena",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "53",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/53.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-53",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:53:english:xy4-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-53",
+      "setId": "xy4",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-101",
+    "englishName": "Professor Sycamore",
+    "category": "Trainer",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "101",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/101.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/101_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-101",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:101:english:xy4-101",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-101",
+      "setId": "xy4",
+      "collectorNumber": "101",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-101",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-44",
+    "englishName": "Pumpkaboo",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "44",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/44.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-44",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:44:english:xy4-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-44",
+      "setId": "xy4",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-56",
+    "englishName": "Purrloin",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "56",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/56.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-56",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:56:english:xy4-56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-56",
+      "setId": "xy4",
+      "collectorNumber": "56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-12",
+    "englishName": "Pyroar",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "12",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/12.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-12",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:12:english:xy4-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-12",
+      "setId": "xy4",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-86",
+    "englishName": "Regigigas",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "86",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/86.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/86_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-86",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:86:english:xy4-86",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-86",
+      "setId": "xy4",
+      "collectorNumber": "86",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-86",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-102",
+    "englishName": "Robo Substitute Team Flare Gear",
+    "category": "Trainer",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "102",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/102.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/102_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-102",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:102:english:xy4-102",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-102",
+      "setId": "xy4",
+      "collectorNumber": "102",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-102",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-48",
+    "englishName": "Roggenrola",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "48",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/48.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-48",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:48:english:xy4-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-48",
+      "setId": "xy4",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-103",
+    "englishName": "Roller Skates",
+    "category": "Trainer",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "103",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/103.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/103_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-103",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:103:english:xy4-103",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-103",
+      "setId": "xy4",
+      "collectorNumber": "103",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-103",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-5",
+    "englishName": "Sewaddle",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "5",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/5.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-5",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:5:english:xy4-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-5",
+      "setId": "xy4",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-104",
+    "englishName": "Shauna",
+    "category": "Trainer",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "104",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/104.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/104_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-104",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:104:english:xy4-104",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-104",
+      "setId": "xy4",
+      "collectorNumber": "104",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-104",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-59",
+    "englishName": "Skarmory",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "59",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/59.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-59",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:59:english:xy4-59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-59",
+      "setId": "xy4",
+      "collectorNumber": "59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-76",
+    "englishName": "Sliggoo",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "76",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/76.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-76",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:76:english:xy4-76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-76",
+      "setId": "xy4",
+      "collectorNumber": "76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-69",
+    "englishName": "Slurpuff",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "69",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/69.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-69",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:69:english:xy4-69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-69",
+      "setId": "xy4",
+      "collectorNumber": "69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-78",
+    "englishName": "Spearow",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "78",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/78.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-78",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:78:english:xy4-78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-78",
+      "setId": "xy4",
+      "collectorNumber": "78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-55",
+    "englishName": "Spiritomb",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "55",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/55.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-55",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:55:english:xy4-55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-55",
+      "setId": "xy4",
+      "collectorNumber": "55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-105",
+    "englishName": "Steel Shelter",
+    "category": "Trainer",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "105",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/105.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/105_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-105",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:105:english:xy4-105",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-105",
+      "setId": "xy4",
+      "collectorNumber": "105",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-105",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-6",
+    "englishName": "Swadloon",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "6",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/6.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-6",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:6:english:xy4-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-6",
+      "setId": "xy4",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-38",
+    "englishName": "Swalot",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "38",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/38.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-38",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:38:english:xy4-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-38",
+      "setId": "xy4",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-68",
+    "englishName": "Swirlix",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "68",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/68.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-68",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:68:english:xy4-68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-68",
+      "setId": "xy4",
+      "collectorNumber": "68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-10",
+    "englishName": "Talonflame",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "10",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/10.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-10",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:10:english:xy4-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-10",
+      "setId": "xy4",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-106",
+    "englishName": "Target Whistle Team Flare Gear",
+    "category": "Trainer",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "106",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/106.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/106_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-106",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:106:english:xy4-106",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-106",
+      "setId": "xy4",
+      "collectorNumber": "106",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-106",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-107",
+    "englishName": "Tierno",
+    "category": "Trainer",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "107",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/107.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/107_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-107",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:107:english:xy4-107",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-107",
+      "setId": "xy4",
+      "collectorNumber": "107",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-107",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-15",
+    "englishName": "Totodile",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "15",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/15.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-15",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:15:english:xy4-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-15",
+      "setId": "xy4",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-108",
+    "englishName": "Trick Coin",
+    "category": "Trainer",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "108",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/108.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/108_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-108",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:108:english:xy4-108",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-108",
+      "setId": "xy4",
+      "collectorNumber": "108",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-108",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-2",
+    "englishName": "Venomoth",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "2",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/2.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-2",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:2:english:xy4-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-2",
+      "setId": "xy4",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-1",
+    "englishName": "Venonat",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "1",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/1.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-1",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:1:english:xy4-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-1",
+      "setId": "xy4",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-109",
+    "englishName": "VS Seeker",
+    "category": "Trainer",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "109",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/109.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/109_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-109",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:109:english:xy4-109",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-109",
+      "setId": "xy4",
+      "collectorNumber": "109",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-109",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-83",
+    "englishName": "Whismur",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "83",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/83.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/83_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-83",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:83:english:xy4-83",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-83",
+      "setId": "xy4",
+      "collectorNumber": "83",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-83",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-36",
+    "englishName": "Wobbuffet",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "36",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/36.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-36",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:36:english:xy4-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-36",
+      "setId": "xy4",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-110",
+    "englishName": "Xerosic",
+    "category": "Trainer",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "110",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/110.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/110_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-110",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:110:english:xy4-110",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-110",
+      "setId": "xy4",
+      "collectorNumber": "110",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-110",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-119",
+    "englishName": "Xerosic",
+    "category": "Trainer",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "119",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/119.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/119_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-119",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:119:english:xy4-119",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-119",
+      "setId": "xy4",
+      "collectorNumber": "119",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-119",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-3",
+    "englishName": "Yanma",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "3",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/3.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-3",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:3:english:xy4-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-3",
+      "setId": "xy4",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-4",
+    "englishName": "Yanmega",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "4",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/4.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-4",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:4:english:xy4-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-4",
+      "setId": "xy4",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-31",
+    "englishName": "Zubat",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "31",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/31.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-31",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:31:english:xy4-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-31",
+      "setId": "xy4",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy4-73",
+    "englishName": "Zweilous",
+    "category": "Pokemon",
+    "setCode": "PHF",
+    "setName": "Phantom Forces",
+    "cardNumber": "73",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy4/73.png",
+    "imageLarge": "https://images.pokemontcg.io/xy4/73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy4-73",
+    "sourceSetId": "xy4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy4:73:english:xy4-73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy4-73",
+      "setId": "xy4",
+      "collectorNumber": "73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy4-73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

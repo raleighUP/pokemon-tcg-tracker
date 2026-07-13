@@ -1,0 +1,6067 @@
+[
+  {
+    "id": "swsh2-13",
+    "englishName": "Abomasnow",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "13",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/13.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-13",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:13:english:swsh2-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-13",
+      "setId": "swsh2",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-135",
+    "englishName": "Aegislash",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "135",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/135.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/135_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-135",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:135:english:swsh2-135",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-135",
+      "setId": "swsh2",
+      "collectorNumber": "135",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-135",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-87",
+    "englishName": "Alcremie",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "87",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/87.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/87_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-87",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:87:english:swsh2-87",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-87",
+      "setId": "swsh2",
+      "collectorNumber": "87",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-87",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-23",
+    "englishName": "Appletun",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "23",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/23.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-23",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:23:english:swsh2-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-23",
+      "setId": "swsh2",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-20",
+    "englishName": "Applin",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "20",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/20.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-20",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:20:english:swsh2-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-20",
+      "setId": "swsh2",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-21",
+    "englishName": "Applin",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "21",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/21.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-21",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:21:english:swsh2-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-21",
+      "setId": "swsh2",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-28",
+    "englishName": "Arcanine",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "28",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/28.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-28",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:28:english:swsh2-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-28",
+      "setId": "swsh2",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-52",
+    "englishName": "Arrokuda",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "52",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/52.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-52",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:52:english:swsh2-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-52",
+      "setId": "swsh2",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-104",
+    "englishName": "Barbaracle",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "104",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/104.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/104_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-104",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:104:english:swsh2-104",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-104",
+      "setId": "swsh2",
+      "collectorNumber": "104",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-104",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-99",
+    "englishName": "Barboach",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "99",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/99.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/99_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-99",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:99:english:swsh2-99",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-99",
+      "setId": "swsh2",
+      "collectorNumber": "99",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-99",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-53",
+    "englishName": "Barraskewda",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "53",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/53.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-53",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:53:english:swsh2-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-53",
+      "setId": "swsh2",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-150",
+    "englishName": "Bewear",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "150",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/150.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/150_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-150",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:150:english:swsh2-150",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-150",
+      "setId": "swsh2",
+      "collectorNumber": "150",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-150",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-206",
+    "englishName": "Big Charm",
+    "category": "Trainer",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "206",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/206.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/206_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-206",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:206:english:swsh2-206",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-206",
+      "setId": "swsh2",
+      "collectorNumber": "206",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-206",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-103",
+    "englishName": "Binacle",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "103",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/103.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/103_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-103",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:103:english:swsh2-103",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-103",
+      "setId": "swsh2",
+      "collectorNumber": "103",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-103",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-181",
+    "englishName": "Boltund V",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "181",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/181.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/181_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-181",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:181:english:swsh2-181",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-181",
+      "setId": "swsh2",
+      "collectorNumber": "181",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-181",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-67",
+    "englishName": "Boltund V",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "67",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/67.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-67",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:67:english:swsh2-67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-67",
+      "setId": "swsh2",
+      "collectorNumber": "67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-154",
+    "englishName": "Boss's Orders",
+    "category": "Trainer",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "154",
+    "regulationMark": "D",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/154.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/154_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-154",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:154:english:swsh2-154",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-154",
+      "setId": "swsh2",
+      "collectorNumber": "154",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-154",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-189",
+    "englishName": "Boss's Orders",
+    "category": "Trainer",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "189",
+    "regulationMark": "D",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/189.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/189_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-189",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:189:english:swsh2-189",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-189",
+      "setId": "swsh2",
+      "collectorNumber": "189",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-189",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-200",
+    "englishName": "Boss's Orders",
+    "category": "Trainer",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "200",
+    "regulationMark": "D",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/200.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/200_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-200",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:200:english:swsh2-200",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-200",
+      "setId": "swsh2",
+      "collectorNumber": "200",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-200",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-130",
+    "englishName": "Bronzong",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "130",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/130.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/130_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-130",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:130:english:swsh2-130",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-130",
+      "setId": "swsh2",
+      "collectorNumber": "130",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-130",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-129",
+    "englishName": "Bronzor",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "129",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/129.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/129_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-129",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:129:english:swsh2-129",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-129",
+      "setId": "swsh2",
+      "collectorNumber": "129",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-129",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-146",
+    "englishName": "Bunnelby",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "146",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/146.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/146_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-146",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:146:english:swsh2-146",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-146",
+      "setId": "swsh2",
+      "collectorNumber": "146",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-146",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-155",
+    "englishName": "Burning Scarf",
+    "category": "Trainer",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "155",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/155.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/155_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-155",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:155:english:swsh2-155",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-155",
+      "setId": "swsh2",
+      "collectorNumber": "155",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-155",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-3",
+    "englishName": "Butterfree",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "3",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/3.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-3",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:3:english:swsh2-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-3",
+      "setId": "swsh2",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-156",
+    "englishName": "Capacious Bucket",
+    "category": "Trainer",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "156",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/156.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/156_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-156",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:156:english:swsh2-156",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-156",
+      "setId": "swsh2",
+      "collectorNumber": "156",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-156",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-171",
+    "englishName": "Capture Energy",
+    "category": "Energy",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "171",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/171.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/171_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-171",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:171:english:swsh2-171",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-171",
+      "setId": "swsh2",
+      "collectorNumber": "171",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-171",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-106",
+    "englishName": "Carkol",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "106",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/106.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/106_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-106",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:106:english:swsh2-106",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-106",
+      "setId": "swsh2",
+      "collectorNumber": "106",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-106",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-1",
+    "englishName": "Caterpie",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "1",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/1.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-1",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:1:english:swsh2-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-1",
+      "setId": "swsh2",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-33",
+    "englishName": "Chandelure",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "33",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/33.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-33",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:33:english:swsh2-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-33",
+      "setId": "swsh2",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-65",
+    "englishName": "Charjabug",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "65",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/65.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-65",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:65:english:swsh2-65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-65",
+      "setId": "swsh2",
+      "collectorNumber": "65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-142",
+    "englishName": "Chatot",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "142",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/142.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/142_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-142",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:142:english:swsh2-142",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-142",
+      "setId": "swsh2",
+      "collectorNumber": "142",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-142",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-178",
+    "englishName": "Cinderace V",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "178",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/178.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/178_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-178",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:178:english:swsh2-178",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-178",
+      "setId": "swsh2",
+      "collectorNumber": "178",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-178",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-35",
+    "englishName": "Cinderace V",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "35",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/35.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-35",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:35:english:swsh2-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-35",
+      "setId": "swsh2",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-194",
+    "englishName": "Cinderace VMAX",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "194",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/194.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/194_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-194",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:194:english:swsh2-194",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-194",
+      "setId": "swsh2",
+      "collectorNumber": "194",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-194",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-36",
+    "englishName": "Cinderace VMAX",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "36",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/36.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-36",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:36:english:swsh2-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-36",
+      "setId": "swsh2",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-75",
+    "englishName": "Clefable",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "75",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/75.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-75",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:75:english:swsh2-75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-75",
+      "setId": "swsh2",
+      "collectorNumber": "75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-74",
+    "englishName": "Clefairy",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "74",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/74.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-74",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:74:english:swsh2-74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-74",
+      "setId": "swsh2",
+      "collectorNumber": "74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-107",
+    "englishName": "Coalossal",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "107",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/107.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/107_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-107",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:107:english:swsh2-107",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-107",
+      "setId": "swsh2",
+      "collectorNumber": "107",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-107",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-136",
+    "englishName": "Copperajah V",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "136",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/136.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/136_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-136",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:136:english:swsh2-136",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-136",
+      "setId": "swsh2",
+      "collectorNumber": "136",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-136",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-187",
+    "englishName": "Copperajah V",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "187",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/187.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/187_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-187",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:187:english:swsh2-187",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-187",
+      "setId": "swsh2",
+      "collectorNumber": "187",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-187",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-137",
+    "englishName": "Copperajah VMAX",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "137",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/137.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/137_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-137",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:137:english:swsh2-137",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-137",
+      "setId": "swsh2",
+      "collectorNumber": "137",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-137",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-199",
+    "englishName": "Copperajah VMAX",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "199",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/199.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/199_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-199",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:199:english:swsh2-199",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-199",
+      "setId": "swsh2",
+      "collectorNumber": "199",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-199",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-51",
+    "englishName": "Cramorant",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "51",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/51.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-51",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:51:english:swsh2-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-51",
+      "setId": "swsh2",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-157",
+    "englishName": "Cursed Shovel",
+    "category": "Trainer",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "157",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/157.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/157_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-157",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:157:english:swsh2-157",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-157",
+      "setId": "swsh2",
+      "collectorNumber": "157",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-157",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-158",
+    "englishName": "Dan",
+    "category": "Trainer",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "158",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/158.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/158_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-158",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:158:english:swsh2-158",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-158",
+      "setId": "swsh2",
+      "collectorNumber": "158",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-158",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-147",
+    "englishName": "Diggersby",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "147",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/147.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/147_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-147",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:147:english:swsh2-147",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-147",
+      "setId": "swsh2",
+      "collectorNumber": "147",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-147",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-134",
+    "englishName": "Doublade",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "134",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/134.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/134_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-134",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:134:english:swsh2-134",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-134",
+      "setId": "swsh2",
+      "collectorNumber": "134",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-134",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-183",
+    "englishName": "Dragapult V",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "183",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/183.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/183_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-183",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:183:english:swsh2-183",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-183",
+      "setId": "swsh2",
+      "collectorNumber": "183",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-183",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-92",
+    "englishName": "Dragapult V",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "92",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/92.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/92_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-92",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:92:english:swsh2-92",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-92",
+      "setId": "swsh2",
+      "collectorNumber": "92",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-92",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-197",
+    "englishName": "Dragapult VMAX",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "197",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/197.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/197_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-197",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:197:english:swsh2-197",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-197",
+      "setId": "swsh2",
+      "collectorNumber": "197",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-197",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-93",
+    "englishName": "Dragapult VMAX",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "93",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/93.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/93_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-93",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:93:english:swsh2-93",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-93",
+      "setId": "swsh2",
+      "collectorNumber": "93",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-93",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-91",
+    "englishName": "Dragapult",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "91",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/91.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/91_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-91",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:91:english:swsh2-91",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-91",
+      "setId": "swsh2",
+      "collectorNumber": "91",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-91",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-90",
+    "englishName": "Drakloak",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "90",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/90.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/90_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-90",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:90:english:swsh2-90",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-90",
+      "setId": "swsh2",
+      "collectorNumber": "90",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-90",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-89",
+    "englishName": "Dreepy",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "89",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/89.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/89_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-89",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:89:english:swsh2-89",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-89",
+      "setId": "swsh2",
+      "collectorNumber": "89",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-89",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-153",
+    "englishName": "Dubwool V",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "153",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/153.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/153_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-153",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:153:english:swsh2-153",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-153",
+      "setId": "swsh2",
+      "collectorNumber": "153",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-153",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-188",
+    "englishName": "Dubwool V",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "188",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/188.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/188_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-188",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:188:english:swsh2-188",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-188",
+      "setId": "swsh2",
+      "collectorNumber": "188",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-188",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-138",
+    "englishName": "Duraludon",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "138",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/138.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/138_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-138",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:138:english:swsh2-138",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-138",
+      "setId": "swsh2",
+      "collectorNumber": "138",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-138",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-132",
+    "englishName": "Durant",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "132",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/132.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/132_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-132",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:132:english:swsh2-132",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-132",
+      "setId": "swsh2",
+      "collectorNumber": "132",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-132",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-55",
+    "englishName": "Eiscue V",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "55",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/55.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-55",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:55:english:swsh2-55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-55",
+      "setId": "swsh2",
+      "collectorNumber": "55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-54",
+    "englishName": "Eiscue",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "54",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/54.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-54",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:54:english:swsh2-54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-54",
+      "setId": "swsh2",
+      "collectorNumber": "54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-176",
+    "englishName": "Eldegoss V",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "176",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/176.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/176_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-176",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:176:english:swsh2-176",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-176",
+      "setId": "swsh2",
+      "collectorNumber": "176",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-176",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-19",
+    "englishName": "Eldegoss V",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "19",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/19.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-19",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:19:english:swsh2-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-19",
+      "setId": "swsh2",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-58",
+    "englishName": "Electabuzz",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "58",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/58.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-58",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:58:english:swsh2-58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-58",
+      "setId": "swsh2",
+      "collectorNumber": "58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-59",
+    "englishName": "Electivire",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "59",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/59.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-59",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:59:english:swsh2-59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-59",
+      "setId": "swsh2",
+      "collectorNumber": "59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-57",
+    "englishName": "Electrode",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "57",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/57.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-57",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:57:english:swsh2-57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-57",
+      "setId": "swsh2",
+      "collectorNumber": "57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-110",
+    "englishName": "Falinks V",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "110",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/110.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/110_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-110",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:110:english:swsh2-110",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-110",
+      "setId": "swsh2",
+      "collectorNumber": "110",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-110",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-185",
+    "englishName": "Falinks V",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "185",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/185.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/185_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-185",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:185:english:swsh2-185",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-185",
+      "setId": "swsh2",
+      "collectorNumber": "185",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-185",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-109",
+    "englishName": "Falinks",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "109",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/109.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/109_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-109",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:109:english:swsh2-109",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-109",
+      "setId": "swsh2",
+      "collectorNumber": "109",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-109",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-22",
+    "englishName": "Flapple",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "22",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/22.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-22",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:22:english:swsh2-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-22",
+      "setId": "swsh2",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-204",
+    "englishName": "Frosmoth",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "204",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/204.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/204_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-204",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:204:english:swsh2-204",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-204",
+      "setId": "swsh2",
+      "collectorNumber": "204",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-204",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-159",
+    "englishName": "Full Heal",
+    "category": "Trainer",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "159",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/159.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/159_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-159",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:159:english:swsh2-159",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-159",
+      "setId": "swsh2",
+      "collectorNumber": "159",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-159",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-160",
+    "englishName": "Galar Mine",
+    "category": "Trainer",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "160",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/160.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/160_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-160",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:160:english:swsh2-160",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-160",
+      "setId": "swsh2",
+      "collectorNumber": "160",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-160",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-78",
+    "englishName": "Galarian Corsola",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "78",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/78.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-78",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:78:english:swsh2-78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-78",
+      "setId": "swsh2",
+      "collectorNumber": "78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-79",
+    "englishName": "Galarian Cursola",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "79",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/79.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/79_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-79",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:79:english:swsh2-79",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-79",
+      "setId": "swsh2",
+      "collectorNumber": "79",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-79",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-48",
+    "englishName": "Galarian Darmanitan",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "48",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/48.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-48",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:48:english:swsh2-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-48",
+      "setId": "swsh2",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-47",
+    "englishName": "Galarian Darumaka",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "47",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/47.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-47",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:47:english:swsh2-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-47",
+      "setId": "swsh2",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-94",
+    "englishName": "Galarian Farfetch'd",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "94",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/94.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/94_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-94",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:94:english:swsh2-94",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-94",
+      "setId": "swsh2",
+      "collectorNumber": "94",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-94",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-126",
+    "englishName": "Galarian Meowth",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "126",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/126.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/126_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-126",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:126:english:swsh2-126",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-126",
+      "setId": "swsh2",
+      "collectorNumber": "126",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-126",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-37",
+    "englishName": "Galarian Mr. Mime",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "37",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/37.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-37",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:37:english:swsh2-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-37",
+      "setId": "swsh2",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-38",
+    "englishName": "Galarian Mr. Rime",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "38",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/38.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-38",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:38:english:swsh2-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-38",
+      "setId": "swsh2",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-127",
+    "englishName": "Galarian Perrserker",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "127",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/127.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/127_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-127",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:127:english:swsh2-127",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-127",
+      "setId": "swsh2",
+      "collectorNumber": "127",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-127",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-205",
+    "englishName": "Galarian Perrserker",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "205",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/205.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/205_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-205",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:205:english:swsh2-205",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-205",
+      "setId": "swsh2",
+      "collectorNumber": "205",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-205",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-102",
+    "englishName": "Galarian Runerigus",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "102",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/102.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/102_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-102",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:102:english:swsh2-102",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-102",
+      "setId": "swsh2",
+      "collectorNumber": "102",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-102",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-95",
+    "englishName": "Galarian Sirfetch'd",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "95",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/95.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/95_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-95",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:95:english:swsh2-95",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-95",
+      "setId": "swsh2",
+      "collectorNumber": "95",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-95",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-113",
+    "englishName": "Galarian Weezing",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "113",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/113.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/113_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-113",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:113:english:swsh2-113",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-113",
+      "setId": "swsh2",
+      "collectorNumber": "113",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-113",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-101",
+    "englishName": "Galarian Yamask",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "101",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/101.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/101_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-101",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:101:english:swsh2-101",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-101",
+      "setId": "swsh2",
+      "collectorNumber": "101",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-101",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-118",
+    "englishName": "Garbodor",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "118",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/118.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/118_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-118",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:118:english:swsh2-118",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-118",
+      "setId": "swsh2",
+      "collectorNumber": "118",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-118",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-152",
+    "englishName": "Greedent",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "152",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/152.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/152_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-152",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:152:english:swsh2-152",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-152",
+      "setId": "swsh2",
+      "collectorNumber": "152",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-152",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-125",
+    "englishName": "Grimmsnarl",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "125",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/125.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/125_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-125",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:125:english:swsh2-125",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-125",
+      "setId": "swsh2",
+      "collectorNumber": "125",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-125",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-27",
+    "englishName": "Growlithe",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "27",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/27.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-27",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:27:english:swsh2-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-27",
+      "setId": "swsh2",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-16",
+    "englishName": "Grubbin",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "16",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/16.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-16",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:16:english:swsh2-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-16",
+      "setId": "swsh2",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-40",
+    "englishName": "Gyarados",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "40",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/40.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-40",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:40:english:swsh2-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-40",
+      "setId": "swsh2",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-83",
+    "englishName": "Hatenna",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "83",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/83.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/83_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-83",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:83:english:swsh2-83",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-83",
+      "setId": "swsh2",
+      "collectorNumber": "83",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-83",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-85",
+    "englishName": "Hatterene",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "85",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/85.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/85_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-85",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:85:english:swsh2-85",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-85",
+      "setId": "swsh2",
+      "collectorNumber": "85",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-85",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-84",
+    "englishName": "Hattrem",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "84",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/84.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/84_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-84",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:84:english:swsh2-84",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-84",
+      "setId": "swsh2",
+      "collectorNumber": "84",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-84",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-148",
+    "englishName": "Hawlucha",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "148",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/148.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/148_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-148",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:148:english:swsh2-148",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-148",
+      "setId": "swsh2",
+      "collectorNumber": "148",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-148",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-34",
+    "englishName": "Heatmor",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "34",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/34.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-34",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:34:english:swsh2-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-34",
+      "setId": "swsh2",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-64",
+    "englishName": "Heliolisk",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "64",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/64.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-64",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:64:english:swsh2-64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-64",
+      "setId": "swsh2",
+      "collectorNumber": "64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-63",
+    "englishName": "Helioptile",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "63",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/63.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-63",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:63:english:swsh2-63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-63",
+      "setId": "swsh2",
+      "collectorNumber": "63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-6",
+    "englishName": "Heracross",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "6",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/6.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-6",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:6:english:swsh2-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-6",
+      "setId": "swsh2",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-133",
+    "englishName": "Honedge",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "133",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/133.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/133_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-133",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:133:english:swsh2-133",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-133",
+      "setId": "swsh2",
+      "collectorNumber": "133",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-133",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-172",
+    "englishName": "Horror Psychic Energy",
+    "category": "Energy",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "172",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/172.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/172_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-172",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:172:english:swsh2-172",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-172",
+      "setId": "swsh2",
+      "collectorNumber": "172",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-172",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-123",
+    "englishName": "Impidimp",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "123",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/123.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/123_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-123",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:123:english:swsh2-123",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-123",
+      "setId": "swsh2",
+      "collectorNumber": "123",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-123",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-88",
+    "englishName": "Indeedee",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "88",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/88.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/88_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-88",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:88:english:swsh2-88",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-88",
+      "setId": "swsh2",
+      "collectorNumber": "88",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-88",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-180",
+    "englishName": "Inteleon V",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "180",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/180.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/180_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-180",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:180:english:swsh2-180",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-180",
+      "setId": "swsh2",
+      "collectorNumber": "180",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-180",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-49",
+    "englishName": "Inteleon V",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "49",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/49.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-49",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:49:english:swsh2-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-49",
+      "setId": "swsh2",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-195",
+    "englishName": "Inteleon VMAX",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "195",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/195.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/195_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-195",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:195:english:swsh2-195",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-195",
+      "setId": "swsh2",
+      "collectorNumber": "195",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-195",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-50",
+    "englishName": "Inteleon VMAX",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "50",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/50.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-50",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:50:english:swsh2-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-50",
+      "setId": "swsh2",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-112",
+    "englishName": "Koffing",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "112",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/112.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/112_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-112",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:112:english:swsh2-112",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-112",
+      "setId": "swsh2",
+      "collectorNumber": "112",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-112",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-32",
+    "englishName": "Lampent",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "32",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/32.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-32",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:32:english:swsh2-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-32",
+      "setId": "swsh2",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-31",
+    "englishName": "Litwick",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "31",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/31.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-31",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:31:english:swsh2-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-31",
+      "setId": "swsh2",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-8",
+    "englishName": "Lombre",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "8",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/8.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-8",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:8:english:swsh2-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-8",
+      "setId": "swsh2",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-7",
+    "englishName": "Lotad",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "7",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/7.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-7",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:7:english:swsh2-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-7",
+      "setId": "swsh2",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-9",
+    "englishName": "Ludicolo",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "9",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/9.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-9",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:9:english:swsh2-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-9",
+      "setId": "swsh2",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-61",
+    "englishName": "Luxio",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "61",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/61.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-61",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:61:english:swsh2-61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-61",
+      "setId": "swsh2",
+      "collectorNumber": "61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-62",
+    "englishName": "Luxray",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "62",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/62.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-62",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:62:english:swsh2-62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-62",
+      "setId": "swsh2",
+      "collectorNumber": "62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-39",
+    "englishName": "Magikarp",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "39",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/39.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-39",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:39:english:swsh2-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-39",
+      "setId": "swsh2",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-29",
+    "englishName": "Magmar",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "29",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/29.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-29",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:29:english:swsh2-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-29",
+      "setId": "swsh2",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-30",
+    "englishName": "Magmortar",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "30",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/30.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-30",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:30:english:swsh2-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-30",
+      "setId": "swsh2",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-121",
+    "englishName": "Malamar V",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "121",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/121.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/121_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-121",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:121:english:swsh2-121",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-121",
+      "setId": "swsh2",
+      "collectorNumber": "121",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-121",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-186",
+    "englishName": "Malamar V",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "186",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/186.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/186_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-186",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:186:english:swsh2-186",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-186",
+      "setId": "swsh2",
+      "collectorNumber": "186",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-186",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-122",
+    "englishName": "Malamar VMAX",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "122",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/122.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/122_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-122",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:122:english:swsh2-122",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-122",
+      "setId": "swsh2",
+      "collectorNumber": "122",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-122",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-198",
+    "englishName": "Malamar VMAX",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "198",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/198.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/198_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-198",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:198:english:swsh2-198",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-198",
+      "setId": "swsh2",
+      "collectorNumber": "198",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-198",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-120",
+    "englishName": "Mandibuzz",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "120",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/120.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/120_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-120",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:120:english:swsh2-120",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-120",
+      "setId": "swsh2",
+      "collectorNumber": "120",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-120",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-11",
+    "englishName": "Masquerain",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "11",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/11.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-11",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:11:english:swsh2-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-11",
+      "setId": "swsh2",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-98",
+    "englishName": "Medicham",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "98",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/98.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/98_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-98",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:98:english:swsh2-98",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-98",
+      "setId": "swsh2",
+      "collectorNumber": "98",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-98",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-97",
+    "englishName": "Meditite",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "97",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/97.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/97_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-97",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:97:english:swsh2-97",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-97",
+      "setId": "swsh2",
+      "collectorNumber": "97",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-97",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-2",
+    "englishName": "Metapod",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "2",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/2.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-2",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:2:english:swsh2-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-2",
+      "setId": "swsh2",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-86",
+    "englishName": "Milcery",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "86",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/86.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/86_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-86",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:86:english:swsh2-86",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-86",
+      "setId": "swsh2",
+      "collectorNumber": "86",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-86",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-161",
+    "englishName": "Milo",
+    "category": "Trainer",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "161",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/161.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/161_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-161",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:161:english:swsh2-161",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-161",
+      "setId": "swsh2",
+      "collectorNumber": "161",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-161",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-190",
+    "englishName": "Milo",
+    "category": "Trainer",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "190",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/190.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/190_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-190",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:190:english:swsh2-190",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-190",
+      "setId": "swsh2",
+      "collectorNumber": "190",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-190",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-201",
+    "englishName": "Milo",
+    "category": "Trainer",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "201",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/201.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/201_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-201",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:201:english:swsh2-201",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-201",
+      "setId": "swsh2",
+      "collectorNumber": "201",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-201",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-179",
+    "englishName": "Milotic V",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "179",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/179.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/179_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-179",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:179:english:swsh2-179",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-179",
+      "setId": "swsh2",
+      "collectorNumber": "179",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-179",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-43",
+    "englishName": "Milotic V",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "43",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/43.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-43",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:43:english:swsh2-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-43",
+      "setId": "swsh2",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-124",
+    "englishName": "Morgrem",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "124",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/124.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/124_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-124",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:124:english:swsh2-124",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-124",
+      "setId": "swsh2",
+      "collectorNumber": "124",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-124",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-73",
+    "englishName": "Morpeko",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "73",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/73.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-73",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:73:english:swsh2-73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-73",
+      "setId": "swsh2",
+      "collectorNumber": "73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-76",
+    "englishName": "Natu",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "76",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/76.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-76",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:76:english:swsh2-76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-76",
+      "setId": "swsh2",
+      "collectorNumber": "76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-177",
+    "englishName": "Ninetales V",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "177",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/177.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/177_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-177",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:177:english:swsh2-177",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-177",
+      "setId": "swsh2",
+      "collectorNumber": "177",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-177",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-26",
+    "englishName": "Ninetales V",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "26",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/26.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-26",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:26:english:swsh2-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-26",
+      "setId": "swsh2",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-25",
+    "englishName": "Ninetales",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "25",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/25.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-25",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:25:english:swsh2-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-25",
+      "setId": "swsh2",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-96",
+    "englishName": "Nosepass",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "96",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/96.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/96_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-96",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:96:english:swsh2-96",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-96",
+      "setId": "swsh2",
+      "collectorNumber": "96",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-96",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-162",
+    "englishName": "Nugget",
+    "category": "Trainer",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "162",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/162.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/162_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-162",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:162:english:swsh2-162",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-162",
+      "setId": "swsh2",
+      "collectorNumber": "162",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-162",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-163",
+    "englishName": "Oleana",
+    "category": "Trainer",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "163",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/163.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/163_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-163",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:163:english:swsh2-163",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-163",
+      "setId": "swsh2",
+      "collectorNumber": "163",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-163",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-191",
+    "englishName": "Oleana",
+    "category": "Trainer",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "191",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/191.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/191_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-191",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:191:english:swsh2-191",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-191",
+      "setId": "swsh2",
+      "collectorNumber": "191",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-191",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-202",
+    "englishName": "Oleana",
+    "category": "Trainer",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "202",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/202.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/202_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-202",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:202:english:swsh2-202",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-202",
+      "setId": "swsh2",
+      "collectorNumber": "202",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-202",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-82",
+    "englishName": "Palossand",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "82",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/82.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/82_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-82",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:82:english:swsh2-82",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-82",
+      "setId": "swsh2",
+      "collectorNumber": "82",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-82",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-45",
+    "englishName": "Palpitoad",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "45",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/45.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-45",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:45:english:swsh2-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-45",
+      "setId": "swsh2",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-42",
+    "englishName": "Pelipper",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "42",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/42.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-42",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:42:english:swsh2-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-42",
+      "setId": "swsh2",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-14",
+    "englishName": "Phantump",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "14",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/14.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-14",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:14:english:swsh2-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-14",
+      "setId": "swsh2",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-143",
+    "englishName": "Pidove",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "143",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/143.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/143_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-143",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:143:english:swsh2-143",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-143",
+      "setId": "swsh2",
+      "collectorNumber": "143",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-143",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-72",
+    "englishName": "Pincurchin V",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "72",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/72.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-72",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:72:english:swsh2-72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-72",
+      "setId": "swsh2",
+      "collectorNumber": "72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-164",
+    "englishName": "Poké Ball",
+    "category": "Trainer",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "164",
+    "regulationMark": "D",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/164.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/164_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-164",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:164:english:swsh2-164",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-164",
+      "setId": "swsh2",
+      "collectorNumber": "164",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-164",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-131",
+    "englishName": "Probopass",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "131",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/131.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/131_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-131",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:131:english:swsh2-131",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-131",
+      "setId": "swsh2",
+      "collectorNumber": "131",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-131",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-17",
+    "englishName": "Rillaboom V",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "17",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/17.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-17",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:17:english:swsh2-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-17",
+      "setId": "swsh2",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-175",
+    "englishName": "Rillaboom V",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "175",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/175.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/175_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-175",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:175:english:swsh2-175",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-175",
+      "setId": "swsh2",
+      "collectorNumber": "175",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-175",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-18",
+    "englishName": "Rillaboom VMAX",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "18",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/18.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-18",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:18:english:swsh2-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-18",
+      "setId": "swsh2",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-193",
+    "englishName": "Rillaboom VMAX",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "193",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/193.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/193_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-193",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:193:english:swsh2-193",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-193",
+      "setId": "swsh2",
+      "collectorNumber": "193",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-193",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-105",
+    "englishName": "Rolycoly",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "105",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/105.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/105_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-105",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:105:english:swsh2-105",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-105",
+      "setId": "swsh2",
+      "collectorNumber": "105",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-105",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-108",
+    "englishName": "Sandaconda V",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "108",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/108.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/108_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-108",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:108:english:swsh2-108",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-108",
+      "setId": "swsh2",
+      "collectorNumber": "108",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-108",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-184",
+    "englishName": "Sandaconda V",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "184",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/184.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/184_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-184",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:184:english:swsh2-184",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-184",
+      "setId": "swsh2",
+      "collectorNumber": "184",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-184",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-81",
+    "englishName": "Sandygast",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "81",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/81.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/81_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-81",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:81:english:swsh2-81",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-81",
+      "setId": "swsh2",
+      "collectorNumber": "81",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-81",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-128",
+    "englishName": "Scizor",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "128",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/128.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/128_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-128",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:128:english:swsh2-128",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-128",
+      "setId": "swsh2",
+      "collectorNumber": "128",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-128",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-165",
+    "englishName": "Scoop Up Net",
+    "category": "Trainer",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "165",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Banned",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/165.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/165_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-165",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:165:english:swsh2-165",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-165",
+      "setId": "swsh2",
+      "collectorNumber": "165",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-165",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-207",
+    "englishName": "Scoop Up Net",
+    "category": "Trainer",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "207",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Banned",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/207.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/207_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-207",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:207:english:swsh2-207",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-207",
+      "setId": "swsh2",
+      "collectorNumber": "207",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-207",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-4",
+    "englishName": "Scyther",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "4",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/4.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-4",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:4:english:swsh2-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-4",
+      "setId": "swsh2",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-46",
+    "englishName": "Seismitoad",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "46",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/46.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-46",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:46:english:swsh2-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-46",
+      "setId": "swsh2",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-60",
+    "englishName": "Shinx",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "60",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/60.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-60",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:60:english:swsh2-60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-60",
+      "setId": "swsh2",
+      "collectorNumber": "60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-5",
+    "englishName": "Shuckle",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "5",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/5.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-5",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:5:english:swsh2-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-5",
+      "setId": "swsh2",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-80",
+    "englishName": "Sigilyph",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "80",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/80.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/80_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-80",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:80:english:swsh2-80",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-80",
+      "setId": "swsh2",
+      "collectorNumber": "80",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-80",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-115",
+    "englishName": "Skuntank",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "115",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/115.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/115_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-115",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:115:english:swsh2-115",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-115",
+      "setId": "swsh2",
+      "collectorNumber": "115",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-115",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-151",
+    "englishName": "Skwovet",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "151",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/151.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/151_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-151",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:151:english:swsh2-151",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-151",
+      "setId": "swsh2",
+      "collectorNumber": "151",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-151",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-166",
+    "englishName": "Skyla",
+    "category": "Trainer",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "166",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/166.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/166_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-166",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:166:english:swsh2-166",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-166",
+      "setId": "swsh2",
+      "collectorNumber": "166",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-166",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-141",
+    "englishName": "Snorlax",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "141",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/141.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/141_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-141",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:141:english:swsh2-141",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-141",
+      "setId": "swsh2",
+      "collectorNumber": "141",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-141",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-12",
+    "englishName": "Snover",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "12",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/12.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-12",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:12:english:swsh2-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-12",
+      "setId": "swsh2",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-167",
+    "englishName": "Sonia",
+    "category": "Trainer",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "167",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/167.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/167_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-167",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:167:english:swsh2-167",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-167",
+      "setId": "swsh2",
+      "collectorNumber": "167",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-167",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-192",
+    "englishName": "Sonia",
+    "category": "Trainer",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "192",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/192.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/192_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-192",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:192:english:swsh2-192",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-192",
+      "setId": "swsh2",
+      "collectorNumber": "192",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-192",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-203",
+    "englishName": "Sonia",
+    "category": "Trainer",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "203",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/203.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/203_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-203",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:203:english:swsh2-203",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-203",
+      "setId": "swsh2",
+      "collectorNumber": "203",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-203",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-173",
+    "englishName": "Speed Lightning Energy",
+    "category": "Energy",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "173",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/173.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/173_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-173",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:173:english:swsh2-173",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-173",
+      "setId": "swsh2",
+      "collectorNumber": "173",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-173",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-116",
+    "englishName": "Spiritomb",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "116",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/116.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/116_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-116",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:116:english:swsh2-116",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-116",
+      "setId": "swsh2",
+      "collectorNumber": "116",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-116",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-111",
+    "englishName": "Stonjourner",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "111",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/111.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/111_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-111",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:111:english:swsh2-111",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-111",
+      "setId": "swsh2",
+      "collectorNumber": "111",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-111",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-149",
+    "englishName": "Stufful",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "149",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/149.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/149_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-149",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:149:english:swsh2-149",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-149",
+      "setId": "swsh2",
+      "collectorNumber": "149",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-149",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-114",
+    "englishName": "Stunky",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "114",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/114.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/114_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-114",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:114:english:swsh2-114",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-114",
+      "setId": "swsh2",
+      "collectorNumber": "114",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-114",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-10",
+    "englishName": "Surskit",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "10",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/10.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-10",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:10:english:swsh2-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-10",
+      "setId": "swsh2",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-168",
+    "englishName": "Tool Scrapper",
+    "category": "Trainer",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "168",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/168.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/168_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-168",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:168:english:swsh2-168",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-168",
+      "setId": "swsh2",
+      "collectorNumber": "168",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-168",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-208",
+    "englishName": "Tool Scrapper",
+    "category": "Trainer",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "208",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/208.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/208_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-208",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:208:english:swsh2-208",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-208",
+      "setId": "swsh2",
+      "collectorNumber": "208",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-208",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-68",
+    "englishName": "Toxel",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "68",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/68.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-68",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:68:english:swsh2-68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-68",
+      "setId": "swsh2",
+      "collectorNumber": "68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-182",
+    "englishName": "Toxtricity V",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "182",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/182.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/182_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-182",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:182:english:swsh2-182",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-182",
+      "setId": "swsh2",
+      "collectorNumber": "182",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-182",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-70",
+    "englishName": "Toxtricity V",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "70",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/70.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-70",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:70:english:swsh2-70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-70",
+      "setId": "swsh2",
+      "collectorNumber": "70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-196",
+    "englishName": "Toxtricity VMAX",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "196",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/196.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/196_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-196",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:196:english:swsh2-196",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-196",
+      "setId": "swsh2",
+      "collectorNumber": "196",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-196",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-71",
+    "englishName": "Toxtricity VMAX",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "71",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/71.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-71",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:71:english:swsh2-71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-71",
+      "setId": "swsh2",
+      "collectorNumber": "71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-69",
+    "englishName": "Toxtricity",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "69",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/69.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-69",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:69:english:swsh2-69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-69",
+      "setId": "swsh2",
+      "collectorNumber": "69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-169",
+    "englishName": "Training Court",
+    "category": "Trainer",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "169",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/169.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/169_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-169",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:169:english:swsh2-169",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-169",
+      "setId": "swsh2",
+      "collectorNumber": "169",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-169",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-144",
+    "englishName": "Tranquill",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "144",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/144.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/144_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-144",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:144:english:swsh2-144",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-144",
+      "setId": "swsh2",
+      "collectorNumber": "144",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-144",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-15",
+    "englishName": "Trevenant",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "15",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/15.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-15",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:15:english:swsh2-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-15",
+      "setId": "swsh2",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-117",
+    "englishName": "Trubbish",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "117",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/117.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/117_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-117",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:117:english:swsh2-117",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-117",
+      "setId": "swsh2",
+      "collectorNumber": "117",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-117",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-170",
+    "englishName": "Turffield Stadium",
+    "category": "Trainer",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "170",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/170.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/170_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-170",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:170:english:swsh2-170",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-170",
+      "setId": "swsh2",
+      "collectorNumber": "170",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-170",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-174",
+    "englishName": "Twin Energy",
+    "category": "Energy",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "174",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/174.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/174_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-174",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:174:english:swsh2-174",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-174",
+      "setId": "swsh2",
+      "collectorNumber": "174",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-174",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-209",
+    "englishName": "Twin Energy",
+    "category": "Energy",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "209",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/209.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/209_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-209",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:209:english:swsh2-209",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-209",
+      "setId": "swsh2",
+      "collectorNumber": "209",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-209",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-44",
+    "englishName": "Tympole",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "44",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/44.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-44",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:44:english:swsh2-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-44",
+      "setId": "swsh2",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-145",
+    "englishName": "Unfezant",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "145",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/145.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/145_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-145",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:145:english:swsh2-145",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-145",
+      "setId": "swsh2",
+      "collectorNumber": "145",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-145",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-66",
+    "englishName": "Vikavolt",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "66",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/66.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-66",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:66:english:swsh2-66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-66",
+      "setId": "swsh2",
+      "collectorNumber": "66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-56",
+    "englishName": "Voltorb",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "56",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/56.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-56",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:56:english:swsh2-56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-56",
+      "setId": "swsh2",
+      "collectorNumber": "56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-119",
+    "englishName": "Vullaby",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "119",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/119.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/119_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-119",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:119:english:swsh2-119",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-119",
+      "setId": "swsh2",
+      "collectorNumber": "119",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-119",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-24",
+    "englishName": "Vulpix",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "24",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/24.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-24",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:24:english:swsh2-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-24",
+      "setId": "swsh2",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-100",
+    "englishName": "Whiscash",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "100",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/100.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/100_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-100",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:100:english:swsh2-100",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-100",
+      "setId": "swsh2",
+      "collectorNumber": "100",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-100",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-41",
+    "englishName": "Wingull",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "41",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/41.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-41",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:41:english:swsh2-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-41",
+      "setId": "swsh2",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-77",
+    "englishName": "Xatu",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "77",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/77.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-77",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:77:english:swsh2-77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-77",
+      "setId": "swsh2",
+      "collectorNumber": "77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-139",
+    "englishName": "Zacian",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "139",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/139.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/139_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-139",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:139:english:swsh2-139",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-139",
+      "setId": "swsh2",
+      "collectorNumber": "139",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-139",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh2-140",
+    "englishName": "Zamazenta",
+    "category": "Pokemon",
+    "setCode": "RCL",
+    "setName": "Rebel Clash",
+    "cardNumber": "140",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh2/140.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh2/140_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh2-140",
+    "sourceSetId": "swsh2",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh2:140:english:swsh2-140",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh2-140",
+      "setId": "swsh2",
+      "collectorNumber": "140",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh2-140",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

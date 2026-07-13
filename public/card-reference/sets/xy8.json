@@ -1,0 +1,4624 @@
+[
+  {
+    "id": "xy8-40",
+    "englishName": "Abomasnow",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "40",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/40.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-40",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:40:english:xy8-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-40",
+      "setId": "xy8",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-106",
+    "englishName": "Aromatisse",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "106",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/106.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/106_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-106",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:106:english:xy8-106",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-106",
+      "setId": "xy8",
+      "collectorNumber": "106",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-106",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-133",
+    "englishName": "Assault Vest",
+    "category": "Trainer",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "133",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/133.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/133_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-133",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:133:english:xy8-133",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-133",
+      "setId": "xy8",
+      "collectorNumber": "133",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-133",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-108",
+    "englishName": "Axew",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "108",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/108.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/108_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-108",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:108:english:xy8-108",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-108",
+      "setId": "xy8",
+      "collectorNumber": "108",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-108",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-109",
+    "englishName": "Axew",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "109",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/109.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/109_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-109",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:109:english:xy8-109",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-109",
+      "setId": "xy8",
+      "collectorNumber": "109",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-109",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-74",
+    "englishName": "Beheeyem",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "74",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/74.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-74",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:74:english:xy8-74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-74",
+      "setId": "xy8",
+      "collectorNumber": "74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-26",
+    "englishName": "Braixen",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "26",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/26.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-26",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:26:english:xy8-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-26",
+      "setId": "xy8",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-130",
+    "englishName": "Braviary",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "130",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/130.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/130_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-130",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:130:english:xy8-130",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-130",
+      "setId": "xy8",
+      "collectorNumber": "130",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-130",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-134",
+    "englishName": "Brigette",
+    "category": "Trainer",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "134",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/134.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/134_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-134",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:134:english:xy8-134",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-134",
+      "setId": "xy8",
+      "collectorNumber": "134",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-134",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-161",
+    "englishName": "Brigette",
+    "category": "Trainer",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "161",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/161.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/161_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-161",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:161:english:xy8-161",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-161",
+      "setId": "xy8",
+      "collectorNumber": "161",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-161",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-96",
+    "englishName": "Bronzong",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "96",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/96.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/96_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-96",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:96:english:xy8-96",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-96",
+      "setId": "xy8",
+      "collectorNumber": "96",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-96",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-95",
+    "englishName": "Bronzor",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "95",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/95.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/95_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-95",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:95:english:xy8-95",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-95",
+      "setId": "xy8",
+      "collectorNumber": "95",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-95",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-135",
+    "englishName": "Buddy-Buddy Rescue",
+    "category": "Trainer",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "135",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/135.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/135_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-135",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:135:english:xy8-135",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-135",
+      "setId": "xy8",
+      "collectorNumber": "135",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-135",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-151",
+    "englishName": "Burning Energy",
+    "category": "Energy",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "151",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/151.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/151_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-151",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:151:english:xy8-151",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-151",
+      "setId": "xy8",
+      "collectorNumber": "151",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-151",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-4",
+    "englishName": "Cacnea",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "4",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/4.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-4",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:4:english:xy8-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-4",
+      "setId": "xy8",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-88",
+    "englishName": "Cacturne",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "88",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/88.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/88_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-88",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:88:english:xy8-88",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-88",
+      "setId": "xy8",
+      "collectorNumber": "88",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-88",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-128",
+    "englishName": "Chatot",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "128",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/128.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/128_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-128",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:128:english:xy8-128",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-128",
+      "setId": "xy8",
+      "collectorNumber": "128",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-128",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-12",
+    "englishName": "Chesnaught BREAK",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "12",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/12.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-12",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:12:english:xy8-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-12",
+      "setId": "xy8",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-11",
+    "englishName": "Chesnaught",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "11",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/11.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-11",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:11:english:xy8-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-11",
+      "setId": "xy8",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-7",
+    "englishName": "Chespin",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "7",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/7.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-7",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:7:english:xy8-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-7",
+      "setId": "xy8",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-8",
+    "englishName": "Chespin",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "8",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/8.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-8",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:8:english:xy8-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-8",
+      "setId": "xy8",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-9",
+    "englishName": "Chespin",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "9",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/9.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-9",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:9:english:xy8-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-9",
+      "setId": "xy8",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-70",
+    "englishName": "Cresselia",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "70",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/70.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-70",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:70:english:xy8-70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-70",
+      "setId": "xy8",
+      "collectorNumber": "70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-77",
+    "englishName": "Cubone",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "77",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/77.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-77",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:77:english:xy8-77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-77",
+      "setId": "xy8",
+      "collectorNumber": "77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-18",
+    "englishName": "Cyndaquil",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "18",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/18.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-18",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:18:english:xy8-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-18",
+      "setId": "xy8",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-57",
+    "englishName": "Dedenne",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "57",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/57.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-57",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:57:english:xy8-57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-57",
+      "setId": "xy8",
+      "collectorNumber": "57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-117",
+    "englishName": "Dodrio",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "117",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/117.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/117_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-117",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:117:english:xy8-117",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-117",
+      "setId": "xy8",
+      "collectorNumber": "117",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-117",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-115",
+    "englishName": "Doduo",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "115",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/115.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/115_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-115",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:115:english:xy8-115",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-115",
+      "setId": "xy8",
+      "collectorNumber": "115",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-115",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-116",
+    "englishName": "Doduo",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "116",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/116.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/116_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-116",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:116:english:xy8-116",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-116",
+      "setId": "xy8",
+      "collectorNumber": "116",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-116",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-73",
+    "englishName": "Elgyem",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "73",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/73.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-73",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:73:english:xy8-73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-73",
+      "setId": "xy8",
+      "collectorNumber": "73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-38",
+    "englishName": "Empoleon",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "38",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/38.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-38",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:38:english:xy8-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-38",
+      "setId": "xy8",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-25",
+    "englishName": "Fennekin",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "25",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/25.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-25",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:25:english:xy8-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-25",
+      "setId": "xy8",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-136",
+    "englishName": "Fisherman",
+    "category": "Trainer",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "136",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/136.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/136_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-136",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:136:english:xy8-136",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-136",
+      "setId": "xy8",
+      "collectorNumber": "136",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-136",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-101",
+    "englishName": "Flabébé",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "101",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/101.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/101_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-101",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:101:english:xy8-101",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-101",
+      "setId": "xy8",
+      "collectorNumber": "101",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-101",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-137",
+    "englishName": "Float Stone",
+    "category": "Trainer",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "137",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/137.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/137_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-137",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:137:english:xy8-137",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-137",
+      "setId": "xy8",
+      "collectorNumber": "137",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-137",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-102",
+    "englishName": "Floette",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "102",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/102.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/102_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-102",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:102:english:xy8-102",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-102",
+      "setId": "xy8",
+      "collectorNumber": "102",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-102",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-104",
+    "englishName": "Florges BREAK",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "104",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/104.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/104_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-104",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:104:english:xy8-104",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-104",
+      "setId": "xy8",
+      "collectorNumber": "104",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-104",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-103",
+    "englishName": "Florges",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "103",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/103.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/103_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-103",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:103:english:xy8-103",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-103",
+      "setId": "xy8",
+      "collectorNumber": "103",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-103",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-110",
+    "englishName": "Fraxure",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "110",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/110.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/110_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-110",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:110:english:xy8-110",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-110",
+      "setId": "xy8",
+      "collectorNumber": "110",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-110",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-46",
+    "englishName": "Froakie",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "46",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/46.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-46",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:46:english:xy8-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-46",
+      "setId": "xy8",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-47",
+    "englishName": "Frogadier",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "47",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/47.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-47",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:47:english:xy8-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-47",
+      "setId": "xy8",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-84",
+    "englishName": "Gallade",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "84",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/84.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/84_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-84",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:84:english:xy8-84",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-84",
+      "setId": "xy8",
+      "collectorNumber": "84",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-84",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-58",
+    "englishName": "Gastly",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "58",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/58.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-58",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:58:english:xy8-58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-58",
+      "setId": "xy8",
+      "collectorNumber": "58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-60",
+    "englishName": "Gengar",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "60",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/60.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-60",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:60:english:xy8-60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-60",
+      "setId": "xy8",
+      "collectorNumber": "60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-138",
+    "englishName": "Giovanni's Scheme",
+    "category": "Trainer",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "138",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/138.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/138_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-138",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:138:english:xy8-138",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-138",
+      "setId": "xy8",
+      "collectorNumber": "138",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-138",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-162",
+    "englishName": "Giovanni's Scheme",
+    "category": "Trainer",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "162",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/162.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/162_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-162",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:162:english:xy8-162",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-162",
+      "setId": "xy8",
+      "collectorNumber": "162",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-162",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-139",
+    "englishName": "Glalie Spirit Link",
+    "category": "Trainer",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "139",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/139.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/139_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-139",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:139:english:xy8-139",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-139",
+      "setId": "xy8",
+      "collectorNumber": "139",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-139",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-155",
+    "englishName": "Glalie-EX",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "155",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/155.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/155_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-155",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:155:english:xy8-155",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-155",
+      "setId": "xy8",
+      "collectorNumber": "155",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-155",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-34",
+    "englishName": "Glalie-EX",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "34",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/34.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-34",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:34:english:xy8-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-34",
+      "setId": "xy8",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-17",
+    "englishName": "Gogoat",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "17",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/17.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-17",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:17:english:xy8-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-17",
+      "setId": "xy8",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-27",
+    "englishName": "Goldeen",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "27",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/27.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-27",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:27:english:xy8-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-27",
+      "setId": "xy8",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-99",
+    "englishName": "Granbull",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "99",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/99.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/99_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-99",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:99:english:xy8-99",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-99",
+      "setId": "xy8",
+      "collectorNumber": "99",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-99",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-59",
+    "englishName": "Haunter",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "59",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/59.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-59",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:59:english:xy8-59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-59",
+      "setId": "xy8",
+      "collectorNumber": "59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-87",
+    "englishName": "Hawlucha",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "87",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/87.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/87_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-87",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:87:english:xy8-87",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-87",
+      "setId": "xy8",
+      "collectorNumber": "87",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-87",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-111",
+    "englishName": "Haxorus",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "111",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/111.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/111_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-111",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:111:english:xy8-111",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-111",
+      "setId": "xy8",
+      "collectorNumber": "111",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-111",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-140",
+    "englishName": "Heavy Ball",
+    "category": "Trainer",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "140",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/140.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/140_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-140",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:140:english:xy8-140",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-140",
+      "setId": "xy8",
+      "collectorNumber": "140",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-140",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-141",
+    "englishName": "Heavy Boots",
+    "category": "Trainer",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "141",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/141.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/141_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-141",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:141:english:xy8-141",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-141",
+      "setId": "xy8",
+      "collectorNumber": "141",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-141",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-83",
+    "englishName": "Hippopotas",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "83",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/83.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/83_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-83",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:83:english:xy8-83",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-83",
+      "setId": "xy8",
+      "collectorNumber": "83",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-83",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-119",
+    "englishName": "Hoothoot",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "119",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/119.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/119_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-119",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:119:english:xy8-119",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-119",
+      "setId": "xy8",
+      "collectorNumber": "119",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-119",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-142",
+    "englishName": "Houndoom Spirit Link",
+    "category": "Trainer",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "142",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/142.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/142_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-142",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:142:english:xy8-142",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-142",
+      "setId": "xy8",
+      "collectorNumber": "142",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-142",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-153",
+    "englishName": "Houndoom-EX",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "153",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/153.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/153_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-153",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:153:english:xy8-153",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-153",
+      "setId": "xy8",
+      "collectorNumber": "153",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-153",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-21",
+    "englishName": "Houndoom-EX",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "21",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/21.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-21",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:21:english:xy8-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-21",
+      "setId": "xy8",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-93",
+    "englishName": "Inkay",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "93",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/93.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/93_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-93",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:93:english:xy8-93",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-93",
+      "setId": "xy8",
+      "collectorNumber": "93",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-93",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-143",
+    "englishName": "Judge",
+    "category": "Trainer",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "143",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/143.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/143_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-143",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:143:english:xy8-143",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-143",
+      "setId": "xy8",
+      "collectorNumber": "143",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-143",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-69",
+    "englishName": "Kirlia",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "69",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/69.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-69",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:69:english:xy8-69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-69",
+      "setId": "xy8",
+      "collectorNumber": "69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-156",
+    "englishName": "M Glalie-EX",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "156",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/156.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/156_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-156",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:156:english:xy8-156",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-156",
+      "setId": "xy8",
+      "collectorNumber": "156",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-156",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-35",
+    "englishName": "M Glalie-EX",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "35",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/35.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-35",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:35:english:xy8-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-35",
+      "setId": "xy8",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-154",
+    "englishName": "M Houndoom-EX",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "154",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/154.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/154_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-154",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:154:english:xy8-154",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-154",
+      "setId": "xy8",
+      "collectorNumber": "154",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-154",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-22",
+    "englishName": "M Houndoom-EX",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "22",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/22.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-22",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:22:english:xy8-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-22",
+      "setId": "xy8",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-159",
+    "englishName": "M Mewtwo-EX",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "159",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/159.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/159_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-159",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:159:english:xy8-159",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-159",
+      "setId": "xy8",
+      "collectorNumber": "159",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-159",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-160",
+    "englishName": "M Mewtwo-EX",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "160",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/160.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/160_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-160",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:160:english:xy8-160",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-160",
+      "setId": "xy8",
+      "collectorNumber": "160",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-160",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-63",
+    "englishName": "M Mewtwo-EX",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "63",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/63.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-63",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:63:english:xy8-63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-63",
+      "setId": "xy8",
+      "collectorNumber": "63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-64",
+    "englishName": "M Mewtwo-EX",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "64",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/64.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-64",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:64:english:xy8-64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-64",
+      "setId": "xy8",
+      "collectorNumber": "64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-51",
+    "englishName": "Magnemite",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "51",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/51.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-51",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:51:english:xy8-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-51",
+      "setId": "xy8",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-52",
+    "englishName": "Magnemite",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "52",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/52.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-52",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:52:english:xy8-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-52",
+      "setId": "xy8",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-53",
+    "englishName": "Magneton",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "53",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/53.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-53",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:53:english:xy8-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-53",
+      "setId": "xy8",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-54",
+    "englishName": "Magnezone",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "54",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/54.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-54",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:54:english:xy8-54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-54",
+      "setId": "xy8",
+      "collectorNumber": "54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-82",
+    "englishName": "Mamoswine",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "82",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/82.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/82_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-82",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:82:english:xy8-82",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-82",
+      "setId": "xy8",
+      "collectorNumber": "82",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-82",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-79",
+    "englishName": "Marowak BREAK",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "79",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/79.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/79_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-79",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:79:english:xy8-79",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-79",
+      "setId": "xy8",
+      "collectorNumber": "79",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-79",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-78",
+    "englishName": "Marowak",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "78",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/78.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-78",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:78:english:xy8-78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-78",
+      "setId": "xy8",
+      "collectorNumber": "78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-85",
+    "englishName": "Meloetta",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "85",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/85.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/85_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-85",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:85:english:xy8-85",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-85",
+      "setId": "xy8",
+      "collectorNumber": "85",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-85",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-114",
+    "englishName": "Meowth",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "114",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/114.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/114_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-114",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:114:english:xy8-114",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-114",
+      "setId": "xy8",
+      "collectorNumber": "114",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-114",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-144",
+    "englishName": "Mewtwo Spirit Link",
+    "category": "Trainer",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "144",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/144.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/144_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-144",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:144:english:xy8-144",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-144",
+      "setId": "xy8",
+      "collectorNumber": "144",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-144",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-157",
+    "englishName": "Mewtwo-EX",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "157",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/157.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/157_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-157",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:157:english:xy8-157",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-157",
+      "setId": "xy8",
+      "collectorNumber": "157",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-157",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-158",
+    "englishName": "Mewtwo-EX",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "158",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/158.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/158_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-158",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:158:english:xy8-158",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-158",
+      "setId": "xy8",
+      "collectorNumber": "158",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-158",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-163",
+    "englishName": "Mewtwo-EX",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "163",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/163.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/163_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-163",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:163:english:xy8-163",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-163",
+      "setId": "xy8",
+      "collectorNumber": "163",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-163",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-164",
+    "englishName": "Mewtwo-EX",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "164",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/164.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/164_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-164",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:164:english:xy8-164",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-164",
+      "setId": "xy8",
+      "collectorNumber": "164",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-164",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-61",
+    "englishName": "Mewtwo-EX",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "61",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/61.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-61",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:61:english:xy8-61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-61",
+      "setId": "xy8",
+      "collectorNumber": "61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-62",
+    "englishName": "Mewtwo-EX",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "62",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/62.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-62",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:62:english:xy8-62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-62",
+      "setId": "xy8",
+      "collectorNumber": "62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-65",
+    "englishName": "Misdreavus",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "65",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/65.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-65",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:65:english:xy8-65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-65",
+      "setId": "xy8",
+      "collectorNumber": "65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-66",
+    "englishName": "Mismagius",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "66",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/66.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-66",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:66:english:xy8-66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-66",
+      "setId": "xy8",
+      "collectorNumber": "66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-97",
+    "englishName": "Mr. Mime",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "97",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/97.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/97_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-97",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:97:english:xy8-97",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-97",
+      "setId": "xy8",
+      "collectorNumber": "97",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-97",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-120",
+    "englishName": "Noctowl",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "120",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/120.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/120_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-120",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:120:english:xy8-120",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-120",
+      "setId": "xy8",
+      "collectorNumber": "120",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-120",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-131",
+    "englishName": "Noibat",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "131",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/131.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/131_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-131",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:131:english:xy8-131",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-131",
+      "setId": "xy8",
+      "collectorNumber": "131",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-131",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-132",
+    "englishName": "Noibat",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "132",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/132.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/132_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-132",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:132:english:xy8-132",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-132",
+      "setId": "xy8",
+      "collectorNumber": "132",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-132",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-113",
+    "englishName": "Noivern BREAK",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "113",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/113.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/113_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-113",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:113:english:xy8-113",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-113",
+      "setId": "xy8",
+      "collectorNumber": "113",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-113",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-112",
+    "englishName": "Noivern",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "112",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/112.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/112_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-112",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:112:english:xy8-112",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-112",
+      "setId": "xy8",
+      "collectorNumber": "112",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-112",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-33",
+    "englishName": "Octillery",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "33",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/33.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-33",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:33:english:xy8-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-33",
+      "setId": "xy8",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-86",
+    "englishName": "Pancham",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "86",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/86.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/86_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-86",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:86:english:xy8-86",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-86",
+      "setId": "xy8",
+      "collectorNumber": "86",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-86",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-41",
+    "englishName": "Panpour",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "41",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/41.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-41",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:41:english:xy8-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-41",
+      "setId": "xy8",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-5",
+    "englishName": "Pansage",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "5",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/5.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-5",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:5:english:xy8-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-5",
+      "setId": "xy8",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-23",
+    "englishName": "Pansear",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "23",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/23.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-23",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:23:english:xy8-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-23",
+      "setId": "xy8",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-145",
+    "englishName": "Parallel City",
+    "category": "Trainer",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "145",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/145.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/145_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-145",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:145:english:xy8-145",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-145",
+      "setId": "xy8",
+      "collectorNumber": "145",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-145",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-1",
+    "englishName": "Paras",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "1",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/1.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-1",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:1:english:xy8-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-1",
+      "setId": "xy8",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-2",
+    "englishName": "Parasect",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "2",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/2.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-2",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:2:english:xy8-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-2",
+      "setId": "xy8",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-48",
+    "englishName": "Pikachu",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "48",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/48.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-48",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:48:english:xy8-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-48",
+      "setId": "xy8",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-81",
+    "englishName": "Piloswine",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "81",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/81.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/81_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-81",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:81:english:xy8-81",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-81",
+      "setId": "xy8",
+      "collectorNumber": "81",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-81",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-3",
+    "englishName": "Pinsir",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "3",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/3.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-3",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:3:english:xy8-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-3",
+      "setId": "xy8",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-36",
+    "englishName": "Piplup",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "36",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/36.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-36",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:36:english:xy8-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-36",
+      "setId": "xy8",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-37",
+    "englishName": "Prinplup",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "37",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/37.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-37",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:37:english:xy8-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-37",
+      "setId": "xy8",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-146",
+    "englishName": "Professor's Letter",
+    "category": "Trainer",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "146",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/146.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/146_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-146",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:146:english:xy8-146",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-146",
+      "setId": "xy8",
+      "collectorNumber": "146",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-146",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-146a",
+    "englishName": "Professor's Letter",
+    "category": "Trainer",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "146a",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/146a.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/146a_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-146a",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:146a:english:xy8-146a",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-146a",
+      "setId": "xy8",
+      "collectorNumber": "146a",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-146a",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-19",
+    "englishName": "Quilava",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "19",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/19.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-19",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:19:english:xy8-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-19",
+      "setId": "xy8",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-10",
+    "englishName": "Quilladin",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "10",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/10.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-10",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:10:english:xy8-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-10",
+      "setId": "xy8",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-50",
+    "englishName": "Raichu BREAK",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "50",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/50.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-50",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:50:english:xy8-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-50",
+      "setId": "xy8",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-49",
+    "englishName": "Raichu",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "49",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/49.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-49",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:49:english:xy8-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-49",
+      "setId": "xy8",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-55",
+    "englishName": "Raikou",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "55",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/55.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-55",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:55:english:xy8-55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-55",
+      "setId": "xy8",
+      "collectorNumber": "55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-152",
+    "englishName": "Rainbow Energy",
+    "category": "Energy",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "152",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/152.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/152_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-152",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:152:english:xy8-152",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-152",
+      "setId": "xy8",
+      "collectorNumber": "152",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-152",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-100",
+    "englishName": "Ralts",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "100",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/100.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/100_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-100",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:100:english:xy8-100",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-100",
+      "setId": "xy8",
+      "collectorNumber": "100",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-100",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-68",
+    "englishName": "Ralts",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "68",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/68.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-68",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:68:english:xy8-68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-68",
+      "setId": "xy8",
+      "collectorNumber": "68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-31",
+    "englishName": "Remoraid",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "31",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/31.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-31",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:31:english:xy8-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-31",
+      "setId": "xy8",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-32",
+    "englishName": "Remoraid",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "32",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/32.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-32",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:32:english:xy8-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-32",
+      "setId": "xy8",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-147",
+    "englishName": "Reserved Ticket",
+    "category": "Trainer",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "147",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/147.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/147_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-147",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:147:english:xy8-147",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-147",
+      "setId": "xy8",
+      "collectorNumber": "147",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-147",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-129",
+    "englishName": "Rufflet",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "129",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/129.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/129_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-129",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:129:english:xy8-129",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-129",
+      "setId": "xy8",
+      "collectorNumber": "129",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-129",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-75",
+    "englishName": "Sandshrew",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "75",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/75.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-75",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:75:english:xy8-75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-75",
+      "setId": "xy8",
+      "collectorNumber": "75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-76",
+    "englishName": "Sandslash",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "76",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/76.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-76",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:76:english:xy8-76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-76",
+      "setId": "xy8",
+      "collectorNumber": "76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-13",
+    "englishName": "Scatterbug",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "13",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/13.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-13",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:13:english:xy8-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-13",
+      "setId": "xy8",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-28",
+    "englishName": "Seaking",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "28",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/28.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-28",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:28:english:xy8-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-28",
+      "setId": "xy8",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-42",
+    "englishName": "Simipour",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "42",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/42.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-42",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:42:english:xy8-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-42",
+      "setId": "xy8",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-6",
+    "englishName": "Simisage",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "6",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/6.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-6",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:6:english:xy8-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-6",
+      "setId": "xy8",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-24",
+    "englishName": "Simisear",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "24",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/24.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-24",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:24:english:xy8-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-24",
+      "setId": "xy8",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-16",
+    "englishName": "Skiddo",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "16",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/16.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-16",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:16:english:xy8-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-16",
+      "setId": "xy8",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-148",
+    "englishName": "Skyla",
+    "category": "Trainer",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "148",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/148.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/148_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-148",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:148:english:xy8-148",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-148",
+      "setId": "xy8",
+      "collectorNumber": "148",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-148",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-123",
+    "englishName": "Smeargle",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "123",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/123.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/123_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-123",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:123:english:xy8-123",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-123",
+      "setId": "xy8",
+      "collectorNumber": "123",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-123",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-118",
+    "englishName": "Snorlax",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "118",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/118.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/118_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-118",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:118:english:xy8-118",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-118",
+      "setId": "xy8",
+      "collectorNumber": "118",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-118",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-39",
+    "englishName": "Snover",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "39",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/39.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-39",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:39:english:xy8-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-39",
+      "setId": "xy8",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-98",
+    "englishName": "Snubbull",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "98",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/98.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/98_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-98",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:98:english:xy8-98",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-98",
+      "setId": "xy8",
+      "collectorNumber": "98",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-98",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-14",
+    "englishName": "Spewpa",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "14",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/14.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-14",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:14:english:xy8-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-14",
+      "setId": "xy8",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-105",
+    "englishName": "Spritzee",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "105",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/105.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/105_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-105",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:105:english:xy8-105",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-105",
+      "setId": "xy8",
+      "collectorNumber": "105",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-105",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-127",
+    "englishName": "Staraptor",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "127",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/127.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/127_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-127",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:127:english:xy8-127",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-127",
+      "setId": "xy8",
+      "collectorNumber": "127",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-127",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-126",
+    "englishName": "Staravia",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "126",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/126.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/126_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-126",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:126:english:xy8-126",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-126",
+      "setId": "xy8",
+      "collectorNumber": "126",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-126",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-125",
+    "englishName": "Starly",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "125",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/125.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/125_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-125",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:125:english:xy8-125",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-125",
+      "setId": "xy8",
+      "collectorNumber": "125",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-125",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-30",
+    "englishName": "Starmie",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "30",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/30.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-30",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:30:english:xy8-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-30",
+      "setId": "xy8",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-29",
+    "englishName": "Staryu",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "29",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/29.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-29",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:29:english:xy8-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-29",
+      "setId": "xy8",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-56",
+    "englishName": "Stunfisk",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "56",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/56.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-56",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:56:english:xy8-56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-56",
+      "setId": "xy8",
+      "collectorNumber": "56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-149",
+    "englishName": "Super Rod",
+    "category": "Trainer",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "149",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/149.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/149_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-149",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:149:english:xy8-149",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-149",
+      "setId": "xy8",
+      "collectorNumber": "149",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-149",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-124",
+    "englishName": "Swablu",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "124",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/124.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/124_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-124",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:124:english:xy8-124",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-124",
+      "setId": "xy8",
+      "collectorNumber": "124",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-124",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-80",
+    "englishName": "Swinub",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "80",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/80.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/80_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-80",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:80:english:xy8-80",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-80",
+      "setId": "xy8",
+      "collectorNumber": "80",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-80",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-72",
+    "englishName": "Swoobat",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "72",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/72.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-72",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:72:english:xy8-72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-72",
+      "setId": "xy8",
+      "collectorNumber": "72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-121",
+    "englishName": "Teddiursa",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "121",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/121.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/121_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-121",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:121:english:xy8-121",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-121",
+      "setId": "xy8",
+      "collectorNumber": "121",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-121",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-150",
+    "englishName": "Town Map",
+    "category": "Trainer",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "150",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/150.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/150_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-150",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:150:english:xy8-150",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-150",
+      "setId": "xy8",
+      "collectorNumber": "150",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-150",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-20",
+    "englishName": "Typhlosion",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "20",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/20.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-20",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:20:english:xy8-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-20",
+      "setId": "xy8",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-122",
+    "englishName": "Ursaring",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "122",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/122.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/122_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-122",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:122:english:xy8-122",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-122",
+      "setId": "xy8",
+      "collectorNumber": "122",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-122",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-44",
+    "englishName": "Vanillish",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "44",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/44.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-44",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:44:english:xy8-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-44",
+      "setId": "xy8",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-43",
+    "englishName": "Vanillite",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "43",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/43.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-43",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:43:english:xy8-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-43",
+      "setId": "xy8",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-45",
+    "englishName": "Vanilluxe",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "45",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/45.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-45",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:45:english:xy8-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-45",
+      "setId": "xy8",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-15",
+    "englishName": "Vivillon",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "15",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/15.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-15",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:15:english:xy8-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-15",
+      "setId": "xy8",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-67",
+    "englishName": "Wobbuffet",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "67",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/67.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-67",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:67:english:xy8-67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-67",
+      "setId": "xy8",
+      "collectorNumber": "67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-71",
+    "englishName": "Woobat",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "71",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/71.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-71",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:71:english:xy8-71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-71",
+      "setId": "xy8",
+      "collectorNumber": "71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-107",
+    "englishName": "Xerneas",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "107",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/107.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/107_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-107",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:107:english:xy8-107",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-107",
+      "setId": "xy8",
+      "collectorNumber": "107",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-107",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-94",
+    "englishName": "Yveltal",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "94",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/94.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/94_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-94",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:94:english:xy8-94",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-94",
+      "setId": "xy8",
+      "collectorNumber": "94",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-94",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-92",
+    "englishName": "Zoroark BREAK",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "92",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/92.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/92_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-92",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:92:english:xy8-92",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-92",
+      "setId": "xy8",
+      "collectorNumber": "92",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-92",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-91",
+    "englishName": "Zoroark",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "91",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/91.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/91_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-91",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:91:english:xy8-91",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-91",
+      "setId": "xy8",
+      "collectorNumber": "91",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-91",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-89",
+    "englishName": "Zorua",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "89",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/89.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/89_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-89",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:89:english:xy8-89",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-89",
+      "setId": "xy8",
+      "collectorNumber": "89",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-89",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "xy8-90",
+    "englishName": "Zorua",
+    "category": "Pokemon",
+    "setCode": "BKT",
+    "setName": "BREAKthrough",
+    "cardNumber": "90",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/xy8/90.png",
+    "imageLarge": "https://images.pokemontcg.io/xy8/90_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "xy8-90",
+    "sourceSetId": "xy8",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:xy8:90:english:xy8-90",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "xy8-90",
+      "setId": "xy8",
+      "collectorNumber": "90",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "xy8-90",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

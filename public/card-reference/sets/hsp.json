@@ -1,0 +1,677 @@
+[
+  {
+    "id": "hsp-HGSS12",
+    "englishName": "Cleffa",
+    "category": "Pokemon",
+    "setCode": "PR-HS",
+    "setName": "HGSS Black Star Promos",
+    "cardNumber": "HGSS12",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hsp/HGSS12.png",
+    "imageLarge": "https://images.pokemontcg.io/hsp/HGSS12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hsp-HGSS12",
+    "sourceSetId": "hsp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hsp:HGSS12:english:hsp-HGSS12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hsp-HGSS12",
+      "setId": "hsp",
+      "collectorNumber": "HGSS12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hsp-HGSS12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hsp-HGSS20",
+    "englishName": "Entei",
+    "category": "Pokemon",
+    "setCode": "PR-HS",
+    "setName": "HGSS Black Star Promos",
+    "cardNumber": "HGSS20",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hsp/HGSS20.png",
+    "imageLarge": "https://images.pokemontcg.io/hsp/HGSS20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hsp-HGSS20",
+    "sourceSetId": "hsp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hsp:HGSS20:english:hsp-HGSS20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hsp-HGSS20",
+      "setId": "hsp",
+      "collectorNumber": "HGSS20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hsp-HGSS20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hsp-HGSS07",
+    "englishName": "Feraligatr",
+    "category": "Pokemon",
+    "setCode": "PR-HS",
+    "setName": "HGSS Black Star Promos",
+    "cardNumber": "HGSS07",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hsp/HGSS07.png",
+    "imageLarge": "https://images.pokemontcg.io/hsp/HGSS07_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hsp-HGSS07",
+    "sourceSetId": "hsp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hsp:HGSS07:english:hsp-HGSS07",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hsp-HGSS07",
+      "setId": "hsp",
+      "collectorNumber": "HGSS07",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hsp-HGSS07",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hsp-HGSS24",
+    "englishName": "Hitmonchan",
+    "category": "Pokemon",
+    "setCode": "PR-HS",
+    "setName": "HGSS Black Star Promos",
+    "cardNumber": "HGSS24",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hsp/HGSS24.png",
+    "imageLarge": "https://images.pokemontcg.io/hsp/HGSS24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hsp-HGSS24",
+    "sourceSetId": "hsp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hsp:HGSS24:english:hsp-HGSS24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hsp-HGSS24",
+      "setId": "hsp",
+      "collectorNumber": "HGSS24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hsp-HGSS24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hsp-HGSS25",
+    "englishName": "Hitmonlee",
+    "category": "Pokemon",
+    "setCode": "PR-HS",
+    "setName": "HGSS Black Star Promos",
+    "cardNumber": "HGSS25",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hsp/HGSS25.png",
+    "imageLarge": "https://images.pokemontcg.io/hsp/HGSS25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hsp-HGSS25",
+    "sourceSetId": "hsp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hsp:HGSS25:english:hsp-HGSS25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hsp-HGSS25",
+      "setId": "hsp",
+      "collectorNumber": "HGSS25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hsp-HGSS25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hsp-HGSS01",
+    "englishName": "Ho-Oh",
+    "category": "Pokemon",
+    "setCode": "PR-HS",
+    "setName": "HGSS Black Star Promos",
+    "cardNumber": "HGSS01",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hsp/HGSS01.png",
+    "imageLarge": "https://images.pokemontcg.io/hsp/HGSS01_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hsp-HGSS01",
+    "sourceSetId": "hsp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hsp:HGSS01:english:hsp-HGSS01",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hsp-HGSS01",
+      "setId": "hsp",
+      "collectorNumber": "HGSS01",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hsp-HGSS01",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hsp-HGSS05",
+    "englishName": "Hoothoot",
+    "category": "Pokemon",
+    "setCode": "PR-HS",
+    "setName": "HGSS Black Star Promos",
+    "cardNumber": "HGSS05",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hsp/HGSS05.png",
+    "imageLarge": "https://images.pokemontcg.io/hsp/HGSS05_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hsp-HGSS05",
+    "sourceSetId": "hsp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hsp:HGSS05:english:hsp-HGSS05",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hsp-HGSS05",
+      "setId": "hsp",
+      "collectorNumber": "HGSS05",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hsp-HGSS05",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hsp-HGSS14",
+    "englishName": "Lapras",
+    "category": "Pokemon",
+    "setCode": "PR-HS",
+    "setName": "HGSS Black Star Promos",
+    "cardNumber": "HGSS14",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hsp/HGSS14.png",
+    "imageLarge": "https://images.pokemontcg.io/hsp/HGSS14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hsp-HGSS14",
+    "sourceSetId": "hsp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hsp:HGSS14:english:hsp-HGSS14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hsp-HGSS14",
+      "setId": "hsp",
+      "collectorNumber": "HGSS14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hsp-HGSS14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hsp-HGSS10",
+    "englishName": "Latias",
+    "category": "Pokemon",
+    "setCode": "PR-HS",
+    "setName": "HGSS Black Star Promos",
+    "cardNumber": "HGSS10",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hsp/HGSS10.png",
+    "imageLarge": "https://images.pokemontcg.io/hsp/HGSS10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hsp-HGSS10",
+    "sourceSetId": "hsp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hsp:HGSS10:english:hsp-HGSS10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hsp-HGSS10",
+      "setId": "hsp",
+      "collectorNumber": "HGSS10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hsp-HGSS10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hsp-HGSS11",
+    "englishName": "Latios",
+    "category": "Pokemon",
+    "setCode": "PR-HS",
+    "setName": "HGSS Black Star Promos",
+    "cardNumber": "HGSS11",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hsp/HGSS11.png",
+    "imageLarge": "https://images.pokemontcg.io/hsp/HGSS11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hsp-HGSS11",
+    "sourceSetId": "hsp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hsp:HGSS11:english:hsp-HGSS11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hsp-HGSS11",
+      "setId": "hsp",
+      "collectorNumber": "HGSS11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hsp-HGSS11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hsp-HGSS02",
+    "englishName": "Lugia",
+    "category": "Pokemon",
+    "setCode": "PR-HS",
+    "setName": "HGSS Black Star Promos",
+    "cardNumber": "HGSS02",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hsp/HGSS02.png",
+    "imageLarge": "https://images.pokemontcg.io/hsp/HGSS02_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hsp-HGSS02",
+    "sourceSetId": "hsp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hsp:HGSS02:english:hsp-HGSS02",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hsp-HGSS02",
+      "setId": "hsp",
+      "collectorNumber": "HGSS02",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hsp-HGSS02",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hsp-HGSS08",
+    "englishName": "Meganium",
+    "category": "Pokemon",
+    "setCode": "PR-HS",
+    "setName": "HGSS Black Star Promos",
+    "cardNumber": "HGSS08",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hsp/HGSS08.png",
+    "imageLarge": "https://images.pokemontcg.io/hsp/HGSS08_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hsp-HGSS08",
+    "sourceSetId": "hsp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hsp:HGSS08:english:hsp-HGSS08",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hsp-HGSS08",
+      "setId": "hsp",
+      "collectorNumber": "HGSS08",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hsp-HGSS08",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hsp-HGSS17",
+    "englishName": "Minun",
+    "category": "Pokemon",
+    "setCode": "PR-HS",
+    "setName": "HGSS Black Star Promos",
+    "cardNumber": "HGSS17",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hsp/HGSS17.png",
+    "imageLarge": "https://images.pokemontcg.io/hsp/HGSS17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hsp-HGSS17",
+    "sourceSetId": "hsp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hsp:HGSS17:english:hsp-HGSS17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hsp-HGSS17",
+      "setId": "hsp",
+      "collectorNumber": "HGSS17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hsp-HGSS17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hsp-HGSS06",
+    "englishName": "Noctowl",
+    "category": "Pokemon",
+    "setCode": "PR-HS",
+    "setName": "HGSS Black Star Promos",
+    "cardNumber": "HGSS06",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hsp/HGSS06.png",
+    "imageLarge": "https://images.pokemontcg.io/hsp/HGSS06_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hsp-HGSS06",
+    "sourceSetId": "hsp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hsp:HGSS06:english:hsp-HGSS06",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hsp-HGSS06",
+      "setId": "hsp",
+      "collectorNumber": "HGSS06",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hsp-HGSS06",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hsp-HGSS03",
+    "englishName": "Pikachu",
+    "category": "Pokemon",
+    "setCode": "PR-HS",
+    "setName": "HGSS Black Star Promos",
+    "cardNumber": "HGSS03",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hsp/HGSS03.png",
+    "imageLarge": "https://images.pokemontcg.io/hsp/HGSS03_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hsp-HGSS03",
+    "sourceSetId": "hsp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hsp:HGSS03:english:hsp-HGSS03",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hsp-HGSS03",
+      "setId": "hsp",
+      "collectorNumber": "HGSS03",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hsp-HGSS03",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hsp-HGSS16",
+    "englishName": "Plusle",
+    "category": "Pokemon",
+    "setCode": "PR-HS",
+    "setName": "HGSS Black Star Promos",
+    "cardNumber": "HGSS16",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hsp/HGSS16.png",
+    "imageLarge": "https://images.pokemontcg.io/hsp/HGSS16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hsp-HGSS16",
+    "sourceSetId": "hsp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hsp:HGSS16:english:hsp-HGSS16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hsp-HGSS16",
+      "setId": "hsp",
+      "collectorNumber": "HGSS16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hsp-HGSS16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hsp-HGSS22",
+    "englishName": "Porygon",
+    "category": "Pokemon",
+    "setCode": "PR-HS",
+    "setName": "HGSS Black Star Promos",
+    "cardNumber": "HGSS22",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hsp/HGSS22.png",
+    "imageLarge": "https://images.pokemontcg.io/hsp/HGSS22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hsp-HGSS22",
+    "sourceSetId": "hsp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hsp:HGSS22:english:hsp-HGSS22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hsp-HGSS22",
+      "setId": "hsp",
+      "collectorNumber": "HGSS22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hsp-HGSS22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hsp-HGSS23",
+    "englishName": "Porygon2",
+    "category": "Pokemon",
+    "setCode": "PR-HS",
+    "setName": "HGSS Black Star Promos",
+    "cardNumber": "HGSS23",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hsp/HGSS23.png",
+    "imageLarge": "https://images.pokemontcg.io/hsp/HGSS23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hsp-HGSS23",
+    "sourceSetId": "hsp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hsp:HGSS23:english:hsp-HGSS23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hsp-HGSS23",
+      "setId": "hsp",
+      "collectorNumber": "HGSS23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hsp-HGSS23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hsp-HGSS19",
+    "englishName": "Raikou",
+    "category": "Pokemon",
+    "setCode": "PR-HS",
+    "setName": "HGSS Black Star Promos",
+    "cardNumber": "HGSS19",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hsp/HGSS19.png",
+    "imageLarge": "https://images.pokemontcg.io/hsp/HGSS19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hsp-HGSS19",
+    "sourceSetId": "hsp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hsp:HGSS19:english:hsp-HGSS19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hsp-HGSS19",
+      "setId": "hsp",
+      "collectorNumber": "HGSS19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hsp-HGSS19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hsp-HGSS15",
+    "englishName": "Shuckle",
+    "category": "Pokemon",
+    "setCode": "PR-HS",
+    "setName": "HGSS Black Star Promos",
+    "cardNumber": "HGSS15",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hsp/HGSS15.png",
+    "imageLarge": "https://images.pokemontcg.io/hsp/HGSS15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hsp-HGSS15",
+    "sourceSetId": "hsp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hsp:HGSS15:english:hsp-HGSS15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hsp-HGSS15",
+      "setId": "hsp",
+      "collectorNumber": "HGSS15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hsp-HGSS15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hsp-HGSS13",
+    "englishName": "Smoochum",
+    "category": "Pokemon",
+    "setCode": "PR-HS",
+    "setName": "HGSS Black Star Promos",
+    "cardNumber": "HGSS13",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hsp/HGSS13.png",
+    "imageLarge": "https://images.pokemontcg.io/hsp/HGSS13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hsp-HGSS13",
+    "sourceSetId": "hsp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hsp:HGSS13:english:hsp-HGSS13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hsp-HGSS13",
+      "setId": "hsp",
+      "collectorNumber": "HGSS13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hsp-HGSS13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hsp-HGSS21",
+    "englishName": "Suicune",
+    "category": "Pokemon",
+    "setCode": "PR-HS",
+    "setName": "HGSS Black Star Promos",
+    "cardNumber": "HGSS21",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hsp/HGSS21.png",
+    "imageLarge": "https://images.pokemontcg.io/hsp/HGSS21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hsp-HGSS21",
+    "sourceSetId": "hsp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hsp:HGSS21:english:hsp-HGSS21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hsp-HGSS21",
+      "setId": "hsp",
+      "collectorNumber": "HGSS21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hsp-HGSS21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hsp-HGSS18",
+    "englishName": "Tropical Tidal Wave",
+    "category": "Trainer",
+    "setCode": "PR-HS",
+    "setName": "HGSS Black Star Promos",
+    "cardNumber": "HGSS18",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hsp/HGSS18.png",
+    "imageLarge": "https://images.pokemontcg.io/hsp/HGSS18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hsp-HGSS18",
+    "sourceSetId": "hsp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hsp:HGSS18:english:hsp-HGSS18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hsp-HGSS18",
+      "setId": "hsp",
+      "collectorNumber": "HGSS18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hsp-HGSS18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hsp-HGSS09",
+    "englishName": "Typhlosion",
+    "category": "Pokemon",
+    "setCode": "PR-HS",
+    "setName": "HGSS Black Star Promos",
+    "cardNumber": "HGSS09",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hsp/HGSS09.png",
+    "imageLarge": "https://images.pokemontcg.io/hsp/HGSS09_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hsp-HGSS09",
+    "sourceSetId": "hsp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hsp:HGSS09:english:hsp-HGSS09",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hsp-HGSS09",
+      "setId": "hsp",
+      "collectorNumber": "HGSS09",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hsp-HGSS09",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "hsp-HGSS04",
+    "englishName": "Wobbuffet",
+    "category": "Pokemon",
+    "setCode": "PR-HS",
+    "setName": "HGSS Black Star Promos",
+    "cardNumber": "HGSS04",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/hsp/HGSS04.png",
+    "imageLarge": "https://images.pokemontcg.io/hsp/HGSS04_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "hsp-HGSS04",
+    "sourceSetId": "hsp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:hsp:HGSS04:english:hsp-HGSS04",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "hsp-HGSS04",
+      "setId": "hsp",
+      "collectorNumber": "HGSS04",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "hsp-HGSS04",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

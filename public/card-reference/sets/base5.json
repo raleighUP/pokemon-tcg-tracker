@@ -1,0 +1,2243 @@
+[
+  {
+    "id": "base5-49",
+    "englishName": "Abra",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "49",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/49.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-49",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:49:english:base5-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-49",
+      "setId": "base5",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-74",
+    "englishName": "Challenge!",
+    "category": "Trainer",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "74",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/74.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-74",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:74:english:base5-74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-74",
+      "setId": "base5",
+      "collectorNumber": "74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-50",
+    "englishName": "Charmander",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "50",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/50.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-50",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:50:english:base5-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-50",
+      "setId": "base5",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-1",
+    "englishName": "Dark Alakazam",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "1",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/1.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-1",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:1:english:base5-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-1",
+      "setId": "base5",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-18",
+    "englishName": "Dark Alakazam",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "18",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/18.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-18",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:18:english:base5-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-18",
+      "setId": "base5",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-19",
+    "englishName": "Dark Arbok",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "19",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/19.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-19",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:19:english:base5-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-19",
+      "setId": "base5",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-2",
+    "englishName": "Dark Arbok",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "2",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/2.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-2",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:2:english:base5-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-2",
+      "setId": "base5",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-20",
+    "englishName": "Dark Blastoise",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "20",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/20.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-20",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:20:english:base5-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-20",
+      "setId": "base5",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-3",
+    "englishName": "Dark Blastoise",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "3",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/3.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-3",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:3:english:base5-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-3",
+      "setId": "base5",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-21",
+    "englishName": "Dark Charizard",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "21",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/21.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-21",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:21:english:base5-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-21",
+      "setId": "base5",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-4",
+    "englishName": "Dark Charizard",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "4",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/4.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-4",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:4:english:base5-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-4",
+      "setId": "base5",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-32",
+    "englishName": "Dark Charmeleon",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "32",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/32.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-32",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:32:english:base5-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-32",
+      "setId": "base5",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-33",
+    "englishName": "Dark Dragonair",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "33",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/33.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-33",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:33:english:base5-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-33",
+      "setId": "base5",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-22",
+    "englishName": "Dark Dragonite",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "22",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/22.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-22",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:22:english:base5-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-22",
+      "setId": "base5",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-5",
+    "englishName": "Dark Dragonite",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "5",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/5.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-5",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:5:english:base5-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-5",
+      "setId": "base5",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-23",
+    "englishName": "Dark Dugtrio",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "23",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/23.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-23",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:23:english:base5-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-23",
+      "setId": "base5",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-6",
+    "englishName": "Dark Dugtrio",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "6",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/6.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-6",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:6:english:base5-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-6",
+      "setId": "base5",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-34",
+    "englishName": "Dark Electrode",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "34",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/34.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-34",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:34:english:base5-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-34",
+      "setId": "base5",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-35",
+    "englishName": "Dark Flareon",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "35",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/35.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-35",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:35:english:base5-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-35",
+      "setId": "base5",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-36",
+    "englishName": "Dark Gloom",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "36",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/36.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-36",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:36:english:base5-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-36",
+      "setId": "base5",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-24",
+    "englishName": "Dark Golbat",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "24",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/24.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-24",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:24:english:base5-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-24",
+      "setId": "base5",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-7",
+    "englishName": "Dark Golbat",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "7",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/7.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-7",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:7:english:base5-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-7",
+      "setId": "base5",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-37",
+    "englishName": "Dark Golduck",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "37",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/37.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-37",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:37:english:base5-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-37",
+      "setId": "base5",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-25",
+    "englishName": "Dark Gyarados",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "25",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/25.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-25",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:25:english:base5-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-25",
+      "setId": "base5",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-8",
+    "englishName": "Dark Gyarados",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "8",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/8.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-8",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:8:english:base5-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-8",
+      "setId": "base5",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-26",
+    "englishName": "Dark Hypno",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "26",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/26.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-26",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:26:english:base5-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-26",
+      "setId": "base5",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-9",
+    "englishName": "Dark Hypno",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "9",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/9.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-9",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:9:english:base5-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-9",
+      "setId": "base5",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-38",
+    "englishName": "Dark Jolteon",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "38",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/38.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-38",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:38:english:base5-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-38",
+      "setId": "base5",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-39",
+    "englishName": "Dark Kadabra",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "39",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/39.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-39",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:39:english:base5-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-39",
+      "setId": "base5",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-10",
+    "englishName": "Dark Machamp",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "10",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/10.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-10",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:10:english:base5-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-10",
+      "setId": "base5",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-27",
+    "englishName": "Dark Machamp",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "27",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/27.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-27",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:27:english:base5-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-27",
+      "setId": "base5",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-40",
+    "englishName": "Dark Machoke",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "40",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/40.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-40",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:40:english:base5-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-40",
+      "setId": "base5",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-11",
+    "englishName": "Dark Magneton",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "11",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/11.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-11",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:11:english:base5-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-11",
+      "setId": "base5",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-28",
+    "englishName": "Dark Magneton",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "28",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/28.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-28",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:28:english:base5-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-28",
+      "setId": "base5",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-41",
+    "englishName": "Dark Muk",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "41",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/41.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-41",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:41:english:base5-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-41",
+      "setId": "base5",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-42",
+    "englishName": "Dark Persian",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "42",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/42.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-42",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:42:english:base5-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-42",
+      "setId": "base5",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-43",
+    "englishName": "Dark Primeape",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "43",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/43.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-43",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:43:english:base5-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-43",
+      "setId": "base5",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-83",
+    "englishName": "Dark Raichu",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "83",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/83.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/83_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-83",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:83:english:base5-83",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-83",
+      "setId": "base5",
+      "collectorNumber": "83",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-83",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-44",
+    "englishName": "Dark Rapidash",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "44",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/44.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-44",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:44:english:base5-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-44",
+      "setId": "base5",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-51",
+    "englishName": "Dark Raticate",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "51",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/51.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-51",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:51:english:base5-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-51",
+      "setId": "base5",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-12",
+    "englishName": "Dark Slowbro",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "12",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/12.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-12",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:12:english:base5-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-12",
+      "setId": "base5",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-29",
+    "englishName": "Dark Slowbro",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "29",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/29.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-29",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:29:english:base5-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-29",
+      "setId": "base5",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-45",
+    "englishName": "Dark Vaporeon",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "45",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/45.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-45",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:45:english:base5-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-45",
+      "setId": "base5",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-13",
+    "englishName": "Dark Vileplume",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "13",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/13.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-13",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:13:english:base5-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-13",
+      "setId": "base5",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-30",
+    "englishName": "Dark Vileplume",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "30",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/30.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-30",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:30:english:base5-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-30",
+      "setId": "base5",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-46",
+    "englishName": "Dark Wartortle",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "46",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/46.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-46",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:46:english:base5-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-46",
+      "setId": "base5",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-14",
+    "englishName": "Dark Weezing",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "14",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/14.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-14",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:14:english:base5-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-14",
+      "setId": "base5",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-31",
+    "englishName": "Dark Weezing",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "31",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/31.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-31",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:31:english:base5-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-31",
+      "setId": "base5",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-75",
+    "englishName": "Digger",
+    "category": "Trainer",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "75",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/75.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-75",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:75:english:base5-75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-75",
+      "setId": "base5",
+      "collectorNumber": "75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-52",
+    "englishName": "Diglett",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "52",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/52.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-52",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:52:english:base5-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-52",
+      "setId": "base5",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-53",
+    "englishName": "Dratini",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "53",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/53.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-53",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:53:english:base5-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-53",
+      "setId": "base5",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-54",
+    "englishName": "Drowzee",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "54",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/54.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-54",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:54:english:base5-54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-54",
+      "setId": "base5",
+      "collectorNumber": "54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-55",
+    "englishName": "Eevee",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "55",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/55.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-55",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:55:english:base5-55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-55",
+      "setId": "base5",
+      "collectorNumber": "55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-56",
+    "englishName": "Ekans",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "56",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/56.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-56",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:56:english:base5-56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-56",
+      "setId": "base5",
+      "collectorNumber": "56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-81",
+    "englishName": "Full Heal Energy",
+    "category": "Energy",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "81",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/81.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/81_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-81",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:81:english:base5-81",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-81",
+      "setId": "base5",
+      "collectorNumber": "81",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-81",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-78",
+    "englishName": "Goop Gas Attack",
+    "category": "Trainer",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "78",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/78.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-78",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:78:english:base5-78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-78",
+      "setId": "base5",
+      "collectorNumber": "78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-57",
+    "englishName": "Grimer",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "57",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/57.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-57",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:57:english:base5-57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-57",
+      "setId": "base5",
+      "collectorNumber": "57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-15",
+    "englishName": "Here Comes Team Rocket!",
+    "category": "Trainer",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "15",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/15.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-15",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:15:english:base5-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-15",
+      "setId": "base5",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-71",
+    "englishName": "Here Comes Team Rocket!",
+    "category": "Trainer",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "71",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/71.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-71",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:71:english:base5-71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-71",
+      "setId": "base5",
+      "collectorNumber": "71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-76",
+    "englishName": "Imposter Oak's Revenge",
+    "category": "Trainer",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "76",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/76.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-76",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:76:english:base5-76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-76",
+      "setId": "base5",
+      "collectorNumber": "76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-58",
+    "englishName": "Koffing",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "58",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/58.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-58",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:58:english:base5-58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-58",
+      "setId": "base5",
+      "collectorNumber": "58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-59",
+    "englishName": "Machop",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "59",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/59.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-59",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:59:english:base5-59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-59",
+      "setId": "base5",
+      "collectorNumber": "59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-47",
+    "englishName": "Magikarp",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "47",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/47.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-47",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:47:english:base5-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-47",
+      "setId": "base5",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-60",
+    "englishName": "Magnemite",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "60",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/60.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-60",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:60:english:base5-60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-60",
+      "setId": "base5",
+      "collectorNumber": "60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-61",
+    "englishName": "Mankey",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "61",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/61.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-61",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:61:english:base5-61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-61",
+      "setId": "base5",
+      "collectorNumber": "61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-62",
+    "englishName": "Meowth",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "62",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/62.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-62",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:62:english:base5-62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-62",
+      "setId": "base5",
+      "collectorNumber": "62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-77",
+    "englishName": "Nightly Garbage Run",
+    "category": "Trainer",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "77",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/77.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-77",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:77:english:base5-77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-77",
+      "setId": "base5",
+      "collectorNumber": "77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-63",
+    "englishName": "Oddish",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "63",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/63.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-63",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:63:english:base5-63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-63",
+      "setId": "base5",
+      "collectorNumber": "63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-64",
+    "englishName": "Ponyta",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "64",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/64.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-64",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:64:english:base5-64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-64",
+      "setId": "base5",
+      "collectorNumber": "64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-48",
+    "englishName": "Porygon",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "48",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/48.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-48",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:48:english:base5-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-48",
+      "setId": "base5",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-82",
+    "englishName": "Potion Energy",
+    "category": "Energy",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "82",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/82.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/82_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-82",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:82:english:base5-82",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-82",
+      "setId": "base5",
+      "collectorNumber": "82",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-82",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-65",
+    "englishName": "Psyduck",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "65",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/65.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-65",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:65:english:base5-65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-65",
+      "setId": "base5",
+      "collectorNumber": "65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-17",
+    "englishName": "Rainbow Energy",
+    "category": "Energy",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "17",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/17.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-17",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:17:english:base5-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-17",
+      "setId": "base5",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-80",
+    "englishName": "Rainbow Energy",
+    "category": "Energy",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "80",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/80.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/80_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-80",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:80:english:base5-80",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-80",
+      "setId": "base5",
+      "collectorNumber": "80",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-80",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-66",
+    "englishName": "Rattata",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "66",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/66.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-66",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:66:english:base5-66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-66",
+      "setId": "base5",
+      "collectorNumber": "66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-16",
+    "englishName": "Rocket's Sneak Attack",
+    "category": "Trainer",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "16",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/16.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-16",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:16:english:base5-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-16",
+      "setId": "base5",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-72",
+    "englishName": "Rocket's Sneak Attack",
+    "category": "Trainer",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "72",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/72.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-72",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:72:english:base5-72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-72",
+      "setId": "base5",
+      "collectorNumber": "72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-79",
+    "englishName": "Sleep!",
+    "category": "Trainer",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "79",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/79.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/79_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-79",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:79:english:base5-79",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-79",
+      "setId": "base5",
+      "collectorNumber": "79",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-79",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-67",
+    "englishName": "Slowpoke",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "67",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/67.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-67",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:67:english:base5-67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-67",
+      "setId": "base5",
+      "collectorNumber": "67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-68",
+    "englishName": "Squirtle",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "68",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/68.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-68",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:68:english:base5-68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-68",
+      "setId": "base5",
+      "collectorNumber": "68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-73",
+    "englishName": "The Boss's Way",
+    "category": "Trainer",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "73",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/73.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-73",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:73:english:base5-73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-73",
+      "setId": "base5",
+      "collectorNumber": "73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-69",
+    "englishName": "Voltorb",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "69",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/69.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-69",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:69:english:base5-69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-69",
+      "setId": "base5",
+      "collectorNumber": "69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "base5-70",
+    "englishName": "Zubat",
+    "category": "Pokemon",
+    "setCode": "TR",
+    "setName": "Team Rocket",
+    "cardNumber": "70",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/base5/70.png",
+    "imageLarge": "https://images.pokemontcg.io/base5/70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "base5-70",
+    "sourceSetId": "base5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:base5:70:english:base5-70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "base5-70",
+      "setId": "base5",
+      "collectorNumber": "70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "base5-70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

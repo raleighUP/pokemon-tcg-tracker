@@ -1,0 +1,1934 @@
+[
+  {
+    "id": "sm115-27",
+    "englishName": "Arbok",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "27",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/27.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-27",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:27:english:sm115-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-27",
+      "setId": "sm115",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-51",
+    "englishName": "Bill's Analysis",
+    "category": "Trainer",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "51",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/51.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-51",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:51:english:sm115-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-51",
+      "setId": "sm115",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-52",
+    "englishName": "Blaine's Last Stand",
+    "category": "Trainer",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "52",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/52.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-52",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:52:english:sm115-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-52",
+      "setId": "sm115",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-53",
+    "englishName": "Brock's Grit",
+    "category": "Trainer",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "53",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/53.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-53",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:53:english:sm115-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-53",
+      "setId": "sm115",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-54",
+    "englishName": "Brock's Pewter City Gym",
+    "category": "Trainer",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "54",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/54.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-54",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:54:english:sm115-54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-54",
+      "setId": "sm115",
+      "collectorNumber": "54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-55",
+    "englishName": "Brock's Training",
+    "category": "Trainer",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "55",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/55.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-55",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:55:english:sm115-55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-55",
+      "setId": "sm115",
+      "collectorNumber": "55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-3",
+    "englishName": "Butterfree",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "3",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/3.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-3",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:3:english:sm115-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-3",
+      "setId": "sm115",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-1",
+    "englishName": "Caterpie",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "1",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/1.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-1",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:1:english:sm115-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-1",
+      "setId": "sm115",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-46",
+    "englishName": "Chansey",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "46",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/46.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-46",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:46:english:sm115-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-46",
+      "setId": "sm115",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-9",
+    "englishName": "Charizard-GX",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "9",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/9.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-9",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:9:english:sm115-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-9",
+      "setId": "sm115",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-7",
+    "englishName": "Charmander",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "7",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/7.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-7",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:7:english:sm115-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-7",
+      "setId": "sm115",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-8",
+    "englishName": "Charmeleon",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "8",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/8.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-8",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:8:english:sm115-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-8",
+      "setId": "sm115",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-40",
+    "englishName": "Clefable",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "40",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/40.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-40",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:40:english:sm115-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-40",
+      "setId": "sm115",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-38",
+    "englishName": "Clefairy",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "38",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/38.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-38",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:38:english:sm115-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-38",
+      "setId": "sm115",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-39",
+    "englishName": "Clefairy",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "39",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/39.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-39",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:39:english:sm115-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-39",
+      "setId": "sm115",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-37",
+    "englishName": "Cubone",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "37",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/37.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-37",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:37:english:sm115-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-37",
+      "setId": "sm115",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-48",
+    "englishName": "Eevee",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "48",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/48.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-48",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:48:english:sm115-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-48",
+      "setId": "sm115",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-49",
+    "englishName": "Eevee",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "49",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/49.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-49",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:49:english:sm115-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-49",
+      "setId": "sm115",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-25",
+    "englishName": "Ekans",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "25",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/25.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-25",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:25:english:sm115-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-25",
+      "setId": "sm115",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-26",
+    "englishName": "Ekans",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "26",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/26.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-26",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:26:english:sm115-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-26",
+      "setId": "sm115",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-22",
+    "englishName": "Electrode",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "22",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/22.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-22",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:22:english:sm115-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-22",
+      "setId": "sm115",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-56",
+    "englishName": "Erika's Hospitality",
+    "category": "Trainer",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "56",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/56.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-56",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:56:english:sm115-56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-56",
+      "setId": "sm115",
+      "collectorNumber": "56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-45",
+    "englishName": "Farfetch'd",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "45",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/45.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-45",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:45:english:sm115-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-45",
+      "setId": "sm115",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-33",
+    "englishName": "Geodude",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "33",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/33.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-33",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:33:english:sm115-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-33",
+      "setId": "sm115",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-57",
+    "englishName": "Giovanni's Exile",
+    "category": "Trainer",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "57",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/57.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-57",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:57:english:sm115-57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-57",
+      "setId": "sm115",
+      "collectorNumber": "57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-67",
+    "englishName": "Giovanni's Exile",
+    "category": "Trainer",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "67",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/67.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-67",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:67:english:sm115-67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-67",
+      "setId": "sm115",
+      "collectorNumber": "67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-35",
+    "englishName": "Golem",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "35",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/35.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-35",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:35:english:sm115-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-35",
+      "setId": "sm115",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-34",
+    "englishName": "Graveler",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "34",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/34.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-34",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:34:english:sm115-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-34",
+      "setId": "sm115",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-16",
+    "englishName": "Gyarados-GX",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "16",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/16.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-16",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:16:english:sm115-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-16",
+      "setId": "sm115",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-58",
+    "englishName": "Jessie & James",
+    "category": "Trainer",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "58",
+    "legalities": {
+      "expanded": "Banned",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/58.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-58",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:58:english:sm115-58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-58",
+      "setId": "sm115",
+      "collectorNumber": "58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-68",
+    "englishName": "Jessie & James",
+    "category": "Trainer",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "68",
+    "legalities": {
+      "expanded": "Banned",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/68.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-68",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:68:english:sm115-68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-68",
+      "setId": "sm115",
+      "collectorNumber": "68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-41",
+    "englishName": "Jigglypuff",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "41",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/41.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-41",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:41:english:sm115-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-41",
+      "setId": "sm115",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-23",
+    "englishName": "Jolteon",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "23",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/23.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-23",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:23:english:sm115-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-23",
+      "setId": "sm115",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-30",
+    "englishName": "Jynx",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "30",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/30.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-30",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:30:english:sm115-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-30",
+      "setId": "sm115",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-47",
+    "englishName": "Kangaskhan",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "47",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/47.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-47",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:47:english:sm115-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-47",
+      "setId": "sm115",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-28",
+    "englishName": "Koffing",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "28",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/28.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-28",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:28:english:sm115-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-28",
+      "setId": "sm115",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-59",
+    "englishName": "Koga's Trap",
+    "category": "Trainer",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "59",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/59.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-59",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:59:english:sm115-59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-59",
+      "setId": "sm115",
+      "collectorNumber": "59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-17",
+    "englishName": "Lapras",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "17",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/17.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-17",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:17:english:sm115-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-17",
+      "setId": "sm115",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-60",
+    "englishName": "Lt. Surge's Strategy",
+    "category": "Trainer",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "60",
+    "legalities": {
+      "expanded": "Banned",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/60.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-60",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:60:english:sm115-60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-60",
+      "setId": "sm115",
+      "collectorNumber": "60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-15",
+    "englishName": "Magikarp",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "15",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/15.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-15",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:15:english:sm115-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-15",
+      "setId": "sm115",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-10",
+    "englishName": "Magmar",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "10",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/10.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-10",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:10:english:sm115-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-10",
+      "setId": "sm115",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-2",
+    "englishName": "Metapod",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "2",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/2.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-2",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:2:english:sm115-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-2",
+      "setId": "sm115",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-32",
+    "englishName": "Mew",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "32",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/32.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-32",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:32:english:sm115-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-32",
+      "setId": "sm115",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-31",
+    "englishName": "Mewtwo-GX",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "31",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/31.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-31",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:31:english:sm115-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-31",
+      "setId": "sm115",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-61",
+    "englishName": "Misty's Cerulean City Gym",
+    "category": "Trainer",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "61",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/61.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-61",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:61:english:sm115-61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-61",
+      "setId": "sm115",
+      "collectorNumber": "61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-62",
+    "englishName": "Misty's Determination",
+    "category": "Trainer",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "62",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/62.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-62",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:62:english:sm115-62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-62",
+      "setId": "sm115",
+      "collectorNumber": "62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-63",
+    "englishName": "Misty's Water Command",
+    "category": "Trainer",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "63",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/63.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-63",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:63:english:sm115-63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-63",
+      "setId": "sm115",
+      "collectorNumber": "63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-44",
+    "englishName": "Moltres & Zapdos & Articuno-GX",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "44",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/44.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-44",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:44:english:sm115-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-44",
+      "setId": "sm115",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-66",
+    "englishName": "Moltres & Zapdos & Articuno-GX",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "66",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/66.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-66",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:66:english:sm115-66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-66",
+      "setId": "sm115",
+      "collectorNumber": "66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-69",
+    "englishName": "Moltres & Zapdos & Articuno-GX",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "69",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/69.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-69",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:69:english:sm115-69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-69",
+      "setId": "sm115",
+      "collectorNumber": "69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-43",
+    "englishName": "Mr. Mime",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "43",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/43.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-43",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:43:english:sm115-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-43",
+      "setId": "sm115",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-36",
+    "englishName": "Onix-GX",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "36",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/36.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-36",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:36:english:sm115-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-36",
+      "setId": "sm115",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-4",
+    "englishName": "Paras",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "4",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/4.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-4",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:4:english:sm115-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-4",
+      "setId": "sm115",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-19",
+    "englishName": "Pikachu",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "19",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/19.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-19",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:19:english:sm115-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-19",
+      "setId": "sm115",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-6",
+    "englishName": "Pinsir-GX",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "6",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/6.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-6",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:6:english:sm115-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-6",
+      "setId": "sm115",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-64",
+    "englishName": "Pokémon Center Lady",
+    "category": "Trainer",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "64",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/64.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-64",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:64:english:sm115-64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-64",
+      "setId": "sm115",
+      "collectorNumber": "64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-11",
+    "englishName": "Psyduck",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "11",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/11.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-11",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:11:english:sm115-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-11",
+      "setId": "sm115",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-20",
+    "englishName": "Raichu-GX",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "20",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/20.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-20",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:20:english:sm115-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-20",
+      "setId": "sm115",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-65",
+    "englishName": "Sabrina's Suggestion",
+    "category": "Trainer",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "65",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/65.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-65",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:65:english:sm115-65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-65",
+      "setId": "sm115",
+      "collectorNumber": "65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-5",
+    "englishName": "Scyther",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "5",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/5.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-5",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:5:english:sm115-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-5",
+      "setId": "sm115",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-12",
+    "englishName": "Slowpoke",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "12",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/12.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-12",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:12:english:sm115-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-12",
+      "setId": "sm115",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-50",
+    "englishName": "Snorlax",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "50",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/50.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-50",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:50:english:sm115-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-50",
+      "setId": "sm115",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-14",
+    "englishName": "Starmie-GX",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "14",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/14.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-14",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:14:english:sm115-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-14",
+      "setId": "sm115",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-13",
+    "englishName": "Staryu",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "13",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/13.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-13",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:13:english:sm115-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-13",
+      "setId": "sm115",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-18",
+    "englishName": "Vaporeon",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "18",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/18.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-18",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:18:english:sm115-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-18",
+      "setId": "sm115",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-21",
+    "englishName": "Voltorb",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "21",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/21.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-21",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:21:english:sm115-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-21",
+      "setId": "sm115",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-29",
+    "englishName": "Weezing",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "29",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/29.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-29",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:29:english:sm115-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-29",
+      "setId": "sm115",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-42",
+    "englishName": "Wigglytuff-GX",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "42",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/42.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-42",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:42:english:sm115-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-42",
+      "setId": "sm115",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sm115-24",
+    "englishName": "Zapdos",
+    "category": "Pokemon",
+    "setCode": "HIF",
+    "setName": "Hidden Fates",
+    "cardNumber": "24",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sm115/24.png",
+    "imageLarge": "https://images.pokemontcg.io/sm115/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sm115-24",
+    "sourceSetId": "sm115",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sm115:24:english:sm115-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sm115-24",
+      "setId": "sm115",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sm115-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

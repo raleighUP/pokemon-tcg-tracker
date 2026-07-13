@@ -1,0 +1,2634 @@
+[
+  {
+    "id": "sma-SV81",
+    "englishName": "Aether Foundation Employee",
+    "category": "Trainer",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV81",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV81.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV81_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV81",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV81:english:sma-SV81",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV81",
+      "setId": "sma",
+      "collectorNumber": "SV81",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV81",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV87",
+    "englishName": "Aether Paradise Conservation Area",
+    "category": "Trainer",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV87",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV87.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV87_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV87",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV87:english:sma-SV87",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV87",
+      "setId": "sma",
+      "collectorNumber": "SV87",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV87",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV53",
+    "englishName": "Alolan Ninetales-GX",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV53",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV53.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV53",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV53:english:sma-SV53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV53",
+      "setId": "sma",
+      "collectorNumber": "SV53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV8",
+    "englishName": "Alolan Vulpix",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV8",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV8.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV8",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV8:english:sma-SV8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV8",
+      "setId": "sma",
+      "collectorNumber": "SV8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV77",
+    "englishName": "Altaria-GX",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV77",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV77.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV77",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV77:english:sma-SV77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV77",
+      "setId": "sma",
+      "collectorNumber": "SV77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV37",
+    "englishName": "Altaria",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV37",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV37.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV37",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV37:english:sma-SV37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV37",
+      "setId": "sma",
+      "collectorNumber": "SV37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV54",
+    "englishName": "Articuno-GX",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV54",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV54.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV54",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV54:english:sma-SV54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV54",
+      "setId": "sma",
+      "collectorNumber": "SV54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV61",
+    "englishName": "Banette-GX",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV61",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV61.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV61",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV61:english:sma-SV61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV61",
+      "setId": "sma",
+      "collectorNumber": "SV61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV30",
+    "englishName": "Beldum",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV30",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV30.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV30",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV30:english:sma-SV30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV30",
+      "setId": "sma",
+      "collectorNumber": "SV30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV88",
+    "englishName": "Brooklet Hill",
+    "category": "Trainer",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV88",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV88.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV88_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV88",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV88:english:sma-SV88",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV88",
+      "setId": "sma",
+      "collectorNumber": "SV88",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV88",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV68",
+    "englishName": "Buzzwole-GX",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV68",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV68.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV68",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV68:english:sma-SV68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV68",
+      "setId": "sma",
+      "collectorNumber": "SV68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV24",
+    "englishName": "Buzzwole",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV24",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV24.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV24",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV24:english:sma-SV24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV24",
+      "setId": "sma",
+      "collectorNumber": "SV24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV32",
+    "englishName": "Celesteela",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV32",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV32.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV32",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV32:english:sma-SV32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV32",
+      "setId": "sma",
+      "collectorNumber": "SV32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV49",
+    "englishName": "Charizard-GX",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV49",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV49.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV49",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV49:english:sma-SV49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV49",
+      "setId": "sma",
+      "collectorNumber": "SV49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV6",
+    "englishName": "Charmander",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV6",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV6.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV6",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV6:english:sma-SV6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV6",
+      "setId": "sma",
+      "collectorNumber": "SV6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV7",
+    "englishName": "Charmeleon",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV7",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV7.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV7",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV7:english:sma-SV7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV7",
+      "setId": "sma",
+      "collectorNumber": "SV7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV82",
+    "englishName": "Cynthia",
+    "category": "Trainer",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV82",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV82.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV82_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV82",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV82:english:sma-SV82",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV82",
+      "setId": "sma",
+      "collectorNumber": "SV82",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV82",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV70",
+    "englishName": "Darkrai-GX",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV70",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV70.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV70",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV70:english:sma-SV70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV70",
+      "setId": "sma",
+      "collectorNumber": "SV70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV3",
+    "englishName": "Dartrix",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV3",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV3.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV3",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV3:english:sma-SV3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV3",
+      "setId": "sma",
+      "collectorNumber": "SV3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV47",
+    "englishName": "Decidueye-GX",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV47",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV47.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV47",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV47:english:sma-SV47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV47",
+      "setId": "sma",
+      "collectorNumber": "SV47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV36",
+    "englishName": "Diancie",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV36",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV36.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV36",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV36:english:sma-SV36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV36",
+      "setId": "sma",
+      "collectorNumber": "SV36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV80",
+    "englishName": "Drampa-GX",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV80",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV80.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV80_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV80",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV80:english:sma-SV80",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV80",
+      "setId": "sma",
+      "collectorNumber": "SV80",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV80",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV41",
+    "englishName": "Eevee",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV41",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV41.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV41",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV41:english:sma-SV41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV41",
+      "setId": "sma",
+      "collectorNumber": "SV41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV57",
+    "englishName": "Electrode-GX",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV57",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV57.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV57",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV57:english:sma-SV57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV57",
+      "setId": "sma",
+      "collectorNumber": "SV57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV60",
+    "englishName": "Espeon-GX",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV60",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV60.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV60",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV60:english:sma-SV60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV60",
+      "setId": "sma",
+      "collectorNumber": "SV60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV83",
+    "englishName": "Fisherman",
+    "category": "Trainer",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV83",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV83.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV83_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV83",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV83:english:sma-SV83",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV83",
+      "setId": "sma",
+      "collectorNumber": "SV83",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV83",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV11",
+    "englishName": "Froakie",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV11",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV11.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV11",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV11:english:sma-SV11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV11",
+      "setId": "sma",
+      "collectorNumber": "SV11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV12",
+    "englishName": "Frogadier",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV12",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV12.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV12",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV12:english:sma-SV12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV12",
+      "setId": "sma",
+      "collectorNumber": "SV12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV39",
+    "englishName": "Gabite",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV39",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV39.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV39",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV39:english:sma-SV39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV39",
+      "setId": "sma",
+      "collectorNumber": "SV39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV40",
+    "englishName": "Garchomp",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV40",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV40.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV40",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV40:english:sma-SV40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV40",
+      "setId": "sma",
+      "collectorNumber": "SV40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV75",
+    "englishName": "Gardevoir-GX",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV75",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV75.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV75",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV75:english:sma-SV75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV75",
+      "setId": "sma",
+      "collectorNumber": "SV75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV38",
+    "englishName": "Gible",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV38",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV38.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV38",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV38:english:sma-SV38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV38",
+      "setId": "sma",
+      "collectorNumber": "SV38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV55",
+    "englishName": "Glaceon-GX",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV55",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV55.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV55",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV55:english:sma-SV55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV55",
+      "setId": "sma",
+      "collectorNumber": "SV55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV48",
+    "englishName": "Golisopod-GX",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV48",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV48.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV48",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV48:english:sma-SV48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV48",
+      "setId": "sma",
+      "collectorNumber": "SV48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV56",
+    "englishName": "Greninja-GX",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV56",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV56.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV56",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV56:english:sma-SV56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV56",
+      "setId": "sma",
+      "collectorNumber": "SV56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV84",
+    "englishName": "Guzma",
+    "category": "Trainer",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV84",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV84.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV84_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV84",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV84:english:sma-SV84",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV84",
+      "setId": "sma",
+      "collectorNumber": "SV84",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV84",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV71",
+    "englishName": "Guzzlord-GX",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV71",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV71.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV71",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV71:english:sma-SV71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV71",
+      "setId": "sma",
+      "collectorNumber": "SV71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV26",
+    "englishName": "Guzzlord",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV26",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV26.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV26",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV26:english:sma-SV26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV26",
+      "setId": "sma",
+      "collectorNumber": "SV26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV85",
+    "englishName": "Hiker",
+    "category": "Trainer",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV85",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV85.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV85_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV85",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV85:english:sma-SV85",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV85",
+      "setId": "sma",
+      "collectorNumber": "SV85",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV85",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV50",
+    "englishName": "Ho-Oh-GX",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV50",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV50.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV50",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV50:english:sma-SV50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV50",
+      "setId": "sma",
+      "collectorNumber": "SV50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV17",
+    "englishName": "Inkay",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV17",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV17.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV17",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV17:english:sma-SV17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV17",
+      "setId": "sma",
+      "collectorNumber": "SV17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV73",
+    "englishName": "Kartana-GX",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV73",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV73.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV73",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV73:english:sma-SV73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV73",
+      "setId": "sma",
+      "collectorNumber": "SV73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV33",
+    "englishName": "Kartana",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV33",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV33.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV33",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV33:english:sma-SV33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV33",
+      "setId": "sma",
+      "collectorNumber": "SV33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV35",
+    "englishName": "Kirlia",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV35",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV35.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV35",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV35:english:sma-SV35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV35",
+      "setId": "sma",
+      "collectorNumber": "SV35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV86",
+    "englishName": "Lady",
+    "category": "Trainer",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV86",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV86.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV86_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV86",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV86:english:sma-SV86",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV86",
+      "setId": "sma",
+      "collectorNumber": "SV86",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV86",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV46",
+    "englishName": "Leafeon-GX",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV46",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV46.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV46",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV46:english:sma-SV46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV46",
+      "setId": "sma",
+      "collectorNumber": "SV46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV64",
+    "englishName": "Lucario-GX",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV64",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV64.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV64",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV64:english:sma-SV64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV64",
+      "setId": "sma",
+      "collectorNumber": "SV64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV22",
+    "englishName": "Lucario",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV22",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV22.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV22",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV22:english:sma-SV22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV22",
+      "setId": "sma",
+      "collectorNumber": "SV22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV66",
+    "englishName": "Lycanroc-GX",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV66",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV66.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV66",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV66:english:sma-SV66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV66",
+      "setId": "sma",
+      "collectorNumber": "SV66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV67",
+    "englishName": "Lycanroc-GX",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV67",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV67.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV67",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV67:english:sma-SV67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV67",
+      "setId": "sma",
+      "collectorNumber": "SV67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV27",
+    "englishName": "Magnemite",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV27",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV27.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV27",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV27:english:sma-SV27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV27",
+      "setId": "sma",
+      "collectorNumber": "SV27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV28",
+    "englishName": "Magneton",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV28",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV28.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV28",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV28:english:sma-SV28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV28",
+      "setId": "sma",
+      "collectorNumber": "SV28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV29",
+    "englishName": "Magnezone",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV29",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV29.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV29",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV29:english:sma-SV29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV29",
+      "setId": "sma",
+      "collectorNumber": "SV29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV18",
+    "englishName": "Malamar",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV18",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV18.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV18",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV18:english:sma-SV18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV18",
+      "setId": "sma",
+      "collectorNumber": "SV18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV31",
+    "englishName": "Metang",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV31",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV31.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV31",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV31:english:sma-SV31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV31",
+      "setId": "sma",
+      "collectorNumber": "SV31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV59",
+    "englishName": "Mewtwo-GX",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV59",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV59.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV59",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV59:english:sma-SV59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV59",
+      "setId": "sma",
+      "collectorNumber": "SV59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV89",
+    "englishName": "Mt. Coronet",
+    "category": "Trainer",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV89",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV89.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV89_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV89",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV89:english:sma-SV89",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV89",
+      "setId": "sma",
+      "collectorNumber": "SV89",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV89",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV63",
+    "englishName": "Naganadel-GX",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV63",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV63.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV63",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV63:english:sma-SV63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV63",
+      "setId": "sma",
+      "collectorNumber": "SV63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV62",
+    "englishName": "Nihilego-GX",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV62",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV62.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV62",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV62:english:sma-SV62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV62",
+      "setId": "sma",
+      "collectorNumber": "SV62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV43",
+    "englishName": "Noibat",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV43",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV43.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV43",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV43:english:sma-SV43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV43",
+      "setId": "sma",
+      "collectorNumber": "SV43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV78",
+    "englishName": "Noivern-GX",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV78",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV78.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV78",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV78:english:sma-SV78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV78",
+      "setId": "sma",
+      "collectorNumber": "SV78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV44",
+    "englishName": "Oranguru",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV44",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV44.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV44",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV44:english:sma-SV44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV44",
+      "setId": "sma",
+      "collectorNumber": "SV44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV5",
+    "englishName": "Pheromosa",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV5",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV5.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV5",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV5:english:sma-SV5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV5",
+      "setId": "sma",
+      "collectorNumber": "SV5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV19",
+    "englishName": "Poipole",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV19",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV19.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV19",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV19:english:sma-SV19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV19",
+      "setId": "sma",
+      "collectorNumber": "SV19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV10",
+    "englishName": "Quagsire",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV10",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV10.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV10",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV10:english:sma-SV10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV10",
+      "setId": "sma",
+      "collectorNumber": "SV10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV34",
+    "englishName": "Ralts",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV34",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV34.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV34",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV34:english:sma-SV34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV34",
+      "setId": "sma",
+      "collectorNumber": "SV34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV51",
+    "englishName": "Reshiram-GX",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV51",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV51.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV51",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV51:english:sma-SV51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV51",
+      "setId": "sma",
+      "collectorNumber": "SV51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV21",
+    "englishName": "Riolu",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV21",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV21.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV21",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV21:english:sma-SV21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV21",
+      "setId": "sma",
+      "collectorNumber": "SV21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV23",
+    "englishName": "Rockruff",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV23",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV23.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV23",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV23:english:sma-SV23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV23",
+      "setId": "sma",
+      "collectorNumber": "SV23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV2",
+    "englishName": "Rowlet",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV2",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV2.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV2",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV2:english:sma-SV2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV2",
+      "setId": "sma",
+      "collectorNumber": "SV2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV72",
+    "englishName": "Scizor-GX",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV72",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV72.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV72",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV72:english:sma-SV72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV72",
+      "setId": "sma",
+      "collectorNumber": "SV72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV1",
+    "englishName": "Scyther",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV1",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV1.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV1",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV1:english:sma-SV1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV1",
+      "setId": "sma",
+      "collectorNumber": "SV1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV15",
+    "englishName": "Seviper",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV15",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV15.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV15",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV15:english:sma-SV15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV15",
+      "setId": "sma",
+      "collectorNumber": "SV15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV90",
+    "englishName": "Shrine of Punishment",
+    "category": "Trainer",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV90",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV90.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV90_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV90",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV90:english:sma-SV90",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV90",
+      "setId": "sma",
+      "collectorNumber": "SV90",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV90",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV16",
+    "englishName": "Shuppet",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV16",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV16.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV16",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV16:english:sma-SV16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV16",
+      "setId": "sma",
+      "collectorNumber": "SV16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV79",
+    "englishName": "Silvally-GX",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV79",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV79.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV79_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV79",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV79:english:sma-SV79",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV79",
+      "setId": "sma",
+      "collectorNumber": "SV79",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV79",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV74",
+    "englishName": "Stakataka-GX",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV74",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV74.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV74",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV74:english:sma-SV74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV74",
+      "setId": "sma",
+      "collectorNumber": "SV74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV20",
+    "englishName": "Sudowoodo",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV20",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV20.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV20",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV20:english:sma-SV20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV20",
+      "setId": "sma",
+      "collectorNumber": "SV20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV42",
+    "englishName": "Swablu",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV42",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV42.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV42",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV42:english:sma-SV42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV42",
+      "setId": "sma",
+      "collectorNumber": "SV42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV76",
+    "englishName": "Sylveon-GX",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV76",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV76.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV76",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV76:english:sma-SV76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV76",
+      "setId": "sma",
+      "collectorNumber": "SV76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV91",
+    "englishName": "Tapu Bulu-GX",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV91",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV91.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV91_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV91",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV91:english:sma-SV91",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV91",
+      "setId": "sma",
+      "collectorNumber": "SV91",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV91",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV92",
+    "englishName": "Tapu Fini-GX",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV92",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV92.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV92_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV92",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV92:english:sma-SV92",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV92",
+      "setId": "sma",
+      "collectorNumber": "SV92",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV92",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV93",
+    "englishName": "Tapu Koko-GX",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV93",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV93.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV93_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV93",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV93:english:sma-SV93",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV93",
+      "setId": "sma",
+      "collectorNumber": "SV93",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV93",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV94",
+    "englishName": "Tapu Lele-GX",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV94",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV94.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV94_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV94",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV94:english:sma-SV94",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV94",
+      "setId": "sma",
+      "collectorNumber": "SV94",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV94",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV52",
+    "englishName": "Turtonator-GX",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV52",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV52.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV52",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV52:english:sma-SV52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV52",
+      "setId": "sma",
+      "collectorNumber": "SV52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV45",
+    "englishName": "Type: Null",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV45",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV45.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV45",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV45:english:sma-SV45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV45",
+      "setId": "sma",
+      "collectorNumber": "SV45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV69",
+    "englishName": "Umbreon-GX",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV69",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV69.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV69",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV69:english:sma-SV69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV69",
+      "setId": "sma",
+      "collectorNumber": "SV69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV13",
+    "englishName": "Voltorb",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV13",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV13.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV13",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV13:english:sma-SV13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV13",
+      "setId": "sma",
+      "collectorNumber": "SV13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV4",
+    "englishName": "Wimpod",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV4",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV4.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV4",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV4:english:sma-SV4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV4",
+      "setId": "sma",
+      "collectorNumber": "SV4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV9",
+    "englishName": "Wooper",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV9",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV9.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV9",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV9:english:sma-SV9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV9",
+      "setId": "sma",
+      "collectorNumber": "SV9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV58",
+    "englishName": "Xurkitree-GX",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV58",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV58.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV58",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV58:english:sma-SV58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV58",
+      "setId": "sma",
+      "collectorNumber": "SV58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV14",
+    "englishName": "Xurkitree",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV14",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV14.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV14",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV14:english:sma-SV14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV14",
+      "setId": "sma",
+      "collectorNumber": "SV14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV25",
+    "englishName": "Zorua",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV25",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV25.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV25",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV25:english:sma-SV25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV25",
+      "setId": "sma",
+      "collectorNumber": "SV25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "sma-SV65",
+    "englishName": "Zygarde-GX",
+    "category": "Pokemon",
+    "setCode": "sma",
+    "setName": "Hidden Fates Shiny Vault",
+    "cardNumber": "SV65",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/sma/SV65.png",
+    "imageLarge": "https://images.pokemontcg.io/sma/SV65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "sma-SV65",
+    "sourceSetId": "sma",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:sma:SV65:english:sma-SV65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "sma-SV65",
+      "setId": "sma",
+      "collectorNumber": "SV65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "sma-SV65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

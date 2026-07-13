@@ -1,0 +1,3578 @@
+[
+  {
+    "id": "gym1-61",
+    "englishName": "Blaine's Charmander",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "61",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/61.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-61",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:61:english:gym1-61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-61",
+      "setId": "gym1",
+      "collectorNumber": "61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-121",
+    "englishName": "Blaine's Gamble",
+    "category": "Trainer",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "121",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/121.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/121_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-121",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:121:english:gym1-121",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-121",
+      "setId": "gym1",
+      "collectorNumber": "121",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-121",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-35",
+    "englishName": "Blaine's Growlithe",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "35",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/35.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-35",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:35:english:gym1-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-35",
+      "setId": "gym1",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-62",
+    "englishName": "Blaine's Growlithe",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "62",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/62.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-62",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:62:english:gym1-62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-62",
+      "setId": "gym1",
+      "collectorNumber": "62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-36",
+    "englishName": "Blaine's Kangaskhan",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "36",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/36.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-36",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:36:english:gym1-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-36",
+      "setId": "gym1",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-105",
+    "englishName": "Blaine's Last Resort",
+    "category": "Trainer",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "105",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/105.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/105_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-105",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:105:english:gym1-105",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-105",
+      "setId": "gym1",
+      "collectorNumber": "105",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-105",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-37",
+    "englishName": "Blaine's Magmar",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "37",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/37.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-37",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:37:english:gym1-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-37",
+      "setId": "gym1",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-1",
+    "englishName": "Blaine's Moltres",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "1",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/1.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-1",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:1:english:gym1-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-1",
+      "setId": "gym1",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-63",
+    "englishName": "Blaine's Ponyta",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "63",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/63.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-63",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:63:english:gym1-63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-63",
+      "setId": "gym1",
+      "collectorNumber": "63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-97",
+    "englishName": "Blaine's Quiz #1",
+    "category": "Trainer",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "97",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/97.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/97_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-97",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:97:english:gym1-97",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-97",
+      "setId": "gym1",
+      "collectorNumber": "97",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-97",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-64",
+    "englishName": "Blaine's Tauros",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "64",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/64.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-64",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:64:english:gym1-64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-64",
+      "setId": "gym1",
+      "collectorNumber": "64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-65",
+    "englishName": "Blaine's Vulpix",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "65",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/65.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-65",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:65:english:gym1-65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-65",
+      "setId": "gym1",
+      "collectorNumber": "65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-38",
+    "englishName": "Brock's Geodude",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "38",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/38.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-38",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:38:english:gym1-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-38",
+      "setId": "gym1",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-66",
+    "englishName": "Brock's Geodude",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "66",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/66.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-66",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:66:english:gym1-66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-66",
+      "setId": "gym1",
+      "collectorNumber": "66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-39",
+    "englishName": "Brock's Golbat",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "39",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/39.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-39",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:39:english:gym1-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-39",
+      "setId": "gym1",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-20",
+    "englishName": "Brock's Golem",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "20",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/20.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-20",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:20:english:gym1-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-20",
+      "setId": "gym1",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-40",
+    "englishName": "Brock's Graveler",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "40",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/40.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-40",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:40:english:gym1-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-40",
+      "setId": "gym1",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-41",
+    "englishName": "Brock's Lickitung",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "41",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/41.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-41",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:41:english:gym1-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-41",
+      "setId": "gym1",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-67",
+    "englishName": "Brock's Mankey",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "67",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/67.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-67",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:67:english:gym1-67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-67",
+      "setId": "gym1",
+      "collectorNumber": "67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-68",
+    "englishName": "Brock's Mankey",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "68",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/68.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-68",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:68:english:gym1-68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-68",
+      "setId": "gym1",
+      "collectorNumber": "68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-21",
+    "englishName": "Brock's Onix",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "21",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/21.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-21",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:21:english:gym1-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-21",
+      "setId": "gym1",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-69",
+    "englishName": "Brock's Onix",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "69",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/69.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-69",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:69:english:gym1-69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-69",
+      "setId": "gym1",
+      "collectorNumber": "69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-2",
+    "englishName": "Brock's Rhydon",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "2",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/2.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-2",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:2:english:gym1-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-2",
+      "setId": "gym1",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-22",
+    "englishName": "Brock's Rhyhorn",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "22",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/22.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-22",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:22:english:gym1-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-22",
+      "setId": "gym1",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-70",
+    "englishName": "Brock's Rhyhorn",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "70",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/70.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-70",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:70:english:gym1-70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-70",
+      "setId": "gym1",
+      "collectorNumber": "70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-71",
+    "englishName": "Brock's Sandshrew",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "71",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/71.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-71",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:71:english:gym1-71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-71",
+      "setId": "gym1",
+      "collectorNumber": "71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-72",
+    "englishName": "Brock's Sandshrew",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "72",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/72.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-72",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:72:english:gym1-72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-72",
+      "setId": "gym1",
+      "collectorNumber": "72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-23",
+    "englishName": "Brock's Sandslash",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "23",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/23.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-23",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:23:english:gym1-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-23",
+      "setId": "gym1",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-106",
+    "englishName": "Brock's Training Method",
+    "category": "Trainer",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "106",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/106.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/106_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-106",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:106:english:gym1-106",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-106",
+      "setId": "gym1",
+      "collectorNumber": "106",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-106",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-73",
+    "englishName": "Brock's Vulpix",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "73",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/73.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-73",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:73:english:gym1-73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-73",
+      "setId": "gym1",
+      "collectorNumber": "73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-24",
+    "englishName": "Brock's Zubat",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "24",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/24.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-24",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:24:english:gym1-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-24",
+      "setId": "gym1",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-74",
+    "englishName": "Brock's Zubat",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "74",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/74.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-74",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:74:english:gym1-74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-74",
+      "setId": "gym1",
+      "collectorNumber": "74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-15",
+    "englishName": "Brock",
+    "category": "Trainer",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "15",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/15.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-15",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:15:english:gym1-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-15",
+      "setId": "gym1",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-98",
+    "englishName": "Brock",
+    "category": "Trainer",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "98",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/98.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/98_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-98",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:98:english:gym1-98",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-98",
+      "setId": "gym1",
+      "collectorNumber": "98",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-98",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-107",
+    "englishName": "Celadon City Gym",
+    "category": "Trainer",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "107",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/107.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/107_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-107",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:107:english:gym1-107",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-107",
+      "setId": "gym1",
+      "collectorNumber": "107",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-107",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-108",
+    "englishName": "Cerulean City Gym",
+    "category": "Trainer",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "108",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/108.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/108_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-108",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:108:english:gym1-108",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-108",
+      "setId": "gym1",
+      "collectorNumber": "108",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-108",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-99",
+    "englishName": "Charity",
+    "category": "Trainer",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "99",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/99.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/99_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-99",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:99:english:gym1-99",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-99",
+      "setId": "gym1",
+      "collectorNumber": "99",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-99",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-122",
+    "englishName": "Energy Flow",
+    "category": "Trainer",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "122",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/122.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/122_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-122",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:122:english:gym1-122",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-122",
+      "setId": "gym1",
+      "collectorNumber": "122",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-122",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-75",
+    "englishName": "Erika's Bellsprout",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "75",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/75.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-75",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:75:english:gym1-75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-75",
+      "setId": "gym1",
+      "collectorNumber": "75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-76",
+    "englishName": "Erika's Bellsprout",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "76",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/76.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-76",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:76:english:gym1-76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-76",
+      "setId": "gym1",
+      "collectorNumber": "76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-3",
+    "englishName": "Erika's Clefable",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "3",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/3.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-3",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:3:english:gym1-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-3",
+      "setId": "gym1",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-25",
+    "englishName": "Erika's Clefairy",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "25",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/25.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-25",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:25:english:gym1-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-25",
+      "setId": "gym1",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-4",
+    "englishName": "Erika's Dragonair",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "4",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/4.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-4",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:4:english:gym1-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-4",
+      "setId": "gym1",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-42",
+    "englishName": "Erika's Dratini",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "42",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/42.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-42",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:42:english:gym1-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-42",
+      "setId": "gym1",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-43",
+    "englishName": "Erika's Exeggcute",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "43",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/43.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-43",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:43:english:gym1-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-43",
+      "setId": "gym1",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-77",
+    "englishName": "Erika's Exeggcute",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "77",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/77.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-77",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:77:english:gym1-77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-77",
+      "setId": "gym1",
+      "collectorNumber": "77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-44",
+    "englishName": "Erika's Exeggutor",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "44",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/44.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-44",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:44:english:gym1-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-44",
+      "setId": "gym1",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-45",
+    "englishName": "Erika's Gloom",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "45",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/45.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-45",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:45:english:gym1-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-45",
+      "setId": "gym1",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-46",
+    "englishName": "Erika's Gloom",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "46",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/46.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-46",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:46:english:gym1-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-46",
+      "setId": "gym1",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-109",
+    "englishName": "Erika's Maids",
+    "category": "Trainer",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "109",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/109.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/109_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-109",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:109:english:gym1-109",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-109",
+      "setId": "gym1",
+      "collectorNumber": "109",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-109",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-47",
+    "englishName": "Erika's Oddish",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "47",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/47.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-47",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:47:english:gym1-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-47",
+      "setId": "gym1",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-78",
+    "englishName": "Erika's Oddish",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "78",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/78.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-78",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:78:english:gym1-78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-78",
+      "setId": "gym1",
+      "collectorNumber": "78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-110",
+    "englishName": "Erika's Perfume",
+    "category": "Trainer",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "110",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/110.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/110_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-110",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:110:english:gym1-110",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-110",
+      "setId": "gym1",
+      "collectorNumber": "110",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-110",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-79",
+    "englishName": "Erika's Tangela",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "79",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/79.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/79_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-79",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:79:english:gym1-79",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-79",
+      "setId": "gym1",
+      "collectorNumber": "79",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-79",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-26",
+    "englishName": "Erika's Victreebel",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "26",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/26.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-26",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:26:english:gym1-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-26",
+      "setId": "gym1",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-5",
+    "englishName": "Erika's Vileplume",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "5",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/5.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-5",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:5:english:gym1-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-5",
+      "setId": "gym1",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-48",
+    "englishName": "Erika's Weepinbell",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "48",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/48.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-48",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:48:english:gym1-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-48",
+      "setId": "gym1",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-49",
+    "englishName": "Erika's Weepinbell",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "49",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/49.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-49",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:49:english:gym1-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-49",
+      "setId": "gym1",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-100",
+    "englishName": "Erika",
+    "category": "Trainer",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "100",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/100.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/100_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-100",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:100:english:gym1-100",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-100",
+      "setId": "gym1",
+      "collectorNumber": "100",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-100",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-16",
+    "englishName": "Erika",
+    "category": "Trainer",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "16",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/16.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-16",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:16:english:gym1-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-16",
+      "setId": "gym1",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-127",
+    "englishName": "Fighting Energy",
+    "category": "Energy",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "127",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/127.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/127_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-127",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:127:english:gym1-127",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-127",
+      "setId": "gym1",
+      "collectorNumber": "127",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-127",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-128",
+    "englishName": "Fire Energy",
+    "category": "Energy",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "128",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/128.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/128_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-128",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:128:english:gym1-128",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-128",
+      "setId": "gym1",
+      "collectorNumber": "128",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-128",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-111",
+    "englishName": "Good Manners",
+    "category": "Trainer",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "111",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/111.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/111_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-111",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:111:english:gym1-111",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-111",
+      "setId": "gym1",
+      "collectorNumber": "111",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-111",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-129",
+    "englishName": "Grass Energy",
+    "category": "Energy",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "129",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/129.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/129_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-129",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:129:english:gym1-129",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-129",
+      "setId": "gym1",
+      "collectorNumber": "129",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-129",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-130",
+    "englishName": "Lightning Energy",
+    "category": "Energy",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "130",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/130.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/130_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-130",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:130:english:gym1-130",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-130",
+      "setId": "gym1",
+      "collectorNumber": "130",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-130",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-27",
+    "englishName": "Lt. Surge's Electabuzz",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "27",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/27.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-27",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:27:english:gym1-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-27",
+      "setId": "gym1",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-6",
+    "englishName": "Lt. Surge's Electabuzz",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "6",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/6.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-6",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:6:english:gym1-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-6",
+      "setId": "gym1",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-7",
+    "englishName": "Lt. Surge's Fearow",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "7",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/7.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-7",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:7:english:gym1-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-7",
+      "setId": "gym1",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-50",
+    "englishName": "Lt. Surge's Magnemite",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "50",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/50.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-50",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:50:english:gym1-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-50",
+      "setId": "gym1",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-80",
+    "englishName": "Lt. Surge's Magnemite",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "80",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/80.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/80_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-80",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:80:english:gym1-80",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-80",
+      "setId": "gym1",
+      "collectorNumber": "80",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-80",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-8",
+    "englishName": "Lt. Surge's Magneton",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "8",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/8.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-8",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:8:english:gym1-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-8",
+      "setId": "gym1",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-81",
+    "englishName": "Lt. Surge's Pikachu",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "81",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/81.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/81_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-81",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:81:english:gym1-81",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-81",
+      "setId": "gym1",
+      "collectorNumber": "81",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-81",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-28",
+    "englishName": "Lt. Surge's Raichu",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "28",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/28.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-28",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:28:english:gym1-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-28",
+      "setId": "gym1",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-51",
+    "englishName": "Lt. Surge's Raticate",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "51",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/51.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-51",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:51:english:gym1-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-51",
+      "setId": "gym1",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-82",
+    "englishName": "Lt. Surge's Rattata",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "82",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/82.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/82_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-82",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:82:english:gym1-82",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-82",
+      "setId": "gym1",
+      "collectorNumber": "82",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-82",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-52",
+    "englishName": "Lt. Surge's Spearow",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "52",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/52.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-52",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:52:english:gym1-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-52",
+      "setId": "gym1",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-83",
+    "englishName": "Lt. Surge's Spearow",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "83",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/83.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/83_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-83",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:83:english:gym1-83",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-83",
+      "setId": "gym1",
+      "collectorNumber": "83",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-83",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-112",
+    "englishName": "Lt. Surge's Treaty",
+    "category": "Trainer",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "112",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/112.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/112_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-112",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:112:english:gym1-112",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-112",
+      "setId": "gym1",
+      "collectorNumber": "112",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-112",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-84",
+    "englishName": "Lt. Surge's Voltorb",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "84",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/84.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/84_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-84",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:84:english:gym1-84",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-84",
+      "setId": "gym1",
+      "collectorNumber": "84",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-84",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-101",
+    "englishName": "Lt. Surge",
+    "category": "Trainer",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "101",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/101.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/101_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-101",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:101:english:gym1-101",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-101",
+      "setId": "gym1",
+      "collectorNumber": "101",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-101",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-17",
+    "englishName": "Lt. Surge",
+    "category": "Trainer",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "17",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/17.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-17",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:17:english:gym1-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-17",
+      "setId": "gym1",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-113",
+    "englishName": "Minion of Team Rocket",
+    "category": "Trainer",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "113",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/113.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/113_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-113",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:113:english:gym1-113",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-113",
+      "setId": "gym1",
+      "collectorNumber": "113",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-113",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-29",
+    "englishName": "Misty's Cloyster",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "29",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/29.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-29",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:29:english:gym1-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-29",
+      "setId": "gym1",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-123",
+    "englishName": "Misty's Duel",
+    "category": "Trainer",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "123",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/123.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/123_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-123",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:123:english:gym1-123",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-123",
+      "setId": "gym1",
+      "collectorNumber": "123",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-123",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-30",
+    "englishName": "Misty's Goldeen",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "30",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/30.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-30",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:30:english:gym1-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-30",
+      "setId": "gym1",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-85",
+    "englishName": "Misty's Goldeen",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "85",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/85.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/85_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-85",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:85:english:gym1-85",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-85",
+      "setId": "gym1",
+      "collectorNumber": "85",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-85",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-86",
+    "englishName": "Misty's Horsea",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "86",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/86.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/86_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-86",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:86:english:gym1-86",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-86",
+      "setId": "gym1",
+      "collectorNumber": "86",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-86",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-87",
+    "englishName": "Misty's Poliwag",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "87",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/87.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/87_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-87",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:87:english:gym1-87",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-87",
+      "setId": "gym1",
+      "collectorNumber": "87",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-87",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-53",
+    "englishName": "Misty's Poliwhirl",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "53",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/53.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-53",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:53:english:gym1-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-53",
+      "setId": "gym1",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-31",
+    "englishName": "Misty's Poliwrath",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "31",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/31.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-31",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:31:english:gym1-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-31",
+      "setId": "gym1",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-54",
+    "englishName": "Misty's Psyduck",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "54",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/54.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-54",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:54:english:gym1-54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-54",
+      "setId": "gym1",
+      "collectorNumber": "54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-9",
+    "englishName": "Misty's Seadra",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "9",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/9.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-9",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:9:english:gym1-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-9",
+      "setId": "gym1",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-55",
+    "englishName": "Misty's Seaking",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "55",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/55.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-55",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:55:english:gym1-55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-55",
+      "setId": "gym1",
+      "collectorNumber": "55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-88",
+    "englishName": "Misty's Seel",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "88",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/88.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/88_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-88",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:88:english:gym1-88",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-88",
+      "setId": "gym1",
+      "collectorNumber": "88",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-88",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-89",
+    "englishName": "Misty's Shellder",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "89",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/89.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/89_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-89",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:89:english:gym1-89",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-89",
+      "setId": "gym1",
+      "collectorNumber": "89",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-89",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-56",
+    "englishName": "Misty's Starmie",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "56",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/56.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-56",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:56:english:gym1-56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-56",
+      "setId": "gym1",
+      "collectorNumber": "56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-90",
+    "englishName": "Misty's Staryu",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "90",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/90.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/90_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-90",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:90:english:gym1-90",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-90",
+      "setId": "gym1",
+      "collectorNumber": "90",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-90",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-32",
+    "englishName": "Misty's Tentacool",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "32",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/32.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-32",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:32:english:gym1-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-32",
+      "setId": "gym1",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-57",
+    "englishName": "Misty's Tentacool",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "57",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/57.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-57",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:57:english:gym1-57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-57",
+      "setId": "gym1",
+      "collectorNumber": "57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-10",
+    "englishName": "Misty's Tentacruel",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "10",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/10.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-10",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:10:english:gym1-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-10",
+      "setId": "gym1",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-114",
+    "englishName": "Misty's Wrath",
+    "category": "Trainer",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "114",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/114.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/114_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-114",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:114:english:gym1-114",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-114",
+      "setId": "gym1",
+      "collectorNumber": "114",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-114",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-102",
+    "englishName": "Misty",
+    "category": "Trainer",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "102",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/102.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/102_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-102",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:102:english:gym1-102",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-102",
+      "setId": "gym1",
+      "collectorNumber": "102",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-102",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-18",
+    "englishName": "Misty",
+    "category": "Trainer",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "18",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/18.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-18",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:18:english:gym1-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-18",
+      "setId": "gym1",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-124",
+    "englishName": "Narrow Gym",
+    "category": "Trainer",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "124",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/124.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/124_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-124",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:124:english:gym1-124",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-124",
+      "setId": "gym1",
+      "collectorNumber": "124",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-124",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-103",
+    "englishName": "No Removal Gym",
+    "category": "Trainer",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "103",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/103.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/103_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-103",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:103:english:gym1-103",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-103",
+      "setId": "gym1",
+      "collectorNumber": "103",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-103",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-115",
+    "englishName": "Pewter City Gym",
+    "category": "Trainer",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "115",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/115.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/115_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-115",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:115:english:gym1-115",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-115",
+      "setId": "gym1",
+      "collectorNumber": "115",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-115",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-131",
+    "englishName": "Psychic Energy",
+    "category": "Energy",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "131",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/131.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/131_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-131",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:131:english:gym1-131",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-131",
+      "setId": "gym1",
+      "collectorNumber": "131",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-131",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-116",
+    "englishName": "Recall",
+    "category": "Trainer",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "116",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/116.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/116_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-116",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:116:english:gym1-116",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-116",
+      "setId": "gym1",
+      "collectorNumber": "116",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-116",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-11",
+    "englishName": "Rocket's Hitmonchan",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "11",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/11.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-11",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:11:english:gym1-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-11",
+      "setId": "gym1",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-12",
+    "englishName": "Rocket's Moltres",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "12",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/12.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-12",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:12:english:gym1-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-12",
+      "setId": "gym1",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-13",
+    "englishName": "Rocket's Scyther",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "13",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/13.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-13",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:13:english:gym1-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-13",
+      "setId": "gym1",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-33",
+    "englishName": "Rocket's Snorlax",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "33",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/33.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-33",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:33:english:gym1-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-33",
+      "setId": "gym1",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-91",
+    "englishName": "Sabrina's Abra",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "91",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/91.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/91_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-91",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:91:english:gym1-91",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-91",
+      "setId": "gym1",
+      "collectorNumber": "91",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-91",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-92",
+    "englishName": "Sabrina's Drowzee",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "92",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/92.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/92_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-92",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:92:english:gym1-92",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-92",
+      "setId": "gym1",
+      "collectorNumber": "92",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-92",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-117",
+    "englishName": "Sabrina's ESP",
+    "category": "Trainer",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "117",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/117.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/117_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-117",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:117:english:gym1-117",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-117",
+      "setId": "gym1",
+      "collectorNumber": "117",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-117",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-93",
+    "englishName": "Sabrina's Gastly",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "93",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/93.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/93_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-93",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:93:english:gym1-93",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-93",
+      "setId": "gym1",
+      "collectorNumber": "93",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-93",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-125",
+    "englishName": "Sabrina's Gaze",
+    "category": "Trainer",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "125",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/125.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/125_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-125",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:125:english:gym1-125",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-125",
+      "setId": "gym1",
+      "collectorNumber": "125",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-125",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-14",
+    "englishName": "Sabrina's Gengar",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "14",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/14.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-14",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:14:english:gym1-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-14",
+      "setId": "gym1",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-58",
+    "englishName": "Sabrina's Haunter",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "58",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/58.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-58",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:58:english:gym1-58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-58",
+      "setId": "gym1",
+      "collectorNumber": "58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-59",
+    "englishName": "Sabrina's Jynx",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "59",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/59.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-59",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:59:english:gym1-59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-59",
+      "setId": "gym1",
+      "collectorNumber": "59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-94",
+    "englishName": "Sabrina's Mr. Mime",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "94",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/94.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/94_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-94",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:94:english:gym1-94",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-94",
+      "setId": "gym1",
+      "collectorNumber": "94",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-94",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-60",
+    "englishName": "Sabrina's Slowbro",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "60",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/60.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-60",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:60:english:gym1-60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-60",
+      "setId": "gym1",
+      "collectorNumber": "60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-95",
+    "englishName": "Sabrina's Slowpoke",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "95",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/95.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/95_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-95",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:95:english:gym1-95",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-95",
+      "setId": "gym1",
+      "collectorNumber": "95",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-95",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-34",
+    "englishName": "Sabrina's Venomoth",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "34",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/34.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-34",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:34:english:gym1-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-34",
+      "setId": "gym1",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-96",
+    "englishName": "Sabrina's Venonat",
+    "category": "Pokemon",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "96",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/96.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/96_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-96",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:96:english:gym1-96",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-96",
+      "setId": "gym1",
+      "collectorNumber": "96",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-96",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-118",
+    "englishName": "Secret Mission",
+    "category": "Trainer",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "118",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/118.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/118_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-118",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:118:english:gym1-118",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-118",
+      "setId": "gym1",
+      "collectorNumber": "118",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-118",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-104",
+    "englishName": "The Rocket's Training Gym",
+    "category": "Trainer",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "104",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/104.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/104_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-104",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:104:english:gym1-104",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-104",
+      "setId": "gym1",
+      "collectorNumber": "104",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-104",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-19",
+    "englishName": "The Rocket's Trap",
+    "category": "Trainer",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "19",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/19.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-19",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:19:english:gym1-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-19",
+      "setId": "gym1",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-119",
+    "englishName": "Tickling Machine",
+    "category": "Trainer",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "119",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/119.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/119_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-119",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:119:english:gym1-119",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-119",
+      "setId": "gym1",
+      "collectorNumber": "119",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-119",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-126",
+    "englishName": "Trash Exchange",
+    "category": "Trainer",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "126",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/126.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/126_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-126",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:126:english:gym1-126",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-126",
+      "setId": "gym1",
+      "collectorNumber": "126",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-126",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-120",
+    "englishName": "Vermilion City Gym",
+    "category": "Trainer",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "120",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/120.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/120_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-120",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:120:english:gym1-120",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-120",
+      "setId": "gym1",
+      "collectorNumber": "120",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-120",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "gym1-132",
+    "englishName": "Water Energy",
+    "category": "Energy",
+    "setCode": "G1",
+    "setName": "Gym Heroes",
+    "cardNumber": "132",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/gym1/132.png",
+    "imageLarge": "https://images.pokemontcg.io/gym1/132_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "gym1-132",
+    "sourceSetId": "gym1",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:gym1:132:english:gym1-132",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "gym1-132",
+      "setId": "gym1",
+      "collectorNumber": "132",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "gym1-132",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

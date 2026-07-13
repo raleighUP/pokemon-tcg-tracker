@@ -1,0 +1,2756 @@
+[
+  {
+    "id": "ex5-84",
+    "englishName": "Ancient Technical Machine [Ice]",
+    "category": "Trainer",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "84",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/84.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/84_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-84",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:84:english:ex5-84",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-84",
+      "setId": "ex5",
+      "collectorNumber": "84",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-84",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-85",
+    "englishName": "Ancient Technical Machine [Rock]",
+    "category": "Trainer",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "85",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/85.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/85_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-85",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:85:english:ex5-85",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-85",
+      "setId": "ex5",
+      "collectorNumber": "85",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-85",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-86",
+    "englishName": "Ancient Technical Machine [Steel]",
+    "category": "Trainer",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "86",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/86.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/86_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-86",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:86:english:ex5-86",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-86",
+      "setId": "ex5",
+      "collectorNumber": "86",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-86",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-87",
+    "englishName": "Ancient Tomb",
+    "category": "Trainer",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "87",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/87.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/87_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-87",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:87:english:ex5-87",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-87",
+      "setId": "ex5",
+      "collectorNumber": "87",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-87",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-52",
+    "englishName": "Baltoy",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "52",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/52.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-52",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:52:english:ex5-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-52",
+      "setId": "ex5",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-53",
+    "englishName": "Baltoy",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "53",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/53.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-53",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:53:english:ex5-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-53",
+      "setId": "ex5",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-1",
+    "englishName": "Banette",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "1",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/1.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-1",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:1:english:ex5-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-1",
+      "setId": "ex5",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-28",
+    "englishName": "Beldum",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "28",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/28.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-28",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:28:english:ex5-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-28",
+      "setId": "ex5",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-29",
+    "englishName": "Beldum",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "29",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/29.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-29",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:29:english:ex5-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-29",
+      "setId": "ex5",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-54",
+    "englishName": "Beldum",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "54",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/54.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-54",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:54:english:ex5-54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-54",
+      "setId": "ex5",
+      "collectorNumber": "54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-16",
+    "englishName": "Bellossom",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "16",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/16.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-16",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:16:english:ex5-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-16",
+      "setId": "ex5",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-30",
+    "englishName": "Castform",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "30",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/30.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-30",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:30:english:ex5-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-30",
+      "setId": "ex5",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-55",
+    "englishName": "Chikorita",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "55",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/55.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-55",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:55:english:ex5-55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-55",
+      "setId": "ex5",
+      "collectorNumber": "55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-17",
+    "englishName": "Chimecho",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "17",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/17.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-17",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:17:english:ex5-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-17",
+      "setId": "ex5",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-56",
+    "englishName": "Chinchou",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "56",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/56.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-56",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:56:english:ex5-56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-56",
+      "setId": "ex5",
+      "collectorNumber": "56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-57",
+    "englishName": "Chinchou",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "57",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/57.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-57",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:57:english:ex5-57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-57",
+      "setId": "ex5",
+      "collectorNumber": "57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-58",
+    "englishName": "Clamperl",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "58",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/58.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-58",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:58:english:ex5-58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-58",
+      "setId": "ex5",
+      "collectorNumber": "58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-2",
+    "englishName": "Claydol",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "2",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/2.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-2",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:2:english:ex5-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-2",
+      "setId": "ex5",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-31",
+    "englishName": "Claydol",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "31",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/31.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-31",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:31:english:ex5-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-31",
+      "setId": "ex5",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-32",
+    "englishName": "Corsola",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "32",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/32.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-32",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:32:english:ex5-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-32",
+      "setId": "ex5",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-3",
+    "englishName": "Crobat",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "3",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/3.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-3",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:3:english:ex5-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-3",
+      "setId": "ex5",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-59",
+    "englishName": "Cyndaquil",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "59",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/59.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-59",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:59:english:ex5-59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-59",
+      "setId": "ex5",
+      "collectorNumber": "59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-4",
+    "englishName": "Dark Celebi",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "4",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/4.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-4",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:4:english:ex5-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-4",
+      "setId": "ex5",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-88",
+    "englishName": "Desert Ruins",
+    "category": "Trainer",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "88",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/88.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/88_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-88",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:88:english:ex5-88",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-88",
+      "setId": "ex5",
+      "collectorNumber": "88",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-88",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-33",
+    "englishName": "Dodrio",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "33",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/33.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-33",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:33:english:ex5-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-33",
+      "setId": "ex5",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-60",
+    "englishName": "Doduo",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "60",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/60.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-60",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:60:english:ex5-60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-60",
+      "setId": "ex5",
+      "collectorNumber": "60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-5",
+    "englishName": "Electrode",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "5",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/5.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-5",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:5:english:ex5-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-5",
+      "setId": "ex5",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-6",
+    "englishName": "Exploud",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "6",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/6.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-6",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:6:english:ex5-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-6",
+      "setId": "ex5",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-61",
+    "englishName": "Feebas",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "61",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/61.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-61",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:61:english:ex5-61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-61",
+      "setId": "ex5",
+      "collectorNumber": "61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-34",
+    "englishName": "Glalie",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "34",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/34.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-34",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:34:english:ex5-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-34",
+      "setId": "ex5",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-35",
+    "englishName": "Gloom",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "35",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/35.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-35",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:35:english:ex5-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-35",
+      "setId": "ex5",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-36",
+    "englishName": "Golbat",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "36",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/36.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-36",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:36:english:ex5-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-36",
+      "setId": "ex5",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-18",
+    "englishName": "Gorebyss",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "18",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/18.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-18",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:18:english:ex5-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-18",
+      "setId": "ex5",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-93",
+    "englishName": "Groudon ex",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "93",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/93.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/93_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-93",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:93:english:ex5-93",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-93",
+      "setId": "ex5",
+      "collectorNumber": "93",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-93",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-102",
+    "englishName": "Groudon",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "102",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/102.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/102_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-102",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:102:english:ex5-102",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-102",
+      "setId": "ex5",
+      "collectorNumber": "102",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-102",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-62",
+    "englishName": "Gulpin",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "62",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/62.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-62",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:62:english:ex5-62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-62",
+      "setId": "ex5",
+      "collectorNumber": "62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-7",
+    "englishName": "Heracross",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "7",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/7.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-7",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:7:english:ex5-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-7",
+      "setId": "ex5",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-19",
+    "englishName": "Huntail",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "19",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/19.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-19",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:19:english:ex5-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-19",
+      "setId": "ex5",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-37",
+    "englishName": "Igglybuff",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "37",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/37.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-37",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:37:english:ex5-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-37",
+      "setId": "ex5",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-89",
+    "englishName": "Island Cave",
+    "category": "Trainer",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "89",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/89.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/89_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-89",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:89:english:ex5-89",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-89",
+      "setId": "ex5",
+      "collectorNumber": "89",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-89",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-63",
+    "englishName": "Jigglypuff",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "63",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/63.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-63",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:63:english:ex5-63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-63",
+      "setId": "ex5",
+      "collectorNumber": "63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-8",
+    "englishName": "Jirachi",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "8",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/8.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-8",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:8:english:ex5-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-8",
+      "setId": "ex5",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-94",
+    "englishName": "Kyogre ex",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "94",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/94.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/94_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-94",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:94:english:ex5-94",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-94",
+      "setId": "ex5",
+      "collectorNumber": "94",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-94",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-38",
+    "englishName": "Lanturn",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "38",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/38.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-38",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:38:english:ex5-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-38",
+      "setId": "ex5",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-90",
+    "englishName": "Life Herb",
+    "category": "Trainer",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "90",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/90.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/90_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-90",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:90:english:ex5-90",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-90",
+      "setId": "ex5",
+      "collectorNumber": "90",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-90",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-39",
+    "englishName": "Loudred",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "39",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/39.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-39",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:39:english:ex5-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-39",
+      "setId": "ex5",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-40",
+    "englishName": "Luvdisc",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "40",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/40.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-40",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:40:english:ex5-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-40",
+      "setId": "ex5",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-9",
+    "englishName": "Machamp",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "9",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/9.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-9",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:9:english:ex5-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-9",
+      "setId": "ex5",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-41",
+    "englishName": "Machoke",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "41",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/41.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-41",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:41:english:ex5-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-41",
+      "setId": "ex5",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-64",
+    "englishName": "Machop",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "64",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/64.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-64",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:64:english:ex5-64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-64",
+      "setId": "ex5",
+      "collectorNumber": "64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-91",
+    "englishName": "Magnetic Storm",
+    "category": "Trainer",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "91",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/91.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/91_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-91",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:91:english:ex5-91",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-91",
+      "setId": "ex5",
+      "collectorNumber": "91",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-91",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-20",
+    "englishName": "Masquerain",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "20",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/20.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-20",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:20:english:ex5-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-20",
+      "setId": "ex5",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-10",
+    "englishName": "Medicham",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "10",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/10.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-10",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:10:english:ex5-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-10",
+      "setId": "ex5",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-42",
+    "englishName": "Medicham",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "42",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/42.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-42",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:42:english:ex5-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-42",
+      "setId": "ex5",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-65",
+    "englishName": "Meditite",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "65",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/65.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-65",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:65:english:ex5-65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-65",
+      "setId": "ex5",
+      "collectorNumber": "65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-66",
+    "englishName": "Meditite",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "66",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/66.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-66",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:66:english:ex5-66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-66",
+      "setId": "ex5",
+      "collectorNumber": "66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-95",
+    "englishName": "Metagross ex",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "95",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/95.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/95_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-95",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:95:english:ex5-95",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-95",
+      "setId": "ex5",
+      "collectorNumber": "95",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-95",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-11",
+    "englishName": "Metagross",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "11",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/11.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-11",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:11:english:ex5-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-11",
+      "setId": "ex5",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-21",
+    "englishName": "Metang",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "21",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/21.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-21",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:21:english:ex5-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-21",
+      "setId": "ex5",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-43",
+    "englishName": "Metang",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "43",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/43.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-43",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:43:english:ex5-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-43",
+      "setId": "ex5",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-44",
+    "englishName": "Metang",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "44",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/44.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-44",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:44:english:ex5-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-44",
+      "setId": "ex5",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-12",
+    "englishName": "Milotic",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "12",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/12.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-12",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:12:english:ex5-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-12",
+      "setId": "ex5",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-67",
+    "englishName": "Minun",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "67",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/67.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-67",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:67:english:ex5-67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-67",
+      "setId": "ex5",
+      "collectorNumber": "67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-96",
+    "englishName": "Ninetales ex",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "96",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/96.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/96_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-96",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:96:english:ex5-96",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-96",
+      "setId": "ex5",
+      "collectorNumber": "96",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-96",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-22",
+    "englishName": "Ninetales",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "22",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/22.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-22",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:22:english:ex5-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-22",
+      "setId": "ex5",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-45",
+    "englishName": "Nuzleaf",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "45",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/45.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-45",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:45:english:ex5-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-45",
+      "setId": "ex5",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-68",
+    "englishName": "Oddish",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "68",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/68.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-68",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:68:english:ex5-68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-68",
+      "setId": "ex5",
+      "collectorNumber": "68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-13",
+    "englishName": "Pinsir",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "13",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/13.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-13",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:13:english:ex5-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-13",
+      "setId": "ex5",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-69",
+    "englishName": "Plusle",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "69",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/69.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-69",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:69:english:ex5-69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-69",
+      "setId": "ex5",
+      "collectorNumber": "69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-23",
+    "englishName": "Rain Castform",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "23",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/23.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-23",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:23:english:ex5-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-23",
+      "setId": "ex5",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-97",
+    "englishName": "Regice ex",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "97",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/97.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/97_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-97",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:97:english:ex5-97",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-97",
+      "setId": "ex5",
+      "collectorNumber": "97",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-97",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-98",
+    "englishName": "Regirock ex",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "98",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/98.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/98_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-98",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:98:english:ex5-98",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-98",
+      "setId": "ex5",
+      "collectorNumber": "98",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-98",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-99",
+    "englishName": "Registeel ex",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "99",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/99.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/99_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-99",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:99:english:ex5-99",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-99",
+      "setId": "ex5",
+      "collectorNumber": "99",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-99",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-24",
+    "englishName": "Relicanth",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "24",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/24.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-24",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:24:english:ex5-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-24",
+      "setId": "ex5",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-46",
+    "englishName": "Rhydon",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "46",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/46.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-46",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:46:english:ex5-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-46",
+      "setId": "ex5",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-70",
+    "englishName": "Rhyhorn",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "70",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/70.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-70",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:70:english:ex5-70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-70",
+      "setId": "ex5",
+      "collectorNumber": "70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-47",
+    "englishName": "Sealeo",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "47",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/47.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-47",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:47:english:ex5-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-47",
+      "setId": "ex5",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-71",
+    "englishName": "Seedot",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "71",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/71.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-71",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:71:english:ex5-71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-71",
+      "setId": "ex5",
+      "collectorNumber": "71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-14",
+    "englishName": "Shiftry",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "14",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/14.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-14",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:14:english:ex5-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-14",
+      "setId": "ex5",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-72",
+    "englishName": "Shuppet",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "72",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/72.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-72",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:72:english:ex5-72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-72",
+      "setId": "ex5",
+      "collectorNumber": "72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-73",
+    "englishName": "Snorunt",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "73",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/73.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-73",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:73:english:ex5-73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-73",
+      "setId": "ex5",
+      "collectorNumber": "73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-25",
+    "englishName": "Snow-cloud Castform",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "25",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/25.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-25",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:25:english:ex5-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-25",
+      "setId": "ex5",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-74",
+    "englishName": "Spheal",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "74",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/74.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-74",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:74:english:ex5-74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-74",
+      "setId": "ex5",
+      "collectorNumber": "74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-48",
+    "englishName": "Spinda",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "48",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/48.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-48",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:48:english:ex5-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-48",
+      "setId": "ex5",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-49",
+    "englishName": "Starmie",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "49",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/49.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-49",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:49:english:ex5-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-49",
+      "setId": "ex5",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-75",
+    "englishName": "Staryu",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "75",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/75.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-75",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:75:english:ex5-75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-75",
+      "setId": "ex5",
+      "collectorNumber": "75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-92",
+    "englishName": "Steven's Advice",
+    "category": "Trainer",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "92",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/92.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/92_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-92",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:92:english:ex5-92",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-92",
+      "setId": "ex5",
+      "collectorNumber": "92",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-92",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-26",
+    "englishName": "Sunny Castform",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "26",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/26.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-26",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:26:english:ex5-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-26",
+      "setId": "ex5",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-76",
+    "englishName": "Surskit",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "76",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/76.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-76",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:76:english:ex5-76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-76",
+      "setId": "ex5",
+      "collectorNumber": "76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-50",
+    "englishName": "Swalot",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "50",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/50.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-50",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:50:english:ex5-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-50",
+      "setId": "ex5",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-77",
+    "englishName": "Tentacool",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "77",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/77.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-77",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:77:english:ex5-77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-77",
+      "setId": "ex5",
+      "collectorNumber": "77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-51",
+    "englishName": "Tentacruel",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "51",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/51.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-51",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:51:english:ex5-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-51",
+      "setId": "ex5",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-78",
+    "englishName": "Togepi",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "78",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/78.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-78",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:78:english:ex5-78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-78",
+      "setId": "ex5",
+      "collectorNumber": "78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-79",
+    "englishName": "Totodile",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "79",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/79.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/79_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-79",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:79:english:ex5-79",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-79",
+      "setId": "ex5",
+      "collectorNumber": "79",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-79",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-27",
+    "englishName": "Tropius",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "27",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/27.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-27",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:27:english:ex5-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-27",
+      "setId": "ex5",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-100",
+    "englishName": "Vileplume ex",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "100",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/100.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/100_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-100",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:100:english:ex5-100",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-100",
+      "setId": "ex5",
+      "collectorNumber": "100",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-100",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-80",
+    "englishName": "Voltorb",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "80",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/80.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/80_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-80",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:80:english:ex5-80",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-80",
+      "setId": "ex5",
+      "collectorNumber": "80",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-80",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-81",
+    "englishName": "Vulpix",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "81",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/81.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/81_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-81",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:81:english:ex5-81",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-81",
+      "setId": "ex5",
+      "collectorNumber": "81",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-81",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-15",
+    "englishName": "Walrein",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "15",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/15.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-15",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:15:english:ex5-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-15",
+      "setId": "ex5",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-82",
+    "englishName": "Whismur",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "82",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/82.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/82_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-82",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:82:english:ex5-82",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-82",
+      "setId": "ex5",
+      "collectorNumber": "82",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-82",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-101",
+    "englishName": "Wigglytuff ex",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "101",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/101.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/101_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-101",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:101:english:ex5-101",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-101",
+      "setId": "ex5",
+      "collectorNumber": "101",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-101",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex5-83",
+    "englishName": "Zubat",
+    "category": "Pokemon",
+    "setCode": "HL",
+    "setName": "Hidden Legends",
+    "cardNumber": "83",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex5/83.png",
+    "imageLarge": "https://images.pokemontcg.io/ex5/83_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex5-83",
+    "sourceSetId": "ex5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex5:83:english:ex5-83",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex5-83",
+      "setId": "ex5",
+      "collectorNumber": "83",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex5-83",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

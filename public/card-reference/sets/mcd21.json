@@ -1,0 +1,705 @@
+[
+  {
+    "id": "mcd21-1",
+    "englishName": "Bulbasaur",
+    "category": "Pokemon",
+    "setCode": "mcd21",
+    "setName": "McDonald's Collection 2021",
+    "cardNumber": "1",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/mcd21/1.png",
+    "imageLarge": "https://images.pokemontcg.io/mcd21/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "mcd21-1",
+    "sourceSetId": "mcd21",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:mcd21:1:english:mcd21-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "mcd21-1",
+      "setId": "mcd21",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "mcd21-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "mcd21-9",
+    "englishName": "Charmander",
+    "category": "Pokemon",
+    "setCode": "mcd21",
+    "setName": "McDonald's Collection 2021",
+    "cardNumber": "9",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/mcd21/9.png",
+    "imageLarge": "https://images.pokemontcg.io/mcd21/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "mcd21-9",
+    "sourceSetId": "mcd21",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:mcd21:9:english:mcd21-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "mcd21-9",
+      "setId": "mcd21",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "mcd21-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "mcd21-6",
+    "englishName": "Chespin",
+    "category": "Pokemon",
+    "setCode": "mcd21",
+    "setName": "McDonald's Collection 2021",
+    "cardNumber": "6",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/mcd21/6.png",
+    "imageLarge": "https://images.pokemontcg.io/mcd21/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "mcd21-6",
+    "sourceSetId": "mcd21",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:mcd21:6:english:mcd21-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "mcd21-6",
+      "setId": "mcd21",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "mcd21-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "mcd21-2",
+    "englishName": "Chikorita",
+    "category": "Pokemon",
+    "setCode": "mcd21",
+    "setName": "McDonald's Collection 2021",
+    "cardNumber": "2",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/mcd21/2.png",
+    "imageLarge": "https://images.pokemontcg.io/mcd21/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "mcd21-2",
+    "sourceSetId": "mcd21",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:mcd21:2:english:mcd21-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "mcd21-2",
+      "setId": "mcd21",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "mcd21-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "mcd21-12",
+    "englishName": "Chimchar",
+    "category": "Pokemon",
+    "setCode": "mcd21",
+    "setName": "McDonald's Collection 2021",
+    "cardNumber": "12",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/mcd21/12.png",
+    "imageLarge": "https://images.pokemontcg.io/mcd21/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "mcd21-12",
+    "sourceSetId": "mcd21",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:mcd21:12:english:mcd21-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "mcd21-12",
+      "setId": "mcd21",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "mcd21-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "mcd21-10",
+    "englishName": "Cyndaquil",
+    "category": "Pokemon",
+    "setCode": "mcd21",
+    "setName": "McDonald's Collection 2021",
+    "cardNumber": "10",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/mcd21/10.png",
+    "imageLarge": "https://images.pokemontcg.io/mcd21/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "mcd21-10",
+    "sourceSetId": "mcd21",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:mcd21:10:english:mcd21-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "mcd21-10",
+      "setId": "mcd21",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "mcd21-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "mcd21-14",
+    "englishName": "Fennekin",
+    "category": "Pokemon",
+    "setCode": "mcd21",
+    "setName": "McDonald's Collection 2021",
+    "cardNumber": "14",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/mcd21/14.png",
+    "imageLarge": "https://images.pokemontcg.io/mcd21/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "mcd21-14",
+    "sourceSetId": "mcd21",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:mcd21:14:english:mcd21-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "mcd21-14",
+      "setId": "mcd21",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "mcd21-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "mcd21-22",
+    "englishName": "Froakie",
+    "category": "Pokemon",
+    "setCode": "mcd21",
+    "setName": "McDonald's Collection 2021",
+    "cardNumber": "22",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/mcd21/22.png",
+    "imageLarge": "https://images.pokemontcg.io/mcd21/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "mcd21-22",
+    "sourceSetId": "mcd21",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:mcd21:22:english:mcd21-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "mcd21-22",
+      "setId": "mcd21",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "mcd21-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "mcd21-8",
+    "englishName": "Grookey",
+    "category": "Pokemon",
+    "setCode": "mcd21",
+    "setName": "McDonald's Collection 2021",
+    "cardNumber": "8",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/mcd21/8.png",
+    "imageLarge": "https://images.pokemontcg.io/mcd21/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "mcd21-8",
+    "sourceSetId": "mcd21",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:mcd21:8:english:mcd21-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "mcd21-8",
+      "setId": "mcd21",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "mcd21-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "mcd21-15",
+    "englishName": "Litten",
+    "category": "Pokemon",
+    "setCode": "mcd21",
+    "setName": "McDonald's Collection 2021",
+    "cardNumber": "15",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/mcd21/15.png",
+    "imageLarge": "https://images.pokemontcg.io/mcd21/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "mcd21-15",
+    "sourceSetId": "mcd21",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:mcd21:15:english:mcd21-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "mcd21-15",
+      "setId": "mcd21",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "mcd21-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "mcd21-19",
+    "englishName": "Mudkip",
+    "category": "Pokemon",
+    "setCode": "mcd21",
+    "setName": "McDonald's Collection 2021",
+    "cardNumber": "19",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/mcd21/19.png",
+    "imageLarge": "https://images.pokemontcg.io/mcd21/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "mcd21-19",
+    "sourceSetId": "mcd21",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:mcd21:19:english:mcd21-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "mcd21-19",
+      "setId": "mcd21",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "mcd21-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "mcd21-21",
+    "englishName": "Oshawott",
+    "category": "Pokemon",
+    "setCode": "mcd21",
+    "setName": "McDonald's Collection 2021",
+    "cardNumber": "21",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/mcd21/21.png",
+    "imageLarge": "https://images.pokemontcg.io/mcd21/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "mcd21-21",
+    "sourceSetId": "mcd21",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:mcd21:21:english:mcd21-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "mcd21-21",
+      "setId": "mcd21",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "mcd21-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "mcd21-25",
+    "englishName": "Pikachu",
+    "category": "Pokemon",
+    "setCode": "mcd21",
+    "setName": "McDonald's Collection 2021",
+    "cardNumber": "25",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/mcd21/25.png",
+    "imageLarge": "https://images.pokemontcg.io/mcd21/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "mcd21-25",
+    "sourceSetId": "mcd21",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:mcd21:25:english:mcd21-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "mcd21-25",
+      "setId": "mcd21",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "mcd21-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "mcd21-20",
+    "englishName": "Piplup",
+    "category": "Pokemon",
+    "setCode": "mcd21",
+    "setName": "McDonald's Collection 2021",
+    "cardNumber": "20",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/mcd21/20.png",
+    "imageLarge": "https://images.pokemontcg.io/mcd21/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "mcd21-20",
+    "sourceSetId": "mcd21",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:mcd21:20:english:mcd21-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "mcd21-20",
+      "setId": "mcd21",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "mcd21-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "mcd21-23",
+    "englishName": "Popplio",
+    "category": "Pokemon",
+    "setCode": "mcd21",
+    "setName": "McDonald's Collection 2021",
+    "cardNumber": "23",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/mcd21/23.png",
+    "imageLarge": "https://images.pokemontcg.io/mcd21/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "mcd21-23",
+    "sourceSetId": "mcd21",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:mcd21:23:english:mcd21-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "mcd21-23",
+      "setId": "mcd21",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "mcd21-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "mcd21-7",
+    "englishName": "Rowlet",
+    "category": "Pokemon",
+    "setCode": "mcd21",
+    "setName": "McDonald's Collection 2021",
+    "cardNumber": "7",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/mcd21/7.png",
+    "imageLarge": "https://images.pokemontcg.io/mcd21/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "mcd21-7",
+    "sourceSetId": "mcd21",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:mcd21:7:english:mcd21-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "mcd21-7",
+      "setId": "mcd21",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "mcd21-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "mcd21-16",
+    "englishName": "Scorbunny",
+    "category": "Pokemon",
+    "setCode": "mcd21",
+    "setName": "McDonald's Collection 2021",
+    "cardNumber": "16",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/mcd21/16.png",
+    "imageLarge": "https://images.pokemontcg.io/mcd21/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "mcd21-16",
+    "sourceSetId": "mcd21",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:mcd21:16:english:mcd21-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "mcd21-16",
+      "setId": "mcd21",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "mcd21-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "mcd21-5",
+    "englishName": "Snivy",
+    "category": "Pokemon",
+    "setCode": "mcd21",
+    "setName": "McDonald's Collection 2021",
+    "cardNumber": "5",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/mcd21/5.png",
+    "imageLarge": "https://images.pokemontcg.io/mcd21/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "mcd21-5",
+    "sourceSetId": "mcd21",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:mcd21:5:english:mcd21-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "mcd21-5",
+      "setId": "mcd21",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "mcd21-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "mcd21-24",
+    "englishName": "Sobble",
+    "category": "Pokemon",
+    "setCode": "mcd21",
+    "setName": "McDonald's Collection 2021",
+    "cardNumber": "24",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/mcd21/24.png",
+    "imageLarge": "https://images.pokemontcg.io/mcd21/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "mcd21-24",
+    "sourceSetId": "mcd21",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:mcd21:24:english:mcd21-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "mcd21-24",
+      "setId": "mcd21",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "mcd21-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "mcd21-17",
+    "englishName": "Squirtle",
+    "category": "Pokemon",
+    "setCode": "mcd21",
+    "setName": "McDonald's Collection 2021",
+    "cardNumber": "17",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/mcd21/17.png",
+    "imageLarge": "https://images.pokemontcg.io/mcd21/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "mcd21-17",
+    "sourceSetId": "mcd21",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:mcd21:17:english:mcd21-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "mcd21-17",
+      "setId": "mcd21",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "mcd21-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "mcd21-13",
+    "englishName": "Tepig",
+    "category": "Pokemon",
+    "setCode": "mcd21",
+    "setName": "McDonald's Collection 2021",
+    "cardNumber": "13",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/mcd21/13.png",
+    "imageLarge": "https://images.pokemontcg.io/mcd21/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "mcd21-13",
+    "sourceSetId": "mcd21",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:mcd21:13:english:mcd21-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "mcd21-13",
+      "setId": "mcd21",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "mcd21-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "mcd21-11",
+    "englishName": "Torchic",
+    "category": "Pokemon",
+    "setCode": "mcd21",
+    "setName": "McDonald's Collection 2021",
+    "cardNumber": "11",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/mcd21/11.png",
+    "imageLarge": "https://images.pokemontcg.io/mcd21/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "mcd21-11",
+    "sourceSetId": "mcd21",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:mcd21:11:english:mcd21-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "mcd21-11",
+      "setId": "mcd21",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "mcd21-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "mcd21-18",
+    "englishName": "Totodile",
+    "category": "Pokemon",
+    "setCode": "mcd21",
+    "setName": "McDonald's Collection 2021",
+    "cardNumber": "18",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/mcd21/18.png",
+    "imageLarge": "https://images.pokemontcg.io/mcd21/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "mcd21-18",
+    "sourceSetId": "mcd21",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:mcd21:18:english:mcd21-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "mcd21-18",
+      "setId": "mcd21",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "mcd21-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "mcd21-3",
+    "englishName": "Treecko",
+    "category": "Pokemon",
+    "setCode": "mcd21",
+    "setName": "McDonald's Collection 2021",
+    "cardNumber": "3",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/mcd21/3.png",
+    "imageLarge": "https://images.pokemontcg.io/mcd21/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "mcd21-3",
+    "sourceSetId": "mcd21",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:mcd21:3:english:mcd21-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "mcd21-3",
+      "setId": "mcd21",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "mcd21-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "mcd21-4",
+    "englishName": "Turtwig",
+    "category": "Pokemon",
+    "setCode": "mcd21",
+    "setName": "McDonald's Collection 2021",
+    "cardNumber": "4",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/mcd21/4.png",
+    "imageLarge": "https://images.pokemontcg.io/mcd21/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "mcd21-4",
+    "sourceSetId": "mcd21",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:mcd21:4:english:mcd21-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "mcd21-4",
+      "setId": "mcd21",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "mcd21-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

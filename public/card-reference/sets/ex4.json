@@ -1,0 +1,2621 @@
+[
+  {
+    "id": "ex4-96",
+    "englishName": "Absol",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "96",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/96.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/96_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-96",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:96:english:ex4-96",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-96",
+      "setId": "ex4",
+      "collectorNumber": "96",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-96",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-86",
+    "englishName": "Aqua Energy",
+    "category": "Energy",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "86",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/86.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/86_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-86",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:86:english:ex4-86",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-86",
+      "setId": "ex4",
+      "collectorNumber": "86",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-86",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-71",
+    "englishName": "Archie",
+    "category": "Trainer",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "71",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/71.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-71",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:71:english:ex4-71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-71",
+      "setId": "ex4",
+      "collectorNumber": "71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-89",
+    "englishName": "Blaziken ex",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "89",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/89.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/89_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-89",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:89:english:ex4-89",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-89",
+      "setId": "ex4",
+      "collectorNumber": "89",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-89",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-39",
+    "englishName": "Bulbasaur",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "39",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/39.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-39",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:39:english:ex4-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-39",
+      "setId": "ex4",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-90",
+    "englishName": "Cradily ex",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "90",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/90.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/90_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-90",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:90:english:ex4-90",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-90",
+      "setId": "ex4",
+      "collectorNumber": "90",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-90",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-40",
+    "englishName": "Cubone",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "40",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/40.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-40",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:40:english:ex4-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-40",
+      "setId": "ex4",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-88",
+    "englishName": "Double Rainbow Energy",
+    "category": "Energy",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "88",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/88.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/88_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-88",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:88:english:ex4-88",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-88",
+      "setId": "ex4",
+      "collectorNumber": "88",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-88",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-72",
+    "englishName": "Dual Ball",
+    "category": "Trainer",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "72",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/72.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-72",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:72:english:ex4-72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-72",
+      "setId": "ex4",
+      "collectorNumber": "72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-91",
+    "englishName": "Entei ex",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "91",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/91.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/91_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-91",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:91:english:ex4-91",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-91",
+      "setId": "ex4",
+      "collectorNumber": "91",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-91",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-41",
+    "englishName": "Jigglypuff",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "41",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/41.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-41",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:41:english:ex4-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-41",
+      "setId": "ex4",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-97",
+    "englishName": "Jirachi",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "97",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/97.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/97_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-97",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:97:english:ex4-97",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-97",
+      "setId": "ex4",
+      "collectorNumber": "97",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-97",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-87",
+    "englishName": "Magma Energy",
+    "category": "Energy",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "87",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/87.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/87_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-87",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:87:english:ex4-87",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-87",
+      "setId": "ex4",
+      "collectorNumber": "87",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-87",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-73",
+    "englishName": "Maxie",
+    "category": "Trainer",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "73",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/73.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-73",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:73:english:ex4-73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-73",
+      "setId": "ex4",
+      "collectorNumber": "73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-42",
+    "englishName": "Meowth",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "42",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/42.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-42",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:42:english:ex4-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-42",
+      "setId": "ex4",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-43",
+    "englishName": "Pikachu",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "43",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/43.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-43",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:43:english:ex4-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-43",
+      "setId": "ex4",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-44",
+    "englishName": "Psyduck",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "44",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/44.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-44",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:44:english:ex4-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-44",
+      "setId": "ex4",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-13",
+    "englishName": "Raichu",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "13",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/13.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-13",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:13:english:ex4-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-13",
+      "setId": "ex4",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-92",
+    "englishName": "Raikou ex",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "92",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/92.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/92_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-92",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:92:english:ex4-92",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-92",
+      "setId": "ex4",
+      "collectorNumber": "92",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-92",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-93",
+    "englishName": "Sceptile ex",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "93",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/93.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/93_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-93",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:93:english:ex4-93",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-93",
+      "setId": "ex4",
+      "collectorNumber": "93",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-93",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-45",
+    "englishName": "Slowpoke",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "45",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/45.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-45",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:45:english:ex4-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-45",
+      "setId": "ex4",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-46",
+    "englishName": "Squirtle",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "46",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/46.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-46",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:46:english:ex4-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-46",
+      "setId": "ex4",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-74",
+    "englishName": "Strength Charm",
+    "category": "Trainer",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "74",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/74.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-74",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:74:english:ex4-74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-74",
+      "setId": "ex4",
+      "collectorNumber": "74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-94",
+    "englishName": "Suicune ex",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "94",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/94.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/94_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-94",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:94:english:ex4-94",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-94",
+      "setId": "ex4",
+      "collectorNumber": "94",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-94",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-95",
+    "englishName": "Swampert ex",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "95",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/95.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/95_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-95",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:95:english:ex4-95",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-95",
+      "setId": "ex4",
+      "collectorNumber": "95",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-95",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-75",
+    "englishName": "Team Aqua Ball",
+    "category": "Trainer",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "75",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/75.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-75",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:75:english:ex4-75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-75",
+      "setId": "ex4",
+      "collectorNumber": "75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-76",
+    "englishName": "Team Aqua Belt",
+    "category": "Trainer",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "76",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/76.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-76",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:76:english:ex4-76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-76",
+      "setId": "ex4",
+      "collectorNumber": "76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-77",
+    "englishName": "Team Aqua Conspirator",
+    "category": "Trainer",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "77",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/77.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-77",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:77:english:ex4-77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-77",
+      "setId": "ex4",
+      "collectorNumber": "77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-78",
+    "englishName": "Team Aqua Hideout",
+    "category": "Trainer",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "78",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/78.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-78",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:78:english:ex4-78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-78",
+      "setId": "ex4",
+      "collectorNumber": "78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-69",
+    "englishName": "Team Aqua Schemer",
+    "category": "Trainer",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "69",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/69.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-69",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:69:english:ex4-69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-69",
+      "setId": "ex4",
+      "collectorNumber": "69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-79",
+    "englishName": "Team Aqua Technical Machine 01",
+    "category": "Trainer",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "79",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/79.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/79_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-79",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:79:english:ex4-79",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-79",
+      "setId": "ex4",
+      "collectorNumber": "79",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-79",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-24",
+    "englishName": "Team Aqua's Cacnea",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "24",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/24.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-24",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:24:english:ex4-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-24",
+      "setId": "ex4",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-1",
+    "englishName": "Team Aqua's Cacturne",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "1",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/1.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-1",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:1:english:ex4-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-1",
+      "setId": "ex4",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-25",
+    "englishName": "Team Aqua's Carvanha",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "25",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/25.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-25",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:25:english:ex4-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-25",
+      "setId": "ex4",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-47",
+    "englishName": "Team Aqua's Carvanha",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "47",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/47.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-47",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:47:english:ex4-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-47",
+      "setId": "ex4",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-48",
+    "englishName": "Team Aqua's Carvanha",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "48",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/48.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-48",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:48:english:ex4-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-48",
+      "setId": "ex4",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-49",
+    "englishName": "Team Aqua's Chinchou",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "49",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/49.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-49",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:49:english:ex4-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-49",
+      "setId": "ex4",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-26",
+    "englishName": "Team Aqua's Corphish",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "26",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/26.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-26",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:26:english:ex4-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-26",
+      "setId": "ex4",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-50",
+    "englishName": "Team Aqua's Corphish",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "50",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/50.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-50",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:50:english:ex4-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-50",
+      "setId": "ex4",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-51",
+    "englishName": "Team Aqua's Corphish",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "51",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/51.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-51",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:51:english:ex4-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-51",
+      "setId": "ex4",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-14",
+    "englishName": "Team Aqua's Crawdaunt",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "14",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/14.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-14",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:14:english:ex4-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-14",
+      "setId": "ex4",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-2",
+    "englishName": "Team Aqua's Crawdaunt",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "2",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/2.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-2",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:2:english:ex4-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-2",
+      "setId": "ex4",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-27",
+    "englishName": "Team Aqua's Electrike",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "27",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/27.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-27",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:27:english:ex4-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-27",
+      "setId": "ex4",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-52",
+    "englishName": "Team Aqua's Electrike",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "52",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/52.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-52",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:52:english:ex4-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-52",
+      "setId": "ex4",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-53",
+    "englishName": "Team Aqua's Electrike",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "53",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/53.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-53",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:53:english:ex4-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-53",
+      "setId": "ex4",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-3",
+    "englishName": "Team Aqua's Kyogre",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "3",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/3.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-3",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:3:english:ex4-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-3",
+      "setId": "ex4",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-28",
+    "englishName": "Team Aqua's Lanturn",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "28",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/28.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-28",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:28:english:ex4-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-28",
+      "setId": "ex4",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-29",
+    "englishName": "Team Aqua's Manectric",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "29",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/29.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-29",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:29:english:ex4-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-29",
+      "setId": "ex4",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-4",
+    "englishName": "Team Aqua's Manectric",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "4",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/4.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-4",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:4:english:ex4-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-4",
+      "setId": "ex4",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-15",
+    "englishName": "Team Aqua's Mightyena",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "15",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/15.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-15",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:15:english:ex4-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-15",
+      "setId": "ex4",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-30",
+    "englishName": "Team Aqua's Mightyena",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "30",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/30.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-30",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:30:english:ex4-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-30",
+      "setId": "ex4",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-54",
+    "englishName": "Team Aqua's Poochyena",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "54",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/54.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-54",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:54:english:ex4-54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-54",
+      "setId": "ex4",
+      "collectorNumber": "54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-55",
+    "englishName": "Team Aqua's Poochyena",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "55",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/55.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-55",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:55:english:ex4-55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-55",
+      "setId": "ex4",
+      "collectorNumber": "55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-16",
+    "englishName": "Team Aqua's Sealeo",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "16",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/16.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-16",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:16:english:ex4-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-16",
+      "setId": "ex4",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-31",
+    "englishName": "Team Aqua's Sealeo",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "31",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/31.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-31",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:31:english:ex4-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-31",
+      "setId": "ex4",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-17",
+    "englishName": "Team Aqua's Seviper",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "17",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/17.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-17",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:17:english:ex4-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-17",
+      "setId": "ex4",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-18",
+    "englishName": "Team Aqua's Sharpedo",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "18",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/18.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-18",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:18:english:ex4-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-18",
+      "setId": "ex4",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-5",
+    "englishName": "Team Aqua's Sharpedo",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "5",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/5.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-5",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:5:english:ex4-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-5",
+      "setId": "ex4",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-56",
+    "englishName": "Team Aqua's Spheal",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "56",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/56.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-56",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:56:english:ex4-56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-56",
+      "setId": "ex4",
+      "collectorNumber": "56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-57",
+    "englishName": "Team Aqua's Spheal",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "57",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/57.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-57",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:57:english:ex4-57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-57",
+      "setId": "ex4",
+      "collectorNumber": "57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-6",
+    "englishName": "Team Aqua's Walrein",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "6",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/6.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-6",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:6:english:ex4-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-6",
+      "setId": "ex4",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-80",
+    "englishName": "Team Magma Ball",
+    "category": "Trainer",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "80",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/80.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/80_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-80",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:80:english:ex4-80",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-80",
+      "setId": "ex4",
+      "collectorNumber": "80",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-80",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-81",
+    "englishName": "Team Magma Belt",
+    "category": "Trainer",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "81",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/81.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/81_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-81",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:81:english:ex4-81",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-81",
+      "setId": "ex4",
+      "collectorNumber": "81",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-81",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-82",
+    "englishName": "Team Magma Conspirator",
+    "category": "Trainer",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "82",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/82.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/82_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-82",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:82:english:ex4-82",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-82",
+      "setId": "ex4",
+      "collectorNumber": "82",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-82",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-83",
+    "englishName": "Team Magma Hideout",
+    "category": "Trainer",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "83",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/83.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/83_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-83",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:83:english:ex4-83",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-83",
+      "setId": "ex4",
+      "collectorNumber": "83",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-83",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-70",
+    "englishName": "Team Magma Schemer",
+    "category": "Trainer",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "70",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/70.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-70",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:70:english:ex4-70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-70",
+      "setId": "ex4",
+      "collectorNumber": "70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-84",
+    "englishName": "Team Magma Technical Machine 01",
+    "category": "Trainer",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "84",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/84.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/84_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-84",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:84:english:ex4-84",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-84",
+      "setId": "ex4",
+      "collectorNumber": "84",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-84",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-7",
+    "englishName": "Team Magma's Aggron",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "7",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/7.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-7",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:7:english:ex4-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-7",
+      "setId": "ex4",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-58",
+    "englishName": "Team Magma's Aron",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "58",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/58.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-58",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:58:english:ex4-58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-58",
+      "setId": "ex4",
+      "collectorNumber": "58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-59",
+    "englishName": "Team Magma's Aron",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "59",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/59.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-59",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:59:english:ex4-59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-59",
+      "setId": "ex4",
+      "collectorNumber": "59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-32",
+    "englishName": "Team Magma's Baltoy",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "32",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/32.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-32",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:32:english:ex4-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-32",
+      "setId": "ex4",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-60",
+    "englishName": "Team Magma's Baltoy",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "60",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/60.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-60",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:60:english:ex4-60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-60",
+      "setId": "ex4",
+      "collectorNumber": "60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-61",
+    "englishName": "Team Magma's Baltoy",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "61",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/61.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-61",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:61:english:ex4-61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-61",
+      "setId": "ex4",
+      "collectorNumber": "61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-19",
+    "englishName": "Team Magma's Camerupt",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "19",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/19.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-19",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:19:english:ex4-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-19",
+      "setId": "ex4",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-33",
+    "englishName": "Team Magma's Claydol",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "33",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/33.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-33",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:33:english:ex4-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-33",
+      "setId": "ex4",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-8",
+    "englishName": "Team Magma's Claydol",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "8",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/8.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-8",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:8:english:ex4-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-8",
+      "setId": "ex4",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-9",
+    "englishName": "Team Magma's Groudon",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "9",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/9.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-9",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:9:english:ex4-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-9",
+      "setId": "ex4",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-10",
+    "englishName": "Team Magma's Houndoom",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "10",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/10.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-10",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:10:english:ex4-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-10",
+      "setId": "ex4",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-34",
+    "englishName": "Team Magma's Houndoom",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "34",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/34.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-34",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:34:english:ex4-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-34",
+      "setId": "ex4",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-35",
+    "englishName": "Team Magma's Houndour",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "35",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/35.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-35",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:35:english:ex4-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-35",
+      "setId": "ex4",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-62",
+    "englishName": "Team Magma's Houndour",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "62",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/62.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-62",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:62:english:ex4-62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-62",
+      "setId": "ex4",
+      "collectorNumber": "62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-63",
+    "englishName": "Team Magma's Houndour",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "63",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/63.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-63",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:63:english:ex4-63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-63",
+      "setId": "ex4",
+      "collectorNumber": "63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-20",
+    "englishName": "Team Magma's Lairon",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "20",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/20.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-20",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:20:english:ex4-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-20",
+      "setId": "ex4",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-36",
+    "englishName": "Team Magma's Lairon",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "36",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/36.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-36",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:36:english:ex4-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-36",
+      "setId": "ex4",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-21",
+    "englishName": "Team Magma's Mightyena",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "21",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/21.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-21",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:21:english:ex4-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-21",
+      "setId": "ex4",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-37",
+    "englishName": "Team Magma's Mightyena",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "37",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/37.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-37",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:37:english:ex4-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-37",
+      "setId": "ex4",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-64",
+    "englishName": "Team Magma's Numel",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "64",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/64.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-64",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:64:english:ex4-64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-64",
+      "setId": "ex4",
+      "collectorNumber": "64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-65",
+    "englishName": "Team Magma's Poochyena",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "65",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/65.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-65",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:65:english:ex4-65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-65",
+      "setId": "ex4",
+      "collectorNumber": "65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-66",
+    "englishName": "Team Magma's Poochyena",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "66",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/66.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-66",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:66:english:ex4-66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-66",
+      "setId": "ex4",
+      "collectorNumber": "66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-11",
+    "englishName": "Team Magma's Rhydon",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "11",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/11.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-11",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:11:english:ex4-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-11",
+      "setId": "ex4",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-22",
+    "englishName": "Team Magma's Rhydon",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "22",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/22.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-22",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:22:english:ex4-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-22",
+      "setId": "ex4",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-38",
+    "englishName": "Team Magma's Rhyhorn",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "38",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/38.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-38",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:38:english:ex4-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-38",
+      "setId": "ex4",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-67",
+    "englishName": "Team Magma's Rhyhorn",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "67",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/67.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-67",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:67:english:ex4-67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-67",
+      "setId": "ex4",
+      "collectorNumber": "67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-68",
+    "englishName": "Team Magma's Rhyhorn",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "68",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/68.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-68",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:68:english:ex4-68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-68",
+      "setId": "ex4",
+      "collectorNumber": "68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-12",
+    "englishName": "Team Magma's Torkoal",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "12",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/12.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-12",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:12:english:ex4-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-12",
+      "setId": "ex4",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-23",
+    "englishName": "Team Magma's Zangoose",
+    "category": "Pokemon",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "23",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/23.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-23",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:23:english:ex4-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-23",
+      "setId": "ex4",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "ex4-85",
+    "englishName": "Warp Point",
+    "category": "Trainer",
+    "setCode": "MA",
+    "setName": "Team Magma vs Team Aqua",
+    "cardNumber": "85",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/ex4/85.png",
+    "imageLarge": "https://images.pokemontcg.io/ex4/85_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "ex4-85",
+    "sourceSetId": "ex4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:ex4:85:english:ex4-85",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "ex4-85",
+      "setId": "ex4",
+      "collectorNumber": "85",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "ex4-85",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

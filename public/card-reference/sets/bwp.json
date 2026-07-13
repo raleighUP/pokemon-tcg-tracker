@@ -1,0 +1,2830 @@
+[
+  {
+    "id": "bwp-BW48",
+    "englishName": "Altaria",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW48",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW48.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW48",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW48:english:bwp-BW48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW48",
+      "setId": "bwp",
+      "collectorNumber": "BW48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW67",
+    "englishName": "Ampharos",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW67",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW67.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW67",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW67:english:bwp-BW67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW67",
+      "setId": "bwp",
+      "collectorNumber": "BW67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW10",
+    "englishName": "Axew",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW10",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW10.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW10",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW10:english:bwp-BW10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW10",
+      "setId": "bwp",
+      "collectorNumber": "BW10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW16",
+    "englishName": "Axew",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW16",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW16.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW16",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW16:english:bwp-BW16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW16",
+      "setId": "bwp",
+      "collectorNumber": "BW16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW26",
+    "englishName": "Axew",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW26",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW26.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW26",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW26:english:bwp-BW26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW26",
+      "setId": "bwp",
+      "collectorNumber": "BW26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW39",
+    "englishName": "Battle City",
+    "category": "Trainer",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW39",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW39.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW39",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW39:english:bwp-BW39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW39",
+      "setId": "bwp",
+      "collectorNumber": "BW39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW62",
+    "englishName": "Black Kyurem-EX",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW62",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW62.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW62",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW62:english:bwp-BW62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW62",
+      "setId": "bwp",
+      "collectorNumber": "BW62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW58",
+    "englishName": "Black Kyurem",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW58",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW58.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW58",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW58:english:bwp-BW58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW58",
+      "setId": "bwp",
+      "collectorNumber": "BW58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW95",
+    "englishName": "Champions Festival",
+    "category": "Trainer",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW95",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW95.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW95_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW95",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW95:english:bwp-BW95",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW95",
+      "setId": "bwp",
+      "collectorNumber": "BW95",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW95",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW72",
+    "englishName": "Cobalion",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW72",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW72.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW72",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW72:english:bwp-BW72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW72",
+      "setId": "bwp",
+      "collectorNumber": "BW72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW51",
+    "englishName": "Crobat",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW51",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW51.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW51",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW51:english:bwp-BW51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW51",
+      "setId": "bwp",
+      "collectorNumber": "BW51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW46",
+    "englishName": "Darkrai-EX",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW46",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW46.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW46",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW46:english:bwp-BW46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW46",
+      "setId": "bwp",
+      "collectorNumber": "BW46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW73",
+    "englishName": "Darkrai",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW73",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW73.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW73",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW73:english:bwp-BW73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW73",
+      "setId": "bwp",
+      "collectorNumber": "BW73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW18",
+    "englishName": "Darumaka",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW18",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW18.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW18",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW18:english:bwp-BW18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW18",
+      "setId": "bwp",
+      "collectorNumber": "BW18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW82",
+    "englishName": "Deoxys-EX",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW82",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW82.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW82_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW82",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW82:english:bwp-BW82",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW82",
+      "setId": "bwp",
+      "collectorNumber": "BW82",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW82",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW64",
+    "englishName": "Drifblim",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW64",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW64.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW64",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW64:english:bwp-BW64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW64",
+      "setId": "bwp",
+      "collectorNumber": "BW64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW80",
+    "englishName": "Druddigon",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW80",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW80.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW80_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW80",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW80:english:bwp-BW80",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW80",
+      "setId": "bwp",
+      "collectorNumber": "BW80",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW80",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW17",
+    "englishName": "Ducklett",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW17",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW17.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW17",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW17:english:bwp-BW17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW17",
+      "setId": "bwp",
+      "collectorNumber": "BW17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW94",
+    "englishName": "Eevee",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW94",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW94.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW94_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW94",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW94:english:bwp-BW94",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW94",
+      "setId": "bwp",
+      "collectorNumber": "BW94",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW94",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW97",
+    "englishName": "Eevee",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW97",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW97.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW97_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW97",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW97:english:bwp-BW97",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW97",
+      "setId": "bwp",
+      "collectorNumber": "BW97",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW97",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW76",
+    "englishName": "Electrode",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW76",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW76.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW76",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW76:english:bwp-BW76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW76",
+      "setId": "bwp",
+      "collectorNumber": "BW76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW55",
+    "englishName": "Elgyem",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW55",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW55.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW55",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW55:english:bwp-BW55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW55",
+      "setId": "bwp",
+      "collectorNumber": "BW55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW21",
+    "englishName": "Emboar",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW21",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW21.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW21",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW21:english:bwp-BW21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW21",
+      "setId": "bwp",
+      "collectorNumber": "BW21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW56",
+    "englishName": "Empoleon",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW56",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW56.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW56",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW56:english:bwp-BW56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW56",
+      "setId": "bwp",
+      "collectorNumber": "BW56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW92",
+    "englishName": "Espeon",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW92",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW92.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW92_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW92",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW92:english:bwp-BW92",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW92",
+      "setId": "bwp",
+      "collectorNumber": "BW92",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW92",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW88",
+    "englishName": "Flareon",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW88",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW88.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW88_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW88",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW88:english:bwp-BW88",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW88",
+      "setId": "bwp",
+      "collectorNumber": "BW88",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW88",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW53",
+    "englishName": "Flygon",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW53",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW53.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW53",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW53:english:bwp-BW53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW53",
+      "setId": "bwp",
+      "collectorNumber": "BW53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW101",
+    "englishName": "Genesect",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW101",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW101.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW101_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW101",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW101:english:bwp-BW101",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW101",
+      "setId": "bwp",
+      "collectorNumber": "BW101",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW101",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW86",
+    "englishName": "Genesect",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW86",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW86.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW86_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW86",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW86:english:bwp-BW86",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW86",
+      "setId": "bwp",
+      "collectorNumber": "BW86",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW86",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW99",
+    "englishName": "Genesect",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW99",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW99.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW99_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW99",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW99:english:bwp-BW99",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW99",
+      "setId": "bwp",
+      "collectorNumber": "BW99",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW99",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW74",
+    "englishName": "Giratina",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW74",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW74.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW74",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW74:english:bwp-BW74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW74",
+      "setId": "bwp",
+      "collectorNumber": "BW74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW90",
+    "englishName": "Glaceon",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW90",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW90.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW90_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW90",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW90:english:bwp-BW90",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW90",
+      "setId": "bwp",
+      "collectorNumber": "BW90",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW90",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW57",
+    "englishName": "Haxorus",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW57",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW57.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW57",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW57:english:bwp-BW57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW57",
+      "setId": "bwp",
+      "collectorNumber": "BW57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW65",
+    "englishName": "Jigglypuff",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW65",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW65.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW65",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW65:english:bwp-BW65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW65",
+      "setId": "bwp",
+      "collectorNumber": "BW65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW91",
+    "englishName": "Jolteon",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW91",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW91.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW91_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW91",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW91:english:bwp-BW91",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW91",
+      "setId": "bwp",
+      "collectorNumber": "BW91",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW91",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW61",
+    "englishName": "Keldeo-EX",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW61",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW61.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW61",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW61:english:bwp-BW61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW61",
+      "setId": "bwp",
+      "collectorNumber": "BW61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW60",
+    "englishName": "Keldeo",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW60",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW60.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW60",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW60:english:bwp-BW60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW60",
+      "setId": "bwp",
+      "collectorNumber": "BW60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW37",
+    "englishName": "Kyurem-EX",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW37",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW37.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW37",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW37:english:bwp-BW37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW37",
+      "setId": "bwp",
+      "collectorNumber": "BW37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW44",
+    "englishName": "Kyurem",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW44",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW44.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW44",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW44:english:bwp-BW44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW44",
+      "setId": "bwp",
+      "collectorNumber": "BW44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW43",
+    "englishName": "Landorus",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW43",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW43.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW43",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW43:english:bwp-BW43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW43",
+      "setId": "bwp",
+      "collectorNumber": "BW43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW79",
+    "englishName": "Landorus",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW79",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW79.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW79_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW79",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW79:english:bwp-BW79",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW79",
+      "setId": "bwp",
+      "collectorNumber": "BW79",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW79",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW87",
+    "englishName": "Leafeon",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW87",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW87.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW87_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW87",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW87:english:bwp-BW87",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW87",
+      "setId": "bwp",
+      "collectorNumber": "BW87",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW87",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW49",
+    "englishName": "Lilligant",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW49",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW49.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW49",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW49:english:bwp-BW49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW49",
+      "setId": "bwp",
+      "collectorNumber": "BW49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW52",
+    "englishName": "Lillipup",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW52",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW52.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW52",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW52:english:bwp-BW52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW52",
+      "setId": "bwp",
+      "collectorNumber": "BW52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW27",
+    "englishName": "Litwick",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW27",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW27.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW27",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW27:english:bwp-BW27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW27",
+      "setId": "bwp",
+      "collectorNumber": "BW27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW85",
+    "englishName": "Lucario",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW85",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW85.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW85_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW85",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW85:english:bwp-BW85",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW85",
+      "setId": "bwp",
+      "collectorNumber": "BW85",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW85",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW83",
+    "englishName": "Lugia-EX",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW83",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW83.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW83_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW83",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW83:english:bwp-BW83",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW83",
+      "setId": "bwp",
+      "collectorNumber": "BW83",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW83",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW34",
+    "englishName": "Luxio",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW34",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW34.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW34",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW34:english:bwp-BW34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW34",
+      "setId": "bwp",
+      "collectorNumber": "BW34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW68",
+    "englishName": "Meloetta",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW68",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW68.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW68",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW68:english:bwp-BW68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW68",
+      "setId": "bwp",
+      "collectorNumber": "BW68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW69",
+    "englishName": "Meloetta",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW69",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW69.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW69",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW69:english:bwp-BW69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW69",
+      "setId": "bwp",
+      "collectorNumber": "BW69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW35",
+    "englishName": "Meowth",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW35",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW35.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW35",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW35:english:bwp-BW35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW35",
+      "setId": "bwp",
+      "collectorNumber": "BW35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW75",
+    "englishName": "Metagross",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW75",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW75.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW75",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW75:english:bwp-BW75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW75",
+      "setId": "bwp",
+      "collectorNumber": "BW75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW98",
+    "englishName": "Mew",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW98",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW98.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW98_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW98",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW98:english:bwp-BW98",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW98",
+      "setId": "bwp",
+      "collectorNumber": "BW98",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW98",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW45",
+    "englishName": "Mewtwo-EX",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW45",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW45.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW45",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW45:english:bwp-BW45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW45",
+      "setId": "bwp",
+      "collectorNumber": "BW45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW13",
+    "englishName": "Minccino",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW13",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW13.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW13",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW13:english:bwp-BW13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW13",
+      "setId": "bwp",
+      "collectorNumber": "BW13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW100",
+    "englishName": "N",
+    "category": "Trainer",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW100",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW100.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW100_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW100",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW100:english:bwp-BW100",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW100",
+      "setId": "bwp",
+      "collectorNumber": "BW100",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW100",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW66",
+    "englishName": "Ninetales",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW66",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW66.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW66",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW66:english:bwp-BW66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW66",
+      "setId": "bwp",
+      "collectorNumber": "BW66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW03",
+    "englishName": "Oshawott",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW03",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW03.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW03_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW03",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW03:english:bwp-BW03",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW03",
+      "setId": "bwp",
+      "collectorNumber": "BW03",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW03",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW08",
+    "englishName": "Oshawott",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW08",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW08.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW08_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW08",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW08:english:bwp-BW08",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW08",
+      "setId": "bwp",
+      "collectorNumber": "BW08",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW08",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW11",
+    "englishName": "Pansage",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW11",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW11.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW11",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW11:english:bwp-BW11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW11",
+      "setId": "bwp",
+      "collectorNumber": "BW11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW14",
+    "englishName": "Pansage",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW14",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW14.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW14",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW14:english:bwp-BW14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW14",
+      "setId": "bwp",
+      "collectorNumber": "BW14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW15",
+    "englishName": "Pidove",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW15",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW15.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW15",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW15:english:bwp-BW15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW15",
+      "setId": "bwp",
+      "collectorNumber": "BW15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW54",
+    "englishName": "Pikachu",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW54",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW54.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW54",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW54:english:bwp-BW54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW54",
+      "setId": "bwp",
+      "collectorNumber": "BW54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW77",
+    "englishName": "Pikachu",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW77",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW77.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW77",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW77:english:bwp-BW77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW77",
+      "setId": "bwp",
+      "collectorNumber": "BW77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW84",
+    "englishName": "Porygon-Z",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW84",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW84.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW84_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW84",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW84:english:bwp-BW84",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW84",
+      "setId": "bwp",
+      "collectorNumber": "BW84",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW84",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW78",
+    "englishName": "Raichu",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW78",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW78.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW78",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW78:english:bwp-BW78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW78",
+      "setId": "bwp",
+      "collectorNumber": "BW78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW47",
+    "englishName": "Rayquaza-EX",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW47",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW47.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW47",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW47:english:bwp-BW47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW47",
+      "setId": "bwp",
+      "collectorNumber": "BW47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW36",
+    "englishName": "Reshiram-EX",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW36",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW36.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW36",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW36:english:bwp-BW36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW36",
+      "setId": "bwp",
+      "collectorNumber": "BW36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW004",
+    "englishName": "Reshiram",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW004",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW004.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW004_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW004",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW004:english:bwp-BW004",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW004",
+      "setId": "bwp",
+      "collectorNumber": "BW004",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW004",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW23",
+    "englishName": "Reshiram",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW23",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW23.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW23",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW23:english:bwp-BW23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW23",
+      "setId": "bwp",
+      "collectorNumber": "BW23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW33",
+    "englishName": "Riolu",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW33",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW33.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW33",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW33:english:bwp-BW33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW33",
+      "setId": "bwp",
+      "collectorNumber": "BW33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW22",
+    "englishName": "Samurott",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW22",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW22.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW22",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW22:english:bwp-BW22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW22",
+      "setId": "bwp",
+      "collectorNumber": "BW22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW25",
+    "englishName": "Scraggy",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW25",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW25.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW25",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW25:english:bwp-BW25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW25",
+      "setId": "bwp",
+      "collectorNumber": "BW25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW20",
+    "englishName": "Serperior",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW20",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW20.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW20",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW20:english:bwp-BW20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW20",
+      "setId": "bwp",
+      "collectorNumber": "BW20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW01",
+    "englishName": "Snivy",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW01",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW01.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW01_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW01",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW01:english:bwp-BW01",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW01",
+      "setId": "bwp",
+      "collectorNumber": "BW01",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW01",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW06",
+    "englishName": "Snivy",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW06",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW06.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW06_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW06",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW06:english:bwp-BW06",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW06",
+      "setId": "bwp",
+      "collectorNumber": "BW06",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW06",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW02",
+    "englishName": "Tepig",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW02",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW02.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW02_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW02",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW02:english:bwp-BW02",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW02",
+      "setId": "bwp",
+      "collectorNumber": "BW02",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW02",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW07",
+    "englishName": "Tepig",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW07",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW07.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW07_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW07",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW07:english:bwp-BW07",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW07",
+      "setId": "bwp",
+      "collectorNumber": "BW07",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW07",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW71",
+    "englishName": "Terrakion",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW71",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW71.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW71",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW71:english:bwp-BW71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW71",
+      "setId": "bwp",
+      "collectorNumber": "BW71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW81",
+    "englishName": "Thundurus-EX",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW81",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW81.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW81_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW81",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW81:english:bwp-BW81",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW81",
+      "setId": "bwp",
+      "collectorNumber": "BW81",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW81",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW41",
+    "englishName": "Thundurus",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW41",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW41.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW41",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW41:english:bwp-BW41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW41",
+      "setId": "bwp",
+      "collectorNumber": "BW41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW96",
+    "englishName": "Tornadus-EX",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW96",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW96.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW96_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW96",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW96:english:bwp-BW96",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW96",
+      "setId": "bwp",
+      "collectorNumber": "BW96",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW96",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW42",
+    "englishName": "Tornadus",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW42",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW42.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW42",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW42:english:bwp-BW42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW42",
+      "setId": "bwp",
+      "collectorNumber": "BW42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW28",
+    "englishName": "Tropical Beach",
+    "category": "Trainer",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW28",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW28.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW28",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW28:english:bwp-BW28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW28",
+      "setId": "bwp",
+      "collectorNumber": "BW28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW50",
+    "englishName": "Tropical Beach",
+    "category": "Trainer",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW50",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW50.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW50",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW50:english:bwp-BW50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW50",
+      "setId": "bwp",
+      "collectorNumber": "BW50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW93",
+    "englishName": "Umbreon",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW93",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW93.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW93_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW93",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW93:english:bwp-BW93",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW93",
+      "setId": "bwp",
+      "collectorNumber": "BW93",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW93",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW89",
+    "englishName": "Vaporeon",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW89",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW89.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW89_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW89",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW89:english:bwp-BW89",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW89",
+      "setId": "bwp",
+      "collectorNumber": "BW89",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW89",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW32",
+    "englishName": "Victini",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW32",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW32.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW32",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW32:english:bwp-BW32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW32",
+      "setId": "bwp",
+      "collectorNumber": "BW32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW29",
+    "englishName": "Victory Cup",
+    "category": "Trainer",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW29",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW29.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW29",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW29:english:bwp-BW29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW29",
+      "setId": "bwp",
+      "collectorNumber": "BW29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW30",
+    "englishName": "Victory Cup",
+    "category": "Trainer",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW30",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW30.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW30",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW30:english:bwp-BW30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW30",
+      "setId": "bwp",
+      "collectorNumber": "BW30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW31",
+    "englishName": "Victory Cup",
+    "category": "Trainer",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW31",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW31.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW31",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW31:english:bwp-BW31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW31",
+      "setId": "bwp",
+      "collectorNumber": "BW31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW70",
+    "englishName": "Virizion",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW70",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW70.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW70",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW70:english:bwp-BW70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW70",
+      "setId": "bwp",
+      "collectorNumber": "BW70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW40",
+    "englishName": "Volcarona",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW40",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW40.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW40",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW40:english:bwp-BW40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW40",
+      "setId": "bwp",
+      "collectorNumber": "BW40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW63",
+    "englishName": "White Kyurem-EX",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW63",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW63.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW63",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW63:english:bwp-BW63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW63",
+      "setId": "bwp",
+      "collectorNumber": "BW63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW59",
+    "englishName": "White Kyurem",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW59",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW59.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW59",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW59:english:bwp-BW59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW59",
+      "setId": "bwp",
+      "collectorNumber": "BW59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW38",
+    "englishName": "Zekrom-EX",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW38",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW38.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW38",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW38:english:bwp-BW38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW38",
+      "setId": "bwp",
+      "collectorNumber": "BW38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW005",
+    "englishName": "Zekrom",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW005",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW005.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW005_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW005",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW005:english:bwp-BW005",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW005",
+      "setId": "bwp",
+      "collectorNumber": "BW005",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW005",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW24",
+    "englishName": "Zekrom",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW24",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW24.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW24",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW24:english:bwp-BW24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW24",
+      "setId": "bwp",
+      "collectorNumber": "BW24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW09",
+    "englishName": "Zoroark",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW09",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW09.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW09_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW09",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW09:english:bwp-BW09",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW09",
+      "setId": "bwp",
+      "collectorNumber": "BW09",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW09",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW19",
+    "englishName": "Zoroark",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW19",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW19.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW19",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW19:english:bwp-BW19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW19",
+      "setId": "bwp",
+      "collectorNumber": "BW19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bwp-BW12",
+    "englishName": "Zorua",
+    "category": "Pokemon",
+    "setCode": "PR-BLW",
+    "setName": "BW Black Star Promos",
+    "cardNumber": "BW12",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bwp/BW12.png",
+    "imageLarge": "https://images.pokemontcg.io/bwp/BW12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bwp-BW12",
+    "sourceSetId": "bwp",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bwp:BW12:english:bwp-BW12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bwp-BW12",
+      "setId": "bwp",
+      "collectorNumber": "BW12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bwp-BW12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

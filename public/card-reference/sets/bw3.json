@@ -1,0 +1,2860 @@
+[
+  {
+    "id": "bw3-12",
+    "englishName": "Accelgor",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "12",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/12.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-12",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:12:english:bw3-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-12",
+      "setId": "bw3",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-10",
+    "englishName": "Amoonguss",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "10",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/10.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-10",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:10:english:bw3-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-10",
+      "setId": "bw3",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-66",
+    "englishName": "Archen",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "66",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/66.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-66",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:66:english:bw3-66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-66",
+      "setId": "bw3",
+      "collectorNumber": "66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-67",
+    "englishName": "Archeops",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "67",
+    "legalities": {
+      "expanded": "Banned",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/67.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-67",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:67:english:bw3-67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-67",
+      "setId": "bw3",
+      "collectorNumber": "67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-85",
+    "englishName": "Audino",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "85",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/85.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/85_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-85",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:85:english:bw3-85",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-85",
+      "setId": "bw3",
+      "collectorNumber": "85",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-85",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-86",
+    "englishName": "Axew",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "86",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/86.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/86_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-86",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:86:english:bw3-86",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-86",
+      "setId": "bw3",
+      "collectorNumber": "86",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-86",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-56",
+    "englishName": "Beheeyem",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "56",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/56.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-56",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:56:english:bw3-56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-56",
+      "setId": "bw3",
+      "collectorNumber": "56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-76",
+    "englishName": "Bisharp",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "76",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/76.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-76",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:76:english:bw3-76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-76",
+      "setId": "bw3",
+      "collectorNumber": "76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-82",
+    "englishName": "Bisharp",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "82",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/82.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/82_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-82",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:82:english:bw3-82",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-82",
+      "setId": "bw3",
+      "collectorNumber": "82",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-82",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-35",
+    "englishName": "Blitzle",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "35",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/35.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-35",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:35:english:bw3-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-35",
+      "setId": "bw3",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-26",
+    "englishName": "Carracosta",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "26",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/26.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-26",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:26:english:bw3-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-26",
+      "setId": "bw3",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-60",
+    "englishName": "Chandelure",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "60",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/60.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-60",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:60:english:bw3-60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-60",
+      "setId": "bw3",
+      "collectorNumber": "60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-100",
+    "englishName": "Cobalion",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "100",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/100.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/100_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-100",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:100:english:bw3-100",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-100",
+      "setId": "bw3",
+      "collectorNumber": "100",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-100",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-84",
+    "englishName": "Cobalion",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "84",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/84.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/84_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-84",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:84:english:bw3-84",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-84",
+      "setId": "bw3",
+      "collectorNumber": "84",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-84",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-46",
+    "englishName": "Cofagrigus",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "46",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/46.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-46",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:46:english:bw3-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-46",
+      "setId": "bw3",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-47",
+    "englishName": "Cofagrigus",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "47",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/47.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-47",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:47:english:bw3-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-47",
+      "setId": "bw3",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-64",
+    "englishName": "Conkeldurr",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "64",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/64.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-64",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:64:english:bw3-64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-64",
+      "setId": "bw3",
+      "collectorNumber": "64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-65",
+    "englishName": "Conkeldurr",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "65",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/65.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-65",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:65:english:bw3-65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-65",
+      "setId": "bw3",
+      "collectorNumber": "65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-90",
+    "englishName": "Cover Fossil",
+    "category": "Trainer",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "90",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/90.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/90_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-90",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:90:english:bw3-90",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-90",
+      "setId": "bw3",
+      "collectorNumber": "90",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-90",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-7",
+    "englishName": "Crustle",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "7",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/7.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-7",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:7:english:bw3-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-7",
+      "setId": "bw3",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-32",
+    "englishName": "Cryogonal",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "32",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/32.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-32",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:32:english:bw3-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-32",
+      "setId": "bw3",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-33",
+    "englishName": "Cryogonal",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "33",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/33.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-33",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:33:english:bw3-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-33",
+      "setId": "bw3",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-77",
+    "englishName": "Deino",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "77",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/77.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-77",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:77:english:bw3-77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-77",
+      "setId": "bw3",
+      "collectorNumber": "77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-89",
+    "englishName": "Druddigon",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "89",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/89.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/89_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-89",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:89:english:bw3-89",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-89",
+      "setId": "bw3",
+      "collectorNumber": "89",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-89",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-51",
+    "englishName": "Duosion",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "51",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/51.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-51",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:51:english:bw3-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-51",
+      "setId": "bw3",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-83",
+    "englishName": "Durant",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "83",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/83.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/83_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-83",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:83:english:bw3-83",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-83",
+      "setId": "bw3",
+      "collectorNumber": "83",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-83",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-6",
+    "englishName": "Dwebble",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "6",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/6.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-6",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:6:english:bw3-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-6",
+      "setId": "bw3",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-40",
+    "englishName": "Eelektrik",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "40",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/40.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-40",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:40:english:bw3-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-40",
+      "setId": "bw3",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-41",
+    "englishName": "Eelektross",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "41",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/41.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-41",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:41:english:bw3-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-41",
+      "setId": "bw3",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-54",
+    "englishName": "Elgyem",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "54",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/54.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-54",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:54:english:bw3-54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-54",
+      "setId": "bw3",
+      "collectorNumber": "54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-55",
+    "englishName": "Elgyem",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "55",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/55.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-55",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:55:english:bw3-55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-55",
+      "setId": "bw3",
+      "collectorNumber": "55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-37",
+    "englishName": "Emolga",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "37",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/37.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-37",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:37:english:bw3-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-37",
+      "setId": "bw3",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-80",
+    "englishName": "Escavalier",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "80",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/80.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/80_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-80",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:80:english:bw3-80",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-80",
+      "setId": "bw3",
+      "collectorNumber": "80",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-80",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-91",
+    "englishName": "Eviolite",
+    "category": "Trainer",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "91",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/91.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/91_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-91",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:91:english:bw3-91",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-91",
+      "setId": "bw3",
+      "collectorNumber": "91",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-91",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-9",
+    "englishName": "Foongus",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "9",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/9.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-9",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:9:english:bw3-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-9",
+      "setId": "bw3",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-87",
+    "englishName": "Fraxure",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "87",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/87.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/87_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-87",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:87:english:bw3-87",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-87",
+      "setId": "bw3",
+      "collectorNumber": "87",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-87",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-30",
+    "englishName": "Frillish",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "30",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/30.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-30",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:30:english:bw3-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-30",
+      "setId": "bw3",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-49",
+    "englishName": "Garbodor",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "49",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/49.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-49",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:49:english:bw3-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-49",
+      "setId": "bw3",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-61",
+    "englishName": "Gigalith",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "61",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/61.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-61",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:61:english:bw3-61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-61",
+      "setId": "bw3",
+      "collectorNumber": "61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-71",
+    "englishName": "Golett",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "71",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/71.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-71",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:71:english:bw3-71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-71",
+      "setId": "bw3",
+      "collectorNumber": "71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-72",
+    "englishName": "Golurk",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "72",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/72.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-72",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:72:english:bw3-72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-72",
+      "setId": "bw3",
+      "collectorNumber": "72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-63",
+    "englishName": "Gurdurr",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "63",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/63.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-63",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:63:english:bw3-63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-63",
+      "setId": "bw3",
+      "collectorNumber": "63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-88",
+    "englishName": "Haxorus",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "88",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/88.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/88_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-88",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:88:english:bw3-88",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-88",
+      "setId": "bw3",
+      "collectorNumber": "88",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-88",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-18",
+    "englishName": "Heatmor",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "18",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/18.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-18",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:18:english:bw3-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-18",
+      "setId": "bw3",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-79",
+    "englishName": "Hydreigon",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "79",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/79.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/79_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-79",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:79:english:bw3-79",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-79",
+      "setId": "bw3",
+      "collectorNumber": "79",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-79",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-31",
+    "englishName": "Jellicent",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "31",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/31.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-31",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:31:english:bw3-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-31",
+      "setId": "bw3",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-8",
+    "englishName": "Karrablast",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "8",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/8.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-8",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:8:english:bw3-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-8",
+      "setId": "bw3",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-34",
+    "englishName": "Kyurem",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "34",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/34.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-34",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:34:english:bw3-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-34",
+      "setId": "bw3",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-59",
+    "englishName": "Lampent",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "59",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/59.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-59",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:59:english:bw3-59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-59",
+      "setId": "bw3",
+      "collectorNumber": "59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-74",
+    "englishName": "Landorus",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "74",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/74.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-74",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:74:english:bw3-74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-74",
+      "setId": "bw3",
+      "collectorNumber": "74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-19",
+    "englishName": "Larvesta",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "19",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/19.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-19",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:19:english:bw3-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-19",
+      "setId": "bw3",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-20",
+    "englishName": "Larvesta",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "20",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/20.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-20",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:20:english:bw3-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-20",
+      "setId": "bw3",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-3",
+    "englishName": "Leavanny",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "3",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/3.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-3",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:3:english:bw3-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-3",
+      "setId": "bw3",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-5",
+    "englishName": "Lilligant",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "5",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/5.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-5",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:5:english:bw3-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-5",
+      "setId": "bw3",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-57",
+    "englishName": "Litwick",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "57",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/57.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-57",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:57:english:bw3-57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-57",
+      "setId": "bw3",
+      "collectorNumber": "57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-58",
+    "englishName": "Litwick",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "58",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/58.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-58",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:58:english:bw3-58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-58",
+      "setId": "bw3",
+      "collectorNumber": "58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-102",
+    "englishName": "Meowth",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "102",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/102.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/102_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-102",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:102:english:bw3-102",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-102",
+      "setId": "bw3",
+      "collectorNumber": "102",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-102",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-69",
+    "englishName": "Mienfoo",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "69",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/69.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-69",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:69:english:bw3-69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-69",
+      "setId": "bw3",
+      "collectorNumber": "69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-70",
+    "englishName": "Mienshao",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "70",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/70.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-70",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:70:english:bw3-70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-70",
+      "setId": "bw3",
+      "collectorNumber": "70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-101",
+    "englishName": "N",
+    "category": "Trainer",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "101",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/101.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/101_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-101",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:101:english:bw3-101",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-101",
+      "setId": "bw3",
+      "collectorNumber": "101",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-101",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-92",
+    "englishName": "N",
+    "category": "Trainer",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "92",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/92.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/92_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-92",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:92:english:bw3-92",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-92",
+      "setId": "bw3",
+      "collectorNumber": "92",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-92",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-23",
+    "englishName": "Palpitoad",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "23",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/23.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-23",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:23:english:bw3-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-23",
+      "setId": "bw3",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-16",
+    "englishName": "Pansear",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "16",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/16.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-16",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:16:english:bw3-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-16",
+      "setId": "bw3",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-75",
+    "englishName": "Pawniard",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "75",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/75.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-75",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:75:english:bw3-75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-75",
+      "setId": "bw3",
+      "collectorNumber": "75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-81",
+    "englishName": "Pawniard",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "81",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/81.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/81_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-81",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:81:english:bw3-81",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-81",
+      "setId": "bw3",
+      "collectorNumber": "81",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-81",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-4",
+    "englishName": "Petilil",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "4",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/4.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-4",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:4:english:bw3-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-4",
+      "setId": "bw3",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-93",
+    "englishName": "Plume Fossil",
+    "category": "Trainer",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "93",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/93.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/93_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-93",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:93:english:bw3-93",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-93",
+      "setId": "bw3",
+      "collectorNumber": "93",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-93",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-52",
+    "englishName": "Reuniclus",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "52",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/52.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-52",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:52:english:bw3-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-52",
+      "setId": "bw3",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-53",
+    "englishName": "Reuniclus",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "53",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/53.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-53",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:53:english:bw3-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-53",
+      "setId": "bw3",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-94",
+    "englishName": "Rocky Helmet",
+    "category": "Trainer",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "94",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/94.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/94_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-94",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:94:english:bw3-94",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-94",
+      "setId": "bw3",
+      "collectorNumber": "94",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-94",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-24",
+    "englishName": "Seismitoad",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "24",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/24.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-24",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:24:english:bw3-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-24",
+      "setId": "bw3",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-1",
+    "englishName": "Sewaddle",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "1",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/1.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-1",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:1:english:bw3-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-1",
+      "setId": "bw3",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-11",
+    "englishName": "Shelmet",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "11",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/11.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-11",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:11:english:bw3-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-11",
+      "setId": "bw3",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-17",
+    "englishName": "Simisear",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "17",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/17.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-17",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:17:english:bw3-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-17",
+      "setId": "bw3",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-50",
+    "englishName": "Solosis",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "50",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/50.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-50",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:50:english:bw3-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-50",
+      "setId": "bw3",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-42",
+    "englishName": "Stunfisk",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "42",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/42.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-42",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:42:english:bw3-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-42",
+      "setId": "bw3",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-68",
+    "englishName": "Stunfisk",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "68",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/68.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-68",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:68:english:bw3-68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-68",
+      "setId": "bw3",
+      "collectorNumber": "68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-95",
+    "englishName": "Super Rod",
+    "category": "Trainer",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "95",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/95.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/95_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-95",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:95:english:bw3-95",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-95",
+      "setId": "bw3",
+      "collectorNumber": "95",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-95",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-2",
+    "englishName": "Swadloon",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "2",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/2.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-2",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:2:english:bw3-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-2",
+      "setId": "bw3",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-73",
+    "englishName": "Terrakion",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "73",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/73.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-73",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:73:english:bw3-73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-73",
+      "setId": "bw3",
+      "collectorNumber": "73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-99",
+    "englishName": "Terrakion",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "99",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/99.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/99_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-99",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:99:english:bw3-99",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-99",
+      "setId": "bw3",
+      "collectorNumber": "99",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-99",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-62",
+    "englishName": "Timburr",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "62",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/62.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-62",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:62:english:bw3-62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-62",
+      "setId": "bw3",
+      "collectorNumber": "62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-25",
+    "englishName": "Tirtouga",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "25",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/25.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-25",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:25:english:bw3-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-25",
+      "setId": "bw3",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-48",
+    "englishName": "Trubbish",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "48",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/48.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-48",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:48:english:bw3-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-48",
+      "setId": "bw3",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-22",
+    "englishName": "Tympole",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "22",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/22.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-22",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:22:english:bw3-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-22",
+      "setId": "bw3",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-38",
+    "englishName": "Tynamo",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "38",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/38.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-38",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:38:english:bw3-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-38",
+      "setId": "bw3",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-39",
+    "englishName": "Tynamo",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "39",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/39.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-39",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:39:english:bw3-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-39",
+      "setId": "bw3",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-28",
+    "englishName": "Vanillish",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "28",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/28.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-28",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:28:english:bw3-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-28",
+      "setId": "bw3",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-27",
+    "englishName": "Vanillite",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "27",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/27.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-27",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:27:english:bw3-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-27",
+      "setId": "bw3",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-29",
+    "englishName": "Vanilluxe",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "29",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/29.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-29",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:29:english:bw3-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-29",
+      "setId": "bw3",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-14",
+    "englishName": "Victini",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "14",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/14.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-14",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:14:english:bw3-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-14",
+      "setId": "bw3",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-15",
+    "englishName": "Victini",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "15",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/15.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-15",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:15:english:bw3-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-15",
+      "setId": "bw3",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-43",
+    "englishName": "Victini",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "43",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/43.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-43",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:43:english:bw3-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-43",
+      "setId": "bw3",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-98",
+    "englishName": "Victini",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "98",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/98.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/98_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-98",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:98:english:bw3-98",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-98",
+      "setId": "bw3",
+      "collectorNumber": "98",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-98",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-13",
+    "englishName": "Virizion",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "13",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/13.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-13",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:13:english:bw3-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-13",
+      "setId": "bw3",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-97",
+    "englishName": "Virizion",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "97",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/97.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/97_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-97",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:97:english:bw3-97",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-97",
+      "setId": "bw3",
+      "collectorNumber": "97",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-97",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-21",
+    "englishName": "Volcarona",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "21",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/21.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-21",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:21:english:bw3-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-21",
+      "setId": "bw3",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-96",
+    "englishName": "Xtransceiver",
+    "category": "Trainer",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "96",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/96.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/96_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-96",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:96:english:bw3-96",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-96",
+      "setId": "bw3",
+      "collectorNumber": "96",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-96",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-44",
+    "englishName": "Yamask",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "44",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/44.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-44",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:44:english:bw3-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-44",
+      "setId": "bw3",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-45",
+    "englishName": "Yamask",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "45",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/45.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-45",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:45:english:bw3-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-45",
+      "setId": "bw3",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-36",
+    "englishName": "Zebstrika",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "36",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/36.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-36",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:36:english:bw3-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-36",
+      "setId": "bw3",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "bw3-78",
+    "englishName": "Zweilous",
+    "category": "Pokemon",
+    "setCode": "NVI",
+    "setName": "Noble Victories",
+    "cardNumber": "78",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/bw3/78.png",
+    "imageLarge": "https://images.pokemontcg.io/bw3/78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "bw3-78",
+    "sourceSetId": "bw3",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:bw3:78:english:bw3-78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "bw3-78",
+      "setId": "bw3",
+      "collectorNumber": "78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "bw3-78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

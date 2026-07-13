@@ -1,0 +1,4787 @@
+[
+  {
+    "id": "swsh12pt5-76",
+    "englishName": "Absol",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "76",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/76.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-76",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:76:english:swsh12pt5-76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-76",
+      "setId": "swsh12pt5",
+      "collectorNumber": "76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-89",
+    "englishName": "Aggron",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "89",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/89.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/89_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-89",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:89:english:swsh12pt5-89",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-89",
+      "setId": "swsh12pt5",
+      "collectorNumber": "89",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-89",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-87",
+    "englishName": "Aron",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "87",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/87.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/87_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-87",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:87:english:swsh12pt5-87",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-87",
+      "setId": "swsh12pt5",
+      "collectorNumber": "87",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-87",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-70",
+    "englishName": "Baltoy",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "70",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/70.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-70",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:70:english:swsh12pt5-70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-70",
+      "setId": "swsh12pt5",
+      "collectorNumber": "70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-123",
+    "englishName": "Bea",
+    "category": "Trainer",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "123",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/123.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/123_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-123",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:123:english:swsh12pt5-123",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-123",
+      "setId": "swsh12pt5",
+      "collectorNumber": "123",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-123",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-124",
+    "englishName": "Bede",
+    "category": "Trainer",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "124",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/124.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/124_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-124",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:124:english:swsh12pt5-124",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-124",
+      "setId": "swsh12pt5",
+      "collectorNumber": "124",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-124",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-3",
+    "englishName": "Bellossom",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "3",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/3.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-3",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:3:english:swsh12pt5-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-3",
+      "setId": "swsh12pt5",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-111",
+    "englishName": "Bidoof",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "111",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/111.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/111_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-111",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:111:english:swsh12pt5-111",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-111",
+      "setId": "swsh12pt5",
+      "collectorNumber": "111",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-111",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-93",
+    "englishName": "Bisharp",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "93",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/93.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/93_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-93",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:93:english:swsh12pt5-93",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-93",
+      "setId": "swsh12pt5",
+      "collectorNumber": "93",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-93",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-17",
+    "englishName": "Calyrex",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "17",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/17.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-17",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:17:english:swsh12pt5-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-17",
+      "setId": "swsh12pt5",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-12",
+    "englishName": "Carnivine",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "12",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/12.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-12",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:12:english:swsh12pt5-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-12",
+      "setId": "swsh12pt5",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-18",
+    "englishName": "Charizard V",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "18",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/18.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-18",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:18:english:swsh12pt5-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-18",
+      "setId": "swsh12pt5",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-19",
+    "englishName": "Charizard VSTAR",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "19",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/19.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-19",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:19:english:swsh12pt5-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-19",
+      "setId": "swsh12pt5",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-112",
+    "englishName": "Chatot",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "112",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/112.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/112_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-112",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:112:english:swsh12pt5-112",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-112",
+      "setId": "swsh12pt5",
+      "collectorNumber": "112",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-112",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-11",
+    "englishName": "Cherubi",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "11",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/11.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-11",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:11:english:swsh12pt5-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-11",
+      "setId": "swsh12pt5",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-33",
+    "englishName": "Corphish",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "33",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/33.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-33",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:33:english:swsh12pt5-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-33",
+      "setId": "swsh12pt5",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-125",
+    "englishName": "Crushing Hammer",
+    "category": "Trainer",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "125",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/125.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/125_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-125",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:125:english:swsh12pt5-125",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-125",
+      "setId": "swsh12pt5",
+      "collectorNumber": "125",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-125",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-158",
+    "englishName": "Darkness Energy",
+    "category": "Energy",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "158",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/158.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/158_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-158",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:158:english:swsh12pt5-158",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-158",
+      "setId": "swsh12pt5",
+      "collectorNumber": "158",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-158",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-126",
+    "englishName": "Digging Duo",
+    "category": "Trainer",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "126",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/126.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/126_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-126",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:126:english:swsh12pt5-126",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-126",
+      "setId": "swsh12pt5",
+      "collectorNumber": "126",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-126",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-107",
+    "englishName": "Ditto",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "107",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/107.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/107_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-107",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:107:english:swsh12pt5-107",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-107",
+      "setId": "swsh12pt5",
+      "collectorNumber": "107",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-107",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-82",
+    "englishName": "Dragalge",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "82",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/82.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/82_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-82",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:82:english:swsh12pt5-82",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-82",
+      "setId": "swsh12pt5",
+      "collectorNumber": "82",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-82",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-122",
+    "englishName": "Dubwool",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "122",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/122.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/122_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-122",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:122:english:swsh12pt5-122",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-122",
+      "setId": "swsh12pt5",
+      "collectorNumber": "122",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-122",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-103",
+    "englishName": "Duraludon V",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "103",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/103.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/103_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-103",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:103:english:swsh12pt5-103",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-103",
+      "setId": "swsh12pt5",
+      "collectorNumber": "103",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-103",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-104",
+    "englishName": "Duraludon VMAX",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "104",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/104.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/104_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-104",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:104:english:swsh12pt5-104",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-104",
+      "setId": "swsh12pt5",
+      "collectorNumber": "104",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-104",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-63",
+    "englishName": "Dusclops",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "63",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/63.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-63",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:63:english:swsh12pt5-63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-63",
+      "setId": "swsh12pt5",
+      "collectorNumber": "63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-48",
+    "englishName": "Eelektrik",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "48",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/48.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-48",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:48:english:swsh12pt5-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-48",
+      "setId": "swsh12pt5",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-108",
+    "englishName": "Eevee V",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "108",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/108.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/108_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-108",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:108:english:swsh12pt5-108",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-108",
+      "setId": "swsh12pt5",
+      "collectorNumber": "108",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-108",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-147",
+    "englishName": "Elesa's Sparkle",
+    "category": "Trainer",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "147",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/147.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/147_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-147",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:147:english:swsh12pt5-147",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-147",
+      "setId": "swsh12pt5",
+      "collectorNumber": "147",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-147",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-47",
+    "englishName": "Emolga",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "47",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/47.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-47",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:47:english:swsh12pt5-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-47",
+      "setId": "swsh12pt5",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-67",
+    "englishName": "Enamorus",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "67",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/67.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-67",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:67:english:swsh12pt5-67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-67",
+      "setId": "swsh12pt5",
+      "collectorNumber": "67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-127",
+    "englishName": "Energy Retrieval",
+    "category": "Trainer",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "127",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/127.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/127_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-127",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:127:english:swsh12pt5-127",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-127",
+      "setId": "swsh12pt5",
+      "collectorNumber": "127",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-127",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-128",
+    "englishName": "Energy Search",
+    "category": "Trainer",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "128",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/128.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/128_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-128",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:128:english:swsh12pt5-128",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-128",
+      "setId": "swsh12pt5",
+      "collectorNumber": "128",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-128",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-129",
+    "englishName": "Energy Switch",
+    "category": "Trainer",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "129",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/129.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/129_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-129",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:129:english:swsh12pt5-129",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-129",
+      "setId": "swsh12pt5",
+      "collectorNumber": "129",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-129",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-21",
+    "englishName": "Entei",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "21",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/21.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-21",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:21:english:swsh12pt5-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-21",
+      "setId": "swsh12pt5",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-57",
+    "englishName": "Exeggcute",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "57",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/57.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-57",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:57:english:swsh12pt5-57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-57",
+      "setId": "swsh12pt5",
+      "collectorNumber": "57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-58",
+    "englishName": "Exeggutor",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "58",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/58.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-58",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:58:english:swsh12pt5-58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-58",
+      "setId": "swsh12pt5",
+      "collectorNumber": "58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-157",
+    "englishName": "Fighting Energy",
+    "category": "Energy",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "157",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/157.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/157_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-157",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:157:english:swsh12pt5-157",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-157",
+      "setId": "swsh12pt5",
+      "collectorNumber": "157",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-157",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-153",
+    "englishName": "Fire Energy",
+    "category": "Energy",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "153",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/153.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/153_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-153",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:153:english:swsh12pt5-153",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-153",
+      "setId": "swsh12pt5",
+      "collectorNumber": "153",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-153",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-130",
+    "englishName": "Friends in Hisui",
+    "category": "Trainer",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "130",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/130.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/130_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-130",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:130:english:swsh12pt5-130",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-130",
+      "setId": "swsh12pt5",
+      "collectorNumber": "130",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-130",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-148",
+    "englishName": "Friends in Hisui",
+    "category": "Trainer",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "148",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/148.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/148_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-148",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:148:english:swsh12pt5-148",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-148",
+      "setId": "swsh12pt5",
+      "collectorNumber": "148",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-148",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-131",
+    "englishName": "Friends in Sinnoh",
+    "category": "Trainer",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "131",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/131.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/131_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-131",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:131:english:swsh12pt5-131",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-131",
+      "setId": "swsh12pt5",
+      "collectorNumber": "131",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-131",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-149",
+    "englishName": "Friends in Sinnoh",
+    "category": "Trainer",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "149",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/149.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/149_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-149",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:149:english:swsh12pt5-149",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-149",
+      "setId": "swsh12pt5",
+      "collectorNumber": "149",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-149",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-84",
+    "englishName": "Galarian Meowth",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "84",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/84.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/84_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-84",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:84:english:swsh12pt5-84",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-84",
+      "setId": "swsh12pt5",
+      "collectorNumber": "84",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-84",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-30",
+    "englishName": "Galarian Mr. Mime",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "30",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/30.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-30",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:30:english:swsh12pt5-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-30",
+      "setId": "swsh12pt5",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-85",
+    "englishName": "Galarian Perrserker",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "85",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/85.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/85_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-85",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:85:english:swsh12pt5-85",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-85",
+      "setId": "swsh12pt5",
+      "collectorNumber": "85",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-85",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-61",
+    "englishName": "Girafarig",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "61",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/61.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-61",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:61:english:swsh12pt5-61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-61",
+      "setId": "swsh12pt5",
+      "collectorNumber": "61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-38",
+    "englishName": "Glaceon V",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "38",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/38.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-38",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:38:english:swsh12pt5-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-38",
+      "setId": "swsh12pt5",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-2",
+    "englishName": "Gloom",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "2",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/2.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-2",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:2:english:swsh12pt5-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-2",
+      "setId": "swsh12pt5",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-152",
+    "englishName": "Grass Energy",
+    "category": "Energy",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "152",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/152.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/152_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-152",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:152:english:swsh12pt5-152",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-152",
+      "setId": "swsh12pt5",
+      "collectorNumber": "152",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-152",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-68",
+    "englishName": "Graveler",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "68",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/68.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-68",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:68:english:swsh12pt5-68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-68",
+      "setId": "swsh12pt5",
+      "collectorNumber": "68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-132",
+    "englishName": "Great Ball",
+    "category": "Trainer",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "132",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/132.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/132_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-132",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:132:english:swsh12pt5-132",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-132",
+      "setId": "swsh12pt5",
+      "collectorNumber": "132",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-132",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-120",
+    "englishName": "Greedent V",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "120",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/120.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/120_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-120",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:120:english:swsh12pt5-120",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-120",
+      "setId": "swsh12pt5",
+      "collectorNumber": "120",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-120",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-15",
+    "englishName": "Grubbin",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "15",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/15.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-15",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:15:english:swsh12pt5-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-15",
+      "setId": "swsh12pt5",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-118",
+    "englishName": "Gumshoos",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "118",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/118.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/118_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-118",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:118:english:swsh12pt5-118",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-118",
+      "setId": "swsh12pt5",
+      "collectorNumber": "118",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-118",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-65",
+    "englishName": "Hatterene V",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "65",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/65.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-65",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:65:english:swsh12pt5-65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-65",
+      "setId": "swsh12pt5",
+      "collectorNumber": "65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-66",
+    "englishName": "Hatterene VMAX",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "66",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/66.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-66",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:66:english:swsh12pt5-66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-66",
+      "setId": "swsh12pt5",
+      "collectorNumber": "66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-50",
+    "englishName": "Heliolisk",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "50",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/50.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-50",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:50:english:swsh12pt5-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-50",
+      "setId": "swsh12pt5",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-49",
+    "englishName": "Helioptile",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "49",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/49.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-49",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:49:english:swsh12pt5-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-49",
+      "setId": "swsh12pt5",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-83",
+    "englishName": "Hoopa",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "83",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/83.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/83_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-83",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:83:english:swsh12pt5-83",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-83",
+      "setId": "swsh12pt5",
+      "collectorNumber": "83",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-83",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-133",
+    "englishName": "Hop",
+    "category": "Trainer",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "133",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/133.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/133_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-133",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:133:english:swsh12pt5-133",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-133",
+      "setId": "swsh12pt5",
+      "collectorNumber": "133",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-133",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-75",
+    "englishName": "Koffing",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "75",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/75.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-75",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:75:english:swsh12pt5-75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-75",
+      "setId": "swsh12pt5",
+      "collectorNumber": "75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-10",
+    "englishName": "Kricketot",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "10",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/10.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-10",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:10:english:swsh12pt5-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-10",
+      "setId": "swsh12pt5",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-79",
+    "englishName": "Krokorok",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "79",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/79.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/79_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-79",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:79:english:swsh12pt5-79",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-79",
+      "setId": "swsh12pt5",
+      "collectorNumber": "79",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-79",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-37",
+    "englishName": "Kyogre V",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "37",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/37.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-37",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:37:english:swsh12pt5-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-37",
+      "setId": "swsh12pt5",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-36",
+    "englishName": "Kyogre",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "36",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/36.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-36",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:36:english:swsh12pt5-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-36",
+      "setId": "swsh12pt5",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-88",
+    "englishName": "Lairon",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "88",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/88.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/88_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-88",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:88:english:swsh12pt5-88",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-88",
+      "setId": "swsh12pt5",
+      "collectorNumber": "88",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-88",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-24",
+    "englishName": "Larvesta",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "24",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/24.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-24",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:24:english:swsh12pt5-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-24",
+      "setId": "swsh12pt5",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-13",
+    "englishName": "Leafeon V",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "13",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/13.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-13",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:13:english:swsh12pt5-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-13",
+      "setId": "swsh12pt5",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-14",
+    "englishName": "Leafeon VSTAR",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "14",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/14.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-14",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:14:english:swsh12pt5-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-14",
+      "setId": "swsh12pt5",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-134",
+    "englishName": "Leon",
+    "category": "Trainer",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "134",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/134.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/134_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-134",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:134:english:swsh12pt5-134",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-134",
+      "setId": "swsh12pt5",
+      "collectorNumber": "134",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-134",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-78",
+    "englishName": "Liepard",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "78",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/78.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-78",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:78:english:swsh12pt5-78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-78",
+      "setId": "swsh12pt5",
+      "collectorNumber": "78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-155",
+    "englishName": "Lightning Energy",
+    "category": "Energy",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "155",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/155.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/155_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-155",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:155:english:swsh12pt5-155",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-155",
+      "setId": "swsh12pt5",
+      "collectorNumber": "155",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-155",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-135",
+    "englishName": "Lost Vacuum",
+    "category": "Trainer",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "135",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/135.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/135_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-135",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:135:english:swsh12pt5-135",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-135",
+      "setId": "swsh12pt5",
+      "collectorNumber": "135",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-135",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-62",
+    "englishName": "Lunatone",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "62",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/62.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-62",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:62:english:swsh12pt5-62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-62",
+      "setId": "swsh12pt5",
+      "collectorNumber": "62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-35",
+    "englishName": "Luvdisc",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "35",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/35.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-35",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:35:english:swsh12pt5-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-35",
+      "setId": "swsh12pt5",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-41",
+    "englishName": "Luxio",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "41",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/41.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-41",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:41:english:swsh12pt5-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-41",
+      "setId": "swsh12pt5",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-42",
+    "englishName": "Luxio",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "42",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/42.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-42",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:42:english:swsh12pt5-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-42",
+      "setId": "swsh12pt5",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-43",
+    "englishName": "Luxray",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "43",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/43.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-43",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:43:english:swsh12pt5-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-43",
+      "setId": "swsh12pt5",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-44",
+    "englishName": "Luxray",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "44",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/44.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-44",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:44:english:swsh12pt5-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-44",
+      "setId": "swsh12pt5",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-74",
+    "englishName": "Lycanroc",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "74",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/74.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-74",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:74:english:swsh12pt5-74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-74",
+      "setId": "swsh12pt5",
+      "collectorNumber": "74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-159",
+    "englishName": "Metal Energy",
+    "category": "Energy",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "159",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/159.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/159_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-159",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:159:english:swsh12pt5-159",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-159",
+      "setId": "swsh12pt5",
+      "collectorNumber": "159",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-159",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-90",
+    "englishName": "Metang",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "90",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/90.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/90_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-90",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:90:english:swsh12pt5-90",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-90",
+      "setId": "swsh12pt5",
+      "collectorNumber": "90",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-90",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-60",
+    "englishName": "Mew V",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "60",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/60.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-60",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:60:english:swsh12pt5-60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-60",
+      "setId": "swsh12pt5",
+      "collectorNumber": "60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-59",
+    "englishName": "Mewtwo",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "59",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/59.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-59",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:59:english:swsh12pt5-59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-59",
+      "setId": "swsh12pt5",
+      "collectorNumber": "59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-136",
+    "englishName": "Nessa",
+    "category": "Trainer",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "136",
+    "regulationMark": "D",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/136.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/136_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-136",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:136:english:swsh12pt5-136",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-136",
+      "setId": "swsh12pt5",
+      "collectorNumber": "136",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-136",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-1",
+    "englishName": "Oddish",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "1",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/1.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-1",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:1:english:swsh12pt5-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-1",
+      "setId": "swsh12pt5",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-119",
+    "englishName": "Oranguru",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "119",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/119.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/119_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-119",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:119:english:swsh12pt5-119",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-119",
+      "setId": "swsh12pt5",
+      "collectorNumber": "119",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-119",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-72",
+    "englishName": "Pancham",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "72",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/72.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-72",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:72:english:swsh12pt5-72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-72",
+      "setId": "swsh12pt5",
+      "collectorNumber": "72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-80",
+    "englishName": "Pangoro",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "80",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/80.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/80_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-80",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:80:english:swsh12pt5-80",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-80",
+      "setId": "swsh12pt5",
+      "collectorNumber": "80",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-80",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-91",
+    "englishName": "Pawniard",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "91",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/91.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/91_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-91",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:91:english:swsh12pt5-91",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-91",
+      "setId": "swsh12pt5",
+      "collectorNumber": "91",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-91",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-92",
+    "englishName": "Pawniard",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "92",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/92.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/92_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-92",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:92:english:swsh12pt5-92",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-92",
+      "setId": "swsh12pt5",
+      "collectorNumber": "92",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-92",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-160",
+    "englishName": "Pikachu",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "160",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/160.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/160_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-160",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:160:english:swsh12pt5-160",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-160",
+      "setId": "swsh12pt5",
+      "collectorNumber": "160",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-160",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-56",
+    "englishName": "Pincurchin",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "56",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/56.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-56",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:56:english:swsh12pt5-56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-56",
+      "setId": "swsh12pt5",
+      "collectorNumber": "56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-137",
+    "englishName": "Poké Ball",
+    "category": "Trainer",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "137",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/137.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/137_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-137",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:137:english:swsh12pt5-137",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-137",
+      "setId": "swsh12pt5",
+      "collectorNumber": "137",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-137",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-138",
+    "englishName": "Pokémon Catcher",
+    "category": "Trainer",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "138",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/138.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/138_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-138",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:138:english:swsh12pt5-138",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-138",
+      "setId": "swsh12pt5",
+      "collectorNumber": "138",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-138",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-139",
+    "englishName": "Potion",
+    "category": "Trainer",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "139",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/139.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/139_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-139",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:139:english:swsh12pt5-139",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-139",
+      "setId": "swsh12pt5",
+      "collectorNumber": "139",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-139",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-150",
+    "englishName": "Professor's Research",
+    "category": "Trainer",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "150",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/150.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/150_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-150",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:150:english:swsh12pt5-150",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-150",
+      "setId": "swsh12pt5",
+      "collectorNumber": "150",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-150",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-156",
+    "englishName": "Psychic Energy",
+    "category": "Energy",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "156",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/156.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/156_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-156",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:156:english:swsh12pt5-156",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-156",
+      "setId": "swsh12pt5",
+      "collectorNumber": "156",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-156",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-77",
+    "englishName": "Purrloin",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "77",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/77.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-77",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:77:english:swsh12pt5-77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-77",
+      "setId": "swsh12pt5",
+      "collectorNumber": "77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-20",
+    "englishName": "Radiant Charizard",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "20",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/20.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-20",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:20:english:swsh12pt5-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-20",
+      "setId": "swsh12pt5",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-51",
+    "englishName": "Radiant Charjabug",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "51",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/51.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-51",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:51:english:swsh12pt5-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-51",
+      "setId": "swsh12pt5",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-105",
+    "englishName": "Radiant Eternatus",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "105",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/105.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/105_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-105",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:105:english:swsh12pt5-105",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-105",
+      "setId": "swsh12pt5",
+      "collectorNumber": "105",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-105",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-140",
+    "englishName": "Raihan",
+    "category": "Trainer",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "140",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/140.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/140_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-140",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:140:english:swsh12pt5-140",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-140",
+      "setId": "swsh12pt5",
+      "collectorNumber": "140",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-140",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-141",
+    "englishName": "Rare Candy",
+    "category": "Trainer",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "141",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/141.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/141_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-141",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:141:english:swsh12pt5-141",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-141",
+      "setId": "swsh12pt5",
+      "collectorNumber": "141",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-141",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-100",
+    "englishName": "Rayquaza V",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "100",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/100.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/100_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-100",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:100:english:swsh12pt5-100",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-100",
+      "setId": "swsh12pt5",
+      "collectorNumber": "100",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-100",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-101",
+    "englishName": "Rayquaza VMAX",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "101",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/101.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/101_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-101",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:101:english:swsh12pt5-101",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-101",
+      "setId": "swsh12pt5",
+      "collectorNumber": "101",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-101",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-102",
+    "englishName": "Rayquaza VMAX",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "102",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/102.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/102_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-102",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:102:english:swsh12pt5-102",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-102",
+      "setId": "swsh12pt5",
+      "collectorNumber": "102",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-102",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-113",
+    "englishName": "Regigigas V",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "113",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/113.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/113_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-113",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:113:english:swsh12pt5-113",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-113",
+      "setId": "swsh12pt5",
+      "collectorNumber": "113",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-113",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-114",
+    "englishName": "Regigigas VSTAR",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "114",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/114.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/114_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-114",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:114:english:swsh12pt5-114",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-114",
+      "setId": "swsh12pt5",
+      "collectorNumber": "114",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-114",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-142",
+    "englishName": "Rescue Carrier",
+    "category": "Trainer",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "142",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/142.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/142_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-142",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:142:english:swsh12pt5-142",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-142",
+      "setId": "swsh12pt5",
+      "collectorNumber": "142",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-142",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-71",
+    "englishName": "Riolu",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "71",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/71.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-71",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:71:english:swsh12pt5-71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-71",
+      "setId": "swsh12pt5",
+      "collectorNumber": "71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-73",
+    "englishName": "Rockruff",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "73",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/73.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-73",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:73:english:swsh12pt5-73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-73",
+      "setId": "swsh12pt5",
+      "collectorNumber": "73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-45",
+    "englishName": "Rotom V",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "45",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/45.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-45",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:45:english:swsh12pt5-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-45",
+      "setId": "swsh12pt5",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-46",
+    "englishName": "Rotom VSTAR",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "46",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/46.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-46",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:46:english:swsh12pt5-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-46",
+      "setId": "swsh12pt5",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-27",
+    "englishName": "Salandit",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "27",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/27.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-27",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:27:english:swsh12pt5-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-27",
+      "setId": "swsh12pt5",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-28",
+    "englishName": "Salazzle",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "28",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/28.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-28",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:28:english:swsh12pt5-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-28",
+      "setId": "swsh12pt5",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-86",
+    "englishName": "Scizor",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "86",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/86.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/86_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-86",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:86:english:swsh12pt5-86",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-86",
+      "setId": "swsh12pt5",
+      "collectorNumber": "86",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-86",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-6",
+    "englishName": "Scyther",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "6",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/6.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-6",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:6:english:swsh12pt5-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-6",
+      "setId": "swsh12pt5",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-29",
+    "englishName": "Seel",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "29",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/29.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-29",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:29:english:swsh12pt5-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-29",
+      "setId": "swsh12pt5",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-115",
+    "englishName": "Shaymin",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "115",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/115.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/115_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-115",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:115:english:swsh12pt5-115",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-115",
+      "setId": "swsh12pt5",
+      "collectorNumber": "115",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-115",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-39",
+    "englishName": "Shinx",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "39",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/39.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-39",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:39:english:swsh12pt5-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-39",
+      "setId": "swsh12pt5",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-40",
+    "englishName": "Shinx",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "40",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/40.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-40",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:40:english:swsh12pt5-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-40",
+      "setId": "swsh12pt5",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-22",
+    "englishName": "Simisear V",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "22",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/22.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-22",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:22:english:swsh12pt5-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-22",
+      "setId": "swsh12pt5",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-23",
+    "englishName": "Simisear VSTAR",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "23",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/23.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-23",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:23:english:swsh12pt5-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-23",
+      "setId": "swsh12pt5",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-81",
+    "englishName": "Skrelp",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "81",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/81.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/81_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-81",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:81:english:swsh12pt5-81",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-81",
+      "setId": "swsh12pt5",
+      "collectorNumber": "81",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-81",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-143",
+    "englishName": "Sky Seal Stone",
+    "category": "Trainer",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "143",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/143.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/143_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-143",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:143:english:swsh12pt5-143",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-143",
+      "setId": "swsh12pt5",
+      "collectorNumber": "143",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-143",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-109",
+    "englishName": "Snorlax",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "109",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/109.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/109_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-109",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:109:english:swsh12pt5-109",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-109",
+      "setId": "swsh12pt5",
+      "collectorNumber": "109",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-109",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-34",
+    "englishName": "Snorunt",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "34",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/34.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-34",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:34:english:swsh12pt5-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-34",
+      "setId": "swsh12pt5",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-69",
+    "englishName": "Solrock",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "69",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/69.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-69",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:69:english:swsh12pt5-69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-69",
+      "setId": "swsh12pt5",
+      "collectorNumber": "69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-110",
+    "englishName": "Starly",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "110",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/110.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/110_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-110",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:110:english:swsh12pt5-110",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-110",
+      "setId": "swsh12pt5",
+      "collectorNumber": "110",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-110",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-116",
+    "englishName": "Stoutland V",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "116",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/116.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/116_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-116",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:116:english:swsh12pt5-116",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-116",
+      "setId": "swsh12pt5",
+      "collectorNumber": "116",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-116",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-7",
+    "englishName": "Sunkern",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "7",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/7.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-7",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:7:english:swsh12pt5-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-7",
+      "setId": "swsh12pt5",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-144",
+    "englishName": "Switch",
+    "category": "Trainer",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "144",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/144.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/144_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-144",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:144:english:swsh12pt5-144",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-144",
+      "setId": "swsh12pt5",
+      "collectorNumber": "144",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-144",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-4",
+    "englishName": "Tangela",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "4",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/4.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-4",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:4:english:swsh12pt5-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-4",
+      "setId": "swsh12pt5",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-5",
+    "englishName": "Tangrowth",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "5",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/5.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-5",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:5:english:swsh12pt5-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-5",
+      "setId": "swsh12pt5",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-64",
+    "englishName": "Tapu Lele",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "64",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/64.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-64",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:64:english:swsh12pt5-64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-64",
+      "setId": "swsh12pt5",
+      "collectorNumber": "64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-106",
+    "englishName": "Tauros",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "106",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/106.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/106_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-106",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:106:english:swsh12pt5-106",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-106",
+      "setId": "swsh12pt5",
+      "collectorNumber": "106",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-106",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-145",
+    "englishName": "Trekking Shoes",
+    "category": "Trainer",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "145",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/145.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/145_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-145",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:145:english:swsh12pt5-145",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-145",
+      "setId": "swsh12pt5",
+      "collectorNumber": "145",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-145",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-146",
+    "englishName": "Ultra Ball",
+    "category": "Trainer",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "146",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/146.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/146_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-146",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:146:english:swsh12pt5-146",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-146",
+      "setId": "swsh12pt5",
+      "collectorNumber": "146",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-146",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-26",
+    "englishName": "Volcanion",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "26",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/26.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-26",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:26:english:swsh12pt5-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-26",
+      "setId": "swsh12pt5",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-25",
+    "englishName": "Volcarona",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "25",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/25.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-25",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:25:english:swsh12pt5-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-25",
+      "setId": "swsh12pt5",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-151",
+    "englishName": "Volo",
+    "category": "Trainer",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "151",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/151.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/151_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-151",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:151:english:swsh12pt5-151",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-151",
+      "setId": "swsh12pt5",
+      "collectorNumber": "151",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-151",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-31",
+    "englishName": "Wailmer",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "31",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/31.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-31",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:31:english:swsh12pt5-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-31",
+      "setId": "swsh12pt5",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-32",
+    "englishName": "Wailord",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "32",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/32.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-32",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:32:english:swsh12pt5-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-32",
+      "setId": "swsh12pt5",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-154",
+    "englishName": "Water Energy",
+    "category": "Energy",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "154",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/154.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/154_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-154",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:154:english:swsh12pt5-154",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-154",
+      "setId": "swsh12pt5",
+      "collectorNumber": "154",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-154",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-121",
+    "englishName": "Wooloo",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "121",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/121.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/121_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-121",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:121:english:swsh12pt5-121",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-121",
+      "setId": "swsh12pt5",
+      "collectorNumber": "121",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-121",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-8",
+    "englishName": "Yanma",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "8",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/8.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-8",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:8:english:swsh12pt5-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-8",
+      "setId": "swsh12pt5",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-9",
+    "englishName": "Yanmega",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "9",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/9.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-9",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:9:english:swsh12pt5-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-9",
+      "setId": "swsh12pt5",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-117",
+    "englishName": "Yungoos",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "117",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/117.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/117_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-117",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:117:english:swsh12pt5-117",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-117",
+      "setId": "swsh12pt5",
+      "collectorNumber": "117",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-117",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-95",
+    "englishName": "Zacian V",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "95",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/95.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/95_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-95",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:95:english:swsh12pt5-95",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-95",
+      "setId": "swsh12pt5",
+      "collectorNumber": "95",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-95",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-96",
+    "englishName": "Zacian VSTAR",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "96",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/96.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/96_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-96",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:96:english:swsh12pt5-96",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-96",
+      "setId": "swsh12pt5",
+      "collectorNumber": "96",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-96",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-94",
+    "englishName": "Zacian",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "94",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/94.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/94_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-94",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:94:english:swsh12pt5-94",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-94",
+      "setId": "swsh12pt5",
+      "collectorNumber": "94",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-94",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-98",
+    "englishName": "Zamazenta V",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "98",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/98.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/98_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-98",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:98:english:swsh12pt5-98",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-98",
+      "setId": "swsh12pt5",
+      "collectorNumber": "98",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-98",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-99",
+    "englishName": "Zamazenta VSTAR",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "99",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/99.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/99_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-99",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:99:english:swsh12pt5-99",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-99",
+      "setId": "swsh12pt5",
+      "collectorNumber": "99",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-99",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-97",
+    "englishName": "Zamazenta",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "97",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/97.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/97_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-97",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:97:english:swsh12pt5-97",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-97",
+      "setId": "swsh12pt5",
+      "collectorNumber": "97",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-97",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-16",
+    "englishName": "Zarude",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "16",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/16.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-16",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:16:english:swsh12pt5-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-16",
+      "setId": "swsh12pt5",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-53",
+    "englishName": "Zeraora V",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "53",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/53.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-53",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:53:english:swsh12pt5-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-53",
+      "setId": "swsh12pt5",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-54",
+    "englishName": "Zeraora VMAX",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "54",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/54.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-54",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:54:english:swsh12pt5-54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-54",
+      "setId": "swsh12pt5",
+      "collectorNumber": "54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-55",
+    "englishName": "Zeraora VSTAR",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "55",
+    "regulationMark": "F",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/55.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-55",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:55:english:swsh12pt5-55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-55",
+      "setId": "swsh12pt5",
+      "collectorNumber": "55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "swsh12pt5-52",
+    "englishName": "Zeraora",
+    "category": "Pokemon",
+    "setCode": "CRZ",
+    "setName": "Crown Zenith",
+    "cardNumber": "52",
+    "regulationMark": "E",
+    "legalities": {
+      "standard": "Legal",
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/swsh12pt5/52.png",
+    "imageLarge": "https://images.pokemontcg.io/swsh12pt5/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "swsh12pt5-52",
+    "sourceSetId": "swsh12pt5",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:swsh12pt5:52:english:swsh12pt5-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "swsh12pt5-52",
+      "setId": "swsh12pt5",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "swsh12pt5-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

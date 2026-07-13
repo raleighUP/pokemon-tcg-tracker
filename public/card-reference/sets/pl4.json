@@ -1,0 +1,3000 @@
+[
+  {
+    "id": "pl4-13",
+    "englishName": "Aerodactyl",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "13",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/13.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/13_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-13",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:13:english:pl4-13",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-13",
+      "setId": "pl4",
+      "collectorNumber": "13",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-13",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-94",
+    "englishName": "Arceus LV.X",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "94",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/94.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/94_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-94",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:94:english:pl4-94",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-94",
+      "setId": "pl4",
+      "collectorNumber": "94",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-94",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-95",
+    "englishName": "Arceus LV.X",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "95",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/95.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/95_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-95",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:95:english:pl4-95",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-95",
+      "setId": "pl4",
+      "collectorNumber": "95",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-95",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-96",
+    "englishName": "Arceus LV.X",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "96",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/96.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/96_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-96",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:96:english:pl4-96",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-96",
+      "setId": "pl4",
+      "collectorNumber": "96",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-96",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-AR1",
+    "englishName": "Arceus",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "AR1",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/AR1.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/AR1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-AR1",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:AR1:english:pl4-AR1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-AR1",
+      "setId": "pl4",
+      "collectorNumber": "AR1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-AR1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-AR2",
+    "englishName": "Arceus",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "AR2",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/AR2.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/AR2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-AR2",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:AR2:english:pl4-AR2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-AR2",
+      "setId": "pl4",
+      "collectorNumber": "AR2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-AR2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-AR3",
+    "englishName": "Arceus",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "AR3",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/AR3.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/AR3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-AR3",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:AR3:english:pl4-AR3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-AR3",
+      "setId": "pl4",
+      "collectorNumber": "AR3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-AR3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-AR4",
+    "englishName": "Arceus",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "AR4",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/AR4.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/AR4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-AR4",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:AR4:english:pl4-AR4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-AR4",
+      "setId": "pl4",
+      "collectorNumber": "AR4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-AR4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-AR5",
+    "englishName": "Arceus",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "AR5",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/AR5.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/AR5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-AR5",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:AR5:english:pl4-AR5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-AR5",
+      "setId": "pl4",
+      "collectorNumber": "AR5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-AR5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-AR6",
+    "englishName": "Arceus",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "AR6",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/AR6.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/AR6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-AR6",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:AR6:english:pl4-AR6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-AR6",
+      "setId": "pl4",
+      "collectorNumber": "AR6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-AR6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-AR7",
+    "englishName": "Arceus",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "AR7",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/AR7.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/AR7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-AR7",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:AR7:english:pl4-AR7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-AR7",
+      "setId": "pl4",
+      "collectorNumber": "AR7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-AR7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-AR8",
+    "englishName": "Arceus",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "AR8",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/AR8.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/AR8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-AR8",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:AR8:english:pl4-AR8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-AR8",
+      "setId": "pl4",
+      "collectorNumber": "AR8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-AR8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-AR9",
+    "englishName": "Arceus",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "AR9",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/AR9.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/AR9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-AR9",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:AR9:english:pl4-AR9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-AR9",
+      "setId": "pl4",
+      "collectorNumber": "AR9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-AR9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-52",
+    "englishName": "Bagon",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "52",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/52.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/52_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-52",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:52:english:pl4-52",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-52",
+      "setId": "pl4",
+      "collectorNumber": "52",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-52",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-SH10",
+    "englishName": "Bagon",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "SH10",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/SH10.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/SH10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-SH10",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:SH10:english:pl4-SH10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-SH10",
+      "setId": "pl4",
+      "collectorNumber": "SH10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-SH10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-53",
+    "englishName": "Beedrill G",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "53",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/53.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/53_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-53",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:53:english:pl4-53",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-53",
+      "setId": "pl4",
+      "collectorNumber": "53",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-53",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-82",
+    "englishName": "Beginning Door",
+    "category": "Trainer",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "82",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/82.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/82_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-82",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:82:english:pl4-82",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-82",
+      "setId": "pl4",
+      "collectorNumber": "82",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-82",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-83",
+    "englishName": "Bench Shield",
+    "category": "Trainer",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "83",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/83.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/83_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-83",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:83:english:pl4-83",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-83",
+      "setId": "pl4",
+      "collectorNumber": "83",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-83",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-14",
+    "englishName": "Bronzong",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "14",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/14.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/14_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-14",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:14:english:pl4-14",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-14",
+      "setId": "pl4",
+      "collectorNumber": "14",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-14",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-33",
+    "englishName": "Bronzong",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "33",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/33.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/33_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-33",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:33:english:pl4-33",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-33",
+      "setId": "pl4",
+      "collectorNumber": "33",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-33",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-34",
+    "englishName": "Bronzor",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "34",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/34.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/34_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-34",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:34:english:pl4-34",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-34",
+      "setId": "pl4",
+      "collectorNumber": "34",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-34",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-54",
+    "englishName": "Bronzor",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "54",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/54.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/54_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-54",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:54:english:pl4-54",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-54",
+      "setId": "pl4",
+      "collectorNumber": "54",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-54",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-84",
+    "englishName": "Buffer Piece",
+    "category": "Trainer",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "84",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/84.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/84_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-84",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:84:english:pl4-84",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-84",
+      "setId": "pl4",
+      "collectorNumber": "84",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-84",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-55",
+    "englishName": "Buneary",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "55",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/55.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/55_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-55",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:55:english:pl4-55",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-55",
+      "setId": "pl4",
+      "collectorNumber": "55",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-55",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-56",
+    "englishName": "Burmy Plant Cloak",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "56",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/56.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/56_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-56",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:56:english:pl4-56",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-56",
+      "setId": "pl4",
+      "collectorNumber": "56",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-56",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-57",
+    "englishName": "Burmy Sandy Cloak",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "57",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/57.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/57_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-57",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:57:english:pl4-57",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-57",
+      "setId": "pl4",
+      "collectorNumber": "57",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-57",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-58",
+    "englishName": "Burmy Trash Cloak",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "58",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/58.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/58_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-58",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:58:english:pl4-58",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-58",
+      "setId": "pl4",
+      "collectorNumber": "58",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-58",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-1",
+    "englishName": "Charizard",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "1",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/1.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/1_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-1",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:1:english:pl4-1",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-1",
+      "setId": "pl4",
+      "collectorNumber": "1",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-1",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-59",
+    "englishName": "Charmander",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "59",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/59.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/59_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-59",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:59:english:pl4-59",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-59",
+      "setId": "pl4",
+      "collectorNumber": "59",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-59",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-35",
+    "englishName": "Charmeleon",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "35",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/35.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/35_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-35",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:35:english:pl4-35",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-35",
+      "setId": "pl4",
+      "collectorNumber": "35",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-35",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-15",
+    "englishName": "Cherrim",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "15",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/15.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/15_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-15",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:15:english:pl4-15",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-15",
+      "setId": "pl4",
+      "collectorNumber": "15",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-15",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-60",
+    "englishName": "Cherubi",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "60",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/60.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/60_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-60",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:60:english:pl4-60",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-60",
+      "setId": "pl4",
+      "collectorNumber": "60",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-60",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-61",
+    "englishName": "Croagunk",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "61",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/61.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/61_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-61",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:61:english:pl4-61",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-61",
+      "setId": "pl4",
+      "collectorNumber": "61",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-61",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-85",
+    "englishName": "Department Store Girl",
+    "category": "Trainer",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "85",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/85.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/85_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-85",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:85:english:pl4-85",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-85",
+      "setId": "pl4",
+      "collectorNumber": "85",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-85",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-92",
+    "englishName": "Dome Fossil",
+    "category": "Trainer",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "92",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/92.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/92_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-92",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:92:english:pl4-92",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-92",
+      "setId": "pl4",
+      "collectorNumber": "92",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-92",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-62",
+    "englishName": "Electrike",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "62",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/62.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/62_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-62",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:62:english:pl4-62",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-62",
+      "setId": "pl4",
+      "collectorNumber": "62",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-62",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-63",
+    "englishName": "Electrike",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "63",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/63.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/63_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-63",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:63:english:pl4-63",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-63",
+      "setId": "pl4",
+      "collectorNumber": "63",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-63",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-86",
+    "englishName": "Energy Restore",
+    "category": "Trainer",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "86",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/86.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/86_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-86",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:86:english:pl4-86",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-86",
+      "setId": "pl4",
+      "collectorNumber": "86",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-86",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-87",
+    "englishName": "Expert Belt",
+    "category": "Trainer",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "87",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/87.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/87_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-87",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:87:english:pl4-87",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-87",
+      "setId": "pl4",
+      "collectorNumber": "87",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-87",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-2",
+    "englishName": "Froslass",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "2",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/2.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/2_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-2",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:2:english:pl4-2",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-2",
+      "setId": "pl4",
+      "collectorNumber": "2",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-2",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-36",
+    "englishName": "Gastly",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "36",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/36.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/36_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-36",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:36:english:pl4-36",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-36",
+      "setId": "pl4",
+      "collectorNumber": "36",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-36",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-64",
+    "englishName": "Gastly",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "64",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/64.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/64_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-64",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:64:english:pl4-64",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-64",
+      "setId": "pl4",
+      "collectorNumber": "64",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-64",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-97",
+    "englishName": "Gengar LV.X",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "97",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/97.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/97_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-97",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:97:english:pl4-97",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-97",
+      "setId": "pl4",
+      "collectorNumber": "97",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-97",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-16",
+    "englishName": "Gengar",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "16",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/16.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/16_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-16",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:16:english:pl4-16",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-16",
+      "setId": "pl4",
+      "collectorNumber": "16",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-16",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-17",
+    "englishName": "Gengar",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "17",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/17.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/17_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-17",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:17:english:pl4-17",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-17",
+      "setId": "pl4",
+      "collectorNumber": "17",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-17",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-65",
+    "englishName": "Geodude",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "65",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/65.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/65_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-65",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:65:english:pl4-65",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-65",
+      "setId": "pl4",
+      "collectorNumber": "65",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-65",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-18",
+    "englishName": "Glalie",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "18",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/18.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/18_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-18",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:18:english:pl4-18",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-18",
+      "setId": "pl4",
+      "collectorNumber": "18",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-18",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-19",
+    "englishName": "Golem",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "19",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/19.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/19_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-19",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:19:english:pl4-19",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-19",
+      "setId": "pl4",
+      "collectorNumber": "19",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-19",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-37",
+    "englishName": "Graveler",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "37",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/37.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/37_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-37",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:37:english:pl4-37",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-37",
+      "setId": "pl4",
+      "collectorNumber": "37",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-37",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-38",
+    "englishName": "Grovyle",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "38",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/38.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/38_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-38",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:38:english:pl4-38",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-38",
+      "setId": "pl4",
+      "collectorNumber": "38",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-38",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-39",
+    "englishName": "Grovyle",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "39",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/39.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/39_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-39",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:39:english:pl4-39",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-39",
+      "setId": "pl4",
+      "collectorNumber": "39",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-39",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-40",
+    "englishName": "Gulpin",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "40",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/40.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/40_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-40",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:40:english:pl4-40",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-40",
+      "setId": "pl4",
+      "collectorNumber": "40",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-40",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-66",
+    "englishName": "Gulpin",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "66",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/66.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/66_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-66",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:66:english:pl4-66",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-66",
+      "setId": "pl4",
+      "collectorNumber": "66",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-66",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-20",
+    "englishName": "Hariyama",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "20",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/20.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/20_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-20",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:20:english:pl4-20",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-20",
+      "setId": "pl4",
+      "collectorNumber": "20",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-20",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-41",
+    "englishName": "Haunter",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "41",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/41.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/41_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-41",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:41:english:pl4-41",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-41",
+      "setId": "pl4",
+      "collectorNumber": "41",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-41",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-42",
+    "englishName": "Haunter",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "42",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/42.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/42_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-42",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:42:english:pl4-42",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-42",
+      "setId": "pl4",
+      "collectorNumber": "42",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-42",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-3",
+    "englishName": "Heatran",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "3",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/3.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/3_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-3",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:3:english:pl4-3",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-3",
+      "setId": "pl4",
+      "collectorNumber": "3",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-3",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-93",
+    "englishName": "Helix Fossil",
+    "category": "Trainer",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "93",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/93.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/93_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-93",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:93:english:pl4-93",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-93",
+      "setId": "pl4",
+      "collectorNumber": "93",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-93",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-67",
+    "englishName": "Kabuto",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "67",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/67.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/67_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-67",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:67:english:pl4-67",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-67",
+      "setId": "pl4",
+      "collectorNumber": "67",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-67",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-4",
+    "englishName": "Kabutops",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "4",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/4.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/4_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-4",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:4:english:pl4-4",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-4",
+      "setId": "pl4",
+      "collectorNumber": "4",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-4",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-21",
+    "englishName": "Lopunny",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "21",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/21.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/21_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-21",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:21:english:pl4-21",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-21",
+      "setId": "pl4",
+      "collectorNumber": "21",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-21",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-88",
+    "englishName": "Lucky Egg",
+    "category": "Trainer",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "88",
+    "legalities": {
+      "expanded": "Legal",
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/88.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/88_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-88",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:88:english:pl4-88",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-88",
+      "setId": "pl4",
+      "collectorNumber": "88",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-88",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-43",
+    "englishName": "Luxio",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "43",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/43.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/43_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-43",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:43:english:pl4-43",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-43",
+      "setId": "pl4",
+      "collectorNumber": "43",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-43",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-5",
+    "englishName": "Luxray",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "5",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/5.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/5_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-5",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:5:english:pl4-5",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-5",
+      "setId": "pl4",
+      "collectorNumber": "5",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-5",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-68",
+    "englishName": "Makuhita",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "68",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/68.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/68_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-68",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:68:english:pl4-68",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-68",
+      "setId": "pl4",
+      "collectorNumber": "68",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-68",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-22",
+    "englishName": "Manectric",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "22",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/22.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/22_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-22",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:22:english:pl4-22",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-22",
+      "setId": "pl4",
+      "collectorNumber": "22",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-22",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-44",
+    "englishName": "Manectric",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "44",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/44.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/44_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-44",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:44:english:pl4-44",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-44",
+      "setId": "pl4",
+      "collectorNumber": "44",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-44",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-6",
+    "englishName": "Mothim",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "6",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/6.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/6_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-6",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:6:english:pl4-6",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-6",
+      "setId": "pl4",
+      "collectorNumber": "6",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-6",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-69",
+    "englishName": "Nosepass",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "69",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/69.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/69_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-69",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:69:english:pl4-69",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-69",
+      "setId": "pl4",
+      "collectorNumber": "69",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-69",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-89",
+    "englishName": "Old Amber",
+    "category": "Trainer",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "89",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/89.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/89_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-89",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:89:english:pl4-89",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-89",
+      "setId": "pl4",
+      "collectorNumber": "89",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-89",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-70",
+    "englishName": "Omanyte",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "70",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/70.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/70_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-70",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:70:english:pl4-70",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-70",
+      "setId": "pl4",
+      "collectorNumber": "70",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-70",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-23",
+    "englishName": "Omastar",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "23",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/23.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/23_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-23",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:23:english:pl4-23",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-23",
+      "setId": "pl4",
+      "collectorNumber": "23",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-23",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-24",
+    "englishName": "Pelipper",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "24",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/24.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/24_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-24",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:24:english:pl4-24",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-24",
+      "setId": "pl4",
+      "collectorNumber": "24",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-24",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-45",
+    "englishName": "Pelipper",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "45",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/45.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/45_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-45",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:45:english:pl4-45",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-45",
+      "setId": "pl4",
+      "collectorNumber": "45",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-45",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-25",
+    "englishName": "Pichu",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "25",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/25.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/25_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-25",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:25:english:pl4-25",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-25",
+      "setId": "pl4",
+      "collectorNumber": "25",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-25",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-71",
+    "englishName": "Pikachu",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "71",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/71.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/71_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-71",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:71:english:pl4-71",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-71",
+      "setId": "pl4",
+      "collectorNumber": "71",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-71",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-46",
+    "englishName": "Ponyta",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "46",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/46.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/46_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-46",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:46:english:pl4-46",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-46",
+      "setId": "pl4",
+      "collectorNumber": "46",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-46",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-72",
+    "englishName": "Ponyta",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "72",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/72.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/72_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-72",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:72:english:pl4-72",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-72",
+      "setId": "pl4",
+      "collectorNumber": "72",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-72",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-SH11",
+    "englishName": "Ponyta",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "SH11",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/SH11.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/SH11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-SH11",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:SH11:english:pl4-SH11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-SH11",
+      "setId": "pl4",
+      "collectorNumber": "SH11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-SH11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-26",
+    "englishName": "Porygon-Z G",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "26",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/26.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/26_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-26",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:26:english:pl4-26",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-26",
+      "setId": "pl4",
+      "collectorNumber": "26",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-26",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-7",
+    "englishName": "Probopass",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "7",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/7.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/7_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-7",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:7:english:pl4-7",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-7",
+      "setId": "pl4",
+      "collectorNumber": "7",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-7",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-90",
+    "englishName": "Professor Oak's Visit",
+    "category": "Trainer",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "90",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/90.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/90_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-90",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:90:english:pl4-90",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-90",
+      "setId": "pl4",
+      "collectorNumber": "90",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-90",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-27",
+    "englishName": "Raichu",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "27",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/27.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/27_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-27",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:27:english:pl4-27",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-27",
+      "setId": "pl4",
+      "collectorNumber": "27",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-27",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-28",
+    "englishName": "Rapidash",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "28",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/28.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/28_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-28",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:28:english:pl4-28",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-28",
+      "setId": "pl4",
+      "collectorNumber": "28",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-28",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-47",
+    "englishName": "Rapidash",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "47",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/47.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/47_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-47",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:47:english:pl4-47",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-47",
+      "setId": "pl4",
+      "collectorNumber": "47",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-47",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-29",
+    "englishName": "Raticate",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "29",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/29.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/29_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-29",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:29:english:pl4-29",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-29",
+      "setId": "pl4",
+      "collectorNumber": "29",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-29",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-73",
+    "englishName": "Rattata",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "73",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/73.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/73_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-73",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:73:english:pl4-73",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-73",
+      "setId": "pl4",
+      "collectorNumber": "73",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-73",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-98",
+    "englishName": "Salamence LV.X",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "98",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/98.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/98_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-98",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:98:english:pl4-98",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-98",
+      "setId": "pl4",
+      "collectorNumber": "98",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-98",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-8",
+    "englishName": "Salamence",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "8",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/8.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/8_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-8",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:8:english:pl4-8",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-8",
+      "setId": "pl4",
+      "collectorNumber": "8",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-8",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-30",
+    "englishName": "Sceptile",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "30",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/30.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/30_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-30",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:30:english:pl4-30",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-30",
+      "setId": "pl4",
+      "collectorNumber": "30",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-30",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-31",
+    "englishName": "Sceptile",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "31",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/31.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/31_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-31",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:31:english:pl4-31",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-31",
+      "setId": "pl4",
+      "collectorNumber": "31",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-31",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-48",
+    "englishName": "Shelgon",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "48",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/48.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/48_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-48",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:48:english:pl4-48",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-48",
+      "setId": "pl4",
+      "collectorNumber": "48",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-48",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-74",
+    "englishName": "Shinx",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "74",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/74.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/74_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-74",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:74:english:pl4-74",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-74",
+      "setId": "pl4",
+      "collectorNumber": "74",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-74",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-SH12",
+    "englishName": "Shinx",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "SH12",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/SH12.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/SH12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-SH12",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:SH12:english:pl4-SH12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-SH12",
+      "setId": "pl4",
+      "collectorNumber": "SH12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-SH12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-75",
+    "englishName": "Snorunt",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "75",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/75.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/75_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-75",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:75:english:pl4-75",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-75",
+      "setId": "pl4",
+      "collectorNumber": "75",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-75",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-32",
+    "englishName": "Spiritomb",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "32",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/32.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/32_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-32",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:32:english:pl4-32",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-32",
+      "setId": "pl4",
+      "collectorNumber": "32",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-32",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-9",
+    "englishName": "Swalot",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "9",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/9.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/9_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-9",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:9:english:pl4-9",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-9",
+      "setId": "pl4",
+      "collectorNumber": "9",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-9",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-76",
+    "englishName": "Tangela",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "76",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/76.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/76_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-76",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:76:english:pl4-76",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-76",
+      "setId": "pl4",
+      "collectorNumber": "76",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-76",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-77",
+    "englishName": "Tangela",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "77",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/77.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/77_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-77",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:77:english:pl4-77",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-77",
+      "setId": "pl4",
+      "collectorNumber": "77",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-77",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-99",
+    "englishName": "Tangrowth LV.X",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "99",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/99.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/99_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-99",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:99:english:pl4-99",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-99",
+      "setId": "pl4",
+      "collectorNumber": "99",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-99",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-10",
+    "englishName": "Tangrowth",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "10",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/10.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/10_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-10",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:10:english:pl4-10",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-10",
+      "setId": "pl4",
+      "collectorNumber": "10",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-10",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-11",
+    "englishName": "Toxicroak",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "11",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/11.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/11_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-11",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:11:english:pl4-11",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-11",
+      "setId": "pl4",
+      "collectorNumber": "11",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-11",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-78",
+    "englishName": "Treecko",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "78",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/78.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/78_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-78",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:78:english:pl4-78",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-78",
+      "setId": "pl4",
+      "collectorNumber": "78",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-78",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-79",
+    "englishName": "Treecko",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "79",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/79.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/79_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-79",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:79:english:pl4-79",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-79",
+      "setId": "pl4",
+      "collectorNumber": "79",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-79",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-91",
+    "englishName": "Ultimate Zone",
+    "category": "Trainer",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "91",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/91.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/91_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-91",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:91:english:pl4-91",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-91",
+      "setId": "pl4",
+      "collectorNumber": "91",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-91",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-80",
+    "englishName": "Wingull",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "80",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/80.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/80_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-80",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:80:english:pl4-80",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-80",
+      "setId": "pl4",
+      "collectorNumber": "80",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-80",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-81",
+    "englishName": "Wingull",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "81",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/81.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/81_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-81",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:81:english:pl4-81",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-81",
+      "setId": "pl4",
+      "collectorNumber": "81",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-81",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-49",
+    "englishName": "Wormadam Plant Cloak",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "49",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/49.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/49_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-49",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:49:english:pl4-49",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-49",
+      "setId": "pl4",
+      "collectorNumber": "49",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-49",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-50",
+    "englishName": "Wormadam Sandy Cloak",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "50",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/50.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/50_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-50",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:50:english:pl4-50",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-50",
+      "setId": "pl4",
+      "collectorNumber": "50",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-50",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-51",
+    "englishName": "Wormadam Trash Cloak",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "51",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/51.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/51_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-51",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:51:english:pl4-51",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-51",
+      "setId": "pl4",
+      "collectorNumber": "51",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-51",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  },
+  {
+    "id": "pl4-12",
+    "englishName": "Zapdos G",
+    "category": "Pokemon",
+    "setCode": "AR",
+    "setName": "Arceus",
+    "cardNumber": "12",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "imageSmall": "https://images.pokemontcg.io/pl4/12.png",
+    "imageLarge": "https://images.pokemontcg.io/pl4/12_hires.png",
+    "source": "pokemon-tcg-api",
+    "sourceCardId": "pl4-12",
+    "sourceSetId": "pl4",
+    "language": "english",
+    "exactPrintKey": "pokemon-tcg-api:pl4:12:english:pl4-12",
+    "exactPrintIdentity": {
+      "source": "pokemon-tcg-api",
+      "sourceCardId": "pl4-12",
+      "setId": "pl4",
+      "collectorNumber": "12",
+      "language": "english"
+    },
+    "englishEquivalentReferenceId": "pl4-12",
+    "syncedAt": "2026-07-13T21:22:11.420Z"
+  }
+]

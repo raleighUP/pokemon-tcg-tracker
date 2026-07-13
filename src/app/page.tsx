@@ -30,8 +30,13 @@ import {
   writeEvents,
   writeMatches,
 } from '@/utils/app-storage'
+import { downloadCardReferenceCacheUpdate } from '@/lib/card-reference-cache-update'
+import { initializeCardReferenceRepository } from '@/lib/card-reference-repository'
 
 import { Deck, EventRecord, Match, CardEntry } from '@/types'
+
+const CARD_REFERENCE_REMOTE_ROOT =
+  process.env.NEXT_PUBLIC_CARD_REFERENCE_REMOTE_ROOT
 
 export default function Home() {
 const [activeTab, setActiveTab] = useState<AppTab>('decks')
@@ -56,6 +61,17 @@ const [activeTab, setActiveTab] = useState<AppTab>('decks')
 
   const [compareDeck1, setCompareDeck1] = useState('')
   const [compareDeck2, setCompareDeck2] = useState('')
+
+  useEffect(() => {
+    if (!CARD_REFERENCE_REMOTE_ROOT) {
+      initializeCardReferenceRepository()
+      return
+    }
+
+    downloadCardReferenceCacheUpdate({
+      remoteRootUrl: CARD_REFERENCE_REMOTE_ROOT,
+    }).then(() => initializeCardReferenceRepository())
+  }, [])
 
   const parseDeck = (deckName: string): CardEntry[] => {
   const deck = decks.find((d) => d.name === deckName)
