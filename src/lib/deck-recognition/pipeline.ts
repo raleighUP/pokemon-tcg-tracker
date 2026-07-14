@@ -68,7 +68,10 @@ export async function recognizeDeckImage(
   const objectUrl = await toObjectUrl(image)
 
   try {
-    const localResult = await recognizeUploadedDeckImageLocally(objectUrl.url)
+    const localResult = await recognizeUploadedDeckImageLocally(
+      objectUrl.url,
+      options.sourceType ?? 'auto'
+    )
 
     return {
       entries: localResult.cards,

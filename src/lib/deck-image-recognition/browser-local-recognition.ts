@@ -26,6 +26,7 @@ import {
   validateDeckQuantityTotal,
   validateDigitalQuantityRead,
 } from '@/lib/deck-recognition/digital-recognition-config.mjs'
+import { resolveRecognitionStrategy } from '@/lib/deck-recognition/physical-recognition-config.mjs'
 
 type ImageFeatures = {
   perceptualHash: string
@@ -108,6 +109,15 @@ export type BadgePattern = {
 }
 
 export type BrowserDeckImageRecognitionResult = {
+  strategyDiagnostics: {
+    requestedStrategy: 'auto' | 'digital' | 'physical'
+    resolvedStrategy: 'digital' | 'physical'
+    reason: string
+    digitalDetectorExecuted: boolean
+    digitalQuantityExecuted: boolean
+    physicalDetectorExecuted: boolean
+    physicalStackCounterExecuted: boolean
+  }
   cards: ExtractedDeckCard[]
   candidateCount: number
   matchedCount: number
@@ -156,6 +166,21 @@ export type BrowserDeckImageRecognitionResult = {
     notes: string[]
   }>
   warnings: string[]
+}
+
+function readPhysicalQuantity(candidate: RefinedCandidate): QuantityReadResult {
+  return {
+    quantity: Math.max(1, Math.min(4, candidate.quantity ?? candidate.estimatedQuantity ?? 1)),
+    quantityConfidence: candidate.quantityConfidence,
+    quantitySource: candidate.quantitySource === 'unknown'
+      ? 'manual-review'
+      : candidate.quantitySource,
+    note: candidate.notes?.join(' ') ?? null,
+    badgeFound: false,
+    failureReason: candidate.quantitySource === 'unknown'
+      ? 'Physical stack quantity requires review.'
+      : null,
+  }
 }
 
 const MANIFEST_PATH = '/card-image-cache/fixture-subset/manifest.json'
@@ -1773,17 +1798,21 @@ function findTopMatches(
 }
 
 export async function recognizeUploadedDeckImageLocally(
-  imageUrl: string
+  imageUrl: string,
+  requestedStrategy: 'auto' | 'digital' | 'physical' = 'auto'
 ): Promise<BrowserDeckImageRecognitionResult> {
   const [uploadedImage, manifest] = await Promise.all([
     loadImage(imageUrl),
     loadFixtureCardManifest(),
   ])
-  const candidates = await detectDeckEntryCandidates(uploadedImage)
+  const resolvedStrategy = resolveRecognitionStrategy(requestedStrategy)
+  const candidates = await detectDeckEntryCandidates(uploadedImage, resolvedStrategy)
   const refinedCandidates = candidates.map((candidate) =>
     refineCandidateCrop(candidate, uploadedImage)
   )
-  const badgePattern = inferBadgePattern(uploadedImage, refinedCandidates)
+  const badgePattern = resolvedStrategy === 'digital'
+    ? inferBadgePattern(uploadedImage, refinedCandidates)
+    : null
   const referenceIndex = await buildReferenceIndex(manifest)
   const cards: ExtractedDeckCard[] = []
   const debugMatches: BrowserDeckImageRecognitionResult['debugMatches'] = []
@@ -1796,7 +1825,9 @@ export async function recognizeUploadedDeckImageLocally(
   ]
 
   for (const [index, candidate] of refinedCandidates.entries()) {
-    let quantityRead = readDigitalQuantityBadge(uploadedImage, candidate, badgePattern)
+    let quantityRead = resolvedStrategy === 'physical'
+      ? readPhysicalQuantity(candidate)
+      : readDigitalQuantityBadge(uploadedImage, candidate, badgePattern)
     let candidateNotes = [
       ...candidate.cropQuality.notes,
       ...(quantityRead.note ? [quantityRead.note] : []),
@@ -1861,12 +1892,14 @@ export async function recognizeUploadedDeckImageLocally(
         ? Number((bestMatch.confidence - closeChallenger.confidence).toFixed(4))
         : undefined
 
-    quantityRead = readDigitalQuantityBadge(
-      uploadedImage,
-      candidate,
-      badgePattern,
-      bestMatch
-    )
+    quantityRead = resolvedStrategy === 'physical'
+      ? readPhysicalQuantity(candidate)
+      : readDigitalQuantityBadge(
+          uploadedImage,
+          candidate,
+          badgePattern,
+          bestMatch
+        )
     candidateNotes = [
       ...candidate.cropQuality.notes,
       ...(quantityRead.note ? [quantityRead.note] : []),
@@ -2046,6 +2079,19 @@ export async function recognizeUploadedDeckImageLocally(
   })
 
   return {
+    strategyDiagnostics: {
+      requestedStrategy,
+      resolvedStrategy,
+      reason: requestedStrategy === 'physical'
+        ? 'Explicit physical strategy requested by the recognition caller.'
+        : requestedStrategy === 'digital'
+          ? 'Explicit digital strategy requested by the recognition caller.'
+          : 'Auto currently preserves the locked digital strategy.',
+      digitalDetectorExecuted: resolvedStrategy === 'digital',
+      digitalQuantityExecuted: resolvedStrategy === 'digital',
+      physicalDetectorExecuted: resolvedStrategy === 'physical',
+      physicalStackCounterExecuted: resolvedStrategy === 'physical',
+    },
     cards: consolidatedCards,
     candidateCount: candidates.length,
     matchedCount,

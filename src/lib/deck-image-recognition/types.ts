@@ -22,6 +22,10 @@ export type QuantitySource =
   | 'digit-template'
   | 'combined'
   | 'legacy-heuristic'
+  | 'single-visible-card'
+  | 'stack-edge-count'
+  | 'individual-card-count'
+  | 'manual-review'
   | 'unknown'
 
 export type ImageMetadata = {

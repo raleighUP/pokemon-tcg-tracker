@@ -1,4 +1,5 @@
 import type { DeckEntryCandidate } from './types'
+import { PHYSICAL_RECOGNITION_CONFIG } from '@/lib/deck-recognition/physical-recognition-config.mjs'
 
 const CARD_ASPECT_RATIO = 63 / 88
 const DEFAULT_DIGITAL_ENTRY_COUNT = 24
@@ -125,6 +126,31 @@ function dilate(mask: Uint8Array, width: number, height: number, radius: number)
     }
   }
 
+  return output
+}
+
+function erode(mask: Uint8Array, width: number, height: number, radius: number) {
+  const output = new Uint8Array(mask.length)
+  for (let y = 0; y < height; y += 1) {
+    for (let x = 0; x < width; x += 1) {
+      let foundAll = true
+      for (let dy = -radius; dy <= radius && foundAll; dy += 1) {
+        const nextY = y + dy
+        if (nextY < 0 || nextY >= height) {
+          foundAll = false
+          break
+        }
+        for (let dx = -radius; dx <= radius; dx += 1) {
+          const nextX = x + dx
+          if (nextX < 0 || nextX >= width || !mask[nextY * width + nextX]) {
+            foundAll = false
+            break
+          }
+        }
+      }
+      output[y * width + x] = foundAll ? 1 : 0
+    }
+  }
   return output
 }
 
@@ -500,6 +526,144 @@ function getCanvasImageData(image: HTMLImageElement | ImageBitmap) {
   return context.getImageData(0, 0, width, height)
 }
 
+function percentile(values: Uint8Array, percent: number) {
+  const histogram = new Uint32Array(256)
+  for (const value of values) histogram[value] += 1
+  const target = Math.floor(values.length * percent)
+  let seen = 0
+  for (let value = 0; value < histogram.length; value += 1) {
+    seen += histogram[value]
+    if (seen >= target) return value
+  }
+  return 255
+}
+
+function getPhysicalProcessingImageData(image: HTMLImageElement | ImageBitmap) {
+  if (typeof document === 'undefined') return null
+  const size = getImageSize(image)
+  const scale = Math.min(
+    1,
+    PHYSICAL_RECOGNITION_CONFIG.processingMaximumDimension /
+      Math.max(size.width, size.height)
+  )
+  const width = Math.max(1, Math.round(size.width * scale))
+  const height = Math.max(1, Math.round(size.height * scale))
+  const canvas = document.createElement('canvas')
+  const context = canvas.getContext('2d', { willReadFrequently: true })
+  if (!context) return null
+  canvas.width = width
+  canvas.height = height
+  context.drawImage(image, 0, 0, width, height)
+  return { imageData: context.getImageData(0, 0, width, height), scale }
+}
+
+function createPhysicalEdgeMask(data: Uint8ClampedArray, width: number, height: number) {
+  const gray = new Uint8Array(width * height)
+  for (let index = 0; index < gray.length; index += 1) {
+    const source = index * 4
+    gray[index] = Math.round(
+      (data[source] ?? 0) * 0.299 +
+      (data[source + 1] ?? 0) * 0.587 +
+      (data[source + 2] ?? 0) * 0.114
+    )
+  }
+  const low = percentile(gray, 0.04)
+  const high = percentile(gray, 0.96)
+  const range = Math.max(1, high - low)
+  for (let index = 0; index < gray.length; index += 1) {
+    gray[index] = Math.max(0, Math.min(255, Math.round(((gray[index] - low) / range) * 255)))
+  }
+  const magnitude = new Uint8Array(gray.length)
+  for (let y = 1; y < height - 1; y += 1) {
+    for (let x = 1; x < width - 1; x += 1) {
+      const tl = gray[(y - 1) * width + x - 1]
+      const t = gray[(y - 1) * width + x]
+      const tr = gray[(y - 1) * width + x + 1]
+      const l = gray[y * width + x - 1]
+      const r = gray[y * width + x + 1]
+      const bl = gray[(y + 1) * width + x - 1]
+      const b = gray[(y + 1) * width + x]
+      const br = gray[(y + 1) * width + x + 1]
+      const gx = -tl - 2 * l - bl + tr + 2 * r + br
+      const gy = -tl - 2 * t - tr + bl + 2 * b + br
+      magnitude[y * width + x] = Math.min(255, Math.round((Math.abs(gx) + Math.abs(gy)) / 4))
+    }
+  }
+  const threshold = Math.max(32, percentile(magnitude, 0.88))
+  const mask = new Uint8Array(magnitude.length)
+  for (let index = 0; index < magnitude.length; index += 1) {
+    mask[index] = magnitude[index] >= threshold ? 1 : 0
+  }
+  return erode(dilate(mask, width, height, 2), width, height, 1)
+}
+
+function scorePhysicalComponent(
+  component: Bounds & { pixels: number },
+  width: number,
+  height: number
+) {
+  const area = component.width * component.height
+  const areaRatio = area / (width * height)
+  const aspect = component.width / component.height
+  const difference = Math.min(
+    Math.abs(aspect - PHYSICAL_RECOGNITION_CONFIG.cardAspectRatio),
+    Math.abs(1 / aspect - PHYSICAL_RECOGNITION_CONFIG.cardAspectRatio)
+  )
+  if (
+    areaRatio < PHYSICAL_RECOGNITION_CONFIG.minimumRegionAreaRatio ||
+    areaRatio > PHYSICAL_RECOGNITION_CONFIG.maximumRegionAreaRatio ||
+    difference > PHYSICAL_RECOGNITION_CONFIG.aspectRatioTolerance
+  ) return 0
+  const aspectScore = Math.max(0, 1 - difference / PHYSICAL_RECOGNITION_CONFIG.aspectRatioTolerance)
+  const density = component.pixels / area
+  const densityScore = Math.max(0, 1 - Math.abs(density - 0.28) / 0.28)
+  return Number((aspectScore * 0.75 + densityScore * 0.25).toFixed(3))
+}
+
+export function detectPhysicalDeckEntries(
+  image: HTMLImageElement | ImageBitmap
+): DeckEntryCandidate[] {
+  const processed = getPhysicalProcessingImageData(image)
+  if (!processed) return []
+  const { imageData, scale } = processed
+  const components = findConnectedComponents(
+    createPhysicalEdgeMask(imageData.data, imageData.width, imageData.height),
+    imageData.width,
+    imageData.height
+  )
+  const scored = components
+    .map((component) => ({
+      ...component,
+      score: scorePhysicalComponent(component, imageData.width, imageData.height),
+    }))
+    .filter((candidate) => candidate.score >= PHYSICAL_RECOGNITION_CONFIG.minimumCardLikeness)
+  const candidates = mergeDuplicateCandidates(scored).slice(0, 80)
+  return candidates.map((candidate, index) => {
+    const bounds = clampBounds({
+      x: candidate.x / scale,
+      y: candidate.y / scale,
+      width: candidate.width / scale,
+      height: candidate.height / scale,
+    }, getImageSize(image).width, getImageSize(image).height)
+    return {
+      id: `physical-entry-${String(index + 1).padStart(3, '0')}`,
+      representativeBounds: bounds,
+      groupBounds: bounds,
+      estimatedQuantity: 1,
+      quantity: 1,
+      quantityConfidence: candidate.score,
+      quantitySource: 'single-visible-card',
+      x: bounds.x,
+      y: bounds.y,
+      width: bounds.width,
+      height: bounds.height,
+      confidence: candidate.score,
+      notes: ['Physical edge-component card candidate; stack count unresolved beyond visible top card.'],
+      sourceStrategy: 'physical-layout',
+    }
+  })
+}
+
 function detectDigitalDeckEntriesFromPixels(
   image: HTMLImageElement | ImageBitmap
 ): DeckEntryCandidate[] {
@@ -573,11 +737,14 @@ function detectPhysicalLayoutFallback(
 }
 
 export async function detectDeckEntryCandidates(
-  image: HTMLImageElement | ImageBitmap
+  image: HTMLImageElement | ImageBitmap,
+  strategy: 'auto' | 'digital' | 'physical' = 'auto'
 ): Promise<DeckEntryCandidate[]> {
   const { width, height } = getImageSize(image)
 
   if (width <= 0 || height <= 0) return []
+
+  if (strategy === 'physical') return detectPhysicalDeckEntries(image)
 
   const segmentedDigitalEntries = detectDigitalDeckEntriesFromPixels(image)
 

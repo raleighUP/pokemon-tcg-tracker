@@ -1,5 +1,5 @@
 import { spawn } from 'node:child_process'
-import { existsSync, mkdirSync, writeFileSync } from 'node:fs'
+import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from 'node:fs'
 import path from 'node:path'
 import { chromium } from 'playwright'
 import { discoverDeckImageFixtures, repoRoot } from './lib/deck-image-fixtures.mjs'
@@ -11,12 +11,30 @@ import {
 import { DIGITAL_RECOGNITION_CONFIG } from '../src/lib/deck-recognition/digital-recognition-config.mjs'
 
 const port = Number(process.env.DECK_IMPORTER_BENCHMARK_PORT ?? 3217)
+const benchmarkSourceType = process.env.DECK_IMPORTER_BENCHMARK_SOURCE ?? 'digital'
 let baseUrl = process.env.DECK_IMPORTER_BENCHMARK_URL ?? `http://127.0.0.1:${port}`
-const outputRoot = path.join(repoRoot, 'debug-output', 'deck-image-importer-browser')
+const outputRoot = path.join(
+  repoRoot,
+  'debug-output',
+  `deck-image-importer-browser-${benchmarkSourceType}`
+)
 const edgePaths = [
   'C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe',
   'C:\\Program Files\\Microsoft\\Edge\\Application\\msedge.exe',
 ]
+
+function expectedTextForSource(fixture) {
+  if (benchmarkSourceType !== 'physical') return fixture.expectedText
+
+  const exactListFile = readdirSync(fixture.fixturePath).find((file) =>
+    /exact.*(?:pic.*)?list.*\.txt$/i.test(file)
+  )
+  if (!exactListFile) {
+    throw new Error(`No exact physical list found for ${fixture.fixture}`)
+  }
+
+  return readFileSync(path.join(fixture.fixturePath, exactListFile), 'utf8')
+}
 
 async function serverAvailable(url) {
   try {
@@ -103,7 +121,9 @@ try {
   const results = []
 
   for (const fixture of discoverDeckImageFixtures()) {
-    const image = fixture.images.find((candidate) => candidate.sourceType === 'digital')
+    const image = fixture.images.find(
+      (candidate) => candidate.sourceType === benchmarkSourceType
+    )
     if (!image || !['aob', 'rahul-crustle', 'slop-box', 'neddy-dragapult'].includes(fixture.fixture)) continue
 
     const context = await browser.newContext({ reducedMotion: 'reduce' })
@@ -112,7 +132,9 @@ try {
       localStorage.setItem('top-cut-intro-last-shown', String(Date.now()))
     })
     const page = await context.newPage()
-    await page.goto(baseUrl, { waitUntil: 'networkidle' })
+    const benchmarkUrl = new URL(baseUrl)
+    benchmarkUrl.searchParams.set('deckImageStrategy', benchmarkSourceType)
+    await page.goto(benchmarkUrl.toString(), { waitUntil: 'networkidle' })
     await page.locator('input[type="file"]').setInputFiles(image.absolutePath)
     const editor = page.getByLabel('Editable extracted TCGL decklist')
     await editor.waitFor({ state: 'visible', timeout: 120000 })
@@ -120,7 +142,7 @@ try {
     const diagnostics = await page.evaluate(
       () => window.__topCutDeckImageRecognition ?? null
     )
-    const metrics = compareRows(fixture.expectedText, actualText)
+    const metrics = compareRows(expectedTextForSource(fixture), actualText)
     const quantityReviewRows = diagnostics?.debugMatches.filter(
       (match) =>
         match.quantitySource === 'unknown' ||
@@ -129,30 +151,33 @@ try {
     ).length ?? 0
     const saveButton = page.getByRole('button', { name: 'Save Deck' }).last()
     const saveAvailable = await saveButton.isEnabled()
-    await saveButton.click()
-    await page.waitForFunction((expectedDecklist) => {
-      const stored = localStorage.getItem('pokemon-decks')
-      if (!stored) return false
-      try {
-        return JSON.parse(stored).data?.some(
-          (deck) => deck.decklist === expectedDecklist
-        )
-      } catch {
-        return false
-      }
-    }, actualText)
-    await page.reload({ waitUntil: 'networkidle' })
-    const savedAndReopened = await page.evaluate((expectedDecklist) => {
-      const stored = localStorage.getItem('pokemon-decks')
-      if (!stored) return false
-      try {
-        return JSON.parse(stored).data?.some(
-          (deck) => deck.decklist === expectedDecklist
-        ) ?? false
-      } catch {
-        return false
-      }
-    }, actualText)
+    if (benchmarkSourceType === 'digital') await saveButton.click()
+    if (benchmarkSourceType === 'digital') {
+      await page.waitForFunction((expectedDecklist) => {
+        const stored = localStorage.getItem('pokemon-decks')
+        if (!stored) return false
+        try {
+          return JSON.parse(stored).data?.some(
+            (deck) => deck.decklist === expectedDecklist
+          )
+        } catch {
+          return false
+        }
+      }, actualText)
+    }
+    if (benchmarkSourceType === 'digital') await page.reload({ waitUntil: 'networkidle' })
+    const savedAndReopened = benchmarkSourceType === 'digital' &&
+      await page.evaluate((expectedDecklist) => {
+        const stored = localStorage.getItem('pokemon-decks')
+        if (!stored) return false
+        try {
+          return JSON.parse(stored).data?.some(
+            (deck) => deck.decklist === expectedDecklist
+          ) ?? false
+        } catch {
+          return false
+        }
+      }, actualText)
     results.push({
       fixture: fixture.fixture,
       image: image.file,
@@ -162,6 +187,10 @@ try {
       savedAndReopened,
       actualText,
       diagnostics,
+      requestedStrategy: diagnostics?.strategyDiagnostics?.requestedStrategy,
+      resolvedStrategy: diagnostics?.strategyDiagnostics?.resolvedStrategy,
+      digitalQuantityExecuted:
+        diagnostics?.strategyDiagnostics?.digitalQuantityExecuted,
     })
     await context.close()
   }
@@ -170,6 +199,7 @@ try {
   const report = {
     generatedAt: new Date().toISOString(),
     recognitionPath: 'production-browser-upload-ui',
+    sourceType: benchmarkSourceType,
     config: DIGITAL_RECOGNITION_CONFIG,
     results,
   }
@@ -188,9 +218,16 @@ try {
     quantityReviewRows: result.quantityReviewRows,
     saveAvailable: result.saveAvailable,
     savedAndReopened: result.savedAndReopened,
+    requestedStrategy: result.requestedStrategy,
+    resolvedStrategy: result.resolvedStrategy,
+    digitalQuantityExecuted: result.digitalQuantityExecuted,
   })))
   if (results.some(
-    (result) => result.recognizedTotal > 65 || !result.saveAvailable || !result.savedAndReopened
+    (result) => result.recognizedTotal > 65 || !result.saveAvailable ||
+      (benchmarkSourceType === 'digital' && !result.savedAndReopened) ||
+      (benchmarkSourceType === 'physical' && (
+        result.resolvedStrategy !== 'physical' || result.digitalQuantityExecuted !== false
+      ))
   )) process.exitCode = 1
 } finally {
   await browser?.close()

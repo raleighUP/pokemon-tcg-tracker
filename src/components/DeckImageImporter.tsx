@@ -101,8 +101,14 @@ export default function DeckImageImporter({
     setIsExtracting(true)
 
     try {
+      const requestedStrategy = new URLSearchParams(window.location.search).get(
+        'deckImageStrategy'
+      )
+      const sourceType = requestedStrategy === 'physical' || requestedStrategy === 'digital'
+        ? requestedStrategy
+        : 'auto'
       const result = await recognizeDeckImage(file, {
-        sourceType: 'auto',
+        sourceType,
         sourceLanguage: 'unknown',
         debug: ENABLE_DECK_IMAGE_DEBUG,
       })
