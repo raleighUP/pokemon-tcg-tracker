@@ -14,6 +14,8 @@ import {
   getComfortLabel,
   getComfortProgress,
 } from '@/utils/comfort'
+import DeckImageImporter from './DeckImageImporter'
+import type { DeckImportMetadata } from '@/types'
 
 type Props = {
   deckName: string
@@ -23,6 +25,11 @@ type Props = {
   deckComfort: number
   setDeckComfort: (value: number) => void
   addDeck: () => void
+  addImportedDeck: (
+    deckName: string,
+    decklist: string,
+    importMetadata?: DeckImportMetadata
+  ) => void
   editingDeckId: number | null
   hasSavedDecks?: boolean
 }
@@ -35,6 +42,7 @@ export default function AddDeckForm({
   deckComfort,
   setDeckComfort,
   addDeck,
+  addImportedDeck,
   editingDeckId,
   hasSavedDecks = true,
 }: Props) {
@@ -180,6 +188,10 @@ export default function AddDeckForm({
               : 'Save Deck'}
           </Button>
         </div>
+
+        {editingDeckId === null && (
+          <DeckImageImporter onSaveDeck={addImportedDeck} />
+        )}
       </div>
     </Panel>
   )

@@ -1,0 +1,44 @@
+{
+  "baselineVersion": 2,
+  "recognitionPipelineVersion": "digital-production-browser-v2",
+  "verifiedAt": "2026-07-14",
+  "fixtureCount": 4,
+  "oldEvaluatorOnlyBaseline": {
+    "quantityMatches": 101,
+    "expectedRowCount": 110,
+    "exactRowMatches": 87,
+    "cardIdentityErrors": 0,
+    "note": "Historical Sharp evaluator result; it did not execute the production browser importer."
+  },
+  "correctedPreFixProductionBaseline": {
+    "aob": 159,
+    "neddy-dragapult": 98,
+    "rahul-crustle": 117,
+    "slop-box": 139,
+    "source": "Manual uploads reported 2026-07-14"
+  },
+  "metrics": {
+    "candidateCount": 110,
+    "representedCandidateCount": 110,
+    "cardIdentityErrors": 0,
+    "quantityMatches": 104,
+    "quantityErrors": 6,
+    "quantityAccuracy": 0.9454545455,
+    "exactRowMatches": 104,
+    "expectedRowCount": 110,
+    "exactRowAccuracy": 0.9454545455
+  },
+  "regressionThresholds": {
+    "maximumCardIdentityErrors": 0,
+    "minimumRepresentedCandidates": 110,
+    "minimumQuantityAccuracy": 0.94,
+    "minimumExactRowAccuracy": 0.94
+  },
+  "perfectTotalFixtures": ["neddy-dragapult", "rahul-crustle"],
+  "fixtures": {
+    "aob": { "expectedTotal": 60, "recognizedTotal": 57, "exactRows": 23, "expectedRows": 24 },
+    "neddy-dragapult": { "expectedTotal": 60, "recognizedTotal": 60, "exactRows": 27, "expectedRows": 27 },
+    "rahul-crustle": { "expectedTotal": 60, "recognizedTotal": 60, "exactRows": 27, "expectedRows": 27 },
+    "slop-box": { "expectedTotal": 60, "recognizedTotal": 59, "exactRows": 27, "expectedRows": 32 }
+  }
+}

@@ -199,6 +199,20 @@ function normalizeDeck(value: unknown): Deck | null {
     archetype: typeof value.archetype === 'string' ? value.archetype : undefined,
     variant: typeof value.variant === 'string' ? value.variant : undefined,
     comfort: normalizeComfort(value.comfort),
+    importMetadata: isRecord(value.importMetadata)
+      ? {
+          selectedPrintMode:
+            value.importMetadata.selectedPrintMode === 'base-print'
+              ? 'base-print'
+              : 'exact-print',
+          recognizedPrints: Array.isArray(value.importMetadata.recognizedPrints)
+            ? value.importMetadata.recognizedPrints
+            : [],
+          basePrints: Array.isArray(value.importMetadata.basePrints)
+            ? value.importMetadata.basePrints
+            : [],
+        }
+      : undefined,
   }
 }
 

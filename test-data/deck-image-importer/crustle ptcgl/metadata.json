@@ -1,0 +1,19 @@
+{
+  "deckName": "Crustle PTCGL",
+  "benchmarkGroup": "validation",
+  "expectedTotalCards": 60,
+  "language": "english",
+  "images": [
+    {
+      "file": "digital.jfif",
+      "sourceType": "digital",
+      "benchmarkGroup": "validation",
+      "platform": "ptcgl",
+      "language": "english",
+      "badgeAnchor": "bottom-center-white-circle",
+      "label": "PTCGL portrait export",
+      "notes": "Portrait 5-column grid with pale patterned background and white circular quantity badges."
+    }
+  ],
+  "notes": "Out-of-sample validation fixture for PTCGL portrait exports."
+}

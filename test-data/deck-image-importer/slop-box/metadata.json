@@ -1,7 +1,22 @@
 {
   "deckName": "Slop Box",
+  "benchmarkGroup": "baseline",
   "sourceTypes": ["digital", "physical"],
   "expectedTotalCards": 60,
   "language": "english",
+  "images": [
+    {
+      "file": "digital.png",
+      "sourceType": "digital",
+      "platform": "pokemon-tcg-live",
+      "badgeAnchor": "bottom-center",
+      "label": "default digital screenshot"
+    },
+    {
+      "file": "physical.jfif",
+      "sourceType": "physical",
+      "label": "default physical tabletop photo"
+    }
+  ],
   "notes": "Add Slop Box digital screenshot as digital.png, physical photo as physical.jfif, and Slop Box Deck List as expected.txt."
 }

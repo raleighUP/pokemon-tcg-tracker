@@ -1,7 +1,22 @@
 {
   "deckName": "Neddy Dragapult",
+  "benchmarkGroup": "baseline",
   "sourceTypes": ["digital", "physical"],
   "expectedTotalCards": 60,
   "language": "english",
+  "images": [
+    {
+      "file": "digital.png",
+      "sourceType": "digital",
+      "platform": "pokemon-tcg-live",
+      "badgeAnchor": "bottom-center",
+      "label": "default digital screenshot"
+    },
+    {
+      "file": "physical.jfif",
+      "sourceType": "physical",
+      "label": "default physical tabletop photo"
+    }
+  ],
   "notes": "Add Neddy Dragapult digital screenshot as digital.png, physical photo as physical.jfif, and Neddy Dragapult Deck List as expected.txt."
 }

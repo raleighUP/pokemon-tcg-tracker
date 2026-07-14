@@ -20,6 +20,11 @@ import {
   scoreImageFeatures,
 } from './local-image-matcher-core.mjs'
 import { resolveBasePrintForRecognizedCard } from '@/lib/deck-recognition/references/base-print-resolver'
+import {
+  DIGITAL_RECOGNITION_CONFIG,
+  validateDeckQuantityTotal,
+  validateDigitalQuantityRead,
+} from '@/lib/deck-recognition/digital-recognition-config.mjs'
 
 type ImageFeatures = {
   perceptualHash: string
@@ -149,7 +154,8 @@ export type BrowserDeckImageRecognitionResult = {
 }
 
 const MANIFEST_PATH = '/card-image-cache/fixture-subset/manifest.json'
-const LOW_CONFIDENCE_THRESHOLD = 0.68
+const LOW_CONFIDENCE_THRESHOLD =
+  DIGITAL_RECOGNITION_CONFIG.minimumCardMatchConfidence
 const MULTIPLE_MATCH_DELTA = 0.02
 const TRAINER_ENERGY_CLOSE_MATCH_DELTA = 0.035
 const SUSPICIOUS_QUANTITY_CONFIDENCE = 0.62
@@ -1251,7 +1257,7 @@ function readLegacyDigitalQuantityBadge(
   }
 }
 
-function readDigitalQuantityBadge(
+function readDigitalQuantityBadgeUnvalidated(
   image: HTMLImageElement,
   candidate: RefinedCandidate,
   badgePattern: BadgePattern | null
@@ -1276,6 +1282,22 @@ function readDigitalQuantityBadge(
     }
   }
 
+  const combinedQuantityIsImplausible =
+    combined.quantity < DIGITAL_RECOGNITION_CONFIG.quantityMin ||
+    combined.quantity > DIGITAL_RECOGNITION_CONFIG.quantityMax
+  const legacyQuantityIsSafe =
+    legacy.quantitySource !== 'unknown' &&
+    legacy.quantity >= DIGITAL_RECOGNITION_CONFIG.quantityMin &&
+    legacy.quantity <= DIGITAL_RECOGNITION_CONFIG.quantityMax &&
+    legacy.quantityConfidence >= 0.75
+
+  if (combinedQuantityIsImplausible && legacyQuantityIsSafe) {
+    return {
+      ...legacy,
+      note: `Rejected digit-template alternative ${combined.quantity}; retained valid legacy badge read ${legacy.quantity}.`,
+    }
+  }
+
   return {
     ...legacy,
     quantity: combined.quantity,
@@ -1286,6 +1308,31 @@ function readDigitalQuantityBadge(
       legacy.quantitySource !== 'unknown' && legacy.quantity !== combined.quantity
         ? `Digit-template read ${combined.quantity} replaced legacy alternative ${legacy.quantity}.`
         : null,
+  }
+}
+
+function readDigitalQuantityBadge(
+  image: HTMLImageElement,
+  candidate: RefinedCandidate,
+  badgePattern: BadgePattern | null,
+  card?: Pick<LocalImageMatch, 'category' | 'name'> | null
+): QuantityReadResult {
+  const raw = readDigitalQuantityBadgeUnvalidated(image, candidate, badgePattern)
+  const decision = validateDigitalQuantityRead({
+    rawQuantity: raw.quantity,
+    confidence: raw.quantityConfidence,
+    card,
+  })
+
+  if (decision.status === 'recognized') return raw
+
+  return {
+    ...raw,
+    quantity: decision.quantity,
+    quantityConfidence: decision.confidence,
+    quantitySource: 'unknown',
+    failureReason: decision.rejectionReason,
+    note: `${decision.rejectionReason} Quantity defaulted to 1 and requires review.`,
   }
 }
 
@@ -1708,8 +1755,8 @@ export async function recognizeUploadedDeckImageLocally(
   ]
 
   for (const [index, candidate] of refinedCandidates.entries()) {
-    const quantityRead = readDigitalQuantityBadge(uploadedImage, candidate, badgePattern)
-    const candidateNotes = [
+    let quantityRead = readDigitalQuantityBadge(uploadedImage, candidate, badgePattern)
+    let candidateNotes = [
       ...candidate.cropQuality.notes,
       ...(quantityRead.note ? [quantityRead.note] : []),
     ]
@@ -1770,6 +1817,17 @@ export async function recognizeUploadedDeckImageLocally(
       bestMatch && closeChallenger
         ? Number((bestMatch.confidence - closeChallenger.confidence).toFixed(4))
         : undefined
+
+    quantityRead = readDigitalQuantityBadge(
+      uploadedImage,
+      candidate,
+      badgePattern,
+      bestMatch
+    )
+    candidateNotes = [
+      ...candidate.cropQuality.notes,
+      ...(quantityRead.note ? [quantityRead.note] : []),
+    ]
 
     if (!bestMatch) {
       unresolvedCount += 1
@@ -1897,6 +1955,23 @@ export async function recognizeUploadedDeckImageLocally(
   }
   const consolidated = consolidateRecognizedCards(cards)
   const consolidatedCards = consolidated.cards
+  const estimatedTotalQuantity = consolidatedCards.reduce(
+    (total, card) => total + card.quantity,
+    0
+  )
+  const deckQuantityValidationStatus = validateDeckQuantityTotal(
+    estimatedTotalQuantity
+  )
+
+  if (deckQuantityValidationStatus === 'invalid') {
+    warnings.push(
+      `Quantity extraction failed deck-level validation: ${estimatedTotalQuantity} cards; expected ${DIGITAL_RECOGNITION_CONFIG.expectedDeckTotal}.`
+    )
+  } else if (deckQuantityValidationStatus === 'near-valid') {
+    warnings.push(
+      `Deck total ${estimatedTotalQuantity} is near the expected ${DIGITAL_RECOGNITION_CONFIG.expectedDeckTotal}; review uncertain quantities.`
+    )
+  }
   const mergedCount = consolidated.mergedSourceIds.size
   const finalDebugMatches = debugMatches.map((entry) => {
     if (!entry.reviewRowId) return entry
@@ -1926,10 +2001,7 @@ export async function recognizeUploadedDeckImageLocally(
     candidateCount: candidates.length,
     matchedCount,
     unresolvedCount,
-    estimatedTotalQuantity: consolidatedCards.reduce(
-      (total, card) => total + card.quantity,
-      0
-    ),
+    estimatedTotalQuantity,
     unknownQuantityCount,
     rejectedCropCount,
     mergedCount,

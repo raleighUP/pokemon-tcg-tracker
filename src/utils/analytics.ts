@@ -16,6 +16,7 @@ type AnalyticsEventProperties = {
     comfort_rating: number
     archetype_detected: boolean
     saved_deck_count_bucket: CountBucket
+    source?: 'manual' | 'image_import_mock'
   }
   match_logged: {
     match_type: 'BO1' | 'BO3'

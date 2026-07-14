@@ -33,7 +33,7 @@ import {
 import { downloadCardReferenceCacheUpdate } from '@/lib/card-reference-cache-update'
 import { initializeCardReferenceRepository } from '@/lib/card-reference-repository'
 
-import { Deck, EventRecord, Match, CardEntry } from '@/types'
+import { Deck, DeckImportMetadata, EventRecord, Match, CardEntry } from '@/types'
 
 const CARD_REFERENCE_REMOTE_ROOT =
   process.env.NEXT_PUBLIC_CARD_REFERENCE_REMOTE_ROOT
@@ -254,6 +254,49 @@ const deleteDeck = (id: number) => {
   }
 }
 
+const addImportedDeck = (
+  importedDeckName: string,
+  importedDecklist: string,
+  importMetadata?: DeckImportMetadata
+) => {
+  if (!importedDecklist.trim()) return
+
+  const detectedDeck = detectDeckArchetype(importedDecklist)
+  const newDeck: Deck = {
+    id: Date.now(),
+    name: importedDeckName.trim() || 'Imported Deck',
+    decklist: importedDecklist,
+    archetype: detectedDeck.archetype,
+    variant: detectedDeck.variant,
+    comfort: 3,
+    importMetadata: importMetadata
+      ? {
+          selectedPrintMode: importMetadata.selectedPrintMode ?? 'exact-print',
+          recognizedPrints: importMetadata.recognizedPrints ?? [],
+          basePrints: importMetadata.basePrints ?? [],
+        }
+      : undefined,
+  }
+  const updatedDecks = [...decks, newDeck]
+
+  setDecks(updatedDecks)
+  setSelectedDeck(newDeck)
+  setShowFirstLaunchHint(false)
+  safeSetStorageValue(
+    STORAGE_KEYS.firstLaunchDismissed,
+    new Date().toISOString()
+  )
+
+  trackEvent('deck_created', {
+    comfort_rating: 3,
+    archetype_detected:
+      Boolean(detectedDeck.archetype) &&
+      detectedDeck.archetype !== 'Other',
+    saved_deck_count_bucket: bucketCount(updatedDecks.length),
+    source: 'image_import_mock',
+  })
+}
+
 const deleteMatch = (id: number) => {
   setMatches(matches.filter((m) => m.id !== id))
 }
@@ -451,6 +494,7 @@ const editEvent = (
             deckComfort={deckComfort}
             setDeckComfort={setDeckComfort}
             addDeck={addDeck}
+            addImportedDeck={addImportedDeck}
             editingDeckId={editingDeckId}
             hasSavedDecks={decks.length > 0}
           />

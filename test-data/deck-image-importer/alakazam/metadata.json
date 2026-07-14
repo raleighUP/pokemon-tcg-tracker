@@ -1,0 +1,19 @@
+{
+  "deckName": "Alakazam",
+  "benchmarkGroup": "validation",
+  "expectedTotalCards": 60,
+  "language": "japanese",
+  "images": [
+    {
+      "file": "digital.jfif",
+      "sourceType": "digital",
+      "benchmarkGroup": "validation",
+      "platform": "pnote",
+      "language": "japanese",
+      "badgeAnchor": "bottom-right-dark-overlay",
+      "label": "pnote Japanese landscape export",
+      "notes": "Dense landscape grid with dark background and black rounded quantity overlays."
+    }
+  ],
+  "notes": "Out-of-sample validation fixture for dense pnote landscape exports."
+}
