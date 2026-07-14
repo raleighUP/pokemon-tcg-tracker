@@ -113,6 +113,11 @@ export default function DeckImageImporter({
 
       setCards(result.entries)
       setDebugResult(result.debug?.localRecognition ?? null)
+      if (ENABLE_DECK_IMAGE_DEBUG) {
+        ;(window as typeof window & {
+          __topCutDeckImageRecognition?: BrowserDeckImageRecognitionResult | null
+        }).__topCutDeckImageRecognition = result.debug?.localRecognition ?? null
+      }
       setMessage(
         `Experimental local recognition found ${result.entries.length} entries from ${result.detectedCandidateCount} candidate crops, estimated ${result.estimatedTotalCards} total cards.`
       )
@@ -353,6 +358,25 @@ export default function DeckImageImporter({
                             ? `; rejected zones ${match.quantityDiagnostics.rejectedBadgeZones.length}`
                             : ''}
                         </p>
+                        {(match.quantityDiagnostics.rawTemplateCandidates?.length ||
+                          match.quantityDiagnostics.rawLegacyCandidates?.length) && (
+                          <p className="type-metadata text-[var(--text-muted)]">
+                            Raw template:{' '}
+                            {match.quantityDiagnostics.rawTemplateCandidates
+                              ?.map(
+                                (candidate) =>
+                                  `${candidate.value} (${Math.round(candidate.confidence * 100)}%)`
+                              )
+                              .join(', ') || 'none'}
+                            {'; legacy: '}
+                            {match.quantityDiagnostics.rawLegacyCandidates
+                              ?.map(
+                                (candidate) =>
+                                  `${candidate.value} (${Math.round(candidate.confidence * 100)}%, ${candidate.source})`
+                              )
+                              .join(', ') || 'none'}
+                          </p>
+                        )}
                         {match.badgePreviewDataUrl && (
                           <div className="mt-2 h-12 w-12 overflow-hidden rounded-lg border border-[var(--surface-border)] bg-[var(--surface-inset)]">
                             {/* Debug canvas crop generated from the local image. */}

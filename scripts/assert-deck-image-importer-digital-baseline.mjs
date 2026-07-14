@@ -35,6 +35,8 @@ const totals = fixtureResults.reduce((summary, result) => ({
   detectedEntries: summary.detectedEntries + result.expectedRows,
   representedCandidateCount: summary.representedCandidateCount + result.expectedRows,
   wrongCardMatches: summary.wrongCardMatches + result.wrongIdentities,
+  falseExtraRows: summary.falseExtraRows + result.falseExtraRows,
+  quantityReviewRows: summary.quantityReviewRows + result.quantityReviewRows,
   quantityExactMatches: summary.quantityExactMatches + result.quantityCorrectRows,
   exactRowMatches: summary.exactRowMatches + result.exactRows,
   expectedRowCount: summary.expectedRowCount + result.expectedRows,
@@ -42,6 +44,8 @@ const totals = fixtureResults.reduce((summary, result) => ({
   detectedEntries: 0,
   representedCandidateCount: 0,
   wrongCardMatches: 0,
+  falseExtraRows: 0,
+  quantityReviewRows: 0,
   quantityExactMatches: 0,
   exactRowMatches: 0,
   expectedRowCount: 0,
@@ -61,6 +65,16 @@ if (fixtureResults.length !== baseline.fixtureCount) {
 if ((totals.wrongCardMatches ?? Infinity) > thresholds.maximumCardIdentityErrors) {
   failures.push(
     `wrong identities ${totals.wrongCardMatches} > ${thresholds.maximumCardIdentityErrors}`
+  )
+}
+if ((totals.falseExtraRows ?? Infinity) > thresholds.maximumFalseExtraRows) {
+  failures.push(
+    `false extra rows ${totals.falseExtraRows} > ${thresholds.maximumFalseExtraRows}`
+  )
+}
+if ((totals.quantityReviewRows ?? Infinity) > thresholds.maximumQuantityReviewRows) {
+  failures.push(
+    `quantity review rows ${totals.quantityReviewRows} > ${thresholds.maximumQuantityReviewRows}`
   )
 }
 if ((totals.representedCandidateCount ?? 0) < thresholds.minimumRepresentedCandidates) {
@@ -102,6 +116,8 @@ if (failures.length > 0) {
   console.log(`Fixtures: ${fixtureResults.length}`)
   console.log(`Candidates represented: ${totals.representedCandidateCount}/${totals.detectedEntries}`)
   console.log(`Wrong identities: ${totals.wrongCardMatches}`)
+  console.log(`False extra rows: ${totals.falseExtraRows}`)
+  console.log(`Quantity review rows: ${totals.quantityReviewRows}`)
   console.log(`Quantity accuracy: ${percent(quantityAccuracy)}`)
   console.log(`Exact-row accuracy: ${percent(exactRowAccuracy)}`)
 }

@@ -17,6 +17,11 @@ badge heuristic. It does not send images to a service and adds no OCR dependency
 6. Evidence is combined across preprocessing variants and with the legacy parser. Agreement
    raises confidence; disagreement is retained as an alternative and requires stronger
    confidence before replacing a known legacy read.
+7. If an ordinary-card crop produces an invalid two-component value, the first component is
+   also evaluated as a single-digit alternative. It is accepted only within 1–4, at 78% or
+   higher confidence, and when it beats conflicting valid evidence by at least five points.
+   This removes badge-border fragments without relaxing the invalid-value policy or affecting
+   the separate Basic Energy rule.
 
 The script implementation is in `scripts/lib/quantity-recognition.mjs`. The browser-local
 counterpart is in `src/lib/deck-image-recognition/quantity-recognition/index.ts`. Additional

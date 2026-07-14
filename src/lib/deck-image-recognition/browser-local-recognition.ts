@@ -22,6 +22,7 @@ import {
 import { resolveBasePrintForRecognizedCard } from '@/lib/deck-recognition/references/base-print-resolver'
 import {
   DIGITAL_RECOGNITION_CONFIG,
+  selectSingleDigitBadgeAlternative,
   validateDeckQuantityTotal,
   validateDigitalQuantityRead,
 } from '@/lib/deck-recognition/digital-recognition-config.mjs'
@@ -90,6 +91,8 @@ type QuantityReadResult = {
     parsedValue: number | null
     reason: string
   }>
+  rawTemplateCandidates?: Array<{ value: number; confidence: number }>
+  rawLegacyCandidates?: Array<{ value: number; confidence: number; source: string }>
 }
 
 export type BadgePattern = {
@@ -145,6 +148,8 @@ export type BrowserDeckImageRecognitionResult = {
       globalBadgePattern?: BadgePattern | null
       globalBadgePatternApplied?: boolean
       rejectedBadgeZones?: QuantityReadResult['rejectedBadgeZones']
+      rawTemplateCandidates?: QuantityReadResult['rawTemplateCandidates']
+      rawLegacyCandidates?: QuantityReadResult['rawLegacyCandidates']
     }
     badgeBounds?: DeckEntryCandidate['representativeBounds']
     badgePreviewDataUrl?: string
@@ -1261,11 +1266,24 @@ function readDigitalQuantityBadgeUnvalidated(
   image: HTMLImageElement,
   candidate: RefinedCandidate,
   badgePattern: BadgePattern | null
-) {
+): QuantityReadResult {
   const legacy = readLegacyDigitalQuantityBadge(image, candidate, badgePattern)
-  if (!legacy.badgeBounds) return legacy
+  const rawLegacyCandidates = legacy.quantitySource === 'unknown'
+    ? []
+    : [{
+        value: legacy.quantity,
+        confidence: legacy.quantityConfidence,
+        source: legacy.quantitySource,
+      }]
+  if (!legacy.badgeBounds) {
+    return { ...legacy, rawLegacyCandidates, rawTemplateCandidates: [] }
+  }
 
   const template = recognizeBadgeQuantity(image, legacy.badgeBounds)
+  const rawTemplateCandidates = (template.alternatives ?? []).map((candidate) => ({
+    value: candidate.quantity,
+    confidence: candidate.confidence,
+  }))
   const combined = combineQuantityRecognition(template, {
     quantity: legacy.quantity,
     confidence: legacy.quantityConfidence,
@@ -1278,6 +1296,8 @@ function readDigitalQuantityBadgeUnvalidated(
         : null
     return {
       ...legacy,
+      rawLegacyCandidates,
+      rawTemplateCandidates,
       note: [legacy.note, disagreementNote].filter(Boolean).join(' ') || null,
     }
   }
@@ -1294,12 +1314,16 @@ function readDigitalQuantityBadgeUnvalidated(
   if (combinedQuantityIsImplausible && legacyQuantityIsSafe) {
     return {
       ...legacy,
+      rawLegacyCandidates,
+      rawTemplateCandidates,
       note: `Rejected digit-template alternative ${combined.quantity}; retained valid legacy badge read ${legacy.quantity}.`,
     }
   }
 
   return {
     ...legacy,
+    rawLegacyCandidates,
+    rawTemplateCandidates,
     quantity: combined.quantity,
     quantityConfidence: combined.confidence,
     quantitySource: combined.source,
@@ -1318,6 +1342,23 @@ function readDigitalQuantityBadge(
   card?: Pick<LocalImageMatch, 'category' | 'name'> | null
 ): QuantityReadResult {
   const raw = readDigitalQuantityBadgeUnvalidated(image, candidate, badgePattern)
+  const validSingleDigitTemplate = selectSingleDigitBadgeAlternative({
+    rawQuantity: raw.quantity,
+    rawConfidence: raw.quantityConfidence,
+    templateCandidates: raw.rawTemplateCandidates,
+    card,
+  })
+
+  if (validSingleDigitTemplate) {
+    return {
+      ...raw,
+      quantity: validSingleDigitTemplate.value,
+      quantityConfidence: validSingleDigitTemplate.confidence,
+      quantitySource: 'digit-template',
+      failureReason: null,
+      note: `Ignored a second badge-border component; accepted single digit ${validSingleDigitTemplate.value}.`,
+    }
+  }
   const decision = validateDigitalQuantityRead({
     rawQuantity: raw.quantity,
     confidence: raw.quantityConfidence,
@@ -1791,6 +1832,8 @@ export async function recognizeUploadedDeckImageLocally(
           globalBadgePattern: quantityRead.globalBadgePattern,
           globalBadgePatternApplied: quantityRead.globalBadgePatternApplied,
           rejectedBadgeZones: quantityRead.rejectedBadgeZones,
+          rawTemplateCandidates: quantityRead.rawTemplateCandidates,
+          rawLegacyCandidates: quantityRead.rawLegacyCandidates,
         },
         badgeBounds: quantityRead.badgeBounds,
         badgePreviewDataUrl: quantityRead.badgePreviewDataUrl,
@@ -1854,6 +1897,8 @@ export async function recognizeUploadedDeckImageLocally(
           globalBadgePattern: quantityRead.globalBadgePattern,
           globalBadgePatternApplied: quantityRead.globalBadgePatternApplied,
           rejectedBadgeZones: quantityRead.rejectedBadgeZones,
+          rawTemplateCandidates: quantityRead.rawTemplateCandidates,
+          rawLegacyCandidates: quantityRead.rawLegacyCandidates,
         },
         badgeBounds: quantityRead.badgeBounds,
         badgePreviewDataUrl: quantityRead.badgePreviewDataUrl,
@@ -1896,6 +1941,8 @@ export async function recognizeUploadedDeckImageLocally(
           globalBadgePattern: quantityRead.globalBadgePattern,
           globalBadgePatternApplied: quantityRead.globalBadgePatternApplied,
           rejectedBadgeZones: quantityRead.rejectedBadgeZones,
+          rawTemplateCandidates: quantityRead.rawTemplateCandidates,
+          rawLegacyCandidates: quantityRead.rawLegacyCandidates,
         },
         badgeBounds: quantityRead.badgeBounds,
         badgePreviewDataUrl: quantityRead.badgePreviewDataUrl,
@@ -1942,6 +1989,8 @@ export async function recognizeUploadedDeckImageLocally(
         globalBadgePattern: quantityRead.globalBadgePattern,
         globalBadgePatternApplied: quantityRead.globalBadgePatternApplied,
         rejectedBadgeZones: quantityRead.rejectedBadgeZones,
+        rawTemplateCandidates: quantityRead.rawTemplateCandidates,
+        rawLegacyCandidates: quantityRead.rawLegacyCandidates,
       },
       badgeBounds: quantityRead.badgeBounds,
       badgePreviewDataUrl: quantityRead.badgePreviewDataUrl,

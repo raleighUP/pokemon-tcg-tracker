@@ -13,6 +13,7 @@ export interface DigitalRecognitionConfig {
   quantityMax: number
   basicEnergyQuantityMax: number
   basicEnergyMultiDigitMinimumConfidence: number
+  minimumAcceptedQuantityConfidence: number
   minimumCardMatchConfidence: number
   minimumIdentityMargin: number
   unresolvedBelowConfidence: boolean
@@ -45,3 +46,10 @@ export function validateDeckQuantityTotal(
   total: number,
   config?: DigitalRecognitionConfig
 ): DeckQuantityValidationStatus
+export function selectSingleDigitBadgeAlternative(input: {
+  rawQuantity: number
+  rawConfidence: number
+  templateCandidates?: Array<{ value: number; confidence: number }>
+  card?: { category?: string; name?: string; englishName?: string } | null
+  config?: DigitalRecognitionConfig
+}): { value: number; confidence: number } | null

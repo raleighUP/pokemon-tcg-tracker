@@ -141,10 +141,15 @@ npx playwright install chromium
 ```
 
 The production-parity baseline is 0 wrong identities, 110/110 represented candidates,
-104/110 quantity matches (94.5%), and 104/110 exact rows (94.5%). Neddy Dragapult and Rahul
-Crustle retain exact 60-card totals; AOB is 57 and Slop Box is 59 with review diagnostics.
+110/110 quantity matches, and 110/110 exact rows. All four locked fixtures produce exact
+60-card totals with no quantity-review rows.
 The previous 101/110 evaluator-only result is retained as historical metadata, not as the
 production contract.
+
+The immediately preceding safe browser baseline at commit `6eceaa4` was 104/110 exact rows:
+AOB totaled 57 and Slop Box totaled 59. Version 3 recognizes and rejects a second
+badge-border component independently, allowing the first valid digit to win only at 78% or
+higher confidence and with a five-point margin over conflicting valid evidence.
 
 ### Adding a digital fixture
 

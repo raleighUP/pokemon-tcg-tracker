@@ -1,6 +1,6 @@
 {
-  "baselineVersion": 2,
-  "recognitionPipelineVersion": "digital-production-browser-v2",
+  "baselineVersion": 3,
+  "recognitionPipelineVersion": "digital-production-browser-v3",
   "verifiedAt": "2026-07-14",
   "fixtureCount": 4,
   "oldEvaluatorOnlyBaseline": {
@@ -17,28 +17,38 @@
     "slop-box": 139,
     "source": "Manual uploads reported 2026-07-14"
   },
+  "previousSafeProductionBaseline": {
+    "commit": "6eceaa4ab14db9376951379b7db9c7ef05913d50",
+    "aob": { "recognizedTotal": 57, "exactRows": 23, "expectedRows": 24, "reviewRows": 1 },
+    "neddy-dragapult": { "recognizedTotal": 60, "exactRows": 27, "expectedRows": 27, "reviewRows": 0 },
+    "rahul-crustle": { "recognizedTotal": 60, "exactRows": 27, "expectedRows": 27, "reviewRows": 0 },
+    "slop-box": { "recognizedTotal": 59, "exactRows": 27, "expectedRows": 32, "reviewRows": 5 }
+  },
   "metrics": {
     "candidateCount": 110,
     "representedCandidateCount": 110,
     "cardIdentityErrors": 0,
-    "quantityMatches": 104,
-    "quantityErrors": 6,
-    "quantityAccuracy": 0.9454545455,
-    "exactRowMatches": 104,
+    "quantityMatches": 110,
+    "quantityErrors": 0,
+    "quantityReviewRows": 0,
+    "quantityAccuracy": 1,
+    "exactRowMatches": 110,
     "expectedRowCount": 110,
-    "exactRowAccuracy": 0.9454545455
+    "exactRowAccuracy": 1
   },
   "regressionThresholds": {
     "maximumCardIdentityErrors": 0,
+    "maximumFalseExtraRows": 0,
+    "maximumQuantityReviewRows": 0,
     "minimumRepresentedCandidates": 110,
-    "minimumQuantityAccuracy": 0.94,
-    "minimumExactRowAccuracy": 0.94
+    "minimumQuantityAccuracy": 1,
+    "minimumExactRowAccuracy": 1
   },
-  "perfectTotalFixtures": ["neddy-dragapult", "rahul-crustle"],
+  "perfectTotalFixtures": ["aob", "neddy-dragapult", "rahul-crustle", "slop-box"],
   "fixtures": {
-    "aob": { "expectedTotal": 60, "recognizedTotal": 57, "exactRows": 23, "expectedRows": 24 },
-    "neddy-dragapult": { "expectedTotal": 60, "recognizedTotal": 60, "exactRows": 27, "expectedRows": 27 },
-    "rahul-crustle": { "expectedTotal": 60, "recognizedTotal": 60, "exactRows": 27, "expectedRows": 27 },
-    "slop-box": { "expectedTotal": 60, "recognizedTotal": 59, "exactRows": 27, "expectedRows": 32 }
+    "aob": { "expectedTotal": 60, "recognizedTotal": 60, "exactRows": 24, "expectedRows": 24, "reviewRows": 0 },
+    "neddy-dragapult": { "expectedTotal": 60, "recognizedTotal": 60, "exactRows": 27, "expectedRows": 27, "reviewRows": 0 },
+    "rahul-crustle": { "expectedTotal": 60, "recognizedTotal": 60, "exactRows": 27, "expectedRows": 27, "reviewRows": 0 },
+    "slop-box": { "expectedTotal": 60, "recognizedTotal": 60, "exactRows": 32, "expectedRows": 32, "reviewRows": 0 }
   }
 }

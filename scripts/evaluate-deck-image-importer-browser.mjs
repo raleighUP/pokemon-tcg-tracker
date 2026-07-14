@@ -117,8 +117,52 @@ try {
     const editor = page.getByLabel('Editable extracted TCGL decklist')
     await editor.waitFor({ state: 'visible', timeout: 120000 })
     const actualText = await editor.inputValue()
+    const diagnostics = await page.evaluate(
+      () => window.__topCutDeckImageRecognition ?? null
+    )
     const metrics = compareRows(fixture.expectedText, actualText)
-    results.push({ fixture: fixture.fixture, image: image.file, ...metrics, actualText })
+    const quantityReviewRows = diagnostics?.debugMatches.filter(
+      (match) =>
+        match.quantitySource === 'unknown' ||
+        match.quantityConfidence <
+          DIGITAL_RECOGNITION_CONFIG.minimumAcceptedQuantityConfidence
+    ).length ?? 0
+    const saveButton = page.getByRole('button', { name: 'Save Deck' }).last()
+    const saveAvailable = await saveButton.isEnabled()
+    await saveButton.click()
+    await page.waitForFunction((expectedDecklist) => {
+      const stored = localStorage.getItem('pokemon-decks')
+      if (!stored) return false
+      try {
+        return JSON.parse(stored).data?.some(
+          (deck) => deck.decklist === expectedDecklist
+        )
+      } catch {
+        return false
+      }
+    }, actualText)
+    await page.reload({ waitUntil: 'networkidle' })
+    const savedAndReopened = await page.evaluate((expectedDecklist) => {
+      const stored = localStorage.getItem('pokemon-decks')
+      if (!stored) return false
+      try {
+        return JSON.parse(stored).data?.some(
+          (deck) => deck.decklist === expectedDecklist
+        ) ?? false
+      } catch {
+        return false
+      }
+    }, actualText)
+    results.push({
+      fixture: fixture.fixture,
+      image: image.file,
+      ...metrics,
+      quantityReviewRows,
+      saveAvailable,
+      savedAndReopened,
+      actualText,
+      diagnostics,
+    })
     await context.close()
   }
 
@@ -141,8 +185,13 @@ try {
     wrongIdentities: result.wrongIdentities,
     unresolvedRows: result.unresolvedRows,
     falseExtraRows: result.falseExtraRows,
+    quantityReviewRows: result.quantityReviewRows,
+    saveAvailable: result.saveAvailable,
+    savedAndReopened: result.savedAndReopened,
   })))
-  if (results.some((result) => result.recognizedTotal > 65)) process.exitCode = 1
+  if (results.some(
+    (result) => result.recognizedTotal > 65 || !result.saveAvailable || !result.savedAndReopened
+  )) process.exitCode = 1
 } finally {
   await browser?.close()
   server?.kill()

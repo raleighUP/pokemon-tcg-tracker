@@ -151,13 +151,28 @@ export function recognizeBadgeQuantity(
   })
   const quantity = Number(classified.map((digit) => digit.digit).join(''))
   const confidence = classified.reduce((sum, digit) => sum + digit.confidence, 0) / classified.length
+  const alternatives = quantity >= 1 && quantity <= 60
+    ? [{ quantity, confidence }]
+    : []
+
+  if (classified.length > 1) {
+    const firstDigit = classified[0]
+
+    if (firstDigit && firstDigit.digit >= 1 && firstDigit.digit <= 9) {
+      alternatives.push({
+        quantity: firstDigit.digit,
+        confidence: firstDigit.confidence,
+      })
+    }
+  }
+
   return {
     quantity: quantity >= 1 && quantity <= 60 ? quantity : null,
     confidence,
     source: 'digit-template',
     badgeBounds,
     glyphBounds: glyphs,
-    alternatives: quantity >= 1 && quantity <= 60 ? [{ quantity, confidence }] : [],
+    alternatives,
   }
 }
 

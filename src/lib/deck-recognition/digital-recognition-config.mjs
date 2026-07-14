@@ -5,6 +5,7 @@ export const DIGITAL_RECOGNITION_CONFIG = Object.freeze({
   quantityMax: 4,
   basicEnergyQuantityMax: 60,
   basicEnergyMultiDigitMinimumConfidence: 0.9,
+  minimumAcceptedQuantityConfidence: 0.78,
   minimumCardMatchConfidence: 0.68,
   minimumIdentityMargin: 0.035,
   unresolvedBelowConfidence: true,
@@ -74,6 +75,34 @@ export function validateDigitalQuantityRead({
         ? 'No reliable quantity digit was found.'
         : `Rejected implausible ${layout} quantity ${rawQuantity}.`,
   }
+}
+
+export function selectSingleDigitBadgeAlternative({
+  rawQuantity,
+  rawConfidence,
+  templateCandidates,
+  card,
+  config = DIGITAL_RECOGNITION_CONFIG,
+}) {
+  if (isBasicEnergyIdentity(card)) return null
+
+  const candidate = (templateCandidates ?? [])
+    .filter((alternative) =>
+      alternative.value >= config.quantityMin &&
+      alternative.value <= config.quantityMax
+    )
+    .sort((left, right) => right.confidence - left.confidence)[0]
+
+  if (
+    !candidate ||
+    candidate.confidence < config.minimumAcceptedQuantityConfidence
+  ) return null
+
+  const rawIsInvalid =
+    rawQuantity < config.quantityMin || rawQuantity > config.quantityMax
+  const clearlyStronger = candidate.confidence - rawConfidence >= 0.05
+
+  return rawIsInvalid || clearlyStronger ? candidate : null
 }
 
 export function validateDeckQuantityTotal(
