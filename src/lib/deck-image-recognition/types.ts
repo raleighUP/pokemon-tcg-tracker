@@ -90,6 +90,26 @@ export type DeckEntryCandidate = {
   logicalStackBounds?: { x: number; y: number; width: number; height: number; rotation?: number }
   topCardBounds?: { x: number; y: number; width: number; height: number; rotation?: number }
   detectorStages?: Array<{stage:string;regions:Array<{id:string;bounds:{x:number;y:number;width:number;height:number};score?:number;aspectRatio?:number;rejectionReason?:string}>}>
+  proposalFeatures?: {
+    proposalSource: 'connected-component' | 'dense-window'
+    areaRatio: number
+    aspectRatio: number
+    rectangularity: number
+    borderCompleteness: number
+    borderSides: { top: number; right: number; bottom: number; left: number; supportedSides: number }
+    edgeDensity: number
+    interiorEdgeDensity: number
+    exteriorEdgeDensity: number
+    borderToInteriorRatio: number
+    backgroundContrast: number
+    orientationConsistency: number
+    perspectiveScore: number
+    edgeTouchPenalty: number
+    parentCandidateId?: string
+    childCandidateIds: string[]
+    containmentRatio?: number
+    finalScore: number
+  }
   estimatedQuantity: number
   quantity: number | null
   quantityConfidence: number

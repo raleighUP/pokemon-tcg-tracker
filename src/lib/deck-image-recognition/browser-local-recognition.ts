@@ -134,6 +134,7 @@ export type BrowserDeckImageRecognitionResult = {
     logicalStackBounds?: DeckEntryCandidate['logicalStackBounds']
     topCardBounds?: DeckEntryCandidate['topCardBounds']
     detectorStages?: DeckEntryCandidate['detectorStages']
+    proposalFeatures?: DeckEntryCandidate['proposalFeatures']
     status:
       | 'detected'
       | 'rejected'
@@ -1855,6 +1856,7 @@ export async function recognizeUploadedDeckImageLocally(
         logicalStackBounds: candidate.logicalStackBounds,
         topCardBounds: candidate.topCardBounds,
         detectorStages: candidate.detectorStages,
+        proposalFeatures: candidate.proposalFeatures,
         status: 'rejected',
         topCandidateMatches: [],
         closeMatch: false,
@@ -1926,6 +1928,7 @@ export async function recognizeUploadedDeckImageLocally(
         logicalStackBounds: candidate.logicalStackBounds,
         topCardBounds: candidate.topCardBounds,
         detectorStages: candidate.detectorStages,
+        proposalFeatures: candidate.proposalFeatures,
         status: 'unresolved',
         topCandidateMatches,
         closeMatch: false,
@@ -1970,6 +1973,7 @@ export async function recognizeUploadedDeckImageLocally(
         logicalStackBounds: candidate.logicalStackBounds,
         topCardBounds: candidate.topCardBounds,
         detectorStages: candidate.detectorStages,
+        proposalFeatures: candidate.proposalFeatures,
         status: 'low-confidence',
         topMatch: `${bestMatch.name} ${bestMatch.setCode} ${bestMatch.cardNumber}`,
         topCandidateMatches,
@@ -2022,6 +2026,7 @@ export async function recognizeUploadedDeckImageLocally(
       logicalStackBounds: candidate.logicalStackBounds,
       topCardBounds: candidate.topCardBounds,
       detectorStages: candidate.detectorStages,
+      proposalFeatures: candidate.proposalFeatures,
       status: 'matched',
       topMatch: `${bestMatch.name} ${bestMatch.setCode} ${bestMatch.cardNumber}`,
       topCandidateMatches,

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-16T15:52:58.852Z",
-  "sourceCommit": "2ab2e6f0a932d709e782e2089cb1b061b44c4402",
+  "generatedAt": "2026-07-16T17:07:35.265Z",
+  "sourceCommit": "6482d5209acaad3ac9bdc9b532b51b8f7e0a5d19",
   "thresholds": {
     "minimumMatchIoU": 0.3,
     "duplicateIoU": 0.3,
@@ -37,44 +37,140 @@
     {
       "fixtureId": "aob",
       "expectedRegions": 24,
-      "detectedRegions": 60,
-      "matchedRegions": 10,
-      "missedRegions": 14,
-      "falseRegions": 45,
-      "duplicateRegions": 5,
-      "recall": 0.4166666666666667,
-      "precision": 0.16666666666666666,
-      "meanIoU": 0.4785918874847216,
+      "detectedRegions": 37,
+      "matchedRegions": 9,
+      "missedRegions": 15,
+      "falseRegions": 25,
+      "duplicateRegions": 3,
+      "recall": 0.375,
+      "precision": 0.24324324324324326,
+      "meanIoU": 0.4920545452919127,
       "medianIoU": 0.48427385022145475,
       "progressiveIoU": {
-        "0.05": 22,
-        "0.10": 19,
-        "0.20": 15,
-        "0.30": 10,
+        "0.05": 19,
+        "0.10": 16,
+        "0.20": 14,
+        "0.30": 9,
         "0.50": 3
       },
       "failureTaxonomy": {
         "artworkFragment": 0,
         "innerFrame": 0,
         "partialEdge": 0,
-        "shiftedBounds": 10,
-        "undersizedBounds": 27,
+        "shiftedBounds": 6,
+        "undersizedBounds": 13,
         "oversizedBounds": 0,
-        "backgroundDetection": 2,
+        "backgroundDetection": 0,
         "mergedStacks": 0,
-        "other": 21
+        "other": 18
       },
-      "detectorTopCardBounds": 60,
+      "falseRegionClasses": {
+        "background": 0,
+        "playmatText": 0,
+        "artworkOrTextBox": 0,
+        "partialFragments": 11,
+        "oversizedMerged": 0,
+        "nestedDuplicate": 3,
+        "other": 14
+      },
+      "sourceBreakdown": {
+        "dense-window": 31,
+        "connected-component": 6
+      },
+      "duplicateSourceBreakdown": {
+        "dense-window": 3
+      },
+      "scoreDistributions": {
+        "matched": {
+          "count": 9,
+          "min": 0.6839396129299878,
+          "median": 0.8679972028671721,
+          "max": 0.9082449556093624,
+          "mean": 0.8329737127371439
+        },
+        "false": {
+          "count": 25,
+          "min": 0.7043328092178992,
+          "median": 0.8570357100151522,
+          "max": 0.9167300982957496,
+          "mean": 0.8472172715049056
+        },
+        "duplicate": {
+          "count": 3,
+          "min": 0.8821612184019456,
+          "median": 0.8866335115700543,
+          "max": 0.9364697239506844,
+          "mean": 0.9017548179742282
+        }
+      },
+      "thresholdSweep": [
+        {
+          "scoreThreshold": 0.55,
+          "matched": 9,
+          "missed": 15,
+          "false": 25,
+          "duplicates": 3,
+          "recall": 0.375,
+          "precision": 0.24324324324324326,
+          "f1": 0.2950819672131148,
+          "meanIoU": 0.4920545452919127
+        },
+        {
+          "scoreThreshold": 0.65,
+          "matched": 9,
+          "missed": 15,
+          "false": 25,
+          "duplicates": 3,
+          "recall": 0.375,
+          "precision": 0.24324324324324326,
+          "f1": 0.2950819672131148,
+          "meanIoU": 0.4920545452919127
+        },
+        {
+          "scoreThreshold": 0.75,
+          "matched": 8,
+          "missed": 16,
+          "false": 22,
+          "duplicates": 2,
+          "recall": 0.3333333333333333,
+          "precision": 0.25,
+          "f1": 0.28571428571428575,
+          "meanIoU": 0.48089916848543945
+        },
+        {
+          "scoreThreshold": 0.85,
+          "matched": 6,
+          "missed": 18,
+          "false": 15,
+          "duplicates": 2,
+          "recall": 0.25,
+          "precision": 0.2608695652173913,
+          "f1": 0.2553191489361702,
+          "meanIoU": 0.46233197494507977
+        },
+        {
+          "scoreThreshold": 0.95,
+          "matched": 0,
+          "missed": 24,
+          "false": 0,
+          "duplicates": 0,
+          "recall": 0,
+          "precision": 0,
+          "f1": 0,
+          "meanIoU": 0
+        }
+      ],
+      "detectorTopCardBounds": 37,
       "matchedTopCardCrops": 4,
-      "meanTopCardIoU": 0.31125785692661695,
-      "topCardCropsBelowThreshold": 4,
+      "meanTopCardIoU": 0.33776300081239097,
+      "topCardCropsBelowThreshold": 3,
       "missingTopCardCrops": 7,
       "expectedCards": 60,
-      "recognizedCards": 60,
+      "recognizedCards": 37,
       "correctQuantities": 2,
-      "incorrectQuantities": 8,
+      "incorrectQuantities": 7,
       "unresolvedQuantities": 0,
-      "meanAbsoluteQuantityError": 1.8,
+      "meanAbsoluteQuantityError": 1.6666666666666667,
       "approvedIdentityCrops": 4,
       "correctIdentities": 0,
       "wrongIdentities": 4,
@@ -83,44 +179,141 @@
     {
       "fixtureId": "neddy-dragapult",
       "expectedRegions": 28,
-      "detectedRegions": 59,
-      "matchedRegions": 14,
-      "missedRegions": 14,
-      "falseRegions": 41,
-      "duplicateRegions": 4,
-      "recall": 0.5,
-      "precision": 0.23728813559322035,
-      "meanIoU": 0.4488115106576984,
+      "detectedRegions": 37,
+      "matchedRegions": 13,
+      "missedRegions": 15,
+      "falseRegions": 22,
+      "duplicateRegions": 2,
+      "recall": 0.4642857142857143,
+      "precision": 0.35135135135135137,
+      "meanIoU": 0.4509387821274752,
       "medianIoU": 0.44580956640705727,
       "progressiveIoU": {
-        "0.05": 26,
-        "0.10": 24,
-        "0.20": 22,
-        "0.30": 15,
+        "0.05": 23,
+        "0.10": 21,
+        "0.20": 18,
+        "0.30": 14,
         "0.50": 4
       },
       "failureTaxonomy": {
         "artworkFragment": 0,
         "innerFrame": 0,
         "partialEdge": 0,
-        "shiftedBounds": 6,
-        "undersizedBounds": 23,
+        "shiftedBounds": 5,
+        "undersizedBounds": 9,
         "oversizedBounds": 4,
-        "backgroundDetection": 1,
+        "backgroundDetection": 0,
         "mergedStacks": 0,
-        "other": 25
+        "other": 19
       },
-      "detectorTopCardBounds": 59,
+      "falseRegionClasses": {
+        "background": 0,
+        "playmatText": 0,
+        "artworkOrTextBox": 0,
+        "partialFragments": 6,
+        "oversizedMerged": 3,
+        "nestedDuplicate": 2,
+        "other": 13
+      },
+      "sourceBreakdown": {
+        "dense-window": 29,
+        "connected-component": 8
+      },
+      "duplicateSourceBreakdown": {
+        "connected-component": 1,
+        "dense-window": 1
+      },
+      "scoreDistributions": {
+        "matched": {
+          "count": 13,
+          "min": 0.7154249722971172,
+          "median": 0.8407667307334338,
+          "max": 0.9719651401230349,
+          "mean": 0.8409786800483082
+        },
+        "false": {
+          "count": 22,
+          "min": 0.6213341750668181,
+          "median": 0.8792559369899194,
+          "max": 0.9559349705082325,
+          "mean": 0.8331427982982267
+        },
+        "duplicate": {
+          "count": 2,
+          "min": 0.7637572518547168,
+          "median": 0.8364241961507956,
+          "max": 0.8364241961507956,
+          "mean": 0.8000907240027562
+        }
+      },
+      "thresholdSweep": [
+        {
+          "scoreThreshold": 0.55,
+          "matched": 13,
+          "missed": 15,
+          "false": 22,
+          "duplicates": 2,
+          "recall": 0.4642857142857143,
+          "precision": 0.35135135135135137,
+          "f1": 0.39999999999999997,
+          "meanIoU": 0.4509387821274752
+        },
+        {
+          "scoreThreshold": 0.65,
+          "matched": 13,
+          "missed": 15,
+          "false": 20,
+          "duplicates": 2,
+          "recall": 0.4642857142857143,
+          "precision": 0.37142857142857144,
+          "f1": 0.41269841269841273,
+          "meanIoU": 0.4509387821274752
+        },
+        {
+          "scoreThreshold": 0.75,
+          "matched": 12,
+          "missed": 16,
+          "false": 17,
+          "duplicates": 1,
+          "recall": 0.42857142857142855,
+          "precision": 0.4,
+          "f1": 0.4137931034482759,
+          "meanIoU": 0.45507432475679993
+        },
+        {
+          "scoreThreshold": 0.85,
+          "matched": 6,
+          "missed": 22,
+          "false": 12,
+          "duplicates": 0,
+          "recall": 0.21428571428571427,
+          "precision": 0.3333333333333333,
+          "f1": 0.2608695652173913,
+          "meanIoU": 0.4194467903209169
+        },
+        {
+          "scoreThreshold": 0.95,
+          "matched": 1,
+          "missed": 27,
+          "false": 1,
+          "duplicates": 0,
+          "recall": 0.03571428571428571,
+          "precision": 0.5,
+          "f1": 0.06666666666666667,
+          "meanIoU": 0.4848995896295804
+        }
+      ],
+      "detectorTopCardBounds": 37,
       "matchedTopCardCrops": 3,
       "meanTopCardIoU": 0.242027718891651,
       "topCardCropsBelowThreshold": 3,
       "missingTopCardCrops": 12,
       "expectedCards": 60,
-      "recognizedCards": 59,
-      "correctQuantities": 8,
+      "recognizedCards": 37,
+      "correctQuantities": 7,
       "incorrectQuantities": 6,
       "unresolvedQuantities": 0,
-      "meanAbsoluteQuantityError": 0.9285714285714286,
+      "meanAbsoluteQuantityError": 1,
       "approvedIdentityCrops": 3,
       "correctIdentities": 0,
       "wrongIdentities": 3,
@@ -129,19 +322,19 @@
     {
       "fixtureId": "rahul-crustle",
       "expectedRegions": 30,
-      "detectedRegions": 56,
+      "detectedRegions": 37,
       "matchedRegions": 9,
       "missedRegions": 21,
-      "falseRegions": 43,
+      "falseRegions": 24,
       "duplicateRegions": 4,
       "recall": 0.3,
-      "precision": 0.16071428571428573,
+      "precision": 0.24324324324324326,
       "meanIoU": 0.5180855279067048,
       "medianIoU": 0.45259385966357324,
       "progressiveIoU": {
-        "0.05": 25,
-        "0.10": 22,
-        "0.20": 16,
+        "0.05": 24,
+        "0.10": 19,
+        "0.20": 12,
         "0.30": 9,
         "0.50": 4
       },
@@ -149,20 +342,116 @@
         "artworkFragment": 0,
         "innerFrame": 0,
         "partialEdge": 0,
-        "shiftedBounds": 5,
-        "undersizedBounds": 6,
-        "oversizedBounds": 9,
-        "backgroundDetection": 12,
+        "shiftedBounds": 4,
+        "undersizedBounds": 0,
+        "oversizedBounds": 8,
+        "backgroundDetection": 5,
         "mergedStacks": 0,
-        "other": 24
+        "other": 20
       },
-      "detectorTopCardBounds": 56,
+      "falseRegionClasses": {
+        "background": 5,
+        "playmatText": 0,
+        "artworkOrTextBox": 0,
+        "partialFragments": 0,
+        "oversizedMerged": 7,
+        "nestedDuplicate": 4,
+        "other": 12
+      },
+      "sourceBreakdown": {
+        "dense-window": 32,
+        "connected-component": 5
+      },
+      "duplicateSourceBreakdown": {
+        "dense-window": 4
+      },
+      "scoreDistributions": {
+        "matched": {
+          "count": 9,
+          "min": 0.6758962599654289,
+          "median": 0.8254829853668864,
+          "max": 0.9066340306338486,
+          "mean": 0.8099404045787949
+        },
+        "false": {
+          "count": 24,
+          "min": 0.6001127832724615,
+          "median": 0.8140957831546511,
+          "max": 0.9754113924050632,
+          "mean": 0.8050414798520354
+        },
+        "duplicate": {
+          "count": 4,
+          "min": 0.8494376633963067,
+          "median": 0.8940726083163287,
+          "max": 0.9160311375919311,
+          "mean": 0.8776643371156307
+        }
+      },
+      "thresholdSweep": [
+        {
+          "scoreThreshold": 0.55,
+          "matched": 9,
+          "missed": 21,
+          "false": 24,
+          "duplicates": 4,
+          "recall": 0.3,
+          "precision": 0.24324324324324326,
+          "f1": 0.26865671641791045,
+          "meanIoU": 0.5180855279067049
+        },
+        {
+          "scoreThreshold": 0.65,
+          "matched": 9,
+          "missed": 21,
+          "false": 22,
+          "duplicates": 4,
+          "recall": 0.3,
+          "precision": 0.2571428571428571,
+          "f1": 0.2769230769230769,
+          "meanIoU": 0.5180855279067049
+        },
+        {
+          "scoreThreshold": 0.75,
+          "matched": 8,
+          "missed": 22,
+          "false": 16,
+          "duplicates": 2,
+          "recall": 0.26666666666666666,
+          "precision": 0.3076923076923077,
+          "f1": 0.28571428571428575,
+          "meanIoU": 0.5003687524593551
+        },
+        {
+          "scoreThreshold": 0.85,
+          "matched": 6,
+          "missed": 24,
+          "false": 10,
+          "duplicates": 1,
+          "recall": 0.2,
+          "precision": 0.35294117647058826,
+          "f1": 0.25531914893617025,
+          "meanIoU": 0.4798827467270433
+        },
+        {
+          "scoreThreshold": 0.95,
+          "matched": 0,
+          "missed": 30,
+          "false": 2,
+          "duplicates": 0,
+          "recall": 0,
+          "precision": 0,
+          "f1": 0,
+          "meanIoU": 0
+        }
+      ],
+      "detectorTopCardBounds": 37,
       "matchedTopCardCrops": 3,
       "meanTopCardIoU": 0.2463633886841857,
       "topCardCropsBelowThreshold": 3,
       "missingTopCardCrops": 14,
       "expectedCards": 60,
-      "recognizedCards": 56,
+      "recognizedCards": 37,
       "correctQuantities": 3,
       "incorrectQuantities": 6,
       "unresolvedQuantities": 0,
@@ -175,47 +464,143 @@
     {
       "fixtureId": "slop-box",
       "expectedRegions": 32,
-      "detectedRegions": 60,
-      "matchedRegions": 9,
-      "missedRegions": 23,
-      "falseRegions": 47,
-      "duplicateRegions": 4,
-      "recall": 0.28125,
-      "precision": 0.15,
-      "meanIoU": 0.39980573213487713,
-      "medianIoU": 0.3879503047394867,
+      "detectedRegions": 37,
+      "matchedRegions": 12,
+      "missedRegions": 20,
+      "falseRegions": 24,
+      "duplicateRegions": 1,
+      "recall": 0.375,
+      "precision": 0.32432432432432434,
+      "meanIoU": 0.40309545525278745,
+      "medianIoU": 0.40574638773717997,
       "progressiveIoU": {
-        "0.05": 31,
-        "0.10": 26,
-        "0.20": 22,
-        "0.30": 9,
+        "0.05": 30,
+        "0.10": 25,
+        "0.20": 20,
+        "0.30": 13,
         "0.50": 1
       },
       "failureTaxonomy": {
         "artworkFragment": 0,
         "innerFrame": 0,
         "partialEdge": 0,
-        "shiftedBounds": 0,
-        "undersizedBounds": 4,
-        "oversizedBounds": 8,
-        "backgroundDetection": 29,
+        "shiftedBounds": 1,
+        "undersizedBounds": 1,
+        "oversizedBounds": 7,
+        "backgroundDetection": 9,
         "mergedStacks": 0,
         "other": 19
       },
-      "detectorTopCardBounds": 60,
-      "matchedTopCardCrops": 3,
-      "meanTopCardIoU": 0.3028044931549368,
+      "falseRegionClasses": {
+        "background": 9,
+        "playmatText": 0,
+        "artworkOrTextBox": 0,
+        "partialFragments": 1,
+        "oversizedMerged": 6,
+        "nestedDuplicate": 1,
+        "other": 8
+      },
+      "sourceBreakdown": {
+        "dense-window": 32,
+        "connected-component": 5
+      },
+      "duplicateSourceBreakdown": {
+        "dense-window": 1
+      },
+      "scoreDistributions": {
+        "matched": {
+          "count": 12,
+          "min": 0.7351522532765812,
+          "median": 0.8445353290664362,
+          "max": 0.8934937430399632,
+          "mean": 0.8131675733966781
+        },
+        "false": {
+          "count": 24,
+          "min": 0.533502101052443,
+          "median": 0.7686140110102656,
+          "max": 0.8951813246949905,
+          "mean": 0.7711990369699718
+        },
+        "duplicate": {
+          "count": 1,
+          "min": 0.7508033914195581,
+          "median": 0.7508033914195581,
+          "max": 0.7508033914195581,
+          "mean": 0.7508033914195581
+        }
+      },
+      "thresholdSweep": [
+        {
+          "scoreThreshold": 0.55,
+          "matched": 12,
+          "missed": 20,
+          "false": 23,
+          "duplicates": 1,
+          "recall": 0.375,
+          "precision": 0.3333333333333333,
+          "f1": 0.35294117647058826,
+          "meanIoU": 0.4030954552527874
+        },
+        {
+          "scoreThreshold": 0.65,
+          "matched": 12,
+          "missed": 20,
+          "false": 21,
+          "duplicates": 1,
+          "recall": 0.375,
+          "precision": 0.35294117647058826,
+          "f1": 0.3636363636363636,
+          "meanIoU": 0.4030954552527874
+        },
+        {
+          "scoreThreshold": 0.75,
+          "matched": 9,
+          "missed": 23,
+          "false": 16,
+          "duplicates": 1,
+          "recall": 0.28125,
+          "precision": 0.34615384615384615,
+          "f1": 0.3103448275862069,
+          "meanIoU": 0.4123293737109608
+        },
+        {
+          "scoreThreshold": 0.85,
+          "matched": 5,
+          "missed": 27,
+          "false": 6,
+          "duplicates": 0,
+          "recall": 0.15625,
+          "precision": 0.45454545454545453,
+          "f1": 0.2325581395348837,
+          "meanIoU": 0.4399183845067089
+        },
+        {
+          "scoreThreshold": 0.95,
+          "matched": 0,
+          "missed": 32,
+          "false": 0,
+          "duplicates": 0,
+          "recall": 0,
+          "precision": 0,
+          "f1": 0,
+          "meanIoU": 0
+        }
+      ],
+      "detectorTopCardBounds": 37,
+      "matchedTopCardCrops": 6,
+      "meanTopCardIoU": 0.32331114451625836,
       "topCardCropsBelowThreshold": 6,
       "missingTopCardCrops": 0,
       "expectedCards": 60,
-      "recognizedCards": 60,
-      "correctQuantities": 6,
-      "incorrectQuantities": 3,
+      "recognizedCards": 37,
+      "correctQuantities": 7,
+      "incorrectQuantities": 5,
       "unresolvedQuantities": 0,
-      "meanAbsoluteQuantityError": 0.7777777777777778,
-      "approvedIdentityCrops": 3,
+      "meanAbsoluteQuantityError": 0.9166666666666666,
+      "approvedIdentityCrops": 6,
       "correctIdentities": 0,
-      "wrongIdentities": 3,
+      "wrongIdentities": 6,
       "unresolvedIdentities": 0
     }
   ]
