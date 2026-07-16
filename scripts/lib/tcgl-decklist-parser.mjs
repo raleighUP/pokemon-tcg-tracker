@@ -38,7 +38,7 @@ export function parseTcglDecklist(text) {
     const hasPrintSuffix =
       parts.length >= 3 &&
       /^[A-Z0-9]{2,8}$/.test(maybeSet) &&
-      /^[A-Z0-9-]+$/.test(maybeNumber)
+      /^[A-Z0-9-]+$/i.test(maybeNumber)
 
     rows.push({
       category: currentCategory,

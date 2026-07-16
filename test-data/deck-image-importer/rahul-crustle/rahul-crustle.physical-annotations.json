@@ -1,0 +1,708 @@
+{
+  "fixtureId": "rahul-crustle",
+  "fixtureName": "Rahul Crustle",
+  "image": {
+    "fileName": "physical.jfif",
+    "width": 1967,
+    "height": 1081
+  },
+  "expectedDeckTotal": 60,
+  "expectedLogicalRegions": 30,
+  "schemaVersion": 1,
+  "regions": [
+    {
+      "id": "region-c882cf6f-385f-42eb-a48f-02d620e250fb",
+      "normalizedBounds": {
+        "x": 0.2302086364624692,
+        "y": 0.2680866385370237,
+        "width": 0.15484378507862623,
+        "height": 0.17795205589453084
+      },
+      "cardName": "Mega Kangaskhan ex",
+      "quantity": 3,
+      "presentation": "offset-stack",
+      "unresolved": false,
+      "topCardBounds": {
+        "x": 0.27597218853925853,
+        "y": 0.2772123575006301,
+        "width": 0.10845331600160713,
+        "height": 0.16882633693092441
+      },
+      "exactPrintReferenceId": "me1-164",
+      "exactPrintKey": "pokemon-tcg-api:me1:164:english:me1-164",
+      "setCode": "MEG",
+      "collectorNumber": "164",
+      "regulationMark": "I",
+      "stack": {
+        "offsetDirection": "left",
+        "exposedEdgeCount": 2
+      }
+    },
+    {
+      "id": "region-dd9c4c63-16f3-4829-bd26-15ec91ba3c4b",
+      "normalizedBounds": {
+        "x": 0.20575963105713568,
+        "y": 0.2749309277597285,
+        "width": 0.025702797316702636,
+        "height": 0.17795205589453084
+      },
+      "cardName": "Mega Kangaskhan ex",
+      "quantity": 1,
+      "presentation": "single",
+      "unresolved": false,
+      "exactPrintReferenceId": "me1-104",
+      "exactPrintKey": "pokemon-tcg-api:me1:104:english:me1-104",
+      "setCode": "MEG",
+      "collectorNumber": "104",
+      "regulationMark": "I"
+    },
+    {
+      "id": "region-8ec33408-fd7a-46ed-bff5-74729523d968",
+      "normalizedBounds": {
+        "x": 0.18757958520864781,
+        "y": 0.4460386944315545,
+        "width": 0.17365070583825348,
+        "height": 0.0901167428177162
+      },
+      "cardName": "Dwebble",
+      "quantity": 3,
+      "presentation": "offset-stack",
+      "unresolved": false,
+      "exactPrintReferenceId": "sv10-11",
+      "exactPrintKey": "pokemon-tcg-api:sv10:11:english:sv10-11",
+      "setCode": "DRI",
+      "collectorNumber": "11",
+      "regulationMark": "I",
+      "topCardBounds": {
+        "x": 0.2508962661336953,
+        "y": 0.44717939494207126,
+        "width": 0.11033402491320599,
+        "height": 0.08897604230719947
+      },
+      "stack": {
+        "offsetDirection": "left",
+        "exposedEdgeCount": 2
+      }
+    },
+    {
+      "id": "region-33c29f99-8947-4367-b110-d8dda58eb283",
+      "normalizedBounds": {
+        "x": 0.20638654805736542,
+        "y": 0.5407183206642975,
+        "width": 0.16111274463547184,
+        "height": 0.2532394671032291
+      },
+      "cardName": "Crustle",
+      "quantity": 3,
+      "presentation": "offset-stack",
+      "unresolved": false,
+      "topCardBounds": {
+        "x": 0.26029972651350897,
+        "y": 0.5429997504051991,
+        "width": 0.10281127344499119,
+        "height": 0.24981728419871907
+      },
+      "exactPrintReferenceId": "sv10-186",
+      "exactPrintKey": "pokemon-tcg-api:sv10:186:english:sv10-186",
+      "setCode": "DRI",
+      "collectorNumber": "186",
+      "regulationMark": "I",
+      "stack": {
+        "offsetDirection": "left",
+        "exposedEdgeCount": 2
+      }
+    },
+    {
+      "id": "region-a697150a-e5cb-439f-95fe-fe2d867fcf8c",
+      "normalizedBounds": {
+        "x": 0.41388971441962974,
+        "y": 0.08557168965417679,
+        "width": 0.16926243414846154,
+        "height": 0.11521256570052775
+      },
+      "cardName": "Lillie's Determination",
+      "quantity": 4,
+      "presentation": "offset-stack",
+      "unresolved": false,
+      "exactPrintReferenceId": "me1-184",
+      "exactPrintKey": "pokemon-tcg-api:me1:184:english:me1-184",
+      "setCode": "MEG",
+      "collectorNumber": "184",
+      "regulationMark": "I",
+      "stack": {
+        "offsetDirection": "left",
+        "exposedEdgeCount": 3
+      },
+      "topCardBounds": {
+        "x": 0.47971400021196065,
+        "y": 0.08557168965417679,
+        "width": 0.10343814835613063,
+        "height": 0.11521256570052775
+      }
+    },
+    {
+      "id": "region-110d8c5a-e771-426f-947b-c9db71ab36e8",
+      "normalizedBounds": {
+        "x": 0.4640415381862111,
+        "y": 0.18937706835703896,
+        "width": 0.12726027885032465,
+        "height": 0.11635326142439975
+      },
+      "cardName": "Team Rocket's Petrel",
+      "quantity": 2,
+      "presentation": "offset-stack",
+      "unresolved": false,
+      "topCardBounds": {
+        "x": 0.49037125250314345,
+        "y": 0.18937706835703896,
+        "width": 0.10093056453339228,
+        "height": 0.11635326142439975
+      },
+      "exactPrintReferenceId": "sv10-226",
+      "exactPrintKey": "pokemon-tcg-api:sv10:226:english:sv10-226",
+      "setCode": "DRI",
+      "collectorNumber": "226",
+      "regulationMark": "I",
+      "stack": {
+        "offsetDirection": "left",
+        "exposedEdgeCount": 1
+      }
+    },
+    {
+      "id": "region-213b345f-c5d5-46e1-b616-ca53d59cafba",
+      "normalizedBounds": {
+        "x": 0.4107552135966618,
+        "y": 0.20078425535470454,
+        "width": 0.053913241589779004,
+        "height": 0.1083682190380866
+      },
+      "cardName": "Team Rocket's Petrel",
+      "quantity": 2,
+      "presentation": "offset-stack",
+      "unresolved": false,
+      "topCardBounds": {
+        "x": 0.4377118238692787,
+        "y": 0.20078425535470454,
+        "width": 0.026956631317162083,
+        "height": 0.1083682190380866
+      },
+      "exactPrintReferenceId": "me2pt5-207",
+      "exactPrintKey": "pokemon-tcg-api:me2pt5:207:english:me2pt5-207",
+      "setCode": "ASC",
+      "collectorNumber": "207",
+      "regulationMark": "I",
+      "stack": {
+        "offsetDirection": "left",
+        "exposedEdgeCount": 1
+      }
+    },
+    {
+      "id": "region-320b2f67-a395-453f-b5d9-3ea4a97accf7",
+      "normalizedBounds": {
+        "x": 0.40950142168529263,
+        "y": 0.3057303297814387,
+        "width": 0.18368106217375163,
+        "height": 0.09467964059267703
+      },
+      "cardName": "Boss's Orders (Ghetsis)",
+      "quantity": 4,
+      "presentation": "offset-stack",
+      "unresolved": false,
+      "exactPrintReferenceId": "sv2-265",
+      "exactPrintKey": "pokemon-tcg-api:sv2:265:english:sv2-265",
+      "setCode": "sv2",
+      "collectorNumber": "265",
+      "regulationMark": "G",
+      "stack": {
+        "offsetDirection": "left",
+        "exposedEdgeCount": 3
+      },
+      "topCardBounds": {
+        "x": 0.4884905435915446,
+        "y": 0.3068710446518895,
+        "width": 0.10343814835613058,
+        "height": 0.09353892572222622
+      }
+    },
+    {
+      "id": "region-125b1e7a-3ee5-4715-8eaa-5dc1bd96876a",
+      "normalizedBounds": {
+        "x": 0.46905670583168757,
+        "y": 0.3981285023400566,
+        "width": 0.13854444814173716,
+        "height": 0.11635326142439972
+      },
+      "cardName": "Eri",
+      "quantity": 2,
+      "presentation": "offset-stack",
+      "unresolved": false,
+      "topCardBounds": {
+        "x": 0.5041630056172942,
+        "y": 0.39926921721050734,
+        "width": 0.10343814835613052,
+        "height": 0.11407183168349821
+      },
+      "exactPrintReferenceId": "sv5-199",
+      "exactPrintKey": "pokemon-tcg-api:sv5:199:english:sv5-199",
+      "setCode": "TEF",
+      "collectorNumber": "199",
+      "regulationMark": "H",
+      "stack": {
+        "offsetDirection": "left",
+        "exposedEdgeCount": 1
+      }
+    },
+    {
+      "id": "region-387e6bd4-26d5-4ca0-a7dd-0846c3d90139",
+      "normalizedBounds": {
+        "x": 0.4082476297739235,
+        "y": 0.3969877874696058,
+        "width": 0.0614359930579938,
+        "height": 0.12091615919936055
+      },
+      "cardName": "Hilda",
+      "quantity": 2,
+      "presentation": "offset-stack",
+      "unresolved": false,
+      "topCardBounds": {
+        "x": 0.43520424004654046,
+        "y": 0.3969877874696058,
+        "width": 0.03447938278537682,
+        "height": 0.12091615919936055
+      },
+      "exactPrintReferenceId": "rsv10pt5-164",
+      "exactPrintKey": "pokemon-tcg-api:rsv10pt5:164:english:rsv10pt5-164",
+      "setCode": "WHT",
+      "collectorNumber": "164",
+      "regulationMark": "I",
+      "stack": {
+        "offsetDirection": "left",
+        "exposedEdgeCount": 1
+      }
+    },
+    {
+      "id": "region-b8441b21-f3d8-40f0-a282-a77dde55e8fb",
+      "normalizedBounds": {
+        "x": 0.3906945009256654,
+        "y": 0.5236075210212203,
+        "width": 0.04701732294361333,
+        "height": 0.2589430414554831
+      },
+      "cardName": "Xerosic's Machinations",
+      "quantity": 1,
+      "presentation": "single",
+      "unresolved": false,
+      "exactPrintReferenceId": "sv6pt5-89",
+      "exactPrintKey": "pokemon-tcg-api:sv6pt5:89:english:sv6pt5-89",
+      "setCode": "SFA",
+      "collectorNumber": "89",
+      "regulationMark": "H"
+    },
+    {
+      "id": "region-5454b63f-7ba4-4608-8323-837f61edb68f",
+      "normalizedBounds": {
+        "x": 0.43708494895813926,
+        "y": 0.5179039454723051,
+        "width": 0.04576350998769907,
+        "height": 0.09353888742906868
+      },
+      "cardName": "Bianca's Devotion",
+      "quantity": 1,
+      "presentation": "single",
+      "unresolved": false,
+      "exactPrintReferenceId": "sv5-142",
+      "exactPrintKey": "pokemon-tcg-api:sv5:142:english:sv5-142",
+      "setCode": "TEF",
+      "collectorNumber": "142",
+      "regulationMark": "H"
+    },
+    {
+      "id": "region-88be09f5-3486-4ee9-83d5-7bc895e3ccb7",
+      "normalizedBounds": {
+        "x": 0.4841022508572075,
+        "y": 0.5167632306018544,
+        "width": 0.04450976016542019,
+        "height": 0.09353888742906857
+      },
+      "cardName": "Lisia's Appeal",
+      "quantity": 1,
+      "presentation": "single",
+      "unresolved": false,
+      "exactPrintReferenceId": "sv8-234",
+      "exactPrintKey": "pokemon-tcg-api:sv8:234:english:sv8-234",
+      "setCode": "SSP",
+      "collectorNumber": "234",
+      "regulationMark": "H"
+    },
+    {
+      "id": "region-512b6292-c9c4-41bf-801c-46a0378bc34d",
+      "normalizedBounds": {
+        "x": 0.5292389280228574,
+        "y": 0.5156225157314035,
+        "width": 0.0984229386215637,
+        "height": 0.10152392981538183
+      },
+      "cardName": "Pokémon Center Lady",
+      "quantity": 1,
+      "presentation": "single",
+      "unresolved": false,
+      "exactPrintReferenceId": "me1-123",
+      "exactPrintKey": "pokemon-tcg-api:me1:123:english:me1-123",
+      "setCode": "MEG",
+      "collectorNumber": "123",
+      "regulationMark": "I"
+    },
+    {
+      "id": "region-eed6e35f-1e81-486f-88d7-776241bf7233",
+      "normalizedBounds": {
+        "x": 0.41827800715396685,
+        "y": 0.6148649775127262,
+        "width": 0.18117347835101344,
+        "height": 0.09011678111087373
+      },
+      "cardName": "Pokégear 3.0",
+      "quantity": 3,
+      "presentation": "offset-stack",
+      "unresolved": false,
+      "topCardBounds": {
+        "x": 0.4978940039713582,
+        "y": 0.6148649775127262,
+        "width": 0.09967677262202324,
+        "height": 0.08897602794726545
+      },
+      "exactPrintReferenceId": "sm10-182b",
+      "exactPrintKey": "pokemon-tcg-api:sm10:182b:english:sm10-182b",
+      "setCode": "UNB",
+      "collectorNumber": "182b",
+      "stack": {
+        "offsetDirection": "left",
+        "exposedEdgeCount": 2
+      }
+    },
+    {
+      "id": "region-fc177043-f0d9-4c53-84a4-45310801d3b9",
+      "normalizedBounds": {
+        "x": 0.41388971441962974,
+        "y": 0.7084038649417947,
+        "width": 0.18368106217375169,
+        "height": 0.2578024031713474
+      },
+      "cardName": "Jumbo Ice Cream",
+      "quantity": 4,
+      "presentation": "offset-stack",
+      "unresolved": false,
+      "topCardBounds": {
+        "x": 0.4928788363258817,
+        "y": 0.7118260478463048,
+        "width": 0.10343814835613063,
+        "height": 0.2543802202668374
+      },
+      "exactPrintReferenceId": "me2-91",
+      "exactPrintKey": "pokemon-tcg-api:me2:91:english:me2-91",
+      "setCode": "PFL",
+      "collectorNumber": "91",
+      "regulationMark": "I",
+      "stack": {
+        "offsetDirection": "left",
+        "exposedEdgeCount": 3
+      }
+    },
+    {
+      "id": "region-571ebc6a-e9aa-40fb-aeec-bd08f0c1ecb4",
+      "normalizedBounds": {
+        "x": 0.6226466989989446,
+        "y": 0.0764459515439916,
+        "width": 0.040121467431083135,
+        "height": 0.12433830381071294
+      },
+      "cardName": "Ultra Ball",
+      "quantity": 1,
+      "presentation": "single",
+      "unresolved": false,
+      "exactPrintReferenceId": "bw9-122",
+      "exactPrintKey": "pokemon-tcg-api:bw9:122:english:bw9-122",
+      "setCode": "PLF",
+      "collectorNumber": "122"
+    },
+    {
+      "id": "region-88525e56-75b1-43d6-bf03-4a740f00d0d6",
+      "normalizedBounds": {
+        "x": 0.6633950413411672,
+        "y": 0.08214954504282439,
+        "width": 0.12851411285078407,
+        "height": 0.11863471031188015
+      },
+      "cardName": "Buddy-Buddy Poffin",
+      "quantity": 2,
+      "presentation": "offset-stack",
+      "unresolved": false,
+      "topCardBounds": {
+        "x": 0.6865902548351316,
+        "y": 0.08214954504282439,
+        "width": 0.10281123135590087,
+        "height": 0.11521256570052775
+      },
+      "exactPrintReferenceId": "me2pt5-184",
+      "exactPrintKey": "pokemon-tcg-api:me2pt5:184:english:me2pt5-184",
+      "setCode": "ASC",
+      "collectorNumber": "184",
+      "regulationMark": "H",
+      "stack": {
+        "offsetDirection": "left",
+        "exposedEdgeCount": 1
+      }
+    },
+    {
+      "id": "region-5c7980cf-0d44-48e4-b33f-709c8acd1619",
+      "normalizedBounds": {
+        "x": 0.6113625297075321,
+        "y": 0.20078425535470454,
+        "width": 0.04889805289975735,
+        "height": 0.25209875223277833
+      },
+      "cardName": "Handheld Fan",
+      "quantity": 1,
+      "presentation": "single",
+      "unresolved": false,
+      "exactPrintReferenceId": "sv6-150",
+      "exactPrintKey": "pokemon-tcg-api:sv6:150:english:sv6-150",
+      "setCode": "TWM",
+      "collectorNumber": "150",
+      "regulationMark": "H"
+    },
+    {
+      "id": "region-96961955-112f-4309-acdf-8b4bcfe8566b",
+      "normalizedBounds": {
+        "x": 0.6602605826072895,
+        "y": 0.20192497022515535,
+        "width": 0.04074834234222258,
+        "height": 0.12547901868116376
+      },
+      "cardName": "Hand Trimmer",
+      "quantity": 1,
+      "presentation": "single",
+      "unresolved": false,
+      "exactPrintReferenceId": "sv5-150",
+      "exactPrintKey": "pokemon-tcg-api:sv5:150:english:sv5-150",
+      "setCode": "TEF",
+      "collectorNumber": "150",
+      "regulationMark": "H"
+    },
+    {
+      "id": "region-49dce850-7e04-49e6-b75a-22dc4f3005d6",
+      "normalizedBounds": {
+        "x": 0.7016358839596729,
+        "y": 0.20420639996605694,
+        "width": 0.05265942863386475,
+        "height": 0.11977540603575221
+      },
+      "cardName": "Switch",
+      "quantity": 1,
+      "presentation": "single",
+      "unresolved": false,
+      "setCode": "BS2",
+      "collectorNumber": "123"
+    },
+    {
+      "id": "region-47e87fd4-58f5-4a61-a290-6b1b49f6c01b",
+      "normalizedBounds": {
+        "x": 0.7511607697606385,
+        "y": 0.19736211074335214,
+        "width": 0.10155743944453177,
+        "height": 0.13004187816296697
+      },
+      "cardName": "Hero's Cape",
+      "quantity": 1,
+      "presentation": "single",
+      "unresolved": false,
+      "exactPrintReferenceId": "sv5-152",
+      "exactPrintKey": "pokemon-tcg-api:sv5:152:english:sv5-152",
+      "setCode": "TEF",
+      "collectorNumber": "152",
+      "regulationMark": "H"
+    },
+    {
+      "id": "region-8c0e66ad-599f-4f00-8fc9-12a6543f568a",
+      "normalizedBounds": {
+        "x": 0.6383191610246942,
+        "y": 0.32170037626090753,
+        "width": 0.047017301899068165,
+        "height": 0.12661973355161454
+      },
+      "cardName": "Festival Grounds",
+      "quantity": 1,
+      "presentation": "single",
+      "unresolved": false,
+      "exactPrintReferenceId": "sv8pt5-108",
+      "exactPrintKey": "pokemon-tcg-api:sv8pt5:108:english:sv8pt5-108",
+      "setCode": "PRE",
+      "collectorNumber": "108",
+      "regulationMark": "H"
+    },
+    {
+      "id": "region-79b67796-0838-47d5-be1b-fe2c21a54f25",
+      "normalizedBounds": {
+        "x": 0.6828288738398879,
+        "y": 0.3251225591654175,
+        "width": 0.06143601410253896,
+        "height": 0.1254789803880062
+      },
+      "cardName": "Community Center",
+      "quantity": 1,
+      "presentation": "single",
+      "unresolved": false,
+      "exactPrintReferenceId": "sv6-146",
+      "exactPrintKey": "pokemon-tcg-api:sv6:146:english:sv6-146",
+      "setCode": "TWM",
+      "collectorNumber": "146",
+      "regulationMark": "H"
+    },
+    {
+      "id": "region-b3a68733-7ae2-4c3b-955b-2259868a829f",
+      "normalizedBounds": {
+        "x": 0.7430110960310577,
+        "y": 0.3319668483881223,
+        "width": 0.10281118926681054,
+        "height": 0.11977544432890974
+      },
+      "cardName": "Team Rocket's Factory",
+      "quantity": 1,
+      "presentation": "single",
+      "unresolved": false,
+      "exactPrintReferenceId": "me2pt5-203",
+      "exactPrintKey": "pokemon-tcg-api:me2pt5:203:english:me2pt5-203",
+      "setCode": "ASC",
+      "collectorNumber": "203",
+      "regulationMark": "I"
+    },
+    {
+      "id": "region-21499527-b062-4d9b-a04c-6cfe9c7a9332",
+      "normalizedBounds": {
+        "x": 0.6341799373570023,
+        "y": 0.4488052926609405,
+        "width": 0.17732254217146526,
+        "height": 0.12613054239514288
+      },
+      "cardName": "Growing Grass Energy",
+      "quantity": 4,
+      "presentation": "offset-stack",
+      "unresolved": false,
+      "topCardBounds": {
+        "x": 0.7518576080360821,
+        "y": 0.45076079883960213,
+        "width": 0.0596448714923854,
+        "height": 0.11048642732060537
+      },
+      "exactPrintReferenceId": "me3-86",
+      "exactPrintKey": "pokemon-tcg-api:me3:86:english:me3-86",
+      "setCode": "POR",
+      "collectorNumber": "86",
+      "regulationMark": "J",
+      "stack": {
+        "offsetDirection": "left",
+        "exposedEdgeCount": 3
+      }
+    },
+    {
+      "id": "region-3aa188c0-5220-4cac-80dc-cb20099f159a",
+      "normalizedBounds": {
+        "x": 0.8082784431461764,
+        "y": 0.4732491896422833,
+        "width": 0.09779605887373921,
+        "height": 0.2532388378796166
+      },
+      "cardName": "Grass Energy",
+      "quantity": 1,
+      "presentation": "single",
+      "unresolved": false,
+      "setCode": "CL",
+      "collectorNumber": "88"
+    },
+    {
+      "id": "region-5e6122bd-d3de-41a3-b2ff-8c5b4d8add4d",
+      "normalizedBounds": {
+        "x": 0.6341799373570023,
+        "y": 0.5680915141968343,
+        "width": 0.07683976827430161,
+        "height": 0.10950870705389659
+      },
+      "cardName": "Spiky Energy",
+      "quantity": 2,
+      "presentation": "offset-stack",
+      "unresolved": false,
+      "topCardBounds": {
+        "x": 0.6739431609676835,
+        "y": 0.5680915141968343,
+        "width": 0.037076544663620425,
+        "height": 0.10950870705389659
+      },
+      "exactPrintReferenceId": "sv9-159",
+      "exactPrintKey": "pokemon-tcg-api:sv9:159:english:sv9-159",
+      "setCode": "JTG",
+      "collectorNumber": "159",
+      "regulationMark": "I",
+      "stack": {
+        "offsetDirection": "left",
+        "exposedEdgeCount": 1
+      }
+    },
+    {
+      "id": "region-cdf5e8bb-2fde-4c91-ab7b-c1077f743fcb",
+      "normalizedBounds": {
+        "x": 0.7115570269901706,
+        "y": 0.5759135553227921,
+        "width": 0.1348726396137232,
+        "height": 0.14079690438034964
+      },
+      "cardName": "Spiky Energy",
+      "quantity": 2,
+      "presentation": "offset-stack",
+      "unresolved": false,
+      "topCardBounds": {
+        "x": 0.7427228202480755,
+        "y": 0.5759135553227921,
+        "width": 0.10316945284422452,
+        "height": 0.13981911846839667
+      },
+      "exactPrintReferenceId": "sv9-190",
+      "exactPrintKey": "pokemon-tcg-api:sv9:190:english:sv9-190",
+      "setCode": "JTG",
+      "collectorNumber": "190",
+      "regulationMark": "I",
+      "stack": {
+        "offsetDirection": "left",
+        "exposedEdgeCount": 1
+      }
+    },
+    {
+      "id": "region-3b0c4c75-e110-43c6-a639-0f867a4a9db5",
+      "normalizedBounds": {
+        "x": 0.6309559009747112,
+        "y": 0.6766224845727111,
+        "width": 0.21171237181166114,
+        "height": 0.2952822863660868
+      },
+      "cardName": "Mist Energy",
+      "quantity": 4,
+      "presentation": "offset-stack",
+      "unresolved": false,
+      "topCardBounds": {
+        "x": 0.7223038510075046,
+        "y": 0.6971553322712808,
+        "width": 0.12036442177886775,
+        "height": 0.23857247589440989
+      },
+      "exactPrintReferenceId": "sv5-161",
+      "exactPrintKey": "pokemon-tcg-api:sv5:161:english:sv5-161",
+      "setCode": "TEF",
+      "collectorNumber": "161",
+      "regulationMark": "H",
+      "stack": {
+        "offsetDirection": "left",
+        "exposedEdgeCount": 3
+      }
+    }
+  ],
+  "createdAt": "2026-07-15T17:36:06.013Z",
+  "updatedAt": "2026-07-15T18:03:01.792Z"
+}

@@ -1,0 +1,588 @@
+{
+  "fixtureId": "aob",
+  "fixtureName": "AOB",
+  "image": {
+    "fileName": "physical.jfif",
+    "width": 4000,
+    "height": 2879
+  },
+  "expectedDeckTotal": 60,
+  "expectedLogicalRegions": 24,
+  "schemaVersion": 1,
+  "regions": [
+    {
+      "id": "region-2016d031-0572-4fd7-ac15-d44a067ac1ac",
+      "normalizedBounds": {
+        "x": 0.01243022313067311,
+        "y": 0.1685583583281186,
+        "width": 0.23038494848737498,
+        "height": 0.1293430577477343
+      },
+      "cardName": "Mega Kangaskhan ex",
+      "quantity": 4,
+      "presentation": "offset-stack",
+      "unresolved": false,
+      "topCardBounds": {
+        "x": 0.11492799167242129,
+        "y": 0.1711713418625242,
+        "width": 0.12694680448486176,
+        "height": 0.12542358244612595
+      },
+      "exactPrintReferenceId": "me1-104",
+      "exactPrintKey": "pokemon-tcg-api:me1:104:english:me1-104",
+      "setCode": "MEG",
+      "collectorNumber": "104",
+      "regulationMark": "I",
+      "stack": {
+        "exposedEdgeCount": 3,
+        "offsetDirection": "left"
+      }
+    },
+    {
+      "id": "region-f03c6f4b-ef5e-470b-a494-32ead23d2207",
+      "normalizedBounds": {
+        "x": 0,
+        "y": 0.28483649840382486,
+        "width": 0.25127829823040215,
+        "height": 0.13195606321123737
+      },
+      "cardName": "Meowth ex",
+      "quantity": 4,
+      "presentation": "offset-stack",
+      "unresolved": false,
+      "topCardBounds": {
+        "x": 0.11492799167242129,
+        "y": 0.28483649840382486,
+        "width": 0.13540993109721583,
+        "height": 0.12281057698262288
+      },
+      "exactPrintReferenceId": "me3-62",
+      "exactPrintKey": "pokemon-tcg-api:me3:62:english:me3-62",
+      "setCode": "POR",
+      "collectorNumber": "62",
+      "regulationMark": "J",
+      "stack": {
+        "offsetDirection": "left",
+        "exposedEdgeCount": 3
+      }
+    },
+    {
+      "id": "region-c9653dd5-a9f3-4cf4-a765-926f9b402517",
+      "normalizedBounds": {
+        "x": 0.002086408730421787,
+        "y": 0.3958885946588789,
+        "width": 0.26141639168812897,
+        "height": 0.13979505767264905
+      },
+      "cardName": "Lillie's Clefairy ex",
+      "quantity": 4,
+      "presentation": "offset-stack",
+      "unresolved": false,
+      "topCardBounds": {
+        "x": 0.12903321321528355,
+        "y": 0.39458210289167606,
+        "width": 0.13446958720326718,
+        "height": 0.13848856590544634
+      },
+      "exactPrintReferenceId": "me2pt5-76",
+      "exactPrintKey": "pokemon-tcg-api:me2pt5:76:english:me2pt5-76",
+      "setCode": "ASC",
+      "collectorNumber": "76",
+      "regulationMark": "I",
+      "stack": {
+        "offsetDirection": "left"
+      }
+    },
+    {
+      "id": "region-2222511f-cd2f-49c4-a62d-a41dfcffbd8e",
+      "normalizedBounds": {
+        "x": 0.029356444788564834,
+        "y": 0.527844685281488,
+        "width": 0.23884810666654546,
+        "height": 0.1554730027372777
+      },
+      "cardName": "Latias ex",
+      "quantity": 3,
+      "presentation": "offset-stack",
+      "unresolved": false,
+      "topCardBounds": {
+        "x": 0.124331462178724,
+        "y": 0.5291511934955139,
+        "width": 0.14293271381562128,
+        "height": 0.1528599753446772
+      },
+      "exactPrintReferenceId": "sv8-76",
+      "exactPrintKey": "pokemon-tcg-api:sv8:76:english:sv8-76",
+      "setCode": "SSP",
+      "collectorNumber": "76",
+      "regulationMark": "H",
+      "stack": {
+        "offsetDirection": "left"
+      }
+    },
+    {
+      "id": "region-2fc83052-b82a-414e-a73e-a44ba265d8c9",
+      "normalizedBounds": {
+        "x": 0.032177508037227125,
+        "y": 0.6833177154301375,
+        "width": 0.11848367787250769,
+        "height": 0.24954067312504902
+      },
+      "cardName": "Wellspring Mask Ogerpon ex",
+      "quantity": 2,
+      "presentation": "offset-stack",
+      "unresolved": false,
+      "topCardBounds": {
+        "x": 0.08201586068377008,
+        "y": 0.6793981962703342,
+        "width": 0.06770498133201612,
+        "height": 0.24562121427026373
+      },
+      "exactPrintReferenceId": "sv8pt5-27",
+      "exactPrintKey": "pokemon-tcg-api:sv8pt5:27:english:sv8pt5-27",
+      "setCode": "PRE",
+      "collectorNumber": "27",
+      "regulationMark": "H",
+      "stack": {
+        "offsetDirection": "left"
+      }
+    },
+    {
+      "id": "region-0f0cedb4-c484-461e-8f00-ee8bccb13898",
+      "normalizedBounds": {
+        "x": 0.14784015422788893,
+        "y": 0.6754787374155489,
+        "width": 0.07240670080175926,
+        "height": 0.25868607163727375
+      },
+      "cardName": "Koraidon ex",
+      "quantity": 1,
+      "presentation": "single",
+      "unresolved": false,
+      "exactPrintReferenceId": "me2pt5-121",
+      "exactPrintKey": "pokemon-tcg-api:me2pt5:121:english:me2pt5-121",
+      "setCode": "ASC",
+      "collectorNumber": "121",
+      "regulationMark": "J"
+    },
+    {
+      "id": "region-19e4a2a9-3b3a-4327-acea-66668e9fbe33",
+      "normalizedBounds": {
+        "x": 0.22212754281754543,
+        "y": 0.683317670201374,
+        "width": 0.047957696425462104,
+        "height": 0.2482342252160411
+      },
+      "cardName": "Chien-Pao",
+      "quantity": 1,
+      "presentation": "single",
+      "unresolved": false,
+      "exactPrintReferenceId": "sv8-56",
+      "exactPrintKey": "pokemon-tcg-api:sv8:56:english:sv8-56",
+      "setCode": "SSP",
+      "collectorNumber": "56",
+      "regulationMark": "H"
+    },
+    {
+      "id": "region-4f052ca2-54ed-474f-96e7-80442518e9fa",
+      "normalizedBounds": {
+        "x": 0.26722305749423514,
+        "y": 0.6762640350879655,
+        "width": 0.05566851144829971,
+        "height": 0.24771360097951234
+      },
+      "cardName": "moltres",
+      "quantity": 1,
+      "presentation": "single",
+      "unresolved": false,
+      "setCode": "PFL",
+      "collectorNumber": "14"
+    },
+    {
+      "id": "region-7733661c-3da8-4402-ac67-3c527ce85602",
+      "normalizedBounds": {
+        "x": 0.3227446235713964,
+        "y": 0.6663331908819163,
+        "width": 0.18054659584083205,
+        "height": 0.25737962372826584
+      },
+      "cardName": "Fezandipiti ex",
+      "quantity": 2,
+      "presentation": "offset-stack",
+      "unresolved": false,
+      "topCardBounds": {
+        "x": 0.37446369557265297,
+        "y": 0.6689462182745168,
+        "width": 0.12788714837881038,
+        "height": 0.25607313196106307
+      },
+      "exactPrintReferenceId": "me2pt5-142",
+      "exactPrintKey": "pokemon-tcg-api:me2pt5:142:english:me2pt5-142",
+      "setCode": "ASC",
+      "collectorNumber": "142",
+      "regulationMark": "H",
+      "stack": {
+        "offsetDirection": "left"
+      }
+    },
+    {
+      "id": "region-9c732f60-0aa6-4c3b-ad39-e8c18c227b7d",
+      "normalizedBounds": {
+        "x": 0.26068173716988846,
+        "y": 0.17117136242105305,
+        "width": 0.2228621657689695,
+        "height": 0.16592493687490015
+      },
+      "cardName": "Crispin",
+      "quantity": 4,
+      "presentation": "offset-stack",
+      "unresolved": false,
+      "topCardBounds": {
+        "x": 0.3631795688452694,
+        "y": 0.1698648487247528,
+        "width": 0.11942402176645633,
+        "height": 0.1698444560347034
+      },
+      "exactPrintReferenceId": "sv8pt5-105",
+      "exactPrintKey": "pokemon-tcg-api:sv8pt5:105:english:sv8pt5-105",
+      "setCode": "PRE",
+      "collectorNumber": "105",
+      "regulationMark": "H",
+      "stack": {
+        "offsetDirection": "left"
+      }
+    },
+    {
+      "id": "region-c88eebb3-c0ae-40c8-ac31-60852610afaa",
+      "normalizedBounds": {
+        "x": 0.27948867818249384,
+        "y": 0.3227248459985274,
+        "width": 0.20781666346579147,
+        "height": 0.11889110168101447
+      },
+      "cardName": "Boss's Orders",
+      "quantity": 3,
+      "presentation": "offset-stack",
+      "unresolved": false,
+      "topCardBounds": {
+        "x": 0.36129881792373936,
+        "y": 0.3227248459985274,
+        "width": 0.1241257728030159,
+        "height": 0.12019759344821723
+      },
+      "exactPrintReferenceId": "me1-114",
+      "exactPrintKey": "pokemon-tcg-api:me1:114:english:me1-114",
+      "setCode": "MEG",
+      "collectorNumber": "114",
+      "regulationMark": "I",
+      "stack": {
+        "offsetDirection": "left"
+      }
+    },
+    {
+      "id": "region-dfd6f22d-e87d-4c07-bd7f-38d0f045bf2d",
+      "normalizedBounds": {
+        "x": 0.2898324925827451,
+        "y": 0.4416159709792079,
+        "width": 0.0893329540264674,
+        "height": 0.22733024729530893
+      },
+      "cardName": "Ciphermaniac's Codebreaking",
+      "quantity": 2,
+      "presentation": "offset-stack",
+      "unresolved": false,
+      "topCardBounds": {
+        "x": 0.33873050133533944,
+        "y": 0.4429224627464107,
+        "width": 0.0413752576010053,
+        "height": 0.22341077199370063
+      },
+      "exactPrintReferenceId": "sv8pt5-104",
+      "exactPrintKey": "pokemon-tcg-api:sv8pt5:104:english:sv8pt5-104",
+      "setCode": "PRE",
+      "collectorNumber": "104",
+      "regulationMark": "H",
+      "stack": {
+        "offsetDirection": "left"
+      }
+    },
+    {
+      "id": "region-ebf342ec-3ba8-49ef-a8bc-6565fac52987",
+      "normalizedBounds": {
+        "x": 0.37916544660921253,
+        "y": 0.4403094792120051,
+        "width": 0.1269467729180454,
+        "height": 0.2312497225969174
+      },
+      "cardName": "Cyrano",
+      "quantity": 1,
+      "presentation": "single",
+      "unresolved": false,
+      "exactPrintReferenceId": "sv8-230",
+      "exactPrintKey": "pokemon-tcg-api:sv8:230:english:sv8-230",
+      "setCode": "SSP",
+      "collectorNumber": "230",
+      "regulationMark": "H"
+    },
+    {
+      "id": "region-e410e858-848d-423e-a55e-9de8f78eeae5",
+      "normalizedBounds": {
+        "x": 0.49858946837566887,
+        "y": 0.16725186656091579,
+        "width": 0.21910085332680784,
+        "height": 0.14502102474146034
+      },
+      "cardName": "Ultra Ball",
+      "quantity": 4,
+      "presentation": "offset-stack",
+      "unresolved": false,
+      "topCardBounds": {
+        "x": 0.593564485765828,
+        "y": 0.16725186656091579,
+        "width": 0.12318539734225087,
+        "height": 0.14632751650866316
+      },
+      "exactPrintReferenceId": "me2pt5-213",
+      "exactPrintKey": "pokemon-tcg-api:me2pt5:213:english:me2pt5-213",
+      "setCode": "ASC",
+      "collectorNumber": "213",
+      "regulationMark": "I",
+      "stack": {
+        "offsetDirection": "left"
+      }
+    },
+    {
+      "id": "region-6596667d-ffc1-4b96-a2a2-6d3cbe5f740b",
+      "normalizedBounds": {
+        "x": 0.5032912194122284,
+        "y": 0.31096638308835023,
+        "width": 0.2426094822423399,
+        "height": 0.14894050004306875
+      },
+      "cardName": "Dusk Ball",
+      "quantity": 4,
+      "presentation": "offset-stack",
+      "unresolved": false,
+      "topCardBounds": {
+        "x": 0.6180134901421251,
+        "y": 0.31096638308835023,
+        "width": 0.12694677291804535,
+        "height": 0.14763400827586592
+      },
+      "exactPrintReferenceId": "sv8-175",
+      "exactPrintKey": "pokemon-tcg-api:sv8:175:english:sv8-175",
+      "setCode": "SSP",
+      "collectorNumber": "175",
+      "regulationMark": "H",
+      "stack": {
+        "offsetDirection": "left"
+      }
+    },
+    {
+      "id": "region-9372ad7a-692c-40af-a99c-a02d59995263",
+      "normalizedBounds": {
+        "x": 0.5183367848490392,
+        "y": 0.45598740782981056,
+        "width": 0.2191007270595423,
+        "height": 0.17245743956910903
+      },
+      "cardName": "Wondrous Patch",
+      "quantity": 3,
+      "presentation": "offset-stack",
+      "unresolved": false,
+      "topCardBounds": {
+        "x": 0.6039083001660793,
+        "y": 0.46513289405842506,
+        "width": 0.13446965033690006,
+        "height": 0.16331195334049453
+      },
+      "exactPrintReferenceId": "me2-94",
+      "exactPrintKey": "pokemon-tcg-api:me2:94:english:me2-94",
+      "setCode": "PFL",
+      "collectorNumber": "94",
+      "regulationMark": "I",
+      "stack": {
+        "offsetDirection": "left"
+      }
+    },
+    {
+      "id": "region-d21c5a83-82cc-43e8-8e95-84669daafef9",
+      "normalizedBounds": {
+        "x": 0.5126946583517147,
+        "y": 0.6310578309333252,
+        "width": 0.05548044757705117,
+        "height": 0.24692773344883823
+      },
+      "cardName": "Prime Catcher",
+      "quantity": 1,
+      "presentation": "single",
+      "unresolved": false,
+      "exactPrintReferenceId": "sv8pt5-119",
+      "exactPrintKey": "pokemon-tcg-api:sv8pt5:119:english:sv8pt5-119",
+      "setCode": "PRE",
+      "collectorNumber": "119",
+      "regulationMark": "H"
+    },
+    {
+      "id": "region-1b01d4c4-d143-45e4-8c6f-d007ff9f2bc4",
+      "normalizedBounds": {
+        "x": 0.5587716669892795,
+        "y": 0.6323643336650767,
+        "width": 0.17396415701637524,
+        "height": 0.2652186181896776
+      },
+      "cardName": "Lillie's Pearl",
+      "quantity": 2,
+      "presentation": "offset-stack",
+      "unresolved": false,
+      "topCardBounds": {
+        "x": 0.5888627347292684,
+        "y": 0.633670817208868,
+        "width": 0.14199233835485625,
+        "height": 0.2560731758192579
+      },
+      "exactPrintReferenceId": "sv9-151",
+      "exactPrintKey": "pokemon-tcg-api:sv9:151:english:sv9-151",
+      "setCode": "JTG",
+      "collectorNumber": "151",
+      "regulationMark": "I",
+      "stack": {
+        "offsetDirection": "left"
+      }
+    },
+    {
+      "id": "region-274b3803-9d28-4910-a41a-2d740baf1995",
+      "normalizedBounds": {
+        "x": 0.7524831404790252,
+        "y": 0.1855428033833615,
+        "width": 0.23508666795711808,
+        "height": 0.13718205220914603
+      },
+      "cardName": "Area Zero Underdepths",
+      "quantity": 4,
+      "presentation": "offset-stack",
+      "unresolved": false,
+      "topCardBounds": {
+        "x": 0.8662650988817897,
+        "y": 0.1868492951505643,
+        "width": 0.12130470955435357,
+        "height": 0.13326257690753762
+      },
+      "exactPrintReferenceId": "sv8pt5-94",
+      "exactPrintKey": "pokemon-tcg-api:sv8pt5:94:english:sv8pt5-94",
+      "setCode": "PRE",
+      "collectorNumber": "94",
+      "regulationMark": "H",
+      "stack": {
+        "offsetDirection": "left"
+      }
+    },
+    {
+      "id": "region-e2779692-1319-4c15-8fb9-9ca4023e0936",
+      "normalizedBounds": {
+        "x": 0.7741110816066601,
+        "y": 0.3227248555925075,
+        "width": 0.22474285355686674,
+        "height": 0.14502102474146034
+      },
+      "cardName": "Psychic Energy ",
+      "quantity": 4,
+      "presentation": "offset-stack",
+      "unresolved": false,
+      "topCardBounds": {
+        "x": 0.8737878500333788,
+        "y": 0.32141836382530475,
+        "width": 0.12506608513014805,
+        "height": 0.1502469918102715
+      },
+      "setCode": "SVE",
+      "collectorNumber": "21",
+      "stack": {
+        "offsetDirection": "left"
+      }
+    },
+    {
+      "id": "region-beef1cd9-1a82-400d-a878-ac4ba4e6301b",
+      "normalizedBounds": {
+        "x": 0.7675286427822032,
+        "y": 0.46774587211055635,
+        "width": 0.07240670080175926,
+        "height": 0.23778224722022373
+      },
+      "cardName": "Fighting Energy",
+      "quantity": 2,
+      "presentation": "offset-stack",
+      "unresolved": false,
+      "topCardBounds": {
+        "x": 0.7957390227342949,
+        "y": 0.46774587211055635,
+        "width": 0.043256008522535416,
+        "height": 0.24039523075462937
+      },
+      "setCode": "SVE",
+      "collectorNumber": "22",
+      "stack": {
+        "offsetDirection": "left"
+      }
+    },
+    {
+      "id": "region-6a17b918-3afb-4ea2-8731-fd634a5829de",
+      "normalizedBounds": {
+        "x": 0.8408756559110947,
+        "y": 0.4677458775928307,
+        "width": 0.15515721600376986,
+        "height": 0.1672314725002978
+      },
+      "cardName": "Water Energy",
+      "quantity": 2,
+      "presentation": "offset-stack",
+      "unresolved": false,
+      "topCardBounds": {
+        "x": 0.876608913282041,
+        "y": 0.47297184466164194,
+        "width": 0.12318533420861799,
+        "height": 0.1580859862716833
+      },
+      "setCode": "SVE",
+      "collectorNumber": "19",
+      "stack": {
+        "offsetDirection": "left"
+      }
+    },
+    {
+      "id": "region-b1a2fc05-5a25-45de-8d79-aeeb582af042",
+      "normalizedBounds": {
+        "x": 0.859682660057333,
+        "y": 0.636283836378057,
+        "width": 0.11848364630569119,
+        "height": 0.23255623629321764
+      },
+      "cardName": "Fire Energy",
+      "quantity": 1,
+      "presentation": "single",
+      "unresolved": false,
+      "setCode": "SVE",
+      "collectorNumber": "18"
+    },
+    {
+      "id": "region-f94bef41-8b38-4197-882c-1684ce33a61f",
+      "normalizedBounds": {
+        "x": 0.7853952083340436,
+        "y": 0.6336708144677308,
+        "width": 0.07428745172328932,
+        "height": 0.23647571159482605
+      },
+      "cardName": "Telepathic Psychic Energy",
+      "quantity": 1,
+      "presentation": "single",
+      "unresolved": false,
+      "exactPrintReferenceId": "me3-88",
+      "exactPrintKey": "pokemon-tcg-api:me3:88:english:me3-88",
+      "setCode": "POR",
+      "collectorNumber": "88",
+      "regulationMark": "J"
+    }
+  ],
+  "createdAt": "2026-07-15T16:54:23.123Z",
+  "updatedAt": "2026-07-16T15:16:32.862Z"
+}

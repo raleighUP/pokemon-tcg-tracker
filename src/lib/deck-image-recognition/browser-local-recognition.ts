@@ -130,6 +130,7 @@ export type BrowserDeckImageRecognitionResult = {
   globalBadgePattern?: BadgePattern | null
   debugMatches: Array<{
     candidateId: string
+    candidateBounds: DeckEntryCandidate['representativeBounds']
     status:
       | 'detected'
       | 'rejected'
@@ -1847,6 +1848,7 @@ export async function recognizeUploadedDeckImageLocally(
       cards.push(unresolvedCard)
       debugMatches.push({
         candidateId: candidate.id,
+        candidateBounds: candidate.representativeBounds,
         status: 'rejected',
         topCandidateMatches: [],
         closeMatch: false,
@@ -1914,6 +1916,7 @@ export async function recognizeUploadedDeckImageLocally(
       cards.push(unresolvedCard)
       debugMatches.push({
         candidateId: candidate.id,
+        candidateBounds: candidate.representativeBounds,
         status: 'unresolved',
         topCandidateMatches,
         closeMatch: false,
@@ -1954,6 +1957,7 @@ export async function recognizeUploadedDeckImageLocally(
       cards.push(lowConfidenceCard)
       debugMatches.push({
         candidateId: candidate.id,
+        candidateBounds: candidate.representativeBounds,
         status: 'low-confidence',
         topMatch: `${bestMatch.name} ${bestMatch.setCode} ${bestMatch.cardNumber}`,
         topCandidateMatches,
@@ -2002,6 +2006,7 @@ export async function recognizeUploadedDeckImageLocally(
     cards.push(matchedCard)
     debugMatches.push({
       candidateId: candidate.id,
+      candidateBounds: candidate.representativeBounds,
       status: 'matched',
       topMatch: `${bestMatch.name} ${bestMatch.setCode} ${bestMatch.cardNumber}`,
       topCandidateMatches,
