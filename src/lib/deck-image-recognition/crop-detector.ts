@@ -1,6 +1,6 @@
 import type { DeckEntryCandidate } from './types'
 import { PHYSICAL_RECOGNITION_CONFIG } from '@/lib/deck-recognition/physical-recognition-config.mjs'
-import { expandPhysicalLogicalBounds, PHYSICAL_WINDOW_HEIGHT_RATIOS, PHYSICAL_WINDOW_WIDTH_RATIOS, rankPhysicalStackProposals, suppressNestedPhysicalCandidates } from './physical-region-geometry'
+import { consolidatePhysicalStackProposals, expandPhysicalLogicalBounds, PHYSICAL_WINDOW_HEIGHT_RATIOS, PHYSICAL_WINDOW_WIDTH_RATIOS, rankPhysicalStackProposals, suppressNestedPhysicalCandidates } from './physical-region-geometry'
 
 const CARD_ASPECT_RATIO = 63 / 88
 const DEFAULT_DIGITAL_ENTRY_COUNT = 24
@@ -629,7 +629,7 @@ function detectPhysicalDenseWindows(mask: Uint8Array, width: number, height: num
     }
   }
   const sum = (x: number, y: number, w: number, h: number) => integral[(y+h)*stride+x+w]-integral[y*stride+x+w]-integral[(y+h)*stride+x]+integral[y*stride+x]
-  const candidates: Array<Bounds & { score: number; proposalSource: 'dense-window' }> = []
+  const candidates: Array<Bounds & { score: number; proposalSource: 'dense-window'; proposalId:string; rootIds:string[] }> = []
   for (const wr of PHYSICAL_WINDOW_WIDTH_RATIOS) for (const hr of PHYSICAL_WINDOW_HEIGHT_RATIOS) {
     const w=Math.round(width*wr),h=Math.round(height*hr),step=Math.max(5,Math.round(Math.min(w,h)*.28))
     for(let y=0;y+h<=height;y+=step)for(let x=0;x+w<=width;x+=step){
@@ -637,17 +637,19 @@ function detectPhysicalDenseWindows(mask: Uint8Array, width: number, height: num
       let active=0
       for(let gy=0;gy<3;gy++)for(let gx=0;gx<3;gx++){const x0=x+Math.floor(gx*w/3),y0=y+Math.floor(gy*h/3),x1=x+Math.floor((gx+1)*w/3),y1=y+Math.floor((gy+1)*h/3);if(sum(x0,y0,x1-x0,y1-y0)/((x1-x0)*(y1-y0))>.035)active++}
       if(active<6)continue
-      candidates.push({x,y,width:w,height:h,score:Number((density*.7+active/30).toFixed(3)),proposalSource:'dense-window' as const})
+      const scaleId=`${Math.round(wr*100)}x${Math.round(hr*100)}`,rootId=`dense-root-${Math.floor((x+w/2)/Math.max(1,width*.08))}-${Math.floor((y+h/2)/Math.max(1,height*.08))}`
+      candidates.push({x,y,width:w,height:h,score:Number((density*.7+active/30).toFixed(3)),proposalSource:'dense-window' as const,proposalId:`dense-${scaleId}-${x}-${y}`,rootIds:[rootId]})
     }
   }
   return suppressNestedPhysicalCandidates(candidates,.18,48)
 }
 
-function measurePhysicalProposal(candidate:Bounds&{score:number;proposalSource?:'connected-component'|'dense-window'},mask:Uint8Array,width:number,height:number){
+function measurePhysicalProposal(candidate:Bounds&{score:number;proposalSource?:'connected-component'|'dense-window';proposalId?:string;rootIds?:string[]},mask:Uint8Array,width:number,height:number){
  const sum=(x:number,y:number,w:number,h:number)=>{let total=0;for(let yy=Math.max(0,y);yy<Math.min(height,y+h);yy++)for(let xx=Math.max(0,x);xx<Math.min(width,x+w);xx++)total+=mask[yy*width+xx];return total}
  const x=Math.max(0,Math.round(candidate.x)),y=Math.max(0,Math.round(candidate.y)),w=Math.max(3,Math.min(width-x,Math.round(candidate.width))),h=Math.max(3,Math.min(height-y,Math.round(candidate.height))),band=Math.max(2,Math.round(Math.min(w,h)*.08)),area=w*h,innerW=Math.max(1,w-band*2),innerH=Math.max(1,h-band*2),inner=sum(x+band,y+band,innerW,innerH),total=sum(x,y,w,h),borderArea=Math.max(1,area-innerW*innerH),edgeDensity=total/area,interiorEdgeDensity=inner/(innerW*innerH),borderDensity=(total-inner)/borderArea
  const side=(sx:number,sy:number,sw:number,sh:number)=>sum(sx,sy,sw,sh)/Math.max(1,sw*sh),rawSides=[side(x,y,w,band),side(x+w-band,y,band,h),side(x,y+h-band,w,band),side(x,y,band,h)],sides=rawSides.map(n=>Math.min(1,n/.22)),borderCompleteness=sides.reduce((s,n)=>s+n,0)/4,outer=Math.max(2,band),ox=Math.max(0,x-outer),oy=Math.max(0,y-outer),ow=Math.min(width-ox,w+outer*2),oh=Math.min(height-oy,h+outer*2),exteriorArea=Math.max(1,ow*oh-area),exteriorEdgeDensity=Math.max(0,(sum(ox,oy,ow,oh)-total)/exteriorArea),edgeTouchPenalty=(x<=1||y<=1||x+w>=width-1||y+h>=height-1)?1:0,borderToInteriorRatio=borderDensity/Math.max(.01,interiorEdgeDensity),geometry=Math.max(0,1-Math.abs(w/h-.9)/2.4),backgroundContrast=Math.max(0,Math.min(1,Math.abs(borderDensity-exteriorEdgeDensity)/.35)),finalScore=borderCompleteness*.38+Math.min(1,borderToInteriorRatio)*.22+geometry*.18+Math.min(1,edgeDensity/.28)*.12+backgroundContrast*.1-edgeTouchPenalty*.2
- return{proposalSource:candidate.proposalSource??'connected-component' as const,areaRatio:area/(width*height),aspectRatio:w/h,rectangularity:Math.min(1,total/Math.max(1,candidate.score*area)),borderCompleteness,borderSides:{top:sides[0],right:sides[1],bottom:sides[2],left:sides[3],supportedSides:sides.filter(n=>n>=.55).length},edgeDensity,interiorEdgeDensity,exteriorEdgeDensity,borderToInteriorRatio,backgroundContrast,orientationConsistency:geometry,perspectiveScore:geometry,edgeTouchPenalty,childCandidateIds:[],finalScore}
+ const source=candidate.proposalSource??'connected-component' as const,proposalId=candidate.proposalId??`${source}-${x}-${y}-${w}-${h}`,quantize=(value:number)=>Math.round(value*4)/4,cornerSupport=(sides[0]+sides[1]+sides[2]+sides[3])/4,horizontalBands=[quantize(sides[0]),quantize(sides[2])],verticalBands=[quantize(sides[3]),quantize(sides[1])]
+ return{proposalSource:source,areaRatio:area/(width*height),aspectRatio:w/h,rectangularity:Math.min(1,total/Math.max(1,candidate.score*area)),borderCompleteness,borderSides:{top:sides[0],right:sides[1],bottom:sides[2],left:sides[3],supportedSides:sides.filter(n=>n>=.55).length},edgeDensity,interiorEdgeDensity,exteriorEdgeDensity,borderToInteriorRatio,backgroundContrast,orientationConsistency:geometry,perspectiveScore:geometry,edgeTouchPenalty,childCandidateIds:[],lineage:{proposalId,source,parentIds:[],rootIds:candidate.rootIds??[proposalId],derivation:'raw' as const},edgeSupportFingerprint:{horizontalBands,verticalBands,cornerSupport:quantize(cornerSupport),perimeterHash:[...horizontalBands,...verticalBands,quantize(cornerSupport)].join(':')},finalScore}
 }
 
 export function detectPhysicalDeckEntries(
@@ -663,14 +665,14 @@ export function detectPhysicalDeckEntries(
     imageData.height
   )
   const scored = components
-    .map((component) => ({
-      ...component,proposalSource:'connected-component' as const,
+    .map((component,index) => ({
+      ...component,proposalSource:'connected-component' as const,proposalId:`component-${index+1}`,rootIds:[`component-${index+1}`],
       score: scorePhysicalComponent(component, imageData.width, imageData.height),
     }))
     .filter((candidate) => candidate.score >= 0.18)
   const denseWindows=detectPhysicalDenseWindows(edgeMask,imageData.width,imageData.height)
   const measured=mergeDuplicateCandidates([...denseWindows,...scored]).map(candidate=>({...candidate,proposalFeatures:measurePhysicalProposal(candidate,edgeMask,imageData.width,imageData.height)}))
-  const candidates=rankPhysicalStackProposals(measured)
+  const rankedCandidates=rankPhysicalStackProposals(measured),consolidated=consolidatePhysicalStackProposals(rankedCandidates.map(candidate=>({...candidate,...expandPhysicalLogicalBounds(candidate,.3)}))),retainedIds=new Set(consolidated.candidates.map(candidate=>candidate.proposalFeatures.lineage.proposalId)),candidates=rankedCandidates.filter(candidate=>retainedIds.has(candidate.proposalFeatures.lineage.proposalId))
   const stageRegions=(items:Array<Bounds&{score?:number}>,prefix:string)=>items.slice(0,120).map((item,index)=>({id:`${prefix}-${index+1}`,bounds:{x:item.x/scale,y:item.y/scale,width:item.width/scale,height:item.height/scale},score:item.score,aspectRatio:item.width/item.height}))
   const detectorStages=[{stage:'raw-connected-components',regions:stageRegions(components,'raw')},{stage:'geometry-filtered-components',regions:stageRegions(scored,'geometry')},{stage:'card-like-candidates',regions:stageRegions(denseWindows,'window')},{stage:'final-logical-regions',regions:stageRegions(candidates,'final')}]
   return candidates.map((candidate, index) => {
@@ -689,7 +691,9 @@ export function detectPhysicalDeckEntries(
       logicalStackBounds: bounds,
       topCardBounds,
       detectorStages:index===0?detectorStages:undefined,
-      proposalFeatures:candidate.proposalFeatures,
+      proposalFeatures:{...candidate.proposalFeatures,parentCandidateId:candidate.proposalFeatures.lineage.proposalId,childCandidateIds:[`${candidate.proposalFeatures.lineage.proposalId}-top-card`]},
+      proposalDecision:consolidated.decisions.find(decision=>decision.proposalId===candidate.proposalFeatures.lineage.proposalId),
+      proposalDecisions:index===0?consolidated.decisions:undefined,
       estimatedQuantity: 1,
       quantity: 1,
       quantityConfidence: candidate.score,

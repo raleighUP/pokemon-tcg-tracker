@@ -108,8 +108,12 @@ export type DeckEntryCandidate = {
     parentCandidateId?: string
     childCandidateIds: string[]
     containmentRatio?: number
+    lineage: { proposalId: string; source: 'connected-component' | 'dense-window'; parentIds: string[]; rootIds: string[]; derivation: 'raw' | 'normalized' }
+    edgeSupportFingerprint: { horizontalBands: number[]; verticalBands: number[]; cornerSupport: number; perimeterHash: string }
     finalScore: number
   }
+  proposalDecision?: { decision: 'retained' | 'duplicate-suppressed' | 'child-attached' | 'merged' | 'rejected'; winnerId?: string; reasons: string[] }
+  proposalDecisions?: Array<{ proposalId:string; decision:'retained'|'duplicate-suppressed'; winnerId?:string; reasons:string[] }>
   estimatedQuantity: number
   quantity: number | null
   quantityConfidence: number

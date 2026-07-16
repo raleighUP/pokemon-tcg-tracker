@@ -4,7 +4,10 @@ export type PhysicalProposalRankingFeatures = {
   areaRatio:number; aspectRatio:number; borderCompleteness:number; edgeDensity:number
   interiorEdgeDensity:number; exteriorEdgeDensity:number; borderToInteriorRatio:number
   edgeTouchPenalty:number; proposalSource:'connected-component'|'dense-window'; finalScore:number
+  lineage?:{proposalId:string;parentIds:string[];rootIds:string[]}
+  edgeSupportFingerprint?:{horizontalBands:number[];verticalBands:number[];cornerSupport:number;perimeterHash:string}
 }
+export type PhysicalProposalDecision={proposalId:string;decision:'retained'|'duplicate-suppressed';winnerId?:string;reasons:string[]}
 export const PHYSICAL_WINDOW_WIDTH_RATIOS=[.06,.1,.14,.18,.22,.26] as const
 export const PHYSICAL_WINDOW_HEIGHT_RATIOS=[.07,.11,.15,.2,.26,.34] as const
 
@@ -31,4 +34,21 @@ export function rankPhysicalStackProposals<T extends PhysicalBounds & {score:num
   const envelope=limit===36?ranked.slice(limit).find(candidate=>candidate.proposalFeatures.proposalSource==='connected-component'||candidate.proposalFeatures.aspectRatio>3.2):undefined
   if(envelope)selected.push(envelope)
   return selected
+}
+
+function containmentRatio(a:PhysicalBounds,b:PhysicalBounds){const l=Math.max(a.x,b.x),t=Math.max(a.y,b.y),r=Math.min(a.x+a.width,b.x+b.width),bt=Math.min(a.y+a.height,b.y+b.height),intersection=Math.max(0,r-l)*Math.max(0,bt-t);return intersection/Math.min(a.width*a.height,b.width*b.height)}
+function normalizedCenterDistance(a:PhysicalBounds,b:PhysicalBounds){return Math.hypot(a.x+a.width/2-b.x-b.width/2,a.y+a.height/2-b.y-b.height/2)/Math.sqrt(Math.min(a.width*a.height,b.width*b.height))}
+function fingerprintSimilarity(a:PhysicalProposalRankingFeatures,b:PhysicalProposalRankingFeatures){const left=a.edgeSupportFingerprint,right=b.edgeSupportFingerprint;if(!left||!right)return 0;const av=[...left.horizontalBands,...left.verticalBands,left.cornerSupport],bv=[...right.horizontalBands,...right.verticalBands,right.cornerSupport];return 1-av.reduce((sum,value,index)=>sum+Math.abs(value-(bv[index]??0)),0)/av.length}
+function sharesEvidence(a:PhysicalProposalRankingFeatures,b:PhysicalProposalRankingFeatures){const ar=a.lineage?.rootIds??[],br=b.lineage?.rootIds??[];return ar.some(root=>br.includes(root))||a.lineage?.parentIds.includes(b.lineage?.proposalId??'')||b.lineage?.parentIds.includes(a.lineage?.proposalId??'')}
+function isParentChild(a:PhysicalProposalRankingFeatures,b:PhysicalProposalRankingFeatures){return a.lineage?.parentIds.includes(b.lineage?.proposalId??'')||b.lineage?.parentIds.includes(a.lineage?.proposalId??'')}
+
+export function consolidatePhysicalStackProposals<T extends PhysicalBounds & {score:number;proposalFeatures:PhysicalProposalRankingFeatures}>(candidates:T[]){
+  const retained:T[]=[],decisions:PhysicalProposalDecision[]=[]
+  for(const candidate of candidates){
+    const duplicate=retained.find(winner=>{const sameEvidence=sharesEvidence(candidate.proposalFeatures,winner.proposalFeatures),parentChild=isParentChild(candidate.proposalFeatures,winner.proposalFeatures),sameSource=candidate.proposalFeatures.proposalSource===winner.proposalFeatures.proposalSource,iou=physicalIoU(candidate,winner),containment=containmentRatio(candidate,winner),center=normalizedCenterDistance(candidate,winner),areaRatio=Math.max(candidate.width*candidate.height,winner.width*winner.height)/Math.min(candidate.width*candidate.height,winner.width*winner.height),fingerprint=fingerprintSimilarity(candidate.proposalFeatures,winner.proposalFeatures);if(sameEvidence)return(parentChild&&containment>=.9&&center<=1)||(center<=.3&&areaRatio<=1.8&&(iou>=.3||containment>=.75||fingerprint>=.95));if(sameSource)return(iou>=.28&&center<=.45&&areaRatio<=1.8&&fingerprint>=.82)||(candidate.proposalFeatures.proposalSource==='connected-component'&&iou>=.5&&center<=.4&&areaRatio<=1.3);return center<=.35&&areaRatio<=1.65&&iou>=.42&&fingerprint>=.82})
+    const proposalId=candidate.proposalFeatures.lineage?.proposalId??`proposal-${decisions.length+1}`
+    if(duplicate){decisions.push({proposalId,decision:'duplicate-suppressed',winnerId:duplicate.proposalFeatures.lineage?.proposalId,reasons:['shared proposal ancestry or cross-source edge evidence','similar center and geometry']});continue}
+    retained.push(candidate);decisions.push({proposalId,decision:'retained',reasons:['best-ranked representative for independent evidence root']})
+  }
+  return{candidates:retained,decisions}
 }
