@@ -1,5 +1,6 @@
 import type { DeckEntryCandidate } from './types'
 import { PHYSICAL_RECOGNITION_CONFIG } from '@/lib/deck-recognition/physical-recognition-config.mjs'
+import { expandPhysicalLogicalBounds, PHYSICAL_WINDOW_HEIGHT_RATIOS, PHYSICAL_WINDOW_WIDTH_RATIOS, suppressNestedPhysicalCandidates } from './physical-region-geometry'
 
 const CARD_ASPECT_RATIO = 63 / 88
 const DEFAULT_DIGITAL_ENTRY_COUNT = 24
@@ -605,19 +606,41 @@ function scorePhysicalComponent(
   const area = component.width * component.height
   const areaRatio = area / (width * height)
   const aspect = component.width / component.height
-  const difference = Math.min(
-    Math.abs(aspect - PHYSICAL_RECOGNITION_CONFIG.cardAspectRatio),
-    Math.abs(1 / aspect - PHYSICAL_RECOGNITION_CONFIG.cardAspectRatio)
-  )
+  const difference = Math.abs(aspect - PHYSICAL_RECOGNITION_CONFIG.cardAspectRatio)
   if (
     areaRatio < PHYSICAL_RECOGNITION_CONFIG.minimumRegionAreaRatio ||
     areaRatio > PHYSICAL_RECOGNITION_CONFIG.maximumRegionAreaRatio ||
-    difference > PHYSICAL_RECOGNITION_CONFIG.aspectRatioTolerance
+    aspect < 0.22 || aspect > 3.2
   ) return 0
-  const aspectScore = Math.max(0, 1 - difference / PHYSICAL_RECOGNITION_CONFIG.aspectRatioTolerance)
+  const aspectScore = Math.max(0.2, 1 - difference / 2.5)
   const density = component.pixels / area
   const densityScore = Math.max(0, 1 - Math.abs(density - 0.28) / 0.28)
   return Number((aspectScore * 0.75 + densityScore * 0.25).toFixed(3))
+}
+
+function detectPhysicalDenseWindows(mask: Uint8Array, width: number, height: number) {
+  const stride = width + 1
+  const integral = new Uint32Array((width + 1) * (height + 1))
+  for (let y = 1; y <= height; y += 1) {
+    let row = 0
+    for (let x = 1; x <= width; x += 1) {
+      row += mask[(y - 1) * width + x - 1]
+      integral[y * stride + x] = integral[(y - 1) * stride + x] + row
+    }
+  }
+  const sum = (x: number, y: number, w: number, h: number) => integral[(y+h)*stride+x+w]-integral[y*stride+x+w]-integral[(y+h)*stride+x]+integral[y*stride+x]
+  const candidates: Array<Bounds & { score: number }> = []
+  for (const wr of PHYSICAL_WINDOW_WIDTH_RATIOS) for (const hr of PHYSICAL_WINDOW_HEIGHT_RATIOS) {
+    const w=Math.round(width*wr),h=Math.round(height*hr),step=Math.max(5,Math.round(Math.min(w,h)*.28))
+    for(let y=0;y+h<=height;y+=step)for(let x=0;x+w<=width;x+=step){
+      const density=sum(x,y,w,h)/(w*h);if(density<.075||density>.62)continue
+      let active=0
+      for(let gy=0;gy<3;gy++)for(let gx=0;gx<3;gx++){const x0=x+Math.floor(gx*w/3),y0=y+Math.floor(gy*h/3),x1=x+Math.floor((gx+1)*w/3),y1=y+Math.floor((gy+1)*h/3);if(sum(x0,y0,x1-x0,y1-y0)/((x1-x0)*(y1-y0))>.035)active++}
+      if(active<6)continue
+      candidates.push({x,y,width:w,height:h,score:Number((density*.7+active/30).toFixed(3))})
+    }
+  }
+  return suppressNestedPhysicalCandidates(candidates,.18,48)
 }
 
 export function detectPhysicalDeckEntries(
@@ -626,8 +649,9 @@ export function detectPhysicalDeckEntries(
   const processed = getPhysicalProcessingImageData(image)
   if (!processed) return []
   const { imageData, scale } = processed
+  const edgeMask = createPhysicalEdgeMask(imageData.data, imageData.width, imageData.height)
   const components = findConnectedComponents(
-    createPhysicalEdgeMask(imageData.data, imageData.width, imageData.height),
+    edgeMask,
     imageData.width,
     imageData.height
   )
@@ -636,19 +660,27 @@ export function detectPhysicalDeckEntries(
       ...component,
       score: scorePhysicalComponent(component, imageData.width, imageData.height),
     }))
-    .filter((candidate) => candidate.score >= PHYSICAL_RECOGNITION_CONFIG.minimumCardLikeness)
-  const candidates = mergeDuplicateCandidates(scored).slice(0, 80)
+    .filter((candidate) => candidate.score >= 0.18)
+  const denseWindows=detectPhysicalDenseWindows(edgeMask,imageData.width,imageData.height)
+  const candidates = mergeDuplicateCandidates([...denseWindows,...scored]).slice(0, 60)
+  const stageRegions=(items:Array<Bounds&{score?:number}>,prefix:string)=>items.slice(0,120).map((item,index)=>({id:`${prefix}-${index+1}`,bounds:{x:item.x/scale,y:item.y/scale,width:item.width/scale,height:item.height/scale},score:item.score,aspectRatio:item.width/item.height}))
+  const detectorStages=[{stage:'raw-connected-components',regions:stageRegions(components,'raw')},{stage:'geometry-filtered-components',regions:stageRegions(scored,'geometry')},{stage:'card-like-candidates',regions:stageRegions(denseWindows,'window')},{stage:'final-logical-regions',regions:stageRegions(candidates,'final')}]
   return candidates.map((candidate, index) => {
+    const logical = expandPhysicalLogicalBounds(candidate,.3)
+    const topCardBounds = clampBounds({x:candidate.x/scale,y:candidate.y/scale,width:candidate.width/scale,height:candidate.height/scale},getImageSize(image).width,getImageSize(image).height)
     const bounds = clampBounds({
-      x: candidate.x / scale,
-      y: candidate.y / scale,
-      width: candidate.width / scale,
-      height: candidate.height / scale,
+      x: logical.x / scale,
+      y: logical.y / scale,
+      width: logical.width / scale,
+      height: logical.height / scale,
     }, getImageSize(image).width, getImageSize(image).height)
     return {
       id: `physical-entry-${String(index + 1).padStart(3, '0')}`,
       representativeBounds: bounds,
       groupBounds: bounds,
+      logicalStackBounds: bounds,
+      topCardBounds,
+      detectorStages:index===0?detectorStages:undefined,
       estimatedQuantity: 1,
       quantity: 1,
       quantityConfidence: candidate.score,

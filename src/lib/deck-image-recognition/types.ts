@@ -87,6 +87,9 @@ export type DeckEntryCandidate = {
     height: number
     rotation?: number
   }
+  logicalStackBounds?: { x: number; y: number; width: number; height: number; rotation?: number }
+  topCardBounds?: { x: number; y: number; width: number; height: number; rotation?: number }
+  detectorStages?: Array<{stage:string;regions:Array<{id:string;bounds:{x:number;y:number;width:number;height:number};score?:number;aspectRatio?:number;rejectionReason?:string}>}>
   estimatedQuantity: number
   quantity: number | null
   quantityConfidence: number

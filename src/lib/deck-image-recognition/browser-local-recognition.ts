@@ -131,6 +131,9 @@ export type BrowserDeckImageRecognitionResult = {
   debugMatches: Array<{
     candidateId: string
     candidateBounds: DeckEntryCandidate['representativeBounds']
+    logicalStackBounds?: DeckEntryCandidate['logicalStackBounds']
+    topCardBounds?: DeckEntryCandidate['topCardBounds']
+    detectorStages?: DeckEntryCandidate['detectorStages']
     status:
       | 'detected'
       | 'rejected'
@@ -1849,6 +1852,9 @@ export async function recognizeUploadedDeckImageLocally(
       debugMatches.push({
         candidateId: candidate.id,
         candidateBounds: candidate.representativeBounds,
+        logicalStackBounds: candidate.logicalStackBounds,
+        topCardBounds: candidate.topCardBounds,
+        detectorStages: candidate.detectorStages,
         status: 'rejected',
         topCandidateMatches: [],
         closeMatch: false,
@@ -1917,6 +1923,9 @@ export async function recognizeUploadedDeckImageLocally(
       debugMatches.push({
         candidateId: candidate.id,
         candidateBounds: candidate.representativeBounds,
+        logicalStackBounds: candidate.logicalStackBounds,
+        topCardBounds: candidate.topCardBounds,
+        detectorStages: candidate.detectorStages,
         status: 'unresolved',
         topCandidateMatches,
         closeMatch: false,
@@ -1958,6 +1967,9 @@ export async function recognizeUploadedDeckImageLocally(
       debugMatches.push({
         candidateId: candidate.id,
         candidateBounds: candidate.representativeBounds,
+        logicalStackBounds: candidate.logicalStackBounds,
+        topCardBounds: candidate.topCardBounds,
+        detectorStages: candidate.detectorStages,
         status: 'low-confidence',
         topMatch: `${bestMatch.name} ${bestMatch.setCode} ${bestMatch.cardNumber}`,
         topCandidateMatches,
@@ -2007,6 +2019,9 @@ export async function recognizeUploadedDeckImageLocally(
     debugMatches.push({
       candidateId: candidate.id,
       candidateBounds: candidate.representativeBounds,
+      logicalStackBounds: candidate.logicalStackBounds,
+      topCardBounds: candidate.topCardBounds,
+      detectorStages: candidate.detectorStages,
       status: 'matched',
       topMatch: `${bestMatch.name} ${bestMatch.setCode} ${bestMatch.cardNumber}`,
       topCandidateMatches,

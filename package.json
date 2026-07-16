@@ -22,6 +22,7 @@
     "test:physical-strategy-routing": "node scripts/test-physical-strategy-routing.mjs",
     "build:physical-annotation-catalog": "node scripts/build-physical-annotation-catalog.mjs",
     "test:physical-annotations": "node --experimental-strip-types scripts/test-physical-annotations.mjs",
+    "test:physical-region-geometry": "node --experimental-strip-types scripts/test-physical-region-geometry.mjs",
     "validate:physical-fixtures": "node scripts/validate-physical-fixtures.mjs",
     "evaluate:physical-regions": "node scripts/evaluate-physical-regions.mjs",
     "test:deck-image-importer:parity": "node scripts/evaluate-deck-image-importer-browser.mjs",
