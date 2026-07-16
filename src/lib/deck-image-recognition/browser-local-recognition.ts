@@ -137,6 +137,8 @@ export type BrowserDeckImageRecognitionResult = {
     proposalFeatures?: DeckEntryCandidate['proposalFeatures']
     proposalDecision?: DeckEntryCandidate['proposalDecision']
     proposalDecisions?: DeckEntryCandidate['proposalDecisions']
+    proposalClassification?: DeckEntryCandidate['proposalClassification']
+    proposalClassifications?: DeckEntryCandidate['proposalClassifications']
     status:
       | 'detected'
       | 'rejected'
@@ -1861,6 +1863,8 @@ export async function recognizeUploadedDeckImageLocally(
         proposalFeatures: candidate.proposalFeatures,
         proposalDecision: candidate.proposalDecision,
         proposalDecisions: candidate.proposalDecisions,
+        proposalClassification: candidate.proposalClassification,
+        proposalClassifications: candidate.proposalClassifications,
         status: 'rejected',
         topCandidateMatches: [],
         closeMatch: false,
@@ -1935,6 +1939,8 @@ export async function recognizeUploadedDeckImageLocally(
         proposalFeatures: candidate.proposalFeatures,
         proposalDecision: candidate.proposalDecision,
         proposalDecisions: candidate.proposalDecisions,
+        proposalClassification: candidate.proposalClassification,
+        proposalClassifications: candidate.proposalClassifications,
         status: 'unresolved',
         topCandidateMatches,
         closeMatch: false,
@@ -1982,6 +1988,8 @@ export async function recognizeUploadedDeckImageLocally(
         proposalFeatures: candidate.proposalFeatures,
         proposalDecision: candidate.proposalDecision,
         proposalDecisions: candidate.proposalDecisions,
+        proposalClassification: candidate.proposalClassification,
+        proposalClassifications: candidate.proposalClassifications,
         status: 'low-confidence',
         topMatch: `${bestMatch.name} ${bestMatch.setCode} ${bestMatch.cardNumber}`,
         topCandidateMatches,
@@ -2037,6 +2045,8 @@ export async function recognizeUploadedDeckImageLocally(
       proposalFeatures: candidate.proposalFeatures,
       proposalDecision: candidate.proposalDecision,
       proposalDecisions: candidate.proposalDecisions,
+      proposalClassification: candidate.proposalClassification,
+      proposalClassifications: candidate.proposalClassifications,
       status: 'matched',
       topMatch: `${bestMatch.name} ${bestMatch.setCode} ${bestMatch.cardNumber}`,
       topCandidateMatches,

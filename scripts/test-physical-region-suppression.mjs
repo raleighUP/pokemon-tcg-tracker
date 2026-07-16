@@ -1,5 +1,5 @@
 import assert from 'node:assert/strict'
-import { consolidatePhysicalStackProposals, rankPhysicalStackProposals, scorePhysicalStackProposal } from '../src/lib/deck-image-recognition/physical-region-geometry.ts'
+import { buildPhysicalCardScaleModel, classifyPhysicalProposal, consolidatePhysicalStackProposals, rankPhysicalStackProposals, scorePhysicalStackProposal } from '../src/lib/deck-image-recognition/physical-region-geometry.ts'
 
 const feature=(overrides={})=>({areaRatio:.025,aspectRatio:63/88,borderCompleteness:.82,edgeDensity:.28,interiorEdgeDensity:.24,exteriorEdgeDensity:.2,borderToInteriorRatio:1.2,edgeTouchPenalty:0,proposalSource:'connected-component',finalScore:.8,...overrides})
 const stack={x:20,y:20,width:90,height:130,score:.9,proposalFeatures:feature({areaRatio:.06,exteriorEdgeDensity:.34})}
@@ -24,4 +24,12 @@ assert.ok(!consolidated.candidates.includes(inner),'nested children consolidate'
 assert.ok(consolidated.candidates.includes(adjacent)&&consolidated.candidates.includes(offsetNeighbor),'true neighboring and offset stacks remain separate')
 assert.equal(consolidated.decisions.filter(x=>x.decision==='duplicate-suppressed').length,4)
 assert.equal(consolidated.candidates.length,3,'one logical stack keeps one region; top-card remains metadata')
+const scale=buildPhysicalCardScaleModel([stack,neighbor,parent,adjacent])
+const classify=(candidate,overrides)=>classifyPhysicalProposal({...candidate,proposalFeatures:feature(overrides)},scale).disposition
+assert.equal(classify(stack,{edgeTouchPenalty:1}),'reject-background','image-edge background rejects')
+assert.equal(classify({...stack,width:220,height:180},{areaRatio:.04,finalScore:.85}),'reject-merged','oversized neighboring-stack envelope rejects')
+assert.equal(classify({...stack,width:180,height:55},{areaRatio:.006,aspectRatio:3.27,finalScore:.8}),'reject-fragment','wide partial fragment rejects')
+assert.equal(classify(stack,{areaRatio:.012,borderToInteriorRatio:.55,interiorEdgeDensity:.62,finalScore:.8}),'reject-background','interior texture without perimeter rejects')
+assert.equal(classify(stack,{areaRatio:.012,finalScore:.72}),'preserve-near-miss','shifted low-score card remains available')
+assert.equal(classify(stack,{areaRatio:.012,finalScore:.86}),'retain','valid offset stack remains')
 console.log('Physical region suppression: pass')

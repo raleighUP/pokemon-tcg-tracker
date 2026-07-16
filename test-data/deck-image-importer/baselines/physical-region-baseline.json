@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-16T18:16:40.019Z",
-  "sourceCommit": "ea5ed0dd0b937218e81e48b4856852c2677225c2",
+  "generatedAt": "2026-07-16T20:12:15.708Z",
+  "sourceCommit": "adc432f6c21100ede64a15232eae7a085883094d",
   "thresholds": {
     "minimumMatchIoU": 0.3,
     "duplicateIoU": 0.3,
@@ -37,18 +37,18 @@
     {
       "fixtureId": "aob",
       "expectedRegions": 24,
-      "detectedRegions": 37,
+      "detectedRegions": 34,
       "matchedRegions": 9,
       "missedRegions": 15,
-      "falseRegions": 25,
+      "falseRegions": 22,
       "duplicateRegions": 3,
       "recall": 0.375,
-      "precision": 0.24324324324324326,
+      "precision": 0.2647058823529412,
       "meanIoU": 0.4920545452919127,
       "medianIoU": 0.48427385022145475,
       "progressiveIoU": {
         "0.05": 19,
-        "0.10": 16,
+        "0.10": 15,
         "0.20": 14,
         "0.30": 9,
         "0.50": 3
@@ -57,7 +57,7 @@
         "artworkFragment": 0,
         "innerFrame": 0,
         "partialEdge": 0,
-        "shiftedBounds": 6,
+        "shiftedBounds": 3,
         "undersizedBounds": 13,
         "oversizedBounds": 0,
         "backgroundDetection": 0,
@@ -71,11 +71,21 @@
         "partialFragments": 11,
         "oversizedMerged": 0,
         "nestedDuplicate": 3,
-        "other": 14
+        "other": 11
+      },
+      "expandedFalseTaxonomy": {
+        "backgroundTexture": 0,
+        "playmatTextOrLogo": 0,
+        "partialFragments": 11,
+        "oversizedMerged": 0,
+        "nestedDuplicates": 3,
+        "edgeClippedCandidates": 0,
+        "usefulNearMisses": 8,
+        "unknown": 3
       },
       "sourceBreakdown": {
-        "dense-window": 31,
-        "connected-component": 6
+        "dense-window": 29,
+        "connected-component": 5
       },
       "duplicateSourceBreakdown": {
         "dense-window": 3
@@ -95,8 +105,72 @@
         "rawProposals": 120,
         "rankedProposals": 37,
         "postNmsProposals": 37,
-        "finalConsolidatedRegions": 37
+        "finalConsolidatedRegions": 34
       },
+      "classificationStats": [
+        {
+          "disposition": "retain",
+          "totalProposals": 30,
+          "officialMatches": 10,
+          "falseProposals": 3,
+          "nearMissProposals": 17,
+          "averageBestIoU": 0.2850759671489972,
+          "averageScore": 0.8734232607440174
+        },
+        {
+          "disposition": "reject-merged",
+          "totalProposals": 2,
+          "officialMatches": 0,
+          "falseProposals": 0,
+          "nearMissProposals": 2,
+          "averageBestIoU": 0.18762568418033893,
+          "averageScore": 0.7776033374434101
+        },
+        {
+          "disposition": "reject-background",
+          "totalProposals": 1,
+          "officialMatches": 0,
+          "falseProposals": 1,
+          "nearMissProposals": 0,
+          "averageBestIoU": 0,
+          "averageScore": 0.7585794085238146
+        },
+        {
+          "disposition": "preserve-near-miss",
+          "totalProposals": 4,
+          "officialMatches": 2,
+          "falseProposals": 0,
+          "nearMissProposals": 2,
+          "averageBestIoU": 0.37295295774289405,
+          "averageScore": 0.7164939376121169
+        }
+      ],
+      "ablationResults": [
+        {
+          "disabledDisposition": "reject-background",
+          "matched": 9,
+          "falseRegions": 23,
+          "duplicates": 3,
+          "precision": 0.2571428571428571,
+          "recall": 0.375
+        },
+        {
+          "disabledDisposition": "reject-fragment",
+          "matched": 9,
+          "falseRegions": 22,
+          "duplicates": 3,
+          "precision": 0.2647058823529412,
+          "recall": 0.375
+        },
+        {
+          "disabledDisposition": "reject-merged",
+          "matched": 9,
+          "falseRegions": 24,
+          "duplicates": 3,
+          "precision": 0.25,
+          "recall": 0.375
+        }
+      ],
       "scoreDistributions": {
         "matched": {
           "count": 9,
@@ -106,11 +180,11 @@
           "mean": 0.8329737127371439
         },
         "false": {
-          "count": 25,
+          "count": 22,
           "min": 0.7043328092178992,
-          "median": 0.8570357100151522,
+          "median": 0.868201895866926,
           "max": 0.9167300982957496,
-          "mean": 0.8472172715049056
+          "mean": 0.8575748047369093
         },
         "duplicate": {
           "count": 3,
@@ -125,33 +199,33 @@
           "scoreThreshold": 0.55,
           "matched": 9,
           "missed": 15,
-          "false": 25,
+          "false": 22,
           "duplicates": 3,
           "recall": 0.375,
-          "precision": 0.24324324324324326,
-          "f1": 0.2950819672131148,
+          "precision": 0.2647058823529412,
+          "f1": 0.31034482758620696,
           "meanIoU": 0.4920545452919127
         },
         {
           "scoreThreshold": 0.65,
           "matched": 9,
           "missed": 15,
-          "false": 25,
+          "false": 22,
           "duplicates": 3,
           "recall": 0.375,
-          "precision": 0.24324324324324326,
-          "f1": 0.2950819672131148,
+          "precision": 0.2647058823529412,
+          "f1": 0.31034482758620696,
           "meanIoU": 0.4920545452919127
         },
         {
           "scoreThreshold": 0.75,
           "matched": 8,
           "missed": 16,
-          "false": 22,
+          "false": 20,
           "duplicates": 2,
           "recall": 0.3333333333333333,
-          "precision": 0.25,
-          "f1": 0.28571428571428575,
+          "precision": 0.26666666666666666,
+          "f1": 0.2962962962962963,
           "meanIoU": 0.48089916848543945
         },
         {
@@ -177,13 +251,13 @@
           "meanIoU": 0
         }
       ],
-      "detectorTopCardBounds": 37,
+      "detectorTopCardBounds": 34,
       "matchedTopCardCrops": 4,
       "meanTopCardIoU": 0.33776300081239097,
       "topCardCropsBelowThreshold": 3,
       "missingTopCardCrops": 7,
       "expectedCards": 60,
-      "recognizedCards": 37,
+      "recognizedCards": 34,
       "correctQuantities": 2,
       "incorrectQuantities": 7,
       "unresolvedQuantities": 0,
@@ -196,17 +270,17 @@
     {
       "fixtureId": "neddy-dragapult",
       "expectedRegions": 28,
-      "detectedRegions": 36,
+      "detectedRegions": 31,
       "matchedRegions": 13,
       "missedRegions": 15,
-      "falseRegions": 22,
+      "falseRegions": 17,
       "duplicateRegions": 1,
       "recall": 0.4642857142857143,
-      "precision": 0.3611111111111111,
+      "precision": 0.41935483870967744,
       "meanIoU": 0.4478800494300911,
       "medianIoU": 0.44580956640705727,
       "progressiveIoU": {
-        "0.05": 23,
+        "0.05": 22,
         "0.10": 21,
         "0.20": 18,
         "0.30": 14,
@@ -216,25 +290,35 @@
         "artworkFragment": 0,
         "innerFrame": 0,
         "partialEdge": 0,
-        "shiftedBounds": 5,
-        "undersizedBounds": 9,
-        "oversizedBounds": 4,
+        "shiftedBounds": 4,
+        "undersizedBounds": 8,
+        "oversizedBounds": 2,
         "backgroundDetection": 0,
         "mergedStacks": 0,
-        "other": 18
+        "other": 17
       },
       "falseRegionClasses": {
         "background": 0,
         "playmatText": 0,
         "artworkOrTextBox": 0,
-        "partialFragments": 6,
-        "oversizedMerged": 3,
+        "partialFragments": 5,
+        "oversizedMerged": 1,
         "nestedDuplicate": 1,
-        "other": 13
+        "other": 11
+      },
+      "expandedFalseTaxonomy": {
+        "backgroundTexture": 0,
+        "playmatTextOrLogo": 0,
+        "partialFragments": 5,
+        "oversizedMerged": 1,
+        "nestedDuplicates": 1,
+        "edgeClippedCandidates": 0,
+        "usefulNearMisses": 8,
+        "unknown": 3
       },
       "sourceBreakdown": {
-        "dense-window": 29,
-        "connected-component": 7
+        "dense-window": 25,
+        "connected-component": 6
       },
       "duplicateSourceBreakdown": {
         "dense-window": 1
@@ -255,8 +339,81 @@
         "rawProposals": 120,
         "rankedProposals": 37,
         "postNmsProposals": 37,
-        "finalConsolidatedRegions": 36
+        "finalConsolidatedRegions": 31
       },
+      "classificationStats": [
+        {
+          "disposition": "reject-merged",
+          "totalProposals": 2,
+          "officialMatches": 0,
+          "falseProposals": 0,
+          "nearMissProposals": 2,
+          "averageBestIoU": 0.1736871882688547,
+          "averageScore": 0.7812624569743876
+        },
+        {
+          "disposition": "retain",
+          "totalProposals": 28,
+          "officialMatches": 13,
+          "falseProposals": 5,
+          "nearMissProposals": 10,
+          "averageBestIoU": 0.3023180573856324,
+          "averageScore": 0.8638828061395828
+        },
+        {
+          "disposition": "preserve-near-miss",
+          "totalProposals": 3,
+          "officialMatches": 1,
+          "falseProposals": 0,
+          "nearMissProposals": 2,
+          "averageBestIoU": 0.28367949398632525,
+          "averageScore": 0.7255033015830857
+        },
+        {
+          "disposition": "reject-background",
+          "totalProposals": 2,
+          "officialMatches": 0,
+          "falseProposals": 0,
+          "nearMissProposals": 2,
+          "averageBestIoU": 0.17762034567229984,
+          "averageScore": 0.6320272958905573
+        },
+        {
+          "disposition": "reject-fragment",
+          "totalProposals": 1,
+          "officialMatches": 0,
+          "falseProposals": 1,
+          "nearMissProposals": 0,
+          "averageBestIoU": 0,
+          "averageScore": 0.9352453562120311
+        }
+      ],
+      "ablationResults": [
+        {
+          "disabledDisposition": "reject-background",
+          "matched": 13,
+          "falseRegions": 19,
+          "duplicates": 1,
+          "precision": 0.3939393939393939,
+          "recall": 0.4642857142857143
+        },
+        {
+          "disabledDisposition": "reject-fragment",
+          "matched": 13,
+          "falseRegions": 18,
+          "duplicates": 1,
+          "precision": 0.40625,
+          "recall": 0.4642857142857143
+        },
+        {
+          "disabledDisposition": "reject-merged",
+          "matched": 13,
+          "falseRegions": 19,
+          "duplicates": 1,
+          "precision": 0.3939393939393939,
+          "recall": 0.4642857142857143
+        }
+      ],
       "scoreDistributions": {
         "matched": {
           "count": 13,
@@ -266,11 +423,11 @@
           "mean": 0.8487811172449059
         },
         "false": {
-          "count": 22,
-          "min": 0.6213341750668181,
-          "median": 0.8792559369899194,
+          "count": 17,
+          "min": 0.716251286635082,
+          "median": 0.8805077075095993,
           "max": 0.9559349705082325,
-          "mean": 0.8331427982982267
+          "mean": 0.8569009823893571
         },
         "duplicate": {
           "count": 1,
@@ -285,44 +442,44 @@
           "scoreThreshold": 0.55,
           "matched": 13,
           "missed": 15,
-          "false": 22,
+          "false": 17,
           "duplicates": 1,
           "recall": 0.4642857142857143,
-          "precision": 0.3611111111111111,
-          "f1": 0.40625000000000006,
+          "precision": 0.41935483870967744,
+          "f1": 0.44067796610169496,
           "meanIoU": 0.4478800494300911
         },
         {
           "scoreThreshold": 0.65,
           "matched": 13,
           "missed": 15,
-          "false": 20,
+          "false": 17,
           "duplicates": 1,
           "recall": 0.4642857142857143,
-          "precision": 0.38235294117647056,
-          "f1": 0.41935483870967744,
+          "precision": 0.41935483870967744,
+          "f1": 0.44067796610169496,
           "meanIoU": 0.4478800494300911
         },
         {
           "scoreThreshold": 0.75,
           "matched": 12,
           "missed": 16,
-          "false": 17,
+          "false": 15,
           "duplicates": 1,
           "recall": 0.42857142857142855,
-          "precision": 0.4,
-          "f1": 0.4137931034482759,
+          "precision": 0.42857142857142855,
+          "f1": 0.42857142857142855,
           "meanIoU": 0.45507432475679993
         },
         {
           "scoreThreshold": 0.85,
           "matched": 6,
           "missed": 22,
-          "false": 12,
+          "false": 10,
           "duplicates": 0,
           "recall": 0.21428571428571427,
-          "precision": 0.3333333333333333,
-          "f1": 0.2608695652173913,
+          "precision": 0.375,
+          "f1": 0.2727272727272727,
           "meanIoU": 0.4194467903209169
         },
         {
@@ -337,13 +494,13 @@
           "meanIoU": 0.4848995896295804
         }
       ],
-      "detectorTopCardBounds": 36,
+      "detectorTopCardBounds": 31,
       "matchedTopCardCrops": 3,
       "meanTopCardIoU": 0.242027718891651,
       "topCardCropsBelowThreshold": 3,
       "missingTopCardCrops": 12,
       "expectedCards": 60,
-      "recognizedCards": 36,
+      "recognizedCards": 31,
       "correctQuantities": 7,
       "incorrectQuantities": 6,
       "unresolvedQuantities": 0,
@@ -356,18 +513,18 @@
     {
       "fixtureId": "rahul-crustle",
       "expectedRegions": 30,
-      "detectedRegions": 35,
+      "detectedRegions": 24,
       "matchedRegions": 9,
       "missedRegions": 21,
-      "falseRegions": 23,
-      "duplicateRegions": 3,
+      "falseRegions": 13,
+      "duplicateRegions": 2,
       "recall": 0.3,
-      "precision": 0.2571428571428571,
+      "precision": 0.375,
       "meanIoU": 0.49499915070106304,
       "medianIoU": 0.4394510017383261,
       "progressiveIoU": {
-        "0.05": 24,
-        "0.10": 19,
+        "0.05": 19,
+        "0.10": 17,
         "0.20": 12,
         "0.30": 9,
         "0.50": 3
@@ -376,31 +533,41 @@
         "artworkFragment": 0,
         "innerFrame": 0,
         "partialEdge": 0,
-        "shiftedBounds": 3,
+        "shiftedBounds": 0,
         "undersizedBounds": 0,
-        "oversizedBounds": 8,
-        "backgroundDetection": 5,
+        "oversizedBounds": 5,
+        "backgroundDetection": 4,
         "mergedStacks": 0,
-        "other": 19
+        "other": 15
       },
       "falseRegionClasses": {
-        "background": 5,
+        "background": 4,
         "playmatText": 0,
         "artworkOrTextBox": 0,
         "partialFragments": 0,
-        "oversizedMerged": 7,
-        "nestedDuplicate": 3,
-        "other": 11
+        "oversizedMerged": 4,
+        "nestedDuplicate": 2,
+        "other": 5
+      },
+      "expandedFalseTaxonomy": {
+        "backgroundTexture": 4,
+        "playmatTextOrLogo": 0,
+        "partialFragments": 0,
+        "oversizedMerged": 4,
+        "nestedDuplicates": 2,
+        "edgeClippedCandidates": 0,
+        "usefulNearMisses": 5,
+        "unknown": 0
       },
       "sourceBreakdown": {
-        "dense-window": 30,
-        "connected-component": 5
+        "dense-window": 22,
+        "connected-component": 2
       },
       "duplicateSourceBreakdown": {
-        "dense-window": 3
+        "dense-window": 2
       },
       "duplicateCauseCounts": {
-        "same-source-near-duplicate": 3
+        "same-source-near-duplicate": 2
       },
       "suppressionDecisionCounts": {
         "retained": 35,
@@ -415,8 +582,81 @@
         "rawProposals": 120,
         "rankedProposals": 37,
         "postNmsProposals": 37,
-        "finalConsolidatedRegions": 35
+        "finalConsolidatedRegions": 24
       },
+      "classificationStats": [
+        {
+          "disposition": "reject-merged",
+          "totalProposals": 3,
+          "officialMatches": 0,
+          "falseProposals": 1,
+          "nearMissProposals": 2,
+          "averageBestIoU": 0.13711921589460915,
+          "averageScore": 0.816374212452636
+        },
+        {
+          "disposition": "retain",
+          "totalProposals": 19,
+          "officialMatches": 9,
+          "falseProposals": 4,
+          "nearMissProposals": 6,
+          "averageBestIoU": 0.3011311024953976,
+          "averageScore": 0.8759457019124114
+        },
+        {
+          "disposition": "preserve-near-miss",
+          "totalProposals": 5,
+          "officialMatches": 2,
+          "falseProposals": 0,
+          "nearMissProposals": 3,
+          "averageBestIoU": 0.2994460770075139,
+          "averageScore": 0.6969381785337496
+        },
+        {
+          "disposition": "reject-background",
+          "totalProposals": 4,
+          "officialMatches": 1,
+          "falseProposals": 2,
+          "nearMissProposals": 1,
+          "averageBestIoU": 0.13456502285451158,
+          "averageScore": 0.7150526425237923
+        },
+        {
+          "disposition": "reject-fragment",
+          "totalProposals": 4,
+          "officialMatches": 0,
+          "falseProposals": 2,
+          "nearMissProposals": 2,
+          "averageBestIoU": 0.10306558375473454,
+          "averageScore": 0.8308738051580552
+        }
+      ],
+      "ablationResults": [
+        {
+          "disabledDisposition": "reject-background",
+          "matched": 9,
+          "falseRegions": 16,
+          "duplicates": 3,
+          "precision": 0.32142857142857145,
+          "recall": 0.3
+        },
+        {
+          "disabledDisposition": "reject-fragment",
+          "matched": 9,
+          "falseRegions": 17,
+          "duplicates": 2,
+          "precision": 0.32142857142857145,
+          "recall": 0.3
+        },
+        {
+          "disabledDisposition": "reject-merged",
+          "matched": 9,
+          "falseRegions": 16,
+          "duplicates": 2,
+          "precision": 0.3333333333333333,
+          "recall": 0.3
+        }
+      ],
       "scoreDistributions": {
         "matched": {
           "count": 9,
@@ -426,18 +666,18 @@
           "mean": 0.8273317460374322
         },
         "false": {
-          "count": 23,
-          "min": 0.6001127832724615,
-          "median": 0.8140957831546511,
-          "max": 0.9754113924050632,
-          "mean": 0.8129529218524686
+          "count": 13,
+          "min": 0.6773714176821088,
+          "median": 0.871326873767686,
+          "max": 0.9714907525510204,
+          "mean": 0.8395789567629066
         },
         "duplicate": {
-          "count": 3,
-          "min": 0.8494376633963067,
-          "median": 0.8511159391579564,
+          "count": 2,
+          "min": 0.8511159391579564,
+          "median": 0.9160311375919311,
           "max": 0.9160311375919311,
-          "mean": 0.8721949133820647
+          "mean": 0.8835735383749437
         }
       },
       "thresholdSweep": [
@@ -445,51 +685,51 @@
           "scoreThreshold": 0.55,
           "matched": 9,
           "missed": 21,
-          "false": 23,
-          "duplicates": 3,
+          "false": 13,
+          "duplicates": 2,
           "recall": 0.3,
-          "precision": 0.2571428571428571,
-          "f1": 0.2769230769230769,
+          "precision": 0.375,
+          "f1": 0.33333333333333326,
           "meanIoU": 0.49499915070106304
         },
         {
           "scoreThreshold": 0.65,
           "matched": 9,
           "missed": 21,
-          "false": 22,
-          "duplicates": 3,
+          "false": 13,
+          "duplicates": 2,
           "recall": 0.3,
-          "precision": 0.2647058823529412,
-          "f1": 0.28125,
+          "precision": 0.375,
+          "f1": 0.33333333333333326,
           "meanIoU": 0.49499915070106304
         },
         {
           "scoreThreshold": 0.75,
           "matched": 8,
           "missed": 22,
-          "false": 16,
-          "duplicates": 2,
+          "false": 10,
+          "duplicates": 1,
           "recall": 0.26666666666666666,
-          "precision": 0.3076923076923077,
-          "f1": 0.28571428571428575,
+          "precision": 0.42105263157894735,
+          "f1": 0.326530612244898,
           "meanIoU": 0.5003687524593551
         },
         {
           "scoreThreshold": 0.85,
           "matched": 6,
           "missed": 24,
-          "false": 10,
+          "false": 8,
           "duplicates": 1,
           "recall": 0.2,
-          "precision": 0.35294117647058826,
-          "f1": 0.25531914893617025,
+          "precision": 0.4,
+          "f1": 0.26666666666666666,
           "meanIoU": 0.4798827467270433
         },
         {
           "scoreThreshold": 0.95,
           "matched": 0,
           "missed": 30,
-          "false": 2,
+          "false": 1,
           "duplicates": 0,
           "recall": 0,
           "precision": 0,
@@ -497,13 +737,13 @@
           "meanIoU": 0
         }
       ],
-      "detectorTopCardBounds": 35,
+      "detectorTopCardBounds": 24,
       "matchedTopCardCrops": 3,
       "meanTopCardIoU": 0.231100808396977,
       "topCardCropsBelowThreshold": 3,
       "missingTopCardCrops": 14,
       "expectedCards": 60,
-      "recognizedCards": 35,
+      "recognizedCards": 24,
       "correctQuantities": 3,
       "incorrectQuantities": 6,
       "unresolvedQuantities": 0,
@@ -516,19 +756,19 @@
     {
       "fixtureId": "slop-box",
       "expectedRegions": 32,
-      "detectedRegions": 37,
+      "detectedRegions": 28,
       "matchedRegions": 12,
       "missedRegions": 20,
-      "falseRegions": 24,
+      "falseRegions": 15,
       "duplicateRegions": 1,
       "recall": 0.375,
-      "precision": 0.32432432432432434,
+      "precision": 0.42857142857142855,
       "meanIoU": 0.40309545525278745,
       "medianIoU": 0.40574638773717997,
       "progressiveIoU": {
-        "0.05": 30,
-        "0.10": 25,
-        "0.20": 20,
+        "0.05": 27,
+        "0.10": 23,
+        "0.20": 19,
         "0.30": 13,
         "0.50": 1
       },
@@ -536,25 +776,35 @@
         "artworkFragment": 0,
         "innerFrame": 0,
         "partialEdge": 0,
-        "shiftedBounds": 1,
-        "undersizedBounds": 1,
-        "oversizedBounds": 7,
-        "backgroundDetection": 9,
+        "shiftedBounds": 0,
+        "undersizedBounds": 0,
+        "oversizedBounds": 2,
+        "backgroundDetection": 7,
         "mergedStacks": 0,
         "other": 19
       },
       "falseRegionClasses": {
-        "background": 9,
+        "background": 7,
         "playmatText": 0,
         "artworkOrTextBox": 0,
-        "partialFragments": 1,
-        "oversizedMerged": 6,
+        "partialFragments": 0,
+        "oversizedMerged": 1,
         "nestedDuplicate": 1,
-        "other": 8
+        "other": 7
+      },
+      "expandedFalseTaxonomy": {
+        "backgroundTexture": 7,
+        "playmatTextOrLogo": 0,
+        "partialFragments": 0,
+        "oversizedMerged": 1,
+        "nestedDuplicates": 1,
+        "edgeClippedCandidates": 0,
+        "usefulNearMisses": 7,
+        "unknown": 0
       },
       "sourceBreakdown": {
-        "dense-window": 32,
-        "connected-component": 5
+        "dense-window": 27,
+        "connected-component": 1
       },
       "duplicateSourceBreakdown": {
         "dense-window": 1
@@ -574,8 +824,81 @@
         "rawProposals": 120,
         "rankedProposals": 37,
         "postNmsProposals": 37,
-        "finalConsolidatedRegions": 37
+        "finalConsolidatedRegions": 28
       },
+      "classificationStats": [
+        {
+          "disposition": "reject-merged",
+          "totalProposals": 4,
+          "officialMatches": 0,
+          "falseProposals": 0,
+          "nearMissProposals": 4,
+          "averageBestIoU": 0.18637699543562108,
+          "averageScore": 0.8219534225340821
+        },
+        {
+          "disposition": "reject-background",
+          "totalProposals": 4,
+          "officialMatches": 0,
+          "falseProposals": 4,
+          "nearMissProposals": 0,
+          "averageBestIoU": 0.02651926761066859,
+          "averageScore": 0.6151082372957308
+        },
+        {
+          "disposition": "retain",
+          "totalProposals": 21,
+          "officialMatches": 10,
+          "falseProposals": 7,
+          "nearMissProposals": 4,
+          "averageBestIoU": 0.24467200180325197,
+          "averageScore": 0.8207046746771722
+        },
+        {
+          "disposition": "preserve-near-miss",
+          "totalProposals": 7,
+          "officialMatches": 3,
+          "falseProposals": 0,
+          "nearMissProposals": 4,
+          "averageBestIoU": 0.29049836133718626,
+          "averageScore": 0.7389155069995205
+        },
+        {
+          "disposition": "reject-fragment",
+          "totalProposals": 1,
+          "officialMatches": 0,
+          "falseProposals": 0,
+          "nearMissProposals": 1,
+          "averageBestIoU": 0.22819014638789564,
+          "averageScore": 0.862137802922503
+        }
+      ],
+      "ablationResults": [
+        {
+          "disabledDisposition": "reject-background",
+          "matched": 12,
+          "falseRegions": 19,
+          "duplicates": 1,
+          "precision": 0.375,
+          "recall": 0.375
+        },
+        {
+          "disabledDisposition": "reject-fragment",
+          "matched": 12,
+          "falseRegions": 16,
+          "duplicates": 1,
+          "precision": 0.41379310344827586,
+          "recall": 0.375
+        },
+        {
+          "disabledDisposition": "reject-merged",
+          "matched": 12,
+          "falseRegions": 19,
+          "duplicates": 1,
+          "precision": 0.375,
+          "recall": 0.375
+        }
+      ],
       "scoreDistributions": {
         "matched": {
           "count": 12,
@@ -585,11 +908,11 @@
           "mean": 0.8131675733966781
         },
         "false": {
-          "count": 24,
-          "min": 0.533502101052443,
+          "count": 15,
+          "min": 0.725591580768974,
           "median": 0.7686140110102656,
           "max": 0.8951813246949905,
-          "mean": 0.7711990369699718
+          "mean": 0.7932261630025045
         },
         "duplicate": {
           "count": 1,
@@ -604,44 +927,44 @@
           "scoreThreshold": 0.55,
           "matched": 12,
           "missed": 20,
-          "false": 23,
+          "false": 15,
           "duplicates": 1,
           "recall": 0.375,
-          "precision": 0.3333333333333333,
-          "f1": 0.35294117647058826,
+          "precision": 0.42857142857142855,
+          "f1": 0.39999999999999997,
           "meanIoU": 0.4030954552527874
         },
         {
           "scoreThreshold": 0.65,
           "matched": 12,
           "missed": 20,
-          "false": 21,
+          "false": 15,
           "duplicates": 1,
           "recall": 0.375,
-          "precision": 0.35294117647058826,
-          "f1": 0.3636363636363636,
+          "precision": 0.42857142857142855,
+          "f1": 0.39999999999999997,
           "meanIoU": 0.4030954552527874
         },
         {
           "scoreThreshold": 0.75,
           "matched": 9,
           "missed": 23,
-          "false": 16,
+          "false": 11,
           "duplicates": 1,
           "recall": 0.28125,
-          "precision": 0.34615384615384615,
-          "f1": 0.3103448275862069,
+          "precision": 0.42857142857142855,
+          "f1": 0.3396226415094339,
           "meanIoU": 0.4123293737109608
         },
         {
           "scoreThreshold": 0.85,
           "matched": 5,
           "missed": 27,
-          "false": 6,
+          "false": 3,
           "duplicates": 0,
           "recall": 0.15625,
-          "precision": 0.45454545454545453,
-          "f1": 0.2325581395348837,
+          "precision": 0.625,
+          "f1": 0.25,
           "meanIoU": 0.4399183845067089
         },
         {
@@ -656,13 +979,13 @@
           "meanIoU": 0
         }
       ],
-      "detectorTopCardBounds": 37,
+      "detectorTopCardBounds": 28,
       "matchedTopCardCrops": 6,
       "meanTopCardIoU": 0.32331114451625836,
       "topCardCropsBelowThreshold": 6,
       "missingTopCardCrops": 0,
       "expectedCards": 60,
-      "recognizedCards": 37,
+      "recognizedCards": 28,
       "correctQuantities": 7,
       "incorrectQuantities": 5,
       "unresolvedQuantities": 0,

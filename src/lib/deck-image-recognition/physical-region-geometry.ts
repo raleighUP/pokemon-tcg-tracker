@@ -8,6 +8,9 @@ export type PhysicalProposalRankingFeatures = {
   edgeSupportFingerprint?:{horizontalBands:number[];verticalBands:number[];cornerSupport:number;perimeterHash:string}
 }
 export type PhysicalProposalDecision={proposalId:string;decision:'retained'|'duplicate-suppressed';winnerId?:string;reasons:string[]}
+export type PhysicalProposalDisposition='retain'|'reject-background'|'reject-fragment'|'reject-merged'|'reject-duplicate'|'preserve-near-miss'|'uncertain'
+export type PhysicalProposalClassification={disposition:PhysicalProposalDisposition;confidence:number;reasons:string[]}
+export type PhysicalCardScaleModel={medianWidth:number;medianHeight:number;medianArea:number;orientation:number;confidence:number}
 export const PHYSICAL_WINDOW_WIDTH_RATIOS=[.06,.1,.14,.18,.22,.26] as const
 export const PHYSICAL_WINDOW_HEIGHT_RATIOS=[.07,.11,.15,.2,.26,.34] as const
 
@@ -51,4 +54,20 @@ export function consolidatePhysicalStackProposals<T extends PhysicalBounds & {sc
     retained.push(candidate);decisions.push({proposalId,decision:'retained',reasons:['best-ranked representative for independent evidence root']})
   }
   return{candidates:retained,decisions}
+}
+
+function median(values:number[]){const sorted=[...values].sort((a,b)=>a-b);return sorted[Math.floor(sorted.length/2)]??0}
+export function buildPhysicalCardScaleModel<T extends PhysicalBounds & {proposalFeatures:PhysicalProposalRankingFeatures}>(candidates:T[]):PhysicalCardScaleModel{
+  const reliable=candidates.filter(candidate=>candidate.proposalFeatures.finalScore>=.78&&!candidate.proposalFeatures.edgeTouchPenalty).slice(0,16),sample=reliable.length>=4?reliable:candidates.slice(0,16)
+  return{medianWidth:median(sample.map(candidate=>candidate.width)),medianHeight:median(sample.map(candidate=>candidate.height)),medianArea:median(sample.map(candidate=>candidate.width*candidate.height)),orientation:median(sample.map(candidate=>Math.atan2(candidate.height,candidate.width))),confidence:Math.min(1,sample.length/8)}
+}
+export function classifyPhysicalProposal<T extends PhysicalBounds & {proposalFeatures:PhysicalProposalRankingFeatures}>(candidate:T,scale:PhysicalCardScaleModel):PhysicalProposalClassification{
+  const features=candidate.proposalFeatures,areaRatio=features.areaRatio,aspect=features.aspectRatio,scaleArea=candidate.width*candidate.height/Math.max(1,scale.medianArea),orientationDelta=Math.abs(Math.atan2(candidate.height,candidate.width)-scale.orientation)
+  if(features.edgeTouchPenalty>0)return{disposition:'reject-background',confidence:.98,reasons:['image-edge-contact','weak independent stack support']}
+  if(areaRatio>.025)return{disposition:'reject-merged',confidence:.94,reasons:['oversized-envelope','multiple-stack-centers',scaleArea>2.5?'dominant-scale-outlier':'broad-image-coverage']}
+  if(features.finalScore<.65)return{disposition:'reject-background',confidence:.9,reasons:['weak-perimeter','insufficient-evidence']}
+  if(areaRatio>.006&&features.borderToInteriorRatio<.7)return{disposition:'reject-background',confidence:.86,reasons:['weak-perimeter','high-interior-texture',orientationDelta>.5?'orientation-outlier':'low-border-to-interior-ratio']}
+  if((areaRatio<.008&&aspect>2.5)||(areaRatio<.006&&aspect<.7))return{disposition:'reject-fragment',confidence:.84,reasons:['undersized-fragment','implausible-card-footprint']}
+  if(features.finalScore<.75||features.borderCompleteness<.7)return{disposition:'preserve-near-miss',confidence:.7,reasons:['likely-near-miss','correctable-border-or-score']}
+  return{disposition:'retain',confidence:scale.confidence>=.5?.88:.76,reasons:['plausible-card-or-stack-geometry','dominant-scale-compatible']}
 }

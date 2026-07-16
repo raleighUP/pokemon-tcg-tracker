@@ -1,6 +1,6 @@
 import type { DeckEntryCandidate } from './types'
 import { PHYSICAL_RECOGNITION_CONFIG } from '@/lib/deck-recognition/physical-recognition-config.mjs'
-import { consolidatePhysicalStackProposals, expandPhysicalLogicalBounds, PHYSICAL_WINDOW_HEIGHT_RATIOS, PHYSICAL_WINDOW_WIDTH_RATIOS, rankPhysicalStackProposals, suppressNestedPhysicalCandidates } from './physical-region-geometry'
+import { buildPhysicalCardScaleModel, classifyPhysicalProposal, consolidatePhysicalStackProposals, expandPhysicalLogicalBounds, PHYSICAL_WINDOW_HEIGHT_RATIOS, PHYSICAL_WINDOW_WIDTH_RATIOS, rankPhysicalStackProposals, suppressNestedPhysicalCandidates } from './physical-region-geometry'
 
 const CARD_ASPECT_RATIO = 63 / 88
 const DEFAULT_DIGITAL_ENTRY_COUNT = 24
@@ -672,7 +672,7 @@ export function detectPhysicalDeckEntries(
     .filter((candidate) => candidate.score >= 0.18)
   const denseWindows=detectPhysicalDenseWindows(edgeMask,imageData.width,imageData.height)
   const measured=mergeDuplicateCandidates([...denseWindows,...scored]).map(candidate=>({...candidate,proposalFeatures:measurePhysicalProposal(candidate,edgeMask,imageData.width,imageData.height)}))
-  const rankedCandidates=rankPhysicalStackProposals(measured),consolidated=consolidatePhysicalStackProposals(rankedCandidates.map(candidate=>({...candidate,...expandPhysicalLogicalBounds(candidate,.3)}))),retainedIds=new Set(consolidated.candidates.map(candidate=>candidate.proposalFeatures.lineage.proposalId)),candidates=rankedCandidates.filter(candidate=>retainedIds.has(candidate.proposalFeatures.lineage.proposalId))
+  const rankedCandidates=rankPhysicalStackProposals(measured),consolidated=consolidatePhysicalStackProposals(rankedCandidates.map(candidate=>({...candidate,...expandPhysicalLogicalBounds(candidate,.3)}))),retainedIds=new Set(consolidated.candidates.map(candidate=>candidate.proposalFeatures.lineage.proposalId)),consolidatedCandidates=rankedCandidates.filter(candidate=>retainedIds.has(candidate.proposalFeatures.lineage.proposalId)),scaleModel=buildPhysicalCardScaleModel(consolidatedCandidates),classified=consolidatedCandidates.map(candidate=>({candidate,classification:classifyPhysicalProposal(candidate,scaleModel)})),candidates=classified.filter(item=>!item.classification.disposition.startsWith('reject-')).map(item=>item.candidate),classificationById=new Map(classified.map(item=>[item.candidate.proposalFeatures.lineage.proposalId,item.classification]))
   const stageRegions=(items:Array<Bounds&{score?:number}>,prefix:string)=>items.slice(0,120).map((item,index)=>({id:`${prefix}-${index+1}`,bounds:{x:item.x/scale,y:item.y/scale,width:item.width/scale,height:item.height/scale},score:item.score,aspectRatio:item.width/item.height}))
   const detectorStages=[{stage:'raw-connected-components',regions:stageRegions(components,'raw')},{stage:'geometry-filtered-components',regions:stageRegions(scored,'geometry')},{stage:'card-like-candidates',regions:stageRegions(denseWindows,'window')},{stage:'final-logical-regions',regions:stageRegions(candidates,'final')}]
   return candidates.map((candidate, index) => {
@@ -694,6 +694,8 @@ export function detectPhysicalDeckEntries(
       proposalFeatures:{...candidate.proposalFeatures,parentCandidateId:candidate.proposalFeatures.lineage.proposalId,childCandidateIds:[`${candidate.proposalFeatures.lineage.proposalId}-top-card`]},
       proposalDecision:consolidated.decisions.find(decision=>decision.proposalId===candidate.proposalFeatures.lineage.proposalId),
       proposalDecisions:index===0?consolidated.decisions:undefined,
+      proposalClassification:classificationById.get(candidate.proposalFeatures.lineage.proposalId),
+      proposalClassifications:index===0?classified.map(item=>{const logical=expandPhysicalLogicalBounds(item.candidate,.3);return{proposalId:item.candidate.proposalFeatures.lineage.proposalId,...item.classification,bounds:{x:logical.x/scale,y:logical.y/scale,width:logical.width/scale,height:logical.height/scale},source:item.candidate.proposalFeatures.proposalSource,score:item.candidate.proposalFeatures.finalScore}}):undefined,
       estimatedQuantity: 1,
       quantity: 1,
       quantityConfidence: candidate.score,
