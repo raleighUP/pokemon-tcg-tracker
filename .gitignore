@@ -15,6 +15,14 @@
 /debug-output
 /public/physical-fixtures
 
+# Physical training photos are private/local by default. Keep only structure/docs.
+/test-data/deck-image-importer/physical-training/incoming/*
+/test-data/deck-image-importer/physical-training/imported/*
+/test-data/deck-image-importer/physical-training/rejected/*
+!/test-data/deck-image-importer/physical-training/incoming/.gitkeep
+!/test-data/deck-image-importer/physical-training/imported/.gitkeep
+!/test-data/deck-image-importer/physical-training/rejected/.gitkeep
+
 # next.js
 /.next/
 /out/
