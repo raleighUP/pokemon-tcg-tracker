@@ -14,6 +14,7 @@ import {
   getComfortLabel,
   getComfortProgress,
 } from '@/utils/comfort'
+import { FEATURE_FLAGS } from '@/config/features'
 import DeckImageImporter from './DeckImageImporter'
 import type { DeckImportMetadata } from '@/types'
 
@@ -81,7 +82,7 @@ export default function AddDeckForm({
   }
 
   return (
-    <Panel className="space-y-4">
+    <Panel variant="elevated" className="space-y-4">
       <SectionHeader
         title={
           editingDeckId !== null
@@ -189,7 +190,7 @@ export default function AddDeckForm({
           </Button>
         </div>
 
-        {editingDeckId === null && (
+        {FEATURE_FLAGS.deckPhotoImport && editingDeckId === null && (
           <DeckImageImporter onSaveDeck={addImportedDeck} />
         )}
       </div>

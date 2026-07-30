@@ -1,7 +1,12 @@
 # Deck Image Recognition Pipeline
 
-This document describes the production digital deck-image path. Physical-photo
-recognition remains deferred and its strategy files are scaffolding only.
+> **Status: POST-V1 / EXPERIMENTAL.** The user-facing importer is disabled by
+> default for beta and V1. This pipeline, its fixtures, and its evaluation
+> infrastructure are preserved for continued development and do not gate V1
+> launch readiness.
+
+This document describes the digital deck-image path. Physical-photo recognition
+remains deferred and its strategy files are scaffolding only.
 
 ## Goals
 

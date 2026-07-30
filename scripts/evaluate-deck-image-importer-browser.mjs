@@ -99,9 +99,7 @@ let server = null
 let browser
 
 try {
-  if (!process.env.DECK_IMPORTER_BENCHMARK_URL && await serverAvailable('http://localhost:3000')) {
-    baseUrl = 'http://localhost:3000'
-  } else if (!await serverAvailable(baseUrl)) {
+  if (!await serverAvailable(baseUrl)) {
     server = spawn(
       process.execPath,
       [
@@ -112,7 +110,14 @@ try {
         '--port',
         String(port),
       ],
-      { cwd: repoRoot, stdio: ['ignore', 'pipe', 'pipe'] }
+      {
+        cwd: repoRoot,
+        env: {
+          ...process.env,
+          NEXT_PUBLIC_ENABLE_DECK_PHOTO_IMPORT: 'true',
+        },
+        stdio: ['ignore', 'pipe', 'pipe'],
+      }
     )
   }
   await waitForServer()

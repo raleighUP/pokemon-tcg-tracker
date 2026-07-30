@@ -83,3 +83,5 @@ Use this checklist to track Top Cut's readiness for its first iPhone device buil
 - No cross-device synchronization
 - No native share sheet yet; data export uses a browser download fallback
 - No crash analytics yet
+- Deck photo import is a post-V1 experimental feature and is not included in
+  beta/V1 launch readiness.

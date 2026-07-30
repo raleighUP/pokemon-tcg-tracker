@@ -7,6 +7,7 @@ import {
   Button,
   ConfirmationDialog,
   Panel,
+  SegmentedControl,
   SectionHeader,
 } from '@/components/ui'
 import {
@@ -27,6 +28,8 @@ import {
   CardReferenceManifest,
   getCardReferenceCacheDiagnostics,
 } from '@/lib/card-reference-cache-update'
+import { FEATURE_FLAGS } from '@/config/features'
+import type { ThemePreference } from '@/utils/theme'
 
 type Feedback = {
   tone: 'success' | 'error'
@@ -43,8 +46,12 @@ function formatImportCount(
 
 export default function SettingsPage({
   onDataChanged,
+  themePreference,
+  onThemeChange,
 }: {
   onDataChanged: () => void
+  themePreference: ThemePreference
+  onThemeChange: (theme: ThemePreference) => void
 }) {
   const fileInputRef = useRef<HTMLInputElement>(null)
   const [feedback, setFeedback] = useState<Feedback | null>(null)
@@ -190,7 +197,7 @@ export default function SettingsPage({
   const emailLink = (
     <a
       href={`mailto:${SUPPORT_EMAIL}`}
-      className="break-all font-semibold text-[#6fb2ed] underline decoration-[#6fb2ed]/40 underline-offset-4 hover:text-white"
+      className="break-all font-semibold text-[var(--link-color)] underline decoration-current/40 underline-offset-4 hover:text-[var(--text-primary)]"
     >
       {SUPPORT_EMAIL}
     </a>
@@ -205,9 +212,27 @@ export default function SettingsPage({
         title="Settings"
         description="App information, support, privacy, and local data controls."
         level={1}
+        className="page-header"
       />
 
-      <Panel className="space-y-3">
+      <Panel variant="elevated" className="space-y-3">
+        <SectionHeader
+          title="Appearance"
+          description="Choose how Top Cut looks on this device."
+          level={3}
+        />
+        <SegmentedControl
+          value={themePreference}
+          onChange={onThemeChange}
+          options={[
+            { label: 'System', value: 'system' },
+            { label: 'Dark', value: 'dark' },
+            { label: 'Light', value: 'light' },
+          ]}
+        />
+      </Panel>
+
+      <Panel variant="elevated" className="space-y-3">
         <SectionHeader title="App Info" level={3} />
         <div className="space-y-1 text-sm text-[var(--text-secondary)]">
           <p className="text-base font-semibold text-[var(--text-primary)]">Top Cut</p>
@@ -219,13 +244,17 @@ export default function SettingsPage({
         </p>
       </Panel>
 
-      <Panel className="space-y-3">
+      <Panel variant="elevated" className="space-y-3">
         <details className="group">
           <summary className="cursor-pointer list-none">
             <SectionHeader
               title="Card Database"
               level={3}
-              description="Reference data used by deck image and decklist identification."
+              description={
+                FEATURE_FLAGS.deckPhotoImport
+                  ? 'Reference data used by deck image and decklist identification.'
+                  : 'Reference data used by decklist identification.'
+              }
             />
           </summary>
           <div className="mt-3 grid gap-2 text-sm text-[var(--text-secondary)] sm:grid-cols-2">
@@ -283,7 +312,7 @@ export default function SettingsPage({
         </details>
       </Panel>
 
-      <Panel className="space-y-3">
+      <Panel variant="elevated" className="space-y-3">
         <SectionHeader title="Support" level={3} />
         <p className="text-sm text-[var(--text-secondary)]">
           Contact Email: {emailLink}
@@ -293,13 +322,13 @@ export default function SettingsPage({
         </p>
         <Link
           href={SUPPORT_PATH}
-          className="inline-flex min-h-11 items-center font-semibold text-[#6fb2ed] underline decoration-[#6fb2ed]/40 underline-offset-4 hover:text-white"
+          className="inline-flex min-h-11 items-center font-semibold text-[var(--link-color)] underline decoration-current/40 underline-offset-4 hover:text-[var(--text-primary)]"
         >
           Visit Support
         </Link>
       </Panel>
 
-      <Panel className="space-y-3">
+      <Panel variant="elevated" className="space-y-3">
         <SectionHeader title="Legal Disclaimer" level={3} />
         <div className="space-y-3 text-sm leading-6 text-[var(--text-muted)]">
           <p>Top Cut is an independent tournament tracking and deck analysis tool.</p>
@@ -315,7 +344,7 @@ export default function SettingsPage({
         </div>
       </Panel>
 
-      <Panel className="space-y-3">
+      <Panel variant="elevated" className="space-y-3">
         <SectionHeader title="Privacy" level={3} />
         <div className="space-y-3 text-sm leading-6 text-[var(--text-muted)]">
           <p>
@@ -333,13 +362,13 @@ export default function SettingsPage({
         </div>
         <Link
           href={PRIVACY_POLICY_PATH}
-          className="inline-flex min-h-11 items-center font-semibold text-[#6fb2ed] underline decoration-[#6fb2ed]/40 underline-offset-4 hover:text-white"
+          className="inline-flex min-h-11 items-center font-semibold text-[var(--link-color)] underline decoration-current/40 underline-offset-4 hover:text-[var(--text-primary)]"
         >
           View Privacy Policy
         </Link>
       </Panel>
 
-      <Panel className="space-y-4">
+      <Panel variant="elevated" className="space-y-4">
         <SectionHeader
           title="Data Controls"
           level={3}
@@ -351,8 +380,8 @@ export default function SettingsPage({
             role={feedback.tone === 'error' ? 'alert' : 'status'}
             className={`rounded-xl px-4 py-3 text-sm font-medium ${
               feedback.tone === 'success'
-                ? 'bg-[rgba(47,116,59,0.18)] text-[#8ed49a]'
-                : 'bg-[rgba(160,24,24,0.18)] text-[#ff9a9a]'
+                ? 'border border-[var(--success-border)] bg-[var(--success-soft)] text-[var(--success-text)]'
+                : 'border border-[var(--loss-border)] bg-[var(--loss-soft)] text-[var(--loss-text)]'
             }`}
           >
             {feedback.message}
@@ -379,7 +408,7 @@ export default function SettingsPage({
           Export downloads a JSON backup file. Inside the installed app, your device may open or save the file instead of showing a share sheet.
         </p>
 
-        <div className="border-t border-white/10 pt-4">
+        <div className="border-t border-[var(--divider)] pt-4">
           <Button
             tone="danger"
             onClick={() => setClearDialogOpen(true)}
