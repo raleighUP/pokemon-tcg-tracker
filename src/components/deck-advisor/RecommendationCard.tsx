@@ -12,6 +12,7 @@ import {
   cn,
 } from '@/components/ui'
 import { DeckAdvisorResult } from './types'
+import DeckIdentity from '@/components/DeckIdentity'
 
 type Props = {
   result: DeckAdvisorResult
@@ -77,15 +78,19 @@ export default function RecommendationCard({
                     </span>
                   </div>
 
-                  <p
+                  <DeckIdentity
+                    name={result.deckName}
+                    spriteSource={result.archetype}
+                    size={isTopPick ? 'expanded' : 'standard'}
+                    maxSprites={2}
+                    bareSprites
                     className={`break-words text-white ${
                       isTopPick
                         ? 'text-[1.3rem] font-[780] leading-tight'
                         : 'type-section-title'
                     }`}
-                  >
-                    {result.deckName}
-                  </p>
+                    textClassName="break-words"
+                  />
 
                   <p className="type-metadata mt-1 break-words text-[var(--text-muted)]">
                     {result.archetype}

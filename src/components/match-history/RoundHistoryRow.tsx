@@ -9,8 +9,11 @@ import {
   SwipeActionRow,
 } from '@/components/ui'
 import RoundEditForm from './RoundEditForm'
-
-type RoundResult = 'W' | 'L' | 'T'
+import DeckIdentity from '@/components/DeckIdentity'
+import {
+  getMatchDisplayResult,
+  type RoundResult,
+} from '@/utils/match-results'
 
 type Props = {
   match: Match
@@ -30,9 +33,15 @@ type Props = {
 }
 
 const roundToneClasses: Record<RoundResult, string> = {
-  W: 'bg-[rgba(47,116,59,0.16)] text-[#b8dfbe] ring-[rgba(47,116,59,0.35)]',
-  L: 'bg-[rgba(160,24,24,0.16)] text-[#e9b6b6] ring-[rgba(160,24,24,0.35)]',
-  T: 'bg-[rgba(220,192,65,0.14)] text-[#f4e392] ring-[rgba(220,192,65,0.35)]',
+  W: 'bg-[var(--success-soft)] text-[var(--success-text)] ring-[var(--success-border)]',
+  L: 'bg-[var(--loss-soft)] text-[var(--loss-text)] ring-[var(--loss-border)]',
+  T: 'bg-[var(--tie-soft)] text-[var(--tie-text)] ring-[var(--tie-border)]',
+}
+
+const roundCardToneClasses: Record<RoundResult, string> = {
+  W: 'border-[var(--success-border)] bg-[var(--success-soft)]',
+  L: 'border-[var(--loss-border)] bg-[var(--loss-soft)]',
+  T: 'border-[var(--tie-border)] bg-[var(--tie-soft)]',
 }
 
 const resultLabels: Record<RoundResult, string> = {
@@ -41,15 +50,11 @@ const resultLabels: Record<RoundResult, string> = {
   T: 'Tie',
 }
 
-function DiceMark({ active }: { active: boolean }) {
+function DiceMark() {
   return (
     <span
-      aria-label={active ? 'Won dice roll' : 'Did not win dice roll'}
-      className={`inline-flex h-5 w-5 items-center justify-center rounded-full border ${
-        active
-          ? 'border-[var(--color-primary)] bg-[var(--color-primary)] text-white'
-          : 'border-white/10 bg-white/5 text-[var(--text-muted)]'
-      }`}
+      aria-label="Won opening toss"
+      className="inline-flex h-5 w-5 items-center justify-center rounded-full border border-[var(--color-primary)] bg-[var(--color-primary)] text-white"
     >
       <svg
         aria-hidden="true"
@@ -94,6 +99,7 @@ export default function RoundHistoryRow({
   const [deleteConfirmationOpen, setDeleteConfirmationOpen] = useState(false)
   const detailsOpen = openNotesId === openKey
   const hasNotes = Boolean(match.notes?.trim())
+  const displayResult = getMatchDisplayResult(match)
 
   const startEdit = () => {
     setEditingMatch(match)
@@ -119,7 +125,7 @@ export default function RoundHistoryRow({
   }
 
   return (
-    <div className="rounded-2xl bg-[#17171a]">
+    <div className={`overflow-hidden rounded-2xl border ${roundCardToneClasses[roundResult]}`}>
       <SwipeActionRow
         open={actionsOpen}
         onOpenChange={setActionsOpen}
@@ -136,79 +142,80 @@ export default function RoundHistoryRow({
           },
         ]}
         surface="solid"
-        contentClassName="shadow-[0_2px_0_#17171a]"
+        contentClassName="bg-transparent"
       >
         <button
           type="button"
           onClick={() => setOpenNotesId(detailsOpen ? null : openKey)}
-          className="grid min-h-[58px] w-full grid-cols-[2rem_minmax(0,1fr)_auto] items-center gap-2 rounded-2xl px-3 py-2.5 text-left transition-colors duration-[var(--motion-fast)] hover:bg-white/[0.04]"
+          className="grid min-h-[58px] w-full grid-cols-[1.65rem_minmax(0,1fr)_auto] items-center gap-1.5 rounded-2xl px-2.5 py-2 text-left transition-colors duration-[var(--motion-fast)] hover:bg-white/[0.04] sm:gap-2 sm:px-3"
           aria-expanded={detailsOpen}
+          aria-label={`${roundLabel}, ${match.alternateOutcome === 'bye' ? 'No opponent' : match.opponentDeck}, ${displayResult}, ${resultLabels[roundResult]}. ${detailsOpen ? 'Hide' : 'Show'} round details`}
         >
           <span className="flex flex-col items-start gap-1">
             <span className="type-metadata text-[var(--text-secondary)]">
               {roundLabel}
             </span>
-            {hasNotes && (
-              <span
-                aria-hidden="true"
-                className={`ml-0.5 h-2 w-2 border-b-2 border-r-2 border-[var(--text-muted)] transition-transform duration-[var(--motion-base)] ${
-                  detailsOpen ? 'rotate-[-135deg]' : 'rotate-45'
-                }`}
-              />
-            )}
           </span>
 
           <span className="min-w-0">
-            <span className="type-card-title block truncate text-[var(--text-primary)]">
-              {match.opponentDeck}
-            </span>
-            <span className="mt-1 flex flex-nowrap gap-1.5 overflow-hidden pr-1">
-              {match.games.map((game, index) => (
-                <span
-                  key={`${game}-${index}`}
-                  className="inline-flex shrink-0 items-center gap-1"
-                >
-                  <ResultPill
-                    result={game}
-                    className="h-6 min-w-6 px-1.5 text-[11px]"
-                  />
-                  <DiceMark active={Boolean(match.diceRollWins?.[index])} />
-                </span>
-              ))}
-            </span>
+            <DeckIdentity
+              name={
+                match.alternateOutcome === 'bye'
+                  ? 'No opponent'
+                  : match.opponentDeck
+              }
+              spriteSource={match.opponentDeck}
+              size="standard"
+              maxSprites={3}
+              spritePosition="end"
+              bareSprites
+              className="type-card-title text-[var(--text-primary)]"
+            />
           </span>
 
-          <span className="flex items-center gap-2">
+          <span className="flex shrink-0 items-center gap-1.5">
             <StatusBadge
-              className={`px-2.5 py-1 ring-1 ${roundToneClasses[roundResult]}`}
+              className={`whitespace-nowrap px-2 py-1 ring-1 ${roundToneClasses[roundResult]}`}
             >
-              {resultLabels[roundResult]}
+              {match.alternateOutcome
+                ? displayResult.toUpperCase()
+                : displayResult}
             </StatusBadge>
+            <span
+              aria-hidden="true"
+              className={`h-2 w-2 shrink-0 border-b-2 border-r-2 border-[var(--text-muted)] transition-transform duration-[var(--motion-base)] ${
+                detailsOpen ? 'rotate-[-135deg]' : 'rotate-45'
+              }`}
+            />
           </span>
         </button>
       </SwipeActionRow>
 
       <DisclosureContent open={detailsOpen}>
-        <NestedPanel className="mx-3 mb-3 mt-1 rounded-2xl border-white/8 bg-white/[0.035] p-3">
+        <NestedPanel className="mx-2 mb-2 mt-0 rounded-xl border-white/8 bg-white/[0.035] p-3 sm:mx-3 sm:mb-3">
           <div className="space-y-2">
+            {match.alternateOutcome && (
+              <div className="type-helper text-[var(--text-secondary)]">
+                {match.alternateOutcome === 'intentionalDraw'
+                  ? 'Intentional draw — no games played.'
+                  : match.alternateOutcome === 'noShow'
+                    ? 'Opponent no show — tournament win, no games played.'
+                    : 'Bye — tournament win, no opponent or games recorded.'}
+              </div>
+            )}
             {match.games.map((game, index) => (
               <div
                 key={`${game}-${index}`}
-                className="flex items-center justify-between gap-3"
+                className="grid grid-cols-[3.5rem_1.5rem_minmax(0,1fr)_auto] items-center gap-2"
               >
                 <span className="type-metadata text-[var(--text-muted)]">
                   Game {index + 1}
                 </span>
-                <span className="flex items-center gap-2">
-                  <ResultPill
-                    result={game}
-                    className="h-6 min-w-6 px-1.5 text-[11px]"
-                  />
-                  <span className="type-metadata text-[var(--text-secondary)]">
-                    Went {match.gameStarts[index] ?? '1st'}
-                  </span>
-                  <DiceMark active={Boolean(match.diceRollWins?.[index])} />
+                {match.diceRollWins?.[index] ? <DiceMark /> : <span />}
+                <span className="type-metadata truncate text-[var(--text-secondary)]">
+                  Went {match.gameStarts[index] ?? '1st'}
                 </span>
+                <ResultPill result={game} className="h-6 min-w-6 px-1.5 text-[11px]" />
               </div>
             ))}
 

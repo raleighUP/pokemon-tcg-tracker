@@ -139,6 +139,7 @@ export type BrowserDeckImageRecognitionResult = {
     proposalDecisions?: DeckEntryCandidate['proposalDecisions']
     proposalClassification?: DeckEntryCandidate['proposalClassification']
     proposalClassifications?: DeckEntryCandidate['proposalClassifications']
+    proposalRefinement?: DeckEntryCandidate['proposalRefinement']
     status:
       | 'detected'
       | 'rejected'
@@ -1865,6 +1866,7 @@ export async function recognizeUploadedDeckImageLocally(
         proposalDecisions: candidate.proposalDecisions,
         proposalClassification: candidate.proposalClassification,
         proposalClassifications: candidate.proposalClassifications,
+        proposalRefinement: candidate.proposalRefinement,
         status: 'rejected',
         topCandidateMatches: [],
         closeMatch: false,
@@ -1941,6 +1943,7 @@ export async function recognizeUploadedDeckImageLocally(
         proposalDecisions: candidate.proposalDecisions,
         proposalClassification: candidate.proposalClassification,
         proposalClassifications: candidate.proposalClassifications,
+        proposalRefinement: candidate.proposalRefinement,
         status: 'unresolved',
         topCandidateMatches,
         closeMatch: false,
@@ -1990,6 +1993,7 @@ export async function recognizeUploadedDeckImageLocally(
         proposalDecisions: candidate.proposalDecisions,
         proposalClassification: candidate.proposalClassification,
         proposalClassifications: candidate.proposalClassifications,
+        proposalRefinement: candidate.proposalRefinement,
         status: 'low-confidence',
         topMatch: `${bestMatch.name} ${bestMatch.setCode} ${bestMatch.cardNumber}`,
         topCandidateMatches,

@@ -244,3 +244,151 @@ Things the redesign MUST NOT become.
 Cooler looking app that does a worse job solving the problem
 Cool looking app thats clunky and not effective
 
+# Light Mode Design System Addendum
+
+## Goal
+
+Light mode should feel like the inverse of the current premium dark theme, not
+a generic white dashboard. Keep the same mobile-first, polished, glassy product
+feel, but translate depth, contrast, and color into a bright interface.
+
+## Core Direction
+
+Dark mode is black-first with glass surfaces, soft borders, and glowing
+accents.
+
+Light mode should be:
+
+* Warm white-first
+* Soft card-based
+* Slightly frosted, not flat
+* High contrast without harsh black text
+* Premium app-like, not default web UI
+
+## Light Mode Color Tokens
+
+```css
+:root[data-theme='light'] {
+  --app-bg: #f6f3ee;
+  --app-bg-soft: #fbfaf7;
+
+  --surface-primary: rgba(255, 255, 255, 0.82);
+  --surface-secondary: rgba(248, 245, 239, 0.9);
+  --surface-raised: rgba(255, 255, 255, 0.94);
+
+  --border-soft: rgba(32, 28, 24, 0.08);
+  --border-strong: rgba(32, 28, 24, 0.14);
+
+  --text-primary: #181512;
+  --text-secondary: #5f5a52;
+  --text-muted: #8b8378;
+
+  --accent-primary: #176bb5;
+  --accent-primary-soft: rgba(23, 107, 181, 0.12);
+
+  --success: #16834a;
+  --success-soft: rgba(22, 131, 74, 0.12);
+
+  --danger: #c83532;
+  --danger-soft: rgba(200, 53, 50, 0.12);
+
+  --warning: #a66b00;
+  --warning-soft: rgba(166, 107, 0, 0.14);
+
+  --shadow-soft: 0 18px 40px rgba(31, 24, 16, 0.08);
+  --shadow-raised: 0 24px 60px rgba(31, 24, 16, 0.12);
+}
+```
+
+## Background
+
+Use a warm off-white base instead of pure white.
+
+```css
+background:
+  radial-gradient(circle at top left, rgba(23, 107, 181, 0.07), transparent 34%),
+  linear-gradient(180deg, #fbfaf7 0%, #f6f3ee 100%);
+```
+
+Avoid a pure white page background.
+
+## Surfaces
+
+Dark mode glass panels become bright frosted panels.
+
+Primary cards use `var(--surface-primary)`, `var(--border-soft)`,
+`var(--shadow-soft)`, and an 18px backdrop blur. Nested cards use the quieter
+secondary surface. Raised overlays use the strongest white surface, border,
+and shadow tokens.
+
+## Text
+
+Do not use pure black unless absolutely necessary. Primary text should be deep
+espresso or charcoal, secondary text warm gray, and muted text soft taupe-gray.
+Headings stay confident while helper text remains softer but readable.
+
+## Navigation
+
+Bottom navigation becomes a floating white or frosted dock with a soft warm
+shadow. The active item uses a subtle blue tint and `var(--accent-primary)`;
+inactive items use `var(--text-muted)`.
+
+## Buttons
+
+Primary buttons retain the brand blue, white text, and a restrained blue shadow.
+Secondary buttons use a translucent white surface, soft border, and primary
+text. Destructive buttons avoid heavy fills except for confirmed dangerous
+actions.
+
+## Inputs
+
+Light inputs feel embedded rather than like default outlined forms. Use a
+slightly cooler inset surface, a stronger warm-gray border, primary text, and a
+blue-tinted focus ring. Controls should have visibly more contrast than their
+parent cards.
+
+## Match Result Colors
+
+Win:
+
+```css
+background: rgba(22, 131, 74, 0.1);
+color: #11663b;
+border-color: rgba(22, 131, 74, 0.2);
+```
+
+Loss:
+
+```css
+background: rgba(200, 53, 50, 0.1);
+color: #9f2928;
+border-color: rgba(200, 53, 50, 0.2);
+```
+
+Tie:
+
+```css
+background: rgba(166, 107, 0, 0.12);
+color: #805300;
+border-color: rgba(166, 107, 0, 0.2);
+```
+
+## Motion
+
+Motion rules remain identical between themes. Light mode adds no extra
+animation, and reduced-motion behavior remains required.
+
+## Implementation Notes
+
+1. Add CSS theme tokens for light mode.
+2. Keep the existing component class structure.
+3. Replace hard-coded dark colors with semantic variables.
+4. Add a Settings toggle for Dark, Light, and System.
+5. Persist theme preference in localStorage.
+6. Default to system preference.
+
+## Quality Bar
+
+Light mode should feel like the same app in daylight: premium, compact,
+mobile-first, not sterile, not pure white, and not Tailwind default.
+

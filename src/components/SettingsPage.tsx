@@ -30,6 +30,7 @@ import {
 } from '@/lib/card-reference-cache-update'
 import { FEATURE_FLAGS } from '@/config/features'
 import type { ThemePreference } from '@/utils/theme'
+import { currentStandardFormat } from '@/utils/current-format'
 
 type Feedback = {
   tone: 'success' | 'error'
@@ -301,6 +302,18 @@ export default function SettingsPage({
                 {cardReferenceDiagnostics?.source === 'downloaded'
                   ? 'Bundled available'
                   : 'Using bundled'}
+              </span>
+            </p>
+            <p>
+              Current format:{' '}
+              <span className="font-semibold text-[var(--text-primary)]">
+                {currentStandardFormat.label}
+              </span>
+            </p>
+            <p>
+              Format data:{' '}
+              <span className="font-semibold text-[var(--text-primary)]">
+                {currentStandardFormat.fallback ? 'Verified fallback' : 'Generated'}
               </span>
             </p>
           </div>

@@ -1,4 +1,23 @@
+import type { TournamentType } from '@/types'
+
 export type EventType = 'challenge' | 'cup' | 'regional'
+export const TOURNAMENT_TYPE_OPTIONS: ReadonlyArray<{
+  value: TournamentType
+  label: string
+}> = [
+  { value: 'online', label: 'Online' },
+  { value: 'local', label: 'Local' },
+  { value: 'league-challenge', label: 'League Challenge' },
+  { value: 'league-cup', label: 'League Cup' },
+  { value: 'regional', label: 'Regional' },
+  { value: 'international', label: 'International Championships' },
+  { value: 'worlds', label: 'World Championships' },
+]
+
+export function getTournamentTypeLabel(value: string) {
+  return TOURNAMENT_TYPE_OPTIONS.find((option) => option.value === value)?.label
+    ?? value
+}
 
 export type TournamentStructure = {
   eventType: EventType

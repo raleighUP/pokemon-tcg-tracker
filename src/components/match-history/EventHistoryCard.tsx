@@ -15,12 +15,13 @@ import {
 } from '@/components/ui'
 import EventEditForm from './EventEditForm'
 import RoundHistoryRow from './RoundHistoryRow'
+import DeckIdentity from '@/components/DeckIdentity'
 import {
   EventType,
+  getTournamentTypeLabel,
   getTournamentStructure,
 } from '@/utils/tournament'
-
-type RoundResult = 'W' | 'L' | 'T'
+import { getEventRecord, getRoundResult } from '@/utils/match-results'
 
 type Props = {
   event: EventRecord
@@ -62,16 +63,6 @@ type Props = {
     playerCount?: number
     nextRound: number
   }) => void
-}
-
-function getRoundResult(match: Match): RoundResult {
-  const wins = match.games.filter((game) => game === 'W').length
-  const losses = match.games.filter((game) => game === 'L').length
-
-  if (wins > losses) return 'W'
-  if (losses > wins) return 'L'
-
-  return 'T'
 }
 
 function toStructureEventType(eventType: string): EventType | null {
@@ -166,21 +157,11 @@ export default function EventHistoryCard({
       event.prizing?.trim()
   )
 
-  let totalWins = 0
-  let totalLosses = 0
-  let totalTies = 0
-
-  sortedMatches.forEach((match) => {
-    const roundResult = getRoundResult(match)
-
-    if (roundResult === 'W') totalWins++
-    else if (roundResult === 'L') totalLosses++
-    else totalTies++
-  })
-
-  const eventRecord = `${totalWins}-${totalLosses}${
-    totalTies > 0 ? `-${totalTies}` : ''
-  }`
+  const {
+    wins: totalWins,
+    losses: totalLosses,
+    label: eventRecord,
+  } = getEventRecord(sortedMatches)
   const eventWinRate =
     sortedMatches.length === 0
       ? 0
@@ -190,10 +171,10 @@ export default function EventHistoryCard({
   ).length
   const recordToneClass =
     totalWins > totalLosses
-      ? 'bg-[rgba(47,116,59,0.16)] text-[#b8dfbe] ring-[rgba(47,116,59,0.35)]'
+      ? 'bg-[var(--success-soft)] text-[var(--success-text)] ring-[var(--success-border)]'
       : totalLosses > totalWins
-      ? 'bg-[rgba(160,24,24,0.16)] text-[#e9b6b6] ring-[rgba(160,24,24,0.35)]'
-      : 'bg-[rgba(220,192,65,0.14)] text-[#f4e392] ring-[rgba(220,192,65,0.35)]'
+      ? 'bg-[var(--loss-soft)] text-[var(--loss-text)] ring-[var(--loss-border)]'
+      : 'bg-[var(--tie-soft)] text-[var(--tie-text)] ring-[var(--tie-border)]'
 
   const startEventEdit = () => {
     setEventSwipeOpen(false)
@@ -250,7 +231,7 @@ export default function EventHistoryCard({
                 },
               ]}
               surface="solid"
-              className="mx-3 mt-3"
+              className="mx-2 mt-2 sm:mx-3 sm:mt-3"
             >
               <button
                 type="button"
@@ -259,27 +240,33 @@ export default function EventHistoryCard({
                     setFinalDetailsOpen((open) => !open)
                   }
                 }}
-                className="motion-press w-full p-3.5 text-left hover:bg-white/[0.04]"
+                className="motion-press w-full p-2.5 text-left hover:bg-white/[0.04] sm:p-3.5"
                 aria-expanded={isFinalized ? finalDetailsOpen : undefined}
               >
                 <div className="grid grid-cols-[minmax(0,1fr)_auto_auto] gap-x-3 gap-y-1">
-                  <h3 className="truncate text-[1.25rem] font-[760] leading-tight text-white">
+                  <h3 className="truncate text-[1.25rem] font-[760] leading-tight text-[var(--text-primary)]">
                     {event.eventName}
                   </h3>
                   <span className="type-card-title truncate text-[var(--text-secondary)]">
-                    {event.eventType}
+                    {getTournamentTypeLabel(event.eventType)}
                   </span>
                   <StatusBadge
                     className={cn(
-                      'justify-self-end px-2.5 py-1 ring-1',
+                      'justify-self-end px-3 py-1.5 text-base font-extrabold ring-1',
                       recordToneClass
                     )}
                   >
                     {eventRecord}
                   </StatusBadge>
-                  <span className="type-card-title truncate text-[var(--text-secondary)]">
-                    {event.deck}
-                  </span>
+                  <DeckIdentity
+                    name={event.deck}
+                    spriteSource={
+                      eventDeck?.variant || eventDeck?.archetype || event.deck
+                    }
+                    size="standard"
+                    maxSprites={2}
+                    className="type-card-title text-[var(--text-secondary)]"
+                  />
                   <span className="type-metadata truncate text-[var(--text-muted)]">
                     {eventDeck?.archetype || eventDeck?.variant || 'Other'}
                   </span>
@@ -302,7 +289,7 @@ export default function EventHistoryCard({
                         <span className="type-metadata block text-[var(--text-muted)]">
                           Placement
                         </span>
-                        <span className="type-card-title mt-1 block text-white">
+                        <span className="type-card-title mt-1 block text-[var(--text-primary)]">
                           {event.finalPlacement || '-'}
                         </span>
                       </span>
@@ -310,7 +297,7 @@ export default function EventHistoryCard({
                         <span className="type-metadata block text-[var(--text-muted)]">
                           Players
                         </span>
-                        <span className="type-card-title mt-1 block text-white">
+                        <span className="type-card-title mt-1 block text-[var(--text-primary)]">
                           {event.playerCount ?? '-'}
                         </span>
                       </span>
@@ -318,7 +305,7 @@ export default function EventHistoryCard({
                         <span className="type-metadata block text-[var(--text-muted)]">
                           CP
                         </span>
-                        <span className="type-card-title mt-1 block text-white">
+                        <span className="type-card-title mt-1 block text-[var(--text-primary)]">
                           {event.championshipPoints || '-'}
                         </span>
                       </span>
@@ -326,7 +313,7 @@ export default function EventHistoryCard({
                         <span className="type-metadata block text-[var(--text-muted)]">
                           Prizing
                         </span>
-                        <span className="type-card-title mt-1 block text-white">
+                        <span className="type-card-title mt-1 block text-[var(--text-primary)]">
                           {event.prizing || '-'}
                         </span>
                       </span>
@@ -336,7 +323,7 @@ export default function EventHistoryCard({
               </button>
             </SwipeActionRow>
 
-            <div className={cn('p-3.5', isFinalized ? 'pt-1' : 'pt-3')}>
+            <div className={cn('px-2.5 pb-2.5 sm:px-3.5 sm:pb-3.5', isFinalized ? 'pt-1' : 'pt-2')}>
               <button
                 type="button"
                 onClick={toggleCollapsed}
@@ -400,7 +387,7 @@ export default function EventHistoryCard({
 
         <DisclosureContent
           open={!isCollapsed || editingEvent === event.eventName}
-          innerClassName="mx-3 mb-3 grid gap-2"
+          innerClassName="mx-2 mb-2 grid gap-2 sm:mx-3 sm:mb-3"
         >
           {sortedMatches.map((match) => {
             const roundResult = getRoundResult(match)

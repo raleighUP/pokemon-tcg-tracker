@@ -1,0 +1,6 @@
+{
+  "description": "Manual Japanese visual-reference mappings for validation fixtures. Keys under rows use the normalized TCGL row identity from expected.txt. Add tcgdexId only when the Japanese print is verified. Add tcglSetCode/tcglCardNumber only when the English TCGL output print is reliable.",
+  "source": "TCGdex Japanese card records and images",
+  "rows": {},
+  "names": {}
+}

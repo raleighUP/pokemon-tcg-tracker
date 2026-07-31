@@ -255,6 +255,12 @@ function normalizeMatch(value: unknown): Match | null {
         )
       : undefined,
     finalResult: typeof value.finalResult === 'string' ? value.finalResult : '',
+    alternateOutcome:
+      value.alternateOutcome === 'intentionalDraw' ||
+      value.alternateOutcome === 'noShow' ||
+      value.alternateOutcome === 'bye'
+        ? value.alternateOutcome
+        : undefined,
     notes: typeof value.notes === 'string' ? value.notes : undefined,
   }
 }

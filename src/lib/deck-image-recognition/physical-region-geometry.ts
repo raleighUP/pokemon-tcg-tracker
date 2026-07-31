@@ -11,6 +11,7 @@ export type PhysicalProposalDecision={proposalId:string;decision:'retained'|'dup
 export type PhysicalProposalDisposition='retain'|'reject-background'|'reject-fragment'|'reject-merged'|'reject-duplicate'|'preserve-near-miss'|'uncertain'
 export type PhysicalProposalClassification={disposition:PhysicalProposalDisposition;confidence:number;reasons:string[]}
 export type PhysicalCardScaleModel={medianWidth:number;medianHeight:number;medianArea:number;orientation:number;confidence:number}
+export type PhysicalProposalRefinement={sourceProposalId:string;refinementType:'horizontal-expand'|'vertical-expand'|'uniform-expand'|'translate'|'stack-expand'|'perspective-normalize'|'aspect-normalize';originalBounds:PhysicalBounds;refinedBounds:PhysicalBounds;originalScore:number;refinedScore:number;evidence:string[]}
 export const PHYSICAL_WINDOW_WIDTH_RATIOS=[.06,.1,.14,.18,.22,.26] as const
 export const PHYSICAL_WINDOW_HEIGHT_RATIOS=[.07,.11,.15,.2,.26,.34] as const
 
@@ -70,4 +71,16 @@ export function classifyPhysicalProposal<T extends PhysicalBounds & {proposalFea
   if((areaRatio<.008&&aspect>2.5)||(areaRatio<.006&&aspect<.7))return{disposition:'reject-fragment',confidence:.84,reasons:['undersized-fragment','implausible-card-footprint']}
   if(features.finalScore<.75||features.borderCompleteness<.7)return{disposition:'preserve-near-miss',confidence:.7,reasons:['likely-near-miss','correctable-border-or-score']}
   return{disposition:'retain',confidence:scale.confidence>=.5?.88:.76,reasons:['plausible-card-or-stack-geometry','dominant-scale-compatible']}
+}
+
+export function refinePhysicalLogicalBounds<T extends PhysicalBounds & {proposalFeatures:PhysicalProposalRankingFeatures}>(candidate:T,neighbors:PhysicalBounds[],score:(bounds:PhysicalBounds)=>number):{bounds:PhysicalBounds;refinement?:PhysicalProposalRefinement}{
+  const original=expandPhysicalLogicalBounds(candidate,.3),expanded=(fx:number,fy:number)=>({x:original.x-original.width*(fx-1)/2,y:original.y-original.height*(fy-1)/2,width:original.width*fx,height:original.height*fy})
+  const variants:[PhysicalProposalRefinement['refinementType'],PhysicalBounds,string[]][]=[
+    ['horizontal-expand',expanded(1.12,1),['opposing-vertical-edge-support']],['vertical-expand',expanded(1,1.12),['opposing-horizontal-edge-support']],['uniform-expand',expanded(1.1,1.1),['perimeter-support','dominant-scale-compatible']],
+    ['aspect-normalize',expanded(.9,.9),['dominant-scale-compatible','oversized-envelope-reduced']],
+    ...[.12,.25,.4].flatMap(distance=>[-1,0,1].flatMap(dx=>[-1,0,1].filter(dy=>dx||dy).map(dy=>['translate',{...original,x:original.x+dx*Math.min(candidate.width,candidate.height)*distance,y:original.y+dy*Math.min(candidate.width,candidate.height)*distance},['local-perimeter-improvement','bounded-translation-search']] as [PhysicalProposalRefinement['refinementType'],PhysicalBounds,string[]])))
+  ]
+  const originalScore=score(original),centerInside=(bounds:PhysicalBounds,neighbor:PhysicalBounds)=>{const cx=neighbor.x+neighbor.width/2,cy=neighbor.y+neighbor.height/2;return cx>bounds.x&&cx<bounds.x+bounds.width&&cy>bounds.y&&cy<bounds.y+bounds.height},safe=variants.filter(([,bounds])=>!neighbors.some(neighbor=>(centerInside(bounds,neighbor)&&!centerInside(original,neighbor))||physicalIoU(bounds,neighbor)>physicalIoU(original,neighbor)+.02)),ranked=safe.map(([type,bounds,evidence])=>({type,bounds,evidence,value:score(bounds)})).sort((a,b)=>b.value-a.value),best=ranked[0]
+  if(!best||best.value<originalScore+.025)return{bounds:original}
+  return{bounds:best.bounds,refinement:{sourceProposalId:candidate.proposalFeatures.lineage?.proposalId??'unknown',refinementType:best.type,originalBounds:original,refinedBounds:best.bounds,originalScore,refinedScore:best.value,evidence:[...best.evidence,'neighbor-centers-protected']}}
 }

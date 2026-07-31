@@ -3,6 +3,7 @@ export const PHYSICAL_ANNOTATION_SCHEMA_VERSION = 1
 export type NormalizedBounds = { x: number; y: number; width: number; height: number }
 export type NormalizedPoint = { x: number; y: number }
 export type RegionPresentation = 'single' | 'offset-stack' | 'individual-copies' | 'mixed' | 'unknown'
+export type TrainingReviewStatus = 'draft' | 'reviewed' | 'locked'
 
 export interface PhysicalRegionAnnotation {
   id: string
@@ -30,6 +31,14 @@ export interface PhysicalRegionAnnotation {
     partialOcclusion?: boolean
   }
   notes?: string
+  training?: {
+    occlusionLevel?: 'none' | 'low' | 'medium' | 'high'
+    truncation?: boolean
+    perspectiveSeverity?: 'low' | 'medium' | 'high'
+    difficult?: boolean
+    ignoreForTraining?: boolean
+    reviewStatus?: TrainingReviewStatus
+  }
 }
 
 export interface PhysicalFixtureAnnotations {
@@ -45,6 +54,27 @@ export interface PhysicalFixtureAnnotations {
     background?: string
     sleeves?: 'none' | 'matte' | 'glossy' | 'mixed' | 'unknown'
     notes?: string
+  }
+  trainingMetadata?: {
+    imageId: string
+    deckId?: string
+    captureSessionId?: string
+    physicalLayoutId?: string
+    sourceImageFamily?: string
+    sourceType: 'real-photo' | 'synthetic'
+    deviceClass?: string
+    orientation: 'portrait' | 'landscape'
+    lightingCategory?: string
+    backgroundCategory?: string
+    cameraAngleCategory?: string
+    cardLayoutCategory?: string
+    annotator?: string
+    reviewedBy?: string
+    reviewStatus: TrainingReviewStatus
+    qualityNotes?: string
+    annotationStartedAt?: string
+    annotationCompletedAt?: string
+    reviewMinutes?: number
   }
   regions: PhysicalRegionAnnotation[]
   createdAt: string

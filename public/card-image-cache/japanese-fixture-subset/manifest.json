@@ -1,0 +1,389 @@
+{
+  "generatedAt": "2026-07-13T18:13:38.015Z",
+  "source": {
+    "provider": "tcgdex",
+    "apiBaseUrl": "https://api.tcgdex.net/v2",
+    "sourceLanguage": "japanese",
+    "expectedFixtureRoot": "test-data\\deck-image-importer",
+    "mappingPath": "test-data\\deck-image-importer\\japanese-reference-mapping.json",
+    "referenceCachePath": "data\\card-reference-cache.json"
+  },
+  "architecture": {
+    "primaryPath": "local-image-matching",
+    "aiVisionProviders": false,
+    "descriptors": [
+      "perceptual-hash",
+      "color-histogram",
+      "template-image-similarity",
+      "future-feature-matching-placeholder"
+    ],
+    "normalization": "japanese-visual-reference-to-english-canonical-tcgl-row"
+  },
+  "cards": [],
+  "unmatched": [
+    {
+      "row": {
+        "category": "Pokemon",
+        "quantity": 4,
+        "name": "Abra",
+        "setCode": "MEG",
+        "cardNumber": "54",
+        "fixtures": [
+          "alakazam"
+        ]
+      },
+      "englishReferenceId": "me1-54",
+      "reason": "No Japanese TCGdex mapping configured for this expected row."
+    },
+    {
+      "row": {
+        "category": "Pokemon",
+        "quantity": 4,
+        "name": "Kadabra",
+        "setCode": "MEG",
+        "cardNumber": "55",
+        "fixtures": [
+          "alakazam"
+        ]
+      },
+      "englishReferenceId": "me1-55",
+      "reason": "No Japanese TCGdex mapping configured for this expected row."
+    },
+    {
+      "row": {
+        "category": "Pokemon",
+        "quantity": 3,
+        "name": "Alakazam",
+        "setCode": "MEP",
+        "cardNumber": "9",
+        "fixtures": [
+          "alakazam"
+        ]
+      },
+      "englishReferenceId": "base4-1",
+      "reason": "No Japanese TCGdex mapping configured for this expected row."
+    },
+    {
+      "row": {
+        "category": "Pokemon",
+        "quantity": 3,
+        "name": "Dunsparce",
+        "setCode": "JTG",
+        "cardNumber": "120",
+        "fixtures": [
+          "alakazam"
+        ]
+      },
+      "englishReferenceId": "sv9-120",
+      "reason": "No Japanese TCGdex mapping configured for this expected row."
+    },
+    {
+      "row": {
+        "category": "Pokemon",
+        "quantity": 2,
+        "name": "Dudunsparce",
+        "setCode": "PRE",
+        "cardNumber": "80",
+        "fixtures": [
+          "alakazam"
+        ]
+      },
+      "englishReferenceId": "sv8pt5-80",
+      "reason": "No Japanese TCGdex mapping configured for this expected row."
+    },
+    {
+      "row": {
+        "category": "Pokemon",
+        "quantity": 1,
+        "name": "Shaymin",
+        "setCode": "DRI",
+        "cardNumber": "10",
+        "fixtures": [
+          "alakazam"
+        ]
+      },
+      "englishReferenceId": "sv10-10",
+      "reason": "No Japanese TCGdex mapping configured for this expected row."
+    },
+    {
+      "row": {
+        "category": "Pokemon",
+        "quantity": 1,
+        "name": "Psyduck",
+        "setCode": "ASC",
+        "cardNumber": "39",
+        "fixtures": [
+          "alakazam"
+        ]
+      },
+      "englishReferenceId": "me2pt5-39",
+      "reason": "No Japanese TCGdex mapping configured for this expected row."
+    },
+    {
+      "row": {
+        "category": "Pokemon",
+        "quantity": 1,
+        "name": "Genesect",
+        "setCode": "SFA",
+        "cardNumber": "40",
+        "fixtures": [
+          "alakazam"
+        ]
+      },
+      "englishReferenceId": "sv6pt5-40",
+      "reason": "No Japanese TCGdex mapping configured for this expected row."
+    },
+    {
+      "row": {
+        "category": "Pokemon",
+        "quantity": 1,
+        "name": "Flutter Mane",
+        "setCode": "PRE",
+        "cardNumber": "43",
+        "fixtures": [
+          "alakazam"
+        ]
+      },
+      "englishReferenceId": "sv8pt5-43",
+      "reason": "No Japanese TCGdex mapping configured for this expected row."
+    },
+    {
+      "row": {
+        "category": "Pokemon",
+        "quantity": 1,
+        "name": "Fezandipiti ex",
+        "setCode": "ASC",
+        "cardNumber": "142",
+        "fixtures": [
+          "alakazam"
+        ]
+      },
+      "englishReferenceId": "me2pt5-142",
+      "reason": "No Japanese TCGdex mapping configured for this expected row."
+    },
+    {
+      "row": {
+        "category": "Trainer",
+        "quantity": 4,
+        "name": "Buddy-Buddy Poffin",
+        "setCode": "ASC",
+        "cardNumber": "184",
+        "fixtures": [
+          "alakazam"
+        ]
+      },
+      "englishReferenceId": "me2pt5-184",
+      "reason": "No Japanese TCGdex mapping configured for this expected row."
+    },
+    {
+      "row": {
+        "category": "Trainer",
+        "quantity": 4,
+        "name": "Poké Pad",
+        "setCode": "POR",
+        "cardNumber": "81",
+        "fixtures": [
+          "alakazam"
+        ]
+      },
+      "englishReferenceId": "me3-81",
+      "reason": "No Japanese TCGdex mapping configured for this expected row."
+    },
+    {
+      "row": {
+        "category": "Trainer",
+        "quantity": 3,
+        "name": "Rare Candy",
+        "setCode": "MEG",
+        "cardNumber": "125",
+        "fixtures": [
+          "alakazam"
+        ]
+      },
+      "englishReferenceId": "me1-125",
+      "reason": "No Japanese TCGdex mapping configured for this expected row."
+    },
+    {
+      "row": {
+        "category": "Trainer",
+        "quantity": 2,
+        "name": "Enhanced Hammer",
+        "setCode": "TWM",
+        "cardNumber": "148",
+        "fixtures": [
+          "alakazam"
+        ]
+      },
+      "englishReferenceId": "sv6-148",
+      "reason": "No Japanese TCGdex mapping configured for this expected row."
+    },
+    {
+      "row": {
+        "category": "Trainer",
+        "quantity": 1,
+        "name": "Sacred Ash",
+        "setCode": "DRI",
+        "cardNumber": "168",
+        "fixtures": [
+          "alakazam"
+        ]
+      },
+      "englishReferenceId": "sv10-168",
+      "reason": "No Japanese TCGdex mapping configured for this expected row."
+    },
+    {
+      "row": {
+        "category": "Trainer",
+        "quantity": 1,
+        "name": "Special Red Card",
+        "setCode": "CRI",
+        "cardNumber": "82",
+        "fixtures": [
+          "alakazam"
+        ]
+      },
+      "englishReferenceId": "me4-82",
+      "reason": "No Japanese TCGdex mapping configured for this expected row."
+    },
+    {
+      "row": {
+        "category": "Trainer",
+        "quantity": 1,
+        "name": "Air Balloon",
+        "setCode": "ASC",
+        "cardNumber": "181",
+        "fixtures": [
+          "alakazam"
+        ]
+      },
+      "englishReferenceId": "me2pt5-181",
+      "reason": "No Japanese TCGdex mapping configured for this expected row."
+    },
+    {
+      "row": {
+        "category": "Trainer",
+        "quantity": 2,
+        "name": "Lucky Helmet",
+        "setCode": "TWM",
+        "cardNumber": "158",
+        "fixtures": [
+          "alakazam"
+        ]
+      },
+      "englishReferenceId": "sv6-158",
+      "reason": "No Japanese TCGdex mapping configured for this expected row."
+    },
+    {
+      "row": {
+        "category": "Trainer",
+        "quantity": 4,
+        "name": "Hilda",
+        "setCode": "WHT",
+        "cardNumber": "84",
+        "fixtures": [
+          "alakazam"
+        ]
+      },
+      "englishReferenceId": "rsv10pt5-84",
+      "reason": "No Japanese TCGdex mapping configured for this expected row."
+    },
+    {
+      "row": {
+        "category": "Trainer",
+        "quantity": 3,
+        "name": "Dawn",
+        "setCode": "PFL",
+        "cardNumber": "87",
+        "fixtures": [
+          "alakazam"
+        ]
+      },
+      "englishReferenceId": "me2-87",
+      "reason": "No Japanese TCGdex mapping configured for this expected row."
+    },
+    {
+      "row": {
+        "category": "Trainer",
+        "quantity": 3,
+        "name": "Boss's Orders",
+        "setCode": "MEG",
+        "cardNumber": "114",
+        "fixtures": [
+          "alakazam"
+        ]
+      },
+      "englishReferenceId": "me1-114",
+      "reason": "No Japanese TCGdex mapping configured for this expected row."
+    },
+    {
+      "row": {
+        "category": "Trainer",
+        "quantity": 1,
+        "name": "Lana's Aid",
+        "setCode": "TWM",
+        "cardNumber": "155",
+        "fixtures": [
+          "alakazam"
+        ]
+      },
+      "englishReferenceId": "sv6-155",
+      "reason": "No Japanese TCGdex mapping configured for this expected row."
+    },
+    {
+      "row": {
+        "category": "Trainer",
+        "quantity": 3,
+        "name": "Battle Cage",
+        "setCode": "PFL",
+        "cardNumber": "85",
+        "fixtures": [
+          "alakazam"
+        ]
+      },
+      "englishReferenceId": "me2-85",
+      "reason": "No Japanese TCGdex mapping configured for this expected row."
+    },
+    {
+      "row": {
+        "category": "Energy",
+        "quantity": 2,
+        "name": "Psychic Energy",
+        "setCode": "SVE",
+        "cardNumber": "13",
+        "fixtures": [
+          "alakazam"
+        ]
+      },
+      "englishReferenceId": "sve-13",
+      "reason": "No Japanese TCGdex mapping configured for this expected row."
+    },
+    {
+      "row": {
+        "category": "Energy",
+        "quantity": 4,
+        "name": "Telepathic Psychic Energy",
+        "setCode": "POR",
+        "cardNumber": "88",
+        "fixtures": [
+          "alakazam"
+        ]
+      },
+      "englishReferenceId": "me3-88",
+      "reason": "No Japanese TCGdex mapping configured for this expected row."
+    },
+    {
+      "row": {
+        "category": "Energy",
+        "quantity": 1,
+        "name": "Enriching Energy",
+        "setCode": "SSP",
+        "cardNumber": "191",
+        "fixtures": [
+          "alakazam"
+        ]
+      },
+      "englishReferenceId": "sv8-191",
+      "reason": "No Japanese TCGdex mapping configured for this expected row."
+    }
+  ]
+}

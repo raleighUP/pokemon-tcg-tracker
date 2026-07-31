@@ -1,4 +1,5 @@
 import { Deck } from '@/types'
+import { useState } from 'react'
 import {
   Button,
   FieldLabel,
@@ -7,6 +8,11 @@ import {
   StatusBadge,
   TextInput,
 } from '@/components/ui'
+import {
+  TOURNAMENT_TYPE_OPTIONS,
+  getTournamentTypeLabel,
+} from '@/utils/tournament'
+import DeckSelectField from '@/components/DeckSelectField'
 
 type Props = {
   eventName: string
@@ -35,15 +41,7 @@ export default function EventEditForm({
   onSave,
   onCancel,
 }: Props) {
-  const eventTypes = [
-    'Local',
-    'Challenge',
-    'League Cup',
-    'Online Event',
-    'Regional',
-    'Special Event',
-    'Other',
-  ]
+  const [selectedDeckName, setSelectedDeckName] = useState(initialDeck ?? '')
 
   return (
     <NestedPanel className="m-4 space-y-4 rounded-2xl border-white/10 bg-white/[0.035]">
@@ -77,9 +75,17 @@ export default function EventEditForm({
           aria-label="Event type"
         >
           <option value="">Event Type</option>
-          {eventTypes.map((eventType) => (
-            <option key={eventType} value={eventType}>
-              {eventType}
+          {initialEventType &&
+            !TOURNAMENT_TYPE_OPTIONS.some(
+              (option) => option.value === initialEventType
+            ) && (
+              <option value={initialEventType}>
+                {getTournamentTypeLabel(initialEventType)}
+              </option>
+            )}
+          {TOURNAMENT_TYPE_OPTIONS.map((eventType) => (
+            <option key={eventType.value} value={eventType.value}>
+              {eventType.label}
             </option>
           ))}
         </SelectField>
@@ -98,17 +104,14 @@ export default function EventEditForm({
 
       <div>
         <FieldLabel>Deck</FieldLabel>
-        <SelectField
-          defaultValue={initialDeck}
+        <DeckSelectField
+          decks={decks}
+          placeholder="Event deck"
+          value={selectedDeckName}
+          onChange={(event) => setSelectedDeckName(event.target.value)}
           id={`event-deck-${eventName}`}
           aria-label="Event deck"
-        >
-          {decks.map((deck) => (
-            <option key={deck.id} value={deck.name}>
-              {deck.name}
-            </option>
-          ))}
-        </SelectField>
+        />
       </div>
 
       <div className="flex gap-2">
@@ -132,11 +135,7 @@ export default function EventEditForm({
               ) as HTMLSelectElement
             ).value
 
-            const updatedDeck = (
-              document.getElementById(
-                `event-deck-${eventName}`
-              ) as HTMLSelectElement
-            ).value
+            const updatedDeck = selectedDeckName
 
             onSave(eventName, {
               eventName: updatedEventName,

@@ -92,7 +92,7 @@ export default function AdvisorEventSetup({
 
       {eventSize > 0 && (
         <NestedPanel>
-          <p className="mb-3 text-sm font-semibold text-white">
+          <p className="mb-3 text-sm font-semibold text-[var(--text-primary)]">
             Tournament Structure
           </p>
 

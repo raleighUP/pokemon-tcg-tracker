@@ -15,6 +15,9 @@ import {
   TextInput,
   cn,
 } from '@/components/ui'
+import DeckIdentity from './DeckIdentity'
+import DeckSelectField from './DeckSelectField'
+import { CURRENT_FORMAT_OPTIONS } from '@/utils/current-format'
 
 type LoggerSection =
   | 'event'
@@ -347,11 +350,9 @@ export default function MatchLogger({
               className={errorClass('format')}
             >
               <option value="">Format</option>
-              <option value="TEF-CRI">TEF-CRI</option>
-              <option value="Gym Leader Challenge">
-                Gym Leader Challenge
-              </option>
-              <option value="Expanded">Expanded</option>
+              {CURRENT_FORMAT_OPTIONS.map((option) => (
+                <option key={option} value={option}>{option}</option>
+              ))}
             </SelectField>
           </div>
 
@@ -384,7 +385,9 @@ export default function MatchLogger({
           onOpen={setActiveSection}
         >
           <FieldLabel>Your Deck</FieldLabel>
-          <SelectField
+          <DeckSelectField
+            decks={decks}
+            placeholder="Your Deck"
             value={selectedMatchDeck}
             onChange={(event) => {
               setSelectedMatchDeck(event.target.value)
@@ -392,14 +395,7 @@ export default function MatchLogger({
             }}
             aria-label="Your deck"
             className={errorClass('selectedMatchDeck')}
-          >
-            <option value="">Your Deck</option>
-            {decks.map((deck) => (
-              <option key={deck.id} value={deck.name}>
-                {deck.name}
-              </option>
-            ))}
-          </SelectField>
+          />
         </GuidedSection>
 
         <GuidedSection
@@ -450,7 +446,11 @@ export default function MatchLogger({
                     onClick={() => selectOpponentDeck(option)}
                     className="motion-press type-card-title block w-full rounded-xl px-3 py-2.5 text-left text-[var(--text-primary)] hover:bg-white/10"
                   >
-                    {option}
+                    <DeckIdentity
+                      name={option}
+                      size="standard"
+                      maxSprites={2}
+                    />
                   </button>
                 ))}
               </div>

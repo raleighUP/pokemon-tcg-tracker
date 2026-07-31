@@ -9,11 +9,11 @@ import {
   EmptyState,
   NestedPanel,
   SectionHeader,
-  SelectField,
   Sheet,
   SwipeActionRow,
   cn,
 } from '@/components/ui'
+import DeckSelectField from './DeckSelectField'
 
 type Change = {
   cardName: string
@@ -312,8 +312,8 @@ export default function CompareDecks({
                 className={cn(
                   'type-metric-value shrink-0 rounded-full px-2.5 py-1',
                   change.diff > 0
-                    ? 'bg-[rgba(47,116,59,0.16)] text-[#b8dfbe]'
-                    : 'bg-[rgba(160,24,24,0.16)] text-[#e9b6b6]'
+                    ? 'bg-[var(--success-soft)] text-[var(--success-text)]'
+                    : 'bg-[var(--loss-soft)] text-[var(--loss-text)]'
                 )}
               >
                 {change.diff > 0 ? `+${change.diff}` : change.diff}
@@ -327,7 +327,7 @@ export default function CompareDecks({
 
   return (
     <div className="space-y-4">
-      <SectionHeader title="Compare" level={1} />
+      <SectionHeader title="Compare" level={1} className="page-header" />
 
       <NestedPanel className="space-y-4 rounded-[18px] p-4">
         <h3 className="type-section-title text-[var(--text-primary)]">
@@ -335,37 +335,29 @@ export default function CompareDecks({
         </h3>
 
         <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
-          <SelectField
+          <div className="space-y-1.5">
+          <DeckSelectField
+            decks={decks}
+            placeholder="Select Deck A"
             value={compareDeck1}
             onChange={(e) =>
               setCompareDeck1(e.target.value)
             }
             aria-label="Select Deck A"
-          >
-            <option value="">Select Deck A</option>
+          />
+          </div>
 
-            {decks.map((deck) => (
-              <option key={deck.id} value={deck.name}>
-                {deck.name}
-              </option>
-            ))}
-          </SelectField>
-
-          <SelectField
+          <div className="space-y-1.5">
+          <DeckSelectField
+            decks={decks}
+            placeholder="Select Deck B"
             value={compareDeck2}
             onChange={(e) =>
               setCompareDeck2(e.target.value)
             }
             aria-label="Select Deck B"
-          >
-            <option value="">Select Deck B</option>
-
-            {decks.map((deck) => (
-              <option key={deck.id} value={deck.name}>
-                {deck.name}
-              </option>
-            ))}
-          </SelectField>
+          />
+          </div>
         </div>
 
           <Button
@@ -443,12 +435,12 @@ export default function CompareDecks({
       >
         <div className="flex h-full flex-col">
           <div className="px-4 pb-4 pt-1">
-            <h3 className="truncate text-[1.35rem] font-[760] leading-tight text-white">
+            <h3 className="truncate text-[1.35rem] font-[760] leading-tight text-[var(--text-primary)]">
               Changed Cards
             </h3>
           </div>
 
-          <div className="scrollbar-apple flex-1 space-y-5 overflow-auto border-t border-white/10 px-4 py-3">
+          <div className="scrollbar-apple flex-1 space-y-5 overflow-auto border-t border-[var(--divider)] px-4 py-3">
             {changes.length === 0 ? (
               <EmptyState className="space-y-3">
                 <p>{emptyStateMessage}</p>

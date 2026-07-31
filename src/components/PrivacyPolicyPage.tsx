@@ -18,7 +18,7 @@ export default function PrivacyPolicyPage() {
       <div className="mx-auto max-w-3xl space-y-5">
         <Link
           href="/"
-          className="inline-flex min-h-11 items-center font-semibold text-[#6fb2ed] hover:text-white"
+          className="inline-flex min-h-11 items-center font-semibold text-[var(--link-color)] hover:text-[var(--text-primary)]"
         >
           ← Back to {APP_NAME}
         </Link>
@@ -93,7 +93,7 @@ export default function PrivacyPolicyPage() {
             For privacy questions or requests, email{' '}
             <a
               href={emailHref}
-              className="break-all font-semibold text-[#6fb2ed] underline decoration-[#6fb2ed]/40 underline-offset-4 hover:text-white"
+              className="break-all font-semibold text-[var(--link-color)] underline decoration-current/40 underline-offset-4 hover:text-[var(--text-primary)]"
             >
               {SUPPORT_EMAIL}
             </a>
@@ -101,7 +101,7 @@ export default function PrivacyPolicyPage() {
           </p>
           <Link
             href={SUPPORT_PATH}
-            className="inline-flex min-h-11 items-center font-semibold text-[#6fb2ed] hover:text-white"
+            className="inline-flex min-h-11 items-center font-semibold text-[var(--link-color)] hover:text-[var(--text-primary)]"
           >
             View Support
           </Link>

@@ -1,0 +1,12 @@
+import {createHash} from 'node:crypto'
+import {existsSync,readdirSync,readFileSync,statSync} from 'node:fs'
+import path from 'node:path'
+
+export const CANONICAL_FIXTURES=new Set(['aob','neddy-dragapult','rahul-crustle','slop-box'])
+export const SEED='physical-localization-v1'
+export const hash=value=>createHash('sha256').update(`${SEED}:${value}`).digest('hex')
+export function annotationFiles(){const root='test-data/deck-image-importer';return readdirSync(root,{withFileTypes:true}).filter(x=>x.isDirectory()).map(x=>path.join(root,x.name,`${x.name}.physical-annotations.json`)).filter(existsSync).sort()}
+export function loadExamples(){return annotationFiles().map(file=>{const annotation=JSON.parse(readFileSync(file,'utf8')),imagePath=path.join(path.dirname(file),annotation.image.fileName),metadata=annotation.trainingMetadata??{};return{file,imagePath,annotation,fixtureId:annotation.fixtureId,imageId:metadata.imageId??annotation.fixtureId,sourceType:metadata.sourceType??'real-photo',canonical:CANONICAL_FIXTURES.has(annotation.fixtureId),group:metadata.captureSessionId??metadata.physicalLayoutId??metadata.sourceImageFamily??metadata.deckId??annotation.fixtureId,imageHash:existsSync(imagePath)?createHash('sha256').update(readFileSync(imagePath)).digest('hex'):null,imageBytes:existsSync(imagePath)?statSync(imagePath).size:0}})}
+export const validBounds=b=>b&&b.x>=0&&b.y>=0&&b.width>0&&b.height>0&&b.x+b.width<=1&&b.y+b.height<=1
+export function splitExamples(examples){const assigned=new Map(),groups=[...new Set(examples.filter(x=>!x.canonical).map(x=>x.group))].sort((a,b)=>hash(a).localeCompare(hash(b)));groups.forEach((g,i)=>assigned.set(g,i/groups.length<.7?'train':i/groups.length<.85?'validation':'test'));return examples.map(x=>({...x,split:x.canonical?'external-benchmark':assigned.get(x.group)??'external-benchmark'}))}
+export function summarize(examples){const values=key=>[...new Set(examples.map(x=>x.annotation.trainingMetadata?.[key]).filter(Boolean))];return{images:examples.length,logicalStacks:examples.reduce((n,x)=>n+x.annotation.regions.filter(r=>!r.training?.ignoreForTraining).length,0),canonicalImages:examples.filter(x=>x.canonical).length,realImages:examples.filter(x=>x.sourceType==='real-photo').length,syntheticImages:examples.filter(x=>x.sourceType==='synthetic').length,decks:values('deckId').length,captureSessions:values('captureSessionId').length,devices:values('deviceClass').length,lightingCategories:values('lightingCategory'),backgroundCategories:values('backgroundCategory')}}

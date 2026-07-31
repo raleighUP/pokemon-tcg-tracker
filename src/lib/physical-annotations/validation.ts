@@ -14,16 +14,25 @@ const key = (name: string, setCode = '', number = '') => `${name.trim().toLowerC
 const validBounds = (bounds: NormalizedBounds) => bounds.x >= 0 && bounds.y >= 0 && bounds.width > 0 && bounds.height > 0 && bounds.x + bounds.width <= 1 && bounds.y + bounds.height <= 1
 const containsBounds = (parent: NormalizedBounds, child: NormalizedBounds) => child.x >= parent.x && child.y >= parent.y && child.x + child.width <= parent.x + parent.width && child.y + child.height <= parent.y + parent.height
 const containsPoint = (parent: NormalizedBounds, point: NormalizedPoint) => point.x >= parent.x && point.y >= parent.y && point.x <= parent.x + parent.width && point.y <= parent.y + parent.height
+const sameBounds = (a: NormalizedBounds, b: NormalizedBounds) => Math.abs(a.x-b.x)<1e-6 && Math.abs(a.y-b.y)<1e-6 && Math.abs(a.width-b.width)<1e-6 && Math.abs(a.height-b.height)<1e-6
 
 export function validatePhysicalAnnotations(annotation: PhysicalFixtureAnnotations, expectedRows: ExpectedDeckRow[] = []) {
   const issues: AnnotationIssue[] = []
   if (annotation.schemaVersion !== PHYSICAL_ANNOTATION_SCHEMA_VERSION) issues.push({ severity: 'error', code: 'schema', message: `Unsupported schema version ${annotation.schemaVersion}.` })
   if (!annotation.fixtureId.trim()) issues.push({ severity: 'error', code: 'fixture-id', message: 'Fixture ID is required.' })
+  const locked=annotation.trainingMetadata?.reviewStatus==='locked'
+  if (locked) {
+    const metadata=annotation.trainingMetadata!
+    if (!metadata.imageId?.trim()||!metadata.captureSessionId?.trim()||!metadata.sourceType||!metadata.orientation) issues.push({severity:'error',code:'training-metadata',message:'Locked training fixtures require image ID, capture session, source type, and orientation.'})
+    if (!metadata.reviewedBy?.trim()) issues.push({severity:'error',code:'reviewer',message:'Locked training fixtures require a reviewer.'})
+  }
   const ids = new Set<string>()
   const annotated = new Map<string, number>()
   for (const region of annotation.regions) {
     if (ids.has(region.id)) issues.push({ severity: 'error', code: 'duplicate-id', message: `Duplicate region ID ${region.id}.`, regionId: region.id })
     ids.add(region.id)
+    const duplicate=annotation.regions.find(other=>other!==region&&sameBounds(other.normalizedBounds,region.normalizedBounds))
+    if(duplicate&&region.id.localeCompare(duplicate.id)>0) issues.push({severity:'error',code:'duplicate-bounds',message:`Exact duplicate bounds also used by ${duplicate.id}.`,regionId:region.id})
     if (!validBounds(region.normalizedBounds)) issues.push({ severity: 'error', code: 'bounds', message: 'Stack bounds must be positive and inside the image.', regionId: region.id })
     if (region.topCardBounds && !validBounds(region.topCardBounds)) issues.push({ severity: 'error', code: 'top-bounds', message: 'Top-card bounds must be positive and inside the image.', regionId: region.id })
     if (region.topCardBounds && !containsBounds(region.normalizedBounds, region.topCardBounds)) issues.push({ severity: 'warning', code: 'top-containment', message: 'Top-card bounds meaningfully overlap but are not fully contained by the parent stack region.', regionId: region.id })
@@ -34,6 +43,8 @@ export function validatePhysicalAnnotations(annotation: PhysicalFixtureAnnotatio
     if (identityStatus === 'manual-incomplete' && !region.unresolved) issues.push({ severity: 'error', code: 'identity', message: 'Select a reference or provide printed name, set code, and collector number.', regionId: region.id })
     if (identityStatus === 'manual-complete') issues.push({ severity: 'warning', code: 'manual-reference', message: 'Complete manual printed identity is accepted without a repository reference.', regionId: region.id })
     if (!region.topCardBounds) issues.push({ severity: 'warning', code: 'missing-top-card', message: 'Top-card crop is missing.', regionId: region.id })
+    if (locked && region.training?.reviewStatus!=='locked' && !region.training?.ignoreForTraining) issues.push({severity:'error',code:'region-review',message:'Every included region must be locked before locking the fixture.',regionId:region.id})
+    if (region.training?.difficult) issues.push({severity:'warning',code:'difficult',message:'Region is marked difficult.',regionId:region.id})
     if (region.quantity === 4 && region.presentation === 'single') issues.push({ severity: 'warning', code: 'presentation', message: 'Quantity four is marked as a single card.', regionId: region.id })
     const rowKey = key(region.cardName, region.setCode, region.collectorNumber)
     annotated.set(rowKey, (annotated.get(rowKey) ?? 0) + region.quantity)

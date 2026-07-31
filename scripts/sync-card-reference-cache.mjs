@@ -41,6 +41,7 @@ try {
   })
 
   console.log(JSON.stringify(report, null, 2))
+  if (!options.dryRun) await import('./build-current-format-manifest.mjs')
 } catch (error) {
   console.error(error)
   process.exitCode = 1

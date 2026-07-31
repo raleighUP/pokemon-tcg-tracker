@@ -13,6 +13,7 @@ import {
   SelectField,
   SwipeActionRow,
 } from '@/components/ui'
+import DeckIdentity from '@/components/DeckIdentity'
 
 type Props = {
   archetypeOptions: string[]
@@ -133,6 +134,17 @@ export default function ExpectedMetaEditor({
                   ]}
                 >
                   <div className="grid grid-cols-[minmax(0,1fr)_4.25rem] gap-1">
+                    <div className="relative min-w-0">
+                    {deck.name && (
+                      <DeckIdentity
+                        name=""
+                        spriteSource={deck.name}
+                        size="compact"
+                        maxSprites={2}
+                        bareSprites
+                        className="pointer-events-none absolute left-2 top-1/2 z-10 -translate-y-1/2 gap-0"
+                      />
+                    )}
                     <SelectField
                       value={deck.name}
                       onChange={(e) => {
@@ -141,7 +153,7 @@ export default function ExpectedMetaEditor({
                         setMetaDecks(updated)
                       }}
                       aria-label={`Meta deck ${index + 1} archetype`}
-                      className="min-h-11 rounded-xl border-[var(--surface-border)] bg-[#101012] px-2 py-2 text-[0.9375rem]"
+                      className={`min-h-11 rounded-xl border-[var(--surface-border)] bg-[var(--control-bg)] py-2 pr-2 text-[0.9375rem] ${deck.name ? 'pl-14' : 'pl-2'}`}
                     >
                       <option value="">Select archetype</option>
 
@@ -151,6 +163,7 @@ export default function ExpectedMetaEditor({
                         </option>
                       ))}
                     </SelectField>
+                    </div>
 
                     <div className="relative">
                       <NumberInput
@@ -208,7 +221,7 @@ export default function ExpectedMetaEditor({
                             ? 'percentage'
                             : 'players'
                         }`}
-                        className={`min-h-11 rounded-xl border-[var(--surface-border)] bg-[#101012] py-2 text-center text-base ${
+                        className={`min-h-11 rounded-xl border-[var(--surface-border)] bg-[var(--control-bg)] py-2 text-center text-base ${
                           metaInputMode === 'percent' ? 'pl-2 pr-6' : 'px-2'
                         }`}
                       />

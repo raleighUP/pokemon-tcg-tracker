@@ -1,5 +1,5 @@
 import { useMemo, useState } from 'react'
-import { Deck, EventRecord, Match } from '@/types'
+import { AlternateRoundOutcome, Deck, EventRecord, Match } from '@/types'
 import { getArchetypeOptions } from '@/utils/archetype-options'
 import {
   Button,
@@ -15,6 +15,12 @@ import {
   TextInput,
 } from '@/components/ui'
 import EventHistoryCard from './match-history/EventHistoryCard'
+import DeckIdentity from './DeckIdentity'
+import DeckSelectField from './DeckSelectField'
+import { CURRENT_FORMAT_OPTIONS, currentStandardFormat } from '@/utils/current-format'
+import {
+  TOURNAMENT_TYPE_OPTIONS,
+} from '@/utils/tournament'
 
 type EventDraft = {
   eventName: string
@@ -32,6 +38,7 @@ type RoundDraft = EventDraft & {
   gameStarts: ('1st' | '2nd')[]
   diceRollWins: boolean[]
   notes: string
+  alternateOutcome?: AlternateRoundOutcome
 }
 
 type RoundEventData = Omit<EventDraft, 'playerCount'> & {
@@ -78,19 +85,9 @@ const emptyEventDraft: EventDraft = {
   eventName: '',
   eventType: '',
   playerCount: '',
-  format: '',
+  format: currentStandardFormat.label,
   deck: '',
 }
-
-const eventTypes = [
-  'Local',
-  'Challenge',
-  'League Cup',
-  'Online Event',
-  'Regional',
-  'Special Event',
-  'Other',
-]
 
 function getFinalResult(games: string[]) {
   const wins = games.filter((game) => game === 'W').length
@@ -151,8 +148,6 @@ export default function MatchHistory({
   >({})
 
   const [newEventOpen, setNewEventOpen] = useState(false)
-  const [eventStep, setEventStep] =
-    useState<'name' | 'type' | 'format' | 'deck'>('name')
   const [eventDraft, setEventDraft] =
     useState<EventDraft>(emptyEventDraft)
   const [roundDraft, setRoundDraft] = useState<RoundDraft | null>(null)
@@ -212,7 +207,6 @@ export default function MatchHistory({
   const resetEventSheet = () => {
     setOpenEventSwipeId(null)
     setNewEventOpen(false)
-    setEventStep('name')
     setEventDraft(emptyEventDraft)
     setEventValidationMessage('')
   }
@@ -220,7 +214,6 @@ export default function MatchHistory({
   const openNewEvent = () => {
     setOpenEventSwipeId(null)
     setEventDraft(emptyEventDraft)
-    setEventStep('name')
     setNewEventOpen(true)
   }
 
@@ -236,18 +229,18 @@ export default function MatchHistory({
       gameStarts: [],
       diceRollWins: [],
       notes: '',
+      alternateOutcome: undefined,
     })
   }
 
   const finishEventSetup = () => {
     const playerCount = Number(eventDraft.playerCount)
+    const isOnline = eventDraft.eventType === 'online'
 
     if (
       !eventDraft.eventName ||
       !eventDraft.eventType ||
-      !eventDraft.playerCount ||
-      !Number.isFinite(playerCount) ||
-      playerCount <= 0 ||
+      (!isOnline && (!eventDraft.playerCount || !Number.isFinite(playerCount) || playerCount <= 0)) ||
       !eventDraft.format ||
       !eventDraft.deck
     ) {
@@ -260,7 +253,7 @@ export default function MatchHistory({
       id: Date.now(),
       eventName: eventDraft.eventName,
       eventType: eventDraft.eventType,
-      playerCount,
+      playerCount: isOnline ? undefined : playerCount,
       format: eventDraft.format,
       deck: eventDraft.deck,
     })
@@ -360,15 +353,22 @@ export default function MatchHistory({
   }
 
   const saveRound = () => {
+    const alternateOutcome = roundDraft?.alternateOutcome
+    const needsOpponent = alternateOutcome !== 'bye'
+    const needsGames = !alternateOutcome
     if (
       !roundDraft ||
       !roundDraft.eventName.trim() ||
       !roundDraft.format.trim() ||
       !roundDraft.deck.trim() ||
-      !roundDraft.opponentDeck.trim() ||
-      roundDraft.games.length === 0
+      (needsOpponent && !roundDraft.opponentDeck.trim()) ||
+      (needsGames && roundDraft.games.length === 0)
     ) {
-      setRoundValidationMessage('Add opponent deck and at least one game result.')
+      setRoundValidationMessage(
+        alternateOutcome
+          ? 'Add the required round details.'
+          : 'Add opponent deck and at least one game result.'
+      )
       window.setTimeout(() => setRoundValidationMessage(''), 1600)
       return
     }
@@ -389,6 +389,7 @@ export default function MatchHistory({
         roundDraft.games.length
       ),
       finalResult: getFinalResult(roundDraft.games),
+      alternateOutcome,
       notes: roundDraft.notes,
     })
 
@@ -412,14 +413,14 @@ export default function MatchHistory({
   }, [opponentOptions, roundDraft?.opponentDeck])
 
   return (
-    <section className="space-y-4">
+    <section className="-mx-2 space-y-4 sm:mx-0">
       {feedbackMessage && (
         <div className="motion-success-pop fixed left-1/2 top-[calc(3.5rem+env(safe-area-inset-top))] z-50 -translate-x-1/2 rounded-full border border-[rgba(47,116,59,0.45)] bg-[rgba(47,116,59,0.92)] px-4 py-2 text-sm font-semibold text-white shadow-[0_14px_34px_rgba(0,0,0,0.36)]">
           {feedbackMessage}
         </div>
       )}
 
-      <div className="flex items-center justify-between gap-3">
+      <div className="page-header mx-2 flex items-center justify-between gap-3 sm:mx-0">
         <SectionHeader title="Match History" level={1} />
         <Button
           onClick={openNewEvent}
@@ -512,134 +513,22 @@ export default function MatchHistory({
             New Event
           </h3>
 
-          {eventStep === 'name' && (
-            <div className="space-y-4">
-              <TextInput
-                value={eventDraft.eventName}
-                onChange={(event) =>
-                  setEventDraft({
-                    ...eventDraft,
-                    eventName: event.target.value,
-                  })
-                }
-                placeholder="Event Name"
-                aria-label="Event name"
-              />
-              <Button
-                onClick={() => {
-                  if (eventDraft.eventName.trim()) {
-                    setEventValidationMessage('')
-                    setEventStep('type')
-                  } else {
-                    setEventValidationMessage('Add an event name.')
-                    window.setTimeout(
-                      () => setEventValidationMessage(''),
-                      1600
-                    )
-                  }
-                }}
-                tone="primary"
-                className="w-full"
-              >
-                Next
-              </Button>
-            </div>
-          )}
+          <TextInput value={eventDraft.eventName} onChange={(event) => setEventDraft({ ...eventDraft, eventName: event.target.value })} placeholder="Event Name" aria-label="Event name" />
 
-          {eventStep !== 'name' && (
-            <TextInput
-              value={eventDraft.eventName}
-              onChange={(event) =>
-                setEventDraft({
-                  ...eventDraft,
-                  eventName: event.target.value,
-                })
-              }
-              placeholder="Event Name"
-              aria-label="Event name"
-            />
-          )}
-
-          {eventStep === 'type' && (
-            <div className="space-y-4">
+          <div className={eventDraft.eventType === 'online' ? '' : 'grid grid-cols-[minmax(0,1fr)_7.5rem] gap-3'}>
               <SelectField
                 value={eventDraft.eventType}
-                onChange={(event) =>
-                  setEventDraft({
-                    ...eventDraft,
-                    eventType: event.target.value,
-                  })
-                }
+                onChange={(event) => setEventDraft({ ...eventDraft, eventType: event.target.value, playerCount: event.target.value === 'online' ? '' : eventDraft.playerCount })}
                 aria-label="Event type"
               >
                 <option value="">Event Type</option>
-                {eventTypes.map((eventType) => (
-                  <option key={eventType} value={eventType}>
-                    {eventType}
+                {TOURNAMENT_TYPE_OPTIONS.map((eventType) => (
+                  <option key={eventType.value} value={eventType.value}>
+                    {eventType.label}
                   </option>
                 ))}
               </SelectField>
-              <TextInput
-                value={eventDraft.playerCount}
-                onChange={(event) =>
-                  setEventDraft({
-                    ...eventDraft,
-                    playerCount: event.target.value.replace(/\D/g, ''),
-                  })
-                }
-                inputMode="numeric"
-                placeholder="Number of Players"
-                aria-label="Number of players"
-              />
-              <Button
-                onClick={() => {
-                  const playerCount = Number(eventDraft.playerCount)
-                  if (
-                    eventDraft.eventType &&
-                    eventDraft.playerCount &&
-                    Number.isFinite(playerCount) &&
-                    playerCount > 0
-                  ) {
-                    setEventValidationMessage('')
-                    setEventStep('format')
-                  } else {
-                    setEventValidationMessage(
-                      'Choose event type and player count.'
-                    )
-                    window.setTimeout(
-                      () => setEventValidationMessage(''),
-                      1600
-                    )
-                  }
-                }}
-                tone="primary"
-                className="w-full"
-              >
-                Next
-              </Button>
-            </div>
-          )}
-
-          {(eventStep === 'format' || eventStep === 'deck') && (
-            <div className="grid grid-cols-[minmax(0,1fr)_7.5rem] gap-3">
-              <SelectField
-                value={eventDraft.eventType}
-                onChange={(event) =>
-                  setEventDraft({
-                    ...eventDraft,
-                    eventType: event.target.value,
-                  })
-                }
-                aria-label="Event type"
-              >
-                <option value="">Event Type</option>
-                {eventTypes.map((eventType) => (
-                  <option key={eventType} value={eventType}>
-                    {eventType}
-                  </option>
-                ))}
-              </SelectField>
-              <TextInput
+              {eventDraft.eventType !== 'online' && <TextInput
                 value={eventDraft.playerCount}
                 onChange={(event) =>
                   setEventDraft({
@@ -650,12 +539,9 @@ export default function MatchHistory({
                 inputMode="numeric"
                 placeholder="Players"
                 aria-label="Number of players"
-              />
-            </div>
-          )}
+              />}
+          </div>
 
-          {eventStep === 'format' && (
-            <div className="space-y-4">
               <SelectField
                 value={eventDraft.format}
                 onChange={(event) =>
@@ -667,53 +553,12 @@ export default function MatchHistory({
                 aria-label="Format"
               >
                 <option value="">Format</option>
-                <option value="TEF-CRI">TEF-CRI</option>
-                <option value="Gym Leader Challenge">
-                  Gym Leader Challenge
-                </option>
-                <option value="Expanded">Expanded</option>
+                {CURRENT_FORMAT_OPTIONS.map((option) => <option key={option} value={option}>{option}</option>)}
               </SelectField>
-              <Button
-                onClick={() => {
-                  if (eventDraft.format) {
-                    setEventValidationMessage('')
-                    setEventStep('deck')
-                  } else {
-                    setEventValidationMessage('Choose a format.')
-                    window.setTimeout(
-                      () => setEventValidationMessage(''),
-                      1600
-                    )
-                  }
-                }}
-                tone="primary"
-                className="w-full"
-              >
-                Next
-              </Button>
-            </div>
-          )}
 
-          {eventStep === 'deck' && (
-            <div className="space-y-4">
-              <SelectField
-                value={eventDraft.format}
-                onChange={(event) =>
-                  setEventDraft({
-                    ...eventDraft,
-                    format: event.target.value,
-                  })
-                }
-                aria-label="Format"
-              >
-                <option value="">Format</option>
-                <option value="TEF-CRI">TEF-CRI</option>
-                <option value="Gym Leader Challenge">
-                  Gym Leader Challenge
-                </option>
-                <option value="Expanded">Expanded</option>
-              </SelectField>
-              <SelectField
+              <DeckSelectField
+                decks={decks}
+                placeholder="Your Deck"
                 value={eventDraft.deck}
                 onChange={(event) =>
                   setEventDraft({
@@ -722,14 +567,7 @@ export default function MatchHistory({
                   })
                 }
                 aria-label="Your deck"
-              >
-                <option value="">Your Deck</option>
-                {decks.map((deck) => (
-                  <option key={deck.id} value={deck.name}>
-                    {deck.name}
-                  </option>
-                ))}
-              </SelectField>
+              />
               {decks.length === 0 && (
                 <div className="space-y-3 rounded-2xl border border-dashed border-white/10 bg-white/[0.025] p-3">
                   <p className="type-helper text-[var(--text-muted)]">
@@ -756,8 +594,6 @@ export default function MatchHistory({
               >
                 Save Event
               </Button>
-            </div>
-          )}
           {eventValidationMessage && (
             <p className="type-helper text-[var(--color-error)]">
               {eventValidationMessage}
@@ -789,6 +625,7 @@ export default function MatchHistory({
             </p>
 
             <div className="mt-4 space-y-4">
+              {roundDraft.alternateOutcome !== 'bye' && (
               <div className="space-y-3">
                 <TextInput
                   value={roundDraft.opponentDeck}
@@ -817,13 +654,63 @@ export default function MatchHistory({
                         }}
                         className="motion-press type-card-title block w-full rounded-xl px-3 py-2.5 text-left text-[var(--text-primary)] hover:bg-white/10"
                       >
-                        {option}
+                        <DeckIdentity
+                          name={option}
+                          size="standard"
+                          maxSprites={2}
+                        />
                       </button>
                     ))}
                   </div>
                 )}
               </div>
+              )}
 
+              <div>
+                <p className="type-metadata mb-2 text-[var(--text-muted)]">
+                  Alternate outcome
+                </p>
+                <div className="grid grid-cols-3 gap-2">
+                  {([
+                    ['intentionalDraw', 'ID'],
+                    ['noShow', 'No Show'],
+                    ['bye', 'Bye'],
+                  ] as const).map(([value, label]) => (
+                    <Button
+                      key={value}
+                      onClick={() =>
+                        setRoundDraft({
+                          ...roundDraft,
+                          alternateOutcome:
+                            roundDraft.alternateOutcome === value
+                              ? undefined
+                              : value,
+                          opponentDeck:
+                            value === 'bye' ? '' : roundDraft.opponentDeck,
+                          games: [],
+                          gameStarts: [],
+                          diceRollWins: [],
+                        })
+                      }
+                      tone={
+                        roundDraft.alternateOutcome === value
+                          ? 'primary'
+                          : 'secondary'
+                      }
+                      aria-pressed={roundDraft.alternateOutcome === value}
+                      className="min-h-11 px-2 text-sm"
+                    >
+                      {label}
+                    </Button>
+                  ))}
+                </div>
+                <p className="type-helper mt-2 text-[var(--text-muted)]">
+                  These complete the round without recording game results.
+                </p>
+              </div>
+
+              {!roundDraft.alternateOutcome && (
+              <>
               <SegmentedControl
                 value={roundDraft.matchType}
                 onChange={updateRoundMatchType}
@@ -930,6 +817,8 @@ export default function MatchHistory({
                   </Button>
                 </div>
               </div>
+              </>
+              )}
 
               <TextareaField
                 value={roundDraft.notes}

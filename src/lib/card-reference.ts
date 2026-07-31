@@ -13,8 +13,9 @@ import {
   getPreferredTcglSetCode,
   normalizeSetCode,
 } from './tcgl-set-code-aliases'
+import { currentStandardFormat } from '@/utils/current-format'
 
-export const CURRENT_STANDARD_REGULATION_MARKS = ['H', 'I', 'J'] as const
+export const CURRENT_STANDARD_REGULATION_MARKS = currentStandardFormat.regulationMarks
 
 export {
   getInstalledCardReferenceManifest,

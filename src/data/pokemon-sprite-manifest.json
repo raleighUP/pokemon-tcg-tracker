@@ -1,0 +1,672 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-31T23:05:09.614Z",
+  "source": "https://pokeapi.co/api/v2/pokemon",
+  "spriteType": "front_default",
+  "fallback": {
+    "canonicalIdentifier": "substitute",
+    "source": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/substitute.png",
+    "path": "/pokemon-sprites/substitute.png"
+  },
+  "pokemon": {
+    "abomasnow": {
+      "id": 460,
+      "name": "abomasnow",
+      "species": "abomasnow",
+      "path": "/pokemon-sprites/abomasnow.png"
+    },
+    "abomasnow-mega": {
+      "id": 10060,
+      "name": "abomasnow-mega",
+      "species": "abomasnow",
+      "path": "/pokemon-sprites/abomasnow-mega.png"
+    },
+    "absol": {
+      "id": 359,
+      "name": "absol",
+      "species": "absol",
+      "path": "/pokemon-sprites/absol.png"
+    },
+    "absol-mega": {
+      "id": 10057,
+      "name": "absol-mega",
+      "species": "absol",
+      "path": "/pokemon-sprites/absol-mega.png"
+    },
+    "alakazam": {
+      "id": 65,
+      "name": "alakazam",
+      "species": "alakazam",
+      "path": "/pokemon-sprites/alakazam.png"
+    },
+    "arboliva": {
+      "id": 930,
+      "name": "arboliva",
+      "species": "arboliva",
+      "path": "/pokemon-sprites/arboliva.png"
+    },
+    "archaludon": {
+      "id": 1018,
+      "name": "archaludon",
+      "species": "archaludon",
+      "path": "/pokemon-sprites/archaludon.png"
+    },
+    "barbaracle": {
+      "id": 689,
+      "name": "barbaracle",
+      "species": "barbaracle",
+      "path": "/pokemon-sprites/barbaracle.png"
+    },
+    "beedrill": {
+      "id": 15,
+      "name": "beedrill",
+      "species": "beedrill",
+      "path": "/pokemon-sprites/beedrill.png"
+    },
+    "bellibolt": {
+      "id": 939,
+      "name": "bellibolt",
+      "species": "bellibolt",
+      "path": "/pokemon-sprites/bellibolt.png"
+    },
+    "blaziken": {
+      "id": 257,
+      "name": "blaziken",
+      "species": "blaziken",
+      "path": "/pokemon-sprites/blaziken.png"
+    },
+    "bouffalant": {
+      "id": 626,
+      "name": "bouffalant",
+      "species": "bouffalant",
+      "path": "/pokemon-sprites/bouffalant.png"
+    },
+    "ceruledge": {
+      "id": 937,
+      "name": "ceruledge",
+      "species": "ceruledge",
+      "path": "/pokemon-sprites/ceruledge.png"
+    },
+    "charizard": {
+      "id": 6,
+      "name": "charizard",
+      "species": "charizard",
+      "path": "/pokemon-sprites/charizard.png"
+    },
+    "charizard-mega-x": {
+      "id": 10034,
+      "name": "charizard-mega-x",
+      "species": "charizard",
+      "path": "/pokemon-sprites/charizard-mega-x.png"
+    },
+    "clefairy": {
+      "id": 35,
+      "name": "clefairy",
+      "species": "clefairy",
+      "path": "/pokemon-sprites/clefairy.png"
+    },
+    "crustle": {
+      "id": 558,
+      "name": "crustle",
+      "species": "crustle",
+      "path": "/pokemon-sprites/crustle.png"
+    },
+    "decidueye": {
+      "id": 724,
+      "name": "decidueye",
+      "species": "decidueye",
+      "path": "/pokemon-sprites/decidueye.png"
+    },
+    "diancie": {
+      "id": 719,
+      "name": "diancie",
+      "species": "diancie",
+      "path": "/pokemon-sprites/diancie.png"
+    },
+    "diancie-mega": {
+      "id": 10075,
+      "name": "diancie-mega",
+      "species": "diancie",
+      "path": "/pokemon-sprites/diancie-mega.png"
+    },
+    "doublade": {
+      "id": 680,
+      "name": "doublade",
+      "species": "doublade",
+      "path": "/pokemon-sprites/doublade.png"
+    },
+    "dragapult": {
+      "id": 887,
+      "name": "dragapult",
+      "species": "dragapult",
+      "path": "/pokemon-sprites/dragapult.png"
+    },
+    "dusknoir": {
+      "id": 477,
+      "name": "dusknoir",
+      "species": "dusknoir",
+      "path": "/pokemon-sprites/dusknoir.png"
+    },
+    "eelektrik": {
+      "id": 603,
+      "name": "eelektrik",
+      "species": "eelektrik",
+      "path": "/pokemon-sprites/eelektrik.png"
+    },
+    "flareon": {
+      "id": 136,
+      "name": "flareon",
+      "species": "flareon",
+      "path": "/pokemon-sprites/flareon.png"
+    },
+    "froslass": {
+      "id": 478,
+      "name": "froslass",
+      "species": "froslass",
+      "path": "/pokemon-sprites/froslass.png"
+    },
+    "froslass-mega": {
+      "id": 10285,
+      "name": "froslass-mega",
+      "species": "froslass",
+      "path": "/pokemon-sprites/froslass-mega.png"
+    },
+    "garchomp": {
+      "id": 445,
+      "name": "garchomp",
+      "species": "garchomp",
+      "path": "/pokemon-sprites/garchomp.png"
+    },
+    "gardevoir": {
+      "id": 282,
+      "name": "gardevoir",
+      "species": "gardevoir",
+      "path": "/pokemon-sprites/gardevoir.png"
+    },
+    "gardevoir-mega": {
+      "id": 10051,
+      "name": "gardevoir-mega",
+      "species": "gardevoir",
+      "path": "/pokemon-sprites/gardevoir-mega.png"
+    },
+    "greninja": {
+      "id": 658,
+      "name": "greninja",
+      "species": "greninja",
+      "path": "/pokemon-sprites/greninja.png"
+    },
+    "greninja-mega": {
+      "id": 10294,
+      "name": "greninja-mega",
+      "species": "greninja",
+      "path": "/pokemon-sprites/greninja-mega.png"
+    },
+    "grimmsnarl": {
+      "id": 861,
+      "name": "grimmsnarl",
+      "species": "grimmsnarl",
+      "path": "/pokemon-sprites/grimmsnarl.png"
+    },
+    "hariyama": {
+      "id": 297,
+      "name": "hariyama",
+      "species": "hariyama",
+      "path": "/pokemon-sprites/hariyama.png"
+    },
+    "honchkrow": {
+      "id": 430,
+      "name": "honchkrow",
+      "species": "honchkrow",
+      "path": "/pokemon-sprites/honchkrow.png"
+    },
+    "hydrapple": {
+      "id": 1019,
+      "name": "hydrapple",
+      "species": "hydrapple",
+      "path": "/pokemon-sprites/hydrapple.png"
+    },
+    "hydreigon": {
+      "id": 635,
+      "name": "hydreigon",
+      "species": "hydreigon",
+      "path": "/pokemon-sprites/hydreigon.png"
+    },
+    "joltik": {
+      "id": 595,
+      "name": "joltik",
+      "species": "joltik",
+      "path": "/pokemon-sprites/joltik.png"
+    },
+    "kangaskhan": {
+      "id": 115,
+      "name": "kangaskhan",
+      "species": "kangaskhan",
+      "path": "/pokemon-sprites/kangaskhan.png"
+    },
+    "kangaskhan-mega": {
+      "id": 10039,
+      "name": "kangaskhan-mega",
+      "species": "kangaskhan",
+      "path": "/pokemon-sprites/kangaskhan-mega.png"
+    },
+    "lopunny": {
+      "id": 428,
+      "name": "lopunny",
+      "species": "lopunny",
+      "path": "/pokemon-sprites/lopunny.png"
+    },
+    "lopunny-mega": {
+      "id": 10088,
+      "name": "lopunny-mega",
+      "species": "lopunny",
+      "path": "/pokemon-sprites/lopunny-mega.png"
+    },
+    "lucario": {
+      "id": 448,
+      "name": "lucario",
+      "species": "lucario",
+      "path": "/pokemon-sprites/lucario.png"
+    },
+    "lucario-mega": {
+      "id": 10059,
+      "name": "lucario-mega",
+      "species": "lucario",
+      "path": "/pokemon-sprites/lucario-mega.png"
+    },
+    "lunatone": {
+      "id": 337,
+      "name": "lunatone",
+      "species": "lunatone",
+      "path": "/pokemon-sprites/lunatone.png"
+    },
+    "magcargo": {
+      "id": 219,
+      "name": "magcargo",
+      "species": "magcargo",
+      "path": "/pokemon-sprites/magcargo.png"
+    },
+    "manectric": {
+      "id": 310,
+      "name": "manectric",
+      "species": "manectric",
+      "path": "/pokemon-sprites/manectric.png"
+    },
+    "meganium": {
+      "id": 154,
+      "name": "meganium",
+      "species": "meganium",
+      "path": "/pokemon-sprites/meganium.png"
+    },
+    "metagross": {
+      "id": 376,
+      "name": "metagross",
+      "species": "metagross",
+      "path": "/pokemon-sprites/metagross.png"
+    },
+    "mewtwo": {
+      "id": 150,
+      "name": "mewtwo",
+      "species": "mewtwo",
+      "path": "/pokemon-sprites/mewtwo.png"
+    },
+    "munkidori": {
+      "id": 1015,
+      "name": "munkidori",
+      "species": "munkidori",
+      "path": "/pokemon-sprites/munkidori.png"
+    },
+    "noctowl": {
+      "id": 164,
+      "name": "noctowl",
+      "species": "noctowl",
+      "path": "/pokemon-sprites/noctowl.png"
+    },
+    "ogerpon": {
+      "id": 1017,
+      "name": "ogerpon",
+      "species": "ogerpon",
+      "path": "/pokemon-sprites/ogerpon.png"
+    },
+    "okidogi": {
+      "id": 1014,
+      "name": "okidogi",
+      "species": "okidogi",
+      "path": "/pokemon-sprites/okidogi.png"
+    },
+    "raging-bolt": {
+      "id": 1021,
+      "name": "raging-bolt",
+      "species": "raging-bolt",
+      "path": "/pokemon-sprites/raging-bolt.png"
+    },
+    "sharpedo": {
+      "id": 319,
+      "name": "sharpedo",
+      "species": "sharpedo",
+      "path": "/pokemon-sprites/sharpedo.png"
+    },
+    "sharpedo-mega": {
+      "id": 10070,
+      "name": "sharpedo-mega",
+      "species": "sharpedo",
+      "path": "/pokemon-sprites/sharpedo-mega.png"
+    },
+    "slowking": {
+      "id": 199,
+      "name": "slowking",
+      "species": "slowking",
+      "path": "/pokemon-sprites/slowking.png"
+    },
+    "spidops": {
+      "id": 918,
+      "name": "spidops",
+      "species": "spidops",
+      "path": "/pokemon-sprites/spidops.png"
+    },
+    "starmie": {
+      "id": 121,
+      "name": "starmie",
+      "species": "starmie",
+      "path": "/pokemon-sprites/starmie.png"
+    },
+    "starmie-mega": {
+      "id": 10280,
+      "name": "starmie-mega",
+      "species": "starmie",
+      "path": "/pokemon-sprites/starmie-mega.png"
+    },
+    "sylveon": {
+      "id": 700,
+      "name": "sylveon",
+      "species": "sylveon",
+      "path": "/pokemon-sprites/sylveon.png"
+    },
+    "trevenant": {
+      "id": 709,
+      "name": "trevenant",
+      "species": "trevenant",
+      "path": "/pokemon-sprites/trevenant.png"
+    },
+    "typhlosion": {
+      "id": 157,
+      "name": "typhlosion",
+      "species": "typhlosion",
+      "path": "/pokemon-sprites/typhlosion.png"
+    },
+    "ursaluna": {
+      "id": 901,
+      "name": "ursaluna",
+      "species": "ursaluna",
+      "path": "/pokemon-sprites/ursaluna.png"
+    },
+    "venusaur": {
+      "id": 3,
+      "name": "venusaur",
+      "species": "venusaur",
+      "path": "/pokemon-sprites/venusaur.png"
+    },
+    "venusaur-mega": {
+      "id": 10033,
+      "name": "venusaur-mega",
+      "species": "venusaur",
+      "path": "/pokemon-sprites/venusaur-mega.png"
+    },
+    "yanmega": {
+      "id": 469,
+      "name": "yanmega",
+      "species": "yanmega",
+      "path": "/pokemon-sprites/yanmega.png"
+    },
+    "zacian": {
+      "id": 888,
+      "name": "zacian",
+      "species": "zacian",
+      "path": "/pokemon-sprites/zacian.png"
+    },
+    "zoroark": {
+      "id": 571,
+      "name": "zoroark",
+      "species": "zoroark",
+      "path": "/pokemon-sprites/zoroark.png"
+    }
+  },
+  "deckMappings": {
+    "alakazam": [
+      "alakazam"
+    ],
+    "alakazam dudunsparce": [
+      "alakazam"
+    ],
+    "archaludon": [
+      "archaludon"
+    ],
+    "archaludon dudunsparce": [
+      "archaludon"
+    ],
+    "basic box": [],
+    "beedrill": [
+      "beedrill"
+    ],
+    "blaziken": [
+      "blaziken"
+    ],
+    "bloodmoon ursaluna": [
+      "ursaluna"
+    ],
+    "ceruledge": [
+      "ceruledge"
+    ],
+    "crustle": [
+      "crustle"
+    ],
+    "cynthias garchomp": [
+      "garchomp"
+    ],
+    "decidueye": [
+      "decidueye"
+    ],
+    "diancie dusknoir": [
+      "dusknoir",
+      "diancie"
+    ],
+    "doublade": [
+      "doublade"
+    ],
+    "dragapult": [
+      "dragapult"
+    ],
+    "dragapult blaziken": [
+      "dragapult",
+      "blaziken"
+    ],
+    "dragapult dudunsparce": [
+      "dragapult"
+    ],
+    "dragapult dusknoir": [
+      "dragapult",
+      "dusknoir"
+    ],
+    "ethans magcargo": [
+      "magcargo"
+    ],
+    "ethans typhlosion": [
+      "typhlosion"
+    ],
+    "festival lead": [],
+    "flareon": [
+      "flareon"
+    ],
+    "flareon noctowl": [
+      "flareon",
+      "noctowl"
+    ],
+    "froslass munkidori": [
+      "munkidori",
+      "froslass"
+    ],
+    "greninja": [
+      "greninja"
+    ],
+    "grimmsnarl froslass": [
+      "grimmsnarl",
+      "froslass"
+    ],
+    "hops trevenant": [
+      "trevenant"
+    ],
+    "hops zacian": [
+      "zacian"
+    ],
+    "hydrapple": [
+      "hydrapple"
+    ],
+    "hydreigon": [
+      "hydreigon"
+    ],
+    "joltik box": [
+      "joltik"
+    ],
+    "kangaskhan bouffalant": [
+      "kangaskhan",
+      "bouffalant"
+    ],
+    "lillies clefairy": [
+      "clefairy"
+    ],
+    "lopunny dudunsparce": [
+      "lopunny"
+    ],
+    "lucario hariyama": [
+      "hariyama",
+      "lucario"
+    ],
+    "manectric eelektrik": [
+      "manectric",
+      "eelektrik"
+    ],
+    "marnies grimmsnarl": [
+      "grimmsnarl"
+    ],
+    "mega abomasnow": [
+      "abomasnow-mega"
+    ],
+    "mega absol box": [
+      "absol-mega"
+    ],
+    "mega charizard x": [
+      "charizard-mega-x"
+    ],
+    "mega diancie": [
+      "diancie-mega"
+    ],
+    "mega froslass": [
+      "froslass-mega"
+    ],
+    "mega gardevoir": [
+      "gardevoir-mega"
+    ],
+    "mega greninja": [
+      "greninja-mega"
+    ],
+    "mega kangaskhan": [
+      "kangaskhan-mega"
+    ],
+    "mega lopunny": [
+      "lopunny-mega"
+    ],
+    "mega lucario": [
+      "lucario-mega"
+    ],
+    "mega sharpedo": [
+      "sharpedo-mega"
+    ],
+    "mega starmie": [
+      "starmie-mega"
+    ],
+    "mega venusaur": [
+      "venusaur-mega"
+    ],
+    "metagross": [
+      "metagross"
+    ],
+    "ns zoroark": [
+      "zoroark"
+    ],
+    "ogerpon box": [
+      "ogerpon"
+    ],
+    "ogerpon meganium": [
+      "meganium",
+      "ogerpon"
+    ],
+    "ogerpon meganium arboliva": [
+      "meganium",
+      "arboliva",
+      "ogerpon"
+    ],
+    "ogerpon meganium hydrapple": [
+      "hydrapple",
+      "meganium",
+      "ogerpon"
+    ],
+    "okidogi": [
+      "okidogi"
+    ],
+    "okidogi barbaracle": [
+      "barbaracle",
+      "okidogi"
+    ],
+    "other": [],
+    "palafin": [],
+    "raging bolt": [
+      "raging-bolt"
+    ],
+    "raging bolt bellibolt": [
+      "raging-bolt",
+      "bellibolt"
+    ],
+    "raging bolt ogerpon": [
+      "raging-bolt",
+      "ogerpon"
+    ],
+    "rockets honchkrow": [
+      "honchkrow"
+    ],
+    "rockets mewtwo": [
+      "mewtwo"
+    ],
+    "rockets spidops": [
+      "spidops"
+    ],
+    "sharpedo toxtricity": [
+      "sharpedo"
+    ],
+    "slowking": [
+      "slowking"
+    ],
+    "starmie dusknoir": [
+      "dusknoir",
+      "starmie"
+    ],
+    "starmie froslass": [
+      "froslass",
+      "starmie"
+    ],
+    "stevens metagross": [
+      "metagross"
+    ],
+    "sylveon": [
+      "sylveon"
+    ],
+    "tera box": [],
+    "toxtricity": [],
+    "toxtricity box": [],
+    "ursaluna lunatone": [
+      "lunatone",
+      "ursaluna"
+    ],
+    "yanmega": [
+      "yanmega"
+    ]
+  }
+}

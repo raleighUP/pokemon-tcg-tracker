@@ -12,6 +12,7 @@ import {
   SwipeActionRow,
   cn,
 } from '@/components/ui'
+import DeckIdentity from './DeckIdentity'
 
 type Props = {
   decks: Deck[]
@@ -55,7 +56,7 @@ export default function SavedDecks({
   }
 
   return (
-    <Panel className="space-y-4">
+    <Panel variant="elevated" className="space-y-4">
       <SectionHeader title="Saved Decks" />
 
       {decks.length === 0 ? (
@@ -106,14 +107,14 @@ export default function SavedDecks({
                 ]}
                 className="rounded-2xl"
                 contentClassName={cn(
-                  'surface-card-elevated border border-[var(--surface-border)]',
+                  'saved-deck-card surface-card-elevated border border-[var(--surface-border)]',
                   isSelected &&
                     'shadow-[inset_0_0_0_1px_rgba(23,107,181,0.55)]'
                 )}
               >
                 <button
                   type="button"
-                  className="motion-press flex min-h-[64px] w-full items-center rounded-2xl p-3 text-left hover:bg-white/[0.04]"
+                  className="motion-press flex min-h-[64px] w-full items-center gap-3 rounded-2xl p-3 text-left hover:bg-white/[0.04]"
                   onClick={() => openDeckDetail(deck)}
                 >
                   <span className="min-w-0 flex-1">
@@ -122,9 +123,18 @@ export default function SavedDecks({
                     </span>
 
                     <span className="type-metadata mt-1 block truncate text-[var(--text-muted)]">
-                      {deck.variant || deck.archetype || 'Other'} - {normalizeComfort(deck.comfort)}/5
+                      {deck.variant || deck.archetype || 'Other'} · {normalizeComfort(deck.comfort)}/5
                     </span>
                   </span>
+                  <DeckIdentity
+                    name=""
+                    spriteSource={deck.variant || deck.archetype || deck.name}
+                    size="expanded"
+                    maxSprites={3}
+                    bareSprites
+                    showLabel={false}
+                    className="ml-auto shrink-0"
+                  />
                 </button>
               </SwipeActionRow>
             )
@@ -142,16 +152,21 @@ export default function SavedDecks({
         {detailDeck && (
           <div className="flex h-full flex-col">
             <div className="px-4 pb-4 pt-1">
-              <h3 className="truncate text-[1.35rem] font-[760] leading-tight text-white">
+              <h3 className="truncate text-[1.35rem] font-[760] leading-tight text-[var(--text-primary)]">
                 {detailDeck.name}
               </h3>
 
-              <p className="type-card-title mt-1 truncate text-[var(--text-secondary)]">
-                Archetype - {detailDeck.archetype || 'Other'}
-              </p>
+              <DeckIdentity
+                name={detailDeck.variant || detailDeck.archetype || 'Other'}
+                spriteSource={detailDeck.variant || detailDeck.archetype || detailDeck.name}
+                size="standard"
+                maxSprites={2}
+                bareSprites
+                className="type-card-title mt-1 text-[var(--text-secondary)]"
+              />
             </div>
 
-            <pre className="flex-1 overflow-auto whitespace-pre-wrap border-t border-white/10 px-4 py-3 font-mono text-sm leading-6 text-[var(--text-secondary)]">
+            <pre className="flex-1 overflow-auto whitespace-pre-wrap border-t border-[var(--divider)] px-4 py-3 font-mono text-sm leading-6 text-[var(--text-secondary)]">
               {detailDeck.decklist}
             </pre>
           </div>

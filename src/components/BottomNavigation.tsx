@@ -58,7 +58,7 @@ export default function BottomNavigation({
 }: Props) {
   return (
     <nav className="fixed inset-x-0 bottom-[max(0.5rem,calc(env(safe-area-inset-bottom)-0.5rem))] z-50 px-4">
-      <div className="surface-card-glass mx-auto grid h-[66px] max-w-[390px] grid-cols-5 items-center gap-0.5 rounded-full border border-white/12 p-1 shadow-[0_16px_44px_rgba(0,0,0,0.54)] backdrop-blur-2xl">
+      <div className="bottom-nav-surface surface-card-glass mx-auto grid h-[66px] max-w-[390px] grid-cols-5 items-center gap-0.5 rounded-full border p-1 backdrop-blur-2xl">
         {navigationItems.map(({ id, label, Icon }) => {
           const isActive = activeTab === id
 
@@ -71,8 +71,8 @@ export default function BottomNavigation({
               className={cn(
                 'motion-nav-item t-resize group relative mx-auto flex h-12 min-h-0 min-w-0 items-center justify-center overflow-hidden !rounded-[23px]',
                 isActive
-                  ? 'w-[70px] bg-white/24 text-white shadow-[inset_0_1px_0_rgba(255,255,255,0.16),0_8px_18px_rgba(0,0,0,0.24)]'
-                  : 'w-[58px] text-white/82 hover:bg-white/10 hover:text-white'
+                  ? 'bottom-nav-item-active w-[70px]'
+                  : 'bottom-nav-item-inactive w-[58px]'
               )}
             >
               <span className="flex min-w-0 flex-col items-center justify-center gap-0.5">
@@ -80,14 +80,16 @@ export default function BottomNavigation({
                   className={cn(
                     'motion-surface shrink-0',
                     isActive
-                      ? 'h-[23px] w-[23px] text-white'
-                      : 'h-[22px] w-[22px] text-white/86 group-hover:text-white'
+                      ? 'h-[23px] w-[23px]'
+                      : 'h-[22px] w-[22px]'
                   )}
                 />
                 <span
                   className={cn(
                     'max-w-full truncate text-[0.625rem] font-semibold leading-none tracking-normal',
-                    isActive ? 'text-white' : 'text-white/72'
+                    isActive
+                      ? 'bottom-nav-label-active'
+                      : 'bottom-nav-label-inactive'
                   )}
                 >
                   {label}

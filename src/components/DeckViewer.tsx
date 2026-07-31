@@ -33,7 +33,7 @@ export default function DeckViewer({
               Selected Deck
             </StatusBadge>
 
-            <h3 className="mt-3 truncate text-[1.7rem] font-[760] leading-tight text-white">
+            <h3 className="mt-3 truncate text-[1.7rem] font-[760] leading-tight text-[var(--text-primary)]">
               {selectedDeck.name}
             </h3>
 
@@ -50,7 +50,7 @@ export default function DeckViewer({
           </NestedPanel>
 
           <NestedPanel className="rounded-[18px] p-0">
-            <div className="border-b border-white/10 px-4 py-3">
+            <div className="border-b border-[var(--divider)] px-4 py-3">
               <p className="type-card-title text-[var(--text-primary)]">
                 Decklist
               </p>

@@ -21,8 +21,20 @@ export type Match = {
   gameStarts: ('1st' | '2nd')[]
   diceRollWins?: boolean[]
   finalResult: string
+  alternateOutcome?: AlternateRoundOutcome
   notes?: string
 }
+
+export type AlternateRoundOutcome = 'intentionalDraw' | 'noShow' | 'bye'
+
+export type TournamentType =
+  | 'online'
+  | 'local'
+  | 'league-challenge'
+  | 'league-cup'
+  | 'regional'
+  | 'international'
+  | 'worlds'
 
 export type EventRecord = {
   id: number

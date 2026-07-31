@@ -212,6 +212,7 @@ export function createManifest({ sets, setCards, generatedAt }) {
         name: set.name,
         printedTotal: set.printedTotal,
         total: set.total,
+        ptcgoCode: set.ptcgoCode,
         releaseDate: set.releaseDate,
         lastUpdated: set.lastUpdated,
         cardCount: cards.length,

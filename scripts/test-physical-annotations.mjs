@@ -14,6 +14,10 @@ draft.regions=[{id:'a',normalizedBounds:{x:.1,y:.1,width:.2,height:.3},cardName:
 assert.equal(validatePhysicalAnnotations(draft,[{name:'Basic Psychic Energy',setCode:'SVE',collectorNumber:'5',quantity:56},{name:'Meowth ex',setCode:'POR',collectorNumber:'62',quantity:4}]).status,'valid')
 const invalid=structuredClone(draft);invalid.regions[1].quantity=5
 assert.ok(validatePhysicalAnnotations(invalid).issues.some((issue)=>issue.code==='quantity'))
+const locked=structuredClone(draft);locked.trainingMetadata={imageId:'image-test',captureSessionId:'session-test',sourceType:'real-photo',orientation:'landscape',reviewStatus:'locked'};locked.regions=locked.regions.map(region=>({...region,training:{reviewStatus:'locked'}}))
+assert.ok(validatePhysicalAnnotations(locked).issues.some(issue=>issue.code==='reviewer'),'locked fixture requires reviewer')
+locked.trainingMetadata.reviewedBy='reviewer';assert.ok(!validatePhysicalAnnotations(locked).issues.some(issue=>issue.code==='training-metadata'||issue.code==='reviewer'||issue.code==='region-review'))
+const duplicateBounds=structuredClone(locked);duplicateBounds.regions[1].normalizedBounds=duplicateBounds.regions[0].normalizedBounds;assert.ok(validatePhysicalAnnotations(duplicateBounds).issues.some(issue=>issue.code==='duplicate-bounds'))
 const quadrilateral=structuredClone(draft);quadrilateral.regions[0].topCardQuad=[{x:.11,y:.11},{x:.28,y:.12},{x:.27,y:.38},{x:.12,y:.37}]
 assert.ok(!validatePhysicalAnnotations(quadrilateral).issues.some((issue)=>issue.code==='top-quad'))
 quadrilateral.regions[0].topCardQuad[2]={x:.4,y:.4}

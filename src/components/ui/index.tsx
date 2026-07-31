@@ -110,7 +110,7 @@ export function cn(...classes: Array<string | false | null | undefined>) {
 }
 
 const fieldBaseClass =
-  'motion-surface w-full min-h-12 rounded-2xl border border-[var(--surface-border)] bg-[var(--surface-elevated)] px-4 py-3 text-base leading-tight text-[var(--text-primary)] shadow-[inset_0_1px_0_rgba(255,255,255,0.035)] outline-none placeholder:text-[var(--text-muted)] focus:border-[var(--color-primary)] focus:bg-[#202024] focus-visible:ring-2 focus-visible:ring-[rgba(23,107,181,0.35)] disabled:border-[var(--surface-border)] disabled:bg-[#101012] disabled:text-[var(--text-muted)]'
+  'motion-surface w-full min-h-12 rounded-2xl border border-[var(--surface-border)] bg-[var(--control-bg)] px-4 py-3 text-base leading-tight text-[var(--text-primary)] shadow-[var(--control-inset-shadow)] outline-none placeholder:text-[var(--text-muted)] focus:border-[var(--color-primary)] focus:bg-[var(--control-focus-bg)] focus-visible:ring-2 focus-visible:ring-[var(--focus-ring)] disabled:border-[var(--surface-border)] disabled:bg-[var(--control-disabled-bg)] disabled:text-[var(--text-muted)]'
 
 const fieldErrorClass =
   'border-[var(--color-error)] bg-[rgba(160,24,24,0.16)] ring-2 ring-[rgba(160,24,24,0.38)]'
@@ -118,15 +118,15 @@ const fieldErrorClass =
 const feedbackToneClasses: Record<FeedbackTone, string> = {
   neutral: 'bg-[var(--surface-elevated)] text-[var(--text-secondary)]',
   info: 'bg-[var(--color-primary)] text-white',
-  success: 'bg-[var(--color-success)] text-white',
-  warning: 'bg-[var(--color-warning)] text-black',
-  danger: 'bg-[var(--color-error)] text-white',
+  success: 'border border-[var(--status-success-border)] bg-[var(--status-success-bg)] text-[var(--status-success-text)]',
+  warning: 'border border-[var(--status-warning-border)] bg-[var(--status-warning-bg)] text-[var(--status-warning-text)]',
+  danger: 'border border-[var(--status-danger-border)] bg-[var(--status-danger-bg)] text-[var(--status-danger-text)]',
 }
 
 const matchupToneClasses: Record<MatchupTone, string> = {
-  favored: 'border-[rgba(47,116,59,0.58)] bg-[rgba(47,116,59,0.18)]',
-  neutral: 'border-[rgba(220,192,65,0.52)] bg-[rgba(220,192,65,0.14)]',
-  unfavored: 'border-[rgba(160,24,24,0.58)] bg-[rgba(160,24,24,0.18)]',
+  favored: 'border-[var(--success-border)] bg-[var(--success-soft)]',
+  neutral: 'border-[var(--tie-border)] bg-[var(--tie-soft)]',
+  unfavored: 'border-[var(--loss-border)] bg-[var(--loss-soft)]',
 }
 
 const cardVariantClasses: Record<CardVariant, string> = {
@@ -441,14 +441,14 @@ export function SectionHeader({
 }
 
 const buttonToneClasses: Record<Tone, string> = {
-  primary: 'bg-[var(--color-primary)] text-white hover:bg-[#1d78c8]',
-  secondary: 'border border-[var(--surface-border)] bg-[rgba(26,26,29,0.84)] text-[var(--text-secondary)] hover:border-[#3a3a40] hover:bg-[#232327] hover:text-white',
-  tertiary: 'bg-transparent text-[#6fb2ed] hover:bg-[rgba(23,107,181,0.1)] hover:text-white',
+  primary: 'primary-button text-white shadow-[var(--primary-button-shadow)] hover:bg-[var(--color-primary-hover)]',
+  secondary: 'border border-[var(--surface-border)] bg-[var(--button-secondary-bg)] text-[var(--text-secondary)] hover:border-[var(--surface-border-strong)] hover:bg-[var(--button-secondary-hover)] hover:text-[var(--text-primary)]',
+  tertiary: 'bg-transparent text-[var(--link-color)] hover:bg-[var(--accent-soft)] hover:text-[var(--text-primary)]',
   accent: 'bg-[var(--color-warning)] text-black hover:bg-[#ead053]',
-  danger: 'bg-transparent text-[#ff9a9a] hover:bg-[rgba(160,24,24,0.14)]',
+  danger: 'bg-transparent text-[var(--danger-text)] hover:bg-[var(--danger-soft)]',
   success: 'bg-[var(--color-success)] text-white hover:bg-[#3a8546]',
-  purple: 'bg-[var(--color-primary)] text-white hover:bg-[#1d78c8]',
-  ghost: 'border border-[var(--surface-border)] bg-white/8 text-[var(--text-secondary)] hover:bg-white/12 hover:text-white',
+  purple: 'bg-[var(--color-primary)] text-white hover:bg-[var(--color-primary-hover)]',
+  ghost: 'border border-[var(--surface-border)] bg-[var(--button-ghost-bg)] text-[var(--text-secondary)] hover:bg-[var(--button-ghost-hover)] hover:text-[var(--text-primary)]',
 }
 
 const buttonSizeClasses: Record<Size, string> = {
@@ -471,7 +471,7 @@ export function Button({
     <button
       type={type}
       className={cn(
-        'motion-press min-h-11 rounded-[14px] font-semibold focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[rgba(23,107,181,0.45)] disabled:border-transparent disabled:bg-[#161619] disabled:text-[var(--text-muted)] disabled:active:scale-100',
+        'motion-press min-h-11 rounded-[14px] font-semibold focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--focus-ring)] disabled:border-transparent disabled:bg-[var(--control-disabled-bg)] disabled:text-[var(--text-muted)] disabled:active:scale-100',
         buttonToneClasses[tone],
         buttonSizeClasses[size],
         className
@@ -572,7 +572,7 @@ export function SegmentedControl<TValue extends string>({
       <span
         ref={pillRef}
         aria-hidden="true"
-        className="t-tabs-pill rounded-[14px] shadow-[0_6px_18px_rgba(23,107,181,0.22)]"
+        className="t-tabs-pill rounded-[14px] shadow-[var(--tabs-pill-shadow)]"
       />
 
       {options.map((option, index) => (
@@ -588,7 +588,7 @@ export function SegmentedControl<TValue extends string>({
           className={cn(
             't-tab motion-press min-h-[34px] whitespace-nowrap rounded-[14px] px-3 py-1.5 text-sm font-semibold focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[rgba(23,107,181,0.45)]',
             option.value === value
-              ? 'text-white'
+              ? 'text-[var(--tabs-text-active)]'
               : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]',
             buttonClassName
           )}
@@ -973,11 +973,13 @@ export const SelectField = forwardRef<
   HTMLSelectElement,
   SelectHTMLAttributes<HTMLSelectElement> & {
     invalid?: boolean
+    selectedContent?: ReactNode
   }
 >(function SelectField(
   {
     className,
     invalid = false,
+    selectedContent,
     children,
     style,
     value,
@@ -1100,7 +1102,7 @@ export const SelectField = forwardRef<
         )}
       >
         <span className="min-w-0 flex-1 truncate">
-          {selectedOption?.label ?? 'Select'}
+          {selectedContent ?? selectedOption?.label ?? 'Select'}
         </span>
         <span
           aria-hidden="true"
@@ -1114,7 +1116,7 @@ export const SelectField = forwardRef<
         open={open}
         onClose={() => setOpen(false)}
         ariaLabel={ariaLabel ? `${ariaLabel} picker` : 'selection picker'}
-        contentClassName="overflow-hidden"
+        contentClassName="select-picker-surface overflow-hidden"
       >
         <div className="px-4 pb-4">
           <div className="mb-3 flex items-start justify-between gap-3">
@@ -1150,12 +1152,10 @@ export const SelectField = forwardRef<
                   disabled={option.disabled}
                   onClick={() => selectOption(String(option.value))}
                   className={cn(
-                    'motion-press flex min-h-12 w-full items-center justify-between gap-3 rounded-[14px] border px-4 py-3 text-left text-sm font-semibold',
-                    isSelected
-                      ? 'border-[rgba(23,107,181,0.62)] bg-[rgba(23,107,181,0.2)] text-white shadow-[inset_0_1px_0_rgba(255,255,255,0.07)]'
-                      : 'border-white/8 bg-white/[0.035] text-[var(--text-secondary)] hover:border-white/14 hover:bg-white/[0.07] hover:text-white',
+                    'select-picker-option motion-press flex min-h-12 w-full items-center justify-between gap-3 rounded-[14px] border px-4 py-3 text-left text-sm font-semibold',
+                    isSelected && 'is-selected',
                     option.disabled &&
-                      'cursor-not-allowed opacity-45 hover:border-white/8 hover:bg-white/[0.035] hover:text-[var(--text-secondary)]'
+                      'is-disabled cursor-not-allowed opacity-45'
                   )}
                 >
                   <span className="min-w-0 truncate">{option.label}</span>

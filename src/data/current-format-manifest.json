@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "standard-hij",
+  "label": "Standard · H–J",
+  "regulationMarks": [
+    "H",
+    "I",
+    "J"
+  ],
+  "earliestIncludedSet": "Temporal Forces",
+  "earliestIncludedSetCode": "TEF",
+  "latestLegalSet": null,
+  "latestLegalSetCode": null,
+  "effectiveDate": "2026-04-10",
+  "generatedAt": "2026-07-31T23:05:21.145Z",
+  "source": "installed-legality-manifest",
+  "sourceVersion": "2026.1",
+  "fallback": true,
+  "diagnostic": "No release-dated legal sets were available; using the latest verified installed format."
+}

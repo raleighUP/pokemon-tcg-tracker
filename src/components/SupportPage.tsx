@@ -17,7 +17,7 @@ export default function SupportPage() {
       <div className="mx-auto max-w-3xl space-y-5">
         <Link
           href="/"
-          className="inline-flex min-h-11 items-center font-semibold text-[#6fb2ed] hover:text-white"
+          className="inline-flex min-h-11 items-center font-semibold text-[var(--link-color)] hover:text-[var(--text-primary)]"
         >
           ← Back to {APP_NAME}
         </Link>
@@ -34,7 +34,7 @@ export default function SupportPage() {
             Email{' '}
             <a
               href={emailHref}
-              className="break-all font-semibold text-[#6fb2ed] underline decoration-[#6fb2ed]/40 underline-offset-4 hover:text-white"
+              className="break-all font-semibold text-[var(--link-color)] underline decoration-current/40 underline-offset-4 hover:text-[var(--text-primary)]"
             >
               {SUPPORT_EMAIL}
             </a>
@@ -62,7 +62,7 @@ export default function SupportPage() {
           </p>
           <Link
             href={PRIVACY_POLICY_PATH}
-            className="inline-flex min-h-11 items-center font-semibold text-[#6fb2ed] hover:text-white"
+            className="inline-flex min-h-11 items-center font-semibold text-[var(--link-color)] hover:text-[var(--text-primary)]"
           >
             View Privacy Policy
           </Link>

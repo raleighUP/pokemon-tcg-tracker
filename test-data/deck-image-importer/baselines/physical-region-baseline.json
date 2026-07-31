@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-16T20:12:15.708Z",
-  "sourceCommit": "adc432f6c21100ede64a15232eae7a085883094d",
+  "generatedAt": "2026-07-17T15:58:33.376Z",
+  "sourceCommit": "885bc3958767a3f1573e5202124b1819ed381bd9",
   "thresholds": {
     "minimumMatchIoU": 0.3,
     "duplicateIoU": 0.3,
@@ -44,11 +44,11 @@
       "duplicateRegions": 3,
       "recall": 0.375,
       "precision": 0.2647058823529412,
-      "meanIoU": 0.4920545452919127,
+      "meanIoU": 0.4862299392191383,
       "medianIoU": 0.48427385022145475,
       "progressiveIoU": {
-        "0.05": 19,
-        "0.10": 15,
+        "0.05": 20,
+        "0.10": 17,
         "0.20": 14,
         "0.30": 9,
         "0.50": 3
@@ -83,6 +83,754 @@
         "usefulNearMisses": 8,
         "unknown": 3
       },
+      "nearMissDiagnostics": [
+        {
+          "fixtureId": "aob",
+          "proposalId": "physical-entry-002",
+          "nearestAnnotationId": "region-f03c6f4b-ef5e-470b-a494-32ead23d2207",
+          "currentIoU": 0.2187762839131074,
+          "centerDistance": 0.3090779691476162,
+          "detectorBounds": {
+            "x": 0,
+            "y": 0.1569989579715179,
+            "width": 0.096,
+            "height": 0.3897186523098298
+          },
+          "annotationBounds": {
+            "x": 0,
+            "y": 0.28483649840382486,
+            "width": 0.25127829823040215,
+            "height": 0.13195606321123737
+          },
+          "widthRatio": 0.38204652242580717,
+          "heightRatio": 2.9533970840427544,
+          "areaRatio": 1.1283350853010539,
+          "horizontalOffsetRatio": -0.3089767387870964,
+          "verticalOffsetRatio": 0.007909860991521314,
+          "proposalSource": "dense-window",
+          "proposalScore": 0.8553709885018272,
+          "logicalStackBounds": {
+            "x": 0,
+            "y": 0.1569989579715179,
+            "width": 0.096,
+            "height": 0.3897186523098298
+          },
+          "topCardBounds": {
+            "x": 0.01625,
+            "y": 0.18200764154220214,
+            "width": 0.06,
+            "height": 0.33970128516846126
+          },
+          "failureClass": "wrong-aspect",
+          "minimalConvertingTransformation": null,
+          "counterfactuals": [
+            {
+              "type": "translate-right",
+              "iou": 0.2187762839131074
+            },
+            {
+              "type": "translate-up",
+              "iou": 0.2187762839131074
+            },
+            {
+              "type": "translate-down",
+              "iou": 0.2187762839131074
+            },
+            {
+              "type": "uniform-contract",
+              "iou": 0.21787544104942858
+            },
+            {
+              "type": "horizontal-expand",
+              "iou": 0.21732435581545248
+            },
+            {
+              "type": "vertical-expand",
+              "iou": 0.19373992310633678
+            },
+            {
+              "type": "uniform-expand",
+              "iou": 0.1906288891924279
+            },
+            {
+              "type": "translate-left",
+              "iou": 0.15557327707610685
+            }
+          ]
+        },
+        {
+          "fixtureId": "aob",
+          "proposalId": "physical-entry-004",
+          "nearestAnnotationId": "region-2222511f-cd2f-49c4-a62d-a41dfcffbd8e",
+          "currentIoU": 0.28213153061066054,
+          "centerDistance": 0.40260871681093796,
+          "detectorBounds": {
+            "x": 0.0965,
+            "y": 0.5432441820076416,
+            "width": 0.096,
+            "height": 0.24973949287947203
+          },
+          "annotationBounds": {
+            "x": 0.029356444788564834,
+            "y": 0.527844685281488,
+            "width": 0.23884810666654546,
+            "height": 0.1554730027372777
+          },
+          "widthRatio": 0.40192908095363333,
+          "heightRatio": 1.6063206375546002,
+          "areaRatio": 0.6456269775691748,
+          "horizontalOffsetRatio": -0.017921423709728324,
+          "verticalOffsetRatio": 0.4022096485968063,
+          "proposalSource": "dense-window",
+          "proposalScore": 0.868201895866926,
+          "logicalStackBounds": {
+            "x": 0.0965,
+            "y": 0.5432441820076416,
+            "width": 0.096,
+            "height": 0.24973949287947203
+          },
+          "topCardBounds": {
+            "x": 0.1145,
+            "y": 0.5682528655783258,
+            "width": 0.06,
+            "height": 0.1997221257381035
+          },
+          "failureClass": "shifted",
+          "minimalConvertingTransformation": {
+            "type": "uniform-expand",
+            "iou": 0.33323125079169885
+          },
+          "counterfactuals": [
+            {
+              "type": "uniform-expand",
+              "iou": 0.33323125079169885
+            },
+            {
+              "type": "horizontal-expand",
+              "iou": 0.3242341021924498
+            },
+            {
+              "type": "translate-up",
+              "iou": 0.3231725984641428
+            },
+            {
+              "type": "vertical-expand",
+              "iou": 0.29277554020095625
+            },
+            {
+              "type": "translate-left",
+              "iou": 0.28213153061066054
+            },
+            {
+              "type": "translate-right",
+              "iou": 0.28213153061066054
+            },
+            {
+              "type": "uniform-contract",
+              "iou": 0.22223416557356668
+            },
+            {
+              "type": "translate-down",
+              "iou": 0.13890884124685882
+            }
+          ]
+        },
+        {
+          "fixtureId": "aob",
+          "proposalId": "physical-entry-005",
+          "nearestAnnotationId": "region-2016d031-0572-4fd7-ac15-d44a067ac1ac",
+          "currentIoU": 0.2633006454972561,
+          "centerDistance": 0.45436174057669365,
+          "detectorBounds": {
+            "x": 0.0475,
+            "y": 0.1340743313650573,
+            "width": 0.096,
+            "height": 0.310177144841959
+          },
+          "annotationBounds": {
+            "x": 0.01243022313067311,
+            "y": 0.1685583583281186,
+            "width": 0.23038494848737498,
+            "height": 0.1293430577477343
+          },
+          "widthRatio": 0.4166938883390673,
+          "heightRatio": 2.398096583172763,
+          "areaRatio": 0.9992721898548901,
+          "horizontalOffsetRatio": -0.1394305382589736,
+          "verticalOffsetRatio": 0.4324392631349465,
+          "proposalSource": "dense-window",
+          "proposalScore": 0.8344887540977705,
+          "logicalStackBounds": {
+            "x": 0.0475,
+            "y": 0.1340743313650573,
+            "width": 0.096,
+            "height": 0.310177144841959
+          },
+          "topCardBounds": {
+            "x": 0.0655,
+            "y": 0.1590830149357416,
+            "width": 0.06,
+            "height": 0.26015977770059046
+          },
+          "failureClass": "shifted",
+          "minimalConvertingTransformation": null,
+          "counterfactuals": [
+            {
+              "type": "horizontal-expand",
+              "iou": 0.2942937102027978
+            },
+            {
+              "type": "translate-up",
+              "iou": 0.2633006454972561
+            },
+            {
+              "type": "translate-left",
+              "iou": 0.26330064549725607
+            },
+            {
+              "type": "translate-right",
+              "iou": 0.26330064549725607
+            },
+            {
+              "type": "uniform-contract",
+              "iou": 0.2589514966661835
+            },
+            {
+              "type": "uniform-expand",
+              "iou": 0.25789246064052823
+            },
+            {
+              "type": "vertical-expand",
+              "iou": 0.23377818366321193
+            },
+            {
+              "type": "translate-down",
+              "iou": 0.1614883351166781
+            }
+          ]
+        },
+        {
+          "fixtureId": "aob",
+          "proposalId": "physical-entry-015",
+          "nearestAnnotationId": "region-0f0cedb4-c484-461e-8f00-ee8bccb13898",
+          "currentIoU": 0.2917002776118799,
+          "centerDistance": 0.17055421218038516,
+          "detectorBounds": {
+            "x": 0.10775,
+            "y": 0.7113581104550191,
+            "width": 0.17,
+            "height": 0.1243487321986801
+          },
+          "annotationBounds": {
+            "x": 0.14784015422788893,
+            "y": 0.6754787374155489,
+            "width": 0.07240670080175926,
+            "height": 0.25868607163727375
+          },
+          "widthRatio": 2.3478489990234377,
+          "heightRatio": 0.48069357353356185,
+          "areaRatio": 1.1285959254577724,
+          "horizontalOffsetRatio": 0.12024433201381138,
+          "verticalOffsetRatio": -0.12095470189713231,
+          "proposalSource": "dense-window",
+          "proposalScore": 0.7357003314566076,
+          "logicalStackBounds": {
+            "x": 0.10775,
+            "y": 0.7113581104550191,
+            "width": 0.17,
+            "height": 0.1243487321986801
+          },
+          "topCardBounds": {
+            "x": 0.12275,
+            "y": 0.7387981938172977,
+            "width": 0.14,
+            "height": 0.06946856547412296
+          },
+          "failureClass": "partial-stack",
+          "minimalConvertingTransformation": {
+            "type": "vertical-expand",
+            "iou": 0.3245220043763549
+          },
+          "counterfactuals": [
+            {
+              "type": "vertical-expand",
+              "iou": 0.3245220043763549
+            },
+            {
+              "type": "translate-left",
+              "iou": 0.2917002776118799
+            },
+            {
+              "type": "translate-up",
+              "iou": 0.2917002776118799
+            },
+            {
+              "type": "translate-down",
+              "iou": 0.2917002776118799
+            },
+            {
+              "type": "uniform-contract",
+              "iou": 0.29043462678614373
+            },
+            {
+              "type": "uniform-expand",
+              "iou": 0.28160883564265093
+            },
+            {
+              "type": "translate-right",
+              "iou": 0.2792805200341737
+            },
+            {
+              "type": "horizontal-expand",
+              "iou": 0.25655852264550344
+            }
+          ]
+        },
+        {
+          "fixtureId": "aob",
+          "proposalId": "physical-entry-018",
+          "nearestAnnotationId": "region-d21c5a83-82cc-43e8-8e95-84669daafef9",
+          "currentIoU": 0.280524912846662,
+          "centerDistance": 0.5045136586416118,
+          "detectorBounds": {
+            "x": 0.44875,
+            "y": 0.6613407433136506,
+            "width": 0.13,
+            "height": 0.11114970475859673
+          },
+          "annotationBounds": {
+            "x": 0.5126946583517147,
+            "y": 0.6310578309333252,
+            "width": 0.05548044757705117,
+            "height": 0.24692773344883823
+          },
+          "widthRatio": 2.3431678307831993,
+          "heightRatio": 0.4501305025813401,
+          "areaRatio": 1.05473131330287,
+          "horizontalOffsetRatio": -0.4809781338404023,
+          "verticalOffsetRatio": -0.15229598328041652,
+          "proposalSource": "dense-window",
+          "proposalScore": 0.8478533953620475,
+          "logicalStackBounds": {
+            "x": 0.44875,
+            "y": 0.6613407433136506,
+            "width": 0.13,
+            "height": 0.11114970475859673
+          },
+          "topCardBounds": {
+            "x": 0.46375,
+            "y": 0.6821813129558875,
+            "width": 0.1,
+            "height": 0.06946856547412296
+          },
+          "failureClass": "shifted",
+          "minimalConvertingTransformation": {
+            "type": "vertical-expand",
+            "iou": 0.313039720520167
+          },
+          "counterfactuals": [
+            {
+              "type": "vertical-expand",
+              "iou": 0.313039720520167
+            },
+            {
+              "type": "translate-right",
+              "iou": 0.280524912846662
+            },
+            {
+              "type": "translate-up",
+              "iou": 0.280524912846662
+            },
+            {
+              "type": "translate-down",
+              "iou": 0.280524912846662
+            },
+            {
+              "type": "uniform-contract",
+              "iou": 0.27736836850442137
+            },
+            {
+              "type": "uniform-expand",
+              "iou": 0.27299160129993777
+            },
+            {
+              "type": "horizontal-expand",
+              "iou": 0.24793105570257215
+            },
+            {
+              "type": "translate-left",
+              "iou": 0.15273338788341984
+            }
+          ]
+        },
+        {
+          "fixtureId": "aob",
+          "proposalId": "physical-entry-021",
+          "nearestAnnotationId": "region-19e4a2a9-3b3a-4327-acea-66668e9fbe33",
+          "currentIoU": 0.1811714195807643,
+          "centerDistance": 0.5035780938564188,
+          "detectorBounds": {
+            "x": 0.1895,
+            "y": 0.6422368878082667,
+            "width": 0.09,
+            "height": 0.11114970475859673
+          },
+          "annotationBounds": {
+            "x": 0.22212754281754543,
+            "y": 0.683317670201374,
+            "width": 0.047957696425462104,
+            "height": 0.2482342252160411
+          },
+          "widthRatio": 1.8766539410390954,
+          "heightRatio": 0.44776140220737837,
+          "areaRatio": 0.8402932000976681,
+          "horizontalOffsetRatio": -0.2420131052023244,
+          "verticalOffsetRatio": -0.4416113149845606,
+          "proposalSource": "dense-window",
+          "proposalScore": 0.8635479939113037,
+          "logicalStackBounds": {
+            "x": 0.1895,
+            "y": 0.6422368878082667,
+            "width": 0.09,
+            "height": 0.11114970475859673
+          },
+          "topCardBounds": {
+            "x": 0.2045,
+            "y": 0.6630774574505036,
+            "width": 0.06,
+            "height": 0.06946856547412296
+          },
+          "failureClass": "shifted",
+          "minimalConvertingTransformation": null,
+          "counterfactuals": [
+            {
+              "type": "translate-down",
+              "iou": 0.27260510657997467
+            },
+            {
+              "type": "vertical-expand",
+              "iou": 0.19451870468808533
+            },
+            {
+              "type": "uniform-contract",
+              "iou": 0.18307036620748351
+            },
+            {
+              "type": "translate-right",
+              "iou": 0.1811714195807643
+            },
+            {
+              "type": "uniform-expand",
+              "iou": 0.1736853830962465
+            },
+            {
+              "type": "horizontal-expand",
+              "iou": 0.1635318089615687
+            },
+            {
+              "type": "translate-left",
+              "iou": 0.12553342873725373
+            },
+            {
+              "type": "translate-up",
+              "iou": 0.10199562313074127
+            }
+          ]
+        },
+        {
+          "fixtureId": "aob",
+          "proposalId": "physical-entry-030",
+          "nearestAnnotationId": "region-7733661c-3da8-4402-ac67-3c527ce85602",
+          "currentIoU": 0.17979079157284275,
+          "centerDistance": 0.49344887938061965,
+          "detectorBounds": {
+            "x": 0.29225,
+            "y": 0.6144494616186176,
+            "width": 0.21,
+            "height": 0.11114970475859673
+          },
+          "annotationBounds": {
+            "x": 0.3227446235713964,
+            "y": 0.6663331908819163,
+            "width": 0.18054659584083205,
+            "height": 0.25737962372826584
+          },
+          "widthRatio": 1.163134641348396,
+          "heightRatio": 0.4318512209651276,
+          "areaRatio": 0.5023011150131406,
+          "horizontalOffsetRatio": -0.08733436051994714,
+          "verticalOffsetRatio": -0.4856588370806828,
+          "proposalSource": "dense-window",
+          "proposalScore": 0.7043328092178992,
+          "logicalStackBounds": {
+            "x": 0.29225,
+            "y": 0.6144494616186176,
+            "width": 0.21,
+            "height": 0.11114970475859673
+          },
+          "topCardBounds": {
+            "x": 0.32725,
+            "y": 0.6630774574505036,
+            "width": 0.18,
+            "height": 0.06946856547412296
+          },
+          "failureClass": "shifted",
+          "minimalConvertingTransformation": null,
+          "counterfactuals": [
+            {
+              "type": "translate-down",
+              "iou": 0.2883984698643648
+            },
+            {
+              "type": "vertical-expand",
+              "iou": 0.20428105449576095
+            },
+            {
+              "type": "uniform-expand",
+              "iou": 0.18860550188311526
+            },
+            {
+              "type": "horizontal-expand",
+              "iou": 0.16777244831323612
+            },
+            {
+              "type": "translate-right",
+              "iou": 0.15552761185281386
+            },
+            {
+              "type": "uniform-contract",
+              "iou": 0.15165552183605685
+            },
+            {
+              "type": "translate-left",
+              "iou": 0.12085247305420674
+            },
+            {
+              "type": "translate-up",
+              "iou": 0.0880701224035719
+            }
+          ]
+        },
+        {
+          "fixtureId": "aob",
+          "proposalId": "physical-entry-031",
+          "nearestAnnotationId": "region-beef1cd9-1a82-400d-a878-ac4ba4e6301b",
+          "currentIoU": 0.27335760078959204,
+          "centerDistance": 0.4123928060357581,
+          "detectorBounds": {
+            "x": 0.74875,
+            "y": 0.6234803751302536,
+            "width": 0.09,
+            "height": 0.11114970475859673
+          },
+          "annotationBounds": {
+            "x": 0.7675286427822032,
+            "y": 0.46774587211055635,
+            "width": 0.07240670080175926,
+            "height": 0.23778224722022373
+          },
+          "widthRatio": 1.2429788818359373,
+          "heightRatio": 0.4674432429585655,
+          "areaRatio": 0.5810220794544022,
+          "horizontalOffsetRatio": -0.1378600747244689,
+          "verticalOffsetRatio": 0.38866750091435515,
+          "proposalSource": "dense-window",
+          "proposalScore": 0.9167300982957496,
+          "logicalStackBounds": {
+            "x": 0.74875,
+            "y": 0.6234803751302536,
+            "width": 0.09,
+            "height": 0.11114970475859673
+          },
+          "topCardBounds": {
+            "x": 0.76375,
+            "y": 0.6443209447724905,
+            "width": 0.06,
+            "height": 0.06946856547412296
+          },
+          "failureClass": "shifted",
+          "minimalConvertingTransformation": {
+            "type": "translate-up",
+            "iou": 0.4032711433585002
+          },
+          "counterfactuals": [
+            {
+              "type": "translate-up",
+              "iou": 0.4032711433585002
+            },
+            {
+              "type": "vertical-expand",
+              "iou": 0.29377352183696664
+            },
+            {
+              "type": "uniform-expand",
+              "iou": 0.2711645591510454
+            },
+            {
+              "type": "translate-right",
+              "iou": 0.2610827540272128
+            },
+            {
+              "type": "horizontal-expand",
+              "iou": 0.25518500969299707
+            },
+            {
+              "type": "uniform-contract",
+              "iou": 0.241327427476063
+            },
+            {
+              "type": "translate-left",
+              "iou": 0.1721342342545358
+            },
+            {
+              "type": "translate-down",
+              "iou": 0.1654603602327203
+            }
+          ]
+        }
+      ],
+      "nearMissesBefore": 8,
+      "nearMissesConverted": 0,
+      "nearMissesRemaining": 8,
+      "refinements": [
+        {
+          "proposalId": "physical-entry-013",
+          "refinementType": "translate",
+          "originalBounds": {
+            "x": 0.039545454545454536,
+            "y": 0.5285926300167356,
+            "width": 0.17,
+            "height": 0.11114970475859673
+          },
+          "refinedBounds": {
+            "x": 0.05954545454545454,
+            "y": 0.5285926300167356,
+            "width": 0.17,
+            "height": 0.11114970475859673
+          },
+          "originalScore": 0.7821734238305954,
+          "refinedScore": 0.8329636081390567,
+          "evidence": [
+            "local-perimeter-improvement",
+            "bounded-translation-search",
+            "neighbor-centers-protected"
+          ],
+          "nearestAnnotationId": "region-2222511f-cd2f-49c4-a62d-a41dfcffbd8e",
+          "beforeIoU": 0.5088390643799711,
+          "afterIoU": 0.5088390643799712,
+          "officialMatchBefore": true,
+          "officialMatchAfter": true
+        },
+        {
+          "proposalId": "physical-entry-014",
+          "refinementType": "aspect-normalize",
+          "originalBounds": {
+            "x": 0.7622727272727272,
+            "y": 0.24440304398623258,
+            "width": 0.20999999999999996,
+            "height": 0.11114970475859673
+          },
+          "refinedBounds": {
+            "x": 0.7727727272727272,
+            "y": 0.24996052922416243,
+            "width": 0.189,
+            "height": 0.10003473428273706
+          },
+          "originalScore": 0.7017623791287495,
+          "refinedScore": 0.7789966848958465,
+          "evidence": [
+            "dominant-scale-compatible",
+            "oversized-envelope-reduced",
+            "neighbor-centers-protected"
+          ],
+          "nearestAnnotationId": "region-274b3803-9d28-4910-a41a-2d740baf1995",
+          "beforeIoU": 0.420186447347819,
+          "afterIoU": 0.3676756247311717,
+          "officialMatchBefore": true,
+          "officialMatchAfter": true
+        },
+        {
+          "proposalId": "physical-entry-015",
+          "refinementType": "vertical-expand",
+          "originalBounds": {
+            "x": 0.10772727272727271,
+            "y": 0.7180523540370709,
+            "width": 0.17,
+            "height": 0.11114970475859673
+          },
+          "refinedBounds": {
+            "x": 0.10772727272727271,
+            "y": 0.7113833717515551,
+            "width": 0.17,
+            "height": 0.12448766932962833
+          },
+          "originalScore": 0.7883965415345957,
+          "refinedScore": 0.8214659468213593,
+          "evidence": [
+            "opposing-horizontal-edge-support",
+            "neighbor-centers-protected"
+          ],
+          "nearestAnnotationId": "region-0f0cedb4-c484-461e-8f00-ee8bccb13898",
+          "beforeIoU": 0.27209290668308217,
+          "afterIoU": 0.2918979707487516,
+          "officialMatchBefore": false,
+          "officialMatchAfter": false
+        },
+        {
+          "proposalId": "physical-entry-030",
+          "refinementType": "translate",
+          "originalBounds": {
+            "x": 0.31227272727272726,
+            "y": 0.6422684644289368,
+            "width": 0.20999999999999996,
+            "height": 0.11114970475859673
+          },
+          "refinedBounds": {
+            "x": 0.29227272727272724,
+            "y": 0.6144810382392876,
+            "width": 0.20999999999999996,
+            "height": 0.11114970475859673
+          },
+          "originalScore": 0.7214410121191636,
+          "refinedScore": 0.773021067261641,
+          "evidence": [
+            "local-perimeter-improvement",
+            "bounded-translation-search",
+            "neighbor-centers-protected"
+          ],
+          "nearestAnnotationId": "region-7733661c-3da8-4402-ac67-3c527ce85602",
+          "beforeIoU": 0.29069341256070386,
+          "afterIoU": 0.17993069263741787,
+          "officialMatchBefore": false,
+          "officialMatchAfter": false
+        }
+      ],
+      "refinementTypeBreakdown": [
+        {
+          "refinementType": "translate",
+          "total": 2,
+          "matchGains": 0,
+          "falseIntroduced": 0,
+          "meanIoUBefore": 0.39976623847033743,
+          "meanIoUAfter": 0.34438487850869454
+        },
+        {
+          "refinementType": "aspect-normalize",
+          "total": 1,
+          "matchGains": 0,
+          "falseIntroduced": 0,
+          "meanIoUBefore": 0.420186447347819,
+          "meanIoUAfter": 0.3676756247311717
+        },
+        {
+          "refinementType": "vertical-expand",
+          "total": 1,
+          "matchGains": 0,
+          "falseIntroduced": 0,
+          "meanIoUBefore": 0.27209290668308217,
+          "meanIoUAfter": 0.2918979707487516
+        }
+      ],
       "sourceBreakdown": {
         "dense-window": 29,
         "connected-component": 5
@@ -204,7 +952,7 @@
           "recall": 0.375,
           "precision": 0.2647058823529412,
           "f1": 0.31034482758620696,
-          "meanIoU": 0.4920545452919127
+          "meanIoU": 0.48622993921913843
         },
         {
           "scoreThreshold": 0.65,
@@ -215,7 +963,7 @@
           "recall": 0.375,
           "precision": 0.2647058823529412,
           "f1": 0.31034482758620696,
-          "meanIoU": 0.4920545452919127
+          "meanIoU": 0.48622993921913843
         },
         {
           "scoreThreshold": 0.75,
@@ -273,8 +1021,8 @@
       "detectedRegions": 31,
       "matchedRegions": 13,
       "missedRegions": 15,
-      "falseRegions": 17,
-      "duplicateRegions": 1,
+      "falseRegions": 16,
+      "duplicateRegions": 2,
       "recall": 0.4642857142857143,
       "precision": 0.41935483870967744,
       "meanIoU": 0.4478800494300911,
@@ -303,27 +1051,609 @@
         "artworkOrTextBox": 0,
         "partialFragments": 5,
         "oversizedMerged": 1,
-        "nestedDuplicate": 1,
-        "other": 11
+        "nestedDuplicate": 2,
+        "other": 10
       },
       "expandedFalseTaxonomy": {
         "backgroundTexture": 0,
         "playmatTextOrLogo": 0,
         "partialFragments": 5,
         "oversizedMerged": 1,
-        "nestedDuplicates": 1,
+        "nestedDuplicates": 2,
         "edgeClippedCandidates": 0,
-        "usefulNearMisses": 8,
+        "usefulNearMisses": 7,
         "unknown": 3
       },
+      "nearMissDiagnostics": [
+        {
+          "fixtureId": "neddy-dragapult",
+          "proposalId": "physical-entry-008",
+          "nearestAnnotationId": "region-7aee8bca-35bc-4c22-9eff-467966a78e9e",
+          "currentIoU": 0.15639235017545122,
+          "centerDistance": 0.8072291444366593,
+          "detectorBounds": {
+            "x": 0.47314453125,
+            "y": 0.5681114551083591,
+            "width": 0.09619140625,
+            "height": 0.16640866873065016
+          },
+          "annotationBounds": {
+            "x": 0.5254775259830685,
+            "y": 0.5177473353523389,
+            "width": 0.06394359792527726,
+            "height": 0.12421591070046922
+          },
+          "widthRatio": 1.5043164502943147,
+          "heightRatio": 1.3396727342918524,
+          "areaRatio": 2.015291732205998,
+          "horizontalOffsetRatio": -0.5662660805077014,
+          "verticalOffsetRatio": 0.5752926365723676,
+          "proposalSource": "dense-window",
+          "proposalScore": 0.9086990202779677,
+          "logicalStackBounds": {
+            "x": 0.47314453125,
+            "y": 0.5681114551083591,
+            "width": 0.09619140625,
+            "height": 0.16640866873065016
+          },
+          "topCardBounds": {
+            "x": 0.49072265625,
+            "y": 0.596749226006192,
+            "width": 0.06005859375,
+            "height": 0.10913312693498452
+          },
+          "failureClass": "shifted",
+          "minimalConvertingTransformation": null,
+          "counterfactuals": [
+            {
+              "type": "translate-up",
+              "iou": 0.26811157002558367
+            },
+            {
+              "type": "translate-right",
+              "iou": 0.24560331359258608
+            },
+            {
+              "type": "uniform-expand",
+              "iou": 0.18503417105415013
+            },
+            {
+              "type": "vertical-expand",
+              "iou": 0.17120125165646674
+            },
+            {
+              "type": "horizontal-expand",
+              "iou": 0.17021937952662888
+            },
+            {
+              "type": "uniform-contract",
+              "iou": 0.13030198413019597
+            },
+            {
+              "type": "translate-left",
+              "iou": 0.06506226002443947
+            },
+            {
+              "type": "translate-down",
+              "iou": 0.06276402114396244
+            }
+          ]
+        },
+        {
+          "fixtureId": "neddy-dragapult",
+          "proposalId": "physical-entry-013",
+          "nearestAnnotationId": "region-024b330e-52b2-4790-92f2-28fd18262441",
+          "currentIoU": 0.28993443588069334,
+          "centerDistance": 0.5042438519794186,
+          "detectorBounds": {
+            "x": 0.4892578125,
+            "y": 0.2825077399380805,
+            "width": 0.09619140625,
+            "height": 0.16640866873065016
+          },
+          "annotationBounds": {
+            "x": 0.5111288501597101,
+            "y": 0.36116212459530583,
+            "width": 0.08167584088592006,
+            "height": 0.15928025600311824
+          },
+          "widthRatio": 1.1777216519185203,
+          "heightRatio": 1.0447539004921764,
+          "areaRatio": 1.2304292895359634,
+          "horizontalOffsetRatio": -0.17891771690579902,
+          "verticalOffsetRatio": -0.47143431444503286,
+          "proposalSource": "dense-window",
+          "proposalScore": 0.8862098427887902,
+          "logicalStackBounds": {
+            "x": 0.4892578125,
+            "y": 0.2825077399380805,
+            "width": 0.09619140625,
+            "height": 0.16640866873065016
+          },
+          "topCardBounds": {
+            "x": 0.50732421875,
+            "y": 0.3111455108359133,
+            "width": 0.06005859375,
+            "height": 0.10913312693498452
+          },
+          "failureClass": "shifted",
+          "minimalConvertingTransformation": {
+            "type": "translate-down",
+            "iou": 0.49549093497836955
+          },
+          "counterfactuals": [
+            {
+              "type": "translate-down",
+              "iou": 0.49549093497836955
+            },
+            {
+              "type": "vertical-expand",
+              "iou": 0.31720979077545153
+            },
+            {
+              "type": "translate-right",
+              "iou": 0.3165319227659399
+            },
+            {
+              "type": "uniform-expand",
+              "iou": 0.30968530479235856
+            },
+            {
+              "type": "horizontal-expand",
+              "iou": 0.28611887242367157
+            },
+            {
+              "type": "uniform-contract",
+              "iou": 0.25873450587595137
+            },
+            {
+              "type": "translate-left",
+              "iou": 0.17929948749209737
+            },
+            {
+              "type": "translate-up",
+              "iou": 0.134057297246288
+            }
+          ]
+        },
+        {
+          "fixtureId": "neddy-dragapult",
+          "proposalId": "physical-entry-019",
+          "nearestAnnotationId": "region-024b330e-52b2-4790-92f2-28fd18262441",
+          "currentIoU": 0.263220727109975,
+          "centerDistance": 0.5275664013416295,
+          "detectorBounds": {
+            "x": 0.45751953125,
+            "y": 0.44272445820433437,
+            "width": 0.126953125,
+            "height": 0.1130030959752322
+          },
+          "annotationBounds": {
+            "x": 0.5111288501597101,
+            "y": 0.36116212459530583,
+            "width": 0.08167584088592006,
+            "height": 0.15928025600311824
+          },
+          "widthRatio": 1.554353449232565,
+          "heightRatio": 0.7094607882411987,
+          "areaRatio": 1.1027528232979618,
+          "horizontalOffsetRatio": -0.379190180556918,
+          "verticalOffsetRatio": 0.36679846618241085,
+          "proposalSource": "dense-window",
+          "proposalScore": 0.7998861130287067,
+          "logicalStackBounds": {
+            "x": 0.45751953125,
+            "y": 0.44272445820433437,
+            "width": 0.126953125,
+            "height": 0.1130030959752322
+          },
+          "topCardBounds": {
+            "x": 0.470703125,
+            "y": 0.46439628482972134,
+            "width": 0.10009765625,
+            "height": 0.07043343653250773
+          },
+          "failureClass": "shifted",
+          "minimalConvertingTransformation": {
+            "type": "translate-up",
+            "iou": 0.3968763443225253
+          },
+          "counterfactuals": [
+            {
+              "type": "translate-up",
+              "iou": 0.3968763443225253
+            },
+            {
+              "type": "translate-right",
+              "iou": 0.3021585423747442
+            },
+            {
+              "type": "vertical-expand",
+              "iou": 0.2755321913883641
+            },
+            {
+              "type": "uniform-expand",
+              "iou": 0.2754333678170733
+            },
+            {
+              "type": "horizontal-expand",
+              "iou": 0.2658491420222041
+            },
+            {
+              "type": "uniform-contract",
+              "iou": 0.23314105331240642
+            },
+            {
+              "type": "translate-down",
+              "iou": 0.15290839767110959
+            },
+            {
+              "type": "translate-left",
+              "iou": 0.13404782541115667
+            }
+          ]
+        },
+        {
+          "fixtureId": "neddy-dragapult",
+          "proposalId": "physical-entry-020",
+          "nearestAnnotationId": "region-fb4f472f-ba62-48d8-96ae-fbd524405289",
+          "currentIoU": 0.21122498614484747,
+          "centerDistance": 0.5510212493468849,
+          "detectorBounds": {
+            "x": 0.36865234375,
+            "y": 0.5843653250773994,
+            "width": 0.16650390625,
+            "height": 0.1130030959752322
+          },
+          "annotationBounds": {
+            "x": 0.42078558571556884,
+            "y": 0.5088037852451138,
+            "width": 0.10281123135590092,
+            "height": 0.13017825519944637
+          },
+          "widthRatio": 1.6195108652440373,
+          "heightRatio": 0.8680643000023308,
+          "areaRatio": 1.4058395655842346,
+          "horizontalOffsetRatio": -0.19732187087899247,
+          "verticalOffsetRatio": 0.5144788591425464,
+          "proposalSource": "dense-window",
+          "proposalScore": 0.7448336458170581,
+          "logicalStackBounds": {
+            "x": 0.36865234375,
+            "y": 0.5843653250773994,
+            "width": 0.16650390625,
+            "height": 0.1130030959752322
+          },
+          "topCardBounds": {
+            "x": 0.3818359375,
+            "y": 0.6052631578947368,
+            "width": 0.14013671875,
+            "height": 0.07043343653250773
+          },
+          "failureClass": "shifted",
+          "minimalConvertingTransformation": {
+            "type": "translate-up",
+            "iou": 0.3597920577411707
+          },
+          "counterfactuals": [
+            {
+              "type": "translate-up",
+              "iou": 0.3597920577411707
+            },
+            {
+              "type": "vertical-expand",
+              "iou": 0.23220610437327113
+            },
+            {
+              "type": "translate-right",
+              "iou": 0.21122498614484747
+            },
+            {
+              "type": "uniform-contract",
+              "iou": 0.21102671298562495
+            },
+            {
+              "type": "uniform-expand",
+              "iou": 0.20109206368320676
+            },
+            {
+              "type": "horizontal-expand",
+              "iou": 0.18503275307971448
+            },
+            {
+              "type": "translate-left",
+              "iou": 0.14075860191110479
+            },
+            {
+              "type": "translate-down",
+              "iou": 0.09192438608491715
+            }
+          ]
+        },
+        {
+          "fixtureId": "neddy-dragapult",
+          "proposalId": "physical-entry-021",
+          "nearestAnnotationId": "region-751ccdbe-8f33-48ce-b221-846e4014f054",
+          "currentIoU": 0.29306213497132183,
+          "centerDistance": 0.3942039014702521,
+          "detectorBounds": {
+            "x": 0.78857421875,
+            "y": 0.1803405572755418,
+            "width": 0.126953125,
+            "height": 0.1130030959752322
+          },
+          "annotationBounds": {
+            "x": 0.7969942616936121,
+            "y": 0.21295480807028808,
+            "width": 0.1112295979144976,
+            "height": 0.22571800724460736
+          },
+          "widthRatio": 1.1413609990534093,
+          "heightRatio": 0.5006383733167216,
+          "areaRatio": 0.571409113933247,
+          "horizontalOffsetRatio": -0.005019162267313465,
+          "verticalOffsetRatio": -0.3941719471810527,
+          "proposalSource": "dense-window",
+          "proposalScore": 0.831005992475112,
+          "logicalStackBounds": {
+            "x": 0.78857421875,
+            "y": 0.1803405572755418,
+            "width": 0.126953125,
+            "height": 0.1130030959752322
+          },
+          "topCardBounds": {
+            "x": 0.8017578125,
+            "y": 0.2020123839009288,
+            "width": 0.10009765625,
+            "height": 0.07043343653250773
+          },
+          "failureClass": "shifted",
+          "minimalConvertingTransformation": {
+            "type": "translate-down",
+            "iou": 0.44152447081295604
+          },
+          "counterfactuals": [
+            {
+              "type": "translate-down",
+              "iou": 0.44152447081295604
+            },
+            {
+              "type": "vertical-expand",
+              "iou": 0.31748141532861845
+            },
+            {
+              "type": "uniform-expand",
+              "iou": 0.2867470717291304
+            },
+            {
+              "type": "uniform-contract",
+              "iou": 0.28003702616301257
+            },
+            {
+              "type": "horizontal-expand",
+              "iou": 0.26787178203765755
+            },
+            {
+              "type": "translate-right",
+              "iou": 0.21821762378880435
+            },
+            {
+              "type": "translate-left",
+              "iou": 0.21485057593409226
+            },
+            {
+              "type": "translate-up",
+              "iou": 0.17232463945075885
+            }
+          ]
+        },
+        {
+          "fixtureId": "neddy-dragapult",
+          "proposalId": "physical-entry-027",
+          "nearestAnnotationId": "region-15f18a36-f269-4491-a21a-26b36c2413b0",
+          "currentIoU": 0.27840516067868004,
+          "centerDistance": 0.4400172875289908,
+          "detectorBounds": {
+            "x": 0.40673828125,
+            "y": 0.3018575851393189,
+            "width": 0.126953125,
+            "height": 0.1130030959752322
+          },
+          "annotationBounds": {
+            "x": 0.40204860983340657,
+            "y": 0.2282866078157169,
+            "width": 0.1757105420185014,
+            "height": 0.14054138805908184
+          },
+          "widthRatio": 0.722512852909147,
+          "heightRatio": 0.8040556417994613,
+          "areaRatio": 0.5809405356542241,
+          "horizontalOffsetRatio": -0.11205381798084779,
+          "verticalOffsetRatio": 0.425510464266492,
+          "proposalSource": "dense-window",
+          "proposalScore": 0.8034651049202658,
+          "logicalStackBounds": {
+            "x": 0.40673828125,
+            "y": 0.3018575851393189,
+            "width": 0.126953125,
+            "height": 0.1130030959752322
+          },
+          "topCardBounds": {
+            "x": 0.419921875,
+            "y": 0.32275541795665635,
+            "width": 0.10009765625,
+            "height": 0.07043343653250773
+          },
+          "failureClass": "shifted",
+          "minimalConvertingTransformation": {
+            "type": "translate-up",
+            "iou": 0.44852309186884837
+          },
+          "counterfactuals": [
+            {
+              "type": "translate-up",
+              "iou": 0.44852309186884837
+            },
+            {
+              "type": "uniform-expand",
+              "iou": 0.3317360312297159
+            },
+            {
+              "type": "vertical-expand",
+              "iou": 0.3107824857809546
+            },
+            {
+              "type": "horizontal-expand",
+              "iou": 0.2997928734734217
+            },
+            {
+              "type": "translate-right",
+              "iou": 0.27840516067868004
+            },
+            {
+              "type": "uniform-contract",
+              "iou": 0.21957520919344795
+            },
+            {
+              "type": "translate-left",
+              "iou": 0.20682025987343594
+            },
+            {
+              "type": "translate-down",
+              "iou": 0.1440457579085192
+            }
+          ]
+        },
+        {
+          "fixtureId": "neddy-dragapult",
+          "proposalId": "physical-entry-030",
+          "nearestAnnotationId": "region-602e98d9-d036-4335-9a9d-8edb6f9ea145",
+          "currentIoU": 0.29251208571615206,
+          "centerDistance": 0.33817930553218567,
+          "detectorBounds": {
+            "x": 0.673828125,
+            "y": 0.34210526315789475,
+            "width": 0.0869140625,
+            "height": 0.1130030959752322
+          },
+          "annotationBounds": {
+            "x": 0.6099995878275464,
+            "y": 0.3739386053210155,
+            "width": 0.1671130755893615,
+            "height": 0.12776492162998287
+          },
+          "widthRatio": 0.5200913345259082,
+          "heightRatio": 0.8844610440297371,
+          "areaRatio": 0.46000052472560404,
+          "horizontalOffsetRatio": 0.14199385981071294,
+          "verticalOffsetRatio": -0.3069250502423792,
+          "proposalSource": "dense-window",
+          "proposalScore": 0.8915970926779646,
+          "logicalStackBounds": {
+            "x": 0.673828125,
+            "y": 0.34210526315789475,
+            "width": 0.0869140625,
+            "height": 0.1130030959752322
+          },
+          "topCardBounds": {
+            "x": 0.6875,
+            "y": 0.36300309597523217,
+            "width": 0.06005859375,
+            "height": 0.07043343653250773
+          },
+          "failureClass": "undersized",
+          "minimalConvertingTransformation": {
+            "type": "translate-down",
+            "iou": 0.43901462203398556
+          },
+          "counterfactuals": [
+            {
+              "type": "translate-down",
+              "iou": 0.43901462203398556
+            },
+            {
+              "type": "uniform-expand",
+              "iou": 0.3730900641354598
+            },
+            {
+              "type": "horizontal-expand",
+              "iou": 0.3431415947219024
+            },
+            {
+              "type": "vertical-expand",
+              "iou": 0.32019576404493866
+            },
+            {
+              "type": "translate-left",
+              "iou": 0.29251208571615206
+            },
+            {
+              "type": "translate-right",
+              "iou": 0.2696175101991223
+            },
+            {
+              "type": "uniform-contract",
+              "iou": 0.23272057974589397
+            },
+            {
+              "type": "translate-up",
+              "iou": 0.17308335687432141
+            }
+          ]
+        }
+      ],
+      "nearMissesBefore": 8,
+      "nearMissesConverted": 1,
+      "nearMissesRemaining": 7,
+      "refinements": [
+        {
+          "proposalId": "physical-entry-016",
+          "refinementType": "translate",
+          "originalBounds": {
+            "x": 0.2920909090909091,
+            "y": 0.48317928511117364,
+            "width": 0.2467272727272727,
+            "height": 0.11297720236419928
+          },
+          "refinedBounds": {
+            "x": 0.29743636363636367,
+            "y": 0.4916525752884886,
+            "width": 0.2467272727272727,
+            "height": 0.11297720236419928
+          },
+          "originalScore": 0.7267054251277107,
+          "refinedScore": 0.7672939728675116,
+          "evidence": [
+            "local-perimeter-improvement",
+            "bounded-translation-search",
+            "neighbor-centers-protected"
+          ],
+          "nearestAnnotationId": "region-fb4f472f-ba62-48d8-96ae-fbd524405289",
+          "beforeIoU": 0.27823832477755034,
+          "afterIoU": 0.3136940957303827,
+          "officialMatchBefore": false,
+          "officialMatchAfter": true
+        }
+      ],
+      "refinementTypeBreakdown": [
+        {
+          "refinementType": "translate",
+          "total": 1,
+          "matchGains": 1,
+          "falseIntroduced": 0,
+          "meanIoUBefore": 0.27823832477755034,
+          "meanIoUAfter": 0.3136940957303827
+        }
+      ],
       "sourceBreakdown": {
         "dense-window": 25,
         "connected-component": 6
       },
       "duplicateSourceBreakdown": {
-        "dense-window": 1
+        "dense-window": 2
       },
       "duplicateCauseCounts": {
+        "parent-child-or-sibling": 1,
         "same-source-near-duplicate": 1
       },
       "suppressionDecisionCounts": {
@@ -392,24 +1722,24 @@
         {
           "disabledDisposition": "reject-background",
           "matched": 13,
-          "falseRegions": 19,
-          "duplicates": 1,
+          "falseRegions": 18,
+          "duplicates": 2,
           "precision": 0.3939393939393939,
           "recall": 0.4642857142857143
         },
         {
           "disabledDisposition": "reject-fragment",
           "matched": 13,
-          "falseRegions": 18,
-          "duplicates": 1,
+          "falseRegions": 17,
+          "duplicates": 2,
           "precision": 0.40625,
           "recall": 0.4642857142857143
         },
         {
           "disabledDisposition": "reject-merged",
           "matched": 13,
-          "falseRegions": 19,
-          "duplicates": 1,
+          "falseRegions": 18,
+          "duplicates": 2,
           "precision": 0.3939393939393939,
           "recall": 0.4642857142857143
         }
@@ -423,18 +1753,18 @@
           "mean": 0.8487811172449059
         },
         "false": {
-          "count": 17,
-          "min": 0.716251286635082,
-          "median": 0.8805077075095993,
+          "count": 16,
+          "min": 0.7448336458170581,
+          "median": 0.8862098427887902,
           "max": 0.9559349705082325,
-          "mean": 0.8569009823893571
+          "mean": 0.8656915883739992
         },
         "duplicate": {
-          "count": 1,
-          "min": 0.7637572518547168,
+          "count": 2,
+          "min": 0.716251286635082,
           "median": 0.7637572518547168,
           "max": 0.7637572518547168,
-          "mean": 0.7637572518547168
+          "mean": 0.7400042692448994
         }
       },
       "thresholdSweep": [
@@ -442,8 +1772,8 @@
           "scoreThreshold": 0.55,
           "matched": 13,
           "missed": 15,
-          "false": 17,
-          "duplicates": 1,
+          "false": 16,
+          "duplicates": 2,
           "recall": 0.4642857142857143,
           "precision": 0.41935483870967744,
           "f1": 0.44067796610169496,
@@ -453,8 +1783,8 @@
           "scoreThreshold": 0.65,
           "matched": 13,
           "missed": 15,
-          "false": 17,
-          "duplicates": 1,
+          "false": 16,
+          "duplicates": 2,
           "recall": 0.4642857142857143,
           "precision": 0.41935483870967744,
           "f1": 0.44067796610169496,
@@ -520,12 +1850,12 @@
       "duplicateRegions": 2,
       "recall": 0.3,
       "precision": 0.375,
-      "meanIoU": 0.49499915070106304,
+      "meanIoU": 0.49696903401154763,
       "medianIoU": 0.4394510017383261,
       "progressiveIoU": {
-        "0.05": 19,
-        "0.10": 17,
-        "0.20": 12,
+        "0.05": 18,
+        "0.10": 18,
+        "0.20": 13,
         "0.30": 9,
         "0.50": 3
       },
@@ -559,6 +1889,492 @@
         "usefulNearMisses": 5,
         "unknown": 0
       },
+      "nearMissDiagnostics": [
+        {
+          "fixtureId": "rahul-crustle",
+          "proposalId": "physical-entry-010",
+          "nearestAnnotationId": "region-512b6292-c9c4-41bf-801c-46a0378bc34d",
+          "currentIoU": 0.2716153952325386,
+          "centerDistance": 0.4806527781847389,
+          "detectorBounds": {
+            "x": 0.5709201830198272,
+            "y": 0.5032377428307123,
+            "width": 0.09608540925266904,
+            "height": 0.17668825161887142
+          },
+          "annotationBounds": {
+            "x": 0.5292389280228574,
+            "y": 0.5156225157314035,
+            "width": 0.0984229386215637,
+            "height": 0.10152392981538183
+          },
+          "widthRatio": 0.9762501567050088,
+          "heightRatio": 1.7403606414780595,
+          "areaRatio": 1.6990273489661853,
+          "horizontalOffsetRatio": 0.41161634553803533,
+          "verticalOffsetRatio": 0.2481916140054303,
+          "proposalSource": "dense-window",
+          "proposalScore": 0.908888686547041,
+          "logicalStackBounds": {
+            "x": 0.5709201830198272,
+            "y": 0.5032377428307123,
+            "width": 0.09608540925266904,
+            "height": 0.17668825161887142
+          },
+          "topCardBounds": {
+            "x": 0.5892221657346213,
+            "y": 0.5356151711378353,
+            "width": 0.059989832231825115,
+            "height": 0.11100832562442182
+          },
+          "failureClass": "shifted",
+          "minimalConvertingTransformation": {
+            "type": "translate-left",
+            "iou": 0.4368328235344945
+          },
+          "counterfactuals": [
+            {
+              "type": "translate-left",
+              "iou": 0.4368328235344945
+            },
+            {
+              "type": "uniform-contract",
+              "iou": 0.2886762870360607
+            },
+            {
+              "type": "horizontal-expand",
+              "iou": 0.2850822571714075
+            },
+            {
+              "type": "translate-up",
+              "iou": 0.2716153952325386
+            },
+            {
+              "type": "uniform-expand",
+              "iou": 0.24315314866714982
+            },
+            {
+              "type": "vertical-expand",
+              "iou": 0.23413194717348734
+            },
+            {
+              "type": "translate-down",
+              "iou": 0.17194912095738715
+            },
+            {
+              "type": "translate-right",
+              "iou": 0.14047529825451752
+            }
+          ]
+        },
+        {
+          "fixtureId": "rahul-crustle",
+          "proposalId": "physical-entry-013",
+          "nearestAnnotationId": "region-fc177043-f0d9-4c53-84a4-45310801d3b9",
+          "currentIoU": 0.2671139904010536,
+          "centerDistance": 0.3922615222013111,
+          "detectorBounds": {
+            "x": 0.398576512455516,
+            "y": 0.6827012025901943,
+            "width": 0.24300965937976615,
+            "height": 0.11100832562442182
+          },
+          "annotationBounds": {
+            "x": 0.41388971441962974,
+            "y": 0.7084038649417947,
+            "width": 0.18368106217375169,
+            "height": 0.2578024031713474
+          },
+          "widthRatio": 1.322997899205815,
+          "heightRatio": 0.4305946114499195,
+          "areaRatio": 0.5696757663575877,
+          "horizontalOffsetRatio": 0.07813051856874743,
+          "verticalOffsetRatio": -0.38440177401758735,
+          "proposalSource": "dense-window",
+          "proposalScore": 0.6866715007834189,
+          "logicalStackBounds": {
+            "x": 0.398576512455516,
+            "y": 0.6827012025901943,
+            "width": 0.24300965937976615,
+            "height": 0.11100832562442182
+          },
+          "topCardBounds": {
+            "x": 0.41433655312658874,
+            "y": 0.6947271045328399,
+            "width": 0.22013218098627352,
+            "height": 0.06938020351526364
+          },
+          "failureClass": "shifted",
+          "minimalConvertingTransformation": {
+            "type": "translate-down",
+            "iou": 0.37801925665675934
+          },
+          "counterfactuals": [
+            {
+              "type": "translate-down",
+              "iou": 0.37801925665675934
+            },
+            {
+              "type": "vertical-expand",
+              "iou": 0.28553682322709234
+            },
+            {
+              "type": "uniform-contract",
+              "iou": 0.26291468499587517
+            },
+            {
+              "type": "uniform-expand",
+              "iou": 0.25854580492145285
+            },
+            {
+              "type": "horizontal-expand",
+              "iou": 0.24461578145847035
+            },
+            {
+              "type": "translate-left",
+              "iou": 0.23700597189960088
+            },
+            {
+              "type": "translate-right",
+              "iou": 0.1885742654995486
+            },
+            {
+              "type": "translate-up",
+              "iou": 0.16580666154400814
+            }
+          ]
+        },
+        {
+          "fixtureId": "rahul-crustle",
+          "proposalId": "physical-entry-016",
+          "nearestAnnotationId": "region-125b1e7a-3ee5-4715-8eaa-5dc1bd96876a",
+          "currentIoU": 0.2835279107314973,
+          "centerDistance": 0.5211003318009473,
+          "detectorBounds": {
+            "x": 0.5231316725978647,
+            "y": 0.37650323774283073,
+            "width": 0.1626842907981698,
+            "height": 0.11100832562442182
+          },
+          "annotationBounds": {
+            "x": 0.46905670583168757,
+            "y": 0.3981285023400566,
+            "width": 0.13854444814173716,
+            "height": 0.11635326142439972
+          },
+          "widthRatio": 1.1742389751463478,
+          "heightRatio": 0.9540628622305464,
+          "areaRatio": 1.1202977975707882,
+          "horizontalOffsetRatio": 0.4774272010288303,
+          "verticalOffsetRatio": -0.20882725760981083,
+          "proposalSource": "dense-window",
+          "proposalScore": 0.7092220931555491,
+          "logicalStackBounds": {
+            "x": 0.5231316725978647,
+            "y": 0.37650323774283073,
+            "width": 0.1626842907981698,
+            "height": 0.11100832562442182
+          },
+          "topCardBounds": {
+            "x": 0.534316217590239,
+            "y": 0.396854764107308,
+            "width": 0.13980681240467718,
+            "height": 0.06938020351526364
+          },
+          "failureClass": "shifted",
+          "minimalConvertingTransformation": {
+            "type": "translate-left",
+            "iou": 0.48645140540484527
+          },
+          "counterfactuals": [
+            {
+              "type": "translate-left",
+              "iou": 0.48645140540484527
+            },
+            {
+              "type": "translate-down",
+              "iou": 0.3743980840302783
+            },
+            {
+              "type": "uniform-expand",
+              "iou": 0.316299955647588
+            },
+            {
+              "type": "horizontal-expand",
+              "iou": 0.31278911138151805
+            },
+            {
+              "type": "vertical-expand",
+              "iou": 0.2896526757188518
+            },
+            {
+              "type": "uniform-contract",
+              "iou": 0.2513021022056006
+            },
+            {
+              "type": "translate-up",
+              "iou": 0.17967942685657876
+            },
+            {
+              "type": "translate-right",
+              "iou": 0.1293537430293722
+            }
+          ]
+        },
+        {
+          "fixtureId": "rahul-crustle",
+          "proposalId": "physical-entry-018",
+          "nearestAnnotationId": "region-eed6e35f-1e81-486f-88d7-776241bf7233",
+          "currentIoU": 0.22969253859429473,
+          "centerDistance": 0.487876316099794,
+          "detectorBounds": {
+            "x": 0.40315200813421453,
+            "y": 0.6345975948196114,
+            "width": 0.08286731062531774,
+            "height": 0.11100832562442182
+          },
+          "annotationBounds": {
+            "x": 0.41827800715396685,
+            "y": 0.6148649775127262,
+            "width": 0.18117347835101344,
+            "height": 0.09011678111087373
+          },
+          "widthRatio": 0.4573920608002402,
+          "heightRatio": 1.2318274605019959,
+          "areaRatio": 0.5634281007093344,
+          "horizontalOffsetRatio": -0.35479300539819114,
+          "verticalOffsetRatio": 0.3348809088790002,
+          "proposalSource": "dense-window",
+          "proposalScore": 0.871326873767686,
+          "logicalStackBounds": {
+            "x": 0.40315200813421453,
+            "y": 0.6345975948196114,
+            "width": 0.08286731062531774,
+            "height": 0.11100832562442182
+          },
+          "topCardBounds": {
+            "x": 0.41433655312658874,
+            "y": 0.6549491211840888,
+            "width": 0.059989832231825115,
+            "height": 0.06938020351526364
+          },
+          "failureClass": "shifted",
+          "minimalConvertingTransformation": {
+            "type": "translate-up",
+            "iou": 0.3143296704187348
+          },
+          "counterfactuals": [
+            {
+              "type": "translate-up",
+              "iou": 0.3143296704187348
+            },
+            {
+              "type": "translate-right",
+              "iou": 0.2961707895091735
+            },
+            {
+              "type": "uniform-expand",
+              "iou": 0.2649974439058455
+            },
+            {
+              "type": "vertical-expand",
+              "iou": 0.2526776332686616
+            },
+            {
+              "type": "horizontal-expand",
+              "iou": 0.24307641136467947
+            },
+            {
+              "type": "uniform-contract",
+              "iou": 0.19933551768632543
+            },
+            {
+              "type": "translate-left",
+              "iou": 0.14898208347766664
+            },
+            {
+              "type": "translate-down",
+              "iou": 0.12757228476102322
+            }
+          ]
+        },
+        {
+          "fixtureId": "rahul-crustle",
+          "proposalId": "physical-entry-021",
+          "nearestAnnotationId": "region-5e6122bd-d3de-41a3-b2ff-8c5b4d8add4d",
+          "currentIoU": 0.23311715346634124,
+          "centerDistance": 0.5593096063956784,
+          "detectorBounds": {
+            "x": 0.6537874936451449,
+            "y": 0.515263644773358,
+            "width": 0.08286731062531774,
+            "height": 0.11100832562442182
+          },
+          "annotationBounds": {
+            "x": 0.6341799373570023,
+            "y": 0.5680915141968343,
+            "width": 0.07683976827430161,
+            "height": 0.10950870705389659
+          },
+          "widthRatio": 1.0784430053133305,
+          "heightRatio": 1.0136940578595925,
+          "areaRatio": 1.0932112662263642,
+          "horizontalOffsetRatio": 0.29439609165526526,
+          "verticalOffsetRatio": -0.47556090779688087,
+          "proposalSource": "dense-window",
+          "proposalScore": 0.883452872377021,
+          "logicalStackBounds": {
+            "x": 0.6537874936451449,
+            "y": 0.515263644773358,
+            "width": 0.08286731062531774,
+            "height": 0.11100832562442182
+          },
+          "topCardBounds": {
+            "x": 0.6654804270462633,
+            "y": 0.5356151711378353,
+            "width": 0.059989832231825115,
+            "height": 0.06938020351526364
+          },
+          "failureClass": "shifted",
+          "minimalConvertingTransformation": {
+            "type": "translate-down",
+            "iou": 0.3873906941706483
+          },
+          "counterfactuals": [
+            {
+              "type": "translate-down",
+              "iou": 0.3873906941706483
+            },
+            {
+              "type": "translate-left",
+              "iou": 0.3401482604988277
+            },
+            {
+              "type": "uniform-expand",
+              "iou": 0.26511304964839383
+            },
+            {
+              "type": "vertical-expand",
+              "iou": 0.2560082566950983
+            },
+            {
+              "type": "horizontal-expand",
+              "iou": 0.24370635012974384
+            },
+            {
+              "type": "uniform-contract",
+              "iou": 0.2031929802801384
+            },
+            {
+              "type": "translate-right",
+              "iou": 0.137159761266421
+            },
+            {
+              "type": "translate-up",
+              "iou": 0.10971975923159744
+            }
+          ]
+        }
+      ],
+      "nearMissesBefore": 5,
+      "nearMissesConverted": 1,
+      "nearMissesRemaining": 4,
+      "refinements": [
+        {
+          "proposalId": "physical-entry-013",
+          "refinementType": "translate",
+          "originalBounds": {
+            "x": 0.40309090909090906,
+            "y": 0.6739179211168109,
+            "width": 0.24290909090909088,
+            "height": 0.11116171894710285
+          },
+          "refinedBounds": {
+            "x": 0.39850909090909087,
+            "y": 0.6822550500378437,
+            "width": 0.24290909090909088,
+            "height": 0.11116171894710285
+          },
+          "originalScore": 0.6525833261353542,
+          "refinedScore": 0.738897173012147,
+          "evidence": [
+            "local-perimeter-improvement",
+            "bounded-translation-search",
+            "neighbor-centers-protected"
+          ],
+          "nearestAnnotationId": "region-fc177043-f0d9-4c53-84a4-45310801d3b9",
+          "beforeIoU": 0.23367322177926642,
+          "afterIoU": 0.2658353294392875,
+          "officialMatchBefore": false,
+          "officialMatchAfter": false
+        },
+        {
+          "proposalId": "physical-entry-017",
+          "refinementType": "translate",
+          "originalBounds": {
+            "x": 0.30490909090909085,
+            "y": 0.4952651585232528,
+            "width": 0.2029090909090909,
+            "height": 0.11116171894710285
+          },
+          "refinedBounds": {
+            "x": 0.2896363636363636,
+            "y": 0.5230555882600286,
+            "width": 0.2029090909090909,
+            "height": 0.11116171894710285
+          },
+          "originalScore": 0.7106750777763334,
+          "refinedScore": 0.7369319727891156,
+          "evidence": [
+            "local-perimeter-improvement",
+            "bounded-translation-search",
+            "neighbor-centers-protected"
+          ],
+          "nearestAnnotationId": "region-5454b63f-7ba4-4608-8323-837f61edb68f",
+          "beforeIoU": 0.17779556238875535,
+          "afterIoU": 0.17747467246235304,
+          "officialMatchBefore": false,
+          "officialMatchAfter": false
+        },
+        {
+          "proposalId": "physical-entry-024",
+          "refinementType": "translate",
+          "originalBounds": {
+            "x": 0.4139999999999999,
+            "y": 0.25706147506517535,
+            "width": 0.1629090909090909,
+            "height": 0.11116171894710285
+          },
+          "refinedBounds": {
+            "x": 0.42927272727272725,
+            "y": 0.22927104532839962,
+            "width": 0.1629090909090909,
+            "height": 0.11116171894710285
+          },
+          "originalScore": 0.7257276132190063,
+          "refinedScore": 0.8246783184561455,
+          "evidence": [
+            "local-perimeter-improvement",
+            "bounded-translation-search",
+            "neighbor-centers-protected"
+          ],
+          "nearestAnnotationId": "region-110d8c5a-e771-426f-947b-c9db71ab36e8",
+          "beforeIoU": 0.20030925622342163,
+          "afterIoU": 0.41965656736364426,
+          "officialMatchBefore": false,
+          "officialMatchAfter": true
+        }
+      ],
+      "refinementTypeBreakdown": [
+        {
+          "refinementType": "translate",
+          "total": 3,
+          "matchGains": 1,
+          "falseIntroduced": 0,
+          "meanIoUBefore": 0.20392601346381448,
+          "meanIoUAfter": 0.2876555230884283
+        }
+      ],
       "sourceBreakdown": {
         "dense-window": 22,
         "connected-component": 2
@@ -690,7 +2506,7 @@
           "recall": 0.3,
           "precision": 0.375,
           "f1": 0.33333333333333326,
-          "meanIoU": 0.49499915070106304
+          "meanIoU": 0.49696903401154763
         },
         {
           "scoreThreshold": 0.65,
@@ -701,7 +2517,7 @@
           "recall": 0.3,
           "precision": 0.375,
           "f1": 0.33333333333333326,
-          "meanIoU": 0.49499915070106304
+          "meanIoU": 0.49696903401154763
         },
         {
           "scoreThreshold": 0.75,
@@ -739,7 +2555,7 @@
       ],
       "detectorTopCardBounds": 24,
       "matchedTopCardCrops": 3,
-      "meanTopCardIoU": 0.231100808396977,
+      "meanTopCardIoU": 0.21788252840382594,
       "topCardCropsBelowThreshold": 3,
       "missingTopCardCrops": 14,
       "expectedCards": 60,
@@ -747,7 +2563,7 @@
       "correctQuantities": 3,
       "incorrectQuantities": 6,
       "unresolvedQuantities": 0,
-      "meanAbsoluteQuantityError": 1.2222222222222223,
+      "meanAbsoluteQuantityError": 1,
       "approvedIdentityCrops": 3,
       "correctIdentities": 0,
       "wrongIdentities": 1,
@@ -757,19 +2573,19 @@
       "fixtureId": "slop-box",
       "expectedRegions": 32,
       "detectedRegions": 28,
-      "matchedRegions": 12,
-      "missedRegions": 20,
-      "falseRegions": 15,
+      "matchedRegions": 13,
+      "missedRegions": 19,
+      "falseRegions": 14,
       "duplicateRegions": 1,
-      "recall": 0.375,
-      "precision": 0.42857142857142855,
-      "meanIoU": 0.40309545525278745,
-      "medianIoU": 0.40574638773717997,
+      "recall": 0.40625,
+      "precision": 0.4642857142857143,
+      "meanIoU": 0.39834863669311826,
+      "medianIoU": 0.4009954118712107,
       "progressiveIoU": {
         "0.05": 27,
         "0.10": 23,
         "0.20": 19,
-        "0.30": 13,
+        "0.30": 14,
         "0.50": 1
       },
       "failureTaxonomy": {
@@ -790,7 +2606,7 @@
         "partialFragments": 0,
         "oversizedMerged": 1,
         "nestedDuplicate": 1,
-        "other": 7
+        "other": 6
       },
       "expandedFalseTaxonomy": {
         "backgroundTexture": 7,
@@ -799,9 +2615,599 @@
         "oversizedMerged": 1,
         "nestedDuplicates": 1,
         "edgeClippedCandidates": 0,
-        "usefulNearMisses": 7,
+        "usefulNearMisses": 6,
         "unknown": 0
       },
+      "nearMissDiagnostics": [
+        {
+          "fixtureId": "slop-box",
+          "proposalId": "physical-entry-004",
+          "nearestAnnotationId": "region-ad931e90-b66b-4721-bf80-779261cca522",
+          "currentIoU": 0.2606506989637541,
+          "centerDistance": 0.10626732976535186,
+          "detectorBounds": {
+            "x": 0.40625,
+            "y": 0.4443359375,
+            "width": 0.09700520833333333,
+            "height": 0.3671875
+          },
+          "annotationBounds": {
+            "x": 0.30855127966469187,
+            "y": 0.5573656240878279,
+            "width": 0.2520129167812091,
+            "height": 0.1640240167859699
+          },
+          "widthRatio": 0.38492157295870144,
+          "heightRatio": 2.2386203386247523,
+          "areaRatio": 0.8616932620007806,
+          "horizontalOffsetRatio": 0.080134250138071,
+          "verticalOffsetRatio": -0.06979432161907663,
+          "proposalSource": "dense-window",
+          "proposalScore": 0.7546015497302262,
+          "logicalStackBounds": {
+            "x": 0.40625,
+            "y": 0.4443359375,
+            "width": 0.09700520833333333,
+            "height": 0.3671875
+          },
+          "topCardBounds": {
+            "x": 0.4244791666666667,
+            "y": 0.4580078125,
+            "width": 0.060546875,
+            "height": 0.33984375
+          },
+          "failureClass": "wrong-aspect",
+          "minimalConvertingTransformation": null,
+          "counterfactuals": [
+            {
+              "type": "horizontal-expand",
+              "iou": 0.29380970714911253
+            },
+            {
+              "type": "translate-down",
+              "iou": 0.2606506989637541
+            },
+            {
+              "type": "translate-left",
+              "iou": 0.260650698963754
+            },
+            {
+              "type": "translate-right",
+              "iou": 0.260650698963754
+            },
+            {
+              "type": "uniform-expand",
+              "iou": 0.2596534219197069
+            },
+            {
+              "type": "translate-up",
+              "iou": 0.2573278339683251
+            },
+            {
+              "type": "uniform-contract",
+              "iou": 0.25257515165657635
+            },
+            {
+              "type": "vertical-expand",
+              "iou": 0.23341165432391084
+            }
+          ]
+        },
+        {
+          "fixtureId": "slop-box",
+          "proposalId": "physical-entry-005",
+          "nearestAnnotationId": "region-25017f74-ddf1-4d98-bf1f-99d33558ca2e",
+          "currentIoU": 0.2948038432955419,
+          "centerDistance": 0.6324511032812478,
+          "detectorBounds": {
+            "x": 0.35546875,
+            "y": 0.49560546875,
+            "width": 0.09700520833333333,
+            "height": 0.3671875
+          },
+          "annotationBounds": {
+            "x": 0.2618026258541981,
+            "y": 0.6915670905224359,
+            "width": 0.1886066875476659,
+            "height": 0.15596388504463554
+          },
+          "widthRatio": 0.5143253910804066,
+          "heightRatio": 2.354311063070236,
+          "areaRatio": 1.210881958238527,
+          "horizontalOffsetRatio": 0.25378413226486873,
+          "verticalOffsetRatio": -0.5792995876506689,
+          "proposalSource": "dense-window",
+          "proposalScore": 0.7686140110102656,
+          "logicalStackBounds": {
+            "x": 0.35546875,
+            "y": 0.49560546875,
+            "width": 0.09700520833333333,
+            "height": 0.3671875
+          },
+          "topCardBounds": {
+            "x": 0.373046875,
+            "y": 0.50927734375,
+            "width": 0.060546875,
+            "height": 0.33984375
+          },
+          "failureClass": "shifted",
+          "minimalConvertingTransformation": {
+            "type": "translate-left",
+            "iou": 0.3031584098265266
+          },
+          "counterfactuals": [
+            {
+              "type": "translate-left",
+              "iou": 0.3031584098265266
+            },
+            {
+              "type": "translate-down",
+              "iou": 0.2948038432955419
+            },
+            {
+              "type": "horizontal-expand",
+              "iou": 0.2922754678629082
+            },
+            {
+              "type": "uniform-contract",
+              "iou": 0.27359788740693924
+            },
+            {
+              "type": "vertical-expand",
+              "iou": 0.2581852500765528
+            },
+            {
+              "type": "uniform-expand",
+              "iou": 0.25347047173880655
+            },
+            {
+              "type": "translate-right",
+              "iou": 0.2041284951517488
+            },
+            {
+              "type": "translate-up",
+              "iou": 0.1311623435532018
+            }
+          ]
+        },
+        {
+          "fixtureId": "slop-box",
+          "proposalId": "physical-entry-007",
+          "nearestAnnotationId": "region-5ccc1bda-e378-4ec1-be45-107d6ec448ef",
+          "currentIoU": 0.17686161243609688,
+          "centerDistance": 0.6074465984172338,
+          "detectorBounds": {
+            "x": 0.4401041666666667,
+            "y": 0.2353515625,
+            "width": 0.09700520833333333,
+            "height": 0.3671875
+          },
+          "annotationBounds": {
+            "x": 0.4364580477413184,
+            "y": 0.4226932138541959,
+            "width": 0.22693700938325762,
+            "height": 0.08510137493688219
+          },
+          "widthRatio": 0.42745433456165893,
+          "heightRatio": 4.3147070217412455,
+          "areaRatio": 1.844340218806921,
+          "horizontalOffsetRatio": -0.2702061764463251,
+          "verticalOffsetRatio": -0.5440404324486605,
+          "proposalSource": "dense-window",
+          "proposalScore": 0.725591580768974,
+          "logicalStackBounds": {
+            "x": 0.4401041666666667,
+            "y": 0.2353515625,
+            "width": 0.09700520833333333,
+            "height": 0.3671875
+          },
+          "topCardBounds": {
+            "x": 0.4583333333333333,
+            "y": 0.26708984375,
+            "width": 0.060546875,
+            "height": 0.33984375
+          },
+          "failureClass": "shifted",
+          "minimalConvertingTransformation": null,
+          "counterfactuals": [
+            {
+              "type": "uniform-contract",
+              "iou": 0.1845095743481661
+            },
+            {
+              "type": "horizontal-expand",
+              "iou": 0.17831932367057793
+            },
+            {
+              "type": "translate-right",
+              "iou": 0.17686161243609702
+            },
+            {
+              "type": "translate-up",
+              "iou": 0.17686161243609688
+            },
+            {
+              "type": "translate-down",
+              "iou": 0.17686161243609688
+            },
+            {
+              "type": "vertical-expand",
+              "iou": 0.15344296215980746
+            },
+            {
+              "type": "uniform-expand",
+              "iou": 0.15341650589215824
+            },
+            {
+              "type": "translate-left",
+              "iou": 0.1342503946811226
+            }
+          ]
+        },
+        {
+          "fixtureId": "slop-box",
+          "proposalId": "physical-entry-010",
+          "nearestAnnotationId": "region-f2a03063-1123-40f2-b620-7c57f481bf31",
+          "currentIoU": 0.24239371440275645,
+          "centerDistance": 0.17851746019949277,
+          "detectorBounds": {
+            "x": 0.4739583333333333,
+            "y": 0.40625,
+            "width": 0.09700520833333333,
+            "height": 0.3671875
+          },
+          "annotationBounds": {
+            "x": 0.3300449276993598,
+            "y": 0.5081986993838816,
+            "width": 0.28371603139798074,
+            "height": 0.16684508758530248
+          },
+          "widthRatio": 0.341909506682969,
+          "heightRatio": 2.200769020617817,
+          "areaRatio": 0.7524638501625984,
+          "horizontalOffsetRatio": 0.1781992855762527,
+          "verticalOffsetRatio": -0.010653554157679879,
+          "proposalSource": "dense-window",
+          "proposalScore": 0.729504682647983,
+          "logicalStackBounds": {
+            "x": 0.4739583333333333,
+            "y": 0.40625,
+            "width": 0.09700520833333333,
+            "height": 0.3671875
+          },
+          "topCardBounds": {
+            "x": 0.4921875,
+            "y": 0.419921875,
+            "width": 0.060546875,
+            "height": 0.33984375
+          },
+          "failureClass": "wrong-aspect",
+          "minimalConvertingTransformation": null,
+          "counterfactuals": [
+            {
+              "type": "horizontal-expand",
+              "iou": 0.27487168902500503
+            },
+            {
+              "type": "uniform-expand",
+              "iou": 0.2452053221604428
+            },
+            {
+              "type": "translate-left",
+              "iou": 0.24239371440275662
+            },
+            {
+              "type": "translate-right",
+              "iou": 0.24239371440275662
+            },
+            {
+              "type": "translate-up",
+              "iou": 0.24239371440275645
+            },
+            {
+              "type": "translate-down",
+              "iou": 0.24239371440275645
+            },
+            {
+              "type": "uniform-contract",
+              "iou": 0.23193587142022287
+            },
+            {
+              "type": "vertical-expand",
+              "iou": 0.21902574478595835
+            }
+          ]
+        },
+        {
+          "fixtureId": "slop-box",
+          "proposalId": "physical-entry-012",
+          "nearestAnnotationId": "region-1acc6382-d670-4a0f-b21c-86f676db2563",
+          "currentIoU": 0.2935386987374213,
+          "centerDistance": 0.19147281926690374,
+          "detectorBounds": {
+            "x": 0.5247395833333334,
+            "y": 0.40625,
+            "width": 0.09700520833333333,
+            "height": 0.287109375
+          },
+          "annotationBounds": {
+            "x": 0.5317465276290045,
+            "y": 0.49086833556636994,
+            "width": 0.12976782058397263,
+            "height": 0.10437847211305368
+          },
+          "widthRatio": 0.7475289936811519,
+          "heightRatio": 2.7506570003154303,
+          "areaRatio": 2.0561958594078096,
+          "horizontalOffsetRatio": -0.1802315112925576,
+          "verticalOffsetRatio": 0.06464087603998775,
+          "proposalSource": "dense-window",
+          "proposalScore": 0.7618842820537376,
+          "logicalStackBounds": {
+            "x": 0.5247395833333334,
+            "y": 0.40625,
+            "width": 0.09700520833333333,
+            "height": 0.287109375
+          },
+          "topCardBounds": {
+            "x": 0.54296875,
+            "y": 0.419921875,
+            "width": 0.060546875,
+            "height": 0.259765625
+          },
+          "failureClass": "oversized",
+          "minimalConvertingTransformation": {
+            "type": "uniform-contract",
+            "iou": 0.34342179470424045
+          },
+          "counterfactuals": [
+            {
+              "type": "uniform-contract",
+              "iou": 0.34342179470424045
+            },
+            {
+              "type": "translate-right",
+              "iou": 0.3237924902802579
+            },
+            {
+              "type": "translate-up",
+              "iou": 0.2935386987374213
+            },
+            {
+              "type": "translate-down",
+              "iou": 0.2935386987374213
+            },
+            {
+              "type": "horizontal-expand",
+              "iou": 0.28464002663522936
+            },
+            {
+              "type": "vertical-expand",
+              "iou": 0.2500207195898532
+            },
+            {
+              "type": "uniform-expand",
+              "iou": 0.24064310750944046
+            },
+            {
+              "type": "translate-left",
+              "iou": 0.19872201229160003
+            }
+          ]
+        },
+        {
+          "fixtureId": "slop-box",
+          "proposalId": "physical-entry-014",
+          "nearestAnnotationId": "region-1acc6382-d670-4a0f-b21c-86f676db2563",
+          "currentIoU": 0.22628205072944374,
+          "centerDistance": 0.4566293866843333,
+          "detectorBounds": {
+            "x": 0.59765625,
+            "y": 0.38232421875,
+            "width": 0.08723958333333333,
+            "height": 0.2587890625
+          },
+          "annotationBounds": {
+            "x": 0.5317465276290045,
+            "y": 0.49086833556636994,
+            "width": 0.12976782058397263,
+            "height": 0.10437847211305368
+          },
+          "widthRatio": 0.6722743970018413,
+          "heightRatio": 2.4793336907605066,
+          "areaRatio": 1.6667925619223694,
+          "horizontalOffsetRatio": 0.3440421789066393,
+          "verticalOffsetRatio": -0.30024219543042646,
+          "proposalSource": "dense-window",
+          "proposalScore": 0.741761032833241,
+          "logicalStackBounds": {
+            "x": 0.59765625,
+            "y": 0.38232421875,
+            "width": 0.08723958333333333,
+            "height": 0.2587890625
+          },
+          "topCardBounds": {
+            "x": 0.6106770833333334,
+            "y": 0.3818359375,
+            "width": 0.060546875,
+            "height": 0.259765625
+          },
+          "failureClass": "oversized",
+          "minimalConvertingTransformation": {
+            "type": "translate-left",
+            "iou": 0.32899137686722923
+          },
+          "counterfactuals": [
+            {
+              "type": "translate-left",
+              "iou": 0.32899137686722923
+            },
+            {
+              "type": "uniform-contract",
+              "iou": 0.25058359984639117
+            },
+            {
+              "type": "horizontal-expand",
+              "iou": 0.22915269669256494
+            },
+            {
+              "type": "translate-down",
+              "iou": 0.22628205072944374
+            },
+            {
+              "type": "uniform-expand",
+              "iou": 0.1968849889381241
+            },
+            {
+              "type": "vertical-expand",
+              "iou": 0.1962057501345113
+            },
+            {
+              "type": "translate-up",
+              "iou": 0.17818470198798766
+            },
+            {
+              "type": "translate-right",
+              "iou": 0.13830933211519456
+            }
+          ]
+        }
+      ],
+      "nearMissesBefore": 7,
+      "nearMissesConverted": 1,
+      "nearMissesRemaining": 6,
+      "refinements": [
+        {
+          "proposalId": "physical-entry-007",
+          "refinementType": "translate",
+          "originalBounds": {
+            "x": 0.44,
+            "y": 0.25363636363636366,
+            "width": 0.09696969696969697,
+            "height": 0.36727272727272725
+          },
+          "refinedBounds": {
+            "x": 0.44,
+            "y": 0.23545454545454544,
+            "width": 0.09696969696969697,
+            "height": 0.36727272727272725
+          },
+          "originalScore": 0.7668658393804744,
+          "refinedScore": 0.8490478678618468,
+          "evidence": [
+            "local-perimeter-improvement",
+            "bounded-translation-search",
+            "neighbor-centers-protected"
+          ],
+          "nearestAnnotationId": "region-5ccc1bda-e378-4ec1-be45-107d6ec448ef",
+          "beforeIoU": 0.17680350683437956,
+          "afterIoU": 0.17680350683437956,
+          "officialMatchBefore": false,
+          "officialMatchAfter": false
+        },
+        {
+          "proposalId": "physical-entry-009",
+          "refinementType": "translate",
+          "originalBounds": {
+            "x": 0.5853333333333334,
+            "y": 0.379,
+            "width": 0.2766060606060606,
+            "height": 0.11199999999999999
+          },
+          "refinedBounds": {
+            "x": 0.5965333333333332,
+            "y": 0.38739999999999997,
+            "width": 0.2766060606060606,
+            "height": 0.11199999999999999
+          },
+          "originalScore": 0.7757801213189132,
+          "refinedScore": 0.8273903558334249,
+          "evidence": [
+            "local-perimeter-improvement",
+            "bounded-translation-search",
+            "neighbor-centers-protected"
+          ],
+          "nearestAnnotationId": "region-60b80dd8-ec41-4d41-9ac1-9467d3e503dd",
+          "beforeIoU": 0.2791099343856038,
+          "afterIoU": 0.3430558735931481,
+          "officialMatchBefore": false,
+          "officialMatchAfter": true
+        },
+        {
+          "proposalId": "physical-entry-014",
+          "refinementType": "aspect-normalize",
+          "originalBounds": {
+            "x": 0.5927272727272727,
+            "y": 0.36818181818181817,
+            "width": 0.09696969696969697,
+            "height": 0.2872727272727273
+          },
+          "refinedBounds": {
+            "x": 0.5975757575757575,
+            "y": 0.3825454545454546,
+            "width": 0.08727272727272728,
+            "height": 0.2585454545454546
+          },
+          "originalScore": 0.7079759465743145,
+          "refinedScore": 0.8092438957137277,
+          "evidence": [
+            "dominant-scale-compatible",
+            "oversized-envelope-reduced",
+            "neighbor-centers-protected"
+          ],
+          "nearestAnnotationId": "region-1acc6382-d670-4a0f-b21c-86f676db2563",
+          "beforeIoU": 0.20980440303393366,
+          "afterIoU": 0.22672956950396106,
+          "officialMatchBefore": false,
+          "officialMatchAfter": false
+        },
+        {
+          "proposalId": "physical-entry-027",
+          "refinementType": "translate",
+          "originalBounds": {
+            "x": 0.40606060606060607,
+            "y": 0.2918181818181818,
+            "width": 0.09696969696969697,
+            "height": 0.13727272727272727
+          },
+          "refinedBounds": {
+            "x": 0.40606060606060607,
+            "y": 0.2736363636363636,
+            "width": 0.09696969696969697,
+            "height": 0.13727272727272727
+          },
+          "originalScore": 0.7543307227609607,
+          "refinedScore": 0.78086865566105,
+          "evidence": [
+            "local-perimeter-improvement",
+            "bounded-translation-search",
+            "neighbor-centers-protected"
+          ],
+          "nearestAnnotationId": "region-62706acb-67f8-4b16-a370-7d60cf03cbbd",
+          "beforeIoU": 0.4007587370086902,
+          "afterIoU": 0.4007587370086902,
+          "officialMatchBefore": true,
+          "officialMatchAfter": true
+        }
+      ],
+      "refinementTypeBreakdown": [
+        {
+          "refinementType": "translate",
+          "total": 3,
+          "matchGains": 1,
+          "falseIntroduced": 0,
+          "meanIoUBefore": 0.28555739274289116,
+          "meanIoUAfter": 0.3068727058120726
+        },
+        {
+          "refinementType": "aspect-normalize",
+          "total": 1,
+          "matchGains": 0,
+          "falseIntroduced": 0,
+          "meanIoUBefore": 0.20980440303393366,
+          "meanIoUAfter": 0.22672956950396106
+        }
+      ],
       "sourceBreakdown": {
         "dense-window": 27,
         "connected-component": 1
@@ -876,43 +3282,43 @@
       "ablationResults": [
         {
           "disabledDisposition": "reject-background",
-          "matched": 12,
-          "falseRegions": 19,
+          "matched": 13,
+          "falseRegions": 18,
           "duplicates": 1,
-          "precision": 0.375,
-          "recall": 0.375
+          "precision": 0.40625,
+          "recall": 0.40625
         },
         {
           "disabledDisposition": "reject-fragment",
-          "matched": 12,
-          "falseRegions": 16,
+          "matched": 13,
+          "falseRegions": 15,
           "duplicates": 1,
-          "precision": 0.41379310344827586,
-          "recall": 0.375
+          "precision": 0.4482758620689655,
+          "recall": 0.40625
         },
         {
           "disabledDisposition": "reject-merged",
-          "matched": 12,
-          "falseRegions": 19,
+          "matched": 13,
+          "falseRegions": 18,
           "duplicates": 1,
-          "precision": 0.375,
-          "recall": 0.375
+          "precision": 0.40625,
+          "recall": 0.40625
         }
       ],
       "scoreDistributions": {
         "matched": {
-          "count": 12,
+          "count": 13,
           "min": 0.7351522532765812,
-          "median": 0.8445353290664362,
+          "median": 0.7795062738013865,
           "max": 0.8934937430399632,
-          "mean": 0.8131675733966781
+          "mean": 0.8080696875985534
         },
         "false": {
-          "count": 15,
+          "count": 14,
           "min": 0.725591580768974,
-          "median": 0.7686140110102656,
+          "median": 0.7727328035769138,
           "max": 0.8951813246949905,
-          "mean": 0.7932261630025045
+          "mean": 0.7965355276440365
         },
         "duplicate": {
           "count": 1,
@@ -925,25 +3331,25 @@
       "thresholdSweep": [
         {
           "scoreThreshold": 0.55,
-          "matched": 12,
-          "missed": 20,
-          "false": 15,
+          "matched": 13,
+          "missed": 19,
+          "false": 14,
           "duplicates": 1,
-          "recall": 0.375,
-          "precision": 0.42857142857142855,
-          "f1": 0.39999999999999997,
-          "meanIoU": 0.4030954552527874
+          "recall": 0.40625,
+          "precision": 0.4642857142857143,
+          "f1": 0.4333333333333333,
+          "meanIoU": 0.39834863669311815
         },
         {
           "scoreThreshold": 0.65,
-          "matched": 12,
-          "missed": 20,
-          "false": 15,
+          "matched": 13,
+          "missed": 19,
+          "false": 14,
           "duplicates": 1,
-          "recall": 0.375,
-          "precision": 0.42857142857142855,
-          "f1": 0.39999999999999997,
-          "meanIoU": 0.4030954552527874
+          "recall": 0.40625,
+          "precision": 0.4642857142857143,
+          "f1": 0.4333333333333333,
+          "meanIoU": 0.39834863669311815
         },
         {
           "scoreThreshold": 0.75,
@@ -981,18 +3387,18 @@
       ],
       "detectorTopCardBounds": 28,
       "matchedTopCardCrops": 6,
-      "meanTopCardIoU": 0.32331114451625836,
-      "topCardCropsBelowThreshold": 6,
+      "meanTopCardIoU": 0.2984410564765462,
+      "topCardCropsBelowThreshold": 7,
       "missingTopCardCrops": 0,
       "expectedCards": 60,
       "recognizedCards": 28,
       "correctQuantities": 7,
-      "incorrectQuantities": 5,
+      "incorrectQuantities": 6,
       "unresolvedQuantities": 0,
-      "meanAbsoluteQuantityError": 0.9166666666666666,
+      "meanAbsoluteQuantityError": 1.0769230769230769,
       "approvedIdentityCrops": 6,
-      "correctIdentities": 0,
-      "wrongIdentities": 6,
+      "correctIdentities": 1,
+      "wrongIdentities": 5,
       "unresolvedIdentities": 0
     }
   ]

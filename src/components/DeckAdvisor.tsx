@@ -23,6 +23,7 @@ import {
 } from '@/utils/matchups'
 
 import { getArchetypeOptions } from '@/utils/archetype-options'
+import DeckIdentity from './DeckIdentity'
 import {
   readAdvisorData,
   safeRemoveStorageValue,
@@ -609,7 +610,7 @@ export default function DeckAdvisor({ decks }: Props) {
       </div>
 
       <NestedPanel variant="compact" className="space-y-3">
-        <p className="text-sm font-semibold text-white">
+        <p className="text-sm font-semibold text-[var(--text-primary)]">
           Tournament Structure
         </p>
         <KeyValueList
@@ -673,9 +674,13 @@ export default function DeckAdvisor({ decks }: Props) {
             return (
               <div key={metaDeck.name} className="space-y-1">
                 <div className="flex items-center justify-between gap-3">
-                  <span className="type-card-title min-w-0 truncate text-[var(--text-primary)]">
-                    {metaDeck.name}
-                  </span>
+                  <DeckIdentity
+                    name={metaDeck.name}
+                    size="compact"
+                    maxSprites={2}
+                    bareSprites
+                    className="type-card-title min-w-0 text-[var(--text-primary)]"
+                  />
                   <span className="type-metadata shrink-0 text-[var(--text-secondary)]">
                     {valueLabel}
                   </span>
@@ -823,7 +828,7 @@ export default function DeckAdvisor({ decks }: Props) {
 
   return (
     <section className="space-y-5">
-      <div className="flex items-center justify-between gap-3">
+      <div className="page-header flex items-center justify-between gap-3">
         <SectionHeader title="Advisor" level={1} />
 
         <div className="flex shrink-0 items-center gap-2">

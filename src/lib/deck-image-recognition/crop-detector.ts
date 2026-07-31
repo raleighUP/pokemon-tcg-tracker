@@ -1,6 +1,6 @@
 import type { DeckEntryCandidate } from './types'
 import { PHYSICAL_RECOGNITION_CONFIG } from '@/lib/deck-recognition/physical-recognition-config.mjs'
-import { buildPhysicalCardScaleModel, classifyPhysicalProposal, consolidatePhysicalStackProposals, expandPhysicalLogicalBounds, PHYSICAL_WINDOW_HEIGHT_RATIOS, PHYSICAL_WINDOW_WIDTH_RATIOS, rankPhysicalStackProposals, suppressNestedPhysicalCandidates } from './physical-region-geometry'
+import { buildPhysicalCardScaleModel, classifyPhysicalProposal, consolidatePhysicalStackProposals, expandPhysicalLogicalBounds, PHYSICAL_WINDOW_HEIGHT_RATIOS, PHYSICAL_WINDOW_WIDTH_RATIOS, rankPhysicalStackProposals, refinePhysicalLogicalBounds, suppressNestedPhysicalCandidates } from './physical-region-geometry'
 
 const CARD_ASPECT_RATIO = 63 / 88
 const DEFAULT_DIGITAL_ENTRY_COUNT = 24
@@ -676,7 +676,7 @@ export function detectPhysicalDeckEntries(
   const stageRegions=(items:Array<Bounds&{score?:number}>,prefix:string)=>items.slice(0,120).map((item,index)=>({id:`${prefix}-${index+1}`,bounds:{x:item.x/scale,y:item.y/scale,width:item.width/scale,height:item.height/scale},score:item.score,aspectRatio:item.width/item.height}))
   const detectorStages=[{stage:'raw-connected-components',regions:stageRegions(components,'raw')},{stage:'geometry-filtered-components',regions:stageRegions(scored,'geometry')},{stage:'card-like-candidates',regions:stageRegions(denseWindows,'window')},{stage:'final-logical-regions',regions:stageRegions(candidates,'final')}]
   return candidates.map((candidate, index) => {
-    const logical = expandPhysicalLogicalBounds(candidate,.3)
+    const neighbors=candidates.filter(other=>other!==candidate),classification=classificationById.get(candidate.proposalFeatures.lineage.proposalId),refined=classification?.disposition==='preserve-near-miss'?refinePhysicalLogicalBounds(candidate,neighbors,bounds=>measurePhysicalProposal({...bounds,score:candidate.score,proposalSource:candidate.proposalFeatures.proposalSource},edgeMask,imageData.width,imageData.height).finalScore):{bounds:expandPhysicalLogicalBounds(candidate,.3)},logical=refined.bounds
     const topCardBounds = clampBounds({x:candidate.x/scale,y:candidate.y/scale,width:candidate.width/scale,height:candidate.height/scale},getImageSize(image).width,getImageSize(image).height)
     const bounds = clampBounds({
       x: logical.x / scale,
@@ -695,6 +695,7 @@ export function detectPhysicalDeckEntries(
       proposalDecision:consolidated.decisions.find(decision=>decision.proposalId===candidate.proposalFeatures.lineage.proposalId),
       proposalDecisions:index===0?consolidated.decisions:undefined,
       proposalClassification:classificationById.get(candidate.proposalFeatures.lineage.proposalId),
+      proposalRefinement:refined.refinement?{...refined.refinement,originalBounds:{x:refined.refinement.originalBounds.x/scale,y:refined.refinement.originalBounds.y/scale,width:refined.refinement.originalBounds.width/scale,height:refined.refinement.originalBounds.height/scale},refinedBounds:{x:refined.refinement.refinedBounds.x/scale,y:refined.refinement.refinedBounds.y/scale,width:refined.refinement.refinedBounds.width/scale,height:refined.refinement.refinedBounds.height/scale}}:undefined,
       proposalClassifications:index===0?classified.map(item=>{const logical=expandPhysicalLogicalBounds(item.candidate,.3);return{proposalId:item.candidate.proposalFeatures.lineage.proposalId,...item.classification,bounds:{x:logical.x/scale,y:logical.y/scale,width:logical.width/scale,height:logical.height/scale},source:item.candidate.proposalFeatures.proposalSource,score:item.candidate.proposalFeatures.finalScore}}):undefined,
       estimatedQuantity: 1,
       quantity: 1,

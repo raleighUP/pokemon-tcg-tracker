@@ -214,7 +214,7 @@ export function SwipeActionRow({
       className={cn(
         'relative overflow-hidden',
         surface === 'solid' &&
-          'rounded-2xl bg-[#17171a] shadow-[inset_0_0_0_1px_rgba(255,255,255,0.035)]',
+          'rounded-2xl bg-[var(--surface-inset)] shadow-[inset_0_0_0_1px_var(--surface-border)]',
         className
       )}
       onContextMenu={(event) => {
@@ -263,7 +263,7 @@ export function SwipeActionRow({
       <div
         className={cn(
           'swipe-action-row-content motion-surface relative z-10 w-full overflow-hidden rounded-2xl will-change-transform',
-          surface === 'solid' && 'bg-[#17171a]',
+          surface === 'solid' && 'bg-[var(--surface-inset)]',
           contentClassName
         )}
         data-open={open ? 'true' : 'false'}

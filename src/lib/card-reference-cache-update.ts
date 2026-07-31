@@ -3,6 +3,7 @@ export type CardReferenceManifestSet = {
   name: string
   printedTotal?: number
   total?: number
+  ptcgoCode?: string
   releaseDate?: string
   lastUpdated?: string
   cardCount: number

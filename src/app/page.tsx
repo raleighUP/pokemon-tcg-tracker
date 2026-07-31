@@ -21,6 +21,13 @@ import {
   trackEvent,
   type AnalyticsTab,
 } from '@/utils/analytics'
+import { getRoundResult } from '@/utils/match-results'
+import {
+  readThemePreference,
+  resolveTheme,
+  writeThemePreference,
+  type ThemePreference,
+} from '@/utils/theme'
 import {
   readAppStorage,
   safeGetStorageValue,
@@ -41,6 +48,8 @@ const CARD_REFERENCE_REMOTE_ROOT =
 export default function Home() {
 const [activeTab, setActiveTab] = useState<AppTab>('decks')
   const [storageReady, setStorageReady] = useState(false)
+  const [themePreference, setThemePreference] =
+    useState<ThemePreference>('system')
   const [showFirstLaunchHint, setShowFirstLaunchHint] = useState(false)
   const [deckName, setDeckName] = useState('')
   const [decklist, setDecklist] = useState('')
@@ -152,6 +161,7 @@ useEffect(() => {
         storedData.matches.length === 0 &&
         safeGetStorageValue(STORAGE_KEYS.firstLaunchDismissed) === null
     )
+    setThemePreference(readThemePreference())
     setStorageReady(true)
   }, 0)
 
@@ -326,17 +336,9 @@ const editMatch = (updatedMatch: Match) => {
 const addMatch = (match: Match) => {
   setMatches([...matches, match])
 
-  const [wins, losses] = match.finalResult
-    .split('-')
-    .map((value) => Number(value))
+  const roundResult = getRoundResult(match)
   const result =
-    Number.isFinite(wins) && Number.isFinite(losses)
-      ? wins > losses
-        ? 'win'
-        : losses > wins
-          ? 'loss'
-          : 'tie'
-      : 'unknown'
+    roundResult === 'W' ? 'win' : roundResult === 'L' ? 'loss' : 'tie'
 
   trackEvent('match_logged', {
     match_type: match.matchType,
@@ -449,6 +451,15 @@ const editEvent = (
     setActiveTab(nextTab)
   }
 
+  const changeTheme = (theme: ThemePreference) => {
+    setThemePreference(theme)
+    document.documentElement.dataset.theme = resolveTheme(
+      theme,
+      window.matchMedia('(prefers-color-scheme: light)').matches
+    )
+    writeThemePreference(theme)
+  }
+
   const focusDeckForm = () => {
     changeTab('decks')
 
@@ -546,6 +557,8 @@ const editEvent = (
       {tab === 'settings' && (
         <SettingsPage
           onDataChanged={refreshStoredData}
+          themePreference={themePreference}
+          onThemeChange={changeTheme}
         />
       )}
     </>

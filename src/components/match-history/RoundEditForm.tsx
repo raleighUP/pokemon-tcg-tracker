@@ -1,4 +1,5 @@
 import { Match } from '@/types'
+import type { AlternateRoundOutcome } from '@/types'
 import {
   Button,
   FieldLabel,
@@ -37,6 +38,44 @@ export default function RoundEditForm({
       </div>
 
       <div>
+        <FieldLabel>Alternate Outcome</FieldLabel>
+        <div className="grid grid-cols-3 gap-2">
+          {([
+            ['intentionalDraw', 'ID'],
+            ['noShow', 'No Show'],
+            ['bye', 'Bye'],
+          ] as const).map(([value, label]) => (
+            <Button
+              key={value}
+              tone={
+                editingMatch.alternateOutcome === value
+                  ? 'primary'
+                  : 'secondary'
+              }
+              aria-pressed={editingMatch.alternateOutcome === value}
+              onClick={() => {
+                const next =
+                  editingMatch.alternateOutcome === value
+                    ? undefined
+                    : (value as AlternateRoundOutcome)
+                setEditingMatch({
+                  ...editingMatch,
+                  alternateOutcome: next,
+                  opponentDeck: next === 'bye' ? '' : editingMatch.opponentDeck,
+                  games: next ? [] : editingMatch.games,
+                  gameStarts: next ? [] : editingMatch.gameStarts,
+                  diceRollWins: next ? [] : editingMatch.diceRollWins,
+                })
+              }}
+              className="px-2"
+            >
+              {label}
+            </Button>
+          ))}
+        </div>
+      </div>
+
+      <div>
         <FieldLabel>
           Round
         </FieldLabel>
@@ -67,6 +106,7 @@ export default function RoundEditForm({
         )}
       </div>
 
+      {editingMatch.alternateOutcome !== 'bye' && (
       <div>
         <FieldLabel>
           Opponent Deck
@@ -85,6 +125,7 @@ export default function RoundEditForm({
           enterKeyHint="next"
         />
       </div>
+      )}
 
       <div>
         <FieldLabel>
@@ -105,6 +146,7 @@ export default function RoundEditForm({
         />
       </div>
 
+      {!editingMatch.alternateOutcome && (
       <div>
         <FieldLabel>
           Game Results
@@ -172,6 +214,7 @@ export default function RoundEditForm({
             </p>
           )}
       </div>
+      )}
 
       <div className="flex gap-2 pt-2">
         <Button

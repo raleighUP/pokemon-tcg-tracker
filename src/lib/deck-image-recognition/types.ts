@@ -116,6 +116,7 @@ export type DeckEntryCandidate = {
   proposalDecisions?: Array<{ proposalId:string; decision:'retained'|'duplicate-suppressed'; winnerId?:string; reasons:string[] }>
   proposalClassification?: { disposition:'retain'|'reject-background'|'reject-fragment'|'reject-merged'|'reject-duplicate'|'preserve-near-miss'|'uncertain'; confidence:number; reasons:string[] }
   proposalClassifications?: Array<{proposalId:string;disposition:'retain'|'reject-background'|'reject-fragment'|'reject-merged'|'reject-duplicate'|'preserve-near-miss'|'uncertain';confidence:number;reasons:string[];bounds:{x:number;y:number;width:number;height:number};source:string;score:number}>
+  proposalRefinement?: import('./physical-region-geometry').PhysicalProposalRefinement
   estimatedQuantity: number
   quantity: number | null
   quantityConfidence: number

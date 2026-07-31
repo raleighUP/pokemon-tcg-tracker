@@ -1,0 +1,6 @@
+import assert from 'node:assert/strict'
+import {mkdirSync,writeFileSync} from 'node:fs'
+import {loadExamples,SEED,splitExamples,summarize} from './physical-training-dataset.mjs'
+const split=splitExamples(loadExamples()),groups=new Map();for(const x of split){if(groups.has(x.group)&&groups.get(x.group)!==x.split)throw new Error(`Leakage: ${x.group}`);groups.set(x.group,x.split)}
+const exactHashes=new Map();for(const x of split){if(x.imageHash&&exactHashes.has(x.imageHash)&&exactHashes.get(x.imageHash)!==x.split)throw new Error(`Duplicate image leakage: ${x.fixtureId}`);if(x.imageHash)exactHashes.set(x.imageHash,x.split)}
+const bySplit=Object.fromEntries(['train','validation','test','external-benchmark'].map(name=>[name,summarize(split.filter(x=>x.split===name))])),report={schemaVersion:1,seed:SEED,policy:'Group by capture session, then layout/image family/deck; canonical fixtures are external benchmark.',assignments:split.map(x=>({fixtureId:x.fixtureId,imageId:x.imageId,group:x.group,split:x.split,imageHash:x.imageHash})),bySplit};mkdirSync('debug-output/physical-training-data',{recursive:true});writeFileSync('debug-output/physical-training-data/split-report.json',JSON.stringify(report,null,2)+'\n');assert.equal(split.filter(x=>x.canonical&&x.split!=='external-benchmark').length,0);console.log(JSON.stringify(bySplit,null,2))
