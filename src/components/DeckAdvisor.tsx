@@ -635,6 +635,7 @@ export default function DeckAdvisor({ decks }: Props) {
       </div>
 
       <SegmentedControl
+        ariaLabel="Meta input unit"
         value={metaInputMode}
         onChange={handleMetaInputModeChange}
         options={[

@@ -18,12 +18,14 @@ export function PokemonSprite({
   className,
   bare = false,
   fallbackLabel = 'Unknown deck archetype',
+  decorative = false,
 }: {
   identity?: PokemonIdentity
   size?: PokemonSpriteSize
   className?: string
   bare?: boolean
   fallbackLabel?: string
+  decorative?: boolean
 }) {
   const [failedIdentity, setFailedIdentity] = useState<string | null>(null)
   const [loaded, setLoaded] = useState(false)
@@ -38,7 +40,7 @@ export function PokemonSprite({
   return (
     <span
       className={cn(
-        'inline-flex shrink-0 items-center justify-center overflow-hidden',
+        'inline-flex shrink-0 items-center justify-center',
         !bare && 'rounded-full bg-white/8',
         bare && 'drop-shadow-[0_1px_1px_rgba(0,0,0,0.45)]',
         className
@@ -49,7 +51,13 @@ export function PokemonSprite({
       {/* eslint-disable-next-line @next/next/no-img-element */}
       <img
         src={sprite.path}
-        alt={useFallback ? fallbackLabel : `${identity?.replaceAll('-', ' ')} Pokémon`}
+        alt={
+          decorative
+            ? ''
+            : useFallback
+              ? fallbackLabel
+              : `${identity?.replaceAll('-', ' ')} Pokémon`
+        }
         width={slotSize}
         height={slotSize}
         loading="lazy"
@@ -62,7 +70,7 @@ export function PokemonSprite({
           }
         }}
         className={cn(
-          'h-[118%] w-[118%] max-w-none object-contain [image-rendering:auto]',
+          'h-full w-full object-contain [image-rendering:auto]',
           loaded ? 'opacity-100' : 'opacity-0'
         )}
       />

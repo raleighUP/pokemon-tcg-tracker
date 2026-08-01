@@ -13,6 +13,7 @@ export default function AdvisorModeControl({
   return (
     <div className="space-y-2">
       <SegmentedControl
+        ariaLabel="Deck candidate source"
         value={candidateSource}
         onChange={setCandidateSource}
         columnWeights={[1.25, 1]}

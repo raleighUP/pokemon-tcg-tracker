@@ -1,6 +1,7 @@
-import { useState } from 'react'
+import { useEffect, useRef, useState, useSyncExternalStore } from 'react'
 import { Deck } from '@/types'
 import { normalizeComfort } from '@/utils/comfort'
+import { getDeckExportFileName } from '@/utils/deck-export'
 import {
   ContextActionSheet,
   ConfirmationDialog,
@@ -23,6 +24,11 @@ type Props = {
   onAddFirstDeck?: () => void
 }
 
+const subscribeToShareCapability = () => () => undefined
+const getShareCapability = () =>
+  typeof navigator !== 'undefined' && typeof navigator.share === 'function'
+const getServerShareCapability = () => false
+
 export default function SavedDecks({
   decks,
   setSelectedDeck,
@@ -36,6 +42,84 @@ export default function SavedDecks({
   const [detailDeck, setDetailDeck] = useState<Deck | null>(null)
   const [pendingDeleteDeck, setPendingDeleteDeck] = useState<Deck | null>(null)
 
+  const [exportFeedback, setExportFeedback] = useState('')
+  const canShare = useSyncExternalStore(
+    subscribeToShareCapability,
+    getShareCapability,
+    getServerShareCapability
+  )
+  const exportTimerRef = useRef<number | null>(null)
+  const exportFrameRef = useRef<number | null>(null)
+
+  useEffect(() => {
+    return () => {
+      if (exportTimerRef.current) window.clearTimeout(exportTimerRef.current)
+      if (exportFrameRef.current) window.cancelAnimationFrame(exportFrameRef.current)
+    }
+  }, [])
+
+  const clearExportFeedback = () => {
+    if (exportTimerRef.current) window.clearTimeout(exportTimerRef.current)
+    if (exportFrameRef.current) window.cancelAnimationFrame(exportFrameRef.current)
+    exportTimerRef.current = null
+    exportFrameRef.current = null
+    setExportFeedback('')
+  }
+
+  const announceExport = (message: string, persistent = false) => {
+    clearExportFeedback()
+    exportFrameRef.current = window.requestAnimationFrame(() => {
+      setExportFeedback(message)
+      exportFrameRef.current = null
+
+      if (!persistent) {
+        exportTimerRef.current = window.setTimeout(() => {
+          setExportFeedback('')
+          exportTimerRef.current = null
+        }, 3000)
+      }
+    })
+  }
+
+  const copyDeckList = async (deck: Deck) => {
+    clearExportFeedback()
+    try {
+      await navigator.clipboard.writeText(deck.decklist)
+      announceExport('Deck list copied')
+    } catch {
+      announceExport('Unable to copy deck list. Try again.', true)
+    }
+  }
+
+  const shareDeckList = async (deck: Deck) => {
+    clearExportFeedback()
+
+    if (canShare && navigator.share) {
+      try {
+        await navigator.share({ title: deck.name, text: deck.decklist })
+        announceExport('Deck list shared')
+        return
+      } catch (error) {
+        if (error instanceof DOMException && error.name === 'AbortError') return
+        announceExport('Unable to share deck list. Try again.', true)
+        return
+      }
+    }
+
+    try {
+      const fileName = getDeckExportFileName(deck.name)
+      const url = URL.createObjectURL(new Blob([deck.decklist], { type: 'text/plain;charset=utf-8' }))
+      const link = document.createElement('a')
+      link.href = url
+      link.download = fileName
+      link.click()
+      link.remove()
+      window.setTimeout(() => URL.revokeObjectURL(url), 0)
+      announceExport('Deck list downloaded')
+    } catch {
+      announceExport('Unable to download deck list. Try again.', true)
+    }
+  }
   const getCardLineCount = (deck: Deck) =>
     deck.decklist
       .split('\n')
@@ -52,6 +136,7 @@ export default function SavedDecks({
   }
 
   const closeDeckDetail = () => {
+    clearExportFeedback()
     setDetailDeck(null)
   }
 
@@ -145,14 +230,15 @@ export default function SavedDecks({
       <Sheet
         open={Boolean(detailDeck)}
         onClose={closeDeckDetail}
-        ariaLabel="decklist"
+        ariaLabelledBy="saved-deck-sheet-title"
+        closeLabel={detailDeck ? `Close ${detailDeck.name} deck list` : 'Close deck list'}
         className="px-3 pb-0 pt-[calc(3rem+env(safe-area-inset-top))]"
         contentClassName="overflow-hidden rounded-b-none rounded-t-[26px] border-b-0 will-change-transform transition-transform duration-200 ease-out h-[calc(100dvh-3rem)] max-h-[calc(100dvh-3rem)]"
       >
         {detailDeck && (
           <div className="flex h-full flex-col">
             <div className="px-4 pb-4 pt-1">
-              <h3 className="truncate text-[1.35rem] font-[760] leading-tight text-[var(--text-primary)]">
+              <h3 id="saved-deck-sheet-title" className="truncate text-[1.35rem] font-[760] leading-tight text-[var(--text-primary)]">
                 {detailDeck.name}
               </h3>
 
@@ -164,6 +250,25 @@ export default function SavedDecks({
                 bareSprites
                 className="type-card-title mt-1 text-[var(--text-secondary)]"
               />
+              <div className="mt-3 grid grid-cols-2 gap-2">
+                <Button onClick={() => copyDeckList(detailDeck)} tone="secondary" className="min-h-11">
+                  Copy List
+                </Button>
+                <Button onClick={() => shareDeckList(detailDeck)} tone="secondary" className="min-h-11">
+                  {canShare ? 'Share list' : 'Download list'}
+                </Button>
+              </div>
+              <p
+                role="status"
+                aria-live="polite"
+                aria-atomic="true"
+                className={cn(
+                  'type-helper text-[var(--text-secondary)]',
+                  exportFeedback ? 'mt-2' : 'sr-only'
+                )}
+              >
+                {exportFeedback}
+              </p>
             </div>
 
             <pre className="flex-1 overflow-auto whitespace-pre-wrap border-t border-[var(--divider)] px-4 py-3 font-mono text-sm leading-6 text-[var(--text-secondary)]">

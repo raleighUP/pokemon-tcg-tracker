@@ -223,6 +223,7 @@ export default function SettingsPage({
           level={3}
         />
         <SegmentedControl
+          ariaLabel="Appearance"
           value={themePreference}
           onChange={onThemeChange}
           options={[

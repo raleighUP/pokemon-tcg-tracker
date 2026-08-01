@@ -10,8 +10,9 @@ export default function DeckIdentity({
   className,
   textClassName,
   spritePosition = 'start',
-  bareSprites = false,
+  bareSprites = true,
   showLabel = true,
+  spriteAccessibility,
 }: {
   name: string
   spriteSource?: string
@@ -22,16 +23,32 @@ export default function DeckIdentity({
   spritePosition?: 'start' | 'end'
   bareSprites?: boolean
   showLabel?: boolean
+  spriteAccessibility?: 'group' | 'decorative'
 }) {
   const identities = getDeckPokemonIdentities(spriteSource).slice(0, maxSprites)
   const renderedIdentities = identities.length > 0 ? identities : [undefined]
+  const accessibility =
+    spriteAccessibility ?? (showLabel && Boolean(name) ? 'decorative' : 'group')
   const sprites = (
     <span
-      className="flex shrink-0 -space-x-1"
-      aria-label={identities.length ? `Pokémon identity: ${identities.join(', ')}` : 'Unknown deck archetype'}
+      className="flex shrink-0 gap-1"
+      aria-label={
+        accessibility === 'group'
+          ? identities.length
+            ? `Pokémon identity: ${identities.join(', ')}`
+            : 'Unknown deck archetype'
+          : undefined
+      }
+      aria-hidden={accessibility === 'decorative' ? 'true' : undefined}
     >
       {renderedIdentities.map((identity, index) => (
-        <PokemonSprite key={identity ?? `fallback-${index}`} identity={identity} size={size} bare={bareSprites} />
+        <PokemonSprite
+          key={identity ?? `fallback-${index}`}
+          identity={identity}
+          size={size}
+          bare={bareSprites}
+          decorative
+        />
       ))}
     </span>
   )

@@ -216,6 +216,8 @@ export function Sheet({
   onClose,
   children,
   ariaLabel,
+  ariaLabelledBy,
+  closeLabel,
   className,
   contentClassName,
   contentStyle,
@@ -223,7 +225,9 @@ export function Sheet({
   open: boolean
   onClose: () => void
   children: ReactNode
-  ariaLabel: string
+  ariaLabel?: string
+  ariaLabelledBy?: string
+  closeLabel?: string
   className?: string
   contentClassName?: string
   contentStyle?: CSSProperties
@@ -262,7 +266,8 @@ export function Sheet({
     <div
       ref={dialogRef}
       tabIndex={-1}
-      aria-label={ariaLabel}
+      aria-label={ariaLabelledBy ? undefined : ariaLabel}
+      aria-labelledby={ariaLabelledBy}
       aria-modal="true"
       role="dialog"
         className={cn(
@@ -272,7 +277,7 @@ export function Sheet({
         )}
     >
       <button
-        aria-label={`Close ${ariaLabel}`}
+        aria-label={closeLabel ?? `Close ${ariaLabel ?? 'dialog'}`}
         className="absolute inset-0 cursor-default"
         onClick={onClose}
       />
@@ -505,6 +510,7 @@ export function SegmentedControl<TValue extends string>({
   className,
   buttonClassName,
   columnWeights,
+  ariaLabel,
 }: {
   options: Array<{
     label: ReactNode
@@ -515,12 +521,13 @@ export function SegmentedControl<TValue extends string>({
   className?: string
   buttonClassName?: string
   columnWeights?: number[]
+  ariaLabel: string
 }) {
   const activeIndex = Math.max(
     0,
     options.findIndex((option) => option.value === value)
   )
-  const tabsRef = useRef<HTMLDivElement>(null)
+  const groupRef = useRef<HTMLDivElement>(null)
   const pillRef = useRef<HTMLSpanElement>(null)
   const tabRefs = useRef<Array<HTMLButtonElement | null>>([])
   const tabsReadyRef = useRef(false)
@@ -555,8 +562,9 @@ export function SegmentedControl<TValue extends string>({
 
   return (
     <div
-      ref={tabsRef}
-      role="tablist"
+      ref={groupRef}
+      role="radiogroup"
+      aria-label={ariaLabel}
       className={cn(
         't-tabs grid min-h-[42px] w-full overflow-hidden border border-[var(--surface-border)]',
         className
@@ -582,9 +590,31 @@ export function SegmentedControl<TValue extends string>({
             tabRefs.current[index] = element
           }}
           type="button"
-          role="tab"
-          aria-selected={option.value === value}
+          role="radio"
+          aria-checked={option.value === value}
+          tabIndex={option.value === value ? 0 : -1}
           onClick={() => onChange(option.value)}
+          onKeyDown={(event) => {
+            const previousKeys = ['ArrowLeft', 'ArrowUp']
+            const nextKeys = ['ArrowRight', 'ArrowDown']
+            let nextIndex: number | null = null
+
+            if (previousKeys.includes(event.key)) {
+              nextIndex = (index - 1 + options.length) % options.length
+            } else if (nextKeys.includes(event.key)) {
+              nextIndex = (index + 1) % options.length
+            } else if (event.key === 'Home') {
+              nextIndex = 0
+            } else if (event.key === 'End') {
+              nextIndex = options.length - 1
+            }
+
+            if (nextIndex === null) return
+
+            event.preventDefault()
+            onChange(options[nextIndex].value)
+            tabRefs.current[nextIndex]?.focus()
+          }}
           className={cn(
             't-tab motion-press min-h-[34px] whitespace-nowrap rounded-[14px] px-3 py-1.5 text-sm font-semibold focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[rgba(23,107,181,0.45)]',
             option.value === value

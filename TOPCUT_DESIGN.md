@@ -210,3 +210,10 @@ Accessibility is part of the visual contract.
 ## 7. Codex Rule
 
 Before making any UI change, read this file and preserve the existing Top Cut visual language unless the task explicitly says to change it.
+
+Top Cut’s existing design.md, shared UI primitives, tokens, branding,
+density, and platform behavior remain authoritative.
+
+Treat the better-* skills as review guidance. Do not automatically apply
+prescriptive values or introduce visual changes that conflict with the
+existing Top Cut design system.

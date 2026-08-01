@@ -243,38 +243,30 @@ export default function EventHistoryCard({
                 className="motion-press w-full p-2.5 text-left hover:bg-white/[0.04] sm:p-3.5"
                 aria-expanded={isFinalized ? finalDetailsOpen : undefined}
               >
-                <div className="grid grid-cols-[minmax(0,1fr)_auto_auto] gap-x-3 gap-y-1">
-                  <h3 className="truncate text-[1.25rem] font-[760] leading-tight text-[var(--text-primary)]">
-                    {event.eventName}
-                  </h3>
-                  <span className="type-card-title truncate text-[var(--text-secondary)]">
-                    {getTournamentTypeLabel(event.eventType)}
-                  </span>
-                  <StatusBadge
-                    className={cn(
-                      'justify-self-end px-3 py-1.5 text-base font-extrabold ring-1',
-                      recordToneClass
-                    )}
-                  >
-                    {eventRecord}
-                  </StatusBadge>
-                  <DeckIdentity
-                    name={event.deck}
-                    spriteSource={
-                      eventDeck?.variant || eventDeck?.archetype || event.deck
-                    }
-                    size="standard"
-                    maxSprites={2}
-                    className="type-card-title text-[var(--text-secondary)]"
-                  />
-                  <span className="type-metadata truncate text-[var(--text-muted)]">
-                    {eventDeck?.archetype || eventDeck?.variant || 'Other'}
-                  </span>
-                  <span className="type-metadata justify-self-end text-[var(--text-muted)]">
-                    {event.format}
-                  </span>
+                <div className="grid grid-cols-[minmax(0,1fr)_auto] items-center gap-x-2 gap-y-1">
+                  <div className="min-w-0">
+                    <h3 className="truncate text-[1.25rem] font-[760] leading-tight text-[var(--text-primary)]">
+                      {event.eventName}
+                    </h3>
+                    <span className="type-metadata mt-1 block truncate text-[var(--text-muted)]">
+                      {getTournamentTypeLabel(event.eventType)} &middot; {event.format}
+                    </span>
+                  </div>
+                  <div className="flex shrink-0 items-center gap-1.5">
+                    <StatusBadge className={cn('whitespace-nowrap px-2.5 py-1 text-sm font-extrabold ring-1', recordToneClass)}>
+                      {eventRecord}
+                    </StatusBadge>
+                    <DeckIdentity
+                      name=""
+                      spriteSource={eventDeck?.variant || eventDeck?.archetype || event.deck}
+                      size="standard"
+                      maxSprites={3}
+                      showLabel={false}
+                      className="shrink-0"
+                    />
+                  </div>
                   {isFinalized && (
-                    <span className="type-metadata col-span-3 mt-1 flex items-center justify-between rounded-2xl border border-white/10 bg-white/[0.035] px-3 py-2 text-[var(--text-secondary)]">
+                    <span className="type-metadata col-span-2 mt-1 flex items-center justify-between rounded-2xl border border-white/10 bg-white/[0.035] px-3 py-2 text-[var(--text-secondary)]">
                       Event Summary
                       <DisclosureAction
                         open={finalDetailsOpen}
@@ -284,7 +276,7 @@ export default function EventHistoryCard({
                     </span>
                   )}
                   {isFinalized && finalDetailsOpen && (
-                    <span className="col-span-3 mt-1 grid grid-cols-2 gap-2 rounded-2xl border border-white/10 bg-white/[0.035] p-3">
+                    <span className="col-span-2 mt-1 grid grid-cols-2 gap-2 rounded-2xl border border-white/10 bg-white/[0.035] p-3">
                       <span>
                         <span className="type-metadata block text-[var(--text-muted)]">
                           Placement

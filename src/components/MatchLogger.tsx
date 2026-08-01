@@ -473,6 +473,7 @@ export default function MatchLogger({
           onOpen={setActiveSection}
         >
           <SegmentedControl
+            ariaLabel="Match format"
             value={matchType}
             onChange={(nextMatchType) => {
               setMatchType(nextMatchType)

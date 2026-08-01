@@ -59,6 +59,7 @@ export default function ExpectedMetaEditor({
       </Button>
 
       <SegmentedControl
+        ariaLabel="Expected meta input unit"
         value={metaInputMode}
         onChange={setMetaInputMode}
         options={[

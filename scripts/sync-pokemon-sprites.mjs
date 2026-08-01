@@ -5,6 +5,7 @@ import {
   rmSync,
   writeFileSync,
 } from 'node:fs'
+import { normalizeSpriteBuffer } from './lib/sprite-normalization.mjs'
 import path from 'node:path'
 
 const root = process.cwd()
@@ -134,7 +135,7 @@ const substituteResponse = await fetchWithRetry(substituteSpriteUrl)
 if (!substituteResponse.ok) throw new Error(`Substitute sprite download failed: ${substituteResponse.status}`)
 writeFileSync(
   path.join(temporaryOutputRoot, 'substitute.png'),
-  Buffer.from(await substituteResponse.arrayBuffer())
+  await normalizeSpriteBuffer(Buffer.from(await substituteResponse.arrayBuffer()))
 )
 const pokemon = {}
 for (const slug of [...required].sort()) {
@@ -152,7 +153,10 @@ for (const slug of [...required].sort()) {
   const spriteResponse = await fetchWithRetry(spriteUrl)
   if (!spriteResponse.ok) throw new Error(`Sprite download failed for ${slug}`)
   const fileName = `${slug}.png`
-  writeFileSync(path.join(temporaryOutputRoot, fileName), Buffer.from(await spriteResponse.arrayBuffer()))
+  writeFileSync(
+    path.join(temporaryOutputRoot, fileName),
+    await normalizeSpriteBuffer(Buffer.from(await spriteResponse.arrayBuffer()))
+  )
   pokemon[slug] = {
     id: record.id,
     name: record.name,

@@ -17,6 +17,7 @@ import {
 import EventHistoryCard from './match-history/EventHistoryCard'
 import DeckIdentity from './DeckIdentity'
 import DeckSelectField from './DeckSelectField'
+import { CloseIcon } from './NavIcons'
 import { CURRENT_FORMAT_OPTIONS, currentStandardFormat } from '@/utils/current-format'
 import {
   TOURNAMENT_TYPE_OPTIONS,
@@ -224,7 +225,7 @@ export default function MatchHistory({
       playerCount: String(eventData.playerCount ?? ''),
       round: eventData.nextRound,
       opponentDeck: '',
-      matchType: 'BO3',
+      matchType: 'BO1',
       games: [],
       gameStarts: [],
       diceRollWins: [],
@@ -605,7 +606,8 @@ export default function MatchHistory({
       <Sheet
         open={Boolean(roundDraft)}
         onClose={closeRoundSheet}
-        ariaLabel="new round"
+        ariaLabelledBy="round-sheet-title"
+        closeLabel={roundDraft ? `Close Round ${roundDraft.round}` : 'Close round'}
         className="ios-modal-scroll items-start overflow-y-auto px-4 pb-[calc(1rem+env(safe-area-inset-bottom))] pt-[calc(5.75rem+env(safe-area-inset-top))]"
         contentClassName="mb-auto overflow-hidden rounded-[26px] p-0"
       >
@@ -617,9 +619,12 @@ export default function MatchHistory({
                 : ''
             }`}
           >
-            <h3 className="type-section-title text-[var(--text-primary)]">
-              Round {roundDraft.round}
-            </h3>
+            <div className="flex items-center gap-2">
+              <button type="button" onClick={closeRoundSheet} aria-label={`Close Round ${roundDraft.round}`} className="motion-press -ml-2 inline-flex min-h-11 min-w-11 items-center justify-center rounded-full text-[var(--text-secondary)] hover:bg-white/8 hover:text-[var(--text-primary)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--focus-ring)]">
+                <CloseIcon className="h-5 w-5" />
+              </button>
+              <h3 id="round-sheet-title" className="type-section-title text-[var(--text-primary)]">Round {roundDraft.round}</h3>
+            </div>
             <p className="type-metadata mt-1 text-[var(--text-muted)]">
               {roundDraft.eventName}
             </p>
@@ -666,52 +671,10 @@ export default function MatchHistory({
               </div>
               )}
 
-              <div>
-                <p className="type-metadata mb-2 text-[var(--text-muted)]">
-                  Alternate outcome
-                </p>
-                <div className="grid grid-cols-3 gap-2">
-                  {([
-                    ['intentionalDraw', 'ID'],
-                    ['noShow', 'No Show'],
-                    ['bye', 'Bye'],
-                  ] as const).map(([value, label]) => (
-                    <Button
-                      key={value}
-                      onClick={() =>
-                        setRoundDraft({
-                          ...roundDraft,
-                          alternateOutcome:
-                            roundDraft.alternateOutcome === value
-                              ? undefined
-                              : value,
-                          opponentDeck:
-                            value === 'bye' ? '' : roundDraft.opponentDeck,
-                          games: [],
-                          gameStarts: [],
-                          diceRollWins: [],
-                        })
-                      }
-                      tone={
-                        roundDraft.alternateOutcome === value
-                          ? 'primary'
-                          : 'secondary'
-                      }
-                      aria-pressed={roundDraft.alternateOutcome === value}
-                      className="min-h-11 px-2 text-sm"
-                    >
-                      {label}
-                    </Button>
-                  ))}
-                </div>
-                <p className="type-helper mt-2 text-[var(--text-muted)]">
-                  These complete the round without recording game results.
-                </p>
-              </div>
-
               {!roundDraft.alternateOutcome && (
               <>
               <SegmentedControl
+                ariaLabel="Match format"
                 value={roundDraft.matchType}
                 onChange={updateRoundMatchType}
                 options={[
@@ -819,6 +782,49 @@ export default function MatchHistory({
               </div>
               </>
               )}
+              <div>
+
+                <p className="type-metadata mb-2 text-[var(--text-muted)]">
+                  Alternate outcome
+                </p>
+                <div className="grid grid-cols-3 gap-2">
+                  {([
+                    ['intentionalDraw', 'ID'],
+                    ['noShow', 'No Show'],
+                    ['bye', 'Bye'],
+                  ] as const).map(([value, label]) => (
+                    <Button
+                      key={value}
+                      onClick={() =>
+                        setRoundDraft({
+                          ...roundDraft,
+                          alternateOutcome:
+                            roundDraft.alternateOutcome === value
+                              ? undefined
+                              : value,
+                          opponentDeck:
+                            value === 'bye' ? '' : roundDraft.opponentDeck,
+                          games: [],
+                          gameStarts: [],
+                          diceRollWins: [],
+                        })
+                      }
+                      tone={
+                        roundDraft.alternateOutcome === value
+                          ? 'primary'
+                          : 'secondary'
+                      }
+                      aria-pressed={roundDraft.alternateOutcome === value}
+                      className="min-h-11 px-2 text-sm"
+                    >
+                      {label}
+                    </Button>
+                  ))}
+                </div>
+                <p className="type-helper mt-2 text-[var(--text-muted)]">
+                  These complete the round without recording game results.
+                </p>
+              </div>
 
               <TextareaField
                 value={roundDraft.notes}
